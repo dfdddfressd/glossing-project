@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bak’arizi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bak’arizi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Zamanaƛ’azay bak’arizin boqno ʕagarłisno, ʕaƛosno ʕoloqbin bayn, reƛ’ibin ricin bexuranixƛin bižiƛ’oräy užä eƛin, mežur šebintow riynč’ey šida eli bexura bižix.
+Gloss: time-SUPER.ABL.DIST gathering-TOP III-become-PFV.CVB relatives-GEN1-and village-GEN1-and young.person-PL-TOP III-come-PFV.CVB hand-PL-TOP IV.PL-tie-PFV.CVB I.PL-kill-MSD-AD.ESS-QUOT I.PL-take.out-SIM.CVB boy-ERG say-PST.UNW you(I).PL.OBL-LAT thing-EMPH IV-know-NEG.PST.CVB why we I.PL-kill-INF I.PL-take.out-PRS
+Translation: After some time, the young persons from the relatives and the village came together, bandaged their hands and while they took them out to kill them, the boy said: "Why are you taking us out to kill us without knowing anything?!

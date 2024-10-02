@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word k’eč’olin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word k’eč’olin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hoka k’eč’oli badiru raładyołäy madaħor besurobi raqruyä raq’ˤuƛin”.
+Gloss: carriage-IN.ESS foal III-do-PST.PRT sea-CONT.ABL outside fish-PL III.PL-become-PST.PRT-Q III.PL-much-QUOT
+Translation: "Is it really that much (of a surprise) fish came out of the sea, than a foal was born on the carriage?"
+Sentence: Xanä dowqor neti deber raładyołäy besurobi madaħor roqno rukadäƛin eƛinosi, mi eƛo, qaciz hoka k’eč’oli boyzaƛ’, raładyołäy besurobi madaħor raqruyä raq’ˤuƛin”.
+Gloss: khan-ERG you-POSS.LAT when you-LAT sea-CONT.ABL fish-PL outside III.PL-become-PFV.CVB III.PL-see-PST.WIT.INT-QUOT say-ANT.CVB you say-IMPR firewood-GEN2 carriage-IN.ESS foal III-do-CSL.CVB sea-CONT.ABL fish-PL outside III.PL-become-PST.PRT-Q III.PL-much-QUOT
+Translation: After the king said to you: "When did you saw fish coming out of the sea?", say that because the foal was born on the wooden carriage, is it more (of a surprise) for fish to come out of the sea?
+Sentence: Siryos bet’erhanesno, hokožek’usno k’eč’oliƛäy bitor q’ecen boqno:
+Gloss: mare-GEN1 master-GEN1-and coachman-GEN1-and foal-SUB.ABL thither argument I.PL-become-PST.UNW
+Translation: An argument over the foal arose between the mare's master's and the coachman:

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word c’oxno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word c’oxno: 
+
+Exact Matches
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Sidä his xuxix zown, sis ek’anił c’oxno, ɣoq’ˤot’aniza butnin, xaličabin rodin.
+Gloss: one.OBL-ERG spring.wool comb-IPFV.CVB be.NPRS-PFV.CVB one spin-MSD-CONT.ESS hit-PFV.CVB other-DISTR-DEF-PL-ERG burka-and mat-PL-and IV-do-PST.UNW
+Translation: One was combing the wool, one was hitting it to spin, the others made the burka and mats.
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+
+Approximate Matches:
+Sentence: Xizyogon oƛƛosini uži łic’oxno, debi baru yoł, yedu di yowa yayƛin.
+Gloss: then middle-ATTR-DEF son intervene-PST.UNW you-GEN1 wife be DEM2.IISG me II-marry-INF II-must-QUOT
+Translation: Then the middle son intevened: "You have a wife, I have to marry her!"
+Sentence: Elo q’orolay dandir c’oxnosi, nełaq esirno, debi uži ukayxanuwa na ža yołƛin.
+Gloss: there widow towards meet-ANT.CVB DEM1.IISG.OBL-POSS.ESS ask-PST.UNW you-GEN1 son see-IPFV.CVB-NEG-Q where DEM1.SG be-QUOT
+Translation: When they met the widow there, they asked her: "We can't see your son, where is he?"
+Sentence: Žan hemedurtow mat’i boɣa c’oxnosi, zira eƛin:
+Gloss: DEM1.SG-TOP so-EMPH duck III-take.away-INF meet-ANT.CVB fox-ERG say-PST.UNW
+Translation: And he also came to take away the duck, so the fox said:

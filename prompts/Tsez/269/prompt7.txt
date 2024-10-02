@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word gonda in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word gonda: 
+
+Exact Matches
+Sentence: Sisxoli ciqqo ƛäxuru kidbä ɣunoz gonda teł sasaqorsi ɣudi qˤaširno.
+Gloss: alone forest-POSS.ESS remain-PST.PRT girl-ERG tree-GEN2 big.hole-IN.ESS inside tomorrow-POSS.LAT-ATTR day dawn-PST.UNW
+Translation: The girl who stayed in the forest alone [VERB] inside a hole in a tree, then the next day started to dawn.
+Sentence: Yizä izirinč’izaƛ’, bełiqan ƛ’iyor, gonda tełxortow, ik’in.
+Gloss: DEM2.IPL.OBL-ERG lift-NEG.FUT-CSL.CVB hunter downwards big.hole-IN.ESS inside-AD.LAT-EMPH go-PST.UNW
+Translation: Because they didn't lift him up, the hunter went downwards into the hole.
+
+Approximate Matches:
+Sentence: Maħor boqanƛin zawru yedu, gondaz beginč’ey howlotow ƛexun.
+Gloss: outside III-become-FUT.DEF-QUOT be.NPRS-PST.PRT DEM2.IISG big.hole-IN.ESS.DIST III-go.into-NEG.PST.CVB there-EMPH remain-PST.UNW
+Translation: He wanted to get out, couldn't get through the hole and stayed there.
+Sentence: Hunix ik’iƛ’oräy, hič’č’a adäza ža sida gondaƛ’or keze oqno.
+Gloss: way-AD.ESS go-SIM.CVB the.most ahead DEM1.SG one.OBL big.hole-SUPER.LAT meet become-PST.UNW
+Translation: While he was going on his way, he came to a hole in front of him
+Sentence: Sasaqosi maħor oqƛ’oräy, eɣeni esiw gondaɣor ʕoƛ’un.
+Gloss: in.the.morning outside become-SIM.CVB young-DEF brother big.hole-IN.VERS fall-PST.UNW
+Translation: In the morning when he went outside, the young brother fell into the hole.

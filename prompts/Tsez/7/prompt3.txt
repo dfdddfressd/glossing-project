@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: iynč’ey using Leipzig glossing symbols. The sentence this word is drawn from means: "And a black man riding on a black horse who came out of who-knows-where stole the princess' clothes, carried them away and sat down under a tree.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": iynč’ey
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word iynč’ey:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mi iynč’ey nesił xizazarno ik’in, riqirno łox kikibi ƛiso, mi dey uži yołƛin eƛace.
+Gloss: you know-NEG.PST.CVB DEM1.ISG.OBL-CONT.ESS from.behind-IN.LAT-TOP go-PFV.CVB III.PL-catch-PFV.CVB thrice breast-PL pull-IMPR you me-GEN1 son be-QUOT say-TERM
+Translation: Go to him from behind without him knowing, catch his breasts and pull them three times until he says "You are my son"!"
+Sentence: Walla xan, di ša bodanix k’udi q’uq’iƛ’orey, elo šet’u butäsi hadambi boqzaƛ’, aqˤu kuča maħorno oqa iynč’ey howlo tełer kučis.
+Gloss: wallah khan me wine III-do-MSD-AD.ESS vine press.out-SIM.CVB there around III-turn.back-RES.PRT people III-happen-CSL.CVB urine defecate-INF outside-TOP become-INF know-NEG.PST.UNW there into defecate-PST.WIT
+Translation: "By God, o king, while I was pressing out the grapes to make the wine, there were people who were walking around there and without me knowing took a piss in there."
+Sentence: Nazay eƛa iynč’ey ayn dibirä yiłaƛ’ mahar erno.
+Gloss: from.where say-INF know-NEG.PST.CVB come-PFV.CVB imam-ERG DEM2.IISG.OBL-SUPER.ESS wedding set.up-PST.UNW
+Translation: Unknown from where there came an imam and set up the wedding for them.
+
+Approximate Matches:
+Sentence: Q’orolay žaz idurno yik’in, nesir yiynč’ey neširu ža kecxozo taxeƛno yuqˤełno, ʕenekizi yoqno yičin.
+Gloss: widow boy-GEN2 home-LAT-and II-go-PST.UNW DEM1.ISG.OBL-LAT II-know-NEG.PST.UNW at.night DEM1.SG sleep-PRS.PRT.OBL bed-SUB.ESS-TOP II-hide-PST.UNW listen II-become-PFV.CVB II-be-PST.UNW
+Translation: The widow went to the boy's home, without him knowing, and at night hid under his bed while he was sleeping, and listened.
+Sentence: Ik’in nełaq reƛ’iqoy rukarnosi, didiw ža yałru sosisi riynč’ey neła eƛin:
+Gloss: go-PFV.CVB DEM1.IISG.OBL-POSS.ESS glove IV-show-ANT.CVB which DEM1.SG be-PST.PRT at.first-ATTR IV-know-NEG.PST.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: He went and showed her the glove, and at first, when she didn't know what kind of glove this was, she said:
+Sentence: Radiru rigłin riynč’ey, bežet’ani esnaza daʕba bodin, hič’č’a bercinaw kid deber šida yiča yayxƛin.
+Gloss: IV-do-PST.PRT IV-good-CNC.CVB IV-know-NEG.PST.CVB I.PL-old-DISTR-DEF brother-PL-ERG dispute III-do-PFV.CVB the.most beautiful girl you-LAT why II-be-INF II-must-PRS-QUOT
+Translation: The other brothers didn't know what good he had done, and began to argue: "Why must the most beautiful girl be for you?"

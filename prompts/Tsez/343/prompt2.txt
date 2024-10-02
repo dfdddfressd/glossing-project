@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iqirxoƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iqirxoƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Aluk’ani biqirxoƛin zawru yeda yisis reƛ’a qˤabaniƛ’ č’aq’ˤin.
+Gloss: white-DEF III-win-IPFV.CVB-QUOT be.NPRS-PST.PRT DEM2.ISG DEM2.ISG.OBL-GEN1 hand black-DEF-SUPER.ESS hit-PST.UNW
+Translation: When he was catching the white one, his hand touched the black one.

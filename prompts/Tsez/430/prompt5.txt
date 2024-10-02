@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kinawtow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kinawtow: 
+
+Exact Matches
+Sentence: Paxrudinno zown, nesisno kinawtow bˤeƛ’ rexun räsuƛin.
+Gloss: Pakhrudin-TOP be.NPRS-PST.UNW DEM1.ISG.OBL-GEN1-and entire-EMPH sheep III.PL-die-PFV.CVB IV-find-QUOT
+Translation: Pakhrudin thought that also all of his sheep must have died.
+
+Approximate Matches:
+Sentence: Xizyo nesä kinaw raqru šebinon esin, xaner nesäq nesä łi ħaƛuxosini t’akan yetinƛin esirno.
+Gloss: afterwards DEM1.ISG.OBL-ERG entire IV-happen-PST.PRT something tell-PFV.CVB khan-LAT DEM1.ISG.OBL-ERG-POSS.ESS DEM1.ISG.OBL-ERG water drink-PRS.PRT-DEF glass II-want-PFV.CVB-QUOT ask-PST.UNW
+Translation: Afterwards, he told everything that happened and the king asked for the water-drinking-glass that he wanted.
+Sentence: Bełiqanza bayn bišʷa esirnosi, nesä raqru šebin esin, hemedur mamalayƛ’no zown, ruk’ice mešok’la yołäsi t’omce žek’un ayn, kinaw mežur radiru bišʷan rac’no ik’isƛin.
+Gloss: hunter-PL-ERG I.PL-come-PFV.CVB food ask-ANT.CVB DEM1.ISG.OBL-ERG IV-happen-PST.PRT thing tell-PST.UNW so rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT span-EQU1 man-TOP come-PFV.CVB entire you(I).PL.OBL-LAT IV-do-PST.PRT food-TOP IV-eat-PFV.CVB go-PST.WIT-QUOT
+Translation: When the hunters came and asked for food, he told what had happened: "So on a rooster came riding a man in the size of a span, with a moustache in the size of a cubit, ate up the entire food that I made for you, and went away."
+Sentence: Hudayzikotow bertenno bodin, miskinaw oqłin ʕaq’ilawni žax nesi žek’a äƛiruxor, kidno yegirno.
+Gloss: the.next.day-EMPH marriage-TOP III-do-PFV.CVB poor become-CNC.CVB intelligent-DEF boy-AD.ESS DEM1.ISG.OBL man-ERG ORD-AD.LAT girl-TOP II-send-PST.UNW
+Translation: The next day the wedding was arranged and the girl was - as this man had told - married off to the intelligent though poor boy.

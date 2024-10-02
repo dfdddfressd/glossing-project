@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: koƛ’ixosiya.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": koƛ’ixosiya
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word koƛ’ixosiya:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elo bertenyoł žedur imadu esa koƛ’ixosi žek’utow iqinanu.
+Gloss: there marriage-CONT.ESS DEM1.IPL.OBL-LAT tale tell-INF understand.to-PRS.PRT man-EMPH get-PFV.CVB-NEG
+Translation: They couldn't get a man there on the wedding, who could tell tales [to them?].
+Sentence: Žan risno iduɣor ik’iƛ’orey, xizayn bayn neł bikorä esirno, deber ža ħiƛ’oqu reynoyrakin koƛ’ixosi yołäƛin.
+Gloss: DEM1.SG-TOP IV-take-PFV.CVB home-IN.ALL go-SIM.CVB from.behind-TOP III-come-PFV.CVB DEM1.IISG.OBL snake-ERG ask-PST.UNW you-LAT DEM1.SG handkerchief IV-work-CAUS-INF-even understand.to-PRS.PRT be-Q-QUOT
+Translation: And he took it and while he was going home, that snake followed him and asked: "Do you know how to get this handkerchief to work?"

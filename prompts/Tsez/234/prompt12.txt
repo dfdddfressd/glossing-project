@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word aynanu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word aynanu: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nełƛ’ay soder babiwz šudaƛ’or siskin baynanu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after father-GEN2 graveyard-SUPER.LAT anyone I.PL-come-PFV.CVB-NEG
+Translation: After that, no one came to the father's graveyard anymore.
+Sentence: Neširaɣor xizyo yiłaq ʕaƛoxor dahaw taraw posu raynanu.
+Gloss: evening-IN.VERS after DEM2.IISG.OBL-POSS.ESS village-AD.LAT a.little except.for cattle IV-come-PFV.CVB-NEG
+Translation: After it got evening, only some of the cattle came back to the village with her.
+Sentence: Tawadä bigza ħalał xal bodinosi, elo nesir sosi ozuri c’oxno yätiruni kid yukaynanu.
+Gloss: Tavadi-ERG III-much-ZA strength-CONT.ESS examination III-do-ANT.CVB there DEM1.ISG.OBL-LAT at.first eye meet-PFV.CVB II-love-PST.PRT-DEF girl II-see-PFV.CVB-NEG
+Translation: When Tavadi looked intently, he didn't see a girl that he fell in love with at first sight.

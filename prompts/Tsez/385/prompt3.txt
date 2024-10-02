@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word naysinan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word naysinan: 
+
+Exact Matches
+Sentence: Xanzo barus naysinan ci rik’inƛax ɣˤʷays k’ucin, k’et’us xexoyn neła ƛuƛin rodinƛin.
+Gloss: khan-GEN2 wife-GEN1 everywhere name IV-go-PST.UNW-QUOT dog-GEN1 puppy-and cat-GEN1 young.animal-and DEM1.IISG.OBL-ERG give.birth-PFV.CVB III.PL-do-PST.UNW-QUOT
+Translation: The king's wife became known everywhere for the fact that she gave birth to a puppy and a kitten.
+Sentence: Xizyogon hemesitow bečedawni žek’a naysinan xabar begirno, dey kid yeynodaniƛ’or ruhun yayru žek’ux yegira yołƛin.
+Gloss: then DEM4.ISG.OBL-EMPH wealthy-DEF man-ERG everywhere story III-let-PFV.CVB me-GEN1 daughter II-work-MSD-SUPER.LAT teach II-do-PST.PRT man-AD.ESS II-send-INF be-QUOT
+Translation: Then that very same rich man spread the story everywhere, that he would marry his daughter off to the man who would teach her how to work.
+Sentence: Xanes uži yisä akiłno q’ˤidar ʕoƛ’ace naysinan kerozaq ezu-ʕaƛ’urno, amma ƛ’irizoni ɣˤutkaɣor ezura ižinanu yisä yeda.
+Gloss: khan-GEN1 son DEM2.ISG.OBL-ERG get.tired-PFV.CVB down-LAT fall-TERM everywhere ravine-PL-POSS.ESS examine-CAUS-PFV.CVB but above-ATTR.OBL-DEF room-IN.VERS show-INF lead-PFV.CVB-NEG DEM2.ISG.OBL-ERG DEM2.ISG
+Translation: He lead him through the ravines and showed him everything until he got tired and fell down, but he didn't lead him to show him the room above.
+
+Approximate Matches:
+Sentence: Naysinan k’edinosi, aɣˤuz kobora uqˤłäsi Q’arum esun.
+Gloss: everywhere search-ANT.CVB mill-GEN2 granary-IN.ESS hide-RES.PRT Qarum find-PST.UNW
+Translation: After they had searched everywhere, they found Qarum hiding in the mill's granary.
+Sentence: Naysinan ža qˤirič’ k’edixozos riłen rodin, xizaɣor Bilq’isdiz mežiƛäzay risno xanqor teƛno, ele debez gulus maħi räč’runi qˤirič’ƛin.
+Gloss: everywhere DEM1.SG scissors search-PRS.PRT.OBL-GEN1 IV-as-TOP IV-do-PFV.CVB finally Bilqisdi-GEN2 mattress-SUB.ABL.DIST IV-take-PFV.CVB khan-POSS.LAT give-PFV.CVB here you-GEN2 horse-GEN1 tail IV-cut-PST.PRT-DEF scissors-QUOT
+Translation: He pretended to search for the scissors everywhere and finally took it from under Bilqisdi's mattress and gave it to the king: "Here, the scissors which cut off your horses tail."
+Sentence: Naysinan nesider bayx zown: beɣen, bežen, miskinawnin bečedawnin.
+Gloss: everywhere DEM1.ISG.OBL-APUD.LAT III-come-PRS be.NPRS-PFV.CVB III-young-TOP III-old-TOP poor-DEF-TOP wealthy-DEF-TOP
+Translation: All people came to him: young and old, poor and wealthy.

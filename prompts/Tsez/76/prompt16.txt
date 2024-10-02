@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rayƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rayƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rayƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bäxuruni tungił xizay yedu ʕiyayxƛin xalq’imozgon rok’ƛ’orno rayƛin.
+Gloss: III-die-PST.PRT-DEF copper.jug-CONT.ESS behind DEM2.IISG cry-PRS-QUOT people-GEN2-CNTR heart-SUPER.LAT-TOP IV-come-QUOT
+Translation: And the people will think that you're crying for the broken jug."
+Sentence: Idur aynosi, yisä Paxrudinqor eƛin, bˤeƛ’ hohomłix ocä xeca rayƛin.
+Gloss: home-LAT come-ANT.CVB DEM2.ISG.OBL-ERG Pakhrudin-POSS.LAT say-PST.UNW sheep chilliness-AD.ESS threshing.floor-IN.ESS leave-INF III.PL-must-QUOT
+Translation: When he came home, he said to Pakhrudin: "The sheep must be left on the threshing floor in the cool air."
+
+Approximate Matches:
+Sentence: Moƛaxay žan č’arik’no, nesä eƛin, di malaik yoł, asatow maharno erno, mi yowanix nexäsi t’aɣor, neširu di dowde puħo keca ayƛin.
+Gloss: sleep-AD.ABL DEM1.SG-TOP wake.up-PFV.CVB DEM1.ISG.OBL-ERG say-PST.UNW me angel be sky-IN.ESS-EMPH wedding-TOP set.up-PFV.CVB you II-marry-MSD-AD.ESS come-RES.PRT here-IN.VERS at.night me you-APUD.ESS next.to sleep-INF must-QUOT
+Translation: He woke her up from her sleep and said: "I am an angel, I will arange a wedding in the heavens for I have come here to marry you; I must sleep next to you at night."
+Sentence: Xizyogon oƛƛosini uži łic’oxno, debi baru yoł, yedu di yowa yayƛin.
+Gloss: then middle-ATTR-DEF son intervene-PST.UNW you-GEN1 wife be DEM2.IISG me II-marry-INF II-must-QUOT
+Translation: Then the middle son intevened: "You have a wife, I have to marry her!"
+Sentence: Užä žawab teƛno, meža neła quł däz raɣä režigon raq’ˤu rešoni roys yołi ƛuzabin čˤaƛin, režigon raq’ˤu his räqi där bazaryayƛin.
+Gloss: boy-ERG answer give-PST.UNW you(I).PL.OBL-ERG DEM1.IISG.OBL day-CONT.ESS me-GEN2 veranda-IN.ESS IV-more-CNTR IV-much garbage IV-do-PST.WIT if bone-PL-TOP throw-PFV.CVB IV-more-CNTR IV-much spring.wool IV-get me-LAT bazar-IN.ABL-QUOT
+Translation: The boy answered: "If you had produced more garbage and threw the bones onto my veranda that day, I would've got much more wool from the market."

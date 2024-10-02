@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yałrułisno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yałrułisno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neła qaciz ruk’uqorno icin iħułxor kurxosi yałrułin čuqˤno, ža qˤaƛanada oqno, di ža uži anu, di bˤeƛ’xosi aħo yołƛin.
+Gloss: DEM1.IISG.OBL firewood-GEN2 bundle-POSS.LAT-TOP tie-PFV.CVB river-CONT.VERS throw-PRS.PRT be-PST.PRT-NMLZ-and notice-PFV.CVB DEM1.SG yell-INF begin-PST.UNW me DEM1.SG boy be.NEG me sheep-AD.ESS-ATTR shepherd be-QUOT
+Translation: They tied him to that bundle of wood and when he noticed that they were about to throw him into the river, he started yelling: "I am not the boy, I am a shepherd with a flock of sheep!"
+Sentence: Ža kid nesä yižixosi yałrułi Tawadir riyx zownanu.
+Gloss: DEM1.SG girl DEM1.ISG.OBL-ERG II-lead-PRS.PRT be-MSD Tavadi-LAT IV-know-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: Tavadi didn't know that this girl was the one he was going to marry.
+Sentence: Ža ɣˤanabi yałrułi žedurno yiynanu.
+Gloss: DEM1.SG woman be-MSD DEM1.IPL.OBL-LAT-TOP II-know-PFV.CVB-NEG
+Translation: And they didn't know that she was a woman.

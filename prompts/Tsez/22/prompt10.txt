@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: dibir.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": dibir
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word dibir:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida quł bet’erhanno bet’erhanes užin ƛˤoreł bik’inosi, yiła neł ʕaƛos dibir iduɣor goƛ’in.
+Gloss: one.OBL day-CONT.ESS master-and master-GEN1 son-and war-CONT.ESS I.PL-go-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL village-GEN1 imam home-IN.ALL invite-PST.UNW
+Translation: One day, when the master and the master's son went to war, she invited the village's imam to their home.
+Sentence: Didurnokin ħal bayxanusi biyzaƛ’, kidbä siħirno yoqno dibir šeƛ’u roɣa egirno.
+Gloss: how-TOP-even trouble III-come-NEG.PRS.PRT III-know-CSL.CVB girl-ERG sly.person-TOP II-become-PFV.CVB imam clothing IV-take.away-INF let-PST.UNW
+Translation: When she knew he had no trouble [following her], the girl became a sly person and let the imam take off his clothes.
+Sentence: C’odorawnä esirno, eleley dibir, debez baruq maħi zowwäƛin.
+Gloss: clever-DEF-ERG ask-PST.UNW behold mullah you-GEN2 wife-POSS.ESS tail be.NPRS-PST.WIT.Q-QUOT
+Translation: The clever one asked: "Lo and behold, mullah, did your wife have a tail?"
+
+Approximate Matches:
+Sentence: ʕAƛoxor aynosigon dibirno goƛ’in, maharno erno, ixiw bertenno bodin.
+Gloss: village-AD.LAT come-ANT.CVB-CNTR imam-TOP call-PFV.CVB wedding-TOP put-PFV.CVB big marriage-TOP III-do-PST.UNW
+Translation: When he came into he village, he called the imam, organized a wedding and threw a big marriage.
+Sentence: C’odorawni esiya ʕantawni esiw ukrun, micxirno rasada q’ilimoł xizay dibirder egirno.
+Gloss: clever-DEF brother-ERG stupid-DEF brother silver-and money-and III.PL-measure-INF qili-CONT.ESS behind mullah-APUD.LAT send-PST.UNW
+Translation: The clever brother sent his stupid brother to the mullah for qilis to measure the amount of silver and money.
+Sentence: Yisiq riyrno, dibirqor mi äƛino, ukrun, micxirno rasadanix q’ili betinƛin, mi eƛo at’ rasadanix betinƛin.
+Gloss: DEM2.ISG.OBL-POSS.ESS IV-explain-PST.UNW mullah-POSS.LAT you say-PROHIB silver-and money-and III.PL-measure-MSD-AD.ESS qili III-want-PST.UNW-QUOT you say-IMPR wheat IV-measure-MSD-AD.ESS III-want-PST.UNW-QUOT
+Translation: He explained to him: "Don't tell the mullah that we want the qilis to measure silver and money, but tell him that we want the qilis to measure wheat!"

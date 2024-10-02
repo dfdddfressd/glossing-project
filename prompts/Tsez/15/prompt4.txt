@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: qaciƛ’or.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": qaciƛ’or
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word qaciƛ’or:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełquł sasaq č’ˤurqotow bizin onoču qaciƛ’or bik’in.
+Gloss: on.that.day tomorrow in.the.morning-EMPH III-get.up-PFV.CVB hen firewood-SUPER.LAT III-go-PST.UNW
+Translation: The next day, in the early morning, the hen got up and went after firewood.
+Sentence: Mamalay ɣudes ciqaɣor qaciƛ’or bik’ix zown, onoču iduza beynoyx, iduzasi royx bičix zown.
+Gloss: rooster daily forest-IN.VERS firewood-SUPER.LAT III-go-IPFV.CVB be.NPRS-PFV.CVB hen home-ZA III-work-IPFV.CVB home-ZA-ATTR IV-do-PRS III-be-PRS be.NPRS-PST.UNW
+Translation: Every day the rooster went into the forest for firewood, and the hen was at home doing the housework.
+Sentence: Nedur resunäyƛin, - eƛin onoča, - sasaq qaciƛ’or di bik’a yołƛin”.
+Gloss: so IV-exist-CND.CVB-QUOT - say-PST.UNW hen-ERG - tomorrow firewood-SUPER.LAT me III-go-INF be-QUOT
+Translation: "If that's the case," said the hen, "I will go after firewood tomorrow."
+
+Approximate Matches:
+Sentence: Esin šebi, xecin šebi, sidaquł ʕomoyn bižin ciqaɣor qaciƛ’orƛin ʕoloqan žek’u ik’äsi zown.
+Gloss: tell-PFV.CVB what leave-PFV.CVB what one.day donkey-TOP III-lead-PFV.CVB forest-IN.VERS firewood-SUPER.LAT-QUOT young man go-RES.PRT be.NPRS-PST.UNW
+Translation: What should I tell, what should I leave; once upon a time a young man went with a donkey into the forest to collect firewood.

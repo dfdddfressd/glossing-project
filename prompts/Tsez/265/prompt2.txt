@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šaharya in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šaharya: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Howži t’o roda šebin anuƛin, ik’in yeda elay ayno sida šaharyar.
+Gloss: now here IV-do-INF thing be.NEG-QUOT go-PFV.CVB DEM2.ISG there-IN.ABL come-PST.UNW one.OBL city-IN.LAT
+Translation: "Now there's nothing I can do", he said, and so he went on from there and came to a city.
+Sentence: Baq’ˤu šaharyasi ʕoloqbi boƛixno di, di ža aždaħ bexursiƛin.
+Gloss: III-much city-IN.ESS-ATTR young.person-PL I.PL-appear-PFV.CVB me me DEM1.SG dragon III-kill-PST.WIT-QUOT
+Translation: Many young men from the city came and claimed they had killed the dragon.
+Sentence: ʕUraw zaman bik’inosi yizi sidaɣ šaharyar bayn.
+Gloss: much time III-go-ANT.CVB DEM2.IPL in.one.place city-IN.LAT I.PL-come-PST.UNW
+Translation: Much time passed by and they came to a city somewhere.

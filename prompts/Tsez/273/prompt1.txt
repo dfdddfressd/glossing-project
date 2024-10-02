@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Nedur in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Nedur: 
+
+Exact Matches
+Sentence: Mi nedurä hudu zownƛin, eƛin Ražbadinä, nedur resunäy, ela sosi debi berten boda yoł, xizyo di baru yowa yołƛin.
+Gloss: you so-Q though be.NPRS-PST.UNW-QUOT say-PST.UNW Razhbadin-ERG so IV-exist-CND.CVB we(I).OBL-ERG at.first you-GEN1 marriage III-do-INF be afterwards me wife II-marry-INF be-QUOT
+Translation: "So that way you are," said Razhbadin, "if that's the case, we will first prepare your wedding and afterwards I will marry my wife."
+Sentence: Mežur beže barkala yoł eli nedur beže boqace käkirus, howži elur mežudäy bik’a retin.
+Gloss: you(I).PL.OBL-LAT III-big thank be we so I.PL-big I.PL-become-TERM feed-PST.PRT-GEN1 now we(I).OBL-LAT you(I).PL.OBL-APUD.ABL I.PL-go-INF IV-want-PST.UNW
+Translation: "Thank you very much for feeding us until we got that big, now we wanted to leave you.
+Sentence: Zira eƛin, nedur resunäy, hawaƛ’osi mi rutir, q’ˤidasi di rutiran.
+Gloss: fox-ERG say-PST.UNW so IV-exist-CND.CVB air-SUPER.ESS-ATTR you IV-gather down-ATTR me IV-gather-FUT.DEF
+Translation: The fox said: "If that's the case, collect what's in the air and I will collect what's on the ground.
+
+Approximate Matches:
+Sentence: Oh, mi nedurä q’urumsaq zownƛin, bizirno bok’nosi, yisägon yedu bečnabi cuciłace raƛ’moƛxor šiširno.
+Gloss: oh you so-Q villain be.NPRS-PST.UNW-QUOT III-lift-PFV.CVB III-beat-ANT.CVB DEM2.ISG.OBL-ERG-CNTR DEM2.IISG knee-PL be.stuck-TERM earth-SUB.LAT stick-PST.UNW
+Translation: "Oh, what villain are you?!", he lifted and beat the dragon into the ground until his knees were stuck.
+Sentence: Mi nedurä hudu zownƛin, eƛin Ražbadinä, nedur resunäy, ela sosi debi berten boda yoł, xizyo di baru yowa yołƛin.
+Gloss: you so-Q though be.NPRS-PST.UNW-QUOT say-PST.UNW Razhbadin-ERG so IV-exist-CND.CVB we(I).OBL-ERG at.first you-GEN1 marriage III-do-INF be afterwards me wife II-marry-INF be-QUOT
+Translation: "So that way you are," said Razhbadin, "if that's the case, we will first prepare your wedding and afterwards I will marry my wife."
+Sentence: Elay bitor boxin bik’ix boc’in axoł šäširuni xarcelid bix kosix, xizazgon et’unč’ey neła kasiruni bix rutirxo din ik’ix zows, neduräy žagon bˤeƛ’än rac’xo zows.
+Gloss: there-IN.ABL thither III-run.away-PFV.CVB III-go-IPFV.CVB wolf-TOP belly-CONT.ESS get.stuck-PST.PRT-DEF scythe-INSTR grass mow-IPFV.CVB behind-CNTR stay.behind-NEG.PST.CVB DEM1.IISG.OBL-ERG mow-PST.PRT-DEF grass IV-gather-IPFV.CVB me-TOP go-IPFV.CVB be.NPRS-PST.WIT so-IN.ABL DEM1.SG-CNTR sheep-ERG-TOP IV-eat-IPFV.CVB be.NPRS-PST.WIT
+Translation: From there the wolf ran away with the scythe being stuck in the belly mowing grass, but I didn't stay behind but went gathering the mowed grass; so the sheep were eating it.

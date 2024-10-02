@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word risanixƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word risanixƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nasin xalq’i bezun ƛexun, sosisi yisanixƛin beč’ułno, nesä baq’ˤu micxir esizaƛ’, ɣamas yisełxosi žek’u oƛixno anu.
+Gloss: all people III-look-PFV.CVB remain-PFV.CVB at.first-ATTR II-buy-MSD-AD.ESS-QUOT III-flow.out-PFV.CVB DEM1.ISG.OBL-ERG III-much money tell-CSL.CVB box II-buy-POT-IPFV.CVB-ATTR man appear-PST.UNW be.NEG
+Translation: All the people came out to look and buy it immediately, but when he said how much money it costs, there was no man who could buy the box.

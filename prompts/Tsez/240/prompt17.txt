@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rayxosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rayxosi: 
+
+Exact Matches
+Sentence: Elay bitor nesir roda rayxosi šebin debertow räyƛin.
+Gloss: there-IN.ABL thither DEM1.ISG.OBL-LAT IV-do-INF IV-must-PRS.PRT thing you-LAT-EMPH IV-know-QUOT
+Translation: And what you have to do to him from then on, you know yourself."
+Sentence: Nesä eƛin, were meži dahaw wˤałer bik’i, bertenyołäy xalq’i maħor roxira rayxosi anu.
+Gloss: DEM1.ISG.OBL-ERG say-PST.UNW well you.PL a.little downward-LAT I.PL-go marriage-CONT.ABL people outside III.PL-chase-INF IV-must-PRS.PRT be.NEG
+Translation: He said: "Well, calm down a little, one must not chase away people from a marriage."
+Sentence: Žek’us roži rayxosi šebin radin t’ok’owƛin”, - eƛin ičin babiw.
+Gloss: man-GEN1 word IV-come-PRS.PRT thing IV-do-PFV.CVB anymore-QUOT - say-PFV.CVB cease-PSTUNW father
+Translation: "Don't do that again, so that other people don't scold you!", the father remained saying.
+
+Approximate Matches:
+Sentence: Xizyo yiła yisiqor eƛin, däqkin šida mi esinč’u, xexbi royxosi ɣˤanabi nedur sisxoli xeca yayxosi anu.
+Gloss: afterwards DEM2.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT say-PST.UNW me-POSS.ESS-even why you tell-NEG.PST.WIT children III.PL-do-IPFV.CVB-ATTR woman so alone leave-INF II-must-IPFV.CVB-ATTR be.NEG
+Translation: Then she said to him: "Why didn't you tell me? One musn't let a woman who gives birth to children so alone.
+Sentence: Kaɣatyoƛ’ rukaräsi zown Tawadä, däz žade sadaq Tiblisä t’et’erxo zawru halmaɣbin bayxosi yołƛin.
+Gloss: letter-SUPER.ESS IV-show-RES.PRT be.NPRS-PFV.CVB Tavadi-ERG me-GEN2 son-APUD.ESS together Tbilisi-IN.ESS learn-IPFV.CVB be.NPRS-PST.PRT friend-PL-TOP I.PL-come-PRS.PRT be-QUOT
+Translation: In the letter it was also pointed out that some friends who were studying together with the son in Tbilisi were coming.
+Sentence: Ža gulu sis čuret’ bak’run hawaƛ’ bik’in, ʕoƛno ħonno xecin bitazar bayxosi zown.
+Gloss: DEM1.SG horse one whip III-beat-IMM.ANT.CVB air-SUPER.ESS III-go-PST.UNW seven mountain-TOP leave-PFV.CVB distance-IN.LAT.DIST III-come-PRS.PRT be.NPRS-PST.UNW
+Translation: This horse went into the air after one beat with the whip, and leaving behind seven mountains, went far into the distance.

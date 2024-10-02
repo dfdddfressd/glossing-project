@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yedan.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yedan
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yedan:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howlo lilyoxtow yedan xecin, xanderno bik’in ziru c’ok’inayn:
+Gloss: there river.bank-AD.ESS-EMPH DEM2.ISG-and leave-PFV.CVB khan-APUD.LAT-and I.PL-go-PFV.CVB fox scold-PST.UNW
+Translation: When they left the river bank there and went to the king, the fox scolded:
+Sentence: Aždaħägon yedan hemedurtow ašuƛayd cucik’no.
+Gloss: dragon-ERG-CNTR DEM2.ISG-TOP so-EMPH waist-SUB.ABL-TERM put-PST.UNW
+Translation: So the dragon put him in up to the waist as well.
+Sentence: Neła ziys reƛno rac’no łiyrno, ħaħno ƛäxuru ƛuzazaq nesis raɣin ric’erno, ʕoƛnon esnabin boqno bik’in, yedan žeda žedudäy et’urno.
+Gloss: DEM1.IISG.OBL cow-GEN1 meat-TOP IV-eat-PFV.CVB finish-PFV.CVB gnaw-PFV.CVB remain-PST.PRT bone-PL-POSS.ESS DEM1.ISG.OBL-GEN1 veranda-TOP IV-fill-PFV.CVB handle-INT brother-PL-TOP I.PL-become-PFV.CVB I.PL-go-PFV.CVB DEM2.ISG-TOP DEM1.IPL.OBL-ERG DEM1.IPL.OBL-APUD.ABL pull.out-PST.UNW
+Translation: After they had eaten up that cow's meat, the brothers left his veranda filled with the gnawed bones and left him behind.
+
+Approximate Matches:
+Sentence: Dowqosi ged där ħažan yetin ʕiyayx yedaƛin”.
+Gloss: you-POSS.ESS-ATTR shirt me-LAT exchange-FUT.DEF II-want-PFV.CVB cry-PRS DEM2.ISG-QUOT
+Translation: "He cries, because he wants that I exchange your dress with mine."
+Sentence: Eženi esiya eɣeniq reƛ’a caƛix kumak nesir boyx zown, yedakin ok’ełxanaƛin.
+Gloss: old-DEF brother-ERG young-DEF-POSS.ESS hand throw-IPFV.CVB help DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT
+Translation: The older brother was helping giving his hand to the younger one, so at least he might escape.
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."

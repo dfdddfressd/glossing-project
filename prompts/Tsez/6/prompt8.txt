@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ižin using Leipzig glossing symbols. The sentence this word is drawn from means: "He immediately led the boy into the upper room to show it to him.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ižin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ižin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyo žedagon ža ižin xaner teƛno.
+Gloss: afterwards DEM1.IIPL.OBL-CNTR DEM1.SG lead-PFV.CVB khan-LAT give-PST.UNW
+Translation: Afterwards they brought and gave him to the king.
+Sentence: Xalq’imo yeda ħaladtow ižin elo ʕaƛos žamaʕat batiza mečoƛ’or.
+Gloss: people-ERG DEM2.ISG trouble-INSTR-EMPH lead-PFV.CVB there village-GEN1 assembly III-turn-LCV place-SUPER.LAT
+Translation: The people lead him with trouble to the place were the village's assembly met.
+Sentence: Besura neła nełaz gugyoƛ’no zowerno, bełiqus uži neła kidbez ɣˤutkoł adäzar ižin kurno.
+Gloss: fish-ERG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 back-SUPER.ESS-TOP seat-PFV.CVB hunter-GEN1 son DEM1.IISG.OBL girl-GEN2 house-CONT.ESS before-IN.LAT carry-PFV.CVB throw-PST.UNW
+Translation: The fish took the hunter's son onto his back, carried him to that girl's house and threw him off again.
+
+Approximate Matches:

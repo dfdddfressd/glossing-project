@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ˤida using Leipzig glossing symbols. The sentence this word is drawn from means: "And a black man riding on a black horse who came out of who-knows-where stole the princess' clothes, carried them away and sat down under a tree.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ˤida
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ˤida:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žedaxay bitor di q’ˤida ičinč’ey bixno kosix zows.
+Gloss: DEM1.IIPL.OBL-AD.ABL thither me down sit-NEG.PST.CVB grass-TOP mow-IPFV.CVB be.NPRS-PST.WIT
+Translation: Because of them, I didn't sit down but mowed grass.
+Sentence: Akiłno q’ˤida di ičinosi, nesä howt’o deber kokoru qˤiƛci riqixyołiƛin eƛis.
+Gloss: get.tired-PFV.CVB down me sit-ANT.CVB DEM1.ISG.OBL-ERG here you-LAT soft pillow IV-get-PRS-COND.IRR-QUOT say-PST.WIT
+Translation: When I got tired and sat down, he said: "If we only could get you a soft pillow to sit down here..."
+Sentence: Aħmadä ečruni žek’uqor eƛin, howt’o deber q’ˤida iča kokoru qˤiƛci riqixyołiƛin.
+Gloss: Akhmed-ERG old-DEF man-POSS.LAT say-PST.UNW here you-LAT down sit-INF soft pillow IV-get-PRS-COND.IRR-QUOT
+Translation: Akhmed said to the old man: "If we only could get you a soft pillow to sit down here..."
+
+Approximate Matches:
+Sentence: Bełiƛ’ esnabi bäk’äsi yałzay, eɣeni esiwz bara k’orin boyn nazon q’ˤidan ričin bac’ƛ’oräy, Umukusez haqa bašiqˤoy šišin, k’ori boyƛ’orey eɣeni esiwz baruqay rˤaƛ’uruni.
+Gloss: hunting-SUPER.ESS brother-PL I.PL-go-ATTR be-SIM.CVB young-DEF brother-GEN2 wife-ERG oatmeal-TOP III-do-PFV.CVB everyone.OBL-TOP down-TOP II.PL-sit-PFV.CVB III-eat-SIM.CVB Umukus-GEN2 mouth-IN.ESS ring get.stuck-PST.UNW oatmeal III-do-SIM.CVB young-DEF brother-GEN2 wife-POSS.ABL IV-fall-PST.PRT-DEF
+Translation: When the brothers were going hunting, the youngest brother's wife made an oatmeal and when everyone sat down and ate, a ring that fell off the youngest brother's wife when she made the oatmeal, got stuck in Umukus' mouth.
+Sentence: Xizyo žoyä babiwqor eƛin, hemesi Ismaʕiles zawru yaraɣno, gulun däqor neƛnäy, howža ʕArabuzan q’ˤidan caƛin nełas meč’ beč’a mi di egiranƛin.
+Gloss: afterwards son-ERG father-POSS.LAT say-PST.UNW DEM4.ISG.OBL Ismail-GEN1 be.NPRS-PST.PRT weapon-and horse-and me-POSS.LAT give-CND.CVB DEM4.SG Arabuzan down-TOP throw-PFV.CVB DEM1.IISG.OBL-GEN1 neck III-cut-INF you me let-FUT.DEF-QUOT
+Translation: Then the son said to his father: "If you give me that Ismail's weapon and horse, I will throw that Arabuzan down and let you cut her neck."
+Sentence: Eniya hibon bok’no ža q’ˤidar bˤoƛ’urno.
+Gloss: mother-ERG stick-TOP III-beat-PFV.CVB DEM1.SG down-LAT III-let.fall-PST.UNW
+Translation: The mother struck with a stick and let it fall down.

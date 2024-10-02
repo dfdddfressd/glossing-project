@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yaqru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yaqru: 
+
+Exact Matches
+Sentence: Aždaħes yaqru nˤoƛun łacqo yižirno, nełas zawru šinaw xazina mesedno bižin, Baxumesedun guluƛ’ zowrno Kidiro Žabulawder ik’in.
+Gloss: dragon-GEN1 II-become-PST.PRT ashes-TOP wind-POSS.ESS II-carry-CAUS-PFV.CVB DEM1.IISG.OBL-GEN1 be.NPRS-PST.PRT every treasure gold-and III-carry-PFV.CVB Bakhumesed-and horse-SUPER.ESS seat-PFV.CVB Kidero Jabulaw-APUD.LAT go-PST.UNW
+Translation: He let the wind carry away ashes of the dragon, took all the gold from its treasures, seated Bakhumesed on a horse, and went to Jabulaw in Kidero.
+Sentence: Hemeła zamanał ʕaƛa xabar boƛixno, qalamez ƛ’ˤuƛ’or gulun bizirno, elay kid yok’ek’a k’ʷeze yaqru žek’ux xanä ža yegirxoƛin.
+Gloss: DEM4.IISG.OBL time-CONT.ESS village-IN.ESS story III-appear-PST.UNW fortress-GEN2 roof-SUPER.LAT horse-TOP III-lift-PFV.CVB there-IN.ABL daughter II-remove-INF can II-become-PST.PRT man-AD.ESS khan-ERG DEM1.SG II-send-PRS-QUOT
+Translation: At some time, a rumor appeared in the village: The king would marry off his daughter to the man who is able to lift a horse onto the roof of his fortress and to steal his daughter from there.
+Sentence: Neł kawumoz acmoq rexoriłno zawru ɣˤʷak’un riqirno yizanƛin yaqru ža, ƛ’irir ža yoq’ˤugani acno yoƛ’ˤun Qartayn ƛ’iƛ’iłno yexun.
+Gloss: DEM1.IISG.OBL gate-GEN2 door-ERG-POSS.ESS IV-hang-PFV.CVB be.NPRS-PST.PRT hook-TOP IV-take.away-PFV.CVB II-get.up-FUT.CVB-QUOT II-begin-PST.PRT DEM1.SG above-LAT DEM1.SG II-heavy-ATTR-DEF door-TOP II-fall-PFV.CVB Qartay-TOP get.crushed-PFV.CVB II-die-PST.UNW
+Translation: Qartay took the hook that hang at the door of that gate, began to get up; the heavy door fell down, Qartay got crushed and died.
+
+Approximate Matches:
+Sentence: Hemedur sadaq ʕumru bodix zown eɣeni užän, łoħrołäy yaqruni bercinawni kidbän.
+Gloss: so together life III-do-IPFV.CVB be.NPRS-PFV.CVB young-DEF boy-ERG-and frog-CONT.ABL II-become-PST.PRT-DEF beautiful-DEF girl-ERG-and
+Translation: So the young boy and the beautiful girl that became of the frog were living together.
+Sentence: Neširuxay maħor ža yaqrun, sadaq šet’urtow gʷanɣizi roqxo zown.
+Gloss: evening-AD.ABL outside DEM1.SG II-become-IMM.ANT.CVB all around-EMPH illuminate IV-become-IPFV.CVB be.NPRS-PST.UNW
+Translation: Right after she had gone outside in the evening, everything around was getting bright.
+Sentence: Sida quł ečruni ɣˤanaza maħor yaqrus riłen rodin, xalno bodin yičin.
+Gloss: one.OBL day-CONT.ESS old-DEF woman-ERG outside II-become-PST.PRT-ATTR IV.PL-as-TOP IV-do-PFV.CVB examination-TOP III-do-PFV.CVB II-wait-PST.UNW
+Translation: One day the old woman pretended to go outside, but waited and payed attention.

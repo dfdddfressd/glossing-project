@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣˤutkuya.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣˤutkuya
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣˤutkuya:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hemece rigu ɣˤutkun ričin, łinaq mi q’ʷarid oqxoƛin, esirno eženä.
+Gloss: such IV-pretty house-TOP IV-be-PFV.CVB what.OBL-POSS.ESS you sadness become-PRS-QUOT ask-PST.UNW old-DEF-ERG
+Translation: "That is such a pretty house, what are you so sad about?", asked the old one.
+Sentence: Neł maydanzo č’imä nesir łˤono t’ala yołäsi ɣˤutku rukayn.
+Gloss: DEM1.IISG.OBL clearance-GEN2 corner-IN.ESS DEM1.ISG.OBL-LAT three floor be-RES.PRT house IV-see-PST.UNW
+Translation: In a corner of that clearance, he saw a house with three floors.
+Sentence: Ečruni žek’a kot’aq reƛ’an riħin, ɣˤutku k’emot’ya tełxor rutirno.
+Gloss: old-DEF man-ERG beard-POSS.ESS hand-TOP IV-smear-PFV.CVB house wooden.case-IN.ESS inside-AD.LAT IV-turn-PST.UNW
+Translation: The old man rubbed his hand on the beard and the house turned into the wooden case.

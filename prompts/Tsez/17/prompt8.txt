@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: riƛ’arza.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": riƛ’arza
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word riƛ’arza:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xanä q’ʷaridno oqno wˤałer rˤoƛ’arzay q’ˤimkin rizirxo zownanu, t’ok’ow roda šebin koƛ’inč’ey.
+Gloss: khan-ERG sadness-TOP become-PFV.CVB downward-LAT IV-let.fall-SIM.CVB head-even IV-lift-IPFV.CVB be.NPRS-PFV.CVB-NEG anymore IV-do-INF thing understand.to-NEG.PST.UNW
+Translation: The king became sad and while he hung his head, he didn't lift it up again and didn't know what to do anymore.

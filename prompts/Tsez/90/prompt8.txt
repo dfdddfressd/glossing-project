@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ozataw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ozataw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ozataw:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hudun ža ozzatawni žek’u harihun ƛaƛaƛix ik’in, sidaɣ aɣˤuxor keze oqno.
+Gloss: nevertheless DEM1.SG eye-PL-without-DEF man slowly feel.up-IPFV.CVB go-PFV.CVB in.one.place mill-AD.LAT meet become-PST.UNW
+Translation: Nevertheless, this eyeless man went slowly feeling up and got to a mill someplace.
+Sentence: Xande idur aynosi, nesir elo teł cemä ozzataw kid yukaynosi, iguni žek’a esirno, di nełaz ozzałer kanłi bayrnäy, šebi mi där baha neƛxoƛin.
+Gloss: khan-APUD.ESS home-LAT come-ANT.CVB DEM1.ISG.OBL-LAT there inside corner-IN.ESS eye-PL-without girl II-see-ANT.CVB good-DEF man-ERG ask-PST.UNW me DEM1.IISG.OBL-GEN2 eye-PL-CONT.LAT light III-bring-CND.CVB what you me-LAT price give-PRS-QUOT
+Translation: When he came to a house with the king and saw a blind girl in a corner inside there, the good man asked: "When I bring back her eyesight, what price do you give me?"
+Sentence: Bilq’isdis duʕan q’abul bodin, ozzataw oqno xediwn, xedyos esiwn, ža xanez madaxosini žek’un, eženis łˤonon užin, yedu teƛno zawruni gamiƛ’osi žek’un.
+Gloss: Bilqisdi-GEN1 prayer-TOP receive III-do-PFV.CVB eye-PL-without become-PFV.CVB husband-and husband-GEN1 brother-and DEM1.SG khan-GEN2 gate-AD.ESS-ATTR-DEF man-and old-DEF-GEN1 three-TOP son-and DEM2.IISG sell-PFV.CVB be.NPRS-PST.PRT-DEF boat-SUPER.ESS-ATTR man-and
+Translation: Bilqisdis prayer was received, the husband, the husband's brother, that king's guard, the three sons of the old man and the sailor to whom they sold her got blind.

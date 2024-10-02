@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word riča in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word riča: 
+
+Exact Matches
+Sentence: Yedu šebi ʕalamałi riča rayxƛin yeda bazaryar ik’inosi, elon siskin besun anu:
+Gloss: DEM2.IISG what miracle IV-be-INF IV-must-PRS-QUOT DEM2.ISG bazar-IN.LAT go-ANT.CVB there-TOP anything III-find-PFV.CVB be.NEG
+Translation: "What wonder could this be?"; when he went to the market, he didn't find anything there:
+
+Approximate Matches:

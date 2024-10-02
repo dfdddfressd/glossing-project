@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bečedaw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bečedaw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bečedaw:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.
+Gloss: so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT
+Translation: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.
+Sentence: Sida bečedaw žek’uderno ik’in, nesiz k’udoz baɣman eynoyn, micxirno bodin, bižin babiwqor teƛno.
+Gloss: one.OBL wealthy man-APUD.LAT-TOP go-PFV.CVB DEM1.ISG.OBL-GEN2 vine-GEN2 garden-IN.ESS-TOP work-PFV.CVB money-TOP III-do-PFV.CVB III-carry-PFV.CVB father-POSS.LAT give-PST.UNW
+Translation: He went to a wealthy man, worked on his vineyard, earned money and carried it to give it to his father.
+Sentence: Babiws esiw bečedaw žek’u zown.
+Gloss: father-GEN1 brother wealthy man be.NPRS-PST.UNW
+Translation: The father's brother was a rich man.
+
+Approximate Matches:
+Sentence: Žan risno iduza ezu-ʕoƛ’uƛ’oräy, yisir bečedawni žek’us uži esun.
+Gloss: DEM1.SG-TOP IV-take-PFV.CVB home-ZA examine-SIM.CVB DEM2.ISG.OBL-LAT wealthy-DEF man-GEN1 son find-PST.UNW
+Translation: Taking it into the house, he looked around and found the rich man's son.
+Sentence: Xizaɣor bertenno bodin, kid bečedawni žek’us žax yegirno.
+Gloss: finally marriage-TOP I.PL-do-PFV.CVB girl wealthy-DEF man-GEN1 son-AD.ESS II-send-PST.UNW
+Translation: Finally they married and sent the girl to the son of the rich man.
+Sentence: Zamanaƛ’aza ɣˤutka tełäzay sis qˤaƛu-bˤaɣu rizin, hiba gugu žek’ƛ’oräy, bečedawni maduhalqo k’ʷač’ni regin.
+Gloss: time-SUPER.VERS.DIST house-IN.ESS inside-IN.ABL.DIST one shout IV-get.up-PFV.CVB stick-ERG back beat-SIM.CVB wealthy-DEF neighbor-POSS.ESS groan-MSD IV-let.go-PFV.CVB
+Translation: Some minutes later one could hear noise and shout inside the house: as the stick beat the wealthy neighbor on his back, he gave a loud groan.

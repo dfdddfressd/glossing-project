@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: hečk’erno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": hečk’erno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word hečk’erno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yexoriłƛin eƛinosigon, ele yexoriłinč’aƛin hečk’erno yizin.
+Gloss: II-become.longer-QUOT say-ANT.CVB-CNTR here II-become.longer-NEG.PST.WIT-Q-QUOT upright-TOP II-get.up-PST.UNW
+Translation: And when he said "Get longer!", she said "Here, am I not getting longer?" and got up upright again.
+
+Approximate Matches:
+Sentence: Yet’un hečk’er k’oƛin eniya esirno, nazay mi t’or ayäƛin.
+Gloss: II-jump-PFV.CVB upright jump-PFV.CVB mother-ERG ask-PST.UNW from.where you here-LAT come-PST.WIT.INT-QUOT
+Translation: The mother jumped up and asked: "Where did you come from here!"
+Sentence: Ža užin, baħarawn sadaqno bičirno, žeduł roƛƛo hečk’er eqerno ciqqay reč’no rawruni ɣun.
+Gloss: DEM1.SG boy-and fiancé-and together-TOP I.PL-remain-CAUS-PFV.CVB DEM1.IIPL.OBL-CONT.ESS IV-middle upright put-PFV.CVB forest-POSS.ABL IV-cut-PFV.CVB IV-bring-PST.PRT-DEF tree
+Translation: nan
+Sentence: Enda užin, baħarawn sidä sidde puħon bičirno, yiził roƛƛo ciqqay reč’no rown hečk’er ɣunno eqerno, ža ɣun ładäɣor rutix, nesix yedu baħarayn yegira yayƛin.
+Gloss: DEM3b.SG boy-and fiancé-and one.OBL-ERG one.OBL-APUD.ESS side-AD.ESS-TOP I.PL-remain-CAUS-PFV.CVB DEM2.IPL.OBL-CONT.ESS IV-middle forest-POSS.ABL IV-cut-PFV.CVB IV-bring-PFV.CVB upright tree-TOP put-PFV.CVB DEM1.SG tree who.OBL-APUD.VERS IV-turn-IPFV.CVB DEM1.ISG.OBL-AD.ESS DEM2.IISG fiancée-TOP II-send-INF II-must-QUOT
+Translation: That boy and the groom we let stand side to side, and in their middle we'll put upright a tree that we cut from the forest and brought here, to whomever the tree falls, he must be married to the bride.

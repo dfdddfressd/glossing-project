@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yič’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yič’in: 
+
+Exact Matches
+Sentence: Sidaɣ maqˤir ciqaɣorno yisä yedu yižin, hemedurtow gondun yič’in, ƛ’irigon zozis ƛ’ˤun bodin howlo žan xecin babiw xizor utin nexno.
+Gloss: in.one.place far.away-LAT forest-IN.VERS-TOP DEM2.ISG.OBL-ERG DEM2.IISG II-lead-PFV.CVB so-EMPH big.hole-TOP II-dig-PFV.CVB above-CNTR moss-GEN1 roof-TOP III-do-PFV.CVB there DEM1.SG-TOP leave-PFV.CVB father back return-PFV.CVB come-PST.UNW
+Translation: The father led her to a place far away in the forest, likewise dug a hole and built a roof of moss ontop, left her there and returned.
+Sentence: Elogon teł sis gondun yič’in, teł yedan uqˤno, ƛ’irigon girimabin kurno, žan ƛ’iqun nełaƛ’ ƛ’irigon zeyä lidu yaq’ˤun.
+Gloss: there-CNTR inside one big.hole-TOP II-dig-PFV.CVB inside DEM2.ISG-TOP hide-PFV.CVB above-CNTR pole-PL-TOP throw-PFV.CVB DEM1.SG-TOP cover-PFV.CVB DEM1.IISG.OBL-SUPER.ESS above-CNTR bear-ERG paw II-cover-PFV.CVB
+Translation: The bear dug a big hole there, hid the hunter's son inside, threw the poles above it and covered it with his paw as well.
+Sentence: Elo yisä tełer gondun yič’in, ƛ’irigon zozis ƛ’ˤun bodin, howlo kidno xecin, iduɣor oxin žan nexno.
+Gloss: there DEM2.ISG.OBL-ERG to.the.inside big.hole-TOP II-dig-PFV.CVB above-CNTR moss-GEN1 roof-TOP III-do-PFV.CVB there daughter-TOP leave-PFV.CVB home-IN.ALL run.away-PFV.CVB DEM1.SG-TOP come-PST.UNW
+Translation: There inside he dug a hole, made a moss roof on it, left his daughter there and went back home.
+
+Approximate Matches:
+Sentence: ʕAt’idä qaħłi begirzaƛ’or aħinyoƛ waħo gondu yič’inosi, tełäzay roč’iw łäs qˤuqˤu boƛixno.
+Gloss: Atid-ERG dawn III-let-POST.CVB rock-SUB.ESS below big.hole II-dig-ANT.CVB inside-IN.ABL.DIST IV-cold water-GEN1 stream III-appear-PST.UNW
+Translation: Atid digged a big hole under the rock before the dawn set in, and then a stream of cold water appeared from inside.

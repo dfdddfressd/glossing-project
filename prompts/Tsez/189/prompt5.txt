@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: k’et’a.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": k’et’a
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word k’et’a:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyogon zira šebi ža debez ħiroƛ’ƛin esirnosi, k’et’a tupi yołƛin eƛin.
+Gloss: then fox-ERG what DEM1.SG you-GEN2 shoulder-SUPER.ESS-QUOT ask-ANT.CVB cat-ERG rifle be-QUOT say-PST.UNW
+Translation: When the fox asked: "What is that on your shoulder?", the cat said: "It's a rifle."
+Sentence: Aħugon łäxor qˤaydegon sadaq zirun bik’in elo bäsuru k’et’uq mi šebiƛin esirnosi, k’et’a di žek’u yołƛin eƛin.
+Gloss: again water-AD.LAT hare-APUD.ESS-CNTR together fox-TOP III-go-PFV.CVB there III-exist-PST.PRT cat-POSS.ESS you who-QUOT ask-ANT.CVB cat-ERG me man be-QUOT say-PST.UNW
+Translation: Again, the fox, together with the hare, went to the water, where the cat was, and asked: "Who are you?" - "I'm a man!" said the cat.
+
+Approximate Matches:
+Sentence: Łox äƛiru rayäru bišadyoł zahru anuru biyn yizir, elay bet’urno magalu kurnosi k’et’u bexunč’izaƛ’.
+Gloss: thrice ORD IV-bring-PST.PRT food-CONT.ESS poison be.NEG-PST.PRT III-know-PST.UNW DEM2.IPL.OBL-LAT there-IN.ABL III-pull.out-PFV.CVB bread throw-ANT.CVB cat III-die-NEG.FUT.CVB-CSL.CVB
+Translation: The third time they knew that there was no poison in the food they brought, because the cat for which a [piece of] bread was pulled out and thrown to, wouldn't die.
+Sentence: Xanzo barus naysinan ci rik’inƛax ɣˤʷays k’ucin, k’et’us xexoyn neła ƛuƛin rodinƛin.
+Gloss: khan-GEN2 wife-GEN1 everywhere name IV-go-PST.UNW-QUOT dog-GEN1 puppy-and cat-GEN1 young.animal-and DEM1.IISG.OBL-ERG give.birth-PFV.CVB III.PL-do-PST.UNW-QUOT
+Translation: The king's wife became known everywhere for the fact that she gave birth to a puppy and a kitten.
+Sentence: Boc’ä keč’ qˤaƛa baybik bodin, dalay, dalay sida bogmor ʕomoy, dalay, dalay sidagon bogmor mamalay, sidenigon bogmor k’et’un, mešinƛin.
+Gloss: wolf.PL-ERG song sing-INF begin III-do-PST.UNW dalay dalay one.OBL meal-LAT donkey dalay dalay one.OBL-CNTR meal-LAT rooster other-CNTR meal-LAT cat-and bull.calf-and-QUOT
+Translation: The wolves began to sing a song: "Dalay, dalay, a donkey for one meal; dalay, dalay, a rooster for another meal; and a cat and a calf for yet another meal."

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žukłi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žukłi: 
+
+Exact Matches
+Sentence: Užä žeduqor eƛin, ža bikori sida ħala xec meža, neła mežur royxosi žukłi šebiƛin.
+Gloss: boy-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW DEM1.SG snake one.OBL condition-IN.ESS leave you(I).PL.OBL-ERG DEM1.IISG.OBL-ERG you(I).PL.OBL-LAT IV-do-PRS.PRT evil what-QUOT
+Translation: The boy said to them: "Let go of the snake, what's the evil thing it has done to you?!"
+Sentence: Nełar žukłi roda retizaƛ’, di xaner hič’č’a betixozoni gulus maħin reč’no, qˤirič’ nełaz mežiƛ ruqˤsi, nełƛ’or rutiraniƛäy.
+Gloss: DEM1.IISG.OBL-LAT evil IV-do-INF IV-want-CSL.CVB me khan-LAT the.most III-love-PRS.PRT.OBL-DEF horse-GEN1 tail-TOP IV-cut-PFV.CVB scissors DEM1.IISG.OBL-GEN2 mattress-SUB.ESS IV-hide-PST.WIT DEM1.IISG.OBL-SUPER.LAT IV-turn-MSD-SUB.ABL
+Translation: Because I wanted to harm her, I cut off the tail of the king's most beloved horse and hid the scissors under her mattress, so it would turn onto her.
+Sentence: Žedu režet’ani esnazar retinanu yeɣeni esiw xanxo yik’izaƛ’, yizi urɣizi roqno, šebiey nełar elaq žukłi roqanƛin.
+Gloss: DEM1.IIPL.OBL II.PL-old-DISTR-DEF sister-PL-LAT IV-want-PST.UNW-NEG II-young-DEF sister khan-AD.ESS II-go-CSL.CVB DEM2.IPL thinking IV-become-PFV.CVB what-DUB DEM1.IISG.OBL-LAT we(II-POSS.ESS evil IV-happen-FUT.DEF-QUOT
+Translation: The older sisters didn't want that, because the younger sister went to the king, he would think, that something evil with us might happen to her.
+
+Approximate Matches:

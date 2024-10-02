@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: äsirun using Leipzig glossing symbols. The sentence this word is drawn from means: "When he had said this, she poked her tongue out like a tired hound.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": äsirun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word äsirun:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža aɣes täqrun zira eƛin, debeq ža äsirus haqu yoč’ik’oƛƛin.
+Gloss: DEM1.SG bird-GEN1 hear-IMM.ANT.CVB fox-ERG say-PFV.CVB you-POSS.ESS DEM1.SG tell-PST.PRT-GEN1 mouth II-freeze-OPT-QUOT
+Translation: After hearing what the bird said, the fox said: "May the mouth freeze to the one who told you that!"
+Sentence: Kidbä akrošaw magalun bižin, Aħmaddäɣorno yik’in, babiya äsiru xabarno nesiq esin.
+Gloss: daughter-ERG cheese-ATTR bread-TOP III-take.out-PFV.CVB Akhmed-APUD.VERS-TOP II-go-PFV.CVB dad-ERG tell-PST.PRT story-TOP DEM1.ISG.OBL-POSS.ESS tell-PST.UNW
+Translation: The daughter took the cheese bread, went to Akhmed and told him what her father told her.
+Sentence: Eniw iduɣorno yik’in, žaq xanä äsiru xabar esin.
+Gloss: mother home-IN.ALL-TOP II-go-PFV.CVB son-POSS.ESS khan-ERG tell-PST.PRT story tell-PST.UNW
+Translation: The mother went home and told her son what the king said.

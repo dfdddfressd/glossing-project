@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žek’u.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žek’u
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žek’u:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Hag oqno ƛexun ečruni žek’u.
+Gloss: amazingly become-PFV.CVB remain-PFV.CVB old-DEF man
+Translation: The old man was amazed.
+
+Approximate Matches:
+Sentence: Sida bečedaw žek’uderno ik’in, nesiz k’udoz baɣman eynoyn, micxirno bodin, bižin babiwqor teƛno.
+Gloss: one.OBL wealthy man-APUD.LAT-TOP go-PFV.CVB DEM1.ISG.OBL-GEN2 vine-GEN2 garden-IN.ESS-TOP work-PFV.CVB money-TOP III-do-PFV.CVB III-carry-PFV.CVB father-POSS.LAT give-PST.UNW
+Translation: He went to a wealthy man, worked on his vineyard, earned money and carried it to give it to his father.
+Sentence: Hemełƛ’o xizyo bečedawni žek’uƛ’or xabar bayn, užä ganbin ruhun rodin, riƛubigon riƛin łiyrxoƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS after wealthy-DEF man-SUPER.LAT story III-come-PFV.CVB boy-ERG bull.calf-PL-TOP teach III.PL-do-PFV.CVB field-PL-CNTR IV.PL-plough-PFV.CVB finish-PRS-QUOT
+Translation: After that, the story that the boy taught the bulls to work and is now plowing all the fields, got to the rich man.
+Sentence: Esnaza Bilq’isdi yižin gamiƛ’zoni žek’ur teƛno.
+Gloss: brother-PL-ERG Bilqisdi II-lead-PFV.CVB boat-SUPER.ESS-GEN2-DEF man-LAT sell-PST.UNW
+Translation: The brothers took Bilqisdi and sold her to a sailor.

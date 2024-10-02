@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bik’inosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bik’inosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bik’inosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida quł bet’erhanno bet’erhanes užin ƛˤoreł bik’inosi, yiła neł ʕaƛos dibir iduɣor goƛ’in.
+Gloss: one.OBL day-CONT.ESS master-and master-GEN1 son-and war-CONT.ESS I.PL-go-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL village-GEN1 imam home-IN.ALL invite-PST.UNW
+Translation: One day, when the master and the master's son went to war, she invited the village's imam to their home.
+Sentence: Elayn boqno dahawtow bitaɣor bik’inosi, yisi žoyä žeduqor eƛin, di ža kid yowanix ik’ix, däz ža c’aq’ rok’äwa yisäƛin.
+Gloss: there-IN.ABL-TOP I.PL-become-PFV.CVB a.little-EMPH distance-IN.VERS I.PL-go-ANT.CVB DEM2.ISG.OBL boy-ERG DEM1.IPL.OBL-POSS.LAT say-PFV.CVB me DEM1.SG girl II-marry-MSD-AD.ESS go-PRS me-GEN2 DEM1.SG much heart-IN.ESS-Q II-take-PST.WIT.INT-QUOT
+Translation: When they had gone just a little further, that boy said to them: "I am going to marry this girl; did she really take me into her heart?"
+Sentence: Boƛƛogon zaman bik’inosi, hemedurtow sosigon neła esirno.
+Gloss: III-middle-CNTR time III-go-ANT.CVB so-EMPH again-CNTR DEM1.IISG.OBL-ERG ask-PST.UNW
+Translation: After a while, she asked it again.
+
+Approximate Matches:
+Sentence: ʕOƛno ħonno, ʕoƛno iħun xecin ik’inosi, sida ʕaƛar ayn.
+Gloss: seven mountain-and seven river-and leave-PFV.CVB go-ANT.CVB one.OBL village-IN.LAT come-PST.UNW
+Translation: After he walked past seven mountains and seven rivers, he came into a village.
+Sentence: Sida quł ža t’o ʕaƛay ik’inosi, där žek’ude kecan retin di debez babiwz laɣde kecsi.
+Gloss: one.OBL day-CONT.ESS DEM1.SG here village-IN.ABL go-ANT.CVB me-LAT man-APUD.ESS sleep-INF-and IV-want-PFV.CVB me you-GEN2 father-GEN2 slave-APUD.ESS sleep-PST.WIT
+Translation: One day, after he had left this village, I wanted to sleep with a man, and so I slept with your father's slave.
+Sentence: Žedu q’ˤanon hunar xanqo bukarnosi, łˤono äƛirugon nasi debeq di hunar bukaranƛin uži xande igor ik’inosi, nesä eƛin, däz łiboqande c’oxranix debi mi łiboqan aƛin.
+Gloss: DEM1.IIPL two-TOP talent khan-POSS.ESS III-show-ANT.CVB three ORD-CNTR which you-POSS.ESS me talent III-show-FUT.DEF-QUOT boy khan-APUD.ESS near-LAT go-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW me-GEN2 wrestler-APUD.ESS hit-CAUS-MSD-AD.ESS you-GEN1 you wrestler bring.IMP-QUOT
+Translation: Having shown these two talents to the king, the boy went to the king: "Which is the third one I shall show you?", and he said: "Bring your wrestler in order to fight with my wrester."

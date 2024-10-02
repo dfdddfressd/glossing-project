@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yet’un in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yet’un: 
+
+Exact Matches
+Sentence: Kid yet’un k’oƛin yičin, di łočyaƛ’ k’oƛixosi anuƛin.
+Gloss: girl II-jump-PFV.CVB run-PFV.CVB II-be-PFV.CVB me dance-SUPER.ESS jump-PRS.PRT be.NEG-QUOT
+Translation: The girl jumped up and was like: "I don't dance!"
+
+Approximate Matches:
+Sentence: Łäs q’ut’un bic’no xizor butin nexzey, ħonbi dandir rik’in c’oxsiƛax, ceyes k’onč’aqaygon ret’un reƛno rik’isƛax.
+Gloss: water-GEN1 earthen.jug-TOP III-fill-PFV.CVB back I.PL-turn.back-PFV.CVB come-SIM.CVB mountain-PL together II.PL-go-PFV.CVB hit-PST.WIT-QUOT eagle-GEN1 leg-POSS.ABL-CNTR II.PL-come.off-PFV.CVB meat-TOP IV-go-PST.WIT-QUOT
+Translation: He filled the jug with water and when when they returned, the mountains went together and closed and some flesh came off the eagle's leg.
+Sentence: Hawaƛ’ łox šet’un butin, cey bayn užide puħo heqno.
+Gloss: air-SUPER.ESS thrice around-PFV.CVB III-turn-PFV.CVB eagle III-come-PFV.CVB boy-APUD.ESS next.to sit.down-PST.UNW
+Translation: The eagle turned circles in the air three times and then came to sit down next to the boy.
+Sentence: Q’ˤiday bet’un k’oƛin xediwn užin nełaq łeɣin, babiwn esiwn ʕuraw ɣˤaɣˤu bizin.
+Gloss: down-IN.ABL I.PL-jump-PFV.CVB jump-PFV.CVB husband-and son-and DEM1.IISG.OBL-POSS.ESS grasp-PFV.CVB father-and brother-and very be.happy I.PL-get-PST.UNW
+Translation: The husband and the son jumped up and grasped her, the father and the brother got very happy.

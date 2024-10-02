@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Ražbadinez using Leipzig glossing symbols. The sentence this word is drawn from means: ""His wife and children live at Razhbadin's home", answered the old man.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Ražbadinez
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Ražbadinez:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Adäy aderno ik’in ečruni žek’a nesiz baruqor eƛin, mežoxor Ražbadines ƛirba aynƛin.
+Gloss: ahead forward-TOP go-PFV.CVB old-DEF man-ERG DEM1.ISG.OBL-GEN2 wife-POSS.LAT say-PST.UNW you(II-AD.LAT Razhbadin-GEN1 comrade come-PST.UNW-QUOT
+Translation: The old man went ahead and said to his wife: "A comrade of Razhbadin has come to you."
+Sentence: Hudayzikotow Ražbadiner bodixosi berten Tawadiƛ’ar butirno.
+Gloss: the.next.day-EMPH Razhbadin-LAT III-do-PRS.PRT marriage Tavadi-SUPER.VERS III-begin-PST.UNW
+Translation: The next day the marriage which was prepared for Razhbadin turned to Tawadi.
+Sentence: Ražbadines xexbi bexuranis mečʷa, Tawadä žedu nesis uži zawza Tiblisäɣor t’et’ranixno begirno, riyrxo žeduq, dey izmu anusi eni- babiwƛ’or kaɣat caxnoƛin.
+Gloss: Razhbadin-GEN1 children I.PL-kill-MSD-GEN1 instead.of Tavadi-ERG DEM1.IPL DEM1.ISG.OBL-GEN1 son be.NPRS-LCV Tbilisi-IN.VERS learn-MSD-AD.ESS-TOP I.PL-send-PFV.CVB IV-explain-PRS DEM1.IPL.OBL-POSS.ESS me-GEN1 permission be.NEG-ATTR mother father-SUPER.LAT letter write-PROHIB-QUOT
+Translation: Instead of killing Razhbadin's children, Tavadi sent them to study in Tbilisi where his son was, and explained to them: "Don't write a letter to your parents without my permission!"

@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mołiranix using Leipzig glossing symbols. The sentence this word is drawn from means: ""I've come to ask you for advice", said the boy.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mołiranix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mołiranix:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ukayyä mežur diƛin, esiranix yeda iduɣor ik’in.
+Gloss: see-PST.WIT.Q you(I).PL.OBL-LAT me-QUOT ask-MSD-AD.ESS DEM2.ISG home-IN.ALL go-PST.UNW
+Translation: He went into their home to ask, "Did you see me?"
+Sentence: Yiłaz babiwr čuqˤno, ža ɣˤʷay esiranix xanes uži neła kidbä rok’uƛ’ esärułi.
+Gloss: DEM2.IISG.OBL-GEN2 father-LAT notice-PFV.CVB DEM1.SG dog ask-MSD-AD.ESS khan-GEN1 son DEM1.IISG.OBL daughter-ERG heart-SUPER.ESS ask-MSD
+Translation: Her father noticed that the daughter asked on her heart(?) that the prince should ask for the dog.
+Sentence: Ħusen igtow ƛ’irin utin ža xizor utiranix eƛin, dowƛ’osi q’ʷariłi bisanir di ik’ix mi xizorno uti, di aceł caƛäsi c’eruc’a yoł, nagaħ där sis šebin roqnäy, nełas iyo boƛäx, c’ik’iw šebin ruyxor rik’inäy ɣˤay yešnayƛin.
+Gloss: Hussein well-EMPH above-TOP turn-PFV.CVB DEM1.SG back turn-MSD-AD.ESS say-PST.UNW you-SUPER.ESS-ATTR sadness III-take-MSD-LAT me go-PRS you back-TOP return me door-CONT.ESS shoot.with-RES.PRT bow be suppose me-LAT one thing IV-happen-CND.CVB DEM1.IISG.OBL-GEN1 blood III-appear entire thing IV-alright IV-go-CND.CVB milk II-drip-QUOT
+Translation: Hussein insisted and said to make him turn back: "I am coming to take away the sadness on you, go back! I have shot with the bow at the door; suppose something will happen to me, it's [the arrow's] blood will appear, and if everything will go alright, then milk will drip out."

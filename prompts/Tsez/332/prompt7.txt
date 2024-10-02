@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yezuranix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yezuranix: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Šida yałru debertow räyƛin, kidbä uži ezuranix bitazoni ɣˤutkaɣor ižin.
+Gloss: why be-PST.PRT you-LAT-EMPH IV-know-QUOT girl-ERG boy show-MSD-AD.ESS next-DEF room-IN.VERS lead-PST.UNW
+Translation: "You will know why", the girl [said and] lead the boy into the next room to show him.

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kecanix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kecanix: 
+
+Exact Matches
+Sentence: Uži mažgityaɣor keca ik’ixƛin oqnosi, yedu ƛ’iri yutin ƛirba kecanix mažgityaɣor egiranix elude lamusaw šebin yołƛin.
+Gloss: boy mosque-IN.VERS sleep-INF go-PRS-QUOT become-ANT.CVB DEM2.IISG above II-turn-PFV.CVB comrade sleep-MSD-AD.ESS mosque-IN.VERS let-MSD-AD.ESS we(I).OBL-APUD.ESS shameful thing be-QUOT
+Translation: When the boy was about to go to the mosque to sleep, she insisted: "It is a shame for us to send a comrade to the mosque for him to sleep!"
+
+Approximate Matches:
+Sentence: Bilq’isdi xanłun xecanix žamaʕat razi boqno.
+Gloss: Bilqisdi khan-LHUN leave-MSD-AD.ESS population agree III-become-PST.UNW
+Translation: The population agreed to let Bilqisdi become king.

@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yiči.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yiči
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yiči:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Harihun xabaryayx baƛ’ix žedu bik’iƛ’oräy, nełał xizay qˤaƛanayx durimoƛ’ k’oƛin kid yayx yukayn, eni, howlo yiči, oč’ira däz mučariłäy sis kamiruni mučari miyä risäƛin.
+Gloss: slowly talk-IPFV.CVB I.PL-talk-IPFV.CVB DEM1.IPL I.PL-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS behind yell-IPFV.CVB running run-PFV.CVB daughter II-come-IPFV.CVB II-see-PFV.CVB mother there II-remain nine me-GEN2 cumin-CONT.ABL one get.lost-PST.PRT-DEF cumin you-Q IV-take-PST.WIT.INT-QUOT
+Translation: While they were going slowly and talking, they saw her daughter running and yelling behind them: "Mother, stay there, did you take the one cumin cake that got lost from my nine?"
+
+Approximate Matches:

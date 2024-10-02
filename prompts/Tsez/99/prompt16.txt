@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: esa.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": esa
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word esa:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła nesiqno esirno, deber heresi esa kaƛ’iyä kaƛ’inč’aƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS-TOP ask-PST.UNW you-LAT lie tell-INF understand.to-PST.WIT.INT understand.to-NEG.PST.WIT-Q-QUOT
+Translation: She asked him as well: "Can you tell a lie or not?"
+Sentence: Uži xabar esa oqno, di ʕaƛa zows.
+Gloss: boy story tell-INF begin-PST.UNW me village-IN.ESS be.NPRS-PST.WIT
+Translation: The boy began to tell a story: "I was in a village.
+Sentence: Ričiƛƛin, razi oqno ža, amma imadu esa adäza meža yiła ɣˤutkoq acno ħišin reka däqor neƛa ray.
+Gloss: IV-be-OPT-QUOT agree become-PFV.CVB DEM1.SG but tale tell-INF before you(I).PL.OBL-ERG DEM2.IISG.OBL house-POSS.ESS door-TOP lock-PFV.CVB key me-POSS.LAT give-INF IV-must
+Translation: "So be it!", he agreed, "but before I tell the tale, you must lock the door of this house and give me the key."
+
+Approximate Matches:

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word neƛnay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word neƛnay: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Meži di bižan mežuq yałru kinaw micxir där neƛnäyƛin.
+Gloss: you.PL me III-lead-FUT.DEF you(I).PL.OBL-POSS.ESS be-PST.PRT entire money me-LAT give-CND.CVB-QUOT
+Translation: "I will take you with me, if you give me all the money you have."
+Sentence: Žigoƛ’ay nexan debex di mi där howda pandur neƛnäyƛin”.
+Gloss: now-SUPER.ABL come-FUT.DEF you-AD.ESS me you me-LAT DEM3.SG lute give-CND.CVB-QUOT
+Translation: "Now I will come to you, if you give me that lute of yours."
+Sentence: Nesiqorno hemedurtow, mesedyos saħ neƛnäy nexanƛin, eƛin.
+Gloss: DEM1.ISG.OBL-POSS.LAT-TOP so-EMPH gold-GEN1 sah give-CND.CVB come-FUT.DEF-QUOT say-PST.UNW
+Translation: And she said to him as well: "If you give me your Sah of gold, I will come."

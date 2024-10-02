@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łuƛa.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łuƛa
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łuƛa:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Idurno yik’in užin č’arik’no eniya eƛin, eliz mada łuƛa ixiw ɣˤutku rodinƛin.
+Gloss: home-LAT-TOP II-go-PFV.CVB boy-TOP wake.up-PFV.CVB mother-ERG say-PST.UNW we-GEN2 outside-IN.ESS who.OBL-INDEF big house IV-do-PST.UNW-QUOT
+Translation: The mother went home, woke up the boy and said: "Someone built a big house outside of ours."
+
+Approximate Matches:

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕadalaw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕadalaw: 
+
+Exact Matches
+Sentence: Mi ʕadalaw uži äsuƛin, Maħama nesiqor eƛin.
+Gloss: you stupid boy exist-QUOT Magomed-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW
+Translation: You are a stupid boy.", Magomed said to him.
+
+Approximate Matches:
+Sentence: Xalq’imo ʕadalawniƛ’ ayrxo zawruni žoyä, qaciz hiboreƛ łenon riguƛ’ay rigut’a šeƛ’ures bic’äsi ħumukulin ader boɣno, ʕaƛaɣorƛin hunix oqno.
+Gloss: people-ERG stupid-DEF-SUPER.ESS call-IPFV.CVB be.NPRS-PST.PRT-DEF boy-ERG firewood-GEN2 stick-SUB.ESS five-TOP IV-pretty-SUPER.ABL IV-pretty-DISTR clothing-GEN1 III-fill-RES.PRT camel-TOP forward III-take.away-PFV.CVB village-IN.VERS-QUOT way-AD.ESS become-PST.UNW
+Translation: The boy whom the people called "the dumb one", gave his wooden stick away for five camels packed with the prettiest clothings, then he got on his way to the village.

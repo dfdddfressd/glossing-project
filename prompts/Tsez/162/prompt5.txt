@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: axbin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": axbin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word axbin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bazarganä roƛik’no eƛuk’yazay bišan, axbin rodin, kʷaxatow hunix boqno.
+Gloss: merchant-ERG IV-pull.out-PFV.CVB leather.sack-IN.ABL.DIST food-and belly-PL-TOP IV.PL-do-PFV.CVB soon-EMPH way-AD.ESS I.PL-become-PST.UNW
+Translation: The merchant pulled out food from a leather sack, they stuffed their tummies and soon went on their way.
+
+Approximate Matches:

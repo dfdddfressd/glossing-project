@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: moƛaxay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": moƛaxay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word moƛaxay:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sasaqosi moƛaxay yizinosi, Bilq’isdä Allahqo harizi rodin, eli q’ˤanon debi laɣbi deber betixozołäysi besunäy, howt’otow elus ruħ boɣoƛin.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-ANT.CVB Bilqisdi-ERG God-POSS.ESS request IV-do-PST.UNW we two-TOP you-GEN1 slave-PL you-LAT I.PL-love-IPFV.CVB-ATTR.OBL-CONT.ABL-ATTR I.PL-appear-CND.CVB here-EMPH we(I).OBL-GEN1 soul III-take.away-IMPR-QUOT
+Translation: In the morning, when she got up from her sleep, Bilqisdi prayed to Allah: "If we two are not among the slaves you love, then take our souls right here!"
+Sentence: Sosi moƛaxay uži č’ariłno - tamaša oqno ƛexun yeda, xanzoƛ’aygon rigu ɣˤutku moƛaxay izizaƛ’or elo resuzaƛ’.
+Gloss: at.first sleep-AD.ABL boy wake.up-PST.UNW - be.surprised become-PFV.CVB remain-PFV.CVB DEM2.ISG khan-GEN2-SUPER.ABL-CNTR IV-pretty house sleep-AD.ABL get.up-POST.CVB there IV-find-CSL.CVB
+Translation: At first, the boy woke up from his sleep - he was surprised because he found the house to be prettier than even the king's one, when he got up.
+Sentence: Sosi moƛaxay uži č’ariłno - tamaša oqno ƛexun yeda, xanzoƛ’aygon rigu ɣˤutku moƛaxay izizaƛ’or elo resuzaƛ’.
+Gloss: at.first sleep-AD.ABL boy wake.up-PST.UNW - be.surprised become-PFV.CVB remain-PFV.CVB DEM2.ISG khan-GEN2-SUPER.ABL-CNTR IV-pretty house sleep-AD.ABL get.up-POST.CVB there IV-find-CSL.CVB
+Translation: At first, the boy woke up from his sleep - he was surprised because he found the house to be prettier than even the king's one, when he got up.
+
+Approximate Matches:
+Sentence: Neła quł sasaqtow moƛaxayn bizin, ixinno risno, q’ˤanon gagalazał xizay ħonƛ’aɣor boqno.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH sleep-AD.ABL-TOP I.PL-get.up-PFV.CVB bag-TOP IV-take-PFV.CVB two-TOP flower-PL-CONT.ESS behind mountain-SUPER.VERS I.PL-become-PST.UNW
+Translation: The next morning, the two of them got up from their sleep, took a back and went to the mountain for flowers.
+Sentence: Neširutow moƛaxayn bizirno, sosigon bišerno yiła yizi kecerno.
+Gloss: at.night-EMPH sleep-AD.ABL-TOP I.PL-get.up-CAUS-PFV.CVB again-CNTR I.PL-eat-CAUS-PFV.CVB DEM2.IISG.OBL-ERG DEM2.IPL sleep-CAUS-PST.UNW
+Translation: At night he woke them up from their sleep, fed them again and put them to bed.
+Sentence: Sasaqosi moƛaxayn bizin, aždaħä yeɣeni kidbeqorƛin eƛin, Maryam där bišan riso, ič’an eɣeni užiz iyos q’ut’un bic’o mečołxor raƛin.
+Gloss: in.the.morning sleep-AD.ABL-TOP III-get.up-PFV.CVB dragon-ERG II-young-DEF daughter-POSS.LAT-QUOT say-PST.UNW Maryam me-LAT food-TOP IV-take-IMPR most-TOP young-DEF boy-GEN2 blood-GEN1 earthen.jug-TOP III-fill-IMPR field-CONT.VERS IV-bring-QUOT
+Translation: In the morning, after getting up from his sleep, the dragon said to - what he supposed was - his youngest daughter: "Maryam, take the food to me and fill the earthen jug with the youngest boy's blood and bring them to the field!"

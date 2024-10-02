@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: šaširułäyn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": šaširułäyn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word šaširułäyn:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyo nesä esin neł kidbeq, kinaw raqru łanałäyn, didur nesä ža k’onč’ałer łuq’zi adirułäyn.
+Gloss: afterwards DEM1.ISG.OBL-ERG tell-PST.UNW DEM1.IISG.OBL girl-POSS.ESS entire IV-happen-PST.PRT what.OBL-CONT.ABL-and how DEM1.ISG.OBL-ERG DEM1.SG leg-CONT.LAT hurt do-PST.PRT-CONT.ABL-and
+Translation: Afterwards he told that girl everything that had happened and how he hurt his leg.
+Sentence: Q’orola radirun, habihander yizi didur keze baqrułäyn, elo žedudäy xizor bäk’irułäyn, esnaza boyx zawru rek’mołäyn - nasin šebin Beqes ʕUneyzatä esin.
+Gloss: widow-ERG IV-do-PST.PRT-and miller-APUD.LAT DEM2.IPL how meet I.PL-become-PST.PRT-CONT.ABL-and there DEM1.IPL.OBL-APUD.ABL back I.PL-go-PST.PRT-CONT.ABL-and sister-PL-ERG III-do-IPFV.CVB be.NPRS-PST.PRT trick-CONT.ABL-and - all thing sun-GEN1 Uneyzat-ERG tell-PST.UNW
+Translation: About what the widow did, and about how they met the miller, and about how they went back from there, and about the tricks that their sisters played - all these things Sun's Uneyzat told.

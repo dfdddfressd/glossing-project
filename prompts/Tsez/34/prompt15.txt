@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: iħanadanix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": iħanadanix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word iħanadanix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howži yeda č’ʷadmoƛ’or iħanadanix utin:
+Gloss: now DEM2.ISG ruin-SUPER.LAT fight-MSD-AD.ESS turn.back-PST.UNW
+Translation: Now he began to fight with the ruin:
+
+Approximate Matches:
+Sentence: Xizyo xanä q’ˤano äƛirugon hunar bukar mi däqƛin užiqor eƛin, sasaq däz gulude biħanadanix debi mi gulu baƛin.
+Gloss: afterwards khan-ERG two ORD-CNTR talent III-show you me-POSS.ESS-QUOT boy-POSS.LAT say-PST.UNW tomorrow me-GEN2 horse-APUD.ESS III-fight-MSD-AD.ESS you-GEN1 you horse III-bring.IMP-QUOT
+Translation: "Show me the second talent;", the king said to the boy afterwards, "bring your horse tomorrow in order to fight next to my horse!"

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: exura.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": exura
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word exura:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mi där madaħ esus yołi exura zows.
+Gloss: you me-LAT outside find-PST.WIT however kill-INF be.NPRS-PST.WIT
+Translation: Had I found you outside, I would have killed you.
+Sentence: Neła quł sasaqosigon babiya eƛin, ɣudegon nazorno ʕaƛor ʕuraw pulaw riqir, yałi exura yołƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-CNTR dad-ERG say-PST.UNW tomorrow-CNTR all.OBL-LAT-TOP village-LAT much rice IV-take.away else kill-INF be-QUOT
+Translation: The next morning, the father said: "Bring alot of pilaw to everyone in the village tomorrow, or else I will kill you."
+Sentence: Eniw yayrun uži exura k’oƛin.
+Gloss: mother II-come-IMM.ANT.CVB boy kill-INF jump-PST.UNW
+Translation: As soon as the mother came, she jumped to kill the boy.
+
+Approximate Matches:
+Sentence: ʕAƛoz ʕoloqza Ražbadinƛ’o ʕayib erxo zown bexuranix xexbi begirnoƛin, nesä yołi halmaɣłi łet’in.
+Gloss: village-GEN2 young.person-PL-ERG Razhbadin-SUPER.ESS fault put-IPFV.CVB be.NPRS-PFV.CVB I.PL-kill-MSD-AD.ESS children I.PL-send-PFV.CVB-QUOT DEM1.ISG.OBL-ERG however friendship pick-PST.UNW
+Translation: The young people of the village were blaming Razhbadin for sending his children for them to get killed, whereas he, however, choose friendship.
+Sentence: Yisä eƛin, yexuran yexurno di ža rečuƛ rekuyał šušisƛin, dibirä ʕantawni esiw ižin baru šaširuni moči bukarera.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW II-kill-FUT.CVB II-kill-PFV.CVB me DEM1.SG cattleshed-SUB.ESS manure-CONT.ESS bury-PST.WIT-QUOT mullah-ERG stupid-DEF brother lead-PST.UNW wife bury-PST.PRT-DEF place III-show-CAUS-INF
+Translation: He said: "I have indeed killed your wife and burried her in the manure in the shed.", and the mullah led the stupid brother to show him the place where he burried his wife.
+Sentence: Užä eƛin, šida mi di bexura bayx, dowƛ’äygon q’ʷariłiƛ’ din oqzaƛ’ƛin.
+Gloss: boy-ERG say-PST.UNW why you me III-kill-INF III-must-IPFV.CVB you-SUPER.ABL-CNTR sadness-SUPER.ESS me-TOP become-CSL.CVB-QUOT
+Translation: The boy said, "Why would I kill you, when I'm much more sad than you?"

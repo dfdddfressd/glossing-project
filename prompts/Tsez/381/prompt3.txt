@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’aybin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’aybin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yizi nexxo bukayrun, žas babiw žedus hunärƛin nexƛ’oräy, užä xexłiƛ’ ħumukuliƛ’ay q’ayn boɣno bazargan xizor utirno.
+Gloss: DEM2.IPL come-IPFV.CVB I.PL-see-IMM.ANT.CVB boy-GEN1 father DEM1.IPL-GEN1 way-IN.LAT-QUOT come-SIM.CVB boy-ERG quickness-SUPER.ESS camel-SUPER.ABL article-TOP III-take.away-PFV.CVB merchant back turn-PST.UNW
+Translation: When the boy's father came on their way as he saw them coming, the boy quickly took the goods off the camel and the merchant went back.
+Sentence: Ħažataw q’ʷarʕaraw q’ayn sidaƛ’or butirno, maħor boqanix ħadur boqnosi, Beqes ʕUneyzatä eƛin, däz guluƛ’ zown bik’anƛin.
+Gloss: necessary necessary article-TOP one.OBL-SUPER.LAT III-gather-PFV.CVB outside I.PL-become-MSD-AD.ESS prepare I.PL-become-ANT.CVB sun-GEN1 Uneyzat-ERG say-PST.UNW me-GEN2 horse-SUPER.ESS ride-PFV.CVB I.PL-go-FUT.DEF-QUOT
+Translation: They gathered all necessary articles together, and when they prepared to go outside, Sun's Uneyzat said: "We will ride on my horse."
+Sentence: Boc’ä keč’ qˤaƛa baybik bodin, dalay, dalay sida bogmor ʕomoy, dalay, dalay sidagon bogmor mamalay, sidenigon bogmor k’et’un, mešinƛin.
+Gloss: wolf.PL-ERG song sing-INF begin III-do-PST.UNW dalay dalay one.OBL meal-LAT donkey dalay dalay one.OBL-CNTR meal-LAT rooster other-CNTR meal-LAT cat-and bull.calf-and-QUOT
+Translation: The wolves began to sing a song: "Dalay, dalay, a donkey for one meal; dalay, dalay, a rooster for another meal; and a cat and a calf for yet another meal."

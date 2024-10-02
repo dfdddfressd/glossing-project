@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word tełäzay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word tełäzay: 
+
+Exact Matches
+Sentence: Zamanaƛ’aza ɣˤutka tełäzay sis qˤaƛu-bˤaɣu rizin, hiba gugu žek’ƛ’oräy, bečedawni maduhalqo k’ʷač’ni regin.
+Gloss: time-SUPER.VERS.DIST house-IN.ESS inside-IN.ABL.DIST one shout IV-get.up-PFV.CVB stick-ERG back beat-SIM.CVB wealthy-DEF neighbor-POSS.ESS groan-MSD IV-let.go-PFV.CVB
+Translation: Some minutes later one could hear noise and shout inside the house: as the stick beat the wealthy neighbor on his back, he gave a loud groan.
+Sentence: ʕAt’idä qaħłi begirzaƛ’or aħinyoƛ waħo gondu yič’inosi, tełäzay roč’iw łäs qˤuqˤu boƛixno.
+Gloss: Atid-ERG dawn III-let-POST.CVB rock-SUB.ESS below big.hole II-dig-ANT.CVB inside-IN.ABL.DIST IV-cold water-GEN1 stream III-appear-PST.UNW
+Translation: Atid digged a big hole under the rock before the dawn set in, and then a stream of cold water appeared from inside.
+Sentence: Elo tełäzay zurmasno, q’ilisno sas teqxo zown.
+Gloss: there inside-IN.ABL.DIST zurna-GEN1-and drum-GEN1-and noise hear-GER be.NPRS-PST.UNW
+Translation: There they heard the noise of a zurna and a drum from inside.
+
+Approximate Matches:
+Sentence: Tełäzay teqxo där, šida mi dey kid yaqˤuł nece kʷat’izi yoqäƛin, insanzo mecrexor eƛix.
+Gloss: inside-IN.ABL.DIST hear-IPFV.CVB me-LAT why you me-GEN1 daughter today so.much be.late II-become-PST.WIT.INT-QUOT human-GEN2 language-AD.LAT say-PRS
+Translation: I was hearing from inside: "Why are you, my daughter, so late today?", said in a human voice.
+Sentence: Tełäzay sis žuka ɣˤanabin yoƛixno esirno nesiq, heresi esa kaƛ’iya, kaƛ’inč’a.
+Gloss: inside-IN.ABL.DIST one bad woman-TOP II-appear-PFV.CVB ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS lie tell-INF understand.to-Q understand.to-NEG.PST.WIT-Q
+Translation: From inside a bad woman appeared and asked him: "Can you tell a lie or not?
+Sentence: Yisägon roɣno mač’an tełäza aždaħno t’it’i-beč’no, axaza egin maħorno oqno nełas q’ˤim ret’urno kurno.
+Gloss: DEM2.ISG.OBL-ERG-CNTR IV-take.away-PFV.CVB dagger-TOP inside-IN.VERS.DIST dragon-TOP cut.into.pieces-PFV.CVB belly-IN.VERS.DIST break.apart-PFV.CVB outside-TOP become-PFV.CVB DEM1.IISG.OBL-GEN1 head IV-hack-PFV.CVB throw-PST.UNW
+Translation: He took out his dagger and cut the dragon into pieces from inside, broke him apart from out of the belly, got outside and chopped off its head.

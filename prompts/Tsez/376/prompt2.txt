@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’ˤano in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’ˤano: 
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Haq’uł q’ˤano buci boɣnosi, eniya daʕba bičirno yiłał, debez mi ɣˤutkoƛ’or yuti, xedyor rätinč’iƛin.
+Gloss: family-CONT.ESS two month III-spend.time-ANT.CVB mother-ERG dispute III-be-CAUS-PFV.CVB DEM2.IISG.OBL-CONT.ESS you-GEN2 you house-SUPER.LAT II-turn.back husband-LAT IV-love-NEG.FUT-QUOT
+Translation: After spending two months at her family's, the mother had up a dispute with her: "Go back to your house and your husband won't like it."
+
+Approximate Matches:
+Sentence: Žedu q’ˤanon xexbin rižin q’orolay duri bižin režet’ani esnazadäɣor yik’in.
+Gloss: DEM1.IIPL two-TOP children-TOP III.PL-carry-PFV.CVB widow run III-carry-PFV.CVB IV-old-DISTR-DEF sister-PL-APUD.VERS II-go-PST.UNW
+Translation: The widow carried the two children and ran to the older sisters.
+Sentence: Xanes q’ˤanoqu ʕaq’lu boyxosi žek’u zown.
+Gloss: khan-GEN1 forty advice III-do-PRS.PRT man be.NPRS-PST.UNW
+Translation: The king had 40 advisors.
+Sentence: Hudunon xexzaqor babiya moƛałt’a eƛix zown, q’ˤanoqu ɣudi ret’ace däz šudaxor baħnaynäy, mežur ža di äƛiru ukru bäqiƛin.
+Gloss: nevertheless-TOP children-POSS.LAT father-ERG dream-CONT.ESS-DISTR say-IPFV.CVB be.NPRS-PFV.CVB forty day IV-part-TERM me-GEN2 graveyard-AD.LAT I.PL-walk.around-CND.CVB you(I).PL.OBL-LAT DEM1.SG me say-PST.PRT silver III-get-QUOT
+Translation: Nevertheless, the father said to the children in their dream: 'When you come walking to my grave before 40 days have passed, I will get said silver for you.'

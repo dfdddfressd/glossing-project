@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: t’oƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": t’oƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word t’oƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Gula eƛin, mi iłet’ani bahadurzas šudbi yoł t’oƛin.
+Gloss: horse-ERG say-PST.UNW you as-DISTR-DEF hero-PL-GEN1 grave-PL be there-QUOT
+Translation: The horse said: "The graves of heroes like you are there."
+
+Approximate Matches:
+Sentence: Ik’in däz guluzaƛ’no ezu, deber bätiru howlay łˤono gulu łet’oƛin.
+Gloss: go-PFV.CVB me-GEN2 horse-PL-SUPER.ESS-TOP look you-LAT III-want-PST.PRT from.there three horse pick-IMPR-QUOT
+Translation: Go and see my horses, then pick the three horses that you want out of them.
+Sentence: Neł mixƛ’o žoyä ʕansa begirno, xanes sadaq askar t’it’oƛin.
+Gloss: DEM1.IISG.OBL time-SUPER.ESS boy-ERG walking.stick III-send-PST.UNW khan-GEN1 all army destroy-IMPR-QUOT
+Translation: At this time, the boy sent his walking stick: "Destroy the king's entire army!"
+Sentence: Ħolimoƛ’äy muhubi rut’ixozo aɣä hoq’ˤoniqor eƛin, q’ˤidasini howlotow räči ža, ħolimoƛ’osi muhubi rut’oƛin.
+Gloss: mat-SUPER.ABL granule-PL III.PL-collect-IPFV.CVB-ATTR.OBL bird-ERG other-DEF-POSS.LAT say-PST.UNW down-ATTR-DEF there-EMPH III.PL-remain DEM1.SG mat-SUPER.ESS-ATTR granule-PL III.PL-collect-IMPR-QUOT
+Translation: The bird who pecked the granules from the mat said to the other one: "They will remain down there anyway, collect the granules on the mat!"

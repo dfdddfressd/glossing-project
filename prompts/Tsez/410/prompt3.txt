@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word besuroqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word besuroqor: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Baq’ˤu mesedno besuroqur teƛno, yisä ža besuro nesiq raładyołxor begirerno.
+Gloss: III-much gold-TOP fisherman-LAT give-PFV.CVB DEM2.ISG.OBL-ERG DEM1.SG fish DEM1.ISG.OBL-POSS.ESS sea-CONT.VERS III-let-CAUS-PST.UNW
+Translation: He gave the fisherman a lot of gold and had him let the fish into the sea.
+Sentence: Elo yisir besuroqu esun, gamušyozaq ƛisirno sis ixiw besuro bižix.
+Gloss: there DEM2.ISG.OBL-LAT fisherman find-PFV.CVB buffalo-PL-POSS.ESS pull-CAUS-PFV.CVB one big fish III-carry-IPFV.CVB
+Translation: There he found a fisherman who was carrying one big fish by buffalos.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yutixƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yutixƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yutixƛin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ħibaƛ’ k’oƛin bayn zeyä esirno, šebi deber däqay retixƛin.
+Gloss: running run-PFV.CVB III-come-PFV.CVB bear-ERG ask-PST.UNW what you-LAT me-POSS.ABL IV-want-PRS-QUOT
+Translation: The bear came running and asked, "What do you want from me?"
+Sentence: Šebi deber ela roda retixƛin?”
+Gloss: what you-LAT we(I).OBL-ERG IV-do-INF IV-want-PRS-QUOT
+Translation: What do you want us to do?"
+Sentence: Idur aynosi, nesi užä kidbeq esin, hemedur xanzo łiboqande c’oxranix łiboqan elur žigoƛ’ay etixƛin.
+Gloss: home-LAT come-ANT.CVB DEM1.ISG.OBL boy-ERG girl-POSS.ESS tell-PST.UNW so khan-GEN2 wrestler-APUD.ESS hit-CAUS-MSD-AD.ESS wrestler we(I).OBL-LAT again-SUPER.ABL want-PRS-QUOT
+Translation: When he came home, the boy told the girl: "And this time we want a wrestler in order to fight with the king's wrestler."

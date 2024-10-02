@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mada in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mada: 
+
+Exact Matches
+Sentence: Azbaryoz mada gulun bicin, nełał adäzar ʕuraw henešno čˤaƛin, elotow ičix zawru iłe iduɣor ik’in.
+Gloss: palace-GEN2 outside-IN.ESS horse-TOP III-tie-PFV.CVB DEM1.IISG.OBL-CONT.ESS before-IN.LAT many apple-TOP pour.out-PFV.CVB there-EMPH live-IPFV.CVB be.NPRS-PST.PRT as home-IN.ALL go-PST.UNW
+Translation: He tied the horse outside the palace, poured many apples in front of it and went into the house like someone who lived there.
+Sentence: Idurno yik’in užin č’arik’no eniya eƛin, eliz mada łuƛa ixiw ɣˤutku rodinƛin.
+Gloss: home-LAT-TOP II-go-PFV.CVB boy-TOP wake.up-PFV.CVB mother-ERG say-PST.UNW we-GEN2 outside-IN.ESS who.OBL-INDEF big house IV-do-PST.UNW-QUOT
+Translation: The mother went home, woke up the boy and said: "Someone built a big house outside of ours."
+Sentence: Xizyogon hemediwtow roži yołäsi qˤaƛu teqno yisir, eženiz mada reže ɣun yoł, nesä mi ža ɣun reč’anix egär.
+Gloss: then such.a-EMPH word be-RES.PRT shout hear-PFV.CVB DEM2.ISG.OBL-LAT old-DEF-GEN2 yard-IN.ESS IV-big tree be DEM1.ISG.OBL-ERG you DEM1.SG tree IV-cut-MSD-AD.ESS send
+Translation: Then he heard a shout from the same voice: "In the old man's yard is a big tree, he will send you to chop that tree down.
+
+Approximate Matches:

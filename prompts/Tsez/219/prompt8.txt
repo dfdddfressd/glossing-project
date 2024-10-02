@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šet’u in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šet’u: 
+
+Exact Matches
+Sentence: Elo yisir šeƛ’urez meča ħošan lagiq šet’u rutirno ahli besun.
+Gloss: there DEM2.ISG.OBL-LAT clothing-GEN2 instead.of hides-TOP body-POSS.ESS around IV-turn-PFV.CVB people III-find-PST.UNW
+Translation: There he found people wearing hides around their body instead of clothes.
+Sentence: Xanä žedu t’umbi łˤora ɣudi quqan xecin rišerƛ’oräy, aqugani bišno łiyace gulučini t’umi šet’u butix bičin.
+Gloss: khan-ERG DEM1.IPL pigeon-PL three.OBL day hungry-TOP leave-PFV.CVB III.PL-eat-CAUS-SIM.CVB female-ATTR-DEF III-eat-PFV.CVB end-TERM male-DEF pigeon around III-turn-IPFV.CVB III-be-PST.UNW
+Translation: The king left those pigeons hungry for three days, and when he fed them, the male one turned around until the female one had finished eating.
+Sentence: Šebi deber retix, šebi deber neƛanƛin, nazon xalq’imo yeda šet’u utirno, mi äƛiru šebin ela t’ubazi rodanƛin, koyä isxo yeda cuƛert’a kurxo zown, hemece ɣˤaɣˤu bizizaq.
+Gloss: what you-LAT IV-want-PRS what you-LAT give-FUT.DEF-QUOT all.OBL-TOP people-ERG DEM2.ISG around gather-PST.UNW you say-PST.PRT what-TOP we(I).OBL-ERG fulfill IV-do-FUT.DEF-QUOT hand-IN.ESS take-IPFV.CVB DEM2.ISG upward-DISTR throw-IPFV.CVB be.NPRS-PFV.CVB such be.happy I.PL-get.up-CSL.CVB
+Translation: "What do you want? What shall we give you?", all the people gathered around him: "We will fulfill what you say."; and they took him into their hands and threw him upward [several times], because they got so happy.
+
+Approximate Matches:
+Sentence: Yeda sidaɣ ciqo č’iħodyos ažombin šet’ur, roƛƛo azbarno yałza mečoƛ’or ayn.
+Gloss: DEM2.ISG in.one.place forest fruit-GEN1 tree-PL-TOP around IV-middle palace-TOP be-LCV place-SUPER.LAT come-PST.UNW
+Translation: In some place he found a forest with fruit trees all around, and in the middle he came to a place with a palace in the middle.
+Sentence: Eɣeni esiw šet’ur ezu-ʕoƛ’ux, xal bodix ik’ix zown.
+Gloss: young-DEF brother around examine-IPFV.CVB examination III-do-IPFV.CVB go-IPFV.CVB be.NPRS-PST.UNW
+Translation: The young brother went examining and looking around.
+Sentence: Ixiw berten bodin nesi užis, šet’ur yałruni ʕaƛozałäy xalq’in goƛ’in.
+Gloss: big marriage III-do-PFV.CVB DEM1.ISG.OBL boy-GEN1 around be-PST.PRT-DEF village-PL-CONT.ABL people-TOP invite-PST.UNW
+Translation: He arranged the boy's big marriage and invited the people from the villages around.

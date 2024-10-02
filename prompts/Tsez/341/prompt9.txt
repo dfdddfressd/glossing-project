@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xaner in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xaner: 
+
+Exact Matches
+Sentence: Sida idu q’ˤuna xaner moči boqxosi anu.
+Gloss: one.OBL home two.OBL khan-LAT place I.PL-become-PRS.PRT be.NEG
+Translation: In one home there is no place for two kings.
+Sentence: Xizyo žedagon ža ižin xaner teƛno.
+Gloss: afterwards DEM1.IIPL.OBL-CNTR DEM1.SG lead-PFV.CVB khan-LAT give-PST.UNW
+Translation: Afterwards they brought and gave him to the king.
+Sentence: Nesä užiqor eƛin, ža aɣi däqor neƛ xaner bižanixƛin.
+Gloss: DEM1.ISG.OBL-ERG boy-POSS.LAT say-PST.UNW DEM1.SG bird me-POSS.LAT give khan-LAT III-carry-MSD-AD.ESS-QUOT
+Translation: He said to the boy, "Give me that bird, so I can carry it to the king."
+
+Approximate Matches:
+Sentence: Mesedyos saħno, t’asno, reƛ’iqoyn, pandurno boɣno xanez kidbeqay, xanägon nesi žax žan yegirno.
+Gloss: gold-GEN1 sah-and washbowl-and glove-and lute-and III-take.away-PFV.CVB khan-GEN2 daughter-POSS.ABL khan-ERG-CNTR DEM1.ISG.OBL boy-AD.ESS DEM1.SG-TOP II-send-PST.UNW
+Translation: The king took away the sah of gold, the washbowl, the glove and the lute, and sent it back to the boy.
+Sentence: Neła qułno yizi esnabi q’ʷarid boqno bayn, sistow sis kid xanes hoboy ƛexus, žakin yiqixana elułäy sidernoƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS-TOP DEM2.IPL brother-PL sad I.PL-become-PFV.CVB I.PL-come-PFV.CVB one-EMPH one daughter khan-GEN1 now remain-PST.WIT DEM1.SG-even II-get-IPFV.CVB-NEG-Q we(I).OBL-CONT.ABL one.OBL-LAT-TOP-QUOT
+Translation: And the next day, the brothers came home sad: "One single daughter of the king remain's now, and just one of us will get her."
+Sentence: Rätiƛin, žawab teƛno xanez užä.
+Gloss: IV-want-QUOT answer give-PST.UNW khan-GEN2 son-ERG
+Translation: "I want to.", answered the prince.

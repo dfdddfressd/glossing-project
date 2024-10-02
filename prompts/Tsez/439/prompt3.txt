@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word deberno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word deberno: 
+
+Exact Matches
+Sentence: Igtow yeda ƛ’iri utizaƛ’ Tawadä esin, mi yowxozo barurno, deberno saɣłin rodin ħaƛanix di t’akan yizärun, gugyoq tungin bisno akiƛäza yik’ix yukayru kidbeƛ’ ozurin c’oxno, nełaz bercinłä ʕadal oys.
+Gloss: much-EMPH DEM2.ISG above turn-CSL.CVB Tavadi-ERG tell-PST.UNW you II-marry-PRS.PRT.OBL wife-LAT-and you-LAT-and health-TOP IV-do-PFV.CVB drink-MSD-AD.ESS me glass II-lift-IMM.ANT.CVB back-POSS.ESS copper.jug-TOP III-take-PFV.CVB window-SUB.VERS II-go-IPFV.CVB II-see-PST.PRT girl-SUPER.ESS eye-TOP hit-PFV.CVB DEM1.IISG.OBL-GEN2 beauty-ERG intoxication do-PST.WIT
+Translation: Because he insisted so much, Tavadi told him: "Right after lifting my glass to drink on your and your soon to be married wife, my eye met this girl whom I saw going under the window and taking a jar on her back, and her beauty was intoxicating."
+Sentence: Idur aynosi, yisir ciqaɣor erno bišʷan łiyn eniwn nan mekoyx yesuzaƛ’ žoyä meɣyoqor eƛin, wele meɣu deberno, därno, eniwrno ʕeziyaw bišʷa roƛik’ƛin.
+Gloss: home-LAT come-ANT.CVB DEM2.ISG.OBL-LAT forest-IN.VERS put-PFV.CVB food-and end-PFV.CVB mother-and even be.hungry-IPFV.CVB II-find-CSL.CVB boy-ERG udder-POSS.LAT say-PFV.CVB look.out.IMP udder you-LAT-and me-LAT-and mother-LAT-and much food IV-let.appear-QUOT
+Translation: When he came home, he found the food put for [the way into] the forest finished and his mother being hungry, so the boy said to the udder: "Look out, udder, let appear much food for you, me and the mother!"
+Sentence: Debi łˤono uži yoł, dey siskin anuru deberno iyx äsu.
+Gloss: you-GEN1 three son be me-GEN1 anyone be.NEG-PST.PRT you-LAT-TOP know-IPFV.CVB exist
+Translation: You have three sons and should know that I don't have anyone.
+
+Approximate Matches:
+Sentence: Deberno p’es anusi bičinäy, rigu räčiƛin, - eƛin yeda tungi bic’a iħun.
+Gloss: you-LAT-TOP sound be.NEG-ATTR III-be-CND.CVB IV-good IV-be-QUOT - say-PFV.CVB DEM2.ISG copper.jug III-fill-INF begin-PST.UNW
+Translation: It will be good also for you to be quiet", he said and came to fill the jug.

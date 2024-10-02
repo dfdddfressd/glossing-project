@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xecin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xecin: 
+
+Exact Matches
+Sentence: ʕOƛno ħonno xecin yizi bitaɣor bok’ełno.
+Gloss: seven mountain-TOP go.up-PFV.CVB DEM2.IPL distance-IN.VERS I.PL-escape-PST.UNW
+Translation: They went over seven mountains and escaped into the distance.
+Sentence: Esin šebi, xecin šebi zownƛax zown anuƛax sis žek’u.
+Gloss: tell-PFV.CVB what leave-PFV.CVB what be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB be.NEG-QUOT one man
+Translation: Once upon a time there was a man.
+Sentence: Howlo lilyoxtow yedan xecin, xanderno bik’in ziru c’ok’inayn:
+Gloss: there river.bank-AD.ESS-EMPH DEM2.ISG-and leave-PFV.CVB khan-APUD.LAT-and I.PL-go-PFV.CVB fox scold-PST.UNW
+Translation: When they left the river bank there and went to the king, the fox scolded:
+
+Approximate Matches:
+Sentence: Hudun meža di berten bodinč’ey xecinč’u.
+Gloss: nevertheless you(I).PL.OBL-ERG me marriage III-do-NEG.PST.CVB leave-NEG.PST.WIT
+Translation: "Nevertheless you all didn't let me *not* have a marriage.
+Sentence: Elay izin ik’in bigtow manzil xecinosi, žedu esnabi biħanayx zawru mečoƛ’or ayn yeda.
+Gloss: there-IN.ABL get.up-PFV.CVB go-PFV.CVB III-much-EMPH distance leave-ANT.CVB DEM1.IPL brother-PL I.PL-fight-IPFV.CVB be.NPRS-PST.PRT place-SUPER.LAT come-PST.UNW DEM2.ISG
+Translation: He got up and went away, and when he left a great distance after himself, he came to the place where those brothers were fighting.
+Sentence: Aluk’anin, qˤabanin q’ˤanon gulubi rečuƛ ruqˤno xecinƛax.
+Gloss: white-DEF-and black-DEF-and two-TOP horse-PL cattleshed-SUB.ESS III.PL-hide-PFV.CVB leave-PST.UNW-QUOT
+Translation: The white and the black horses he left hidden in the cattleshed.

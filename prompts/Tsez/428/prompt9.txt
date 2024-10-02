@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ƛa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ƛa: 
+
+Exact Matches
+Sentence: Užä eƛin, ƛa boqzaƛ’ beza bik’an nełaƛ’ƛin.
+Gloss: boy-ERG say-PST.UNW go.IMPR III-become-CSL.CVB I.PL-look-INF I.PL-go-FUT.DEF DEM1.IISG.OBL-SUPER.ESS-QUOT
+Translation: The boy said: "Let's go, if it is, we'll look at it!"
+Sentence: Hemełƛ’o bayn adäz qˤays xexoyn bičin yisiqor eƛin, mi siskin pašman aqno, yaqˤuł mi elus tušman bexursi, hoboy mi däz eniwdäɣor däde sadaq ƛa.
+Gloss: DEM4.IISG.OBL-SUPER.ESS III-come-PFV.CVB ahead hare-GEN1 young.animal-TOP III-sit-PFV.CVB DEM2.ISG.OBL-POSS.LAT say-PST.UNW you any become.sad become-PROHIB today you we(I).OBL-GEN1 enemy III-kill-PST.WIT now you me-GEN2 mother-APUD.VERS me-APUD.ESS with go.IMPR
+Translation: Then came a rabbit's young and sat down in front of him and said to him: "Don't become sad! Today you have killed our enemy; now come with me to my mother!
+Sentence: ƛa huduƛin, ʕomoy mamalayn sadaq boɣno hunix boqno.
+Gloss: go.IMPR so-QUOT donkey rooster-TOP together III-take.away-PFV.CVB way-AD.ESS III-become-PST.UNW
+Translation: "So let's go!", and the donkey took the rooster and went on the way.
+
+Approximate Matches:

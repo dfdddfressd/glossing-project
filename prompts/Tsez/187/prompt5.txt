@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bodin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bodin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bodin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neł zamanał bełiqanä eƛin, howła purqay ħalkiłiƛ’aɣor ok’łace sabru bodin bičiƛin.
+Gloss: DEM1.IISG.OBL time-CONT.ESS hunter-ERG say-PST.UNW DEM3.IISG.OBL field-POSS.ABL relaxation-SUPER.VERS go.away-TERM patience III-do-PFV.CVB III-wait-QUOT
+Translation: That time the hunter said: "Wait in patience until I go away to relax from that field."
+Sentence: Aħozä c’aq’ xal bodin zown, nar ža čanya gugixƛin.
+Gloss: shepherd-ERG much examination III-do-PFV.CVB be.NPRS-PST.UNW where DEM1.SG she.goat escape-PRS-QUOT
+Translation: The shepherd examined closely, where this goat escaped to.
+Sentence: Sasaqtow izin žoyä ros bič’anix bašla bodin.
+Gloss: in.the.morning-EMPH get.up-PFV.CVB boy-ERG base III-dig-MSD-AD.ESS begin III-do-PST.UNW
+Translation: In the morning the boy got up and began to dig the base.
+
+Approximate Matches:
+Sentence: Buħima halizi bodinosi, idurno bik’in sabaniƛ’or boƛ’ˤun.
+Gloss: heat-ERG excite III-do-ANT.CVB home-LAT-TOP III-go-PFV.CVB blanket-SUPER.LAT III-fall-PST.UNW
+Translation: When the heat excited him [the dragon], he went home and fell onto the blanket.
+Sentence: Xediw ičäsi zown žiƛbon xecin, k’oxäygon meši bodinč’inäy, bexʷadanƛin.
+Gloss: husband remain-RES.PRT be.NPRS-PST.UNW this.year-TOP leave-PFV.CVB again-IN.ABL-CNTR bull.calf III-do-NEG.FUT-CND.CVB III-slaughter-FUT.DEF-QUOT
+Translation: The husband remained [in his opinion]: "We'll leave it this year and if it doesn't calve again, we shall slaughter it."
+Sentence: Hudun meža di berten bodinč’ey xecinč’u.
+Gloss: nevertheless you(I).PL.OBL-ERG me marriage III-do-NEG.PST.CVB leave-NEG.PST.WIT
+Translation: "Nevertheless you all didn't let me *not* have a marriage.

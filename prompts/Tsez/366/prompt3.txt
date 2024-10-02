@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yałru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yałru: 
+
+Exact Matches
+Sentence: Ik’in nełaq reƛ’iqoy rukarnosi, didiw ža yałru sosisi riynč’ey neła eƛin:
+Gloss: go-PFV.CVB DEM1.IISG.OBL-POSS.ESS glove IV-show-ANT.CVB which DEM1.SG be-PST.PRT at.first-ATTR IV-know-NEG.PST.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: He went and showed her the glove, and at first, when she didn't know what kind of glove this was, she said:
+Sentence: Nesiztow bˤeƛ’eł yałru biƛurox aluk’ani bˤeƛ’q’ˤus reƛ rac’näy, ža xan saɣ oqxosi yałrułin xalq’imor riyxanu.
+Gloss: DEM1.ISG.OBL-GEN2-EMPH sheep-CONT.ESS be-PST.PRT belly-AD.ESS white-DEF sheep-GEN1 meat IV-eat-CND.CVB DEM1.SG khan cure become-PRS.PRT be-PST.PRT-NMLZ-and people-LAT IV-know-IPFV.CVB-NEG
+Translation: When he eats the meat of a sheep from his flock, which is white on its belly, this king will be healed; but the people don't know this.
+Sentence: Elay mekoyx yałru yisä bet’urno neł ɣunoqay c’udani heneš bac’nosi, nesiłäy ɣun roqno.
+Gloss: there-IN.ABL be.hungry-IPFV.CVB be-PST.PRT DEM2.ISG.OBL-ERG III-pull.out-PFV.CVB DEM1.IISG.OBL tree-POSS.ABL red-DEF apple III-eat-ANT.CVB DEM1.ISG.OBL-CONT.ABL tree IV-become-PST.UNW
+Translation: Then, he - being hungry - plucked a red apple from that tree and ate it, he became a tree.
+
+Approximate Matches:
+Sentence: Q’orolayz xabaryoƛ’ay yiłar riyn neł ʕaƛa teł nasin sida bečedaw žek’uz bertenyołer boqxosi yałrułi.
+Gloss: widow-GEN2 story-SUPER.ABL DEM2.IISG.OBL-LAT IV-know-PFV.CVB DEM1.IISG.OBL village-IN.ESS inside all one.OBL wealthy man-GEN2 marriage-CONT.LAT I.PL-become-PRS.PRT be-MSD
+Translation: From the widow's telling, she knew that everyone in this village was going to the wedding of a rich man.
+Sentence: Neła ža beƛ’q’ˤu bac’anix łet’ix yałrułi nesir čuqˤnosi, c’eruc’a caƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG sheep III-eat-MSD-AD.ESS pick-IPFV.CVB be-MSD DEM1.ISG.OBL-LAT notice-ANT.CVB bow shoot.with-PST.UNW
+Translation: When he noticed that she was picking that sheep in order to eat it, he shot with his bow.
+Sentence: Hemeła maqˤizo ʕaƛasi där moƛał yukayru mesedyos nak’ila yałruni kid yiqinč’inäy di anƛ’imoq’az äxuƛin.”
+Gloss: then far.away-ATTR.OBL village-RES.PRT me-LAT dream-CONT.ESS II-see-PST.PRT gold-GEN1 little.finger be-PST.PRT-DEF girl II-get-NEG.FUT-CND.CVB me week-POSS.ESS.DIST(?) die-QUOT
+Translation: "Then, if I don't get the girl from the village far away with the golden pinky, that I saw in my dream, I will die in a week."

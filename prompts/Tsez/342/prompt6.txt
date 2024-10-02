@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’iłnoanu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’iłnoanu: 
+
+Exact Matches
+Sentence: Hunixor oqnosi, yisis k’onč’u yoƛa yoqno, t’ok’ow čaran bexun, elay bitor ik’iłnoanu yeda.
+Gloss: way-AD.LAT become-ANT.CVB DEM2.ISG.OBL-GEN1 leg II-hurt-INF II-begin-PFV.CVB more possibility-TOP III-die-PFV.CVB there-IN.ABL thither go-POT-PST.UNW-NEG DEM2.ISG
+Translation: After he went on their way, his leg began to hurt and he could not go on anymore.
+
+Approximate Matches:
+Sentence: Xanez ɣˤutka tełxor yik’a nično boqno eniw madaxay bitor yik’iłnoanu.
+Gloss: khan-GEN2 house-IN.ESS inside-AD.LAT II-go-INF be.ashamed-TOP III-become-PFV.CVB mother yard-AD.ABL thither II-go-POT-PFV.CVB-NEG
+Translation: The mother was ashamed to go inside the king's house and wasn't able to go further than the yard.

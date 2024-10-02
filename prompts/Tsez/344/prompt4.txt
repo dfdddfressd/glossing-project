@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word babiw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word babiw: 
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Sidaɣ maqˤir ciqaɣorno yisä yedu yižin, hemedurtow gondun yič’in, ƛ’irigon zozis ƛ’ˤun bodin howlo žan xecin babiw xizor utin nexno.
+Gloss: in.one.place far.away-LAT forest-IN.VERS-TOP DEM2.ISG.OBL-ERG DEM2.IISG II-lead-PFV.CVB so-EMPH big.hole-TOP II-dig-PFV.CVB above-CNTR moss-GEN1 roof-TOP III-do-PFV.CVB there DEM1.SG-TOP leave-PFV.CVB father back return-PFV.CVB come-PST.UNW
+Translation: The father led her to a place far away in the forest, likewise dug a hole and built a roof of moss ontop, left her there and returned.
+Sentence: Hudayziko qˤaħłiqtow babiw kidbabi saparyox boqno.
+Gloss: the.next.day dawn-POSS.ESS-EMPH father daughter-PL journey-AD.ESS I.PL-become-PST.UNW
+Translation: The next day at dawn the father (and) the daughters went on their journey.
+
+Approximate Matches:
+Sentence: Xizyo q’ˤidayn izin di dowderno nexno babiwqor eƛan, horo howži yiłas meč’ beč’oƛin.
+Gloss: afterwards down-IN.ABL-TOP get.up-PFV.CVB me you-APUD.LAT-TOP come-PFV.CVB father-POSS.LAT say-FUT.DEF come.IMPR now DEM2.IISG.OBL-GEN1 neck III-cut-IMPR-QUOT
+Translation: Then, when I got up, I will come to you and say to my father: 'Come now, cut off her neck!'
+Sentence: Xizyo baħarayn yižin xanes užin ik’in nesä nesiz babiwdäɣor, sadaqgon nesiz esiws xedyos kidno yižin.
+Gloss: afterwards fiancée-TOP II-lead-PFV.CVB khan-GEN1 son-TOP go-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 father-APUD.VERS together-CNTR DEM1.ISG.OBL-GEN2 sister-GEN1 husband-GEN1 daughter-TOP II-lead-PST.UNW
+Translation: Afterwards, the prince took the fiancée with himself and went to his own father, and together with him he took his sister's husband's daughter.
+Sentence: Xizyo ža ɣˤʷay kidbeƛ’orno butin, neła esirno, hemełƛ’o däz babiwz ƛ’irizoni ɣˤutka teł suratyoƛ’ yukayruni kid deber yiqa rätiyäƛin.
+Gloss: afterwards DEM1.SG dog girl-SUPER.LAT-TOP III-turn-PFV.CVB DEM1.IISG.OBL-ERG ask-PST.UNW DEM4.IISG.OBL-SUPER.ESS me-GEN2 father-GEN2 above-ATTR.OBL-DEF room-IN.ESS inside picture-SUPER.ESS II-see-PST.PRT-DEF girl you-LAT II-get-INF IV-want-PST.WIT.INT-QUOT
+Translation: Afterwards that dog turned into a girl again and asked: "Then, do you want to ge the girl you saw on the picture inside my father's upper room?"

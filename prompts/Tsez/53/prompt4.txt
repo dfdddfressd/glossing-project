@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: äƛi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": äƛi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word äƛi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyogon nesä äƛi, magalu ešadƛin, mi žan ešayn, yałi nesä mi ħoyä tełer karƛin.
+Gloss: then DEM1.ISG.OBL-ERG say bread bake-QUOT you DEM1.SG-TOP bake-PFV.CVB else DEM1.ISG.OBL-ERG you oven-IN.ESS into throw-QUOT
+Translation: Then he will say: 'Bake bread!', and when you don't bake the bread, he will throw you into the oven."
+
+Approximate Matches:

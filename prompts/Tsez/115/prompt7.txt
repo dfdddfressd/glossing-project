@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: caxinč’iru.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": caxinč’iru
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word caxinč’iru:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Užä eƛin, baba, elur caxinč’iru šebin riqa zaħmataw ričixosi yoł.
+Gloss: boy-ERG say-PST.UNW daddy we(I).OBL-LAT write-NEG.FUT.CVB-PST.PRT thing IV-get-INF difficult IV-be-PRS.PRT be
+Translation: The boy said: "Father, it is difficult to get a thing that is not destined for us."
+
+Approximate Matches:
+Sentence: Ža łi ƛ’iri riħinosi, siskin raqinč’iru riłe užisno, ceyesno raqˤyabi ixin.
+Gloss: DEM1.SG water above IV-smear-ANT.CVB anything IV-happen-NEG.FUT.CVB-PST.PRT IV-as boy-GEN1-and eagle-GEN1-and wound-PL heal-PST.UNW
+Translation: He smeared the water on it and the boy's and the eagle's wounds healed like nothing had happened.
+Sentence: Žedu nasin maħor boqnosi, reɣeni xaličan, beɣeni magalun bäqiruni nukarä xizyo yałruxor esin, anƛ’ima baħna-bik’inkin räqinč’iru eluq reƛ, hemesi dowzoniƛ’aygon rigu ɣˤutku yałruni užä neƛsi, debi xexbikin besač’iney žeduƛin.
+Gloss: DEM1.IPL all outside I.PL-become-ANT.CVB IV-small-DEF mat-and III-small-DEF bread-and I.PL-get-PST.PRT-DEF henchman-ERG afterwards be-PST.PRT-AD.LAT tell-PFV.CVB week-IN.ESS I.PL-walk.for.a.while-PFV.CVB-even IV-get-NEG.FUT.CVB-PST.PRT we(I).OBL-POSS.ESS meat DEM4.ISG.OBL you-GEN2-DEF-SUPER.ABL-CNTR IV-pretty house be-PST.PRT-DEF boy-ERG give-PST.WIT you-GEN1 children-even I.PL-exist-NEG.FUT.DEF-DUB DEM1.IPL-QUOT
+Translation: After they all went outside, the henchman who got the small mat and the small bread afterwards told him: "We were walking for a week and this boy with the house even prettier than yours gave us the meat that we didn't get; they even might be your children."
+Sentence: Netin t’ut’ƛ’orkin reƛ’a rizärinč’iru, yedu šebi där yaqˤuł roqäƛin, bikorin bexurno yisiz rok’uƛ’ nexełno.
+Gloss: always fly-SUPER.LAT-even hand IV-lift-NEG.FUT.CVB-PST.PRT DEM2.IISG what me-LAT today IV-happen-PST.WIT.INT-QUOT snake-TOP III-kill-PFV.CVB DEM2.ISG.OBL-GEN2 heart-SUPER.ESS come-POT-PST.UNW
+Translation: "I never even lifted my hand to a fly, what has happened to me today?!", he realized that he killed the snake.

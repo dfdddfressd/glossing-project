@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word tełäzagon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word tełäzagon: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sida zamanałäzagon xanes roƛno.
+Gloss: one.OBL time-CONT.VERS.DIST-CNTR khan-GEN1 IV-be.sick-PST.UNW
+Translation: After some time, the king got sick again.

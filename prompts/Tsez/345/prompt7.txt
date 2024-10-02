@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yisinč’u in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yisinč’u: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyo ɣamasya tełäzay xanez kidber riguƛ’ay rigut’a maq’anyabi teqnosi, neła ža micxiryoƛ yisinč’ey yäčinč’i.
+Gloss: afterwards box-IN.ESS inside-IN.ABL.DIST khan-GEN2 daughter-LAT III.PL-pretty-SUPER.ABL III.PL-pretty-DISTR melody-PL hear-ANT.CVB DEM1.IISG.OBL-ERG DEM1.SG money-SUB.ESS II-buy-NEG.PST.CVB II-be-NEG.FUT
+Translation: Then, after the king's daughter heard the prettiest melodies coming out of the box, she just had to buy it.

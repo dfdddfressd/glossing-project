@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: misikin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": misikin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word misikin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xan ʕuraw ɣˤaɣˤu izin kidno, yisiƛ’ay q’ʷariłi bok’äk’runi misikin užin saɣłiƛ’, nesis muradno t’ubazi bodin xizor butin bayzaƛ’.
+Gloss: khan much be.happy get-PFV.CVB daughter-and DEM2.ISG.OBL-SUPER.ABL sadness III-steal-PST.PRT-DEF poor boy-and health-SUPER.ESS DEM1.ISG.OBL-GEN1 wish-TOP fulfill III-do-PFV.CVB back I.PL-turn.back-PFV.CVB I.PL-come-CSL.CVB
+Translation: The king got very happy that his wish came true, that his daughter and the young boy who helped him out of distress came home safely.
+
+Approximate Matches:
+Sentence: Dandir aždaħ c’oxnosi, Ħuseneł biłetow yiła yisiłno q’ut’i boyx, łox ɣˤul caƛin sosikin nełaz c’oxnäy, yisä ža boƛƛi begira bayx, sosikin c’oxinč’inäy, aždaħä ža igix.
+Gloss: towards dragon meet-ANT.CVB Hussein-CONT.ESS III-as-EMPH DEM2.IISG.OBL-ERG DEM2.ISG.OBL-CONT.ESS-TOP agreement III-do-IPFV.CVB thrice stone throw-PFV.CVB once-even DEM1.IISG.OBL-GEN2 hit-CND.CVB DEM2.ISG.OBL-ERG DEM1.SG III-middle III-break.apart-CAUS-INF III-must-IPFV.CVB once-even hit-NEG.FUT.CVB-CND.CVB dragon-ERG DEM1.SG swallow-PRS
+Translation: When he came to the dragon, he was making the same agreement as with Hussein with him, that if he throws a stone three times and hits him at least once, he must break him apart in the middle, if he doesn't hit him at least once, the dragon would be swallowing him.
+Sentence: Łoxnon łox nesä nełaz ɣˤul caƛin, sosikin c’oxinč’izaƛ’, aždaħä Ħusen gulunnantow sadaq igin kurno.
+Gloss: thrice-INT thrice DEM1.ISG.OBL-ERG DEM1.IISG.OBL-GEN2 stone throw-PFV.CVB at.first-even hit-NEG.FUT.CVB-CSL.CVB dragon-ERG Hussein horse-TOP-INT-EMPH together swallow-PFV.CVB throw-PST.UNW
+Translation: Three times in a row he threw the stone at it and because he didn't hit it, the dragon swallowed Hussein along with his horse.
+Sentence: Hemedur anƛ’ima baħnayn žeduq sosikin bełi biqinanu.
+Gloss: so week-IN.ESS I.PL-walk.around-PFV.CVB DEM1.IPL.OBL-POSS.ESS at.first-even hunting III-get-PFV.CVB-NEG
+Translation: So they walked around for a week and at first didn't get any prey.

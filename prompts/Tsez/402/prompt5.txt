@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reč’äsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reč’äsi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Madaxosini žek’un goƛ’in, xanä nesiq esirno, yedu däz gulus maħi łu reč’äƛin.
+Gloss: gate-AD.ESS-ATTR-DEF man-TOP call-PFV.CVB khan-ERG DEM1.ISG.OBL-POSS.ESS ask-PFV.CVB DEM2.IISG me-GEN2 horse-GEN1 tail who.ERG IV-cut-PST.WIT.INT-QUOT
+Translation: The king called the guard and asked him: "Who has cut off the tail of this horse of mine?"

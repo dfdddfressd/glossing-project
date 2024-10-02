@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word betixozoni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word betixozoni: 
+
+Exact Matches
+Sentence: Nełar žukłi roda retizaƛ’, di xaner hič’č’a betixozoni gulus maħin reč’no, qˤirič’ nełaz mežiƛ ruqˤsi, nełƛ’or rutiraniƛäy.
+Gloss: DEM1.IISG.OBL-LAT evil IV-do-INF IV-want-CSL.CVB me khan-LAT the.most III-love-PRS.PRT.OBL-DEF horse-GEN1 tail-TOP IV-cut-PFV.CVB scissors DEM1.IISG.OBL-GEN2 mattress-SUB.ESS IV-hide-PST.WIT DEM1.IISG.OBL-SUPER.LAT IV-turn-MSD-SUB.ABL
+Translation: Because I wanted to harm her, I cut off the tail of the king's most beloved horse and hid the scissors under her mattress, so it would turn onto her.
+
+Approximate Matches:
+Sentence: Di baħarčiłi etixozonis rik’zi radiƛin”.
+Gloss: me braveness lover-DEF-GEN1 honor IV-do-QUOT
+Translation: "I admire the lover's braveness."

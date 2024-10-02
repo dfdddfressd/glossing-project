@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bizis.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bizis
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bizis:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Šebi deber retix, šebi deber neƛanƛin, nazon xalq’imo yeda šet’u utirno, mi äƛiru šebin ela t’ubazi rodanƛin, koyä isxo yeda cuƛert’a kurxo zown, hemece ɣˤaɣˤu bizizaq.
+Gloss: what you-LAT IV-want-PRS what you-LAT give-FUT.DEF-QUOT all.OBL-TOP people-ERG DEM2.ISG around gather-PST.UNW you say-PST.PRT what-TOP we(I).OBL-ERG fulfill IV-do-FUT.DEF-QUOT hand-IN.ESS take-IPFV.CVB DEM2.ISG upward-DISTR throw-IPFV.CVB be.NPRS-PFV.CVB such be.happy I.PL-get.up-CSL.CVB
+Translation: "What do you want? What shall we give you?", all the people gathered around him: "We will fulfill what you say."; and they took him into their hands and threw him upward [several times], because they got so happy.
+Sentence: Bežet’anibi ʕurawtow ɣˤaɣˤun bizin, nesiƛ’ Tabuldiƛin cin erno.
+Gloss: I.PL-old-DISTR-DEF-PL much-EMPH be.happy-TOP I.PL-get.up-PFV.CVB DEM1.ISG.OBL-SUPER.ESS Tabuldi-QUOT name-TOP put-PST.UNW
+Translation: The oldest ones were very glad and gave him the name Tabuldi.
+Sentence: Ac ħišäsi yesuzaƛ’, ƛ’ˤuƛ’orno bizin, gondun yoɣno, tełerno boqno, łenon užin igin kurno.
+Gloss: door lock-RES.PRT II-find-CSL.CVB roof-SUPER.LAT-TOP III-get.up-PFV.CVB big.hole-TOP II-take.away-PFV.CVB to.the.inside-TOP III-become-PFV.CVB five-TOP son-TOP swallow-PFV.CVB throw-PST.UNW
+Translation: Because it found the door locked, it got onto the roof, made a hole, got inside and gobbled the five sons up.

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Yodin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Yodin: 
+
+Exact Matches
+Sentence: Neła ža imyoq yicin zawruni ɣˤanabi elar yutirxo, t’ar yutirxo esayn q’ˤimaku yiłe yodin yegirno.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG pole-POSS.ESS II-tie-PFV.CVB be.NPRS-PST.PRT-DEF woman here-IN.LAT II-turn-IPFV.CVB thither II-turn-IPFV.CVB wash-PFV.CVB grown.up II-as II-do-PFV.CVB II-let-PST.UNW
+Translation: She washed the woman who was tied to the pole, turning her hither and thither, and let her look like a grown-up.
+Sentence: Didur roqłin, žoyä eniw muk’ur yodin xanes kid esira yik’a.
+Gloss: how IV-happen-CNC.CVB boy-ERG mother persuade II-do-PFV.CVB khan-GEN1 daughter ask-INF II-go-INF
+Translation: Somehow the boy persuaded his mother into going to ask the king's daughter.
+Sentence: Ozuri buqin bˤaɣˤizaƛ’or žedu neł kidbederno baynosi, yeženi esiyagon nesä bisno zawruni č’edosni q’ut’un łäs bic’no, kidbez haqan et’no, ža saɣ yodin.
+Gloss: eye III-close-PFV.CVB III-open-POST.CVB DEM1.IPL.OBL DEM1.IISG.OBL girl-APUD.LAT-TOP I.PL-come-ANT.CVB II-old-DEF brother-ERG-CNTR DEM1.ISG.OBL-ERG III-buy-PFV.CVB be.NPRS-PST.PRT-DEF clay-GEN1-DEF earthen.jug-and water-GEN1 III-fill-PFV.CVB girl-GEN2 mouth-IN.ESS-and pour-PFV.CVB DEM1.SG cure II-do-PST.UNW
+Translation: Before the wink of an eye, they arrived at the girl's; the elder brother filled the clay jug he bought with water, poured it into her mouth and cured her.
+
+Approximate Matches:
+Sentence: Hemełƛ’o bečedawni žek’a eƛin, mi dey kid saɣ yodinäy, maharno erno debex ža di yegiran, retinäy boƛi bok’no dey maʕišat neƛanƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS wealthy-DEF man-ERG say-PFV.CVB you me-GEN1 daughter cure II-do-CND.CVB wedding-TOP set.up-PFV.CVB you-AD.ESS DEM1.SG me II-send-FUT.DEF IV-want-CND.CVB III-half III-hit-PFV.CVB me-GEN1 fortune give-FUT.DEF-QUOT
+Translation: Afterwards the rich man suggested, "If you cure my daughter, I will set up the wedding and if you want, I will give you one half of my fortune."

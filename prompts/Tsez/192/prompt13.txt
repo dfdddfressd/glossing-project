@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ˤunantow.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ˤunantow
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ˤunantow:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.
+Sentence: Bik’in yizä xanesno nesi nukaresno baqru xabar q’ˤunan esnazaq esin.
+Gloss: I.PL-go-PFV.CVB DEM2.IPL.OBL-ERG khan-GEN1-and DEM1.ISG.OBL henchman-GEN1-and III-happen-PST.PRT story two.OBL-TOP sister-PL-POSS.ESS tell-PST.UNW
+Translation: They went away and told the story that happened between the king and that henchman to the two sisters.
+Sentence: Hemedur q’ˤunan ozurazaƛ’ayn ok’ek’no iguni halmaɣ žukanä, howlotow žan xecin oxin nesidäy.
+Gloss: so two.OBL-TOP eye-PL-SUPER.ABL-TOP steal-PFV.CVB good-DEF friend worse-NEG-ERG there-EMPH DEM1.SG-TOP leave-PFV.CVB run.away-PST.UNW DEM1.ISG.OBL-APUD.ABL
+Translation: So the bad one had stolen the two eyes from the the good friend, left him there and ran away from him.

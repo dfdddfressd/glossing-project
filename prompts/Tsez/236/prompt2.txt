@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ziruqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ziruqor: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yedu q’ay idur bayrƛin baruqorno eƛin, babiw užił xizay k’oƛin.
+Gloss: DEM2.IISG article home-LAT III-bring-QUOT wife-POSS.LAT-TOP say-PFV.CVB father son-CONT.ESS behind run-PST.UNW
+Translation: "Bring these goods into the house!", the father told his wife and ran behind his son.
+Sentence: Adäy aderno ik’in ečruni žek’a nesiz baruqor eƛin, mežoxor Ražbadines ƛirba aynƛin.
+Gloss: ahead forward-TOP go-PFV.CVB old-DEF man-ERG DEM1.ISG.OBL-GEN2 wife-POSS.LAT say-PST.UNW you(II-AD.LAT Razhbadin-GEN1 comrade come-PST.UNW-QUOT
+Translation: The old man went ahead and said to his wife: "A comrade of Razhbadin has come to you."
+Sentence: Žedu xabaryayxno teqno, bełiqa baruqor eƛin, mi uži bełiƛ’ egir, ža bełiƛ’ ik’inč’inäy, q’ˤuyzadäzay hudun elur ħak’omƛer šebin räqinč’iƛin.
+Gloss: DEM1.IPL talk-IPFV.CVB-TOP hear-PFV.CVB hunter-ERG wife-POSS.LAT say-PST.UNW you son hunting-SUPER.ESS let DEM1.SG hunting-SUPER.ESS go-NEG.FUT.CVB-CND.CVB other-PL-APUD.ABL.DIST nevertheless we(I).OBL-LAT khinkali-SUB.LAT thing IV-get-NEG.FUT-QUOT
+Translation: When he heard them talking, the hunter said to his wife, "Let the son on a hunt, if he won't go hunting, we won't have anything for our khinkali anyway."

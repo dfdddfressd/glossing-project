@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word gugyoƛ’gon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word gugyoƛ’gon: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neła yeda gugyoƛ’no zowerno soder asaɣor izirno.
+Gloss: DEM1.IISG.OBL-ERG DEM2.ISG back-SUPER.ESS-TOP seat-PFV.CVB upward sky-IN.VERS lift-PST.UNW
+Translation: It seated him on its back and brought him up into the sky.
+Sentence: Yisiz gugyoƛ’or bˤaƛ’un butni bayn.
+Gloss: DEM2.ISG.OBL-GEN2 back-SUPER.LAT III-fall-PFV.CVB burka III-come-PST.UNW
+Translation: And a burka fell over his back.
+Sentence: Xizaɣor asoƛxor bezunosi, yizir yeda ceyez gugyoƛ’no zown, asoł teł ʕuqłäsi ukayn.
+Gloss: finally sky-SUB.LAT I.PL-look-ANT.CVB DEM2.IPL.OBL-LAT DEM2.ISG eagle-GEN2 back-SUPER.ESS-TOP ride-PFV.CVB sky-CONT.ESS inside hide-RES.PRT see-PST.UNW
+Translation: Finally, when they looked into the sky, they saw him hiding in the sky, riding on the eagle's back.

@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: zows using Leipzig glossing symbols. The sentence this word is drawn from means: "By God, I wanted to have someone make a box for so long!".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": zows
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word zows:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žedaxay bitor di q’ˤida ičinč’ey bixno kosix zows.
+Gloss: DEM1.IIPL.OBL-AD.ABL thither me down sit-NEG.PST.CVB grass-TOP mow-IPFV.CVB be.NPRS-PST.WIT
+Translation: Because of them, I didn't sit down but mowed grass.
+Sentence: Din zows elo bertenyoł, hudun mešok’labi dandi at’iłsi.
+Gloss: me-TOP be.NPRS-PST.WIT there marriage-CONT.ESS nevertheless moustache-PL only become.wet-PST.WIT
+Translation: I was there at the wedding as well, but only moustaches got wet.
+Sentence: Mi där madaħ esus yołi exura zows.
+Gloss: you me-LAT outside find-PST.WIT however kill-INF be.NPRS-PST.WIT
+Translation: Had I found you outside, I would have killed you.
+
+Approximate Matches:

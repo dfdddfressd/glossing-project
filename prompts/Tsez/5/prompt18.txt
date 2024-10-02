@@ -1,0 +1,36 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nełaqgon using Leipzig glossing symbols. The sentence this word is drawn from means: "One day the young man brought the turkeys [home] in the evening, took the glass out of his pocke and said: "May here on the field be a house and inside a good table and chairs around it!"".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nełaqgon
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nełaqgon:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Netintow mamalayä at’iwt’a qaca rayrxo zown, nełaqgon c’i era onočar isałxo zown.
+Gloss: always-EMPH rooster-ERG wet-DISTR firewood IV-bring-IPFV.CVB be.NPRS-PST.UNW DEM1.IISG.OBL-POSS.ESS-CNTR fire put-INF hen-LAT be.difficult-IPFV.CVB be.NPRS-PST.UNW
+Translation: The rooster always brought wet firewood, and it was difficult for the hen to light a fire with it.
+Sentence: Hunix ik’iƛ’oräy, neła ħalaq’awni gula nesiqor eƛin, aždaħ kecäsi yałzay, buq bayäsi bičixosi, q’ˤiday bizinosi ža bičixozoni gogaƛ’ ɣedu boqxosi, elo nełaqgon šet’ur k’ešonayx xexoybi ričixosiƛin.
+Gloss: way-AD.ESS go-SIM.CVB DEM1.IISG.OBL thin-DEF horse-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW dragon sleep-RES.PRT be-SIM.CVB sun III-come-RES.PRT III-be-IPFV.CVB-ATTR down-IN.ABL III-get.up-ANT.CVB DEM1.SG III-be-PRS.PRT.OBL-DEF meadow-SUPER.ESS shade III-happen-PRS.PRT there DEM1.IISG.OBL-POSS.ESS-CNTR around play-IPFV.CVB young.animal-PL III.PL-be-PRS.PRT-QUOT
+Translation: While he went on his way, that thin horse said to him: "While the dragon sleeps, the sun goes up, and after he gets up a shadow appears on the meadow, there around it the youngs are playing.
+
+Approximate Matches:
+Sentence: Siskin ɣudi rik’izaƛ’ortow, nełaz bercinłä ʕadalno oyn c’oxno nełaq.
+Gloss: anything day IV-go-POST.CVB-EMPH DEM1.IISG.OBL-GEN2 beauty-ERG intoxication-TOP do-PFV.CVB pounce-PST.UNW DEM1.IISG.OBL-POSS.ESS
+Translation: Even before any day has passed, her beauty drugged him and he pounced on to her.
+Sentence: Xexłiƛ’ k’oƛin babiwderno yik’in, hemesi tusnaq’äzo užir teƛxa mi izmu guluƛ’ zowanirƛin, nełaq eƛin rok’äłrun, xan kid žek’anixƛin iza oqno.
+Gloss: quickness-SUPER.ESS run-PFV.CVB father-APUD.LAT-TOP II-go-PFV.CVB DEM4.ISG.OBL prison-IN.ESS-ATTR.OBL boy-LAT give-IPFV.CVB-Q you permission horse-SUPER.ESS ride-MSD-LAT-QUOT DEM1.IISG.OBL-POSS.ESS say-PFV.CVB IV-escape-IMM.ANT.CVB khan daughter beat-MSD-AD.ESS-QUOT get.up-INF begin-PST.UNW
+Translation: She quickly ran to her father, and when the words "Do you give the permission that the boy in prison can ride the horse?" broke out of her, the king got up to slap his daughter.
+Sentence: Oqnäyƛin, eƛin qˤayz xexoyä, di eniw goƛ’an bik’an, deber rätiru łinałäyn di nełaq esanƛin.
+Gloss: happen-CND.CVB-QUOT say-PST.UNW hare-GEN2 young.animal-ERG me mother call-FUT.CVB III-go-FUT.DEF you-LAT IV-want-PST.PRT what.OBL-CONT.ABL-TOP me DEM1.IISG.OBL-POSS.ESS tell-FUT.DEF-QUOT
+Translation: "If that's the case," said the rabbit's young, "I will go to call mother and you will tell her about what you want."

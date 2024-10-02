@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bič’zi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bič’zi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bič’zi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Esiƛ’ nesiq xabarno xecirno elo yoƛor k’oƛin kidbä eƛin, neł rožes maʕna deber meq’ bič’zi boqno.
+Gloss: tell-PCT.CVB DEM1.ISG.OBL-POSS.ESS story-TOP leave-CAUS-PFV.CVB there II-middle-LAT run-PFV.CVB girl-ERG say-PST.UNW DEM1.IISG.OBL word-GEN1 sense you-LAT incorrectly understand III-become-PST.UNW
+Translation: "Let him cease the story while he's talking!", the girl ran into the middle of there and said: "You misunderstood the sense of these words.
+Sentence: Bik’in yiziri neła ceyder, žedus murad bič’zi boqnosi neła eƛin:
+Gloss: III-go-PFV.CVB DEM2.IPL DEM1.IISG.OBL-ERG eagle-APUD.LAT DEM1.IPL.OBL-GEN1 wish understand III-become-ANT.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: They went to that eagle, and when he had understood their wish, the eagle said:
+Sentence: Nełas där maʕna bič’zi boqxanu.
+Gloss: DEM1.IISG.OBL-GEN1 me-LAT sense understand III-become-IPFV.CVB-NEG
+Translation: I don't understand what this means.
+
+Approximate Matches:
+Sentence: Nełƛ’ay soder žedur žedu bič’zin boqno, t’ok’ow mamalay iħuxor łoħroderno bik’ix zown anu, netin quqäsi gurow qacan rayrxo zown anu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after DEM1.IPL.OBL-LAT DEM1.IPL.OBL understand-TOP III-become-PFV.CVB anymore rooster river-AD.LAT frog-APUD.LAT-TOP III-go-IPFV.CVB be.NPRS-PFV.CVB be.NEG always dry except firewood-TOP IV-bring-IPFV.CVB be.NPRS-PFV.CVB be.NEG
+Translation: After that, they understood each other, the rooster didn't go to the frog at the river anymore and always brought dry firewood only.

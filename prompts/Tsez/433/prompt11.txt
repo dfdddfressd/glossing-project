@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Ražbadin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Ražbadin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Tawadi bercingo ezun ičäsi yałzay, sid žoyä Ražbadinxo yowxozo baħarayz hibon bok’no łočyaƛ’ yoɣno.
+Gloss: Tavadi well look-PFV.CVB wait-RES.PRT be-SIM.CVB one.OBL boy-ERG Razhbadin-AD.ESS II-marry-PRS.PRT.OBL fiancée-GEN2 stick-TOP III-beat-PFV.CVB dance-SUPER.ESS II-take.away-PST.UNW
+Translation: While Tavadi was looking carefully, one boy hit the bride that was to marry Razhbadin with a stick and took her away to dance.
+Sentence: Babiwqay kidbes rožin riqirno ɣˤaɣˤun izin Ražbadin iduɣor ik’iƛ’oräy, dandir keze aqru esiwq babiw razi oqsiƛin esin.
+Gloss: father-POSS.ABL daughter-GEN1 word-TOP IV-take.away-PFV.CVB be.happy-TOP get.up-PFV.CVB Razhbadin home-IN.ALL go-SIM.CVB together meet become-PST.PRT brother-POSS.ESS father agree become-PST.WIT-QUOT tell-PST.UNW
+Translation: Razhbadin took the girl's word from the father, got happy and while he went home, he told his brother whom he met, that the father agreed.
+Sentence: Rigutow riguƛin rok’ƛ’orno rayn, maħorno yoqno yiła guluzaƛ’ay q’ayn boɣno pikru bodin, Ražbadinqo iłäsi iłewa yeda där iyäƛin.
+Gloss: IV-good-EMPH IV-good-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB outside-TOP II-become-PFV.CVB DEM2.IISG.OBL-ERG horse-PL-SUPER.ABL article-TOP III-take.away-PFV.CVB idea III-do-PFV.CVB Razhbadin-POSS.ESS resemble-RES.PRT as-Q DEM2.ISG me-LAT know-Q-QUOT
+Translation: "Very good", she thought, came outside and took the articles off the horse and thought: "He looks like Razhbadin."

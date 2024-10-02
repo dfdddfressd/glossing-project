@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: heresi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": heresi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word heresi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła nesiqno esirno, deber heresi esa kaƛ’iyä kaƛ’inč’aƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS-TOP ask-PST.UNW you-LAT lie tell-INF understand.to-PST.WIT.INT understand.to-NEG.PST.WIT-Q-QUOT
+Translation: She asked him as well: "Can you tell a lie or not?"
+Sentence: T’ok’ow heresi mec esanix rok’ƛ’or rayärnoƛin.”
+Gloss: anymore false language tell-MSD-AD.ESS heart-SUPER.LAT IV-bring-PROHIB-QUOT
+Translation: Don't come up with the idea of telling lies again.
+Sentence: Čanno suƛƛi boƛixno sis hil karun, bˤulamzałäy aħyałerno c’oxno łˤora k’onč’aƛ’or boxin bik’isƛin”, - žawab teƛno heresi mec esixoza.
+Gloss: deer-TOP suddenly III-appear-PFV.CVB one bullet throw-IMM.ANT.CVB hoof-PL-CONT.ABL ear-CONT.LAT-TOP hit-PFV.CVB three.OBL leg-SUPER.LAT III-run.away-PFV.CVB III-go-PST.WIT-QUOT - answer give-PST.UNW false language tell-PRS.PRT.OBL-ERG
+Translation: "A deer suddenly appeared and the bullet that was shot, hit it through the legs and pierced the ear, so it ran away on its three legs", answered the liar.
+
+Approximate Matches:
+Sentence: Žek’alini nukarä eƛix teqno, nukarza debeq heresin esis, ža łin žeda esnabi bičixozo mečoƛ’ay ric’si, žedu xexbi debikin besač’ineyƛin.
+Gloss: beat-ATTR-DEF henchman-ERG say-IPFV.CVB hear-PST.UNW henchman-PL-ERG you-POSS.ESS lie-TOP tell-PST.WIT DEM1.SG water-TOP DEM1.IPL.OBL-ERG brother-PL I.PL-live-PRS.PRT.OBL place-SUPER.ABL IV-fill-PST.WIT DEM1.IPL children you-GEN1-even III-find-NEG.FUT.DEF-DUB-QUOT
+Translation: They heard the beaten henchman say: "The henchmen lied to you, they filled that water from the place where the siblings live; couldn't these children perhaps be yours?"

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Elayn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Elayn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Elayn:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Kidbägon elayn bisno neła nełaz pardagix bicin.
+Gloss: girl-ERG-CNTR there-IN.ABL-PFV.CVB III-take-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 scarf-AD.ESS III-tie-PST.UNW
+Translation: The girl then went and took it and tied it to her own scarf.
+Sentence: Nedurä mi dey wasi t’ubazi bodix zownƛin, elayn bizin ziru xanes kidbederno bik’in esin nełaq ža ɣˤutkun, maʕišatno ɣˤʷays yałrułin, žatown habihan yołƛinno.
+Gloss: so-Q you me-GEN1 testament fulfill III-do-IPFV.CVB be.NPRS-PST.UNW-QUOT there-IN.ABL-TOP III-get.up-PFV.CVB fox khan-GEN1 daughter-APUD.LAT-TOP III-go-PFV.CVB tell-PFV.CVB DEM1.IISG.OBL-POSS.ESS DEM1.SG house-and fortune-and dog-GEN1 be-PST.PRT-NMLZ-and DEM1.SG-EMPH-and miller be-QUOT-TOP
+Translation: "So you have fulfilled my wish?", [said] the fox[,] got up from there, went to the king's daughter and told her that the house and the fortune all belong to the dog and that he is just a miller.
+Sentence: Xizyo Kusa xanez kidbeden kecno, qˤašiƛ’aɣor kid moƛaq yiqirnosi, elayn izin ɣamasya tełerno oqno, tełäzgon žan ħišin, maq’anyabi rižixosi pelun yexurno.
+Gloss: afterwards Kusa-ERG khan-GEN2 daughter-APUD.ESS-TOP sleep-PFV.CVB dawn-SUPER.VERS girl sleep-POSS.ESS II-stop-ANT.CVB there-IN.ABL-TOP get.up-PFV.CVB box-IN.ESS into-TOP become-PFV.CVB inside-IN.ESS.DIST-CNTR DEM1.SG-TOP lock-PFV.CVB melody-PL III.PL-carry-IPFV.CVB-ATTR pipe-TOP II-kill-PST.UNW
+Translation: Afterwards, when Kusa had slept with the king's daughter, and the girl had stopped sleeping, he got up from there and went into the box, locked it from inside and destroyed the pipes which played the melodies.
+
+Approximate Matches:
+Sentence: Neł t’umä ža t’akan yižin xaneł purłäzan eqerno, elaygon bitor hawaƛ’ žedu biħada bik’ixozo xanzo akixor bik’in.
+Gloss: DEM1.IISG.OBL pigeon-ERG DEM1.SG glass II-carry-PFV.CVB khan-CONT.ESS side-CONT.VERS.DIST-TOP put-PFV.CVB there-IN.ABL-CNTR thither air-SUPER.ESS DEM1.IPL III-fight-INF III-go-PRS.PRT.OBL khan-GEN2 window-AD.LAT III-go-PST.UNW
+Translation: The pigeon carried this glass, put it next to the king and from there flew to the king's window, from which they went out to fight.
+Sentence: Yisän eli baƛ’irsiƛin, elaygon bitor bazarganbi hunix boqno, waranibin rižin äk’iru žaz ʕaƛaɣorno bezun.
+Gloss: DEM2.ISG.OBL-ERG-TOP we I.PL-cheat-PST.WIT-QUOT here-IN.ABL-CNTR thither merchant-PL way-AD.ESS I.PL-become-PFV.CVB camel-PL-TOP III.PL-lead-PFV.CVB go-PST.PRT boy-GEN2 village-IN.VERS-TOP I.PL-look-PST.UNW
+Translation: "He cheated us as well," the merchants [said and] got on their way away from their and looked for the village of the boy who went leading the camels.
+Sentence: Kid elaygon waħozoni dunyalƛ’o yexurno...”
+Gloss: daughter there-IN.ABL-CNTR below-ATTR.OBL-DEF world-SUPER.ESS II-kill-PST.UNW
+Translation: Our daughter got killed in the world below that one..."

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bižin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bižin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bižin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ɣˤaɣˤun izin nesä ža butni bazaryay bisno bižin.
+Gloss: be.happy-and get.up-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG burka bazar-IN.ABL III-buy-PFV.CVB III-carry-PST.UNW
+Translation: He got happy and bought the burka from the market.
+Sentence: Beynoda retinäy däde mežur ħalt’in yoł, deytow iłno kidno yoł mežux regiranixƛin, eƛin yiła yizirabi iduɣor bižin.
+Gloss: I.PL-work-INF IV-want-CND.CVB me-APUD.ESS you(I).PL.OBL-LAT work-and be me-GEN1-EMPH six daughter-and be you(I).PL.OBL-AD.ESS IV.PL-let-MSD-AD.ESS-QUOT say-PST.UNW DEM2.IISG.OBL-ERG DEM2.PL home-IN.ALL I.PL-lead-PST.UNW
+Translation: If you want to work, there's work for you at my place, and also my six daughters to be sent to you." she said and let them into her home.
+Sentence: Ža nece bercinawni aɣin bižin, łacez guluƛ’no zown, yeda hawaƛ’ k’oƛin iduɣor ik’in.
+Gloss: boy-ERG so.much beautiful-DEF bird-TOP III-carry-PFV.CVB wind-GEN2 horse-SUPER.ESS-and ride-PFV.CVB DEM2.ISG air-SUPER.ESS jump-PFV.CVB home-IN.ALL go-PFV.CVB
+Translation: The boy took this beatiful bird and rode his wind horse home.
+
+Approximate Matches:
+Sentence: Xizyogon urɣizi oqno xan, c’ohores q’ˤim anunč’uruni cudi sidaɣ qunyoxorno bayran, nesiz ʕagarłä ža šudał šušanix elay bižinč’ey xäcinč’i, hemełƛ’o där šebi ža c’ohor yałrun äyƛin.
+Gloss: then thinking become-PST.UNW khan thief-GEN1 head be.NEG-NEG.PST.WIT-PST.PRT-DEF corpse in.one.place farmstead-AD.LAT-TOP III-bring-FUT.CVB DEM1.ISG.OBL-GEN2 relatives-ERG DEM1.SG graveyard-CONT.ESS bury-MSD-AD.ESS there-IN.ABL III-carry-NEG.PST.CVB leave-NEG.FUT DEM4.IISG.OBL-SUPER.ESS me-LAT who DEM1.SG thief be-PST.PRT-TOP know-QUOT
+Translation: Then the king pondered: "I will bring the thief's headless corpse to the farmstead, his relatives won't leave without taking him from there to bury him on a graveyard."

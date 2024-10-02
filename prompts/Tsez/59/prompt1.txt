@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Žedur.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Žedur
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Žedur:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+Sentence: Kʷaxatow bełiqanä barun yown, ƛˤeb ħišiłzaƛ’or žedur q’ˤuƛas q’ˤano uži odin.
+Gloss: soon-EMPH hunter-ERG wife-TOP II-marry-PFV.CVB year be.over-POST.CVB DEM1.IPL-LAT twin-GEN1 two son do-PST.UNW
+Translation: Soon the hunter married a wife, and before a year was over, two twin boys were born to them.
+Sentence: Hunix bik’iƛ’orey, žedur ħumukulis ruɣu resun.
+Gloss: way-AD.ESS I.PL-go-SIM.CVB DEM1.IPL.OBL-LAT camel-GEN1 prints IV-find-PST.UNW
+Translation: While being on their way, they found the hoofprints of a camel.
+
+Approximate Matches:
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."
+Sentence: Ža ɣˤanabi yałrułi žedurno yiynanu.
+Gloss: DEM1.SG woman be-MSD DEM1.IPL.OBL-LAT-TOP II-know-PFV.CVB-NEG
+Translation: And they didn't know that she was a woman.

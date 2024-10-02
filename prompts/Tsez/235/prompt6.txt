@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žek’u in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žek’u: 
+
+Exact Matches
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Hag oqno ƛexun ečruni žek’u.
+Gloss: amazingly become-PFV.CVB remain-PFV.CVB old-DEF man
+Translation: The old man was amazed.
+
+Approximate Matches:
+Sentence: Sida bečedaw žek’uderno ik’in, nesiz k’udoz baɣman eynoyn, micxirno bodin, bižin babiwqor teƛno.
+Gloss: one.OBL wealthy man-APUD.LAT-TOP go-PFV.CVB DEM1.ISG.OBL-GEN2 vine-GEN2 garden-IN.ESS-TOP work-PFV.CVB money-TOP III-do-PFV.CVB III-carry-PFV.CVB father-POSS.LAT give-PST.UNW
+Translation: He went to a wealthy man, worked on his vineyard, earned money and carried it to give it to his father.
+Sentence: Allahzo ħalk’ołiƛ’aza ɣˤutkoxor ayzaƛ’ortow gamiƛ’ozoni žek’uz ozzałer č’ura rayn.
+Gloss: God-GEN2 might-SUPER.VERS.DIST house-AD.LAT come-POST.CVB-EMPH boat-SUPER.ESS-GEN2-DEF man-GEN2 eye-PL-CONT.LAT light IV-come-PST.UNW
+Translation: Through Allah's might, the light came back to the sailor's eyes even before he had come to his house.
+Sentence: Sida ečru žek’ur ciqqo qacis łˤono hoko t’ät’irus łˤono ɣˤuruš yiqäsi zows, hudun iduɣor ayƛ’oräy, bikori bexurxo ʕoloqbin besun, ža begirno xecaniƛ žedur łˤonon ɣˤuruš teƛsi diƛin, esin žoyä.
+Gloss: one.OBL old man-LAT forest-POSS.ESS firewood-GEN1 three carriage fell-PST.PRT-GEN1 three ruble II-get-RES.PRT be.NPRS-PST.WIT nevertheless home-IN.ALL come-SIM.CVB snake III-kill-IPFV.CVB young.person-PL-TOP I.PL-find-PFV.CVB DEM1.SG III-let-PFV.CVB leave-MSD-SUB.ESS DEM1.IPL.OBL-LAT three-TOP ruble give-PST.WIT me-QUOT tell-PST.UNW boy-ERG
+Translation: "I got three rubles for felling three carriages full of firewood for an old man; but while I was coming home, I found some young people who were killing a snake and I gave them the three rubles for letting go of it.", he told.

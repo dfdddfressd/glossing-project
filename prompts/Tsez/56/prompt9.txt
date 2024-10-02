@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eƛnoqor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eƛnoqor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eƛnoqor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elur yiłaƛ’ay mustaħiq’aw močin bäsunč’i, ži eƛnoqor ħadur roqanix zamanno bayn, howt’otow ričanƛin, žedas ħukmu boqno.
+Gloss: we-LAT DEM2.IISG.OBL-SUPER.ABL suitable place-TOP III-find-NEG.FUT now winter-POSS.LAT preparation III.PL-become-MSD-AD.ESS time-TOP III-come-PFV.CVB here-EMPH III.PL-live-FUT.DEF-QUOT DEM1.IIPL.OBL-GEN1 decision III-become-PST.UNW
+Translation: "We won't find a place more suitable than this one; now the time has come to prepare for the winter; we will live here." was their decision.
+Sentence: Sosisi ʕomoyn, mešin ričäsi zown regirxanuƛin, mežan ela riłetow eƛnoqor ħadurłi roda yałiƛin.
+Gloss: at.first-LNK donkey-and bull.calf-and III.PL-remain-RES.PRT be.NPRS-PFV.CVB III.PL-let-IPFV.CVB-NEG-QUOT you.PL-ERG-TOP we-ERG III.PL-as-EMPH winter-POSS.LAT preparation IV-do-INF else-QUOT
+Translation: At first, the donkey and the calf remained not letting them in: "You must as well, just like us, make preparation for the winter!"
+Sentence: ʕOmoyn, mešin yołi tełxorno riħun, eƛnoqor rutäruni bix tatanaxorno roqno rac’xo zown.
+Gloss: donkey-and bull.calf-and however inside-AD.LAT-TOP III.PL-sit.down-PFV.CVB winter-POSS.LAT IV-gather-PST.PRT-DEF hay warmth-AD.LAT-TOP III.PL-become-PFV.CVB IV-eat-IPFV.CVB be.NPRS-PST.UNW
+Translation: The donkey and the calf, however, sat down inside in the warmth and ate the hay that had been gathered for the winter.
+
+Approximate Matches:
+Sentence: Nukarza Ismaʕil ciqaɣorno ižin, exuran k’ʷeze roqinč’ey, ozurabin roɣno yizä ža howlotow ɣunoqor icin xecin.
+Gloss: henchman-PL-ERG Ismail forest-IN.VERS-TOP carry-PFV.CVB kill-INF-TOP can IV-become-NEG.PST.CVB eye-PL-TOP IV.PL-take.away-PFV.CVB DEM2.IPL.OBL-ERG DEM1.SG there-EMPH tree-POSS.LAT tie-PFV.CVB leave-PST.UNW
+Translation: The henchmen carried Ismail into the forest, but couldn't kill him; so they pricked out his eyes, bound him to a tree and left him there.
+Sentence: Bayn bełiqanza bišʷa esirnosi, nesän žeduq raqru šebin esin, hemedurtow mamalayƛ’no zown t’omceni žek’un ayn, nasintow bišʷa rac’a ža oqnosi elay ža oɣƛ’oräy, mešok’lałäy musno boɣno nesä di ɣunoqor icisƛin mus bukarno.
+Gloss: I.PL-come-PFV.CVB hunter-PL-ERG food ask-ANT.CVB DEM1.ISG.OBL-ERG-TOP DEM1.IPL.OBL-POSS.ESS IV-happen-PST.PRT thing tell-PST.UNW so-EMPH rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB span-EQU1-DEF man-TOP come-PFV.CVB all-EMPH food IV-eat-INF DEM1.SG begin-ANT.CVB there-IN.ABL DEM1.SG take.away-SIM.CVB moustache-CONT.ABL hair-TOP III-take.away-PFV.CVB DEM1.ISG.OBL-ERG me tree-POSS.LAT tie-PST.WIT-QUOT hair III-show-PST.UNW
+Translation: When the hunters came and asked for food, he also told them what had happened: "So a span-sized man came riding on a rooster, and when he began to eat up all the food and I wanted to take him away from there, he took a hair out of his moustache and tied me to a tree." and he showed them the hair.
+Sentence: Yizin maħorno yoqno yezunosi, ɣuros reqenno bayrno rayäsi, eƛnoq yiłas posu rac’runi boc’an, zeybin resun.
+Gloss: II-get.up-PFV.CVB outside-TOP II-become-PFV.CVB II-look-ANT.CVB cows-GEN1 herd-TOP III-bring-PFV.CVB III.PL-come-RES.PRT winter-POSS.ESS DEM2.IISG.OBL-GEN1 cattle IV-eat-PST.PRT-DEF wolf.PL-and bear-PL-and III.PL-find-PST.UNW
+Translation: After she got up, went outside and had a look, the wolves and bears that had eaten her cattle in winter, turned up leading a cow herd.

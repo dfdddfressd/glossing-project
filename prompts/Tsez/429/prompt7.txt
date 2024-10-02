@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bertenno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bertenno: 
+
+Exact Matches
+Sentence: Kʷaxatow bertenno boyn yedu kid nesi žoyä yižin.
+Gloss: soon-EMPH marriage-TOP III-do-PFV.CVB DEM2.IISG girl DEM1.ISG.OBL boy-ERG II-lead-PST.UNW
+Translation: Soon they celebrated their wedding and the boy took the girl with him.
+Sentence: Yisä yisir łˤora ɣudi bertenno erno, bercinawƛ’ay bercinawt’a kidbabin rukarno, howt’aytow barun yižoƛin harizin rodin, roƛik’u xanłin riso howt’otow uyn iči, mi iłe baħarči naynkin t’ok’ow elur äqinč’iƛin.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-LAT three.OBL day marriage-and put-PFV.CVB beautiful-SUPER.ABL beautiful-DISTR girl-PL-and II.PL-show-PFV.CVB from.here-EMPH wife-TOP II-take.out-IMPR-QUOT request-TOP IV-do-PFV.CVB IV-half khanate-TOP IV-take-IMPR here-EMPH just-TOP be you as brave.young.man from.nowhere anymore we(I).OBL-LAT get-NEG.FUT-QUOT
+Translation: He arranged a 3-day lasting marriage for him, presented girls that were prettier than pretty, "Choose a wife from here!", he begged, "Settle down here and take half of the kingdom, from nowhere will we ever get such a brave young man as you, anymore!"
+Sentence: Hudayzikotow bertenno bodin, miskinaw oqłin ʕaq’ilawni žax nesi žek’a äƛiruxor, kidno yegirno.
+Gloss: the.next.day-EMPH marriage-TOP III-do-PFV.CVB poor become-CNC.CVB intelligent-DEF boy-AD.ESS DEM1.ISG.OBL man-ERG ORD-AD.LAT girl-TOP II-send-PST.UNW
+Translation: The next day the wedding was arranged and the girl was - as this man had told - married off to the intelligent though poor boy.
+
+Approximate Matches:
+Sentence: Yedu kidgon Ražbadinqor baqru ʕišq’ud, netey yedu berten bodixƛin, iduɣor yik’ixosi hunin šuƛ’in qˤilo yok’ełxo.
+Gloss: DEM2.IISG girl-CNTR Razhbadin-POSS.LAT III-become-PST.PRT love-INSTR when-DUB DEM2.IISG marriage III-do-PRS-QUOT home-IN.ALL II-go-PRS.PRT way-TOP forget-PFV.CVB erroneously II-go.away-PRS
+Translation: The girl was so in love with Razhbadin, and because she prepared that marriage, she forgot the way home and got lost.
+Sentence: Nesi užä mežus ʕumru xʷasar bodäsi boqzaƛ’, nesiłno, Beqes ʕUneyzatełno esnałin risno žeduz bertenyołxor bik’i, ent’aytow ħaƛu-bišanix šebinon rižin.
+Gloss: DEM1.ISG.OBL boy-ERG you(I).PL.OBL-GEN1 life rescue III-do-RES.PRT III-become-CSL.CVB DEM1.ISG.OBL-CONT.ESS-and sun-GEN1 Uneyzat-CONT.ESS-and brother IV-take-PFV.CVB DEM1.IPL.OBL-GEN2 marriage-CONT.VERS I.PL-go from.here-IN.ABL-EMPH eat.and.drink-MSD-AD.ESS something IV-take.out-PFV.CVB
+Translation: Because that boy saved your life, you should fraternize with him and Sun's Uneyzat and go to their marriage after taking something to eat and drink with you."
+Sentence: Yisiz bertenyołer xanno, nesä saɣ adiruni ža nesis užin, žasgon ža barun yayn.
+Gloss: DEM2.ISG.OBL-GEN2 marriage-CONT.LAT khan-TOP DEM1.ISG.OBL-ERG cure do-PST.PRT-DEF DEM1.SG DEM1.ISG.OBL-GEN1 son-TOP son-GEN1-CNTR DEM1.SG wife-TOP II-come-PFV.CVB
+Translation: The khan and his son, who was cured by this doctor, came to the marriage with his wife.

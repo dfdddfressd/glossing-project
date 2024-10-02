@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reynodanix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reynodanix: 
+
+Exact Matches
+Sentence: Zamanałäy yisider sid miskinaw haq’us užä ayn eƛin, däq regirnäy, žedu di reynodanix ruhun rodanƛin.
+Gloss: time-CONT.ABL DEM2.ISG.OBL-APUD.LAT one.OBL poor family-GEN1 boy-ERG come-PFV.CVB say-PFV.CVB me-POSS.ESS III.PL-send-CND.CVB DEM1.IPL me III.PL-work-MSD-AD.ESS teach III.PL-do-FUT.DEF-QUOT
+Translation: After a while, a boy from a poor family came to him and said: "If you send them to me, I'll teach them how to work."
+
+Approximate Matches:
+Sentence: Ħak’omƛerce šebin riqiraniƛäy, eynodanix močin k’edin oqäsi yołƛin, esin Alimaħama.
+Gloss: khinkali-SUB.LAT-EQU1 thing IV-win-MSD-SUB.ABL work-MSD-AD.ESS place-TOP search-PFV.CVB become-RES.PRT be-QUOT tell-PST.UNW Alimagomed-ERG
+Translation: "I have come to search a place to work in order to earn some food."
+Sentence: Babiya uži eynodanixno egirno, nesä badiru micxir bukarerno.
+Gloss: dad-ERG son work-MSD-AD.ESS-TOP send-PFV.CVB DEM1.ISG.OBL-ERG III-do-PST.PRT money III-show-CAUS-PST.UNW
+Translation: The father sent his son to work and made him show the money he earned.
+Sentence: Xizyo bečedawni žek’a naysinan xabar begirno, howziri ganbi reynodaniƛ’or kuczi radiru žek’ur di sis gani teƛa yołƛin.
+Gloss: afterwards wealthy-DEF man-ERG everywhere story III-let-PFV.CVB DEM3.PL bull.calf-PL III.PL-work-MSD-SUPER.LAT teach III.PL-do-PST.PRT man-LAT me one bull.calf give-INF be-QUOT
+Translation: After that, the rich man spread the word, that he would give one bull to the person, who would be able to make these bulls work.

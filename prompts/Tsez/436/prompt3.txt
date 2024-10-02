@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nełaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nełaƛ: 
+
+Exact Matches
+Sentence: Babiwn razi oqno nełaƛ’, bełiqus uži uqˤłanix egirno.
+Gloss: father-TOP agree become-PFV.CVB DEM1.IISG.OBL-SUPER.ESS hunter-GEN1 son hide-MSD-IPFV.CVB let-PFV.CVB
+Translation: The father agreed and let the hunter's son hide himself.
+Sentence: Kut’yoƛ’aza puƛ’aza nełaƛ’ nucos sik zown”.
+Gloss: right.side-SUPER.VERS.DIST side-SUPER.VERS.DIST DEM1.IISG.OBL-SUPER.ESS honey-GEN1 waterskin be.NPRS-PST.UNW
+Translation: On its right side there was a waterskin with honey.
+Sentence: Hudun žedu nełaƛ’ ƛ’iri butin ɣudi rayrno, elułäy sidxokin mi nexinč’inäy, bazaryarno yižin teƛa yołƛin.
+Gloss: nevertheless DEM1.IPL DEM1.IISG.OBL-SUPER.ESS on I.PL-turn-PFV.CVB day IV-bring-PFV.CVB we(I).OBL-CONT.ABL one.OBL-AD.ESS-even you come-NEG.FUT.CVB-CND.CVB bazar-IN.LAT-TOP II-lead-PFV.CVB sell-INF be-QUOT
+Translation: Nevertheless, they tortured her again: "If you don't marry any of us, we will take you to the market and sell you!"
+
+Approximate Matches:
+Sentence: Neła imadał yoƛäk’ru ɣˤanabin di yołƛin, neła nełaƛ’ay aħozis k’uk boɣno.
+Gloss: DEM1.IISG.OBL tale-CONT.ESS II-let.appear-PST.PRT woman-TOP me be-QUOT DEM1.IISG.OBL-ERG DEM1.IISG.OBL-SUPER.ABL shepherd-GEN1 cap III-take.away-PST.UNW
+Translation: And I am the woman who appeared in this tale.", [she said] and took away the shepherd's cap.
+Sentence: K’ox äƛiru caƛin, hil dahaw ceyde igo yiłe č’aq’ˤinosi, nełaƛ’no k’ek’-bik’noanu.
+Gloss: twice say-PST.PRT shoot.with-PFV.CVB bullet a.little eagle-APUD.ESS near II-as hit-ANT.CVB then-TOP move-PFV.CVB-NEG
+Translation: He shot a second time, and when the bullet hit something near the eagle, it didn't move then either.
+Sentence: Elay bitorgon bik’ixozo q’ˤuya gamiƛ’aɣorno yizin ža xʷasarno yoqno, nełaƛ’town raładyoz lilyoxaɣor yok’ełno.
+Gloss: there-IN.ABL thither-CNTR I.PL-go-PRS.PRT.OBL other boat-SUPER.VERS-TOP II-get.up-PFV.CVB DEM1.SG rescue-TOP II-become-PFV.CVB DEM1.IISG.OBL-SUPER.ESS-EMPH-TOP sea-GEN2 river.bank-AD.VERS II-escape-PST.UNW
+Translation: She got to another boat that was going from there to somewhere else, got rescued and escaped on it to the seashore.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: biħanayranix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": biħanayranix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word biħanayranix:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xanez gulude biħanayƛ’oräy, šidqay ƛ’iyorno kurno, ƛ’irirno bizin ža di xot’ozad łełanƛin, eƛin kidbä.
+Gloss: khan-GEN2 horse-APUD.ESS III-fight-SIM.CVB wall-POSS.ABL downwards-TOP throw-PFV.CVB above-LAT-TOP III-get.up-PFV.CVB DEM1.SG me foot-PL-INSTR trample.down-FUT.DEF-QUOT say-PST.UNW girl-ERG
+Translation: "While I am fighting next to the king's horse, I will throw it down from the street wall, get up again and trample it down with my feet
+Sentence: Elo yizi sidä sidƛ’o łeɣin, q’ˤanon akiłace biħanayn.
+Gloss: there DEM2.IPL one.OBL-ERG one.OBL-SUPER.ESS grasp-PFV.CVB two-TOP get.tired-TERM I.PL-fight-PST.UNW
+Translation: There they grasped each other and fought until the two of them got tired.
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."

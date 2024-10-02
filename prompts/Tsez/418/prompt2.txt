@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bitaɣor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bitaɣor: 
+
+Exact Matches
+Sentence: ʕOƛno ħonno xecin yizi bitaɣor bok’ełno.
+Gloss: seven mountain-TOP go.up-PFV.CVB DEM2.IPL distance-IN.VERS I.PL-escape-PST.UNW
+Translation: They went over seven mountains and escaped into the distance.
+Sentence: Elayn boqno dahawtow bitaɣor bik’inosi, yisi žoyä žeduqor eƛin, di ža kid yowanix ik’ix, däz ža c’aq’ rok’äwa yisäƛin.
+Gloss: there-IN.ABL-TOP I.PL-become-PFV.CVB a.little-EMPH distance-IN.VERS I.PL-go-ANT.CVB DEM2.ISG.OBL boy-ERG DEM1.IPL.OBL-POSS.LAT say-PFV.CVB me DEM1.SG girl II-marry-MSD-AD.ESS go-PRS me-GEN2 DEM1.SG much heart-IN.ESS-Q II-take-PST.WIT.INT-QUOT
+Translation: When they had gone just a little further, that boy said to them: "I am going to marry this girl; did she really take me into her heart?"
+Sentence: Bero beca baqruntow t’ay eli boxin bok’ła bayƛin yiłä äƛirun, bet’un guluƛ’orno k’oƛin, čuret’ bak’runtow, ʕoƛno ħonno xecin bitaɣor bok’ełno.
+Gloss: ice III-thaw-INF III-begin-IMM.ANT.CVB-EMPH from.here we I.PL-run.away-PFV.CVB I.PL-escape-INF I.PL-must-QUOT DEM2.IISG.OBL-ERG say-IMM.ANT.CVB I.PL-jump-PFV.CVB horse-SUPER.LAT-TOP jump-PFV.CVB whip III-beat-IMM.ANT.CVB-EMPH seven mountain-TOP go.up-PFV.CVB distance-IN.VERS I.PL-escape-PST.UNW
+Translation: "Immediately after the ice has begun to thaw, we must run away and escape from here!", she said and right away they jumped onto the horse, cracked the whip and immediately crossed the seven mountains and escaped into the distance.
+
+Approximate Matches:
+Sentence: Rukarƛin, yizi ʕuraw ƛ’iri butinosi, butnoƛ’ pun bok’no ičin zawruni žek’a eƛin, di bitaɣorno ik’in ayzaƛ’or, yedu k’uk biqirno bičinäy, mežuq di t’o yałru šebin rukaranƛin.
+Gloss: IV-show-QUOT DEM2.IPL much above I.PL-turn-ANT.CVB burka-SUPER.ESS side-TOP III-hit-PFV.CVB be-PFV.CVB be.NPRS-PST.PRT-DEF man-ERG say-PFV.CVB me distance-IN.VERS-TOP go-PFV.CVB come-POST.CVB DEM2.IISG cap III-take.away-PFV.CVB III-be-CND.CVB you(I).PL.OBL-POSS.ESS me here be-PST.PRT thing IV-show-FUT.DEF-QUOT
+Translation: "Show it!", [they said and] when they insisted heavily, the man lying on the burka said: "When you hold my cap while I will go away and come back, I will show you the thing that is here."

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boržizi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boržizi: 
+
+Exact Matches
+Sentence: K’ox äƛirugon bełiqu ƛ’irin zowerno, cey raładyoƛ’aza boržizi boqno.
+Gloss: twice ORD-CNTR hunter above-TOP seat-PFV.CVB eagle sea-SUPER.VERS.DIST flight III-become-PST.UNW
+Translation: A second time the eagle seated the hunter above and flew towards the sea.
+Sentence: Maħor k’aƛirun, yisir bukayn gulu t’umiƛ’orno butin boržizi boqno hawaƛ’ boxix.
+Gloss: outside run-IMM.ANT.CVB DEM2.ISG.OBL-LAT III-see-PFV.CVB horse pigeon-SUPER.LAT-TOP III-turn-PFV.CVB fly III-become-PFV.CVB air-SUPER.ESS III-run.away-IPFV.CVB
+Translation: As soon as he ran outside, he saw the horse had turned into a pigeon and was flying away in the air.
+Sentence: Howda boqłin bižan zirurƛin boržizi boqno ɣʷˤadi iduɣor nexƛ’oräy, nełał adäzar osiw ħon keze yoqno.
+Gloss: DEM3.SG III-become-CNC.CVB III-carry-FUT.DEF fox-LAT-QUOT flight III-become-PFV.CVB crow home-IN.ALL come-SIM.CVB DEM1.IISG.OBL-CONT.ESS before-IN.LAT high mountain meet II-become-PST.UNW
+Translation: "Although it's just that, I'll carry it to the fox.", [said the crow and] while it was flying back home, a high mountain came towards it.
+
+Approximate Matches:
+Sentence: Xizyo cey maħorno boqno neła nełaz gugyoƛ’ ƛ’iri užin zowrno, boržizin boqno iħubin, ħonbin xecin bik’in raładyoƛ’ ƛ’irir bayn.
+Gloss: afterwards eagle outside-TOP I.PL-become-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 back-SUPER.ESS on boy-TOP seat-PFV.CVB flight-TOP III-become-PFV.CVB river-PL-and mountain-PL-and leave-PFV.CVB III-go-PFV.CVB sea-SUPER.ESS on-LAT III-come-PST.UNW
+Translation: Afterwards, the eagle went outside, seated the boy on its own back, flew away past rivers and mountains and came to the sea.
+Sentence: Ceyn neła nełaz raƛ’maɣor boržizin boqno bik’in, yedan iduɣor nexno.
+Gloss: eagle-TOP DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 land-IN.ALL fly-TOP III-become-PFV.CVB III-go-PFV.CVB DEM2.ISG-TOP home-IN.ALL come-PST.UNW
+Translation: When the eagle flew into his own country, also he returned home.
+Sentence: Zamanałäzay boržizin boqno q’ˤano t’umi bayn.
+Gloss: time-CONT.ABL.DIST fly-TOP III-become-PFV.CVB two pigeon III-come-PST.UNW
+Translation: After some time two pigeons came flying.

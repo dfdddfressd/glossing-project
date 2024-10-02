@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yaɣˤiruntow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yaɣˤiruntow: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Idur ayza qułtow, neširu kʷat’izi baqru mixƛ’o, iday maħorno oqno, ɣˤutkoł adäzarno ik’in, yisä k’emot’ yaɣˤirun, elo ixiw ɣˤutku roqno.
+Gloss: home-LAT come-ZA day-CONT.ESS-EMPH at.night be.late III-become-PST.PRT late.at.night home-IN.ABL outside-TOP become-PFV.CVB house-CONT.ESS before-IN.LAT-TOP go-PFV.CVB DEM2.ISG.OBL-ERG wooden.case II-open-IMM.ANT.CVB there big house IV-become-PST.UNW
+Translation: On the day when he came home, when it has become late at night, he got outside his home, went in front of his house and right when he opened the box, a big house came into being there.

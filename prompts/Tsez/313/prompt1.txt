@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Nediwt’a in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Nediwt’a: 
+
+Exact Matches
+Sentence: Žedu bužzi boqnoanu, mi iłeni łaciraqa xanes kidbabi rawnč’i, nediwt’a gulubi yołi nay deber riqixƛin.
+Gloss: DEM1.IPL believe I.PL-become-PFV.CVB-NEG you as-DEF light.headed.person-ERG khan-GEN1 daughter-PL II.PL-bring-NEG.FUT such-DISTR horse-PL however from.where you-LAT IV-get-PRS-QUOT
+Translation: They didn't believe him: "A light-headed person like you wouldn't bring the king's daughters, however, where did you get such horses from?"
+
+Approximate Matches:
+Sentence: Nediwt’a t’as elzox oc’ino bäsuƛin”.
+Gloss: such-DISTR washbowl we(II-ATTR.OBL-AD.ESS ten III-exist-QUOT
+Translation: "We have ten of such washbowls."
+Sentence: Nediwt’a reƛ’iqoybi elzox oč’ino yołƛin”.
+Gloss: such-DISTR glove-PL we(II-ATTR.OBL-AD.ESS nine be-QUOT
+Translation: "We have nine of such gloves."
+Sentence: Nediwt’a panduryabi elzox šomoƛała besʷanƛin”.
+Gloss: such-DISTR lute-PL we(II-ATTR.OBL-AD.ESS how.many-INDEF-DUB III-have-FUT.DEF-QUOT
+Translation: "We should have some such lutes."

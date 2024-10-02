@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Xizyogon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Xizyogon: 
+
+Exact Matches
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+Sentence: Zeyä xizyogon esin, eluz maduhalłiq yałru ʕaƛa łi ħaƛanix posu sida maqˤi yałruni keroqor rik’ixosi.
+Gloss: bear-ERG then tell-PST.UNW we(I).OBL-GEN2 neighbourhood-POSS.ESS be-PST.PRT village-IN.ESS water drink-MSD-AD.ESS cattle one.OBL far.away be-PST.PRT-DEF ravine-POSS.LAT IV-go-PRS.PRT
+Translation: The bear then told: "In a village in our neighbourhood, the cattle has to go to a ravine that is far a way in order to drink water.
+Sentence: Dahawtowgon zaman bik’izaƛ’or, xizyogon acmoq deqƛin.
+Gloss: a.little-EMPH-CNTR time III-go-POST.CVB again door-POSS.ESS knock-PST.UNW
+Translation: After a little while, it knocked on the door again.
+
+Approximate Matches:
+Sentence: Xizyogon Ražbadinä äƛiruxor božarawni ʕoloqza ʕaƛos baħarayƛ’ rayzaƛ’or nasin kidbabi rutirno.
+Gloss: then Razhbadin-ERG say-PST.PRT-AD.LAT reliable-DEF young.person-PL-ERG village-GEN1 fiancée-SUPER.ESS II.PL-come-POST.CVB all girl-PL II.PL-gather-PST.UNW
+Translation: Then, according to what Razhbadin had said, the reliable young people gathered all girls of the village, including the bride.
+Sentence: Xizyogon Bilq’isdider nesi eženis łˤonon užibin bayn, xanez madaxosini žek’un, nełastow xediwn, xedyosgon esiwn.
+Gloss: then Bilqisdi-APUD.LAT DEM1.ISG.OBL old-DEF-GEN1 three-TOP son-PL-and I.PL-come-PST.UNW khan-GEN2 gate-AD.ESS-ATTR-DEF man-and DEM1.IISG.OBL-GEN1-EMPH husband-and husband-GEN1-CNTR brother-and
+Translation: Then to Bilqisdi came the three sons of the old man, and the king's guard, her husband and her husband's brother.
+Sentence: Xizyogon žoyä eƛin kidbeqor:
+Gloss: then boy-ERG say-PST.UNW girl-POSS.LAT
+Translation: Then the boy said to the girl:

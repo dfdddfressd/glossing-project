@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bexayn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bexayn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bexayn:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Užä izin, miƛ’in bexayn, ƛäxuruni at’es magalun boyn.
+Gloss: son-ERG get.up-PFV.CVB ram-TOP III-slaughter-PFV.CVB remain-PST.PRT-DEF wheat-GEN1 bread-TOP III-do-PST.UNW
+Translation: The son got up, slaughtered the ram and made a bread from the remaining wheat.
+Sentence: Sasiłacen ičin, iduɣorno bižin yisä yedu ħumukuli buyn bexayn, waħazoni ɣˤutka nełas reƛno ruqˤno.
+Gloss: get.dark-TERM-TOP wait-PFV.CVB home-IN.ALL-TOP III-lead-PFV.CVB DEM2.ISG.OBL-ERG DEM2.IISG camel III-indeed-TOP III-slaughter-PFV.CVB below-ATTR.OBL-DEF room-IN.ESS DEM1.IISG.OBL-GEN1 meat-TOP IV-hide-PST.UNW
+Translation: She waited until it got dark, lead that camel home and indeed slaughtered it and hid it's meat in the cellar.
+Sentence: Debez eniwq baqru hunarä däq boqxanuƛin, aždaħä žedur miƛ’i bexayn.
+Gloss: you-GEN2 mother-POSS.ESS III-happen-PST.PRT talent-ERG me-POSS.ESS III-become-IPFV.CVB-NEG-QUOT dragon-ERG DEM1.IPL.OBL-LAT ram III-slaughter-PST.UNW
+Translation: "Your mother's talent isn't mine", the dragon said and slaughtered a ram for them.
+
+Approximate Matches:
+Sentence: Howži deber retinäy bexad, retinč’inäy bexaynƛin, eƛin riynoxa mešorłäy.
+Gloss: now you-LAT IV-want-CND.CVB III-slaughter IV-want-NEG.FUT-CND.CVB III-slaughter-PROHIB-QUOT say-PST.UNW sheikh-ERG heifer-CONT.ABL
+Translation: Now if you want to, then slaughter it, and if you don't want to, don't slaughter it!", said the sheikh about the heifer.

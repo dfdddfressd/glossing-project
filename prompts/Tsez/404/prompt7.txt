@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word aždaħtow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word aždaħtow: 
+
+Exact Matches
+Sentence: C’iɣruk’es xizyogon aždaħtow bok’ek’anixƛin rok’ƛ’or pikru bayn.
+Gloss: Tsighruk-GEN1 again dragon-EMPH III-steal.from-MSD-AD.ESS-QUOT heart-SUPER.LAT idea III-come-PST.UNW
+Translation: Tsighruk thought of stealing from the dragon again.
+
+Approximate Matches:
+Sentence: Yisägon rok’no mač’a ret’urno aždaħes q’ˤim kurno.
+Gloss: DEM2.ISG.OBL-ERG-CNTR IV-beat-PFV.CVB saber IV-pull.out-PFV.CVB dragon-GEN1 head throw-PST.UNW
+Translation: Again(?) he pulled out his saber and beated the dragon's head off.
+Sentence: Howži yedu aždaħ yisiƛ’or bizin eƛin:
+Gloss: now DEM2.IISG dragon DEM2.ISG.OBL-SUPER.LAT III-get.up-PFV.CVB say-PST.UNW
+Translation: Now the dragon came over him, got up and said:
+Sentence: Łiƛa yoł eludeƛin, - yizä yizis q’ʷariłi esin, - amma nełaƛ’ ƛ’iri aždaħ baq’ˤułno bičäsi yoł.
+Gloss: water-INDEF be we(I).OBL-APUD.ESS-QUOT - DEM2.IPL.OBL-ERG DEM2.IPL.OBL-GEN1 sadness tell-PST.UNW - but DEM1.IISG.OBL-SUPER.ESS above dragon III-cover-PFV.CVB III-be-RES.PRT be
+Translation: "We have some water", they told with grief, "but a dragon is covering it."

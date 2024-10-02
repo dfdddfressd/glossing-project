@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Barkala.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Barkala
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Barkala:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mežur beže barkala yoł eli nedur beže boqace käkirus, howži elur mežudäy bik’a retin.
+Gloss: you(I).PL.OBL-LAT III-big thank be we so I.PL-big I.PL-become-TERM feed-PST.PRT-GEN1 now we(I).OBL-LAT you(I).PL.OBL-APUD.ABL I.PL-go-INF IV-want-PST.UNW
+Translation: "Thank you very much for feeding us until we got that big, now we wanted to leave you.
+Sentence: Aždaħ t’aʕizi bayru C’iɣruk’er c’ik’iwzä barkala teƛno.
+Gloss: dragon dissappear III-do-PST.PRT Tsighruk-LAT all-PL-ERG thank give-PST.UNW
+Translation: And everyone thanked Tsighruk who has destroyed the dragon.
+
+Approximate Matches:
+Sentence: Yeženir barkalan bodin, yizi keca bik’in.
+Gloss: II-old-DEF-LAT thank-TOP III-do-PFV.CVB DEM2.IPL sleep-INF I.PL-go-PST.UNW
+Translation: He thanked the old woman and they went to sleep.
+Sentence: Nesir beže barkalan boyn, uži iduɣor nexno.
+Gloss: DEM1.ISG.OBL-LAT III-big thank-TOP III-do-PFV.CVB boy home-IN.ALL come-PST.UNW
+Translation: The boy thanked him very much and came home.
+Sentence: Eženi žek’ur barkalan zahir bodin, Ħusen nesä nesiz hunix oqno.
+Gloss: old-DEF man-LAT thank-TOP express III-do-PFV.CVB Hussein DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 way-AD.ESS become-PST.UNW
+Translation: Hussein thanked the old man and went on his way.

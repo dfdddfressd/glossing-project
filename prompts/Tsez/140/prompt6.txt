@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: k’oƛinosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": k’oƛinosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word k’oƛinosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida quł bˤeƛ’łer boc’i k’oƛinosi, nełał xizayn k’oƛin nełaz di xarcelin caƛin žirbał šiširsi.
+Gloss: one.OBL day-CONT.ESS sheep-CONT.LAT wolf run-ANT.CVB DEM1.IISG.OBL-CONT.ESS behind-TOP run-PFV.CVB DEM1.IISG.OBL-GEN2 me scythe-TOP throw-PFV.CVB rib-CONT.ESS get.stuck-CAUS-ATTR
+Translation: One day a wolf ran into the flock of sheep, so I threw my scythe and made it stuck inside its ribs.
+Sentence: Elo igoza bäsuru yizir ɣˤays oreznar k’oƛinosi, gulun saɣ boqno, adäzoƛ’aygon rigu rexora maħin roƛixno.
+Gloss: there near-ZA III-find-PST.PRT DEM2.IPL.OBL-LAT milk-GEN1 pond-IN.LAT jump-ANT.CVB horse-TOP cure III-become-PFV.CVB before-SUPER.ABL-CNTR IV-pretty IV-long tail-TOP IV-appear-PST.UNW
+Translation: There the jumped into a milky lake that they had found nearby, and the horse gut cured; its tail appeared, prettier and longer than before.
+
+Approximate Matches:
+Sentence: Qˤaba yoqƛin žoyä eƛinosi, kidbä adäzar kočori bayrno, aluk’a yoqƛingon eƛinosi, adäzay kočori butirno xizor kurno, ele yoqsiƛin.
+Gloss: black II-become-QUOT boy-ERG say-ANT.CVB girl-ERG ahead-IN.LAT forelock III-bring-PFV.CVB white II-become-QUOT-CNTR say-ANT.CVB in.front-IN.ABL.DIST forelock I.PL-turn-PFV.CVB back throw-PFV.CVB here II-become-PST.WIT-QUOT
+Translation: When the boy said: "Get black!", the girl brought her hair ahead, and when he said: "Get white!", he turned her hair away from the front and threw it on her back[, saying]: "Here, I got."
+Sentence: Bet’un k’oƛin łˤonon esnabi butnoƛ’no zown nełqor eƛin:
+Gloss: I.PL-jump-PFV.CVB jump-PFV.CVB three-TOP brother-PL burka-SUPER.ESS-TOP be.NPRS-PFV.CVB DEM1.IISG.OBL-POSS.LAT say-PST.UNW
+Translation: The three brothers jumped onto the burka and said to it:
+Sentence: Łäs tungin bic’no nexxo yedu yukayrun, yeda nełqay oxin ik’iƛ’oräy, mi ži daqäy ok’ła moči anuƛin, tungin q’ˤidar kurno yeɣeni esiw xizay k’oƛin.
+Gloss: water-GEN1 copper.jug-TOP III-fill-PFV.CVB come-IPFV.CVB DEM2.IISG II-see-IMM.ANT.CVB DEM2.ISG DEM1.IISG.OBL-POSS.ABL run.away-PFV.CVB go-SIM.CVB you now me-POSS.ABL escape-INF place be.NEG-QUOT copper.jug-TOP down-LAT throw-PFV.CVB II-young-DEF sister behind run-PST.UNW
+Translation: When he saw his younger sister coming back with a copper jug filled with water, he ran away from her, while she said: "Now there's no place you could escape from me [to]!", threw the jug down and ran behind him.

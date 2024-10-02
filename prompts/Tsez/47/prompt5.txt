@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rik’inosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rik’inosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rik’inosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.
+Sentence: Nełƛ’osi ɣudbi rik’inosi, sida quł iħuz lilyox yisir bikori besun.
+Gloss: of.that.time day-PL IV.PL-go-ANT.CVB one.OBL day-CONT.ESS river-GEN2 river.bank-AD.ESS DEM2.ISG.OBL-LAT snake III-find-PST.UNW
+Translation: From then on the days went by, and one day he found a snake at the river bank.
+Sentence: Roƛƛo ʕuraw ɣudbi rik’inosi, zira bäxurusno rodin bičin.
+Gloss: IV-middle many day-PL IV-go-ANT.CVB fox-ERG III-die-PST.PRT-GEN1-TOP IV-do-PFV.CVB III-be-PST.UNW
+Translation: After many days had passed, the fox pretended to be dead.
+
+Approximate Matches:
+Sentence: Sida quł ža t’o ʕaƛay ik’inosi, där žek’ude kecan retin di debez babiwz laɣde kecsi.
+Gloss: one.OBL day-CONT.ESS DEM1.SG here village-IN.ABL go-ANT.CVB me-LAT man-APUD.ESS sleep-INF-and IV-want-PFV.CVB me you-GEN2 father-GEN2 slave-APUD.ESS sleep-PST.WIT
+Translation: One day, after he had left this village, I wanted to sleep with a man, and so I slept with your father's slave.
+Sentence: ʕOƛno ħonno, ʕoƛno iħun xecin ik’inosi, sida ʕaƛar ayn.
+Gloss: seven mountain-and seven river-and leave-PFV.CVB go-ANT.CVB one.OBL village-IN.LAT come-PST.UNW
+Translation: After he walked past seven mountains and seven rivers, he came into a village.
+Sentence: Łox äƛiru ik’inosin, neła yisiqor xabarkin boyn anu.
+Gloss: thrice ORD go-ANT.CVB-TOP DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT story-even III-do-PFV.CVB be.NEG
+Translation: Also the third time when he went, he did not say anything to him.

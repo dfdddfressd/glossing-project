@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word riƛix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word riƛix: 
+
+Exact Matches
+Sentence: Elur hunix riƛu riƛix žek’u esus.
+Gloss: we(I).OBL-LAT way-AD.ESS field IV-plough-IPFV.CVB man find-PST.WIT
+Translation: "On the way we found a man ploughing a field.
+
+Approximate Matches:
+Sentence: Aħmadä riƛu riƛixozo žek’uq esirno, žiƛbosiyä, eƛ’isiyä yedu mi riƛu riƛixƛin.
+Gloss: Akhmed-ERG field IV-plough-PRS.PRT.OBL man-POSS.ESS ask-PST.UNW this.year-ATTR-Q last.year-ATTR-Q DEM2.IISG you field IV-plough-PRS-QUOT
+Translation: Akhmed asked the man who was ploughing the field: "Are you ploughing this year's or last year's field?"
+Sentence: Aħmadä riƛu riƛixozo žek’uq esirno, žiƛbosiyä, eƛ’isiyä yedu mi riƛu riƛixƛin.
+Gloss: Akhmed-ERG field IV-plough-PRS.PRT.OBL man-POSS.ESS ask-PST.UNW this.year-ATTR-Q last.year-ATTR-Q DEM2.IISG you field IV-plough-PRS-QUOT
+Translation: Akhmed asked the man who was ploughing the field: "Are you ploughing this year's or last year's field?"
+Sentence: Riƛu riƛixoza eƛin, žiƛbosi riƛixƛin.
+Gloss: field IV-plough-PRS.PRT.OBL-ERG say-PST.UNW this.year-ATTR IV-plough-PRS-QUOT
+Translation: The plougher said: "I'm ploughing this year's."

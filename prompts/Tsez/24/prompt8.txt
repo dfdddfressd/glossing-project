@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boxin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boxin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boxin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bexuratow bexurxo yiła di hoboyƛin, boc’i bet’un k’oƛin bizin boxin elay.
+Gloss: III-kill-INF-EMPH III-kill-IPFV.CVB DEM2.IISG.OBL-ERG me now-QUOT wolf III-jump-PFV.CVB jump-PFV.CVB III-get-PFV.CVB III-run.away-PFV.CVB there-IN.ABL
+Translation: "He's going to kill me now!", the wolf jumped up and ran away.
+Sentence: Yisis rigu rok’ƛ’o anuƛin, nesiqay zebun yoɣno boc’i boxin.
+Gloss: DEM2.ISG.OBL-GEN1 IV-good heart-SUPER.ESS be.NEG-QUOT DEM1.ISG.OBL-POSS.ABL running-TOP II-take.away-PFV.CVB wolf III-run.away-PST.UNW
+Translation: "He's bad-tempered", [thought] the wolf [and] ran away from him.
+Sentence: Eɣenigon esiw ža biqiranƛin oqno, hemedurtow nesiqayn boxin bok’ełno.
+Gloss: young-DEF-CNTR brother DEM1.SG III-catch-FUT.CVB-QUOT begin-PFV.CVB so-EMPH DEM1.ISG.OBL-POSS.ABL-TOP III-run.away-PFV.CVB III-escape-PST.UNW
+Translation: The young brother tryed to catch it, and just as before it escaped and ran away from him.
+
+Approximate Matches:
+Sentence: Sidenägon eƛin, ɣamasno nesirtow xecingon boxinäy, režigon rigu räčiƛin.
+Gloss: the.other.one-ERG-CNTR say-PFV.CVB box-TOP DEM1.ISG.OBL-LAT-EMPH leave-PFV.CVB-CNTR III-run.away-CND.CVB IV-more-CNTR IV-good IV-be-QUOT
+Translation: The other one said, "It is better to leave him the box and run away."

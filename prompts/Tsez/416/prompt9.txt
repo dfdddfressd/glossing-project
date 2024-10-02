@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word anusitow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word anusitow: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sidaquł yisä nesiz xanłiƛ’osi nasin ʕoloqbi sidaɣor butirno, yołä mežuł teł yiła guluƛ’ zowanix bažari yołäsi žek’uƛin esirnosi, nasin p’es anusi wˤałer q’ˤimbin kurno bičin.
+Gloss: one.day DEM2.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 khanate-SUPER.ESS-ATTR all young.person-PL one.OBL-IN.VERS I.PL-gather-PFV.CVB be-Q you(I).PL.OBL-CONT.ESS inside DEM2.IISG.OBL horse-SUPER.ESS ride-MSD-AD.ESS skill be-RES.PRT man-QUOT ask-ANT.CVB all sound be.NEG-ATTR downward-LAT head-PL-TOP throw-PFV.CVB I.PL-be-PST.UNW
+Translation: One day he let all young men of his own kingdom come together and asked who among them would be the one that had the skill to ride that horse, all were silent and kept their heads down.
+Sentence: Q’orolaz maduhalłiq sis baru anusi žek’u ičix zown.
+Gloss: widow-GEN2 neighbourhood-POSS.ESS one wife be.NEG-ATTR man be-IPFV.CVB be.NPRS-PST.UNW
+Translation: In the widow's neighbourhood there was an unmarried man.
+Sentence: Yeduyä ža mesedyos bašiqˤoy zawruni kidƛin eniya esirnosi, p’es anusi užä eniw kidbeƛ’ yezura ƛ’iri t’alamäzoni ɣˤutkaɣor yižin.
+Gloss: DEM2.IISG-Q DEM1.SG gold-GEN1 ring be.NPRS-PST.PRT-DEF girl-QUOT mother-ERG ask-ANT.CVB sound be.NEG-ATTR boy-ERG mother girl-SUPER.ESS II-show-INF above floor-IN.ESS-GEN2-DEF room-IN.VERS II-lead-PST.UNW
+Translation: When the mother asked: "Is she the girl with the golden ring?", the boy looked at her silently and lead her into the room upstairs to let her look at the girl.

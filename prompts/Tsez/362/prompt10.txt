@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word teqerno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word teqerno: 
+
+Exact Matches
+Sentence: Elor baynosi, č’ikin boqno c’aramäz begin iduɣorno bik’in, žedus xabarno teqerno bičin.
+Gloss: there-LAT III-come-ANT.CVB flea-TOP III-become-PFV.CVB crack-IN.ESS.DIST III-go.into-PFV.CVB home-IN.ALL-TOP I.PL-go-PFV.CVB DEM1.IPL-GEN1 story-TOP listen.to-PFV.CVB III-be-PST.UNW
+Translation: When it arrived there, it became a flea, went inside through a crack and listened to what they said.
+Sentence: Yoɣno kurno yičäruni aɣˤux elus xabaryabin teqerno siskin buyn bäčinč’i, hudu t’o ela sidä sidqo kesubi esix sasaqor bičan.
+Gloss: II-take.away-PFV.CVB throw-PFV.CVB II-be-PST.PRT-DEF mill-AD.ESS we(I).OBL-GEN1 story-PL-TOP listen.to-PFV.CVB anyone III-indeed-TOP III-be-NEG.FUT.CVB so here we(I).OBL-ERG one.OBL-ERG one.OBL-POSS.ESS secret-PL tell-IPFV.CVB in.the.morning-POSS.LAT I.PL-wait-FUT.DEF
+Translation: In this abandoned mill no one will hear what we say, so we will wait here until the morning telling each other secrets.
+Sentence: Nedur resunäy di raziyaw yołƛin, nesä esace teqerno ičin.
+Gloss: so IV-exist-CND.CVB me ready be-QUOT DEM1.ISG.OBL-ERG tell-TERM listen.to-PFV.CVB be-PST.UNW
+Translation: "If that's the case, I am ready.", and he listened until he told him.
+
+Approximate Matches:
+Sentence: Neširur ħalt’in łiyrno, ečruni žek’a näƛruni łˤono ɣurušno eqerno, uži eniwdäɣor iduɣor ik’ix zown.
+Gloss: at.night-LAT work-TOP finish-PFV.CVB old-DEF man-ERG give-PST.PRT-DEF three ruble-TOP put-PFV.CVB boy mother-APUD.VERS home-IN.ALL go-IPFV.CVB be.NPRS-PST.UNW
+Translation: The boy finished his work late at night, took the three rubles that the old man gave him, and went home to his mother.
+Sentence: Nagaħ uži miskinłiƛ’or aynäy, babiyä kobora teł eqerno xecäsi micxiryosno, mesedyosno ric’äsi ixin zown.
+Gloss: suppose boy poverty-SUPER.LAT come-CND.CVB dad-ERG granary-IN.ESS inside put-PFV.CVB leave-RES.PRT money-GEN1-TOP gold-GEN1-TOP IV-fill-RES.PRT bag be.NPRS-PST.UNW
+Translation: In case the boy would hit poverty, there was a bag filled with money and gold left inside the granary, put there by the father.
+Sentence: Ceyä ža ħonƛ’orno bižin, sida ixiw t’ekzo šilazan eqerno bac’xo zown.
+Gloss: eagle-ERG DEM1.SG mountain-SUPER.LAT-and III-carry-PFV.CVB one.OBL big he.goat-ATTR.OBL horn-PL-IN.ESS-and put-PFV.CVB III-eat-IPFV.CVB be.NPRS-PST.UNW
+Translation: The eagle carried it onto a mountain, put it on the horns of a big goat and ate.

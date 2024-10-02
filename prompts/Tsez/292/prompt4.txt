@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ha in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ha: 
+
+Exact Matches
+Sentence: Xizaɣorgon tełtow žan xecin acmołnonan ok’bi rok’nosi, Qartayä eƛin, ha, howži, yił badiru ħalt’os deber keze roqxosi šebin neƛanix maħor yegir diƛin.
+Gloss: finally-CNTR inside-EMPH DEM1.SG-TOP leave-PST.UNW door-TOP-INT nail-PL III.PL-beat-ANT.CVB Qartay-ERG say-PST.UNW well now DEM2.IISG.OBL III-do-PST.PRT work-GEN1 you-LAT meet IV-become-PRS.PRT thing give-MSD-AD.ESS outside II-let me-QUOT
+Translation: Finally, he left her inside, and after he had beated nails into the door, Qartay said: "Well now, let me out to give you something for the work that you have done!"
+Sentence: Nesider aynosi yisi žek’a esirno nesiq, ha xan, šida kecno ičäsi mi, šebi roqno deberƛin.
+Gloss: DEM1.ISG.OBL-APUD.LAT come-ANT.CVB DEM2.ISG.OBL man-ERG ask-PST.UNW DEM1.ISG.OBL-POSS.ESS well khan why sleep-PFV.CVB be-RES.PRT you what IV-happen-PST.UNW you-LAT-QUOT
+Translation: When the man arrived at his place, he asked him: "Hey king, why do you sleep, what happened to you?"
+
+Approximate Matches:

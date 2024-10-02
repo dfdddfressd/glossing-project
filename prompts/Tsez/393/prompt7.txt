@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word sidqo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word sidqo: 
+
+Exact Matches
+Sentence: Horo eli sidqo sis biłaniƛäyn, dey rok’u riq’ˤaniƛäyn, łˤonon debi užibi däz žaz mečʷa bexuranix dadäɣor begirnäy där räti.
+Gloss: come.IMPR we one.OBL-POSS.ESS one III-resemble-MSD-SUB.ABL-and me-GEN1 heart IV-approach-MSD-SUB.ABL-and three-TOP you-GEN1 son-PL me-GEN2 son-GEN2 instead.of I.PL-kill-MSD-AD.ESS me-APUD.VERS I.PL-send-CND.CVB me-LAT IV-want
+Translation: So that we resemble one another and that you approach my heart, I'd love if you could send your three sons to me so I could kill them instead of my son."
+Sentence: Yoɣno kurno yičäruni aɣˤux elus xabaryabin teqerno siskin buyn bäčinč’i, hudu t’o ela sidä sidqo kesubi esix sasaqor bičan.
+Gloss: II-take.away-PFV.CVB throw-PFV.CVB II-be-PST.PRT-DEF mill-AD.ESS we(I).OBL-GEN1 story-PL-TOP listen.to-PFV.CVB anyone III-indeed-TOP III-be-NEG.FUT.CVB so here we(I).OBL-ERG one.OBL-ERG one.OBL-POSS.ESS secret-PL tell-IPFV.CVB in.the.morning-POSS.LAT I.PL-wait-FUT.DEF
+Translation: In this abandoned mill no one will hear what we say, so we will wait here until the morning telling each other secrets.
+Sentence: Sadaq bik’iƛ’orey, sida sidqo xabaryabi esix Ražbadinno halmaɣbin cezyazno qazaqzazno ʕurqixor bayx.
+Gloss: together I.PL-go-SIM.CVB one.OBL-ERG one.OBL-POSS.ESS story-PL tell-IPFV.CVB Razhbadin-and friend-PL-and Tsez-GEN2-and Georgian-PL-GEN2-and border-AD.LAT I.PL-come-PRS
+Translation: While they were walking together, Razhbadin and his friends were talking with each other and came to the Tsez and Georgian border.
+
+Approximate Matches:
+Sentence: Eƛnin ɣutaneł yoɣno, ħonzaqaɣor bˤeƛ’ rowa oc’ino łeno ɣudi ƛexunosi, aħozir ɣˤʷadbi sidä sidqor xabaryayx teqno.
+Gloss: winter-TOP winter.pasture-CONT.ESS II-spend.time-PFV.CVB mountain-PL-POSS.VERS sheep III.PL-bring-INF ten five day remain-ANT.CVB shepherd-LAT crow-PL one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB hear-PST.UNW
+Translation: They spent the winter on the winter pasture and when just 15 days remained to bring the sheep back to the mountains, the shepherd heard the crows talking among each other.
+Sentence: Elo bˤeƛ’a sidä sidqor eƛix teqno, were, howži gušiwt’ani sida puƛ’aɣor, ƛ’ariyawt’ani sideni puƛ’aɣor roqƛin.
+Gloss: there sheep-ERG one.OBL-ERG one.OBL-POSS.LAT say-IPFV.CVB hear-PST.UNW well now thin-DISTR-DEF one.OBL side-SUPER.VERS fat-DISTR-DEF the.other.one side-SUPER.VERS III.PL-become-QUOT
+Translation: There he heard the sheep say to each other: "Well, now the thin ones go to one side and the fat ones to the other side!"
+Sentence: Ħayran boqno yizä sidä sidqor eƛin, eloš nesi žek’uł adäza anusi šebinonwa anu, hudun nesiq łinaƛ’orkin reƛ’a regirełxanuwaƛin.
+Gloss: be.astonished I.PL-become-PFV.CVB DEM2.IPL-ERG one.OBL-ERG one.OBL-POSS.LAT say-PST.UNW over.there DEM1.ISG.OBL man-CONT.ESS before be.NEG-ATTR something-Q be.NEG nevertheless DEM1.ISG.OBL-POSS.ESS what.OBL-SUPER.LAT-even hand IV-let-POT-PRS-NEG-Q-QUOT
+Translation: They were surprised and talked among each other: "Isn't there everything possible on the table, but he nevertheless can't let his hand to any of it?"

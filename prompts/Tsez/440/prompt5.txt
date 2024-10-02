@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’iƛ’oräy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’iƛ’oräy: 
+
+Exact Matches
+Sentence: Bˤeƛ’no adäz roc’no neširur iduɣor ik’iƛ’oräy, Alimaħamar teqno bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: sheep-TOP ahead III.PL-drive-PFV.CVB evening-LAT home-IN.ALL go-SIM.CVB Alimagomed-LAT hear-PST.UNW sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: When he drove the sheep home in the evening, Alimagomed heard them talking to each other.
+Sentence: Hemedur oxin yeda ik’iƛ’oräy, yisił dandir q’ˤanon esnabi c’oxxo - sis c’odoraw, sideni - ʕantaw.
+Gloss: so run.away-PFV.CVB DEM2.ISG go-SIM.CVB DEM2.ISG.OBL-CONT.ESS towards two-TOP brother-PL meet-PRS - one clever the.other.one - stupid
+Translation: While he was running, he met two brothers - one was clever, the other one stupid.
+Sentence: Hunix ik’iƛ’oräy, neła ħalaq’awni gula nesiqor eƛin, aždaħ kecäsi yałzay, buq bayäsi bičixosi, q’ˤiday bizinosi ža bičixozoni gogaƛ’ ɣedu boqxosi, elo nełaqgon šet’ur k’ešonayx xexoybi ričixosiƛin.
+Gloss: way-AD.ESS go-SIM.CVB DEM1.IISG.OBL thin-DEF horse-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW dragon sleep-RES.PRT be-SIM.CVB sun III-come-RES.PRT III-be-IPFV.CVB-ATTR down-IN.ABL III-get.up-ANT.CVB DEM1.SG III-be-PRS.PRT.OBL-DEF meadow-SUPER.ESS shade III-happen-PRS.PRT there DEM1.IISG.OBL-POSS.ESS-CNTR around play-IPFV.CVB young.animal-PL III.PL-be-PRS.PRT-QUOT
+Translation: While he went on his way, that thin horse said to him: "While the dragon sleeps, the sun goes up, and after he gets up a shadow appears on the meadow, there around it the youngs are playing.
+
+Approximate Matches:
+Sentence: Elaɣor bik’iƛ’oräy, zirude dandir ixiw bˤeƛ’es reqenno, žedał tełgon bik’ix ixiw ɣˤʷayn keze boqno.
+Gloss: there-IN.VERS I.PL-go-SIM.CVB fox-APUD.ESS together big sheep-GEN1 herd-and DEM1.IIPL.OBL-CONT.ESS inside-CNTR I.PL-go-IPFV.CVB big dog-and meet III-become-PST.UNW
+Translation: When they went there, the fox met a big flock of sheep and a large dog walking among them.
+Sentence: Elay bizin bik’iƛ’oräy žedude dandir nexxo iłno q’ˤim yołäsi aždaħ bukayn.
+Gloss: there-IN.ABL I.PL-get.up-PFV.CVB I.PL-go-SIM.CVB DEM1.IPL.OBL-APUD.ESS towards come-IPFV.CVB six head be-RES.PRT dragon III-see-PST.UNW
+Translation: From there they got up, and saw a six-headed dragon coming towards them.
+Sentence: Elaɣor bik’iƛ’oräy meža dey kiki xiräsi boqzaƛ’, mežus di eniw yoqxo, hudu meža eniya äƛiru rodoƛin.
+Gloss: there-IN.VERS I.PL-go-SIM.CVB you(I).PL.OBL-ERG me-GEN1 breast suck-RES.PRT I.PL-begin-CSL.CVB you(I).PL.OBL-GEN1 me mother II-become-PRS so you(I).PL.OBL-ERG mother-ERG say-PST.PRT IV-do-IMPR-QUOT
+Translation: When you go there, I become your mother, because you will have sucked on my breast, so do what your mother says!"

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yutirełno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yutirełno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yutirełno:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neła ža imyoq yicin zawruni ɣˤanabi elar yutirxo, t’ar yutirxo esayn q’ˤimaku yiłe yodin yegirno.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG pole-POSS.ESS II-tie-PFV.CVB be.NPRS-PST.PRT-DEF woman here-IN.LAT II-turn-IPFV.CVB thither II-turn-IPFV.CVB wash-PFV.CVB grown.up II-as II-do-PFV.CVB II-let-PST.UNW
+Translation: She washed the woman who was tied to the pole, turning her hither and thither, and let her look like a grown-up.
+Sentence: Sida quł roƛa yutirnosi, eniya kidbeqor eƛin, mi babiwqor eƛo, nagaħ di yexunäy hoboda bašiqˤoy c’oxxosi taraw nesä ɣˤanabi yawnoƛƛin.
+Gloss: one.OBL day-CONT.ESS IV-hurt-INF II-begin-ANT.CVB mother-ERG daughter-POSS.LAT say-PFV.CVB you father-POSS.LAT say-IMPR suddenly me II-die-CND.CVB that ring match-PRS.PRT except.for DEM1.ISG.OBL-ERG woman II-marry-PROHIB-OPT-QUOT
+Translation: One day, when the mother started to feel pain, she told her daughter: "Tell your father that when I suddenly die, he may only marry a woman who matches this ring!"
+Sentence: Neła ža imyoq yicin zawruni ɣˤanabi elar yutirxo, t’ar yutirxo esayn q’ˤimaku yiłe yodin yegirno.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG pole-POSS.ESS II-tie-PFV.CVB be.NPRS-PST.PRT-DEF woman here-IN.LAT II-turn-IPFV.CVB thither II-turn-IPFV.CVB wash-PFV.CVB grown.up II-as II-do-PFV.CVB II-let-PST.UNW
+Translation: She washed the woman who was tied to the pole, turning her hither and thither, and let her look like a grown-up.

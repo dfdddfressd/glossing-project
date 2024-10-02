@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Xexoyza in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Xexoyza: 
+
+Exact Matches
+Sentence: Užä ʕon rok’no bikorin bexurno boɣno kurno ik’anƛin aqru yeda, xexoyza eč’erno žedas eniw yayace t’o ičiƛin.
+Gloss: boy-ERG ax-TOP IV-hit-PFV.CVB snake-TOP III-kill-PFV.CVB III-take.away-PFV.CVB throw-PFV.CVB go-FUT.CVB-QUOT become-PST.PRT DEM2.ISG young.animal-PL-ERG stop-PFV.CVB DEM1.IIPL.OBL-GEN1 mother II-come-TERM there wait-QUOT
+Translation: The boy struck his ax, killed the snake, took it and threw it away and thought of going, but the chicks stopped him until their mother would come.
+
+Approximate Matches:
+Sentence: Sida quł ciqaɣor qaca roda uži ik’inosi, nesir aɣzaz xexoyzadäɣor ɣunoq bizix bikori bukayn.
+Gloss: one.OBL day-CONT.ESS forest-IN.VERS firewood IV-do-INF boy go-ANT.CVB DEM1.ISG.OBL-LAT bird-PL-GEN2 young.animal-PL-APUD.VERS tree-POSS.ESS III-get.up-IPFV.CVB snake III-see-PST.UNW
+Translation: One day, when the boy went to the forest to get firewood, he saw a snake getting up a tree towards some bird chicks.

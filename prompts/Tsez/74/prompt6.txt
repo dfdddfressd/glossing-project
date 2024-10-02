@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ut’u.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ut’u
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ut’u:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ƛ’iri ayäsi ƛirba oqzaƛ’ aždaħa p’estow anusi kikxay łäs q’ut’u bic’a begirno.
+Gloss: above come-RES.PRT guest become-CSL.CVB dragon-ERG voice-EMPH be.NEG-ATTR spring-AD.ABL water-GEN1 earthen.jug III-fill-INF III-let-PST.UNW
+Translation: Because it was a guest who was coming, the dragon let him fill his jug with water from the spring without saying anything.
+Sentence: Hunix dandir c’axru ahlimo esirzaƛ’, žedur teƛxo užä łäs bic’äsi q’ut’u łiyrno.
+Gloss: way-AD.ESS towards meet-PST.PRT people ask-CSL.CVB DEM1.IPL-LAT give-IPFV.CVB boy-ERG water-GEN1 III-fill-RES.PRT earthen.jug finish-PST.UNW
+Translation: Because on the way, people whom he met on the way, asked him, the boy was giving them [water] and the jug filled with water was finished.
+Sentence: Yedu q’ut’u łäs bic’no sasaqorno xecin, elosi łi ħaƛurnäy, exuƛ’osi žek’u č’agu oqxosiƛin”.
+Gloss: DEM2.IISG earthen.jug water-GEN1 III-fill-PFV.CVB in.the.morning-POSS.LAT-and leave-PFV.CVB there-ATTR water drink-CAUS-CND.CVB die-PCT.CVB-ATTR man alive become-PRS.PRT-QUOT
+Translation: "If you fill this jug with water and leave it until the morning and then give it someone to drink, a dying man will become alive again."
+
+Approximate Matches:
+Sentence: Zira hemedurtow idurno bik’in sadaq q’ut’uma yałru rił ragin łiyrno.
+Gloss: fox-ERG so-EMPH home-LAT-TOP III-go-PFV.CVB all earthen.jug-ERG be-PST.PRT butter IV-lick-PFV.CVB finish-PST.UNW
+Translation: So the fox went home and licked up all the butter that was in the earthen jug.
+Sentence: Łäs q’ut’un bic’no xizor utin nexƛ’oräy, xizaz aždaħä qˤaƛin, t’ok’ow näxno mi łi ric’a, nagaħ nexnäy, mi di č’aguyawtow axaɣor igin kura yołƛin.
+Gloss: water-GEN1 earthen.jug-TOP III-fill-PFV.CVB back return-PFV.CVB come-SIM.CVB from.behind dragon-ERG shout-PST.UNW anymore come-PROHIB you water IV-fill-INF suppose come-CND.CVB you me living-EMPH belly-IN.VERS swallow-PFV.CVB throw-INF be-QUOT
+Translation: He filled the jug with water and while he was coming back, the dragon shouted from behind: "Don't you come to fill [it with] water anymore! If you come, I am going to throw you into my belly and swallow you alive!"
+Sentence: Sasaqosi moƛaxayn bizin, aždaħä yeɣeni kidbeqorƛin eƛin, Maryam där bišan riso, ič’an eɣeni užiz iyos q’ut’un bic’o mečołxor raƛin.
+Gloss: in.the.morning sleep-AD.ABL-TOP III-get.up-PFV.CVB dragon-ERG II-young-DEF daughter-POSS.LAT-QUOT say-PST.UNW Maryam me-LAT food-TOP IV-take-IMPR most-TOP young-DEF boy-GEN2 blood-GEN1 earthen.jug-TOP III-fill-IMPR field-CONT.VERS IV-bring-QUOT
+Translation: In the morning, after getting up from his sleep, the dragon said to - what he supposed was - his youngest daughter: "Maryam, take the food to me and fill the earthen jug with the youngest boy's blood and bring them to the field!"

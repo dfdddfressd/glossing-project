@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Ħasanä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Ħasanä: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Bayru q’ut’oxor, Ħasanä rełimay bˤałayn roɣno aždaħzo rok’nosi, boƛƛi begirno.
+Gloss: III-do-PST.PRT agreement-AD.LAT Hassan-ERG sheath-IN.ABL dagger-TOP IV-take.away-PFV.CVB dragon-GEN2 IV-hit-ANT.CVB III-middle III-break.apart-CAUS-PST.UNW
+Translation: According to the agreement they did, Hassan took his dagger out of the sheath and stabbed it into the dragon and broke him apart in the middle.
+Sentence: Howži, nesä bexaru xabaryoƛ’ Ħasanä imanno erno, razin oqno, yisi Ox̌oyode zendi ečula ʕUmarno egirno.
+Gloss: now DEM1.ISG.OBL-ERG III-die-PST.PRT story-SUPER.ESS Hassan-ERG faith-TOP put-PFV.CVB agree-TOP become-PFV.CVB DEM2.ISG.OBL Ohoyo-APUD.ESS accompanying grandchild Umar-TOP send-PST.UNW
+Translation: Now, Hassan believed in the what he got told, he agreed and sent his grandchild Umar together with Ohoyo.
+Sentence: Enda dey ečuy t’et’ra ižixƛin, esin Ħasanä raqru šebin.
+Gloss: DEM3b.SG me-GEN1 grandchild learn-INF lead-IPFV.CVB-QUOT tell-PST.UNW Hassan-ERG IV-happen-PST.PRT thing
+Translation: "I am bringing my grandson here to school.", Hassan told what had happened.

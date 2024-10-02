@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: hemedur.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": hemedur
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word hemedur:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesi žaz babiya sidaquł q’orol ɣˤanabin yiqirno nełaq esin, hemedur ɣudƛ’ay ɣudƛ’or dey uži ħalaq’ oqxo ik’ixƛin.
+Gloss: DEM1.ISG.OBL boy-GEN2 father-ERG one.day widowed woman-TOP II-find-PFV.CVB DEM1.IISG.OBL-POSS.ESS tell-PST.UNW so day-SUPER.ABL day-SUPER.LAT me-GEN1 boy meager become-IPFV.CVB go-PRS-QUOT
+Translation: One day the boy's father found a widow and told her that his boy is becoming meager day by day.
+Sentence: Bišƛ’oräytow nesä kidbez babiwqor xabar boƛik’no, hemedur sis beže q’ʷariʕelno dowqor keze boqno, mi ža t’ubazi badiƛin debeƛ’ rok’un rayn nexäsi yoł di dowderƛin.
+Gloss: I.PL-eat-SIM.CVB-EMPH DEM1.ISG.OBL-ERG girl-GEN2 father-POSS.LAT story III-push.out-PFV.CVB so one III-big necessity-TOP you-POSS.LAT meet III-become-PFV.CVB you DEM1.SG fulfill III-do-QUOT you-SUPER.ESS heart-TOP IV-come-PFV.CVB come-RES.PRT be me you-APUD.LAT-QUOT
+Translation: While they were eating, he started a conversation with the girl's father: "So there is a big necessity you have to do, and I have come to you and am convinced you can fulfill it."
+Sentence: Däq hemedur eƛin rok’łinč’us yołiƛin, eƛin qartayä, di mi aħirno, ešayn ac’a zowsƛin.
+Gloss: me-POSS.ESS so say-PST.UNW heart-NMLZ-NEG.PST.WIT-ATTR if-QUOT say-PST.UNW witch-ERG me you cook-CAUS-PFV.CVB bake-PFV.CVB eat-INF be.NPRS-PST.WIT-QUOT
+Translation: "If I hadn't said so," the with said, "I would've cooked, baked and eaten you!"
+
+Approximate Matches:
+Sentence: Žedun hemedurtow łek’irełinč’ey bayn.
+Gloss: DEM1.IPL.OBL-TOP so-EMPH stir-POT-NEG.PST.CVB I.PL-come-PST.UNW
+Translation: And so they also couldn't stir it and came back.
+Sentence: Hemełƛ’o ceyä eƛin, hi debi deber k’onč’aƛ’osi reƛno, yedun yałza caƛo, ƛ’irigon debez min zam-zames łi riħo, däzno hemedurtow riħoƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS eagle-ERG say-PST.UNW take.IMP you-GEN1 you-LAT leg-SUPER.ESS-ATTR meat-TOP DEM2.IISG-TOP be-LCV.CVB stick-IMPR above-CNTR you-GEN2 you-TOP Zam-Zam-GEN1 water IV-smear-IMPR me-GEN2-TOP so-EMPH IV-smear-IMPR-QUOT
+Translation: Then the eagle said: "Take the meat of your own leg and stick it where it used to be! And smear holy water on yours and smear it also on mine."
+Sentence: Žan hemedurtow nełaz esnazaden yuqˤno, šeƛ’un nesä nesis šeƛ’un, gulun rečuƛ buqˤno, idu q’ˤidan ičin žedu bayaniqor ezun ičäsi zown.
+Gloss: DEM1.SG-TOP so-EMPH DEM1.IISG.OBL-GEN2 sister-PL-APUD.ESS-TOP II-hide-PFV.CVB put.on-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 put.on-PFV.CVB horse-TOP cattleshed-SUB.ESS III-hide-PFV.CVB home down-TOP sit-PFV.CVB DEM1.IPL I.PL-come-MSD-POSS.LAT look-PFV.CVB wait-RES.PRT be.NPRS-PST.UNW
+Translation: He likewise hid her next to her sisters, put on his own clothes, hid the horse in the shed, sat down at home and waited for them to come.

@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nazonoqayn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nazonoqayn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nazonoqayn:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža nesä äƛirun, bet’un k’oƛin ɣunoqayn boqno babiwz koyär nexno.
+Gloss: DEM1.SG DEM1.ISG.OBL-ERG say-PST.PRT-TOP III-jump-PFV.CVB run-PFV.CVB tree-POSS.ABL-TOP III-become-PFV.CVB father-GEN2 hand-IN.LAT come-PST.UNW
+Translation: After he had said this, it jumped up and ran [flew] off the tree and came into the father's hand.
+Sentence: Hoboy yedu däƛ’or nexxoƛin, zeygon ɣunoqayn bˤoƛ’un, q’ˤidayn bizin zebu yoɣno boxin.
+Gloss: now DEM2.IISG me-SUPER.LAT come-PRS-QUOT bear-CNTR tree-POSS.ABL-and III-fall-PFV.CVB down-IN.ABL-and III-get-PFV.CVB running II-take.away-PFV.CVB III-run.away-PST.UNW
+Translation: "Now he's coming to me!", the bear fell off the tree, got down and ran away quickly.

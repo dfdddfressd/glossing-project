@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word c’ohorä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word c’ohorä: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Baq’ˤu xalq’i nesider bayn, di ža c’ohor yołƛin.
+Gloss: III-many people DEM1.ISG.OBL-APUD.LAT III-come-PST.UNW me DEM1.SG thief be-QUOT
+Translation: Many people came to him: "I am that thief."
+Sentence: Xizyo xanä nazon nukarzaq riyrno, c’ohor yoł t’oza sis reƛ’a anusi, meži nasin nesił xizay boq, ža meža iqira ayƛin.
+Gloss: afterwards khan-ERG all.OBL-TOP henchman-PL-POSS.ESS IV-explain-PFV.CVB thief be here-ZA one hand be.NEG-ATTR you.PL all DEM1.ISG.OBL-CONT.ESS behind I.PL-become DEM1.SG you(I).PL.OBL-ERG catch-INF must-QUOT
+Translation: Afterwards the king explained to all his henchmen: "The thief lacks one hand; y'all get behind him, you must catch him!"
+Sentence: Xizyo xaner riyn, c’ohoresno, nesiz nukarzasno qunyox raqru łinałäyn.
+Gloss: afterwards khan-LAT IV-know-PST.UNW thief-GEN1-and DEM1.ISG.OBL-GEN2 henchman-PL-GEN1-and farmstead-AD.ESS IV-happen-PST.PRT what.OBL-CONT.ABL-TOP
+Translation: Then the king found out what had happened to the thief and to his henchmen on the farmstead.

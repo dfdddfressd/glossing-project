@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bišʷan.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bišʷan
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bišʷan:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hunixor yisä łäs q’ˤano sikno eqerno, bišʷan erno, kumakyorgon, ħaƛirxo ik’anix, xizay k’oƛin yayn bara hibon teƛno.
+Gloss: way-AD.LAT DEM2.ISG.OBL-ERG water-ERG-GEN1 two waterskin-TOP put-PFV.CVB food-TOP put-PFV.CVB help-LAT-CNTR put-IPFV.CVB go-MSD-AD.ESS behind run-PFV.CVB II-come-PFV.CVB wife-ERG stick-TOP give-PST.UNW
+Translation: He put two waterskins onto the way, packed some food, and came running behind in order to go put(?), when his wife came running behind him and gave him a stick to go with, which he should put down for help.
+Sentence: Yisi žar moƛał neł gogaƛäz łäs oreznin, bišʷan rizäsi c’in, qacisgon ɣeryabin rukayn.
+Gloss: DEM2.ISG.OBL boy-LAT dream-CONT.ESS DEM1.IISG.OBL meadow-SUB.ESS.DIST water-GEN1 pond-and food-and IV-get-RES.PRT fire-and firewood-GEN1-CNTR pile-PL-and IV.PL-see-PST.UNW
+Translation: In his dream, the boy saw a pond of water under the meadow, food, a fire and a pile of firewood.
+Sentence: Idur aynosi, yisir ciqaɣor erno bišʷan łiyn eniwn nan mekoyx yesuzaƛ’ žoyä meɣyoqor eƛin, wele meɣu deberno, därno, eniwrno ʕeziyaw bišʷa roƛik’ƛin.
+Gloss: home-LAT come-ANT.CVB DEM2.ISG.OBL-LAT forest-IN.VERS put-PFV.CVB food-and end-PFV.CVB mother-and even be.hungry-IPFV.CVB II-find-CSL.CVB boy-ERG udder-POSS.LAT say-PFV.CVB look.out.IMP udder you-LAT-and me-LAT-and mother-LAT-and much food IV-let.appear-QUOT
+Translation: When he came home, he found the food put for [the way into] the forest finished and his mother being hungry, so the boy said to the udder: "Look out, udder, let appear much food for you, me and the mother!"
+
+Approximate Matches:
+Sentence: Yeda uži, bišʷannan rok’ƛ’ay šuƛ’in, q’ˤuna anƛ’ima hunix ik’in.
+Gloss: DEM2.ISG boy food-TOP-INT heart-SUPER.ABL forget-PFV.CVB two.OBL week-IN.ESS way-AD.ESS go-PST.UNW
+Translation: The boy forgot about food entirely and went on his way for two weeks.

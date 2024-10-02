@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zam-zames in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zam-zames: 
+
+Exact Matches
+Sentence: Nesä xanqor eƛin, zam-zames łi ħaƛunay, saɣ oqno ciqqosi bełi iłe aq miƛin.
+Gloss: DEM1.ISG.OBL-ERG khan-POSS.LAT say-PST.UNW Zam-Zam-GEN1 water drink-CND.CVB cure become-PFV.CVB forest-POSS.ESS-ATTR deer as become you-QUOT
+Translation: He said to the king: "If you drink the holy water, you will get cured and become [as healthy] as a forest deer!"
+Sentence: Hudayziko č’urqˤotow izin yeda zam-zames łäł xizay oqno.
+Gloss: the.next.day in.the.morning-EMPH get.up-PFV.CVB DEM2.ISG Zam-Zam-GEN1 water-CONT.ESS behind become-PST.UNW
+Translation: The next day he got up early and went out to get the holy water.
+Sentence: Hemełƛ’o ceyä eƛin, hi debi deber k’onč’aƛ’osi reƛno, yedun yałza caƛo, ƛ’irigon debez min zam-zames łi riħo, däzno hemedurtow riħoƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS eagle-ERG say-PST.UNW take.IMP you-GEN1 you-LAT leg-SUPER.ESS-ATTR meat-TOP DEM2.IISG-TOP be-LCV.CVB stick-IMPR above-CNTR you-GEN2 you-TOP Zam-Zam-GEN1 water IV-smear-IMPR me-GEN2-TOP so-EMPH IV-smear-IMPR-QUOT
+Translation: Then the eagle said: "Take the meat of your own leg and stick it where it used to be! And smear holy water on yours and smear it also on mine."
+
+Approximate Matches:
+Sentence: Elay bitorgon ik’iƛ’orey, deber sis žek’u äsu kʷayä zamzames łi roqłin ža ħaƛa roqinč’ey ƛexasi.
+Gloss: there-IN.ABL thither-CNTR go-SIM.CVB you-LAT one man find hand-IN.ESS sacred-GEN1 water IV-become-CNC.CVB DEM1.SG drink-INF IV-begin-NEG.PST.CVB remain-RES.PRT
+Translation: And when you go further from there, you will find a man with holy water in his hands, but he won't drink it.

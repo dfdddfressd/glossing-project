@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nesä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nesä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nesä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ɣˤaɣˤun izin nesä ža butni bazaryay bisno bižin.
+Gloss: be.happy-and get.up-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG burka bazar-IN.ABL III-buy-PFV.CVB III-carry-PST.UNW
+Translation: He got happy and bought the burka from the market.
+Sentence: Sosi yisä ħumukulis bet’erhanno goƛ’in nesis murad esirnosi, nesä eƛin:
+Gloss: at.first DEM2.ISG.OBL-ERG camel-GEN1 master-TOP call-PFV.CVB DEM1.ISG.OBL-GEN1 wish ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: At first he called the owner of the camel and asked what he desired, the owner said:
+Sentence: Xizor utin Pat’imatno yižin nesä nesiz ʕaƛaɣorno ik’in, mi däƛ’ay ʕaq’ilawn, c’odorawn zownƛin xanłin nełaqor teƛno žan paraxat ičin.
+Gloss: back turn.back-PFV.CVB Fatima-TOP II-lead-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 village-IN.VERS-TOP go-PST.UNW you me-SUPER.ABL intelligent-and clever-and be.NPRS-PST.UNW-QUOT khanate-TOP DEM1.IISG.OBL-POSS.LAT give-PST.UNW DEM1.SG-TOP calmly live-PST.UNW
+Translation: He returned with Fatima into his own village: "You are more intelligent and cleverer than me!", gave her the kingdom and lived calmly ever after.
+
+Approximate Matches:

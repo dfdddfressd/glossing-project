@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žek’u in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žek’u: 
+
+Exact Matches
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Hag oqno ƛexun ečruni žek’u.
+Gloss: amazingly become-PFV.CVB remain-PFV.CVB old-DEF man
+Translation: The old man was amazed.
+
+Approximate Matches:
+Sentence: Siryos bet’erhanesno, hokožek’usno k’eč’oliƛäy bitor q’ecen boqno:
+Gloss: mare-GEN1 master-GEN1-and coachman-GEN1-and foal-SUB.ABL thither argument I.PL-become-PST.UNW
+Translation: An argument over the foal arose between the mare's master's and the coachman:
+Sentence: Ik’in, ik’in babiwƛ’or kaɣat yegirno zawruni ečruni žek’uder ayn.
+Gloss: go-PFV.CVB go-PFV.CVB father-SUPER.LAT letter II-send-PFV.CVB be.NPRS-PST.PRT-DEF old-DEF man-APUD.LAT come-PST.UNW
+Translation: He went and went and came to the old man who had sent the letter to his father.
+Sentence: Xanä nesix ixiw bertenno boyn kidno yegirno, boƛik’u nesis ric’q’in, ɣˤutkun, posun teƛno, howlotow xande puräza iguni žek’un ičin.
+Gloss: khan-ERG DEM1.ISG.OBL-AD.ESS big marriage-TOP III-do-PFV.CVB daughter-TOP II-send-PFV.CVB half DEM1.ISG.OBL-GEN1 wealth-and house-and cattle-and give-PFV.CVB there-EMPH khan-APUD.ESS side-IN.VERS.DIST good-DEF man-TOP be-PST.UNW
+Translation: The king organized a big marriage and married off his daughter, gave half his wealth, his house and cattle to him and the good man was to the king's side.

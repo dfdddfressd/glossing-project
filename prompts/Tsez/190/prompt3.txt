@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: raqru.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": raqru
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word raqru:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Meža mežuł raqru halmaɣłi eli sabawłun rexarno.
+Gloss: you(I).PL.OBL-ERG you(I).PL.OBL-CONT.ESS IV-become-PST.PRT friendship we for.the.sake.of IV-kill-PROHIB
+Translation: Don't destroy the friendship that is between you because of us!
+Sentence: Enda dey ečuy t’et’ra ižixƛin, esin Ħasanä raqru šebin.
+Gloss: DEM3b.SG me-GEN1 grandchild learn-INF lead-IPFV.CVB-QUOT tell-PST.UNW Hassan-ERG IV-happen-PST.PRT thing
+Translation: "I am bringing my grandson here to school.", Hassan told what had happened.
+Sentence: Neširaɣor bełiqanbi baynosi, žeduq raqru šebin esin.
+Gloss: evening-IN.VERS hunter-PL I.PL-come-ANT.CVB DEM1.IPL.OBL-POSS.ESS IV-happen-PST.PRT thing tell-PST.UNW
+Translation: In the evening, when the hunters came, they told them what had happened.
+
+Approximate Matches:
+Sentence: Hoka k’eč’oli badiru raładyołäy madaħor besurobi raqruyä raq’ˤuƛin”.
+Gloss: carriage-IN.ESS foal III-do-PST.PRT sea-CONT.ABL outside fish-PL III.PL-become-PST.PRT-Q III.PL-much-QUOT
+Translation: "Is it really that much (of a surprise) fish came out of the sea, than a foal was born on the carriage?"
+Sentence: Esnabi, muši kuracekin ričinč’ey, aždaħqay raqruce maqˤir roxin rik’anił ričix zown.
+Gloss: sister-PL breath throw-TERM-even II.PL-be-NEG.PST.CVB dragon-POSS.ABL IV-become-PST.PRT-TERM far.away-LAT II.PL-run.away-PFV.CVB II.PL-go-MSD-CONT.ESS II.PL-be-IPFV.CVB be.NPRS-PST.UNW
+Translation: The sisters, not even waiting a single breath, were running away from the dragon to get far away from it.
+Sentence: Yisä yałruxor kinaw raqrun, nesa rayrun łinałäy esin nesiq.
+Gloss: DEM2.ISG.OBL-ERG be-PST.PRT-AD.LAT entire IV-happen-PST.PRT-and DEM1.ISG.OBL-ERG IV-do-PST.PRT-and what.OBL-CONT.ABL tell-PST.UNW DEM1.ISG.OBL-POSS.ESS
+Translation: He told him about everything that had happened and that he had done.

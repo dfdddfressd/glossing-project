@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word siskin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word siskin: 
+
+Exact Matches
+Sentence: Sis nełarno kurno siskin där ƛexandaƛin, aɣzo rok’ƛ’orno rayn, dicego rok’er zaħmat roqłin, zirur sis xexoy kurno.
+Gloss: one DEM1.IISG.OBL-LAT-TOP throw-PFV.CVB anything me-LAT remain-FUT.DEF-COND-QUOT bird-ATTR.OBL heart-SUPER.LAT-TOP IV-come-PFV.CVB how.much-COND heart-LAT trouble IV-become-CNC.CVB fox-LAT one young.animal throw-PST.UNW
+Translation: "Throwing one down, there will still remain one for me.", thought the bird and although it was difficult, it threw one nestling to the fox.
+Sentence: Bišanon bišno, Kusaqor siskin xabar boynč’ey, łˤonon esnabi maħor boqno.
+Gloss: food-TOP III-eat-PFV.CVB Kusa-POSS.LAT any story III-do-NEG.PST.CVB three-TOP brother-PL outside I.PL-become-PST.UNW
+Translation: Having eaten their food, the three brothers went outside without having talked to Kusa.
+Sentence: Išno oqnosi yisir siskin roqinč’uƛax.
+Gloss: eat-PFV.CVB become-ANT.CVB DEM2.ISG.OBL-LAT anything IV-happen-NEG.PST.WIT-QUOT
+Translation: After he ate, nothing happened to him.
+
+Approximate Matches:
+Sentence: Zamanałäy yisider sid miskinaw haq’us užä ayn eƛin, däq regirnäy, žedu di reynodanix ruhun rodanƛin.
+Gloss: time-CONT.ABL DEM2.ISG.OBL-APUD.LAT one.OBL poor family-GEN1 boy-ERG come-PFV.CVB say-PFV.CVB me-POSS.ESS III.PL-send-CND.CVB DEM1.IPL me III.PL-work-MSD-AD.ESS teach III.PL-do-FUT.DEF-QUOT
+Translation: After a while, a boy from a poor family came to him and said: "If you send them to me, I'll teach them how to work."
+Sentence: Nesä neła bełis łˤono but’a yodix zown, sis but’a awarager, sis miskinzar, sideni q’ˤimä q’ˤimzo haq’ur iduɣor yowx zown.
+Gloss: DEM1.ISG.OBL-ERG DEM1.IISG.OBL hunting-GEN1 three part II-do-IPFV.CVB be.NPRS-PFV.CVB one part prophet-LAT one poor-PL-LAT the.other.one oneself-ERG oneself-GEN2 family-LAT home-IN.ALL II-bring-IPFV.CVB be.NPRS-PST.UNW
+Translation: He always made three parts of what he hunted, one part he gave to the prophet, one to the poor, and the other part he brought to his own family's home.
+Sentence: Nagaħ uži miskinłiƛ’or aynäy, babiyä kobora teł eqerno xecäsi micxiryosno, mesedyosno ric’äsi ixin zown.
+Gloss: suppose boy poverty-SUPER.LAT come-CND.CVB dad-ERG granary-IN.ESS inside put-PFV.CVB leave-RES.PRT money-GEN1-TOP gold-GEN1-TOP IV-fill-RES.PRT bag be.NPRS-PST.UNW
+Translation: In case the boy would hit poverty, there was a bag filled with money and gold left inside the granary, put there by the father.

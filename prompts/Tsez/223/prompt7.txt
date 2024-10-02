@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bigut’ani in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bigut’ani: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Žedu łˤonon haq’ubi ʕaƛa teł taliħawn, bigut’aƛinno esix zown.
+Gloss: DEM1.IIPL.OBL three-TOP family-PL village-IN.ESS inside happy-and III-good-DISTR-QUOT-and tell-IPFV.CVB be.NPRS-PST.UNW
+Translation: They said that these three families in the village were very happy and good.

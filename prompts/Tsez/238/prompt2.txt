@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hokožek’ur in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hokožek’ur: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Siryos bet’erhanesno, hokožek’usno k’eč’oliƛäy bitor q’ecen boqno:
+Gloss: mare-GEN1 master-GEN1-and coachman-GEN1-and foal-SUB.ABL thither argument I.PL-become-PST.UNW
+Translation: An argument over the foal arose between the mare's master's and the coachman:

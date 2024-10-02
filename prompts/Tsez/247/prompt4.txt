@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Musaqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Musaqor: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Bišanon bišno, Kusaqor siskin xabar boynč’ey, łˤonon esnabi maħor boqno.
+Gloss: food-TOP III-eat-PFV.CVB Kusa-POSS.LAT any story III-do-NEG.PST.CVB three-TOP brother-PL outside I.PL-become-PST.UNW
+Translation: Having eaten their food, the three brothers went outside without having talked to Kusa.

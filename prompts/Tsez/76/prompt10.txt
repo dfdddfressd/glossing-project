@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žäd.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žäd
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žäd:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mežuqay dar žäd ħažataw šebin anuƛin, - eƛin žoyä, - meži hoboy tełxor biħuƛin”.
+Gloss: you(I).PL.OBL-POSS.ABL me-LAT still necessary thing be.NEG-QUOT - say-PST.UNW boy-ERG - you.PL now inside-AD.LAT I.PL-come.to-QUOT
+Translation: "There's still nothing necessary from you for me", said the boy, "go back inside again, now!"
+Sentence: Nedur resunäyƛin, Maħama kidbeqor eƛin, akrošaw magalun bižo, yik’in nesiqor eƛo, asno eräsi yoł, bucin žäd bic’äsianuƛin.
+Gloss: so IV-exist-CND.CVB-QUOT Magomed-ERG daughter-POSS.LAT say-PST.UNW cheese-ATTR bread-TOP III-take.out-IMPR II-go-PFV.CVB DEM1.ISG.OBL-POSS.LAT say-IMPR fog-TOP put-RES.PRT be moon-TOP still III-fill-RES.PRT-NEG-QUOT
+Translation: "If that is the case," Magomed said to his daughter, "take this cheese bread, go and say to him: ''Fog has come up, and the moon is still not full."
+
+Approximate Matches:

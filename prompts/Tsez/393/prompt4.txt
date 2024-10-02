@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word baynč’inäy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word baynč’inäy: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nesir riyx zown suƛƛitow nełas q’ˤimbi reč’no roɣinč’inäy, neła ħal bayrxanusiłi.
+Gloss: DEM1.ISG.OBL-LAT IV-know-IPFV.CVB be.NPRS-PFV.CVB at.once-EMPH DEM1.IISG.OBL-GEN1 head-PL IV.PL-cut-PFV.CVB IV-take.away-NEG.FUT-CND.CVB DEM1.IISG.OBL-ERG trouble III-bring-NEG.PRS.PRT-CND.CVB.IRR
+Translation: He knew that if he didn't cut off all the heads at once, he wouldn't defeat it.
+Sentence: Qˤašizaƛ’or mi guluƛ’or izinč’inäy, qalamxo bičixozo qarawulza mi iqärƛin, eƛin babiya uži hunix egirno.
+Gloss: dawn-POST.CVB you horse-SUPER.LAT get.up-NEG.FUT.CVB-CND.CVB fortress-AD.ESS III-wait-IPFV.CVB-ATTR.OBL guard-PL-ERG you catch-QUOT say-PST.UNW father-ERG son way-AD.ESS send-PST.UNW
+Translation: If you don't get on your horse before it dawns, the guards who are waiting at the fortress will catch you!" the father said and sent his son away.
+Sentence: Nagaħ mi ža yownč’inäy, mi din šuƛ’ir, di min šuƛ’iran, ela elułsi halmaɣłin łiyranƛin.
+Gloss: suppose you DEM1.SG II-marry-NEG.FUT.CVB-CND.CVB you me-TOP forget me you-TOP forget-FUT.DEF we(I).OBL-ERG we(I).OBL-CONT.ESS-ATTR friendship-TOP finish-FUT.DEF-QUOT
+Translation: Suppose you won't marry her, then forget about me and I will forget about you, and we will finish the friendship between us.

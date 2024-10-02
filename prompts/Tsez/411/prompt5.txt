@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word małiruxor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word małiruxor: 
+
+Exact Matches
+Sentence: Esiya małiruxor, č’ikays tungin bisno, yedu łäħor yik’in.
+Gloss: brother-ERG teach-PST.PRT-AD.LAT glass-GEN1 copper.jug-TOP III-take-PFV.CVB DEM2.IISG water-AD.LAT II-go-PST.UNW
+Translation: According to what the brother had said, she took a glass jug and went to get water.
+
+Approximate Matches:
+Sentence: Xizyo, babiya äƛiruxor, ža uži bazarganzar teƛno.
+Gloss: afterwards father-ERG ORD-AD.LAT DEM1.SG boy merchant-PL-LAT give-PST.UNW
+Translation: Afterwards, the father sold his boy off to the merchants, as he said.
+Sentence: Mi äƛiruxor ričiƛƛin, razi oqno neł ɣˤutkos bet’erhan.
+Gloss: you ORD-AD.LAT IV-be-OPT-QUOT agree become-PST.UNW DEM1.IISG.OBL house-GEN1 master
+Translation: "May it be as you said!", agreed the master of that house.
+Sentence: Q’orola äsiruxor rodin xanä.
+Gloss: widow-ERG tell-PST.PRT-AD.LAT IV-do-PST.UNW khan-ERG
+Translation: The king acted as the widow told.

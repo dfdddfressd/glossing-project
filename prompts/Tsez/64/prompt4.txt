@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: riyrno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": riyrno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word riyrno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neširu sadaq kecnosi, Ismaʕilä baħarayłno, nesä nesiłno roƛƛo bˤałäyn eqerno, debi ged ent’aɣor yaynäy, debi di meč’ beč’a yołƛin riyrno.
+Gloss: at.night together sleep-ANT.CVB Ismail-ERG fiancée-CONT.ESS-and DEM1.ISG.OBL-ERG DEM1.ISG.OBL-CONT.ESS-and IV-middle dagger-TOP put-PFV.CVB you-GEN1 shirt here-IN.VERS II-come-CND.CVB you-GEN1 me neck III-cut-INF be-QUOT IV-explain-PST.UNW
+Translation: At night, when they were sleeping together, Ismail put a dagger inbetween his bride and himself: "If your shirt comes onto my side, I will cut your neck!", he explained.
+Sentence: Sida quł, babiya igorno goƛ’in kidbazaq riyrno, sasaq eli bet’erbaqi bodanix maħor boqa bayƛin.
+Gloss: one.OBL day-CONT.ESS father-ERG near-LAT-TOP call-PFV.CVB daughter-PL-POSS.ESS IV-explain-PST.UNW tomorrow we life III-do-MSD-AD.ESS outside I.PL-become-INF I.PL-must-QUOT
+Translation: One day, the father called them to himself and explained to the daughters: "Tomorrow we have to go outside to do work."
+Sentence: Xizyo xanä nazon nukarzaq riyrno, c’ohor yoł t’oza sis reƛ’a anusi, meži nasin nesił xizay boq, ža meža iqira ayƛin.
+Gloss: afterwards khan-ERG all.OBL-TOP henchman-PL-POSS.ESS IV-explain-PFV.CVB thief be here-ZA one hand be.NEG-ATTR you.PL all DEM1.ISG.OBL-CONT.ESS behind I.PL-become DEM1.SG you(I).PL.OBL-ERG catch-INF must-QUOT
+Translation: Afterwards the king explained to all his henchmen: "The thief lacks one hand; y'all get behind him, you must catch him!"
+
+Approximate Matches:
+Sentence: Žan rac’no łiyrno, p’es anusi c’ik’iwtow bišʷa rac’a ħuruƛ’or ik’iƛ’oräy, sid bełiqanä ža t’omceni žek’u oxira aqrun mešok’lałay boɣno musno, ɣunoqor icin kurno.
+Gloss: DEM1.SG-TOP IV-eat-PFV.CVB finish-PFV.CVB voice be.absent-ATTR all-EMPH food IV-eat-INF basin-SUPER.LAT go-SIM.CVB one.OBL hunter-ERG DEM1.SG span-EQU1-DEF man chase-INF begin-IMM.ANT.CVB moustache-CONT.ABL III-take.away-PFV.CVB hair-TOP tree-POSS.LAT tie-PFV.CVB throw-PST.UNW
+Translation: When he had finished eating it and went to the basin to eat all the food without saying anything, one hunter began to chase the span-sized man away and he took a hair out of his moustache and tied him to a tree.
+Sentence: Isno ceyä bac’no łiyrno, t’ekzo šilazaƛ’ ƛuzabi ƛexun.
+Gloss: bull-TOP eagle-ERG III-eat-PFV.CVB finish-PFV.CVB he.goat-ATTR.OBL horn-PL-SUPER.ESS bone-PL remain-PST.UNW
+Translation: When the eagle finished eating the bull, the bones remained on the goat's horns.
+Sentence: Hudun, xizaɣor aħozä biyrno čanya bik’ixosi moči.
+Gloss: nevertheless finally shepherd-ERG III-recognize-PFV.CVB she.goat III-go-PRS.PRT place
+Translation: Nevertheless the shepherd finally found out the place where the goat went to.

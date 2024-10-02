@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: pˤaƛirno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": pˤaƛirno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word pˤaƛirno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Dicegon ža soder bizanƛin hunƛ’izi boqłin, pˤaƛirno bižin yałza wˤałertow bayx zown.
+Gloss: how.much-CNTR DEM1.SG upward III-get.up-FUT.CVB-QUOT trying III-become-CNC.CVB glide.off-PFV.CVB III-carry-PFV.CVB be-LCV.CVB downward-LAT-EMPH III-come-IPFV.CVB be.NPRS-PST.UNW
+Translation: But how much it tried to get upwards, it always glided off and came down where it was.
+Sentence: Xot’on pˤaƛirno ʕoƛ’un iħułxor yeda ik’iƛ’oräy, reƛ’iƛer yäqiru t’it’oraq exoriłno ƛexun.
+Gloss: foot-TOP glide.off-PFV.CVB fall-PFV.CVB river-CONT.VERS DEM2.ISG go-SIM.CVB hand-SUB.LAT II-hold-PST.PRT shrubbery-POSS.ESS hang-PFV.CVB remain-PST.UNW
+Translation: His foot glided off and while he was falling into the river, he could hold to a bush with his hand.
+
+Approximate Matches:
+Sentence: Baq’ˤu mix bik’izaƛ’orgon hemedurtow weeƛirno zeyä cek’i.
+Gloss: III-much time III-go-POST.CVB-CNTR so-EMPH bleat-CAUS-PST.UNW bear-ERG goat.kid
+Translation: After quite some time has passed, the bear caused the goat kid to bleat again.
+Sentence: Q’ˤimde sadaq lagan šušin, eɣeni esiya rok’un hiƛirno.
+Gloss: head-APUD.ESS together body-TOP bury-PFV.CVB young-DEF brother-ERG heart-TOP place.comfortably-PST.UNW
+Translation: The young brother buried the body together with the head and calmed down.
+Sentence: Q’ˤida muɣno hiƛirno, neła ža hič’č’a rečiwsi riqirno qaca q’ˤidar karun, nełłäy bikorin boqno, bet’unč’ey žedałtow xizay nexxo zown.
+Gloss: down bundle-TOP place.comfortably-PFV.CVB DEM1.IISG.OBL-ERG DEM1.SG the.most IV-thick-ATTR IV-take.away-PFV.CVB firewood down-LAT throw-IMM.ANT.CVB DEM1.IISG.OBL-CONT.ABL snake-TOP III-become-PFV.CVB III-stay.behind-NEG.PST.CVB DEM1.IIPL.OBL-CONT.ESS-EMPH behind come-IPFV.CVB be.NPRS-PST.UNW
+Translation: She put the bundle down, and the thickest piece of firewood that she threw down, turned into a snake, which didn't stay behind, but followed them.

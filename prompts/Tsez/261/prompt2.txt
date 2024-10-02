@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yayruntow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yayruntow: 
+
+Exact Matches
+Sentence: Idur yayruntow yiła eƛin, xexłiƛ’ babiya mi goƛ’ixƛin.
+Gloss: home-LAT II-come-IMM.ANT.CVB-EMPH DEM2.IISG.OBL-ERG say-PST.UNW urgence-SUPER.ESS dad-ERG you invite-PRS-QUOT
+Translation: Right after she came [to his] home, she said: "My father invites you urgently!"
+
+Approximate Matches:
+Sentence: Ža xabarno teqno obiwn, užin bezanixƛin bik’inosi, yisir suƛƛi yukayruntow yiyn yedu yisis baru yałru.
+Gloss: DEM1.SG story-TOP hear-PFV.CVB father-and son-and I.PL-look-MSD-AD.ESS-QUOT I.PL-go-ANT.CVB DEM2.ISG.OBL-LAT immediately II-see-IMM.ANT.CVB-EMPH II-know-PFV.CVB DEM2.IISG DEM2.ISG.OBL-GEN1 wife be-PST.PRT
+Translation: Having heard of this story, the father and his son went to have a look and he immediately knew when seeing her, that it was his wife.
+Sentence: Walla, xan, howža ƛeli bayruntow, nełas eniw bexus.
+Gloss: wallah khan DEM4.SG lamb III-do-IMM.ANT.CVB-EMPH DEM1.IISG.OBL-GEN1 mother III-die-PST.WIT
+Translation: "By God, o king, right after the lamb was born, its mother died.
+Sentence: Aɣi bukayruntow nełaz maʕdinłiƛ’no ezun xan haqa ogun ƛexun.
+Gloss: bird III-see-IMM.ANT.CVB-EMPH DEM1.IISG.OBL-GEN2 beauty-SUPER.ESS-TOP look-PFV.CVB khan mouth-IN.ESS gape-PFV.CVB remain-PST.UNW
+Translation: When the king saw the bird, he stood there gaping about its beauty.

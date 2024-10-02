@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕAƛa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕAƛa: 
+
+Exact Matches
+Sentence: Esin šebi, xecin šebi sida beɣe ʕaƛa res anusi, baru yowace oqäsi ʕoloqanaw uži zown.
+Gloss: tell-PFV.CVB what leave-PFV.CVB what one.OBL III-young village-IN.ESS possibility be.NEG-ATTR wife II-marry-TERM become-RES.PRT young boy be.NPRS-PST.UNW
+Translation: What is to be said, what is to be left out -- there lived a young boy, without the necessary subsistence, being in the right age to marry a woman.
+Sentence: Uži xabar esa oqno, di ʕaƛa zows.
+Gloss: boy story tell-INF begin-PST.UNW me village-IN.ESS be.NPRS-PST.WIT
+Translation: The boy began to tell a story: "I was in a village.
+Sentence: Zeyä xizyogon esin, eluz maduhalłiq yałru ʕaƛa łi ħaƛanix posu sida maqˤi yałruni keroqor rik’ixosi.
+Gloss: bear-ERG then tell-PST.UNW we(I).OBL-GEN2 neighbourhood-POSS.ESS be-PST.PRT village-IN.ESS water drink-MSD-AD.ESS cattle one.OBL far.away be-PST.PRT-DEF ravine-POSS.LAT IV-go-PRS.PRT
+Translation: The bear then told: "In a village in our neighbourhood, the cattle has to go to a ravine that is far a way in order to drink water.
+
+Approximate Matches:

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ʕomoyä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ʕomoyä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ʕomoyä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elo ʕomoyä bayäruni bexasi boc’i bukaynosi, nasin boc’a elin rexar yizäƛin, aɣˤʷa tełäy roxin.
+Gloss: there donkey-ERG III-bring-PST.PRT-DEF III-die-RES.PRT wolf III-see-ANT.CVB all wolf.PL we-TOP III.PL-kill DEM2.IIPL.OBL-ERG-QUOT mill-IN.ESS inside-IN.ABL III.PL-run.away-PST.UNW
+Translation: When they saw the dead wolf that the donkey had brought, all the wolves said: "They will kill us!", ran out of the mill and away.
+Sentence: Žigoƛ’aygon mi cek’qo qˤaƛu rizirłi, ela mi bexura yołƛin, ʕomoyä eƛin.
+Gloss: again-SUPER.ABL-CNTR you goat.kid-POSS.ESS shout IV-lift-CND.CVB.IRR we(II-ERG you III-kill-INF be-QUOT donkey-ERG say-PST.UNW
+Translation: If you make the goat kid shout again, we will kill you!", said the donkey.
+Sentence: Rok’un rexun ʕomoyä zeyn iduɣor begirno.
+Gloss: heart-TOP IV-die-PFV.CVB donkey-ERG bear-TOP home-IN.ALL III-let-PST.UNW
+Translation: The donkey felt sorry and let the bear into the home.
+
+Approximate Matches:
+Sentence: Esin šebi, xecin šebi, sidaquł ʕomoyn bižin ciqaɣor qaciƛ’orƛin ʕoloqan žek’u ik’äsi zown.
+Gloss: tell-PFV.CVB what leave-PFV.CVB what one.day donkey-TOP III-lead-PFV.CVB forest-IN.VERS firewood-SUPER.LAT-QUOT young man go-RES.PRT be.NPRS-PST.UNW
+Translation: What should I tell, what should I leave; once upon a time a young man went with a donkey into the forest to collect firewood.
+Sentence: Zewnoƛax oc’ino halmaɣ, ceyn, ɣʷˤadin, cek’eryon, elbon, onočun, mat’in, ʕomoyn, mešin, cek’in, ƛelin.
+Gloss: be.NPRS-PST.UNW-QUOT ten friend eagle-and crow-and sparrow-and pigeon-and hen-and duck-and donkey-and bull.calf-and goat.kid-and lamb-and
+Translation: Once there were ten friends: An eagle, a crow, a sparrow, a pigeon, a hen, a duck, a donkey, a bull calf, goat kid and a lamb.
+Sentence: Nesi užä yołi nˤoƛas ixinabi ric’no, ʕomoyƛ’no erno hunix oqno, dicegon žedu, ža nˤoƛugon łinar yižixƛin, nesiqor baƛ’ix bičiłin.
+Gloss: DEM1.ISG.OBL boy-ERG however ashes-GEN1 bag-PL IV.PL-fill-PFV.CVB donkey-SUPER.ESS-TOP put-PFV.CVB way-AD.ESS become-PFV.CVB how.much-CNTR DEM1.IPL DEM1.SG ashes-CNTR why II-carry-PRS-QUOT DEM1.ISG.OBL-POSS.LAT I.PL-scold-IPFV.CVB I.PL-be-CNC.CVB
+Translation: The boy however filled his bags with ashes, put them onto the donkey and went on his way, although they were scolding him much: "Why are you carrying these ashes?!"

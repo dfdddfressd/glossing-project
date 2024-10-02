@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ƛ’iri in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ƛ’iri: 
+
+Exact Matches
+Sentence: Užä ža pardagi eniwł adäza ret’irnosi, riguƛ’ay rigu biša roƛixno elo ƛ’iri.
+Gloss: son-ERG DEM1.SG scarf mother-CONT.ESS before IV-make.a.bed-ANT.CVB IV-good-SUPER.ABL IV-good food IV-appear-PFV.CVB there above
+Translation: The son laid down the scarf before his mother and a lot of good food appeared on it.
+Sentence: Yigtow ža ƛ’iri yičizaƛ’ riynoxa eƛin: di sabawyabin caxxosianu, šidaƛin eƛiłiri šayt’anza där ʕaq’uba neƛxoƛin, amma dey nesirsi sis daru yołƛin.
+Gloss: II-much-EMPH DEM1.SG above II-remain-CSL.CVB sheikh-ERG say-PST.UNW me amulet-PL-TOP write-PRS.PRT-NEG why-QUOT say-CND.CVB.IRR devil-PL me-LAT torture give-PRS-QUOT but me-GEN1 DEM1.ISG.OBL-LAT-ATTR one medicine be-QUOT
+Translation: But because she insisted so much, the sheikh said: "I don't write a talisman, and if I told you why, the devils would give me torture, but I have one medicine for him."
+Sentence: Xalq’ima ža gamušyozaq ƛisirno ʕaƛaɣorno yižin, žeda žedus c’ik’iw ʕaƛno kušin, neł c’iɣuƛ’ ƛ’iri bodin.
+Gloss: people-ERG DEM1.SG buffalo-PL-POSS.ESS pull-CAUS-PFV.CVB village-IN.VERS-and II-carry-PFV.CVB DEM1.IPL-ERG DEM1.IPL.OBL-GEN1 entire village-and demolish-PFV.CVB DEM1.IISG.OBL shoulder.blade-SUPER.ESS above III-do-PST.UNW
+Translation: The people made the buffalo pull it into the village, demolished their entire village and rebuilt it on the shoulder.blade.
+
+Approximate Matches:
+Sentence: Asoqtow bitin žedu ɣˤaɣˤu bizizaq, qiƛ’orok’uƛ’äy ƛ’irir best’alawni uži ayzaƛ’.
+Gloss: sky-POSS.ESS-EMPH III-touch-PFV.CVB DEM1.IPL be.happy I.PL-get.up-CSL.CVB by.chance above-LAT step-DEF son come-CSL.CVB
+Translation: They were happy sky-high, when their step-son happened to come.
+Sentence: Neła ƛˤorłäyn teqno ƛ’irir yayru nesi žaz eniya nesiqor qˤaƛin, iħäzoni łiyä bown kurali mežikin sida ħala bičix yołiƛin.
+Gloss: DEM1.IISG.OBL war-CONT.ABL-TOP hear-PFV.CVB above-LAT II-come-PST.PRT DEM1.ISG.OBL boy-GEN2 mother-ERG DEM1.ISG.OBL-POSS.LAT shout-PST.UNW river-IN.ESS-ATTR.OBL-DEF water-ERG I.PL-bring-PFV.CVB throw-ATTR you.PL-even one.OBL condition-IN.ESS I.PL-remain-IPFV.CVB however-QUOT
+Translation: The moter of that boy heard of their battle and came up and shouted to him: "You two, brought by the river's water and thrown here, be normal!"
+Sentence: Xizyo ža ɣˤʷay kidbeƛ’orno butin, neła esirno, hemełƛ’o däz babiwz ƛ’irizoni ɣˤutka teł suratyoƛ’ yukayruni kid deber yiqa rätiyäƛin.
+Gloss: afterwards DEM1.SG dog girl-SUPER.LAT-TOP III-turn-PFV.CVB DEM1.IISG.OBL-ERG ask-PST.UNW DEM4.IISG.OBL-SUPER.ESS me-GEN2 father-GEN2 above-ATTR.OBL-DEF room-IN.ESS inside picture-SUPER.ESS II-see-PST.PRT-DEF girl you-LAT II-get-INF IV-want-PST.WIT.INT-QUOT
+Translation: Afterwards that dog turned into a girl again and asked: "Then, do you want to ge the girl you saw on the picture inside my father's upper room?"

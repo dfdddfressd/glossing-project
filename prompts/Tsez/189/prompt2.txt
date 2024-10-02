@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ciqes.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ciqes
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ciqes:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bukar hoboy eluq ciqes xanƛin!”
+Gloss: III-show now we(I).OBL-POSS.ESS forest-GEN1 khan-QUOT
+Translation: Show us the king of the forest now!"
+Sentence: Ixdax, isi yecinosi, nasin ciqes, posu yiła maħor regirno.
+Gloss: in.spring snow II-thaw-ANT.CVB all forest-GEN1 cattle DEM2.IISG.OBL outside IV-let-PST.UNW
+Translation: In spring, after the snow had thawed, she let all the wild animals out.
+Sentence: Neła quł yiził siskin ciqes šebin dandi keze roqno anu.
+Gloss: DEM1.IISG.OBL day-CONT.ESS DEM2.IPL.OBL-CONT.ESS anything forest-GEN1 thing only meet IV-become-PFV.CVB be.NEG
+Translation: That day, they didn't encounter anything at all in the forest.
+
+Approximate Matches:
+Sentence: Yedu mat’i di ciqez xaner bižix, sis miƛ’in bown min horoƛin”.
+Gloss: DEM2.IISG duck me forest-GEN2 khan-LAT III-carry-PRS one ram-TOP III-get-PFV.CVB you-TOP go.IMPR-QUOT
+Translation: "I am carrying this duck to the king of the forest, go get a ram!"
+Sentence: ʕOmoybin rišʷanix ʕalaxyoƛ’or regirno, ža qaca roda ciqełxor oqno.
+Gloss: donkey-PL-TOP III.PL-eat-MSD-AD.ESS clearing-SUPER.LAT III.PL-let-PFV.CVB DEM1.SG firewood IV-do-INF forest-CONT.ESS-AD.LAT become-PST.UNW
+Translation: He let the donkeys onto a clearing so they could eat, and went into the forest to collect the firewood.
+Sentence: Yeda di ciqez xaner bižix, min nełar sis is baƛin”.
+Gloss: DEM2.ISG me forest-GEN2 khan-LAT III-carry-PRS you-TOP DEM1.IISG.OBL-LAT one bull III-bring.IMP-QUOT
+Translation: "I'm bringing this to the king of the forest, bring him a bull!"

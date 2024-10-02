@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yaganix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yaganix: 
+
+Exact Matches
+Sentence: Yisiz babiws šudaƛ’osi ħimu yaganix biħun yedu.
+Gloss: DEM2.ISG.OBL-GEN2 father-GEN1 graveyard-SUPER.ESS-ATTR tombstone II-lick-MSD-AD.ESS I.PL-come.to-PST.UNW DEM2.IISG
+Translation: It came to lick the tombstone on his father's grave.
+
+Approximate Matches:
+Sentence: Šibaw ɣudƛ’o šudaƛ’ay ciyo raganix sis ixiw miƛ’it’a bayx zown.
+Gloss: every day-SUPER.ESS graveyard-SUPER.ABL salt IV-lick-MSD-AD.ESS one big ram-DISTR III-come-IPFV.CVB be.NPRS-PST.UNW
+Translation: Every day a big ram was coming to lick the salt from the grave.
+Sentence: Ax roqace nuci raganix egirno xecinäy neƛanƛin eƛin užä.
+Gloss: belly IV-become-TERM honey IV-lick-MSD-AD.ESS let-PFV.CVB leave-CND.CVB give-FUT.DEF-QUOT say-PST.UNW boy-ERG
+Translation: "If you let me lick a belly-full of honey, I'll give it to you.", said the boy.
+Sentence: Sasaqgon miƛ’i šudaƛ’or ciyo raganix bayn.
+Gloss: tomorrow-CNTR ram graveyard-SUPER.LAT salt IV-lick-MSD-AD.ESS III-come-PST.UNW
+Translation: And on the next day, the ram came to the graveyard to lick the salt again.

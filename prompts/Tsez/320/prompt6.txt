@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reč’oƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reč’oƛin: 
+
+Exact Matches
+Sentence: Nesä yisiqor eƛin, enda ɣun reč’oƛin.
+Gloss: DEM1.ISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT say-PST.UNW DEM3b.SG tree IV-cut-IMPR-QUOT
+Translation: He said to him: "Chop down that tree!"
+Sentence: Mi nesiqor eƛo, sosi mitow reč’oƛin.
+Gloss: you DEM1.ISG.OBL-POSS.LAT say-IMPR at.first you-EMPH IV-cut-IMPR-QUOT
+Translation: Say to him: 'You chop first!'
+Sentence: Didur ža reč’xosi där riyxanu, sosi mitow reč’oƛin, eƛin Ħusenä nesiqor.
+Gloss: how DEM1.SG IV-cut-PRS.PRT me-LAT IV-know-IPFV.CVB-NEG at.first you-EMPH IV-cut-IMPR-QUOT say-PST.UNW Hussein-ERG DEM1.ISG.OBL-POSS.LAT
+Translation: "I don't know how to chop it down, you chop first!", said Hussein to him.
+
+Approximate Matches:
+Sentence: Łaymoƛ’or aynosi, Ismaʕil izin ʕArabuzande igorno ik’in xanqor eƛin, horo hoboy yiłas meč’ beč’oƛin.
+Gloss: mind-SUPER.LAT come-ANT.CVB Ismail get.up-PFV.CVB Arabuzan-APUD.ESS near-LAT-TOP go-PFV.CVB khan-POSS.LAT say-PST.UNW come.IMPR now DEM2.IISG.OBL-GEN1 neck III-cut-IMPR-QUOT
+Translation: After he came to, Ismail got up and went to Arabuzan and said to the king: "Come now, cut off her neck!"
+Sentence: Xizyo q’ˤidayn izin di dowderno nexno babiwqor eƛan, horo howži yiłas meč’ beč’oƛin.
+Gloss: afterwards down-IN.ABL-TOP get.up-PFV.CVB me you-APUD.LAT-TOP come-PFV.CVB father-POSS.LAT say-FUT.DEF come.IMPR now DEM2.IISG.OBL-GEN1 neck III-cut-IMPR-QUOT
+Translation: Then, when I got up, I will come to you and say to my father: 'Come now, cut off her neck!'

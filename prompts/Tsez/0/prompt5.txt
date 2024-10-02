@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łinałäy using Leipzig glossing symbols. The sentence this word is drawn from means: "Atid told about everything that had happened to him.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łinałäy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łinałäy:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Pat’imatä esirno, łinałäy mežus daʕbaƛin.
+Gloss: Fatima-ERG ask-PST.UNW what.OBL-CONT.ABL you(I).PL.OBL-GEN1 dispute-QUOT
+Translation: Fatima asked: "What is your dispute about?"
+Sentence: Žedur žedu esnabi yałru biynosi, Umukusä nesiq kinaw raqru łinałäy esin.
+Gloss: DEM1.IPL.OBL-LAT DEM1.IPL.OBL brother-PL be-PST.PRT I.PL-know-ANT.CVB Umukus-ERG DEM1.ISG.OBL-POSS.ESS entire IV-happen-PST.PRT what.OBL-CONT.ABL tell-PST.UNW
+Translation: When they knew they were brother and sister, Umukus told him about everything that happened.
+Sentence: Babiya esin xanä nesiq ƛ’iri risäru łinałäy.
+Gloss: dad-ERG tell-PST.UNW khan-ERG DEM1.ISG.OBL-POSS.ESS above IV-take-CAUS-PST.PRT what.OBL-CONT.ABL
+Translation: The father told about what the king told him to fulfil.
+
+Approximate Matches:
+Sentence: Oqnäyƛin, eƛin qˤayz xexoyä, di eniw goƛ’an bik’an, deber rätiru łinałäyn di nełaq esanƛin.
+Gloss: happen-CND.CVB-QUOT say-PST.UNW hare-GEN2 young.animal-ERG me mother call-FUT.CVB III-go-FUT.DEF you-LAT IV-want-PST.PRT what.OBL-CONT.ABL-TOP me DEM1.IISG.OBL-POSS.ESS tell-FUT.DEF-QUOT
+Translation: "If that's the case," said the rabbit's young, "I will go to call mother and you will tell her about what you want."
+Sentence: Yisägon šinaw raqru łinałäyn esin žedaq.
+Gloss: DEM2.ISG.OBL-ERG-CNTR every IV-happen-PST.PRT what.OBL-CONT.ABL-TOP tell-PST.UNW DEM1.IIPL.OBL-POSS.ESS
+Translation: And so he told them everything about it.
+Sentence: Kusa nesir raqru łinałäyn esin eɣeni esiwq, dicegon baq’ˤu micxirno, mesedno boqłin, däq siskin šebin roda roqxanuƛin.
+Gloss: Kusa-ERG DEM1.ISG.OBL-LAT IV-happen-PST.PRT what.OBL-CONT.ABL-TOP tell-PST.UNW young-DEF brother-POSS.ESS how.much-CNTR III-much money-and gold-and III-become-CNC.CVB me-POSS.ESS any thing IV-do-INF IV-become-PRS-NEG-QUOT
+Translation: Kusa told the younger brother what had happened to him: "No matter how much money and gold I have, I don't manage to do anything.

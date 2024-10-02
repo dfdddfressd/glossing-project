@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nexxosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nexxosi: 
+
+Exact Matches
+Sentence: Yizi didiwtow xalq’i, ziys ħošos reɣet’a t’it’urbi bazarya teƛanix nexxosi, yizä elułäy ʕabdalbitowwa boyxƛin, nasin xalq’in ƛ’iri butin, ʕoƛnon esnabi nocubi caƛix bazaryay boxirno.
+Gloss: DEM2.IPL which-EMPH people cow-GEN1 hide-GEN1 IV-small-DISTR piece-PL bazar-IN.ESS sell-MSD-AD.ESS come-PRS.PRT DEM2.IPL.OBL-ERG we(I).OBL-CONT.ABL fool-PL-EMPH-Q III-do-PRS-QUOT all people-TOP above III-turn-PFV.CVB seven-TOP brother-PL saliva-PL throw-IPFV.CVB bazar-IN.ABL I.PL-chase-PST.UNW
+Translation: "What kind of people are they, coming to sell small pieces of cow hide on the market; are they making fools of us?!", all the people insisted and spitting on the seven brothers chased them off the market.
+
+Approximate Matches:
+Sentence: Q’ˤanon sadaq ʕaƛaɣor nexxo zown.
+Gloss: two-TOP together village-IN.VERS come-IPFV.CVB be.NPRS-PST.UNW
+Translation: The two went to the village together.
+Sentence: Elay bizin bik’iƛ’oräy žedude dandir nexxo iłno q’ˤim yołäsi aždaħ bukayn.
+Gloss: there-IN.ABL I.PL-get.up-PFV.CVB I.PL-go-SIM.CVB DEM1.IPL.OBL-APUD.ESS towards come-IPFV.CVB six head be-RES.PRT dragon III-see-PST.UNW
+Translation: From there they got up, and saw a six-headed dragon coming towards them.
+Sentence: Buq bätuza puƛ’azay guluƛ’no zown yisir eže žek’u nexxo ukayn.
+Gloss: sun III-set-LCV.CVB side-SUPER.ABL.DIST horse-SUPER.ESS-TOP ride-PFV.CVB DEM2.ISG.OBL-LAT old man come-IPFV.CVB see-PST.UNW
+Translation: In the south he saw an old man riding on a horse coming towards him.

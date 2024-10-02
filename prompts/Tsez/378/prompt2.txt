@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łiyƛ’orey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łiyƛ’orey: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Bełiƛ’ esnabi bäk’äsi yałzay, eɣeni esiwz bara k’orin boyn nazon q’ˤidan ričin bac’ƛ’oräy, Umukusez haqa bašiqˤoy šišin, k’ori boyƛ’orey eɣeni esiwz baruqay rˤaƛ’uruni.
+Gloss: hunting-SUPER.ESS brother-PL I.PL-go-ATTR be-SIM.CVB young-DEF brother-GEN2 wife-ERG oatmeal-TOP III-do-PFV.CVB everyone.OBL-TOP down-TOP II.PL-sit-PFV.CVB III-eat-SIM.CVB Umukus-GEN2 mouth-IN.ESS ring get.stuck-PST.UNW oatmeal III-do-SIM.CVB young-DEF brother-GEN2 wife-POSS.ABL IV-fall-PST.PRT-DEF
+Translation: When the brothers were going hunting, the youngest brother's wife made an oatmeal and when everyone sat down and ate, a ring that fell off the youngest brother's wife when she made the oatmeal, got stuck in Umukus' mouth.
+Sentence: Neła idur bown zawruni onoču reč’yałer kidbeƛ’orno butin, iduzasi royƛ’orey, k’oƛin yik’in ečruni ɣˤanaza ža kid yiqirno.
+Gloss: DEM1.IISG.OBL home-LAT III-bring-PFV.CVB be.NPRS-PST.PRT-DEF hen quickness-CONT.LAT girl-SUPER.LAT-TOP III-turn-PFV.CVB home-PL-ATTR IV-do-SIM.CVB run-PFV.CVB II-go-PFV.CVB old-DEF woman-ERG DEM1.SG girl II-catch-PST.UNW
+Translation: The hen that she had brought home quickly turned into a girl and while she did the house[work] then, the old woman ran and caught this girl.

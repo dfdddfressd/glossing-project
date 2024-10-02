@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: č’ikayn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": č’ikayn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word č’ikayn:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nełqay roxin rik’iƛ’oräy, yeženi esiya babiya neƛno zawruni č’ikay q’ˤidar kurno.
+Gloss: DEM1.IISG.OBL-POSS.ABL II.PL-run.away-PFV.CVB II.PL-go-SIM.CVB II-old-DEF sister-ERG father-ERG give-PFV.CVB be.NPRS-PST.PRT-DEF mirror down-LAT throw-PST.UNW
+Translation: While they were running away from it, the eldest sister threw down the mirror that their father had given her.
+Sentence: Ža maħor oqƛ’oräy, nesiłtow xizay yoƛixno Baxumesedagon ʕAliqiličqor č’ikay teƛno, reč’no nełas q’ˤim č’ikayä rezurinč’inäy, nełas ruħ baɣinč’iƛin.
+Gloss: DEM1.SG outside become-SIM.CVB DEM1.ISG.OBL-CONT.ESS-EMPH from.behind II-appear-PST.UNW Bakhumesed-ERG-CNTR Aliqilich-POSS.LAT mirror give-PFV.CVB IV-cut-PFV.CVB DEM1.IISG.OBL-GEN1 head mirror-IN.ESS IV-look-CAUS-NEG.FUT-CND.CVB DEM1.IISG.OBL-GEN1 power III-take.away-NEG.FUT-QUOT
+Translation: When Aliqilich got outside, Bakhumesedo appeared behind him and gave him a mirror, saying: "When you cut his head off and don't show it to himself in the mirror, you won't take away his power."
+Sentence: Sidade kikxor baynosi, elo ence q’ˤidan bičin bišƛ’oräy, eɣeni esiws ħamay č’ikay yˤoƛ’un yoƛixno.
+Gloss: one.OBL-APUD.ESS spring-AD.LAT I.PL-come-ANT.CVB there a.little down-and I.PL-sit-PFV.CVB I.PL-eat-SIM.CVB young-DEF brother-GEN1 chest-IN.ABL mirror II-fall-PFV.CVB II-appear-PST.UNW
+Translation: They came to a spring; and when they barely sat down and ate, the mirror fell from the younger brother's arms.

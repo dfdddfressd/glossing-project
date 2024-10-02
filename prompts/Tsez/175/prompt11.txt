@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: insan.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": insan
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word insan:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Di insan yołƛinno, eƛin, kid ažoqay q’ˤidar yoqno.
+Gloss: me human be-QUOT-TOP say-PFV.CVB girl tree-POSS.ABL down-LAT II-become-PST.UNW
+Translation: Saying "I am a human!", the girl got down from the tree.
+Sentence: Łˤono äƛiruni bełiqa qˤaƛin, insan esunäy roži roɣo, bełi besunäy ela c’eruc’a caƛixƛin.
+Gloss: three ORD-DEF hunter-ERG shout-PFV.CVB human find-CND.CVB word IV-take.away-IMPR deer III-find-CND.CVB we(I).OBL-ERG bow shoot.with-PRS-QUOT
+Translation: The third hunter shouted: "If you are a human, say something; if you are an animal, we will shoot you with the bow!"
+
+Approximate Matches:
+Sentence: Elo yisä godek’anya q’ˤida bäčiru ʕoloqzaq łi esirnosi, sidä izin zok’är aqˤun kučin teƛƛ’oräy, nesä eƛin, eleley, yedu šebi šebin, insanä aqˤuyä łäz meča ħaƛuƛin, nediw šebin behizi raqinč’iƛin.
+Gloss: there DEM2.ISG.OBL-ERG village.square-IN.ESS down III-sit-PST.PRT young.person-PL-POSS.ESS water ask-ANT.CVB one.OBL-ERG get.up-PFV.CVB mug-IN.LAT urine-TOP defecate-TOP give-SIM.CVB DEM1.ISG.OBL-ERG say-PST.UNW behold DEM2.IISG what thing human-ERG urine-Q water-GEN2 instead.of drink-QUOT such thing permit IV-become-NEG.FUT-QUOT
+Translation: There he asked a young person who sat at the village square for water, and one got up, pissed into a mug and gave it to him and he said: "Behold, what is this? A human is not allowed such a thing as to drink urine instead of water!"
+Sentence: Hemedur däł adäzarno bayn, insanzo mecreƛ’ xabaryayn aɣä di mi ɣurox egiranƛin odäsi zownč’u, ži roda šebin anuƛinno eƛin ozƛäy gugisƛin.
+Gloss: so me-CONT.ESS before-IN.LAT-TOP III-come-PFV.CVB human-ATTR.OBL language-SUPER.ESS tell-PFV.CVB bird-ERG me you cows-AD.ESS send-FUT.DEF-QUOT do-RES.PRT be.NPRS-NEG.PST.WIT now IV-do-INF thing be.NEG-QUOT-TOP say-PFV.CVB eye-SUB.ABL escape-PST.WIT-QUOT
+Translation: "So, a bird arrived in front of me and talked in human language, saying: 'I didn't give birth to you to have you pasture the cows. But now there's nothing to do.', and escaped out of sight.
+Sentence: Ža abužahalno adäzay ok’ek’no, nesiz iduza ezu-ʕoƛ’uƛ’oräy, q’ˤidaza insanes ƛuzabi rukayn.
+Gloss: DEM1.SG devil-TOP in.front-IN.ABL.DIST steal.from-PFV.CVB DEM1.ISG.OBL-GEN2 home-ZA examine-SIM.CVB down-ZA human-GEN1 bone-PL IV.PL-see-PST.UNW
+Translation: [He] took away this devil, and while he was examining his home, he saw human bones down there.

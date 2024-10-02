@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Dahawgon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Dahawgon: 
+
+Exact Matches
+Sentence: Igorno ik’in babiya č’arik’nosi, užir retinanu, dahawgon šida di moƛał xecinč’uƛin.
+Gloss: near-LAT-TOP go-PFV.CVB father-ERG wake.up-ANT.CVB son-LAT IV-like-PFV.CVB-NEG a.little-CNTR why me dream-CONT.ESS leave-NEG.PST.WIT-QUOT
+Translation: The father came closer and after waking him up, the son didn't like it [and said]: "Why didn't you let me sleep a little more?"
+Sentence: Howlo ɣeduƛ žan eqro iduɣor yik’i, dey kid, t’o yičinäy mi beqä yäsƛin, qˤaƛin yiła, dahawgon bix kosa yiħun.
+Gloss: there shade-SUB.ESS DEM1.SG-TOP put-IMPR home-IN.ALL II-go me-GEN1 daughter here II-sit-CND.CVB you sun-ERG II-take-QUOT shout-PFV.CVB DEM2.IISG.OBL-ERG a.little-CNTR hay gather-INF II-begin-PST.UNW
+Translation: "Put it into the shadow and go home, my daughter, if you sit here, you'll get a sunstroke!" she shouted and began to gather the hay a little.
+Sentence: Q’ˤano äƛiru ƛˤeb yac’nosi, dahawgon bikoris tatu łiyn.
+Gloss: two say-PST.PRT year II-eat-ANT.CVB a.little-CNTR snake-GEN1 power end-PST.UNW
+Translation: When he ate the second leaf, the snake's power ended a little more.
+
+Approximate Matches:
+Sentence: Dahawgon ik’inosi neside guluzaxosi aħo keze oqno.
+Gloss: a.little-CNTR go-ANT.CVB DEM1.ISG.OBL-APUD.ESS horse-PL-AD.ESS-ATTR shepherd meet become-PST.UNW
+Translation: When he went a little further, a shepherd with horses came towards him.
+Sentence: Dahawgon q’ʷarid oqno uži, yedu šebi däq roqä, šida di ceyq ʕenekizi oqinč’uƛin.
+Gloss: a.little-CNTR sadness become-PFV.CVB boy DEM2.IISG what me-POSS.ESS IV-happen-PST.WIT.INT why me eagle-POSS.ESS listen become-NEG.PST.WIT-QUOT
+Translation: The boy became a little sad, [saying:] "What happened to me; why didn't I listen to the eagle?"

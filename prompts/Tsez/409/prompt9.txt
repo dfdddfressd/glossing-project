@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word aždaħzo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word aždaħzo: 
+
+Exact Matches
+Sentence: Ħon-bahadurä kurno c’eruc’as hil, aždaħzo yoƛƛo hut’-mˤalä c’oxno.
+Gloss: Mountain~Hero-ERG shoot.from-PFV.CVB bow-GEN1 arrow dragon-GEN2 II-middle front.part.of.the.face-IN.ESS hit-PST.UNW
+Translation: Mountain~Hero shot an arrow from his bow and hit the dragon in the middle of its face.
+Sentence: Bayru q’ut’oxor, Ħasanä rełimay bˤałayn roɣno aždaħzo rok’nosi, boƛƛi begirno.
+Gloss: III-do-PST.PRT agreement-AD.LAT Hassan-ERG sheath-IN.ABL dagger-TOP IV-take.away-PFV.CVB dragon-GEN2 IV-hit-ANT.CVB III-middle III-break.apart-CAUS-PST.UNW
+Translation: According to the agreement they did, Hassan took his dagger out of the sheath and stabbed it into the dragon and broke him apart in the middle.
+Sentence: Žedu aždaħzo ɣutkoƛ’ ƛ’irir bayn.
+Gloss: DEM1.IPL dragon-GEN2 house-SUPER.ESS on-LAT I.PL-come-PST.UNW
+Translation: They came to the house of the dragon.
+
+Approximate Matches:
+Sentence: Hudun aždaħ sis ɣun recurxo, sidaƛ’aza bet’un k’oƛix esnazał xizay k’oƛin nexxo zown.
+Gloss: nevertheless dragon one tree IV-break-IPFV.CVB one.OBL-SUPER.VERS.DIST III-jump-PFV.CVB run-IPFV.CVB sister-PL-CONT.ESS behind run-PFV.CVB come-IPFV.CVB be.NPRS-PST.UNW
+Translation: Nevertheless the dragon - breaking one tree - jumped onto [another] one and cam running behind the sisters.
+Sentence: Xalq’in, ʕaƛno bukaynosi, aždaħ nełaq ža biqinč’ey neła nełaz iduɣor, ciqaɣor, boxin.
+Gloss: people-and village-and III-see-ANT.CVB dragon DEM1.IISG.OBL-POSS.ESS DEM1.SG III-get-NEG.PST.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 home-IN.ALL forest-IN.VERS III-run.away-PST.UNW
+Translation: When the dragon saw the people and the village, it ran back to its own home, towards the forest.
+Sentence: Mi t’or aždaħes xexoy ba di c’unzi yoda, howlo sidaɣ yołƛin teqsi där aždaħno, nełdegon sadaq łˤono xexoynƛin.
+Gloss: you here-LAT dragon-GEN1 young.animal III-bring.IMP me guard II-do-INF there in.one.place be-QUOT hear-ATTR me-LAT dragon-and DEM1.IISG.OBL-APUD.ESS-CNTR together three young.animal-and-QUOT
+Translation: Bring me a dragon's young to guard me; I heard somewhere there there is a dragon and beside it three youngs."

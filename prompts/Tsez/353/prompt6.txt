@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zows in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zows: 
+
+Exact Matches
+Sentence: Žedaxay bitor di q’ˤida ičinč’ey bixno kosix zows.
+Gloss: DEM1.IIPL.OBL-AD.ABL thither me down sit-NEG.PST.CVB grass-TOP mow-IPFV.CVB be.NPRS-PST.WIT
+Translation: Because of them, I didn't sit down but mowed grass.
+Sentence: Din zows elo bertenyoł, hudun mešok’labi dandi at’iłsi.
+Gloss: me-TOP be.NPRS-PST.WIT there marriage-CONT.ESS nevertheless moustache-PL only become.wet-PST.WIT
+Translation: I was there at the wedding as well, but only moustaches got wet.
+Sentence: Mi där madaħ esus yołi exura zows.
+Gloss: you me-LAT outside find-PST.WIT however kill-INF be.NPRS-PST.WIT
+Translation: Had I found you outside, I would have killed you.
+
+Approximate Matches:

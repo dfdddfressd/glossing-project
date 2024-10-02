@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xanłun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xanłun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xanłun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bilq’isdi xanłun xecanix žamaʕat razi boqno.
+Gloss: Bilqisdi khan-LHUN leave-MSD-AD.ESS population agree III-become-PST.UNW
+Translation: The population agreed to let Bilqisdi become king.
+Sentence: Elus xan exursiƛin, ozno, xalq’in roxin rik’iƛ’oräy, sidaɣaza puƛ’azar Ismaʕil k’oƛin, sidaɣazar ʕArabuzan yoqno nasin ahli dandirno butirno, xanłun ʕArabuzanno xecin, Ismaʕilgon wizirłunno ičin.
+Gloss: we(I).OBL-GEN1 khan kill-PST.WIT-QUOT army-and people-and III.PL-run.away-PFV.CVB III.PL-go-SIM.CVB in.one.place-IN.VERS.DIST side-SUPER.LAT.DIST Ismail run-PFV.CVB in.one.place-IN.LAT.DIST Arabuzan II-become-PFV.CVB all people together-TOP III-gather-PFV.CVB khan-LHUN Arabuzan-TOP leave-PFV.CVB Ismail-CNTR vizier-LHUN-TOP be-PST.UNW
+Translation: "They killed our king!", the army and the people ran away and at the same time, Ismail ran to one side, and Arabuzan ran to the other side, and they gathered all the people together and Arabuzan was elected king/queen and Ismail became vizier.
+Sentence: Žek’uz raƛ’ma xanłun ičizaƛ’or, däztow raƛ’ma laɣłun rigu därƛin.
+Gloss: man-GEN2 land-IN.ESS khan-LHUN be-POST.CVB me-GEN2-EMPH land-IN.ESS slave-LHUN IV-good me-LAT-QUOT
+Translation: "Before I become king over a someone's land, I would rather be a slave in my land.
+
+Approximate Matches:
+Sentence: Kʷaxatowngon nesä nesiz mečar xanłungon egirno.
+Gloss: soon-EMPH-TOP-CNTR DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 instead-LAT khan-LHUN-CNTR let-PST.UNW
+Translation: And very soon then, he even let him be the king.
+Sentence: Maharno erno xanä kid Kusaxno yegirno, nesä nesis mečar xanłunno egirno.
+Gloss: wedding-TOP set.up-PFV.CVB khan-ERG daughter Kusa-AD.ESS-TOP II-send-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 instead.of-LAT khan-LHUN-TOP send-PST.UNW
+Translation: The king organized a wedding, married off his daughter to Kusa and gave him his kingdom.

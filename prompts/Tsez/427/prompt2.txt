@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ƛˤeba in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ƛˤeba: 
+
+Exact Matches
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: Neła ƛˤeba q’ˤuyazis raq’ˤu bˤeƛ’ rexun, netin yegirxanuzoce zigolun, isin yegirno.
+Gloss: DEM1.IISG.OBL year-IN.ESS other-ATTR.OBL-GEN1 III.PL-many sheep III.PL-die-PFV.CVB always II-send-NEG.PRS.PRT.OBL-TERM hail-and snow-and II-send-PST.UNW
+Translation: In this year, many sheep of other people died, as it hailed and snowed as if it had never snowed before.
+
+Approximate Matches:
+Sentence: Nesis eniw čamaligo ƛˤebał adäz yexasi zown.
+Gloss: DEM1.ISG.OBL-GEN1 mother several year-CONT.ESS before II-die-RES.PRT be.NPRS-PST.UNW
+Translation: His mother had died several years before.
+Sentence: Sida ƛˤebaƛ’aza yiłas di roƛxosi ričiranƛin, eƛin doxturä.
+Gloss: one.OBL-ERG year-SUPER.VERS.DIST DEM2.IISG.OBL-GEN1 me IV-be.sick-PRS.PRT IV-be-CAUS-FUT.DEF-QUOT say-PFV.CVB doctor-ERG
+Translation: The doctor promissed to cure her in one year.
+Sentence: Doxturä nesiqorno hemedurtow eƛin, sida ƛˤebaƛ’aza debez žas di roƛxosi ričiranƛin.
+Gloss: doctor-ERG DEM1.ISG.OBL-POSS.LAT-TOP so-EMPH say-PFV.CVB one.OBL-ERG year-SUPER.VERS.DIST you-GEN2 son-GEN1 me IV-be.sick-IPFV.CVB-ATTR IV-be-CAUS-FUT.CVB-QUOT
+Translation: The doctor also said, "I will cure your son in one year."

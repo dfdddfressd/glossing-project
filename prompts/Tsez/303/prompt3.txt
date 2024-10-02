@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esunäy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esunäy: 
+
+Exact Matches
+Sentence: Mi dey halmaɣ esunäy, yedu kid debi mi yižo.
+Gloss: you me-GEN1 friend exist-CND.CVB DEM2.IISG girl you-GEN1 you II-lead-IMPR
+Translation: If you are my friend, marry this girl yourself.
+Sentence: Ražbadinä eƛin, däder ayru ƛirba deber ukayn esunäy, ža qazaq yoł.
+Gloss: Razhbadin-ERG say-PST.UNW me-APUD.LAT come-PST.PRT comrade you-LAT see-PFV.CVB find-CND.CVB DEM1.SG Georgian be
+Translation: Razhbadin said: "You saw that the comrade that came to me is Georgian.
+Sentence: Nece žuka ħalał mi esunäy, hi dowqor enda musno, debeƛ’ ɣudi rayza quł bisno bik’ur ža miƛin.
+Gloss: so.much bad condition-CONT.ESS you exist-CND.CVB take.IMP you-POSS.LAT DEM3b.SG hair-TOP you-SUPER.ESS day IV-come-LCV.CVB day-CONT.ESS III-take-PFV.CVB III-burn-CAUS DEM1.SG you-QUOT
+Translation: "If you're in such a trouble, take this hair from me, and on the day when it's worst for you, burn it!"
+
+Approximate Matches:
+Sentence: Q’ˤano äƛiru ɣudƛ’ogon zap’aniłnotow bayn zira eƛin, kurxo besunäy xexoy kuro, yałi di maħin rok’no ɣun recura yołƛin.
+Gloss: two say-PST.PRT day-SUPER.ESS-CNTR firmly-TOP-EMPH III-come-PFV.CVB fox-ERG say-PFV.CVB throw-IPFV.CVB III-appear-CND.CVB young.animal throw-IMPR else me tail-TOP IV-beat-PFV.CVB tree IV-break-INF be-QUOT
+Translation: On the second day, the fox came firmly and said: "Throw me down a nestling, or else I'll knock down the tree with my tail!"
+Sentence: Nedur resunäy, ža tełxor goƛ’oƛin, eƛin beženi esiya.
+Gloss: so IV-exist-CND.CVB DEM1.SG inside-AD.LAT invite-IMPR-QUOT say-PST.UNW III-old-DEF brother-ERG
+Translation: "If that's the case, invite him inside!", said the older brother.
+Sentence: Nedur resunäy, deber yätiruni kidbeł xizäy bik’an eliƛin, encetow k’ek’-yik’no yedu guluƛ’or yutin.
+Gloss: so IV-exist-CND.CVB you-LAT II-want-PST.PRT-DEF girl-CONT.ESS behind I.PL-go-FUT.DEF we-QUOT a.little-EMPH move-PFV.CVB DEM2.IISG horse-SUPER.LAT II-turn-PST.UNW
+Translation: "If that's the case, we will go behind the girl you want", she moved a little and then turned into a horse.

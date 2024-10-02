@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łiynosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łiynosi: 
+
+Exact Matches
+Sentence: Ža kaɣat t’et’erno łiynosi, łˤoran xexza nesiqor eƛin, eli łˤonon bik’a yoł debez halmaɣ Tawadidäɣor.
+Gloss: DEM1.SG letter read-PFV.CVB end-ANT.CVB three.OBL-TOP children DEM1.ISG.OBL-POSS.LAT say-PST.UNW we three-TOP I.PL-go-INF be you-GEN2 friend Tavadi-APUD.VERS
+Translation: When he finished reading the letter, his three children said to him: "We three will go to your friend Tavadi.
+Sentence: Dey xexbi, di exun xizyo t’ubazi odin łiynosi, meži łˤonon esnabi bitazoni ɣˤutkar bezu, elo mežur ʕuraw mesed yołƛin”.
+Gloss: me-GEN1 children me die-PFV.CVB after fulfill do-PST.UNW end-ANT.CVB you.PL three-TOP brother-PL next-DEF room-IN.LAT I.PL-look-IMPR there you(I).PL.OBL-LAT much gold be-QUOT
+Translation: "My children, when I have died and the funeral is done, you three brothers look into the next room, there is much gold for you."
+Sentence: Esnazaq sipat esin łiynosi nesi žek’a eƛin:
+Gloss: brother-PL-POSS.ESS appearance tell-PFV.CVB end-ANT.CVB DEM1.ISG.OBL man-ERG say-PST.UNW
+Translation: After they finished telling him about its appearance, the man said to the brothers:
+
+Approximate Matches:
+Sentence: Hoboy q’orolaz užä yizi baƛ’ärułi riynosi, ʕoƛiran esnaza q’ut’i bodin ža exuranixƛin.
+Gloss: now widow-GEN2 son-ERG DEM2.IPL I.PL-cheat-MSD IV-know-ANT.CVB seven.OBL-TOP brother-PL-ERG agreement III-do-PFV.CVB DEM1.SG kill-MSD-AD.ESS-QUOT
+Translation: Now, after the seven brothers knew that the widow's son had cheated them, they agreed to kill him.
+Sentence: Nełas yałru žedur mumpaʕat biynosi, yizä ža ʕansa muroƛ’orno butirno, kidbez kočorał caƛin.
+Gloss: DEM1.IISG.OBL-GEN1 be-PST.PRT DEM1.IPL.OBL-LAT benefit I.PL-know-ANT.CVB DEM2.IPL.OBL-ERG DEM1.SG walking.stick needle-SUPER.LAT-TOP III-turn-PFV.CVB girl-GEN2 forelock-CONT.ESS stick-PST.UNW
+Translation: When they understood the benefit of it, they turned this walking stick into a needle and put it into the girl's hair.
+Sentence: Žedur žedu esnabi yałru biynosi, Umukusä nesiq kinaw raqru łinałäy esin.
+Gloss: DEM1.IPL.OBL-LAT DEM1.IPL.OBL brother-PL be-PST.PRT I.PL-know-ANT.CVB Umukus-ERG DEM1.ISG.OBL-POSS.ESS entire IV-happen-PST.PRT what.OBL-CONT.ABL tell-PST.UNW
+Translation: When they knew they were brother and sister, Umukus told him about everything that happened.

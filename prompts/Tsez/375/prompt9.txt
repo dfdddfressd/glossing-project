@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣutku in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣutku: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Reɣet’a ƛuzazas ric’äsi ɣutkutow rukayn elo yisir.
+Gloss: IV-small-DISTR bone-PL-GEN1 IV-fill-RES.PRT room-EMPH IV-see-PFV.CVB there DEM2.ISG.OBL-LAT
+Translation: There he saw that the room was filled with small bones.

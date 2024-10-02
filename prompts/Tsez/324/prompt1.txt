@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Tatanu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Tatanu: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ʕOmoyn, mešin yołi tełxorno riħun, eƛnoqor rutäruni bix tatanaxorno roqno rac’xo zown.
+Gloss: donkey-and bull.calf-and however inside-AD.LAT-TOP III.PL-sit.down-PFV.CVB winter-POSS.LAT IV-gather-PST.PRT-DEF hay warmth-AD.LAT-TOP III.PL-become-PFV.CVB IV-eat-IPFV.CVB be.NPRS-PST.UNW
+Translation: The donkey and the calf, however, sat down inside in the warmth and ate the hay that had been gathered for the winter.
+Sentence: Elorno ik’in, teł c’in erno, c’idox tataniłxo ičäsi zown.
+Gloss: there-LAT-TOP go-PFV.CVB inside fire-TOP set.up-PFV.CVB fire-AD.ESS warmthen.oneself-IPFV.CVB wait-RES.PRT be.NPRS-PST.UNW
+Translation: He went there, set up a fire inside and waited warmthening himself on the fire.
+Sentence: Bˤeƛo buqˤełno, ažoz k’odrezaxazay aħyabin roƛik’no kecno bičin, k’et’u c’idox tataniłxo zown.
+Gloss: pig III-hide-PFV.CVB tree-GEN2 bunch-PL-AD.ABL.DIST ear-PL-TOP IV.PL-push.out-PFV.CVB sleep-PFV.CVB III-be-PFV.CVB cat fire-AD.ESS warmthen.oneself-IPFV.CVB be.NPRS-PST.UNW
+Translation: The pig was hiding behind a bunch of trees, pushing out its ears and sleeping, while the cat was warming itself by the fire.

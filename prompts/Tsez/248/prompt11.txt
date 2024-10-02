@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xecäsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xecäsi: 
+
+Exact Matches
+Sentence: Xexoyä neła nełas eniwqor eƛin, wey eni, yisi žaƛ’ yałru ɣudi, babiya yeda ozurabin roɣno ent’o icin xecäsi yołƛin.
+Gloss: young.animal-ERG DEM1.IISG.OBL DEM1.IISG.OBL-GEN1 mother-POSS.LAT say-PST.UNW hey mother DEM2.ISG.OBL boy-SUPER.ESS be-PST.PRT day father-ERG DEM2.ISG eye-PL-TOP IV.PL-take.away-PFV.CVB here tie-PFV.CVB leave-RES.PRT be-QUOT
+Translation: The chick said to its mother: "Hey mother, this boy is so tortured, his father pricked his eyes out and left him tied here."
+Sentence: Nagaħ uži miskinłiƛ’or aynäy, babiyä kobora teł eqerno xecäsi micxiryosno, mesedyosno ric’äsi ixin zown.
+Gloss: suppose boy poverty-SUPER.LAT come-CND.CVB dad-ERG granary-IN.ESS inside put-PFV.CVB leave-RES.PRT money-GEN1-TOP gold-GEN1-TOP IV-fill-RES.PRT bag be.NPRS-PST.UNW
+Translation: In case the boy would hit poverty, there was a bag filled with money and gold left inside the granary, put there by the father.
+Sentence: Tungin bic’no nexƛ’osi, hemedurtow hunix dandir c’axru xalq’imo ħaƛun łiyra, žan lamusyoqay, dahawtow łi xecäsi zown.
+Gloss: copper.jug-TOP III-fill-PFV.CVB come-PCT.CVB-ATTR so-EMPH way-AD.ESS together meet-PST.PRT people drink-PFV.CVB finish-INF DEM1.SG-TOP conscience-POSS.ABL a.little-EMPH water leave-RES.PRT be.NPRS-PST.UNW
+Translation: Right when he came from filling the jug, the people that he met on the way drank up, and from this conscience, leaving hardly and water.
+
+Approximate Matches:
+Sentence: Idur yaynosi, užigon kecäsi esunosi, asoqtow yitin.
+Gloss: home-LAT II-come-ANT.CVB boy-CNTR sleep-RES.PRT find-ANT.CVB sky-POSS.ESS-EMPH II-touch-PST.UNW
+Translation: When she came home, she found the boy sleeping and was in seventh heaven.
+Sentence: Ža ħos ɣoɣoriłnosi, yiła žeduq esirno, šebi izäsi, šebi kecäsi yołƛin.
+Gloss: DEM1.SG stick become.red.hot-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IPL.OBL-POSS.ESS ask-PST.UNW who get.up-RES.PRT who sleep-RES.PRT be-QUOT
+Translation: When the stick has become red-hot, she asked them: "Who is awake and who is sleeping?"
+Sentence: Hunix ik’iƛ’oräy, neła ħalaq’awni gula nesiqor eƛin, aždaħ kecäsi yałzay, buq bayäsi bičixosi, q’ˤiday bizinosi ža bičixozoni gogaƛ’ ɣedu boqxosi, elo nełaqgon šet’ur k’ešonayx xexoybi ričixosiƛin.
+Gloss: way-AD.ESS go-SIM.CVB DEM1.IISG.OBL thin-DEF horse-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW dragon sleep-RES.PRT be-SIM.CVB sun III-come-RES.PRT III-be-IPFV.CVB-ATTR down-IN.ABL III-get.up-ANT.CVB DEM1.SG III-be-PRS.PRT.OBL-DEF meadow-SUPER.ESS shade III-happen-PRS.PRT there DEM1.IISG.OBL-POSS.ESS-CNTR around play-IPFV.CVB young.animal-PL III.PL-be-PRS.PRT-QUOT
+Translation: While he went on his way, that thin horse said to him: "While the dragon sleeps, the sun goes up, and after he gets up a shadow appears on the meadow, there around it the youngs are playing.

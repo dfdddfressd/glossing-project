@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kidbeqorno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kidbeqorno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kidbeqorno:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neła kidbeqor eƛin, ele žigoƛ’aygon deber däƛ’aza aždaħes xexoyn biqis, howži mi esiwqor eƛo, deber halmaɣłun yičaniƛäyn, nesirgon barułun yičaniƛäyn Beqes ʕUneyzat yowanix ik’iƛƛin.
+Gloss: DEM1.IISG.OBL-ERG girl-POSS.LAT say-PST.UNW here again-SUPER.ABL-CNTR you-LAT me-SUPER.VERS.DIST dragon-GEN1 young.animal-TOP III-get-PST.WIT now you brother-POSS.LAT say-IMPR you-LAT friend-LHUN II-be-MSD-SUB.ABL-and DEM1.ISG.OBL-LAT-CNTR wife-LHUN II-be-MSD-SUB.ABL-and sun-GEN1 Uneyzat II-marry-MSD-AD.ESS go-OPT-QUOT
+Translation: She said to the girl: "Again now because of me you got hold of a dragon's young, now say to your brother that he go and mary the Sun's Uneyzat, so she may become a friend to you and a wife to him."
+Sentence: Nesä kidbeqor eƛin, yedu t’umi dey yoł, xizor dey däqor neƛƛin.
+Gloss: DEM1.ISG.OBL-ERG girl-POSS.LAT say-PST.UNW DEM2.IISG pigeon me-GEN1 be back me-GEN1 me-POSS.LAT give-QUOT
+Translation: He said to the girl: "That pigeon is mine; give it back to me!"
+Sentence: Sida quł roƛa yutirnosi, eniya kidbeqor eƛin, mi babiwqor eƛo, nagaħ di yexunäy hoboda bašiqˤoy c’oxxosi taraw nesä ɣˤanabi yawnoƛƛin.
+Gloss: one.OBL day-CONT.ESS IV-hurt-INF II-begin-ANT.CVB mother-ERG daughter-POSS.LAT say-PFV.CVB you father-POSS.LAT say-IMPR suddenly me II-die-CND.CVB that ring match-PRS.PRT except.for DEM1.ISG.OBL-ERG woman II-marry-PROHIB-OPT-QUOT
+Translation: One day, when the mother started to feel pain, she told her daughter: "Tell your father that when I suddenly die, he may only marry a woman who matches this ring!"

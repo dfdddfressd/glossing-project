@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eloza.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eloza
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eloza:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Šebiƛa žek’u t’o zown äsuƛin, žedus xabar boqnosi, zeyä eloza naysinan bezu-bˤoƛ’a ziru begirno.
+Gloss: who-INDEF man here be.NPRS-PFV.CVB find-QUOT DEM1.IPL-GEN1 story III-become-ANT.CVB bear-ERG there-ZA everywhere III-examine-INF fox III-send-PST.UNW
+Translation: After saying "Someone has to find the man here!", the bear sent the fox to look everywhere there.
+
+Approximate Matches:
+Sentence: Yeda neła gogaƛ’or aynosi, naysinan c’oxäsi buqno yołƛax, elozagon k’ešonayx xexoybin resun.
+Gloss: DEM2.ISG DEM1.IISG.OBL meadow-SUPER.LAT come-ANT.CVB everywhere hit-RES.PRT sun-TOP be-QUOT there-DIST-CNTR play-IPFV.CVB young.animal-PL-TOP III.PL-find-PST.UNW
+Translation: When he came on that meadow, the sun shined everywhere, and he found the youngs playing over there.
+Sentence: Žedu elozay bok’äłrungon, xanez kidbä k’oƛin yik’in tusnaq’ay maħor uži egirno.
+Gloss: DEM1.IPL there-ATTR.OBL-IN.ABL III-escape-IMM.ANT.CVB-CNTR khan-GEN2 daughter-ERG run-PFV.CVB II-go-PFV.CVB prison-IN.ABL outside boy let-PST.UNW
+Translation: They escaped from there and the king's daughter ran and let the boy out of the prison.

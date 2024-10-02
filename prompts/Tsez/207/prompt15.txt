@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: čanyabi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": čanyabi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word čanyabi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hudayzikotow Bac’ali žedu k’eda ik’inosi, zeyn keze boqno nełaq esirno, meža dey čanyabi rac’iyäƛin.
+Gloss: the.next.day-EMPH Batsali DEM1.IIPL search-INF go-ANT.CVB bear-TOP meet III-become-PFV.CVB DEM1.IISG.OBL-POSS.ESS ask-PFV.CVB you(II-ERG me-GEN1 she.goat-PL III.PL-eat-PST.WIT.Q-QUOT
+Translation: The next day, when Batsali went to search them, he met a bear and asked him: "Have y'all eaten my goats?"
+Sentence: Cimno bizin Bac’alä esirno, miyä dey čanyabi rac’äƛin.
+Gloss: malice-TOP III-get.up-PFV.CVB Batsali-ERG ask-PST.UNW you-ERG me-GEN1 she.goat-PL III.PL-eat-PST.WIT.INT-QUOT
+Translation: Getting cross, Batsali asked: "Did you eat my goats?!"
+Sentence: Elaygon bitor čanyabi k’edix ik’iƛ’oräy, neside dandir čarman ricin nexxo ziru č’aq’ˤin.
+Gloss: there-IN.ABL-CNTR thither she.goat-PL search-IPFV.CVB go-SIM.CVB DEM1.ISG.OBL-APUD.ESS towards turban-TOP IV-tie-PFV.CVB come-IPFV.CVB fox hit-PST.UNW
+Translation: While going away from there searching the goats, a fox with a turban ran into him.
+
+Approximate Matches:
+Sentence: Boc’an, zeybin, ɣuro yałza rečuƛ, aɣˤnä teł rišin, aɣbi girimabin kurno idutow xecin, bełis čanyabin, resobin čolow yałza hiɣar regirno.
+Gloss: wolf.PL-and bear-PL-and cows be-LCV.CVB cattleshed-SUB.ESS cowshed-IN.ESS inside IV-drive.in-PST.UNW bird-PL pole-PL-TOP erect-PFV.CVB home-EMPH leave-PST.UNW wild.goat-GEN1 she.goat-PL-and roe-PL-and straw be-LCV hayloft-IN.LAT IV-send-PST.UNW
+Translation: She drove the wolves and bears into the cowshed where the cows were, erected poles for the birds to give [them] a home, and sent the wild goats and roes into the half-open shed where there was straw.

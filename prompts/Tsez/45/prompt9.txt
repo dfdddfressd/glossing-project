@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bašiłäy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bašiłäy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bašiłäy:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nuʕłimorƛin yisä nełaz bašiłäyn roɣno bašiqˤoyn sadaq risno, žežułäy beč’no kodin bisno, gedmoqaygon yeč’no č’irno yisno.
+Gloss: proof-IN.LAT-QUOT DEM2.ISG.OBL-ERG DEM1.IISG.OBL-GEN2 finger-CONT.ABL-TOP IV-take.away-PFV.CVB ring-and together IV-take-PFV.CVB ponytail-CONT.ABL III-cut-PFV.CVB hair-and III-take-PFV.CVB shirt-POSS.ABL-CNTR II-cut-PFV.CVB ribbon-and II-take-PST.UNW
+Translation: As a proof he took a ring from her finger and took it with himself, he cut a hair from her ponytail and took it with himself, and he cut off a ribbon from her shirt and took it with himself as well.

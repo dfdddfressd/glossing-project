@@ -1,0 +1,72 @@
+{
+  "word": "Ražbadinez",
+  "glosses": [
+    "Razhbadin-GEN1",
+    "Razhbadin-GEN1-PL",
+    "Razhbadin-GEN1-POSS"
+  ]
+}
+{
+  "word": idu,
+  "glosses": [
+    "one.OBL",
+    "home",
+    "one.OBL"
+  ]
+}
+{
+  "word": "barun",
+  "glosses": [
+    "wife-TOP",
+    "wife-Q",
+    "II-become-QUOT"
+  ]
+}
+{
+  "word": "xexbin",
+  "glosses": [
+    "children",
+    "child",
+    "boy"
+  ]
+}
+{
+  "word": "yołƛin",
+  "glosses": [
+    "be-QUOT",
+    "be-QUOT-TOP",
+    "be-QUOT-TOP"
+  ]
+}
+{
+  "word": "žawab",
+  "glosses": [
+    "answer",
+    "reply",
+    "response"
+  ]
+}
+{
+  "word": "teƛno",
+  "glosses": [
+    "give-PFV.CVB",
+    "give-PST.UNW",
+    "give-PST.UNW"
+  ]
+}
+{
+  "word": "ečruni",
+  "glosses": [
+    "old-DEF",
+    "man-ERG",
+    "old man"
+  ]
+}
+{
+  "word": "žek’a",
+  "glosses": [
+    "beat-INF",
+    "beat-MSD-AD.ESS",
+    "beat-MSD-AD.ESS stick"
+  ]
+}

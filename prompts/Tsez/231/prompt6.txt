@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yegiräsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yegiräsi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizaɣorgon tełtow žan xecin acmołnonan ok’bi rok’nosi, Qartayä eƛin, ha, howži, yił badiru ħalt’os deber keze roqxosi šebin neƛanix maħor yegir diƛin.
+Gloss: finally-CNTR inside-EMPH DEM1.SG-TOP leave-PST.UNW door-TOP-INT nail-PL III.PL-beat-ANT.CVB Qartay-ERG say-PST.UNW well now DEM2.IISG.OBL III-do-PST.PRT work-GEN1 you-LAT meet IV-become-PRS.PRT thing give-MSD-AD.ESS outside II-let me-QUOT
+Translation: Finally, he left her inside, and after he had beated nails into the door, Qartay said: "Well now, let me out to give you something for the work that you have done!"
+Sentence: Eženi esiya eƛin Ismaʕilqor, mi č’uħizi oqinč’inäy, debex ela elus esiw yegiranƛin yoł eli.
+Gloss: old-DEF brother-ERG say-PST.UNW Ismail-POSS.LAT you be.proud become-NEG.FUT.CVB-CND.CVB you-AD.ESS we(I).OBL-ERG we(I).OBL-GEN1 sister II-send-FUT.DEF-QUOT be we
+Translation: The oldest brother said: "If you are not too proud(?), we will marry off our sister to you."
+Sentence: ƛ’ˤuƛ’ay łinaƛa haraƛ’ bizirsiƛin, q’orola kid yegirno, šebi elo roqnoƛin yezu-yoƛ’ˤanix.
+Gloss: roof-SUPER.ABL what.OBL-INDEF noise III-lift-PST.WIT-QUOT widow-ERG daughter II-send-PFV.CVB what there IV-happen-PST.UNW-QUOT II-examine-MSD-AD.ESS
+Translation: Because something produced a noise from the roof, the widow sent her daughter to check out what was happening there.

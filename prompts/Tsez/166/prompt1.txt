@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Eženä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Eženä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Eženä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemece rigu ɣˤutkun ričin, łinaq mi q’ʷarid oqxoƛin, esirno eženä.
+Gloss: such IV-pretty house-TOP IV-be-PFV.CVB what.OBL-POSS.ESS you sadness become-PRS-QUOT ask-PST.UNW old-DEF-ERG
+Translation: "That is such a pretty house, what are you so sad about?", asked the old one.
+Sentence: Zamanaƛ’aza ža rutin rik’in eženä egirno zawruni uži äčiza puƛ’aɣor.
+Gloss: time-SUPER.VERS.DIST DEM1.SG IV-turn-PFV.CVB IV-go-PFV.CVB old-DEF-ERG send-PFV.CVB be.NPRS-PST.PRT-DEF boy be-LCV.CVB side-SUPER.VERS
+Translation: After some time it fell to the side where the old man had placed the boy.
+Sentence: Qura ƛˤebaƛ’aza di äƛiru šebin neƛanix mi ƛ’iri risnäy, di yedu nasin šebin tełxor čantaɣor rutiranƛin, eƛin eženä.
+Gloss: twenty.OBL year-SUPER.VERS.DIST me say-PST.PRT thing give-MSD-AD.ESS you above IV-take-CND.CVB me DEM2.IISG all thing inside-AD.LAT pocket-IN.VERS IV-gather-FUT.DEF-QUOT say-PST.UNW old-DEF-ERG
+Translation: "If you promise to give [me] after 20 years all the things I said, I will bring all the things into the inside of the pocket again.", said the old one.
+
+Approximate Matches:
+Sentence: Ič’an yeženä eƛix teqno, deygon hunar šebi, šeƛ’ures bic’äsi gama ƛisiƛ’orey, dey kodin bet’urno, daqay gama baɣruni užix yik’a räti darƛin.
+Gloss: most-TOP II-old-DEF-ERG say-IPFV.CVB hear-PST.UNW me-GEN1-CNTR talent what clothing-GEN1 III-fill-RES.PRT boat pull-SIM.CVB me-GEN1 hair-TOP III-pull.out-PFV.CVB me-POSS.ABL boat III-take.away-PST.PRT-DEF boy-AD.ESS II-go-INF IV-want me-LAT-QUOT
+Translation: He heard the oldest one say: "What talent do I have? I'll want to marry the boy who took the boat full of clothes away from me after he pulled out my hair, while I was pulling on the boat."
+Sentence: Yeženä Beqes ʕUneyzatno, xediwn mˤaliz qˤodreza tełäy maħor begirno, howži mežus req’el boqsiƛin.
+Gloss: II-old-DEF-ERG sun-GEN1 Uneyzat-and husband-and nose-GEN2 hole-PL-IN.ESS inside-IN.ABL outside I.PL-let-PFV.CVB now you(I).PL.OBL-GEN1 peace I.PL-become-ATTR-QUOT
+Translation: The old woman let Sun's Uneyzat and her husband out of her nostril [and said]: "Now you're at peace."
+Sentence: Way, dey užiƛin, eƛin yeženä, eluz xanez kidbes anƛ’imasi berten boyx, nesi baħarawx di yik’ixanuƛin yedu yičäsi.
+Gloss: o.dear me-GEN1 son-QUOT say-PST.UNW II-old-DEF-ERG we(I).OBL-GEN2 khan-GEN2 daughter-GEN1 week-IN.ESS-ATTR marriage III-do-IPFV.CVB DEM1.ISG.OBL fiancé-AD.ESS me II-go-PRS-NEG-QUOT DEM2.IISG II-be-RES.PRT
+Translation: "Oh my son!", said the old woman, "They're celebrating our king's daughter's marriage the whole week, she was like: 'I won't go to that fiancé!'."

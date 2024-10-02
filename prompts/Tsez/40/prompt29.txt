@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ħalal.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ħalal
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ħalal:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sis isno adäz boc’no egirno yisä Muħamad, bexayn žan, ħalalawni reƛ mežan rac’no, ħaramawni där raƛin.
+Gloss: one bull-TOP ahead III-drive-PFV.CVB let-PFV.CVB DEM2.ISG.OBL-ERG Muhammad III-slaughter-PFV.CVB DEM1.SG-TOP permitted-DEF meat you(II-ERG-TOP IV-eat-PFV.CVB prohibited-DEF me-LAT IV-bring.IMP-QUOT
+Translation: He let Muhammad drive a bull ahead: "Slaughter it, and [y'all] eat the permitted meat, and bring the prohibited [meat] to me!"
+Sentence: Xizyo yizi bazarganza yisił roƛƛo risno, neširu debin barusno c’ok’ini roqnäy, debi yałru maʕišat elur biča yoł, bercingo bara mi iduɣor egirnäy, ele enza łˤoran q’urec’niƛ’osi q’ay ħalalgotow deber biča yołƛin.
+Gloss: afterwards DEM2.IPL.OBL merchant-PL-ERG DEM2.ISG.OBL-CONT.ESS IV-middle IV-take-PST.UNW evening you-GEN1-TOP wife-GEN1-TOP scandal IV-happen-CND.CVB you-GEN1 be-PST.PRT fortune we(I).OBL-LAT III-remain-INF be good wife-ERG you home-IN.ALL let-CND.CVB here DEM3b.IIPL.OBL three.OBL-TOP mule-SUPER.ESS-ATTR article be.permitted-COND-EMPH you-LAT III-be-INF be-QUOT
+Translation: Then the merchants decided among themselves: "In the evening, if your wife makes a scandal, then your fortune will be ours, and when a good wife lets you into the home, all the articles on these three mules shall be yours."

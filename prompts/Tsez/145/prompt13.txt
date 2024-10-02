@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: hunix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": hunix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word hunix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Howži nesi žek’a ža uži debez mi hunix ik’iƛin egirno.
+Gloss: now DEM1.ISG.OBL man-ERG DEM1.SG boy you-GEN2 you way-AD.ESS go-QUOT let-PST.UNW
+Translation: Now the man let the boy go: "Go on your way!"
+Sentence: ʕAƛar xabar bayn, hunix zigolun yegirno, raq’ˤu bˤeƛ’ rexunƛin.
+Gloss: village-IN.LAT story III-come-PST.UNW way-AD.ESS hail-TOP II-send-PFV.CVB III.PL-many sheep III.PL-die-PST.UNW-QUOT
+Translation: Into the village came the news that on the way it had hailed and many sheep had died.
+
+Approximate Matches:
+Sentence: Nesis hut’-mˤalay ƛ’er bisäsi bukayzaƛ’ hunixoza esirno, šebi deber roqnoƛin.
+Gloss: DEM1.ISG.OBL-GEN1 front.part.of.the.face-IN.ABL color III-take-RES.PRT III-see-CSL.CVB way-AD.ESS-ATTR.OBL-ERG ask-PST.UNW who you-LAT IV-happen-PST.UNW-QUOT
+Translation: When they saw the color vanishing from his face, the travellers asked: "What happened to you?"
+Sentence: ƛ’iri xabarkin boynč’ey yeda razin oqno, hunixor eniya erno zowali žedu q’ˤunqorno sist’a magalabin teƛno.
+Gloss: above story-even III-do-NEG.PST.CVB DEM2.ISG agree-TOP become-PFV.CVB way-AD.LAT mother-ERG put-PFV.CVB be.NPRS-ATTR DEM1.IPL two.OBL-POSS.LAT-TOP one.at.a.time bread-PL-TOP give-PST.UNW
+Translation: Without further discussion he agreed and gave the breads that his mother made for the way to the two of them, one for each.
+Sentence: ʕEze roqace łin rixerno, xizor butin nexƛ’oräy, nukarza hunixtow ħaƛun łiyrno ža łi.
+Gloss: be.enough IV-become-TERM water-TOP IV-take-PFV.CVB back I.PL-return-PFV.CVB come-SIM.CVB henchman-PL-ERG way-AD.ESS-EMPH drink-PFV.CVB finish-PST.UNW DEM1.SG water
+Translation: They took as much water as would be enough, and when they were going back, the henchmen drank up the water on their way.

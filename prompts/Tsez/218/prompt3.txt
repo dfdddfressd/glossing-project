@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rodin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rodin: 
+
+Exact Matches
+Sentence: Sidä his xuxix zown, sis ek’anił c’oxno, ɣoq’ˤot’aniza butnin, xaličabin rodin.
+Gloss: one.OBL-ERG spring.wool comb-IPFV.CVB be.NPRS-PFV.CVB one spin-MSD-CONT.ESS hit-PFV.CVB other-DISTR-DEF-PL-ERG burka-and mat-PL-and IV-do-PST.UNW
+Translation: One was combing the wool, one was hitting it to spin, the others made the burka and mats.
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Ɣˤutkun, ƛen rodin łiyzaƛ’, žoyä eniw k’ox äƛirugon kidno esirno xander yegirno.
+Gloss: house-and bridge-and III.PL-do-PFV.CVB end-CSL.CVB boy-ERG mother twice ORD-CNTR girl-TOP ask-PFV.CVB khan-APUD.LAT II-send-PST.UNW
+Translation: When the house and the bridge were finished, the boy sent his mother to the king a second time to ask for the girl.
+
+Approximate Matches:
+Sentence: Žedu q’ˤunesno q’ut’i boqno šebi rodinon ža nesi xedyoxay yok’ek’anix.
+Gloss: DEM1.IPL two.OBL-GEN1-TOP agreement I.PL-become-PFV.CVB what IV-do-INT DEM1.SG DEM1.ISG.OBL husband-AD.ABL II-remove-MSD-AD.ESS
+Translation: The two of them agreed to remove her from that husband by all means.
+Sentence: Di äƛiru rodinosi, mežiz mada zam-zames kikno boƛixsi.
+Gloss: me say-PST.PRT IV-do-ANT.CVB you.PL-GEN2 yard-IN.ESS Zam-Zam-GEN1 spring-TOP III-appear-PST.WIT
+Translation: After you did what I said, a holy spring appeared in your yard.
+Sentence: Idurno yik’in užin č’arik’no eniya eƛin, eliz mada łuƛa ixiw ɣˤutku rodinƛin.
+Gloss: home-LAT-TOP II-go-PFV.CVB boy-TOP wake.up-PFV.CVB mother-ERG say-PST.UNW we-GEN2 outside-IN.ESS who.OBL-INDEF big house IV-do-PST.UNW-QUOT
+Translation: The mother went home, woke up the boy and said: "Someone built a big house outside of ours."

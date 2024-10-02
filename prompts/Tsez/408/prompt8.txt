@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rečuƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rečuƛ: 
+
+Exact Matches
+Sentence: Žeda eƛixƛax, howlo rečuƛ dice buħi bičix, hohomaw mečoƛ’ ocä xecix yołi dice rigu räči, elaƛ’ ƛ’iri hisno rigu raq łemuƛin.
+Gloss: DEM1.IIPL.OBL-ERG say-PRS-QUOT there cattleshed-SUB.ESS how.much heat III-be-PRS fresh place-SUPER.ESS threshing.floor-IN.ESS leave-IPFV.CVB if how.much IV-good IV-be we(II-SUPER.ESS on spring.wool-TOP IV-good IV-become then.would-QUOT
+Translation: They were saying: "There in the shed is so much heat, if he would leave us in a chilly place, on the threshing floor, how good that would be, and then our wool would be better, too!"
+Sentence: Boc’an, zeybin, ɣuro yałza rečuƛ, aɣˤnä teł rišin, aɣbi girimabin kurno idutow xecin, bełis čanyabin, resobin čolow yałza hiɣar regirno.
+Gloss: wolf.PL-and bear-PL-and cows be-LCV.CVB cattleshed-SUB.ESS cowshed-IN.ESS inside IV-drive.in-PST.UNW bird-PL pole-PL-TOP erect-PFV.CVB home-EMPH leave-PST.UNW wild.goat-GEN1 she.goat-PL-and roe-PL-and straw be-LCV hayloft-IN.LAT IV-send-PST.UNW
+Translation: She drove the wolves and bears into the cowshed where the cows were, erected poles for the birds to give [them] a home, and sent the wild goats and roes into the half-open shed where there was straw.
+Sentence: Yisä eƛin, yexuran yexurno di ža rečuƛ rekuyał šušisƛin, dibirä ʕantawni esiw ižin baru šaširuni moči bukarera.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW II-kill-FUT.CVB II-kill-PFV.CVB me DEM1.SG cattleshed-SUB.ESS manure-CONT.ESS bury-PST.WIT-QUOT mullah-ERG stupid-DEF brother lead-PST.UNW wife bury-PST.PRT-DEF place III-show-CAUS-INF
+Translation: He said: "I have indeed killed your wife and burried her in the manure in the shed.", and the mullah led the stupid brother to show him the place where he burried his wife.
+
+Approximate Matches:
+Sentence: Nesiqor didiwnokin xabar boynč’ey, c’odorawni esiw dibirzo rečuƛerno ik’in, sis čanya bexurno elo rekuyał šušin, elayn yoɣno q’ˤuya mečoƛ’ dibires barun šušin yisä.
+Gloss: DEM1.ISG.OBL-POSS.LAT which-TOP-even story III-do-NEG.PST.CVB clever-DEF brother mullah-GEN2 cattleshed-SUB.LAT-TOP go-PFV.CVB one she.goat III-kill-PFV.CVB there manure-CONT.ESS bury-PFV.CVB here-IN.ABL-TOP II-take.away-PFV.CVB other place-SUPER.ESS mullah-GEN1 wife-TOP bury-PST.UNW DEM2.ISG.OBL-ERG
+Translation: Not telling him anything, the clever brother went into the mullah's shed, killed a goat and burried it in the manure there and took out the mullah's wife from there and burried her in another place.
+Sentence: Sasaqosi rečuƛer yezunosi, elo mesed besun anu.
+Gloss: in.the.morning cattleshed-SUB.LAT II-look-ANT.CVB there gold III-find-PFV.CVB be.NEG
+Translation: In the morning the mother looked in the cattle shed and did not find gold.
+Sentence: Iłira äƛiru ɣudƛ’o užä dahawtow koyä bixno risno ik’in, rečuƛäy mäħorno roɣno, ƛ’iri reƛ’un erno xizazgon gutanno yicin mečołxor rižin.
+Gloss: six.OBL say-PST.PRT day-SUPER.ESS boy-ERG a.little-EMPH hand-IN.ESS hay-TOP IV-take-PFV.CVB go-PFV.CVB cattleshed-SUB.ABL outside-TOP III.PL-take.away-PFV.CVB above yoke-TOP put-PFV.CVB from.behind-CNTR plow-TOP II-tie-PFV.CVB field-CONT.VERS III.PL-lead-PST.UNW
+Translation: On the sixth day, the boy went to take a little hay in his hand, took them out of the shed, put a yoke around them, tied a plow behind it and lead them into the field.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word č’ikay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word č’ikay: 
+
+Exact Matches
+Sentence: Ža maħor oqƛ’oräy, nesiłtow xizay yoƛixno Baxumesedagon ʕAliqiličqor č’ikay teƛno, reč’no nełas q’ˤim č’ikayä rezurinč’inäy, nełas ruħ baɣinč’iƛin.
+Gloss: DEM1.SG outside become-SIM.CVB DEM1.ISG.OBL-CONT.ESS-EMPH from.behind II-appear-PST.UNW Bakhumesed-ERG-CNTR Aliqilich-POSS.LAT mirror give-PFV.CVB IV-cut-PFV.CVB DEM1.IISG.OBL-GEN1 head mirror-IN.ESS IV-look-CAUS-NEG.FUT-CND.CVB DEM1.IISG.OBL-GEN1 power III-take.away-NEG.FUT-QUOT
+Translation: When Aliqilich got outside, Bakhumesedo appeared behind him and gave him a mirror, saying: "When you cut his head off and don't show it to himself in the mirror, you won't take away his power."
+Sentence: Nełqay roxin rik’iƛ’oräy, yeženi esiya babiya neƛno zawruni č’ikay q’ˤidar kurno.
+Gloss: DEM1.IISG.OBL-POSS.ABL II.PL-run.away-PFV.CVB II.PL-go-SIM.CVB II-old-DEF sister-ERG father-ERG give-PFV.CVB be.NPRS-PST.PRT-DEF mirror down-LAT throw-PST.UNW
+Translation: While they were running away from it, the eldest sister threw down the mirror that their father had given her.
+Sentence: Sidade kikxor baynosi, elo ence q’ˤidan bičin bišƛ’oräy, eɣeni esiws ħamay č’ikay yˤoƛ’un yoƛixno.
+Gloss: one.OBL-APUD.ESS spring-AD.LAT I.PL-come-ANT.CVB there a.little down-and I.PL-sit-PFV.CVB I.PL-eat-SIM.CVB young-DEF brother-GEN1 chest-IN.ABL mirror II-fall-PFV.CVB II-appear-PST.UNW
+Translation: They came to a spring; and when they barely sat down and ate, the mirror fell from the younger brother's arms.
+
+Approximate Matches:
+Sentence: Žoyä ɣˤutku rodixƛin eženi žek’uqno esin meɣyoqor eƛin, xanes riłe ɣˤutkun, č’ikays ƛen boqoƛƛin.
+Gloss: boy-ERG house IV-do-PRS-QUOT old-DEF man-POSS.ESS-TOP tell-PFV.CVB udder-POSS.LAT say-PFV.CVB khan-GEN1 IV-as house-and glass-GEN1 bridge-and III-become-OPT-QUOT
+Translation: The boy told the old man: "Building a house." and said to the udder: "May there become a house like the king's and a bridge of glass!"
+Sentence: Eženi esiya esin, č’ikays tungin bisno łäħorno yik’i, kikxar yik’iƛ’oräy yaħno bodo, elazay tungin bic’no nexƛ’oräy, esiwz žanazaxor yaynosi, tungi q’ˤidar bˤoƛ’a begirno xec.
+Gloss: old-DEF brother-ERG tell-PST.UNW glass-GEN1 copper.jug-TOP III-take-PFV.CVB water-AD.LAT-TOP II-go spring-AD.VERS II-go-SIM.CVB patience-TOP III-do-IMPR there-IN.ABL.DIST copper.jug-TOP III-fill-PFV.CVB come-SIM.CVB brother-GEN2 corpse-AD.LAT II-come-ANT.CVB copper.jug down-LAT III-fall-INF III-let-PFV.CVB leave
+Translation: The older brother told: "Take a glass jug and go to the water; when you go to the spring, be patient and when you fill the jug there, come to your brother's corpse, let the jug fall down and leave.
+Sentence: Däz č’ikayägon mi yukarinč’us yołi, łarnokin debi roƛxosi yałrułin riya zownč’u, min yexa zowsƛin”, - eƛin eɣeni esiya.
+Gloss: me-GEN2 mirror-CNTR you II-show-NEG.PST.WIT-PST.WIT if who.OBL-LAT-TOP-even you-GEN1 IV-be.sick-PRS.PRT be-PST.PRT-NMLZ-and IV-know-INF be.NPRS-NEG.PST.WIT you-TOP II-die-INF be.NPRS-PST.WIT-QUOT - say-PST.UNW young-DEF brother-ERG
+Translation: "If my mirror hadn't shown you, nobody would have known that you were sick, and you would have died", said the younger brother.

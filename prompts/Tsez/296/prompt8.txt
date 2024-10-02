@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word riħura in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word riħura: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Žedaq di łˤora ɣudir ħonce qaca ʕaƛaɣor riħurno łiyrsi.
+Gloss: DEM1.IIPL.OBL-POSS.ESS me three.OBL day-LAT mountain-EQU1 firewood village-IN.VERS IV-pour-PFV.CVB end-CAUS-ATTR
+Translation: I made them pull a mountain of firewood to the village for three days.
+Sentence: ʕAt’idä c’in rit’erno qˤiči riħurxozoni koboraxaza uqˤełno ičin.
+Gloss: Atid-ERG fire-TOP IV-extinguish-PFV.CVB harvest IV-pour-PRS.PRT.OBL-DEF granary-AD.VERS.DIST hide-PFV.CVB wait-PST.UNW
+Translation: Atid put out the fire and hid in the granary where one pours the harvest.
+Sentence: Režet’ani ƛoħazaɣor reƛno riħurno, waħaza c’i erno.
+Gloss: IV-big-DISTR-DEF pan-PL-IN.VERS meat-TOP IV-pour-PFV.CVB below-IN.VERS.DIST fire set.up-PST.UNW
+Translation: They poured the meat into big pans and set up a fire below.

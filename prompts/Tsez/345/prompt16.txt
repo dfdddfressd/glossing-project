@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word gugin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word gugin: 
+
+Exact Matches
+Sentence: Žan eƛin hemedurtow ozƛäy gugin.
+Gloss: DEM1.SG-TOP say-PFV.CVB so-EMPH eye-SUB.ABL escape-PST.UNW
+Translation: Having said this, he flew out of sight.
+Sentence: Ža xabarno esin, aw adäzay gugin.
+Gloss: DEM1.SG story-TOP tell-PFV.CVB mouse in.front-IN.ABL.DIST escape-PST.UNW
+Translation: Having told this, the mouse ran out of sight.
+Sentence: Kidbazä esin, eli babiwde sadaq saparyox roqäsi zows, babiwn gugin howt’o ƛexasi yoł, ela debez ɣunoqay dahaw henešno but’in bac’siƛin.
+Gloss: girl-PL-ERG tell-PST.UNW we father-APUD.ESS together journey-AD.ESS II.PL-become-RES.PRT be.NPRS-PST.WIT father-TOP escape-PFV.CVB here remain-RES.PRT be we(II-ERG you-GEN2 tree-POSS.ABL a.little apple-TOP III-rip.out-PFV.CVB III-eat-PST.WIT-QUOT
+Translation: The girls said: "We were travelling together with our father, and he ran away and we were staying here; and we picked some apples from your tree and ate them."
+
+Approximate Matches:
+Sentence: Bertenyołäy ža bašiqˤoy yałruni kid guginosi, yisi žas tatun bexun, xexłiƛ’ idurno ik’in, mežä pun bok’no ičin.
+Gloss: marriage-CONT.ABL DEM1.SG ring be-PST.PRT-DEF girl escape-ANT.CVB DEM2.ISG.OBL boy-GEN1 cheerfulness-TOP III-die-PFV.CVB quickness-SUPER.ESS home-LAT-TOP go-PFV.CVB mattress-IN.ESS side-TOP III-hit-PFV.CVB be-PST.UNW
+Translation: When the girl with the ring had disappeared from the marriage, the boy lost his cheerfulness and quickly went home and to bed.

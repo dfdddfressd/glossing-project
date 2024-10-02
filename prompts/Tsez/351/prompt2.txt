@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hemedur in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hemedur: 
+
+Exact Matches
+Sentence: Nesi žaz babiya sidaquł q’orol ɣˤanabin yiqirno nełaq esin, hemedur ɣudƛ’ay ɣudƛ’or dey uži ħalaq’ oqxo ik’ixƛin.
+Gloss: DEM1.ISG.OBL boy-GEN2 father-ERG one.day widowed woman-TOP II-find-PFV.CVB DEM1.IISG.OBL-POSS.ESS tell-PST.UNW so day-SUPER.ABL day-SUPER.LAT me-GEN1 boy meager become-IPFV.CVB go-PRS-QUOT
+Translation: One day the boy's father found a widow and told her that his boy is becoming meager day by day.
+Sentence: Bišƛ’oräytow nesä kidbez babiwqor xabar boƛik’no, hemedur sis beže q’ʷariʕelno dowqor keze boqno, mi ža t’ubazi badiƛin debeƛ’ rok’un rayn nexäsi yoł di dowderƛin.
+Gloss: I.PL-eat-SIM.CVB-EMPH DEM1.ISG.OBL-ERG girl-GEN2 father-POSS.LAT story III-push.out-PFV.CVB so one III-big necessity-TOP you-POSS.LAT meet III-become-PFV.CVB you DEM1.SG fulfill III-do-QUOT you-SUPER.ESS heart-TOP IV-come-PFV.CVB come-RES.PRT be me you-APUD.LAT-QUOT
+Translation: While they were eating, he started a conversation with the girl's father: "So there is a big necessity you have to do, and I have come to you and am convinced you can fulfill it."
+Sentence: Däq hemedur eƛin rok’łinč’us yołiƛin, eƛin qartayä, di mi aħirno, ešayn ac’a zowsƛin.
+Gloss: me-POSS.ESS so say-PST.UNW heart-NMLZ-NEG.PST.WIT-ATTR if-QUOT say-PST.UNW witch-ERG me you cook-CAUS-PFV.CVB bake-PFV.CVB eat-INF be.NPRS-PST.WIT-QUOT
+Translation: "If I hadn't said so," the with said, "I would've cooked, baked and eaten you!"
+
+Approximate Matches:
+Sentence: Eɣenigon esiw ža biqiranƛin oqno, hemedurtow nesiqayn boxin bok’ełno.
+Gloss: young-DEF-CNTR brother DEM1.SG III-catch-FUT.CVB-QUOT begin-PFV.CVB so-EMPH DEM1.ISG.OBL-POSS.ABL-TOP III-run.away-PFV.CVB III-escape-PST.UNW
+Translation: The young brother tryed to catch it, and just as before it escaped and ran away from him.
+Sentence: Nesiqorno hemedurtow, mesedyos saħ neƛnäy nexanƛin, eƛin.
+Gloss: DEM1.ISG.OBL-POSS.LAT-TOP so-EMPH gold-GEN1 sah give-CND.CVB come-FUT.DEF-QUOT say-PST.UNW
+Translation: And she said to him as well: "If you give me your Sah of gold, I will come."
+Sentence: Bežet’ani esnaza yeda hemedurtow egirno anu.
+Gloss: I.PL-big-DISTR-DEF brother-PL-ERG DEM2.ISG so-EMPH let-PST.UNW be.NEG
+Translation: The elder brothers didn't let him do so.

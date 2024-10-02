@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word tupi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word tupi: 
+
+Exact Matches
+Sentence: Xizyogon zira šebi ža debez ħiroƛ’ƛin esirnosi, k’et’a tupi yołƛin eƛin.
+Gloss: then fox-ERG what DEM1.SG you-GEN2 shoulder-SUPER.ESS-QUOT ask-ANT.CVB cat-ERG rifle be-QUOT say-PST.UNW
+Translation: When the fox asked: "What is that on your shoulder?", the cat said: "It's a rifle."
+Sentence: Way dey užiƛin, regin babiwq, howži deber žukkin roqinč’inäy, di eƛix zownč’a dowqor neła aɣis tupi caƛinƛin.
+Gloss: o.dear me-GEN1 son-QUOT IV-be.emitted-PFV.CVB father-POSS.ESS now you-LAT worse-even IV-become-NEG.FUT.CVB-CND.CVB me say-IPFV.CVB be.NPRS-NEG.PST.WIT-PST.WIT.INT you-POSS.LAT DEM1.IISG.OBL bird-GEN1 rifle shoot.with-PROHIB-QUOT
+Translation: "Oh dear, my son!", said the father, "Have I not warned you that it would become bad for you now, if you shoot that bird with your rifle?"
+Sentence: Yisä tupi teƛno anu, žedä äƛiru mesedno teƛno, yisä žeduqay zey xʷasar bodin.
+Gloss: DEM2.ISG.OBL-ERG rifle give-PFV.CVB be.NEG DEM1.IIPL.OBL-ERG say-PST.PRT gold-TOP give-PFV.CVB DEM2.ISG.OBL-ERG DEM1.IPL.OBL-POSS.ABL bear rescue III-do-PST.UNW
+Translation: He didn't give them the rifle, but gave them as much gold as they wanted and rescued the bear from them.
+
+Approximate Matches:

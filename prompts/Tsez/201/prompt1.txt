@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Q’orolaz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Q’orolaz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Q’orolaz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hoboy q’orolaz užä yizi baƛ’ärułi riynosi, ʕoƛiran esnaza q’ut’i bodin ža exuranixƛin.
+Gloss: now widow-GEN2 son-ERG DEM2.IPL I.PL-cheat-MSD IV-know-ANT.CVB seven.OBL-TOP brother-PL-ERG agreement III-do-PFV.CVB DEM1.SG kill-MSD-AD.ESS-QUOT
+Translation: Now, after the seven brothers knew that the widow's son had cheated them, they agreed to kill him.
+Sentence: Nełas siskin urɣel boynanu bat’iyaw sisxolizoni q’orolaz užä.
+Gloss: DEM1.IISG.OBL-GEN1 any sorrow III-do-PFV.CVB-NEG other alone-ATTR.OBL-DEF widow-GEN2 son-ERG
+Translation: The son of the other widow who was alone, did not have any sorrow.
+Sentence: Hemełƛ’ay soder q’orolaz užis raħataw, paraxataw ʕumru zown, ħalikatawt’ani halmaɣzaqay bat’an oqno.
+Gloss: DEM4.IISG.OBL-SUPER.ABL after widow-GEN2 son-GEN1 serene quiet life be.NPRS-PFV.CVB mean-DISTR-DEF friend-PL-POSS.ABL seperation-TOP become-PST.UNW
+Translation: After that, the widow's son lead a serene, quiet life, bereft of mean friends.
+
+Approximate Matches:
+Sentence: Elo q’orolay dandir c’oxnosi, nełaq esirno, debi uži ukayxanuwa na ža yołƛin.
+Gloss: there widow towards meet-ANT.CVB DEM1.IISG.OBL-POSS.ESS ask-PST.UNW you-GEN1 son see-IPFV.CVB-NEG-Q where DEM1.SG be-QUOT
+Translation: When they met the widow there, they asked her: "We can't see your son, where is he?"
+Sentence: Zownƛax, zownanuƛax sida ʕaƛa q’ˤano q’orolay.
+Gloss: be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB-NEG-QUOT one.OBL village-IN.ESS two widow
+Translation: Once upon a time there lived two widows in a village.
+Sentence: Xizyo xanä nesä nesider goƛ’in barus esnabin, nukarbin, ža q’orolayn.
+Gloss: afterwards khan-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.LAT invite-PST.UNW wife-GEN1 sister-PL-and henchman-PL-and DEM1.SG widow-and
+Translation: After that, the king invited to himself the wife's sisters, the henchmen and that widow.

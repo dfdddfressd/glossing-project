@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Bečedawni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Bečedawni: 
+
+Exact Matches
+Sentence: Zamanaƛ’aza ɣˤutka tełäzay sis qˤaƛu-bˤaɣu rizin, hiba gugu žek’ƛ’oräy, bečedawni maduhalqo k’ʷač’ni regin.
+Gloss: time-SUPER.VERS.DIST house-IN.ESS inside-IN.ABL.DIST one shout IV-get.up-PFV.CVB stick-ERG back beat-SIM.CVB wealthy-DEF neighbor-POSS.ESS groan-MSD IV-let.go-PFV.CVB
+Translation: Some minutes later one could hear noise and shout inside the house: as the stick beat the wealthy neighbor on his back, he gave a loud groan.
+Sentence: Žar čuqˤno nesi bečedawni maduhales piša yedu yałrułi.
+Gloss: son-LAT notice-PFV.CVB DEM1.ISG.OBL wealthy-DEF neighbor-GEN1 deed DEM2.IISG be-MSD
+Translation: The son noticed, that it was a deed of that wealthy neighbor.
+Sentence: Xizyogon hemesitow bečedawni žek’a naysinan xabar begirno, dey kid yeynodaniƛ’or ruhun yayru žek’ux yegira yołƛin.
+Gloss: then DEM4.ISG.OBL-EMPH wealthy-DEF man-ERG everywhere story III-let-PFV.CVB me-GEN1 daughter II-work-MSD-SUPER.LAT teach II-do-PST.PRT man-AD.ESS II-send-INF be-QUOT
+Translation: Then that very same rich man spread the story everywhere, that he would marry his daughter off to the man who would teach her how to work.
+
+Approximate Matches:
+Sentence: Naysinan nesider bayx zown: beɣen, bežen, miskinawnin bečedawnin.
+Gloss: everywhere DEM1.ISG.OBL-APUD.LAT III-come-PRS be.NPRS-PFV.CVB III-young-TOP III-old-TOP poor-DEF-TOP wealthy-DEF-TOP
+Translation: All people came to him: young and old, poor and wealthy.

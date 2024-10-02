@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕoƛ’a in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕoƛ’a: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Łiboƛ’ iziƛ’orey, mi kidbez hut’-mˤalär äzuno, yałi nełaz bercinłä akik’no mi q’ˤidar ʕoƛ’arƛin, mołin yiła yisi užiq.
+Gloss: wrestling-SUPER.ESS get.up-SIM.CVB you girl-GEN2 front.part.of.the.face-IN.LAT look-PROHIB else DEM1.IISG.OBL-GEN2 beauty-ERG tire-PFV.CVB you down-LAT let.fall-QUOT teach-PST.UNW DEM2.IISG.OBL-ERG DEM2.ISG.OBL boy-POSS.ESS
+Translation: In the fight, don't look into the girl's face, or else her beauty will tire you and make you fall down.", she explained to the boy.
+Sentence: Xanes uži yisä akiłno q’ˤidar ʕoƛ’ace naysinan kerozaq ezu-ʕaƛ’urno, amma ƛ’irizoni ɣˤutkaɣor ezura ižinanu yisä yeda.
+Gloss: khan-GEN1 son DEM2.ISG.OBL-ERG get.tired-PFV.CVB down-LAT fall-TERM everywhere ravine-PL-POSS.ESS examine-CAUS-PFV.CVB but above-ATTR.OBL-DEF room-IN.VERS show-INF lead-PFV.CVB-NEG DEM2.ISG.OBL-ERG DEM2.ISG
+Translation: He lead him through the ravines and showed him everything until he got tired and fell down, but he didn't lead him to show him the room above.
+Sentence: Reže nesiz ħurmatyoxaysi rok’uɣʷeyn rodin, sida zamanaƛ’aza Ražbadin haq’uzaƛ’ hulin, žeduƛ’ ezu-ʕoƛ’a ʕaƛaɣor ik’a retin.
+Gloss: IV-big DEM1.ISG.OBL-GEN2 respect-AD.ABL-ATTR banquet-TOP IV-do-PFV.CVB one.OBL time-SUPER.VERS.DIST Razhbadin family-PL-SUPER.ESS miss-PFV.CVB DEM1.IPL.OBL-SUPER.ESS visit-INF village-IN.VERS go-INF IV-want-PST.UNW
+Translation: They organized the big banquet because of his respect, and at some point in time, Razhbadin missed his family and wanted to go to the village to visit them.

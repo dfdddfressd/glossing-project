@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word maq’anyoƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word maq’anyoƛ: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyo Kusa xanez kidbeden kecno, qˤašiƛ’aɣor kid moƛaq yiqirnosi, elayn izin ɣamasya tełerno oqno, tełäzgon žan ħišin, maq’anyabi rižixosi pelun yexurno.
+Gloss: afterwards Kusa-ERG khan-GEN2 daughter-APUD.ESS-TOP sleep-PFV.CVB dawn-SUPER.VERS girl sleep-POSS.ESS II-stop-ANT.CVB there-IN.ABL-TOP get.up-PFV.CVB box-IN.ESS into-TOP become-PFV.CVB inside-IN.ESS.DIST-CNTR DEM1.SG-TOP lock-PFV.CVB melody-PL III.PL-carry-IPFV.CVB-ATTR pipe-TOP II-kill-PST.UNW
+Translation: Afterwards, when Kusa had slept with the king's daughter, and the girl had stopped sleeping, he got up from there and went into the box, locked it from inside and destroyed the pipes which played the melodies.
+Sentence: Xizyo ɣamasya tełäzay xanez kidber riguƛ’ay rigut’a maq’anyabi teqnosi, neła ža micxiryoƛ yisinč’ey yäčinč’i.
+Gloss: afterwards box-IN.ESS inside-IN.ABL.DIST khan-GEN2 daughter-LAT III.PL-pretty-SUPER.ABL III.PL-pretty-DISTR melody-PL hear-ANT.CVB DEM1.IISG.OBL-ERG DEM1.SG money-SUB.ESS II-buy-NEG.PST.CVB II-be-NEG.FUT
+Translation: Then, after the king's daughter heard the prettiest melodies coming out of the box, she just had to buy it.
+Sentence: Yiła maq’anyabi qˤaƛixanu, ust’arder yedu yayrƛin yiła ɣarabašzaqor eƛin.
+Gloss: DEM2.IISG.OBL-ERG melody-PL sing-PRS-NEG master-APUD.LAT DEM2.IISG II-bring-QUOT DEM2.IISG.OBL-ERG servant-PL-POSS.LAT say-PST.UNW
+Translation: "It doesn't play melodies anymore, bring it to the master!", she said to the servants.

@@ -1,0 +1,33 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: suƛƛitow using Leipzig glossing symbols. The sentence this word is drawn from means: "He immediately led the boy into the upper room to show it to him.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": suƛƛitow
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word suƛƛitow:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Musa suƛƛitow eƛin:
+Gloss: Musa suddenly-EMPH say-PST.UNW
+Translation: Then Musa suddenly said:
+Sentence: Nesir riyx zown suƛƛitow nełas q’ˤimbi reč’no roɣinč’inäy, neła ħal bayrxanusiłi.
+Gloss: DEM1.ISG.OBL-LAT IV-know-IPFV.CVB be.NPRS-PFV.CVB at.once-EMPH DEM1.IISG.OBL-GEN1 head-PL IV.PL-cut-PFV.CVB IV-take.away-NEG.FUT-CND.CVB DEM1.IISG.OBL-ERG trouble III-bring-NEG.PRS.PRT-CND.CVB.IRR
+Translation: He knew that if he didn't cut off all the heads at once, he wouldn't defeat it.
+Sentence: Xizaɣor hudun yisä sis sanaʕałin biqirno suƛƛitow nasin q’ˤimbin reč’no, aždaħ bexurno łaƛ’ay boɣno kurno.
+Gloss: finally nevertheless DEM2.ISG.OBL-ERG one chance-TOP III-take.away-PFV.CVB at.once-EMPH all head-PL-TOP IV.PL-cut-PFV.CVB dragon III-kill-PFV.CVB water-SUPER.ABL III-take.away-PFV.CVB throw-PST.UNW
+Translation: Finally nevertheless he took a chance, cut off all the heads at once, killed the dragon and threw it off the water.
+
+Approximate Matches:
+Sentence: Suƛƛitow zira aħi boyn, haxar, et’o teł žek’u yołƛin.
+Gloss: immediately-EMPH fox-ERG alarm III-do-PFV.CVB now here inside man be-QUOT
+Translation: Immediately the fox raised an alarm: "Now, there is a man inside here!"

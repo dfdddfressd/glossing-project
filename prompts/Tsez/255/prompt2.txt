@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bik’ixozo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bik’ixozo: 
+
+Exact Matches
+Sentence: Neł t’umä ža t’akan yižin xaneł purłäzan eqerno, elaygon bitor hawaƛ’ žedu biħada bik’ixozo xanzo akixor bik’in.
+Gloss: DEM1.IISG.OBL pigeon-ERG DEM1.SG glass II-carry-PFV.CVB khan-CONT.ESS side-CONT.VERS.DIST-TOP put-PFV.CVB there-IN.ABL-CNTR thither air-SUPER.ESS DEM1.IPL III-fight-INF III-go-PRS.PRT.OBL khan-GEN2 window-AD.LAT III-go-PST.UNW
+Translation: The pigeon carried this glass, put it next to the king and from there flew to the king's window, from which they went out to fight.
+Sentence: Sida quł, kidno howlotow xecin, eniwn, užin ʕaƛa bik’ixozo sida bertenyołxor bik’in.
+Gloss: one.OBL day-CONT.ESS girl-TOP there-EMPH leave-PFV.CVB mother-and son-and village-IN.ESS I.PL-go-PRS.PRT.OBL one.OBL marriage-CONT.VERS I.PL-go-PST.UNW
+Translation: One day, they left the girl there like this again and mother and son went to a marriage in the village.
+Sentence: ʕAƛoz raʕalłixorgon baynosiƛin, eƛin babiya, elude dandir šuša žek’u ižin bik’ixozo xalq’imoqgon Aħmadä esirsi, eƛ’iyä yeda žek’u exasi, yagi žiƛboyäƛin.
+Gloss: village-GEN2 edge-AD.LAT-CNTR I.PL-come-ANT.CVB-QUOT say-PST.UNW dad-ERG we(I).OBL-APUD.ESS towards bury-INF man carry-PFV.CVB I.PL-go-PRS.PRT.OBL people-POSS.ESS-CNTR Akhmed-ERG ask-PST.WIT last.year-Q DEM2.ISG man die-RES.PRT or this.year-Q-QUOT
+Translation: "When we came to the edge of the village," said the father, "Akhmed asked the people that were coming towards us carrying a man to bury him: 'Has this man died last year or this year?'."
+
+Approximate Matches:
+Sentence: Xizaɣor eɣeni esiwr riyn, esnabi bik’ixosi moči.
+Gloss: finally young-DEF brother-LAT IV-know-PST.UNW brother-PL I.PL-go-PRS.PRT place
+Translation: In the end the younger brother knew the place his brothers were going to.
+Sentence: Hemedur hunix ik’iƛ’orey, boxin bik’ixosi ziru yisił c’oxno, nełałgon xizay k’oƛin nexxo łˤono boc’in yołƛax.
+Gloss: so way-AD.ESS go-SIM.CVB III-run.away-PFV.CVB III-go-PRS.PRT fox DEM2.ISG.OBL-CONT.ESS hit-PFV.CVB DEM1.IISG.OBL-CONT.ESS-CNTR behind run-PFV.CVB come-IPFV.CVB three wolf-TOP be-QUOT
+Translation: While he was on his way like that, he met a fox who was fleeing and behind it three wolves came running.
+Sentence: Hudun, xizaɣor aħozä biyrno čanya bik’ixosi moči.
+Gloss: nevertheless finally shepherd-ERG III-recognize-PFV.CVB she.goat III-go-PRS.PRT place
+Translation: Nevertheless the shepherd finally found out the place where the goat went to.

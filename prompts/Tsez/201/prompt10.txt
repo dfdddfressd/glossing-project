@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bik’in.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bik’in
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bik’in:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Howlo lilyoxtow yedan xecin, xanderno bik’in ziru c’ok’inayn:
+Gloss: there river.bank-AD.ESS-EMPH DEM2.ISG-and leave-PFV.CVB khan-APUD.LAT-and I.PL-go-PFV.CVB fox scold-PST.UNW
+Translation: When they left the river bank there and went to the king, the fox scolded:
+Sentence: Nełquł sasaq č’ˤurqotow bizin onoču qaciƛ’or bik’in.
+Gloss: on.that.day tomorrow in.the.morning-EMPH III-get.up-PFV.CVB hen firewood-SUPER.LAT III-go-PST.UNW
+Translation: The next day, in the early morning, the hen got up and went after firewood.
+
+Approximate Matches:
+Sentence: Boƛƛ’o zaman bik’inosi, kidbä neła nełdaɣor eniw yižin.
+Gloss: middle time III-go-ANT.CVB girl-ERG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-APUD.VERS motherII II-lead-PST.UNW
+Translation: In the meantime, the girl took her mother to her own place.
+Sentence: ʕUraw zaman bik’inosi yizi sidaɣ šaharyar bayn.
+Gloss: much time III-go-ANT.CVB DEM2.IPL in.one.place city-IN.LAT I.PL-come-PST.UNW
+Translation: Much time passed by and they came to a city somewhere.
+Sentence: Boƛƛogon zaman bik’inosi, hemedurtow sosigon neła esirno.
+Gloss: III-middle-CNTR time III-go-ANT.CVB so-EMPH again-CNTR DEM1.IISG.OBL-ERG ask-PST.UNW
+Translation: After a while, she asked it again.

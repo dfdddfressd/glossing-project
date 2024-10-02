@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word pardagin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word pardagin: 
+
+Exact Matches
+Sentence: Xizyo pardagin risno, gulun boɣno nesiqay bižin, uži eniwdäɣor ik’in.
+Gloss: afterwards scarf-TOP IV-take-PFV.CVB horse-TOP III-take.away-PFV.CVB DEM1.ISG.OBL-POSS.ABL III-take.out-PFV.CVB boy mother-APUD.VERS go-PFV.CVB
+Translation: Afterwards the boy took the scarf, the horse and went to his mother.
+Sentence: Bečedawni maduhal yiłdetow sadaq iduɣorno nexno, roɣno ža pardagin ik’in, dey zows žaƛin.
+Gloss: wealthy-DEF neighbor DEM2.IISG.OBL-APUD.ESS-EMPH together home-IN.ALL-TOP come-PFV.CVB IV-take.away-PFV.CVB DEM1.SG scarf-TOP go-PFV.CVB me-GEN1 be.NPRS-PST.WIT DEM1.SG-QUOT
+Translation: But the wealthy neighbor came home together with the mother, took away the scarf and said, "It was my scarf."
+
+Approximate Matches:
+Sentence: Užä eƛin, pardagi eranix dey ya esiw anu, ya baru anu, där retäsi šebin anu žaƛin.
+Gloss: son-ERG say-PFV.CVB scarf put-INF-PURP.CVB me-GEN1 neither sister be.NEG neither wife be.NEG me-LAT IV-want-RES.PRT thing be.NEG DEM1.SG-QUOT
+Translation: The son said, "I have neither sister nor wife to wear this scarf."
+Sentence: Ža bexuranixƛin yisä c’eruc’a rutirnosi, ceyä eƛin, mi di bexarno, deber di sis bercinaw pardagi neƛanƛin.
+Gloss: DEM1.SG III-kill-INF-PURP.CVB-QUOT DEM2.ISG.OBL-ERG bow IV-turn-ANT.CVB eagle-ERG say-PFV.CVB you me III-kill-PFV.CVB you-LAT me one beautiful scarf give-FUT.DEF-QUOT
+Translation: As he directed his bow to kill the eagle, the latter said, "Don't kill me, I will give you one beautiful scarf."
+Sentence: Łinaqey ža ʕiyayxƛin žas eniya esirnosi, yisir dowqosi pardagi retinƛin eƛin.
+Gloss: what.OBL-POSS.ABL DEM1.SG cry-PRS-QUOT boy-GEN1 mother-ERG ask-ANT.CVB DEM2.ISG.OBL-LAT you-POSS.ESS-ATTR scarf IV-want-PST.UNW-QUOT say-PST.UNW
+Translation: When the boy's mother asked: "Why does he cry?", she said: "He wants your scarf."

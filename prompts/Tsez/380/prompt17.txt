@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word radinƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word radinƛin: 
+
+Exact Matches
+Sentence: Howžäy soder nediw šebin radinƛin, reƛ’an ozzaq riħin č’uran rukarerno, Bilq’isdä ža maħor egirno.
+Gloss: now-IN.ABL after such thing IV-do-PROHIB-QUOT hand-TOP eye-PL-POSS.ESS IV-smear-PFV.CVB light-TOP IV-show-CAUS-PFV.CVB Bilqisdi-ERG DEM1.SG outside send-PST.UNW
+Translation: "From now on, don't do such things anymore!", Bilqisdi put her hands onto his eyes, gave him back his eyelight and sent him outside.
+
+Approximate Matches:
+Sentence: Mi nełas rask’i urɣel badinƛin, sida q’urec’niƛ’ ƛ’iri ixin erno, hisos urgubi äruni sideni q’urec’niƛ’ ƛ’iri yeda zowerno.
+Gloss: you DEM1.IISG.OBL-GEN1 no.at.all sorrow III-do-PROHIB-QUOT one.OBL mule-SUPER.ESS on bag put-PFV.CVB spring.wool-GEN1 sack-PL put-PST.PRT-DEF other mule-SUPER.ESS on DEM2.ISG seat-PST.UNW
+Translation: "Don't worry!", they put his bag onto the mule and seated him on the other mule that carried the sacks of wool.
+Sentence: Zownƛax zownanuƛax ader zamanał Ceƛ’o sida ʕaƛa Ražbadinƛin ci rik’äsi bahadur.
+Gloss: be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB-NEG-QUOT earlier time-CONT.ESS Tsetlo one.OBL village-IN.ESS Razhbadin-QUOT name IV-go-RES.PRT hero
+Translation: Once upon a long time ago in the Tsetlo village there was a hero who went by the name of "Razhbadin".

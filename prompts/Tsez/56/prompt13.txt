@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kidbeq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kidbeq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kidbeq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełde idur baynosi, šakno oqno eɣeni esiya kidbeq ħaƛanix łi esiro.
+Gloss: DEM1.IISG.OBL-APUD.ESS home-LAT I.PL-come-ANT.CVB suspicion-TOP become-PFV.CVB young-DEF brother-ERG girl-POSS.ESS drink-MSD-AD.ESS water ask-IMPR
+Translation: When they came to the house where she was, the youngest brother became suspicious and asked the girl if she wanted to drink some water.
+Sentence: Yeɣeni kidbeq esirnosi yołi, deber rätiru zamanał mi äƛiru šebin roda ħaduraw di yołƛin, eniwqor eƛin.
+Gloss: II-young-DEF daughter-POSS.ESS ask-ANT.CVB however you-LAT IV-want-PST.PRT time-CONT.ESS you say-PST.PRT thing IV-do-INF prepared me be-QUOT mother-POSS.LAT say-PST.UNW
+Translation: When she asked the youngest daughter, she said to her mother: "I'm ready to do whatever you say, whenever you want."
+Sentence: Waħ, łu nesis žedu xexbi rexura rayx, - esirno ʕAliqiličä neł kidbeq, - žeda nesi baħarčir šebi zaral bodäsiƛin?”
+Gloss: whoa who.ERG DEM1.ISG.OBL-GEN1 DEM1.IPL.OBL children III.PL-kill-INF IV-come-IPFV.CVB - ask-PST.UNW Aliqilich-ERG DEM1.IISG.OBL girl-POSS.ESS - DEM1.IPL-ERG DEM1.ISG.OBL brave.young.man-LAT what harm III-do-RES.PRT-QUOT
+Translation: "Whoa, who would kill his children?", asked Aliqilich the girl, "What did they do to this brave young man?"
+
+Approximate Matches:
+Sentence: Idur aynosi, Maħama nesistow ʕoloqanawni kidbeqor eƛin, žaqˤuł ʕaƛaɣor nexƛ’oräy, där Aħmad keze oqsi.
+Gloss: home-LAT come-ANT.CVB Magomed-ERG DEM1.ISG.OBL-GEN1-EMPH young-DEF daughter-POSS.LAT say-PST.UNW today village-IN.VERS come-SIM.CVB me-LAT Akhmed meet become-PST.WIT
+Translation: When he came home, Magomed said to his young daughter: "Today, when I came into the village, I met Akhmed.
+Sentence: Neła kidbeqor eƛin, ele žigoƛ’aygon deber däƛ’aza aždaħes xexoyn biqis, howži mi esiwqor eƛo, deber halmaɣłun yičaniƛäyn, nesirgon barułun yičaniƛäyn Beqes ʕUneyzat yowanix ik’iƛƛin.
+Gloss: DEM1.IISG.OBL-ERG girl-POSS.LAT say-PST.UNW here again-SUPER.ABL-CNTR you-LAT me-SUPER.VERS.DIST dragon-GEN1 young.animal-TOP III-get-PST.WIT now you brother-POSS.LAT say-IMPR you-LAT friend-LHUN II-be-MSD-SUB.ABL-and DEM1.ISG.OBL-LAT-CNTR wife-LHUN II-be-MSD-SUB.ABL-and sun-GEN1 Uneyzat II-marry-MSD-AD.ESS go-OPT-QUOT
+Translation: She said to the girl: "Again now because of me you got hold of a dragon's young, now say to your brother that he go and mary the Sun's Uneyzat, so she may become a friend to you and a wife to him."
+Sentence: Nesä kidbeqor eƛin, yedu t’umi dey yoł, xizor dey däqor neƛƛin.
+Gloss: DEM1.ISG.OBL-ERG girl-POSS.LAT say-PST.UNW DEM2.IISG pigeon me-GEN1 be back me-GEN1 me-POSS.LAT give-QUOT
+Translation: He said to the girl: "That pigeon is mine; give it back to me!"

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: debeq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": debeq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word debeq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanä hemedurtow pakmos ʕabasin cuƛer kurno eƛinosi, Kusagon mesedyos ʕabasin cuƛer kurno eƛin, k’ešonad mi, mesedyos ʕabasi, dunyalƛ’o debeq roqxanusi šebintow anuƛin.
+Gloss: khan-ERG so-EMPH copper-GEN1 coin-TOP upward throw-PFV.CVB say-ANT.CVB Kusa-CNTR gold-GEN1 coin-TOP upward throw-PFV.CVB say-PST.UNW play you gold-GEN1 coin world-SUPER.ESS you-POSS.ESS IV-become-NEG.PRS.PRT thing-EMPH be.NEG-QUOT
+Translation: When the king threw the copper coin upward and said his phrase, Kusa threw up the golden coin up and said: "Play, golden coin, there is nothing in the world that you couldn't become!"
+Sentence: Roqnäy däł xizay rexadanix sadaq’ałer ħonƛ’äy bˤeƛ’ rowan ik’an, elazay aynosi, debeq žan esanƛin.
+Gloss: IV-happen-CND.CVB me-CONT.ESS behind III.PL-slaughter-MSD-AD.ESS alms-CONT.LAT mountain-SUPER.ABL sheep III.PL-bring-FUT.CVB go-FUT.DEF here-IN.ABL.DIST come-ANT.CVB you-POSS.ESS DEM1.SG-TOP tell-FUT.DEF-QUOT
+Translation: "In that case, I will go and bring the sheep from the mountain for slaughtering them for alms behind me(?), and when I come back here, I will tell it to you."
+Sentence: Dey qoqoƛu łinaƛ’ rägiru riya retin resunäy, esan debeq di.
+Gloss: me-GEN1 laughter what.OBL-SUPER.ESS IV-be.emitted-PST.PRT IV-know-INF IV-want-PFV.CVB IV-exist-CND.CVB tell-FUT.DEF you-POSS.ESS me
+Translation: If it is the case that you want to know what I laughed about, I'll tell you.
+
+Approximate Matches:
+Sentence: Yizä nesi užiq esirno, debeqkin ana xaner daruyarsi reƛ, nełas siskin t’it’u anusi xizor butanix bˤuƛ’xo eliƛin.
+Gloss: DEM2.IPL-ERG DEM1.ISG.OBL boy-POSS.ESS ask-PST.UNW you-POSS.ESS-even be.NEG-Q khan-LAT medicine-LAT-ATTR meat DEM1.IISG.OBL-GEN1 any piece be.NEG-ATTR back I.PL-return-MSD-AD.ESS I.PL-be.afraid-PRS we-QUOT
+Translation: They asked that boy: "Do you not have a meat for medicine for the king? We are afraid to return without any piece."
+Sentence: ƛirbas nediw bažarin bukayn, dibirä eƛin, yiła ʕaƛa xanłi roda ray debeqƛin.
+Gloss: guest-GEN1 such skill-TOP III-see-PFV.CVB imam-ERG say-PST.UNW DEM2.IISG.OBL village-IN.ESS khanship IV-do-INF IV-must you-POSS.ESS-QUOT
+Translation: Having seen this kind of skill of his guest, the imam said: "You must become king in this village!"
+Sentence: Ismaʕilä bašiqay roɣno bašiqˤoy teƛno yeženiqor, enda xanez kidbeqor teƛa bažarizi raqä debeqƛin.
+Gloss: Ismail-ERG finger-POSS.ABL IV-take.away-PFV.CVB ring give-PFV.CVB II-old-DEF-POSS.LAT DEM3b.SG khan-GEN2 daughter-POSS.LAT give-INF able IV-become-Q you-POSS.ESS-QUOT
+Translation: Ismail took a ring from his finger and gave it to the old woman: "Could you give it to the king's daughter?"

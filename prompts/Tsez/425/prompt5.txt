@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word cey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word cey: 
+
+Exact Matches
+Sentence: K’ox äƛirugon bełiqu ƛ’irin zowerno, cey raładyoƛ’aza boržizi boqno.
+Gloss: twice ORD-CNTR hunter above-TOP seat-PFV.CVB eagle sea-SUPER.VERS.DIST flight III-become-PST.UNW
+Translation: A second time the eagle seated the hunter above and flew towards the sea.
+Sentence: Hemedur k’ox bizin cey soder hawaƛ’ay wˤałer uži kuranix.
+Gloss: so twice III-get.up-PST.UNW eagle upward air-SUPER.ABL downward-LAT boy throw-MSD-AD.ESS
+Translation: So he got upward into the air a second time to throw the boy downward.
+Sentence: Zira iqäru žoyä ceyz tupi caƛinosi, igo yałru ariƛ’no c’oxno, cey k’ek’-bik’noanu.
+Gloss: fox-ERG find-PST.PRT boy-ERG eagle-GEN2 rifle shoot.with-ANT.CVB near be-PST.PRT branch-SUPER.ESS-TOP hit-PFV.CVB eagle move-PFV.CVB-NEG
+Translation: The boy that the fox had found, shot the eagle with his rifle and hit a branch that was near, the eagle didn't move.
+
+Approximate Matches:

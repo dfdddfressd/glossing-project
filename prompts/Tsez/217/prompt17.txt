@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yayrun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yayrun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yayrun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža kaɣat yayrun, Ražbadinno, barun Telawäɣor halmaɣdäɣor bik’ix.
+Gloss: DEM1.SG letter II-come-IMM.ANT.CVB Razhbadin-and wife-and Telavi-IN.VERS friend-APUD.VERS I.PL-go-PRS
+Translation: Right after the letter arrived, Razhbadin and his wife went to Telavi to their friend.
+Sentence: Kid neside igor yayrun, užä nełqay ħošos šeƛ’un roɣno mesedyos bašiqˤoy ernosi, adäyzoƛ’aygon bercinaw ža užir yukayn.
+Gloss: girl DEM1.ISG.OBL-APUD.ESS near-LAT II-come-IMM.ANT.CVB boy-ERG DEM1.IISG.OBL-POSS.ABL hide-GEN1 clothing-TOP IV-take.away-PFV.CVB gold-GEN1 ring put-ANT.CVB earlier-ATTR.OBL-SUPER.ABL-CNTR beautiful DEM1.SG boy-LAT II-see-PST.UNW
+Translation: When the girl came to him, the boy took off her hide-clothes and put the golden ring on her, and the boy saw that she was much more beautiful than before.
+Sentence: Eniw yayrun uži exura k’oƛin.
+Gloss: mother II-come-IMM.ANT.CVB boy kill-INF jump-PST.UNW
+Translation: As soon as the mother came, she jumped to kill the boy.
+
+Approximate Matches:
+Sentence: Idur yayruntow yiła eƛin, xexłiƛ’ babiya mi goƛ’ixƛin.
+Gloss: home-LAT II-come-IMM.ANT.CVB-EMPH DEM2.IISG.OBL-ERG say-PST.UNW urgence-SUPER.ESS dad-ERG you invite-PRS-QUOT
+Translation: Right after she came [to his] home, she said: "My father invites you urgently!"
+Sentence: Mi saɣ yayruni kid däz žax yaqˤuł yowxƛin, xanä madał adäzar boɣno berten.
+Gloss: you cure II-do-PST.PRT-DEF girl me-GEN2 son-AD.ESS today II-bring-PRS-QUOT khan-ERG yard-CONT.ESS before-IN.LAT III-take.away-PFV.CVB marriage
+Translation: "My son marry today that girl, you are cured," and khan moved the wedding into the yard.

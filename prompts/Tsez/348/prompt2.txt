@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word haqar in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word haqar: 
+
+Exact Matches
+Sentence: Q’ʷˤaɣˤƛin eƛin bitor bezunosi nełaz haqar reƛ kurxo zowno, q’ʷˤaɣˤƛin eƛin ninor bezunosi iyos zok’i et’xo zowno nesä nełaz haqa.
+Gloss: screak-QUOT say-PFV.CVB thither III-look-ANT.CVB DEM1.IISG.OBL-GEN2 mouth-IN.LAT meat throw-IPFV.CVB be.NPRS-PFV.CVB screak-QUOT say-PFV.CVB hither III-look-ANT.CVB blood-GEN1 mug pour-IPFV.CVB be.NPRS-PST.UNW DEM1.ISG.OBL-ERG DEM1.IISG.OBL-GEN2 mouth-ERG
+Translation: When the eagle screaked and looked to the one side, Aliqilich threw the meat into the eagle's mouth; when he screaked and looked to the other side, he poured the mug with the blood into his mouth.
+Sentence: Elaz egin oqanƛin zawru yeda iħułxor ʕoƛ’un ik’in besuroz haqar keze oqno.
+Gloss: there-IN.ESS.DIST go.into-PFV.CVB become-FUT.CVB-QUOT be.NPRS-PST.PRT DEM2.ISG river-CONT.VERS fall-PFV.CVB go-PFV.CVB fish-GEN2 mouth-IN.LAT meet become-PST.UNW
+Translation: He was about to go that way, but fell into the river and into the jaws of a fish.
+Sentence: Ačqˤaynosi ceyä q’ˤʷa-q’ˤʷaƛin eƛinosi, užä ozäy mowt’a yoƛ’ˤurxo zown ceyz haqar.
+Gloss: be.thirsty-ANT.CVB eagle-ERG krwa-krwa-QUOT say-ANT.CVB boy-ERG eye-IN.ABL tear-DISTR II-fall-CAUS-IPFV.CVB be.NPRS-PST.UNW eagle-GEN2 mouth-IN.LAT
+Translation: When the thirsty eagle said "krwa-krwa", the boy let tears fall down from his eyes into the eagle's mouth.
+
+Approximate Matches:
+Sentence: Mi rac’no resunč’inäy, ezur di haqarƛin, ƛ’iri Bac’ali utin.
+Gloss: you III.PL-eat-PFV.CVB IV-exist-NEG.FUT.CVB-CND.CVB look-CAUS me mouth-IN.LAT-QUOT above Batsali turn-PST.UNW
+Translation: "If it's not the case that you have eaten them, let me look into your mouth!", Batsali insisted.

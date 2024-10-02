@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word guluƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word guluƛ: 
+
+Exact Matches
+Sentence: Aždaħes yaqru nˤoƛun łacqo yižirno, nełas zawru šinaw xazina mesedno bižin, Baxumesedun guluƛ’ zowrno Kidiro Žabulawder ik’in.
+Gloss: dragon-GEN1 II-become-PST.PRT ashes-TOP wind-POSS.ESS II-carry-CAUS-PFV.CVB DEM1.IISG.OBL-GEN1 be.NPRS-PST.PRT every treasure gold-and III-carry-PFV.CVB Bakhumesed-and horse-SUPER.ESS seat-PFV.CVB Kidero Jabulaw-APUD.LAT go-PST.UNW
+Translation: He let the wind carry away ashes of the dragon, took all the gold from its treasures, seated Bakhumesed on a horse, and went to Jabulaw in Kidero.
+Sentence: Xexłiƛ’ k’oƛin babiwderno yik’in, hemesi tusnaq’äzo užir teƛxa mi izmu guluƛ’ zowanirƛin, nełaq eƛin rok’äłrun, xan kid žek’anixƛin iza oqno.
+Gloss: quickness-SUPER.ESS run-PFV.CVB father-APUD.LAT-TOP II-go-PFV.CVB DEM4.ISG.OBL prison-IN.ESS-ATTR.OBL boy-LAT give-IPFV.CVB-Q you permission horse-SUPER.ESS ride-MSD-LAT-QUOT DEM1.IISG.OBL-POSS.ESS say-PFV.CVB IV-escape-IMM.ANT.CVB khan daughter beat-MSD-AD.ESS-QUOT get.up-INF begin-PST.UNW
+Translation: She quickly ran to her father, and when the words "Do you give the permission that the boy in prison can ride the horse?" broke out of her, the king got up to slap his daughter.
+Sentence: Di guluƛ’ zowan, mi däde sadaq zownäyƛin”.
+Gloss: me horse-SUPER.ESS be.NPRS-FUT.DEF you me-APUD.ESS together ride-CND.CVB-QUOT
+Translation: "I will ride that horse, if you ride together with me".
+
+Approximate Matches:
+Sentence: Xizaɣor ža ayaniqaysi rok’un roč’iłno, guluƛ’no zown iduɣor ik’in.
+Gloss: finally DEM1.SG come-MSD-POSS.ABL-ATTR heart-TOP frost-CONT.ESS-TOP horse-SUPER.ESS-TOP ride-PFV.CVB home-IN.ALL go-PST.UNW
+Translation: Finally he lost hope that he would come, and rode home on the horse.
+Sentence: Xizaɣor užiq ža muk’urno yoqno, yisiz guluƛ’no zown bik’in.
+Gloss: finally boy-POSS.ESS DEM1.SG persuade-PFV.CVB II-become-PFV.CVB DEM2.ISG.OBL-GEN2 horse-SUPER.ESS-TOP ride-PFV.CVB I.PL-go-PST.UNW
+Translation: Finally she became persuaded by the boy and they both sat on his horse and they went away.
+Sentence: Bisno yaraɣno, guluƛ’no zown yeda buq boƛäxzaɣor ik’iƛ’orey, ayn sida beže ʕaƛar.
+Gloss: III-take-PFV.CVB weapon-TOP horse-SUPER.ESS-TOP be.NPRS-PFV.CVB DEM2.ISG sun III-appear-LCV-IN.VERS go-SIM.CVB come-PST.UNW one.OBL III-big village-IN.LAT
+Translation: He took the weapon, sat on the horse and when he rode towards the sunrise, he came into a big village

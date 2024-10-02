@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Hudayƛ’ayzoni.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Hudayƛ’ayzoni
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Hudayƛ’ayzoni:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hudayƛ’aygon maduhalłiqozoni xanä begirno q’ˤano gulu bayrno nasi yizałäy ʕoloqanaw, nasi ečru yałru bat’a boda koƛ’inč’inäy, di dowde dandir ƛˤori boda yołƛin.
+Gloss: on.the.next.day neighbourhood-POSS.ESS-ATTR.OBL-DEF khan-ERG III-let-PFV.CVB two horse III-bring-PFV.CVB which DEM2.IIPL.OBL-CONT.ABL young which old be-PST.PRT seperation III-do-INF understand.to-NEG.FUT-CND.CVB me you-APUD.ESS towards war III-do-INF be-QUOT
+Translation: On the next day, the neighboring king had two horses be brought to him, [saying:] "If you don't know how to find out which of them is young and which is old, I will make war on you!"
+Sentence: Hudayƛ’aygon hemedurtow ročyoxno icin egirnosi, ƛ’iri yałruni bełiqanzas q’ut’i boqno, žigoƛ’ay roč k’ek’erłin ela ža izirač’inƛin.
+Gloss: on.the.next.day so-EMPH rope-AD.ESS-TOP tie-PFV.CVB let-ANT.CVB above be-PST.PRT-DEF hunter-PL-GEN1 agreement III-become-PFV.CVB again-SUPER.ABL rope move-CAUS-CNC.CVB we(I).OBL-ERG DEM1.SG lift-NEG.FUT.DEF-QUOT
+Translation: The next day[time?], when they let him [down], tied to the rope, the hunters that were above, agreed: "When he moves the rope again, we won't lift him up."

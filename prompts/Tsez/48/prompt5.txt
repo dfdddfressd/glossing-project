@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: adäzno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": adäzno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word adäzno:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nesił xizay ʕiyayn, däzno ozzałäy kanłi bissi, uyn ečriłsiƛin, babiya zigara boɣno.
+Gloss: DEM1.ISG.OBL-CONT.ESS behind cry-PFV.CVB me-GEN2-TOP eye-PL-CONT.ABL light III-take-PST.WIT indeed-TOP get.old-PST.WIT-QUOT dad-ERG complaint III-take.away-PST.UNW
+Translation: I bemoaned his loss, and lost my eyesight; I indeed got old.", complained the father.
+Sentence: Xizyogon kidbezno, debezno, däzno čuret’no bok’no, ħolaq’awt’a ʕomoybin rodin, ža čuret’ nˤoƛał buqˤan łärnokin bäsunč’iza.
+Gloss: then daughter-GEN2-TOP you-GEN2-and me-GEN2-and whip-TOP III-beat-PFV.CVB thin-DISTR donkey-PL-TOP III.PL-do-PFV.CVB DEM1.SG whip ashes-CONT.ESS III-hide-FUT.DEF who.OBL-LAT-TOP-even III-find-NEG.FUT-LCV.CVB
+Translation: Then with the beats of our daughter's, your and my whip, we will turn into thin donkeys and hide the whip in the ashes where no one can find it.
+Sentence: Hemełƛ’o ceyä eƛin, hi debi deber k’onč’aƛ’osi reƛno, yedun yałza caƛo, ƛ’irigon debez min zam-zames łi riħo, däzno hemedurtow riħoƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS eagle-ERG say-PST.UNW take.IMP you-GEN1 you-LAT leg-SUPER.ESS-ATTR meat-TOP DEM2.IISG-TOP be-LCV.CVB stick-IMPR above-CNTR you-GEN2 you-TOP Zam-Zam-GEN1 water IV-smear-IMPR me-GEN2-TOP so-EMPH IV-smear-IMPR-QUOT
+Translation: Then the eagle said: "Take the meat of your own leg and stick it where it used to be! And smear holy water on yours and smear it also on mine."

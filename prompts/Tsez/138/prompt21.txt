@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ʕaƛaɣorno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ʕaƛaɣorno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ʕaƛaɣorno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizor utin Pat’imatno yižin nesä nesiz ʕaƛaɣorno ik’in, mi däƛ’ay ʕaq’ilawn, c’odorawn zownƛin xanłin nełaqor teƛno žan paraxat ičin.
+Gloss: back turn.back-PFV.CVB Fatima-TOP II-lead-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 village-IN.VERS-TOP go-PST.UNW you me-SUPER.ABL intelligent-and clever-and be.NPRS-PST.UNW-QUOT khanate-TOP DEM1.IISG.OBL-POSS.LAT give-PST.UNW DEM1.SG-TOP calmly live-PST.UNW
+Translation: He returned with Fatima into his own village: "You are more intelligent and cleverer than me!", gave her the kingdom and lived calmly ever after.
+Sentence: Xalq’ima ža gamušyozaq ƛisirno ʕaƛaɣorno yižin, žeda žedus c’ik’iw ʕaƛno kušin, neł c’iɣuƛ’ ƛ’iri bodin.
+Gloss: people-ERG DEM1.SG buffalo-PL-POSS.ESS pull-CAUS-PFV.CVB village-IN.VERS-and II-carry-PFV.CVB DEM1.IPL-ERG DEM1.IPL.OBL-GEN1 entire village-and demolish-PFV.CVB DEM1.IISG.OBL shoulder.blade-SUPER.ESS above III-do-PST.UNW
+Translation: The people made the buffalo pull it into the village, demolished their entire village and rebuilt it on the shoulder.blade.
+Sentence: Q’ʷarʕelyoƛ’ sida ʕaƛaɣorno ik’in, xizor utin nexƛ’oräy, nesił dandir nesistow ʕaƛasi Aħmadƛin sis ʕoloqanaw uži keze oqno.
+Gloss: need-SUPER.ESS one.OBL village-IN.VERS-TOP go-PFV.CVB back return-PFV.CVB come-SIM.CVB DEM1.ISG.OBL-CONT.ESS towards DEM1.ISG.OBL-GEN1-EMPH village-RES.PRT Akhmed-QUOT one young boy meet become-PST.UNW
+Translation: When he went to a village out of need and came back, he met a young boy named Akhmed from his village.
+
+Approximate Matches:
+Sentence: Nesis ozuri roƛa rutirzaƛ’, ʕaƛaɣor žamaʕatyoƛ’or xabar begirno, däz ozäɣor räk’iru šebi eƛa räynč’iru šebin roɣʷa horoƛin.
+Gloss: DEM1.ISG.OBL-GEN1 eye IV-be.sick-INF IV-turn-CSL.CVB village-IN.VERS population-SUPER.LAT story III-send-PFV.CVB me-GEN2 eye-IN.VERS IV-go-PST.PRT what say-INF IV-know-NEG.FUT-PST.PRT thing IV-take.away-INF come.IMPR-QUOT
+Translation: Because his eye got hurt, he told it to the people in the village, "Something I don't know came into my eye; come and take it out!"
+Sentence: Ħusenä elo q’ˤiryoł c’eruc’an riƛ’irno, nełqorno eƛin, di guluzał xizay ʕaƛaɣor ik’ix.
+Gloss: Hussein-ERG there floor-CONT.ESS bow-TOP IV-plunge-PFV.CVB DEM1.IISG.OBL-POSS.LAT-TOP say-PST.UNW me horse-PL-CONT.ESS behind village-IN.VERS go-PRS
+Translation: Hussein plunged the bow on the floor there and said to her: "I am going to the village for horses.
+Sentence: Sidaƛ’or rutirno žan babiw ʕaƛaɣor ik’in.
+Gloss: one.OBL-SUPER.LAT IV.PL-gather-PFV.CVB DEM1.SG-TOP father village-IN.VERS go-PST.UNW
+Translation: The father gathered everything together and went into the village.

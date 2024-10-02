@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Q’ˤano in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Q’ˤano: 
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Haq’uł q’ˤano buci boɣnosi, eniya daʕba bičirno yiłał, debez mi ɣˤutkoƛ’or yuti, xedyor rätinč’iƛin.
+Gloss: family-CONT.ESS two month III-spend.time-ANT.CVB mother-ERG dispute III-be-CAUS-PFV.CVB DEM2.IISG.OBL-CONT.ESS you-GEN2 you house-SUPER.LAT II-turn.back husband-LAT IV-love-NEG.FUT-QUOT
+Translation: After spending two months at her family's, the mother had up a dispute with her: "Go back to your house and your husband won't like it."
+
+Approximate Matches:
+Sentence: Hemedur yeda zawzay, pandurya tełäzay q’ˤanoquno oc’ino łelaw, q’ˤanoquno oc’ino guluƛ’no zown saldatbi boƛixno.
+Gloss: so DEM2.ISG be.NPRS-SIM.CVB lute inside-IN.ABL.DIST forty-TOP ten by.foot forty-TOP ten horse-SUPER.ESS-TOP be.NPRS-PFV.CVB soldier-PL I.PL-appear-PST.UNW
+Translation: When he was like this, 50 soldiers by foot and 50 soldiers on horses appeared out of the lute.
+Sentence: Daʕba łiyranixƛin žedu q’ˤanon xander bik’in.
+Gloss: dispute finish-MSD-AD.ESS-QUOT DEM1.IPL two-TOP khan-APUD.LAT I.PL-go-PST.UNW
+Translation: In order to resolve the dispute, they both went to the king.
+Sentence: Neširu beciƛ’ q’ˤanon maħorno boqno, t’akanno yisno užä eƛin, ulkałkin anunč’uruq’aw, xanbin, wazirbin bišxosi, riguƛ’ay rigu teł šebin yołäsi magazin roqoƛƛin.
+Gloss: evening moon-SUPER.ESS two-TOP outside-TOP I.PL-become-PFV.CVB glass-TOP II-take-PFV.CVB boy-ERG say-PFV.CVB country-CONT.ESS-even be.absent-NEG.PST.WIT-PST.PRT-EQU2 khan-PL-TOP vizier-PL-TOP I.PL-eat-PRS.PRT IV-good-SUPER.ABL IV-good inside thing be-RES.PRT shop IV-become-OPT-QUOT
+Translation: In the evening by moonlight, the two got outside and the boy took the glass and said: "May there be a shop where the best things are in, which the kings and viziers eat...."

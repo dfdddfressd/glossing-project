@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: qidoq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": qidoq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word qidoq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Idur yaynosi, xedyoz eniya, qidoq tungi bok’oƛin yiłqor eƛinosi, bok’no neła qidoq.
+Gloss: home-LAT II-come-ANT.CVB husband-GEN2 mother-ERG wall-POSS.ESS copper.jug III-beat-IMPR-QUOT DEM2.IISG.OBL-POSS.LAT say-ANT.CVB III-beat-PFV.CVB DEM1.IISG.OBL-ERG wall-POSS.ESS
+Translation: After she came home, the husband's mother said to her: "Strike the jug against the wall." and she struck it against the wall.
+Sentence: Idur yaynosi, xedyoz eniya, qidoq tungi bok’oƛin yiłqor eƛinosi, bok’no neła qidoq.
+Gloss: home-LAT II-come-ANT.CVB husband-GEN2 mother-ERG wall-POSS.ESS copper.jug III-beat-IMPR-QUOT DEM2.IISG.OBL-POSS.LAT say-ANT.CVB III-beat-PFV.CVB DEM1.IISG.OBL-ERG wall-POSS.ESS
+Translation: After she came home, the husband's mother said to her: "Strike the jug against the wall." and she struck it against the wall.
+
+Approximate Matches:
+Sentence: Łinasnokin pikru boynč’ey, esnabi ɣˤulabi caƛix qidobi kuša boqno.
+Gloss: what.OBL-GEN1-TOP-even idea III-do-NEG.PST.CVB brother-PL stone-PL throw-IPFV.CVB wall-PL demolish-INF I.PL-begin-PST.UNW
+Translation: Without thinking, the brothers began demolishing the wall by throwing stones.
+Sentence: Neširu idur aynosi, qidozaq rixäsi xaličabin, butnin bukaynosi haqa ogun ƛexun.
+Gloss: evening home-LAT come-ANT.CVB wall-PL-POSS.ESS III.PL-hang-RES.PRT mat-PL-and burka-and III-see-ANT.CVB mouth-ERG gape-PFV.CVB remain-PST.UNW
+Translation: In the evening, when he came home and saw the mats hanging on the wall and the burka, his mouth gaped.

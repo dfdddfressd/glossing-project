@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Beqes in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Beqes: 
+
+Exact Matches
+Sentence: Riqixa hudu yisiq beqes rešambi?
+Gloss: IV.PL-get-PRS-Q so DEM2.ISG.OBL-POSS.ESS sun-GEN1 ray-PL
+Translation: How could he get the sunrays like this?
+Sentence: Neła ƛuza radiru qˤodaza beqes rešambi c’oxno.
+Gloss: DEM1.IISG.OBL bone-ERG IV-do-PST.PRT hole-IN.VERS.DIST sun-GEN1 ray-PL hit-PST.UNW
+Translation: Through the hole that the bone had made, the sun's ray shined.
+
+Approximate Matches:

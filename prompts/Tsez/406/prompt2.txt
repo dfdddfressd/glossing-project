@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word äƛirugon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word äƛirugon: 
+
+Exact Matches
+Sentence: Ɣˤutkun, ƛen rodin łiyzaƛ’, žoyä eniw k’ox äƛirugon kidno esirno xander yegirno.
+Gloss: house-and bridge-and III.PL-do-PFV.CVB end-CSL.CVB boy-ERG mother twice ORD-CNTR girl-TOP ask-PFV.CVB khan-APUD.LAT II-send-PST.UNW
+Translation: When the house and the bridge were finished, the boy sent his mother to the king a second time to ask for the girl.
+Sentence: Q’ˤano äƛirugon nesä žaqay ɣˤurušno yisno, mi qˤišodäy soder ħon xäcinƛin, ʕaq’lun bodin.
+Gloss: two ORD-CNTR DEM1.ISG.OBL-ERG boy-POSS.ABL ruble-TOP II-take-PFV.CVB you at.noon-IN.ABL after mountain leave-PROHIB-QUOT advice-TOP III-do-PST.UNW
+Translation: For the second time he took a ruble from the boy and gave him the advice: "Don't go up the mountain after it got dark!"
+Sentence: K’ox äƛirugon bełiqu ƛ’irin zowerno, cey raładyoƛ’aza boržizi boqno.
+Gloss: twice ORD-CNTR hunter above-TOP seat-PFV.CVB eagle sea-SUPER.VERS.DIST flight III-become-PST.UNW
+Translation: A second time the eagle seated the hunter above and flew towards the sea.
+
+Approximate Matches:
+Sentence: Hemełƛ’o kidbä eƛin, nediw hunar yołäsi t’or siskin uži ayäsi zownč’uƛin, uyraxäƛirugon ʕuqła yeda egirnäy rigu räči yisirƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS girl-ERG say-PFV.CVB such talent be-RES.PRT here-LAT anyone boy come-RES.PRT be.NPRS-NEG.PST.WIT-QUOT four-IPFV.CVB-ORD-CNTR hide-INF DEM2.ISG let-CND.CVB IV-good IV-remain DEM2.ISG.OBL-LAT-QUOT
+Translation: The girl broke in, "None of the boys with such potentials came here. It will be good to let him hide for the fourth time."
+Sentence: Łoxäƛirugon xanä ʕaq’lus xalq’i sadaqor butirnosi, Kusa mesedyos ʕabasin yižin elor ik’in.
+Gloss: thrice-ORD-CNTR khan-ERG advice-GEN1 people together-LAT I.PL-gather-ANT.CVB Kusa gold-GEN1 coin-TOP II-carry-PFV.CVB there-LAT go-PST.UNW
+Translation: When the king gathered his advisors for the third time, Kusa carried a golden coin with himself.

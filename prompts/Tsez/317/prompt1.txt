@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Mečołer in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Mečołer: 
+
+Exact Matches
+Sentence: Aħozä eƛin, adäz di bˤeƛ’ žek’uz mečołer regirxo zowsƛin, neła howži bišʷa rac’akin utik’xanu gugyoq roqłin.
+Gloss: shepherd-ERG say-PST.UNW before me sheep man-GEN2 field-CONT.LAT III.PL-send-IPFV.CVB be.NPRS-PST.WIT-QUOT DEM1.IISG.OBL-ERG now food IV-eat-INF-even have.time-IPFV.CVB-NEG back-POSS.ESS IV-become-CNC.CVB
+Translation: The shepherd said: "I sent the sheep to another man's field before, that's why I don't have time to eat food, although it's on my back."
+
+Approximate Matches:
+Sentence: Mečołer raynosi, boƛƛo baq’ˤu zaman bik’izaƛ’ortow, zira im-m-m-m, im-m-m-mƛin eƛin.
+Gloss: field-CONT.LAT III.PL-come-ANT.CVB III-middle III-much time I.PL-go-POST.CVB-EMPH fox-ERG mhmhmh mhmhmh-QUOT say-PST.UNW
+Translation: After coming to the field, not much time passed until the fox said: "Mhmhmh, mhmhmh!"

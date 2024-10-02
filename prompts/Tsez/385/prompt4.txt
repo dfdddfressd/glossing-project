@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word k’edin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word k’edin: 
+
+Exact Matches
+Sentence: Sida zamanał ža maħor oqno, nesä nesir eynodanix močin k’edin.
+Gloss: one.OBL time-CONT.ESS DEM1.SG outside become-PST.UNW DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT work-MSD-AD.ESS place-TOP search-PFV.CVB
+Translation: After some time, he went out and searched a place for himself to work.
+Sentence: Hemedur neła ɣˤanaza k’edin, bercinaw, q’ˤimaku kid doxturä yown.
+Gloss: so DEM1.IISG.OBL woman-ERG search-PFV.CVB beautiful grown.up girl doctor-ERG II-marry-PFV.CVB
+Translation: So and so, that woman found a beautiful girl for the doctor and he married.
+Sentence: Xizyo ža c’ohor k’edin esuranix di ƛ’iri risxo, daruyar ħumukulis reƛ där retinƛin iduzan yaħnaynƛin.
+Gloss: afterwards DEM1.SG thief search-PFV.CVB find-MSD-AD.ESS me above IV-take-IPFV.CVB medicine-LAT camel-GEN1 meat me-LAT IV-want-PST.UNW-QUOT home-PL-IN.ESS-TOP II-walk.around-PST.UNW-QUOT
+Translation: Afterwards I will take actions to search and find the thief, walking around the homes [saying] that I want camel meat for a medicine."
+
+Approximate Matches:
+Sentence: Naysinan k’edinosi, aɣˤuz kobora uqˤłäsi Q’arum esun.
+Gloss: everywhere search-ANT.CVB mill-GEN2 granary-IN.ESS hide-RES.PRT Qarum find-PST.UNW
+Translation: After they had searched everywhere, they found Qarum hiding in the mill's granary.

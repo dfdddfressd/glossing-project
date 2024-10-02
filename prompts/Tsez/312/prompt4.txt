@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word gagaru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word gagaru: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Zamanaƛ’azay bak’arizin boqno ʕagarłisno, ʕaƛosno ʕoloqbin bayn, reƛ’ibin ricin bexuranixƛin bižiƛ’oräy užä eƛin, mežur šebintow riynč’ey šida eli bexura bižix.
+Gloss: time-SUPER.ABL.DIST gathering-TOP III-become-PFV.CVB relatives-GEN1-and village-GEN1-and young.person-PL-TOP III-come-PFV.CVB hand-PL-TOP IV.PL-tie-PFV.CVB I.PL-kill-MSD-AD.ESS-QUOT I.PL-take.out-SIM.CVB boy-ERG say-PST.UNW you(I).PL.OBL-LAT thing-EMPH IV-know-NEG.PST.CVB why we I.PL-kill-INF I.PL-take.out-PRS
+Translation: After some time, the young persons from the relatives and the village came together, bandaged their hands and while they took them out to kill them, the boy said: "Why are you taking us out to kill us without knowing anything?!
+Sentence: Yisis q’ˤano dandi ʕagaraw žek’u zown ƛexasi, babiws esiwn, nesis kid yisis yacʕalno.
+Gloss: DEM2.ISG.OBL-GEN1 two only related man be.NPRS-PFV.CVB remain-RES.PRT father-GEN1 brother-and DEM1.ISG.OBL-GEN1 daughter DEM2.ISG.OBL-GEN1 female.cousin-and
+Translation: He had only two relatives remaining, the father's brother and his daughter, his cousin.
+Sentence: Neła quł sasaqtow moƛaxayn bizin, ixinno risno, q’ˤanon gagalazał xizay ħonƛ’aɣor boqno.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH sleep-AD.ABL-TOP I.PL-get.up-PFV.CVB bag-TOP IV-take-PFV.CVB two-TOP flower-PL-CONT.ESS behind mountain-SUPER.VERS I.PL-become-PST.UNW
+Translation: The next morning, the two of them got up from their sleep, took a back and went to the mountain for flowers.

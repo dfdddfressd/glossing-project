@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šebin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šebin: 
+
+Exact Matches
+Sentence: Siryos bet’erhanä q’ʷaridno oqno sadaq šebin ik’in ec’noni xanzo baruq esin.
+Gloss: mare-GEN1 master-ERG sadness-TOP become-PFV.CVB all thing go-PFV.CVB new-DEF khan-ATTR.OBL wife-POSS.ESS tell-PST.UNW
+Translation: The mare's master became sad and told the king's new wife how all the things happened.
+Sentence: Sis gut’ riłe šebin rukayxƛin, eƛin bełiqanä.
+Gloss: one smoke IV-as thing IV-see-PRS-QUOT say-PST.UNW hunter-ERG
+Translation: "I see something like smoke.", said the hunter.
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+
+Approximate Matches:
+Sentence: Xanes kidgon ʕiyayxtow ʕiyayx yičäsi zown roda šebinon łaħin.
+Gloss: khan-GEN1 daughter-CNTR cry-IPFV.CVB-EMPH cry-IPFV.CVB II-be-RES.PRT be.NPRS-PFV.CVB IV-do-INF something forget-PST.UNW
+Translation: The king's daughter, who was just crying and crying, didn't know what to do.
+Sentence: Haqayn roɣno ža ƛuza Ismaʕila akiq karu šebinon rˤołun maħor roɣno rižirno.
+Gloss: mouth-IN.ABL-TOP IV-take.away-PFV.CVB DEM1.SG bone Ismail-ERG window-POSS.ESS throw-PST.PRT something drill-PFV.CVB outside IV-take.away-PFV.CVB IV-take.out-CAUS-PST.UNW
+Translation: Ismail took that bone out of his mouth and threw it outside, where it bored itself through the window and everything.
+Sentence: Debez čanyazaƛ’ č’aq’ˤäsianu diƛin, zira eƛin, deber bukayxana di ħežƛ’azay qizanyor šebinno rižin bik’ixƛin.
+Gloss: you-GEN2 she.goat-PL-SUPER.ESS fall.down-RES.PRT-NEG me-QUOT fox-ERG say-PST.UNW you-LAT III-see-IPFV.CVB-NEG-Q me hajj-SUPER.ABL.DIST family-LAT thing-TOP IV-carry-PFV.CVB III-go-PRS-QUOT
+Translation: "I didn't assault your goat," said the fox, "don't you see I am coming from the hajj with things for my family?"

@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: t’it’i-yeč’no.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": t’it’i-yeč’no
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word t’it’i-yeč’no:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Qˤirič’yogon k’emot’ya teł zawru nasin šeƛ’u t’it’i-reč’no.
+Gloss: scissors-CNTR wooden.case-IN.ESS inside be.NPRS-PST.PRT all clothing IV-cut.into.pieces-PST.UNW
+Translation: But the pair of scissors cut all the clothes that were inside the wardrobe into pieces.
+Sentence: Yisägon roɣno mač’an tełäza aždaħno t’it’i-beč’no, axaza egin maħorno oqno nełas q’ˤim ret’urno kurno.
+Gloss: DEM2.ISG.OBL-ERG-CNTR IV-take.away-PFV.CVB dagger-TOP inside-IN.VERS.DIST dragon-TOP cut.into.pieces-PFV.CVB belly-IN.VERS.DIST break.apart-PFV.CVB outside-TOP become-PFV.CVB DEM1.IISG.OBL-GEN1 head IV-hack-PFV.CVB throw-PST.UNW
+Translation: He took out his dagger and cut the dragon into pieces from inside, broke him apart from out of the belly, got outside and chopped off its head.

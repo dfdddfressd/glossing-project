@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nesir.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nesir
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nesir:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Eženi esiya eɣeniq reƛ’a caƛix kumak nesir boyx zown, yedakin ok’ełxanaƛin.
+Gloss: old-DEF brother-ERG young-DEF-POSS.ESS hand throw-IPFV.CVB help DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT
+Translation: The older brother was helping giving his hand to the younger one, so at least he might escape.
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.
+Sentence: Neła ža beƛ’q’ˤu bac’anix łet’ix yałrułi nesir čuqˤnosi, c’eruc’a caƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG sheep III-eat-MSD-AD.ESS pick-IPFV.CVB be-MSD DEM1.ISG.OBL-LAT notice-ANT.CVB bow shoot.with-PST.UNW
+Translation: When he noticed that she was picking that sheep in order to eat it, he shot with his bow.
+
+Approximate Matches:
+Sentence: Tawadiz harimoxor Ražbadinä nesirtow hič’č’a eɣeni užin xecin.
+Gloss: Tavadi-GEN2 request-AD.LAT Razhbadin-ERG DEM1.ISG.OBL-LAT-EMPH the.most young-DEF son-TOP leave-PST.UNW
+Translation: According to Tavadi's request, Razhbadin left the youngest son to him.
+Sentence: Sidenägon eƛin, ɣamasno nesirtow xecingon boxinäy, režigon rigu räčiƛin.
+Gloss: the.other.one-ERG-CNTR say-PFV.CVB box-TOP DEM1.ISG.OBL-LAT-EMPH leave-PFV.CVB-CNTR III-run.away-CND.CVB IV-more-CNTR IV-good IV-be-QUOT
+Translation: The other one said, "It is better to leave him the box and run away."
+Sentence: Yigtow ža ƛ’iri yičizaƛ’ riynoxa eƛin: di sabawyabin caxxosianu, šidaƛin eƛiłiri šayt’anza där ʕaq’uba neƛxoƛin, amma dey nesirsi sis daru yołƛin.
+Gloss: II-much-EMPH DEM1.SG above II-remain-CSL.CVB sheikh-ERG say-PST.UNW me amulet-PL-TOP write-PRS.PRT-NEG why-QUOT say-CND.CVB.IRR devil-PL me-LAT torture give-PRS-QUOT but me-GEN1 DEM1.ISG.OBL-LAT-ATTR one medicine be-QUOT
+Translation: But because she insisted so much, the sheikh said: "I don't write a talisman, and if I told you why, the devils would give me torture, but I have one medicine for him."

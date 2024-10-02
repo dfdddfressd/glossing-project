@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word raładyazay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word raładyazay: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Raładyazay xizor utin ayzaƛ’or, yisir ža idu yesun anu.
+Gloss: sea-IN.ABL.DIST back return-PFV.CVB come-POST.CVB DEM2.ISG.OBL-LAT DEM1.SG home II-find-PST.UNW be.NEG
+Translation: When he came back from the sea, he didn't find her at home.

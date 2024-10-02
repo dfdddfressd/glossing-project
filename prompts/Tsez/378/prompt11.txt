@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word tełerno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word tełerno: 
+
+Exact Matches
+Sentence: Ac ħišäsi yesuzaƛ’, ƛ’ˤuƛ’orno bizin, gondun yoɣno, tełerno boqno, łenon užin igin kurno.
+Gloss: door lock-RES.PRT II-find-CSL.CVB roof-SUPER.LAT-TOP III-get.up-PFV.CVB big.hole-TOP II-take.away-PFV.CVB to.the.inside-TOP III-become-PFV.CVB five-TOP son-TOP swallow-PFV.CVB throw-PST.UNW
+Translation: Because it found the door locked, it got onto the roof, made a hole, got inside and gobbled the five sons up.
+Sentence: Xizyo Kusa xanez kidbeden kecno, qˤašiƛ’aɣor kid moƛaq yiqirnosi, elayn izin ɣamasya tełerno oqno, tełäzgon žan ħišin, maq’anyabi rižixosi pelun yexurno.
+Gloss: afterwards Kusa-ERG khan-GEN2 daughter-APUD.ESS-TOP sleep-PFV.CVB dawn-SUPER.VERS girl sleep-POSS.ESS II-stop-ANT.CVB there-IN.ABL-TOP get.up-PFV.CVB box-IN.ESS into-TOP become-PFV.CVB inside-IN.ESS.DIST-CNTR DEM1.SG-TOP lock-PFV.CVB melody-PL III.PL-carry-IPFV.CVB-ATTR pipe-TOP II-kill-PST.UNW
+Translation: Afterwards, when Kusa had slept with the king's daughter, and the girl had stopped sleeping, he got up from there and went into the box, locked it from inside and destroyed the pipes which played the melodies.
+Sentence: Cimyoqaysi xanä ža kid qaciz k’emot’ya tełerno kurno, yoɣno łäłxor yižirno.
+Gloss: malice-POSS.ESS-IN.ABL-ATTR khan-ERG DEM1.SG daughter firewood-GEN2 wooden.case-IN.ESS into-TOP throw-PFV.CVB II-take.away-PFV.CVB water-CONT.VERS II-take.out-CAUS-PST.UNW
+Translation: The malicious king locked his daughter in a wooden chest and let her throw into the river.
+
+Approximate Matches:
+Sentence: Tełerno ik’in, yisä esirno žeduq, di na uqˤäłru iyyä mežurƛin.
+Gloss: into-TOP go-PFV.CVB DEM2.ISG.OBL-ERG ask-PFV.CVB DEM1.IPL.OBL-POSS.ESS me where hide-PST.PRT know-Q you(I).PL.OBL-LAT-QUOT
+Translation: He got into the house and asked them, "Do you know, where I had hidden?"
+Sentence: Tełerno bik’in bezunosi, esnazar ža micxiryos šemno bodin t’et’erxo esun.
+Gloss: to.the.inside-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB brother-PL-LAT DEM1.SG money-GEN1 pile-TOP III-do-PFV.CVB count-IPFV.CVB find-PST.UNW
+Translation: When they went inside and looked, the brothers found him making piles of money and counting it.
+Sentence: Tełerno ik’in babiwqno, kidbeqno esirno yisä, mežur di ukayyä žigoƛ’ayƛin.
+Gloss: into-TOP go-PFV.CVB father-POSS.ESS-TOP daughter-POSS.ESS-TOP ask-PFV.CVB DEM2.ISG.OBL-ERG you(I).PL.OBL-LAT me see-Q again-SUPER.ABL-QUOT
+Translation: He went into the house and asked the father and the daughter, " Did you see me again?"

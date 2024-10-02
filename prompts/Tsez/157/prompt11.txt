@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: tupin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": tupin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word tupin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bazarganzar k’ukyoƛ tupin ħažin, žedudetow sadaq xizor utin nexxo zown ža.
+Gloss: merchant-PL-LAT cap-SUB.ESS rifle-TOP exchange-PFV.CVB DEM1.IPL.OBL-APUD.ESS-EMPH with back return-PFV.CVB come-IPFV.CVB be.NPRS-PST.UNW DEM1.SG
+Translation: Having exchanged the rifle for a cap with the merchants, he returned with them.
+Sentence: Mi däƛ’ay ežen yoł, däzoƛ’aygon rigu tupin yoł debeq, mitow č’aq’ˤirno nesir bižoƛin eƛin, teƛno anu užä ža aɣi xanez nukarqor.
+Gloss: you me-SUPER.ABL old-TOP be me-ATTR.OBL-SUPER.ABL-CNTR IV-good rifle-TOP be you-POSS.ESS you-EMPH kill-PFV.CVB DEM1.ISG.OBL-LAT III-carry-IMPR-QUOT say-PFV.CVB give-PST.UNW be.NEG boy-ERG DEM1.SG bird khan-GEN2 henchman-POSS.LAT
+Translation: "You are older than me and also you have a rifle better than mine, kill one yourself and carry it to him!" the boy said and didn't give the bird to the king's henchman.
+Sentence: Xedya esin, sosi di bełiqur tupiƛ ziya ħažis, xizyo ža tupin teƛno bazarganzaqay k’uk bissi, ža k’ukgon iħay łi ħaƛaƛin wˤałer užinosi, q’ˤimƛ’ay bˤoƛ’un bik’in łiya boɣno bižisƛin.
+Gloss: husband-ERG tell-PST.UNW at.first me hunter-LAT rifle-SUB.ESS cow exchange-PST.WIT afterwards DEM1.SG rifle-TOP sell-PFV.CVB merchant-PL-POSS.ABL cap III-buy-PST.WIT DEM1.SG cap-CNTR river-IN.ABL water drink-INF-QUOT downward-LAT bow.down-ANT.CVB head-SUPER.ABL III-fall-PFV.CVB III-go-PFV.CVB water-ERG III-take.away-PFV.CVB III-carry-PST.WIT-QUOT
+Translation: The husband told: "At first I exchanged the cow for a rifle with a hunter, then I sold the rifle and boughta cap from some merchants, this cap fell down from my head while I was about to drink from the river and the water carried it away."
+
+Approximate Matches:
+Sentence: Yeda nełaƛ’ razi oqinč’izaƛ’, baqru q’ut’imoxor ƛ’irigon yisir gulun, tupingon teƛno.
+Gloss: DEM2.ISG DEM1.IISG.OBL-SUPER.ESS accept become-NEG.FUT-CSL.CVB III-become-PST.PRT agreement-AD.LAT above-CNTR DEM2.ISG.OBL-LAT horse-and rifle-and-CNTR give-PST.UNW
+Translation: Because he didn't accept her and according to the agreement that had been made, they gave him a horse and a gun.

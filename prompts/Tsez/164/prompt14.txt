@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: hiƛun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": hiƛun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word hiƛun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: T’ok’ow roda šebinon koƛ’inč’ey, hisno, hiƛun, ʕoƛ’no, nucosgon bankan bisno, yedu kid beqaɣor yoqno.
+Gloss: anymore IV-do-INF something understand.to-NEG.PST.CVB spring.wool-and comb-and spindle-and honey-GEN1-CNTR jar-and III-take-PFV.CVB DEM2.IISG girl sun-IN.VERS II-become-PST.UNW
+Translation: Not knowing what to do anymore, the girl took the wool, the comb, the spindle and a jar of honey and went into the sun.
+
+Approximate Matches:

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yoxirsiƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yoxirsiƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xediyan di neła bayru q’ut’imoxor izmun neƛno nesi žadaɣor yegirsiƛin.
+Gloss: husband-ERG-TOP me DEM1.IISG.OBL-ERG III-do-PST.PRT agreement-AD.LAT permission-TOP give-PFV.CVB DEM1.ISG.OBL boy-APUD.VERS II-let-PST.WIT-QUOT
+Translation: And my husband let me go to this boy and also gave her the permission to have a (marriage) contract.
+Sentence: ƛ’ˤuƛ’ay łinaƛa haraƛ’ bizirsiƛin, q’orola kid yegirno, šebi elo roqnoƛin yezu-yoƛ’ˤanix.
+Gloss: roof-SUPER.ABL what.OBL-INDEF noise III-lift-PST.WIT-QUOT widow-ERG daughter II-send-PFV.CVB what there IV-happen-PST.UNW-QUOT II-examine-MSD-AD.ESS
+Translation: Because something produced a noise from the roof, the widow sent her daughter to check out what was happening there.
+Sentence: Yisän eli baƛ’irsiƛin, elaygon bitor bazarganbi hunix boqno, waranibin rižin äk’iru žaz ʕaƛaɣorno bezun.
+Gloss: DEM2.ISG.OBL-ERG-TOP we I.PL-cheat-PST.WIT-QUOT here-IN.ABL-CNTR thither merchant-PL way-AD.ESS I.PL-become-PFV.CVB camel-PL-TOP III.PL-lead-PFV.CVB go-PST.PRT boy-GEN2 village-IN.VERS-TOP I.PL-look-PST.UNW
+Translation: "He cheated us as well," the merchants [said and] got on their way away from their and looked for the village of the boy who went leading the camels.

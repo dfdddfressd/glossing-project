@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žeduqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žeduqor: 
+
+Exact Matches
+Sentence: Elayn boqno dahawtow bitaɣor bik’inosi, yisi žoyä žeduqor eƛin, di ža kid yowanix ik’ix, däz ža c’aq’ rok’äwa yisäƛin.
+Gloss: there-IN.ABL-TOP I.PL-become-PFV.CVB a.little-EMPH distance-IN.VERS I.PL-go-ANT.CVB DEM2.ISG.OBL boy-ERG DEM1.IPL.OBL-POSS.LAT say-PFV.CVB me DEM1.SG girl II-marry-MSD-AD.ESS go-PRS me-GEN2 DEM1.SG much heart-IN.ESS-Q II-take-PST.WIT.INT-QUOT
+Translation: When they had gone just a little further, that boy said to them: "I am going to marry this girl; did she really take me into her heart?"
+Sentence: Užä žeduqor eƛin, ža bikori sida ħala xec meža, neła mežur royxosi žukłi šebiƛin.
+Gloss: boy-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW DEM1.SG snake one.OBL condition-IN.ESS leave you(I).PL.OBL-ERG DEM1.IISG.OBL-ERG you(I).PL.OBL-LAT IV-do-PRS.PRT evil what-QUOT
+Translation: The boy said to them: "Let go of the snake, what's the evil thing it has done to you?!"
+Sentence: Yiła žeduqor eƛin:
+Gloss: DEM2.IISG.OBL-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW
+Translation: She said to them:
+
+Approximate Matches:
+Sentence: Meža mežur rätiru rodo, di sasaq maħor aqƛin, žeduqorno eƛin, saparyox ik’a ħadur oqno.
+Gloss: you(I).PL.OBL-ERG you(I).PL.OBL-LAT IV-want-PST.PRT IV-do-IMPR me tomorrow outside become-QUOT DEM1.IPL.OBL-POSS.LAT-TOP say-PFV.CVB journey-AD.ESS go-INF prepare become-PST.UNW
+Translation: "Do what you want, I will go out tomorrow.", he said to them and prepared to go on the journey.

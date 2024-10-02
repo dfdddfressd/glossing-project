@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nełasno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nełasno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nełasno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mamalay qaciqorno, yił- nełqorno bezux bičinč’ey durimoƛ’ bik’in onočaƛ’ biħanayn nełasno łoħros yiłetown k’onč’un yecurno, nełdäy hozur boqno, neła nełaz ɣˤutkaɣor bik’in.
+Gloss: rooster firewood-POSS.LAT-and DEM2.IISG.OBL DEM1.IISG.OBL-POSS.LAT-and III-look-IPFV.CVB III-be-NEG.PST.CVB running III-go-PFV.CVB hen-SUPER.ESS III-fight-PFV.CVB DEM1.IISG.OBL-GEN1-and frog-GEN1 II-as-EMPH-PFV.CVB leg-and II-break-CAUS-PFV.CVB DEM1.IISG.OBL-APUD.ABL separately III-become-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 house-IN.VERS III-go-PST.UNW
+Translation: Without looking for firewood or any other things, he ran off to the hen, had a fight [with her] and broke her leg just like the frog's, seperated from her and went to his own house.
+Sentence: Sida quł neła nełasno, eniwsno sidaƛ’or šeƛ’un rutirno, žan rižin ciqaɣor yoxin.
+Gloss: one.OBL day-CONT.ESS DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1-and mother-GEN1-and one.OBL-SUPER.LAT clothing-TOP IV-gather-PFV.CVB DEM1.SG-TOP IV-carry-PFV.CVB forest-IN.VERS II-run.away-PST.UNW
+Translation: One day she collected the clothes of herself and her mother and carrying them escaped into the forest.
+
+Approximate Matches:
+Sentence: Nełasno sis kid zown.
+Gloss: DEM1.IISG.OBL-GEN1-TOP one daughter be.NPRS-PST.UNW
+Translation: She also had one daughter.

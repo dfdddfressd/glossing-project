@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yałza.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yałza
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yałza:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Boc’an, zeybin, ɣuro yałza rečuƛ, aɣˤnä teł rišin, aɣbi girimabin kurno idutow xecin, bełis čanyabin, resobin čolow yałza hiɣar regirno.
+Gloss: wolf.PL-and bear-PL-and cows be-LCV.CVB cattleshed-SUB.ESS cowshed-IN.ESS inside IV-drive.in-PST.UNW bird-PL pole-PL-TOP erect-PFV.CVB home-EMPH leave-PST.UNW wild.goat-GEN1 she.goat-PL-and roe-PL-and straw be-LCV hayloft-IN.LAT IV-send-PST.UNW
+Translation: She drove the wolves and bears into the cowshed where the cows were, erected poles for the birds to give [them] a home, and sent the wild goats and roes into the half-open shed where there was straw.
+Sentence: Boc’an, zeybin, ɣuro yałza rečuƛ, aɣˤnä teł rišin, aɣbi girimabin kurno idutow xecin, bełis čanyabin, resobin čolow yałza hiɣar regirno.
+Gloss: wolf.PL-and bear-PL-and cows be-LCV.CVB cattleshed-SUB.ESS cowshed-IN.ESS inside IV-drive.in-PST.UNW bird-PL pole-PL-TOP erect-PFV.CVB home-EMPH leave-PST.UNW wild.goat-GEN1 she.goat-PL-and roe-PL-and straw be-LCV hayloft-IN.LAT IV-send-PST.UNW
+Translation: She drove the wolves and bears into the cowshed where the cows were, erected poles for the birds to give [them] a home, and sent the wild goats and roes into the half-open shed where there was straw.
+Sentence: Zira eƛin: rigu huni yałza sadaq rik’an, žuka huni yałza reƛ’ixno bisno di boɣanƛin.”
+Gloss: fox-ERG say-PST.UNW IV-good way be-LCV.CVB together III.PL-go-FUT.DEF bad way be-LCV.CVB hand-AD.ESS-TOP III-take-PFV.CVB me III-take.away-FUT.DEF-QUOT
+Translation: The fox said: "We will go together where there's a good road, and I'll take you by the hand on a bad way"
+
+Approximate Matches:
+Sentence: Bełiƛ’ esnabi bäk’äsi yałzay, eɣeni esiwz bara k’orin boyn nazon q’ˤidan ričin bac’ƛ’oräy, Umukusez haqa bašiqˤoy šišin, k’ori boyƛ’orey eɣeni esiwz baruqay rˤaƛ’uruni.
+Gloss: hunting-SUPER.ESS brother-PL I.PL-go-ATTR be-SIM.CVB young-DEF brother-GEN2 wife-ERG oatmeal-TOP III-do-PFV.CVB everyone.OBL-TOP down-TOP II.PL-sit-PFV.CVB III-eat-SIM.CVB Umukus-GEN2 mouth-IN.ESS ring get.stuck-PST.UNW oatmeal III-do-SIM.CVB young-DEF brother-GEN2 wife-POSS.ABL IV-fall-PST.PRT-DEF
+Translation: When the brothers were going hunting, the youngest brother's wife made an oatmeal and when everyone sat down and ate, a ring that fell off the youngest brother's wife when she made the oatmeal, got stuck in Umukus' mouth.
+Sentence: Elaygon bitor žedu bik’inƛax, rigu hawan, bac’adaw łin, raqˤäsi bix yałzarno, žek’utow anuza mečoƛ’or baynƛax.
+Gloss: there-IN.ABL-CNTR thither DEM1.IPL I.PL-go-PFV.CVB-QUOT IV-good air-and clean water-and IV-accumulate-RES.PRT grass be-LCV.CVB-LAT-and man-EMPH be.absent-LCV.CVB place-SUPER.LAT I.PL-come-PST.UNW-QUOT
+Translation: From there they went on and came to a deserted place with good air, clean water and where the grass was thick.
+Sentence: ƛˤeb yik’inosi, sida quł dawlaƛ’ zey maħor boqäsi yałzay, kid nełdayn yoxin ʕaƛaɣor yik’in.
+Gloss: year II-go-ANT.CVB one.OBL day-CONT.ESS prey-SUPER.ESS bear outside III-become-RES.PRT be-SIM.CVB girl DEM1.IISG.OBL-APUD.ABL-TOP II-run.away-PFV.CVB village-IN.VERS II-go-PST.UNW
+Translation: A year went by, and one day while the bear went outside for prey, the girl ran away from him and went into a village.

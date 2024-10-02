@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣuna in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣuna: 
+
+Exact Matches
+Sentence: Sasaqaza bišʷan risno xediw q’ˤuyzaɣaɣor ik’ixƛin baruqorno eƛin, ik’in ciqqo ɣuna teł uqˤełno ičin.
+Gloss: in.the.morning-IN.VERS.DIST food-TOP IV-take-PFV.CVB husband somwhere.else-IN.VERS go-IPFV.CVB-QUOT wife-POSS.LAT-TOP say-PST.UNW go-PFV.CVB forest-POSS.ESS tree-IN.ESS inside hide-PFV.CVB be-PST.UNW
+Translation: The next morning, the husband took some food and said to his wife: "I'm going somewhere", went to the forest and hid inside the tree.
+Sentence: Elo ʕaƛoł roƛƛo ixiw naħuz ɣuna teł łi yołƛax.
+Gloss: there village-CONT.ESS IV.PL-middle big oak-GEN2 tree-IN.ESS inside water be-QUOT
+Translation: There's supposed to be water inside a big oak in the middle of the village.
+
+Approximate Matches:

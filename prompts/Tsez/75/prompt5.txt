@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bigu.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bigu
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bigu:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ceyä yisir bigu gulu teƛno.
+Gloss: eagle-ERG DEM2.ISG.OBL-LAT III-good horse give-PFV.CVB
+Translation: The eagle gave him a good horse.
+Sentence: Žan nesis bit’araw yołƛin, eƛin kidbä, dowqor beč’no bigu hibo neƛsiyołi, nełan ʕuraw bigu kumak badiƛin.
+Gloss: DEM1.SG-TOP DEM1.ISG.OBL-GEN1 true be-QUOT say-PST.UNW daughter-ERG you-POSS.LAT III-cut-PFV.CVB III-good stick give-PST.WIT-COND.IRR DEM1.IISG.OBL-ERG-TOP very III-good help III-do-QUOT
+Translation: "That of him is true," said the girl, "if he carved a good cane and gave it to you, it would have been a good help."
+Sentence: Žan nesis bit’araw yołƛin, eƛin kidbä, dowqor beč’no bigu hibo neƛsiyołi, nełan ʕuraw bigu kumak badiƛin.
+Gloss: DEM1.SG-TOP DEM1.ISG.OBL-GEN1 true be-QUOT say-PST.UNW daughter-ERG you-POSS.LAT III-cut-PFV.CVB III-good stick give-PST.WIT-COND.IRR DEM1.IISG.OBL-ERG-TOP very III-good help III-do-QUOT
+Translation: "That of him is true," said the girl, "if he carved a good cane and gave it to you, it would have been a good help."
+
+Approximate Matches:

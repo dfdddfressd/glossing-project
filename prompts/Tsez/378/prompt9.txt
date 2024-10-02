@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word k’ʷaħal in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word k’ʷaħal: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Zamanaƛ’aza ɣˤutka tełäzay sis qˤaƛu-bˤaɣu rizin, hiba gugu žek’ƛ’oräy, bečedawni maduhalqo k’ʷač’ni regin.
+Gloss: time-SUPER.VERS.DIST house-IN.ESS inside-IN.ABL.DIST one shout IV-get.up-PFV.CVB stick-ERG back beat-SIM.CVB wealthy-DEF neighbor-POSS.ESS groan-MSD IV-let.go-PFV.CVB
+Translation: Some minutes later one could hear noise and shout inside the house: as the stick beat the wealthy neighbor on his back, he gave a loud groan.
+Sentence: Elo idu besun iłno užin, mežä k’ʷač’nox yiziräsi ɣˤanabin.
+Gloss: there home I.PL-find-PFV.CVB six son-TOP mattress-IN.ESS groan-IPFV.CVB II-lift-RES.PRT woman-TOP
+Translation: There at home they found six sons and in the bed a groaning woman.

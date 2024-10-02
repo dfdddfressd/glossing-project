@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yiqizaƛ’or in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yiqizaƛ’or: 
+
+Exact Matches
+Sentence: Ismaʕilä eƛin, där moƛał yukayru kid yiqizaƛ’or, di ɣˤanazaq reƛ’a atixosi anuƛin.
+Gloss: Ismail-ERG say-PST.UNW me-LAT dream-CONT.ESS II-see-PST.PRT girl II-get-POST.CVB me woman-POSS.ESS hand touch-PRS.PRT be.NEG-QUOT
+Translation: Ismail said: "Until I get the girl that I saw in my dream, I will not lay hand on any woman."
+
+Approximate Matches:
+Sentence: Baq’ˤu mix bik’izaƛ’ortow, eɣeni esiwr teqxo xabar, yisiz eženi esiws cudi nukarza c’unzi bodix sida qunyox yołƛin.
+Gloss: III-much time III-go-POST.CVB-EMPH young-DEF brother-LAT hear-PRS story DEM2.ISG.OBL-GEN2 old-DEF brother-GEN1 corpse henchman-PL-ERG guard I.PL-do-IPFV.CVB one.OBL farmstead-AD.ESS be-QUOT
+Translation: Before much time has passed, the younger brother was hearing the story that his older brother's corpse was at a farmstead being guarded by henchman.
+Sentence: Dahawtowgon zaman bik’izaƛ’or, xizyogon acmoq deqƛin.
+Gloss: a.little-EMPH-CNTR time III-go-POST.CVB again door-POSS.ESS knock-PST.UNW
+Translation: After a little while, it knocked on the door again.
+Sentence: Žedu bik’in xomi zaman bik’izaƛ’ortow, kidbä Ražbadinqor Tawadä caxruni kaɣat teƛno.
+Gloss: DEM1.IPL I.PL-go-PFV.CVB too.much time III-go-POST.CVB-EMPH girl-ERG Razhbadin-POSS.LAT Tavadi-ERG write-PST.PRT-DEF letter give-PST.UNW
+Translation: Not too much time has passed since they had left, and the girl gave Razhbadin the letter that Tavadi had written.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word biša in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word biša: 
+
+Exact Matches
+Sentence: Užä ža pardagi eniwł adäza ret’irnosi, riguƛ’ay rigu biša roƛixno elo ƛ’iri.
+Gloss: son-ERG DEM1.SG scarf mother-CONT.ESS before IV-make.a.bed-ANT.CVB IV-good-SUPER.ABL IV-good food IV-appear-PFV.CVB there above
+Translation: The son laid down the scarf before his mother and a lot of good food appeared on it.
+Sentence: Uži idur aynosi, babiya nesił adäza zaɣrušaw biša erno.
+Gloss: son home-LAT come-ANT.CVB father-ERG DEM1.ISG.OBL-CONT.ESS before poison-ATTR food put-PST.UNW
+Translation: When the son came home, his father put poisoned food in front of him.
+Sentence: Ža debeq äsirus haqu azirodoƛ, mi där łˤora ɣudi ʕeze roqace biša eroƛin, esiwqorno eƛin, išno-utin kecno yeda.
+Gloss: DEM1.SG you-POSS.ESS tell-PST.PRT-GEN1 mouth freeze.to.death-OPT you me-LAT three.OBL day be.enough IV-become-TERM food put-IMPR-QUOT sister-POSS.LAT-TOP say-PFV.CVB eat-PFV.CVB sleep-PST.UNW DEM2.ISG
+Translation: "May the mouth of the one who told you that freeze over! Prepare me food enough for three days!", he said, ate and slept.
+
+Approximate Matches:

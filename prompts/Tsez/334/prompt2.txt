@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ačqˤayx in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ačqˤayx: 
+
+Exact Matches
+Sentence: Zamanałäy yizi yeda rešt’izi aqza mečoƛ’or ačqˤayx, mekoyxno bayn, salamno teƛno žaq ħaƛanir łi esirno, deber ela micxir neƛanƛin.
+Gloss: time-CONT.ABL DEM2.IPL DEM2.ISG take.a.rest become-LCV.CVB place-SUPER.LAT be.thirsty-IPFV.CVB be.hungry-IPFV.CVB-TOP I.PL-come-PFV.CVB greeting-TOP give-PFV.CVB boy-POSS.ESS drink-MSD-LAT water ask-PFV.CVB you-LAT we(I).OBL-ERG money give-FUT.DEF-QUOT
+Translation: After a while, they were thirsty and hungry and came to where he was resting, saluted him and asked the boy for some water to drink: "We will give you some money."
+
+Approximate Matches:
+Sentence: Ik’in eženi žek’a nesir rätiru łinałäyn yisiq esinosi, yeda uži sosisi teƛa rätinč’irus riłen zown, yedu hibon teƛno di mekoyxno, ačqˤayxnoyä ičanƛin.
+Gloss: go-PFV.CVB old-DEF man-ERG DEM1.ISG.OBL-LAT IV-want-PST.PRT what.OBL-CONT.ABL-TOP DEM2.ISG.OBL-POSS.ESS tell-ANT.CVB DEM2.ISG boy at.first-ATTR give-INF IV-want-NEG.FUT-PST.PRT-ATTR IV-as-TOP be.NPRS-PFV.CVB DEM2.IISG stick-TOP sell-PFV.CVB me be.hungry-IPFV.CVB-TOP be.thirsty-IPFV.CVB-TOP-Q be-FUT.DEF-QUOT
+Translation: When the eldest man went and told him what he wanted, the boy pretended to be not wanting to give it to him at first: "When I sold you the stick, will I remain hungry and thirsty?"

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word madax in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word madax: 
+
+Exact Matches
+Sentence: Kid madaxor yaynosi, iduɣor ža yoqno yok’ełzaƛ’or noci q’ˤimƛ’ay k’oƛin madax ƛexun.
+Gloss: girl door-AD.LAT II-come-ANT.CVB home-IN.ALL DEM1.SG II-become-PFV.CVB II-be.in.time-POST.CVB louse head-SUPER.ABL jump-PFV.CVB door-AD.ESS remain-PFV.CVB
+Translation: The girl went home and just before the girl entered the house the louse jumped down and remained near the door.
+Sentence: Bełiqa eƛin, däz madax yedu nediw ɣˤutku där roqa räti, didur eƛa riynč’ey howt’or rayza čantaƛ’osi iƛ’u yoɣełno yik’isƛin.
+Gloss: hunter-ERG say-PST.UNW me-GEN2 yard-AD.ESS DEM2.IISG such house me-LAT IV-become-INF IV-want how say-INF IV-know-NEG.PST.CVB here-LAT IV-come-LCV pocket-SUPER.ESS-ATTR lid II-take.away-POT-PFV.CVB II-go-PST.WIT-QUOT
+Translation: The hunter said: "I would like such a house to be in my yard, but accidentally somehow the pocket's lid opened here where I came to and went away."
+Sentence: Yisä yisiz madax łäs bic’äsi q’ut’u biħurnosi, zam-zames łäs kik boƛixno.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-GEN2 yard-AD.ESS water-GEN1 III-fill-RES.PRT earthen.jug III-pour-ANT.CVB Zam-Zam-GEN1 water-GEN1 spring III-appear-PST.UNW
+Translation: After he poured out the water-filled jug in his yard, a spring of holy water appeared.
+
+Approximate Matches:
+Sentence: Bilq’isdis duʕan q’abul bodin, ozzataw oqno xediwn, xedyos esiwn, ža xanez madaxosini žek’un, eženis łˤonon užin, yedu teƛno zawruni gamiƛ’osi žek’un.
+Gloss: Bilqisdi-GEN1 prayer-TOP receive III-do-PFV.CVB eye-PL-without become-PFV.CVB husband-and husband-GEN1 brother-and DEM1.SG khan-GEN2 gate-AD.ESS-ATTR-DEF man-and old-DEF-GEN1 three-TOP son-and DEM2.IISG sell-PFV.CVB be.NPRS-PST.PRT-DEF boat-SUPER.ESS-ATTR man-and
+Translation: Bilqisdis prayer was received, the husband, the husband's brother, that king's guard, the three sons of the old man and the sailor to whom they sold her got blind.
+Sentence: Esnabi zawruni ɣˤutkoz madaxor xanä wazir egirno, žeda elo teł badiru xabarno teqerno xizyo nesiq esanix.
+Gloss: brother-PL be.NPRS-PST.PRT-DEF room-GEN2 gate-AD.LAT khan-ERG vizier send-PFV.CVB DEM1.IPL.OBL-ERG there inside I.PL-do-PST.PRT story-TOP aloud after DEM1.ISG.OBL-POSS.ESS tell-MSD-AD.ESS
+Translation: The king sent a vizier to the door of the room where the brothers were, to overhear their conversation and to tell him about it afterwards.
+Sentence: Kʷaxatow yeda sida azbaryoz madaxor ayn.
+Gloss: soon-EMPH DEM2.ISG one.OBL palace-GEN2 gate-AD.LAT come-PST.UNW
+Translation: Soon he came to the gate of a palace.

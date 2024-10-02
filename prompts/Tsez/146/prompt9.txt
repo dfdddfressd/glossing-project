@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rečuƛgon.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rečuƛgon
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rečuƛgon:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.
+
+Approximate Matches:
+Sentence: Yeɣeni esiwde sadaq žan yuqˤno, gulun rečuƛ bicin, bežet’ani esnabi bayaniqor idu ezun ičäsi zown.
+Gloss: II-young-DEF sister-APUD.ESS together DEM1.SG-TOP II-hide-PFV.CVB horse-TOP cattleshed-SUB.ESS III-tie-PFV.CVB I.PL-old-DISTR-DEF brother-PL I.PL-come-MSD-POSS.LAT home look-PFV.CVB wait-RES.PRT be.NPRS-PST.UNW
+Translation: He hid her together with her younger sister, tied the horse to the shed, and waited at home for his older brothers to come.
+Sentence: Gulun rečuƛ bicin, ža kidno q’ˤuya ɣˤutka teł yuqˤno, esnabi bayaniqor idu ezun ičäsi zown.
+Gloss: horse-TOP cattleshed-SUB.ESS III-tie-PFV.CVB DEM1.SG girl-TOP other room-IN.ESS inside II-hide-PFV.CVB brother-PL I.PL-come-MSD-POSS.LAT home look-PFV.CVB wait-RES.PRT be.NPRS-PST.UNW
+Translation: He tied the horse into the shed, hid the girl in another room and waited at home for his brothers to come.
+Sentence: Žeda eƛixƛax, howlo rečuƛ dice buħi bičix, hohomaw mečoƛ’ ocä xecix yołi dice rigu räči, elaƛ’ ƛ’iri hisno rigu raq łemuƛin.
+Gloss: DEM1.IIPL.OBL-ERG say-PRS-QUOT there cattleshed-SUB.ESS how.much heat III-be-PRS fresh place-SUPER.ESS threshing.floor-IN.ESS leave-IPFV.CVB if how.much IV-good IV-be we(II-SUPER.ESS on spring.wool-TOP IV-good IV-become then.would-QUOT
+Translation: They were saying: "There in the shed is so much heat, if he would leave us in a chilly place, on the threshing floor, how good that would be, and then our wool would be better, too!"

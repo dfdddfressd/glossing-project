@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yisi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yisi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yisi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ox̌oyoƛin łu eƛäƛin, esirno yisi žek’a yiziq.
+Gloss: Ohoyo-QUOT who.ERG say-PST.WIT.INT-QUOT ask-PST.UNW DEM2.ISG.OBL man-ERG DEM2.IPL-POSS.ESS
+Translation: "Who said Ohoyo?", that man asked him.
+Sentence: Elayn boqno dahawtow bitaɣor bik’inosi, yisi žoyä žeduqor eƛin, di ža kid yowanix ik’ix, däz ža c’aq’ rok’äwa yisäƛin.
+Gloss: there-IN.ABL-TOP I.PL-become-PFV.CVB a.little-EMPH distance-IN.VERS I.PL-go-ANT.CVB DEM2.ISG.OBL boy-ERG DEM1.IPL.OBL-POSS.LAT say-PFV.CVB me DEM1.SG girl II-marry-MSD-AD.ESS go-PRS me-GEN2 DEM1.SG much heart-IN.ESS-Q II-take-PST.WIT.INT-QUOT
+Translation: When they had gone just a little further, that boy said to them: "I am going to marry this girl; did she really take me into her heart?"
+Sentence: Hemedur riguƛ’ay rigu rac’xo, riguƛ’ay rigu šeƛ’ux yisi žoyä yizide šomoƛa buci boɣno.
+Gloss: so IV-good-SUPER.ABL IV-good IV-eat-IPFV.CVB IV-good-SUPER.ABL IV-good put.on-IPFV.CVB DEM2.ISG.OBL boy-ERG DEM2.IPL.OBL-APUD.ESS how.many-INDEF month III-spend.time-PST.UNW
+Translation: So, eating the best [food] and wearing the best [clothes], the boy spent many months with them.
+
+Approximate Matches:

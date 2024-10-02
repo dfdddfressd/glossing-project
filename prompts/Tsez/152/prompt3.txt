@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: zok’i.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": zok’i
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word zok’i:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Q’ʷˤaɣˤƛin eƛin bitor bezunosi nełaz haqar reƛ kurxo zowno, q’ʷˤaɣˤƛin eƛin ninor bezunosi iyos zok’i et’xo zowno nesä nełaz haqa.
+Gloss: screak-QUOT say-PFV.CVB thither III-look-ANT.CVB DEM1.IISG.OBL-GEN2 mouth-IN.LAT meat throw-IPFV.CVB be.NPRS-PFV.CVB screak-QUOT say-PFV.CVB hither III-look-ANT.CVB blood-GEN1 mug pour-IPFV.CVB be.NPRS-PST.UNW DEM1.ISG.OBL-ERG DEM1.IISG.OBL-GEN2 mouth-ERG
+Translation: When the eagle screaked and looked to the one side, Aliqilich threw the meat into the eagle's mouth; when he screaked and looked to the other side, he poured the mug with the blood into his mouth.
+Sentence: Xexłiƛ’ yiła howlaytow ħaƛanix esiwr łäs zok’i ric’no teƛno.
+Gloss: quickness-SUPER.ESS DEM2.IISG.OBL then-EMPH drink-MSD-AD.ESS brother-LAT water-GEN1 mug IV-fill-PFV.CVB give-PST.UNW
+Translation: Quickly she then filled a mug with water for the brother to drink and gave it to him.
+
+Approximate Matches:
+Sentence: Reƛno łiyn k’onč’aqay reč’no kuräsi zows, howlaytow iyos zok’in ric’äsi zowsƛin”, - esin yisä.
+Gloss: meat-TOP end-PFV.CVB leg-POSS.ABL IV-cut-PFV.CVB throw-RES.PRT be.NPRS-PST.WIT from.there-EMPH blood-GEN1 mug-TOP IV-fill-RES.PRT be.NPRS-PST.WIT-QUOT - tell-PST.UNW DEM2.ISG.OBL-ERG
+Translation: "When the meat ended, I cut some from my leg and threw it to you, and from there I filled the blood into a mug", he told.
+Sentence: K’ox äƛizayn hemedurtow xalq’imon ħaƛun Zeyes Aħyaq idur zok’ice dandi łi rayn.
+Gloss: twice say-SIM.CVB-PFV.CVB so-EMPH people-ERG-TOP drink-PFV.CVB bear-GEN1 ear-POSS.ESS home-LAT mug-TERM only water IV-do-PST.UNW
+Translation: Also the second time the people drank it up likewise, and Bear Ear could only bring enough water for a mug home.
+Sentence: Roda šebinon koƛ’inč’ey yisä bečnaqay reč’no reƛ kurno, howlaytow ric’no iyos zok’in et’no haqa.
+Gloss: IV-do-INF something understand.to-NEG.PST.CVB DEM2.ISG.OBL-ERG knee-POSS.ABL IV-cut-PFV.CVB meat throw-PFV.CVB from.there-EMPH IV-fill-PFV.CVB blood-GEN1 mug-TOP pour-PST.UNW mouth-IN.ESS
+Translation: Not knowing what else to do, he cut meat off from his knee and threw it to the eagle, them he filled the blood into a mug and poured it into its mouth.

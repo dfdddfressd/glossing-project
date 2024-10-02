@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word utiłxanusi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word utiłxanusi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Kidbezno baruzno rožƛ’ay iziłxanusi žek’u zown ža.
+Gloss: daughter-GEN2-and wife-GEN2-and word-SUPER.ABL get-POT-NEG.PRS.PRT man be.NPRS-PST.UNW DEM1.SG
+Translation: The man could not get away from his daughter's and his wife's words.

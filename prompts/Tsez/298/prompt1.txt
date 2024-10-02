@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Xizyo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Xizyo: 
+
+Exact Matches
+Sentence: Xanes ħillan čuqˤno, kidbä ʕansaqor, bišodyołäysi zahru bok’ek’ƛinno eƛin, xizyo bercingo bišno.
+Gloss: khan-GEN1 trickery-TOP notice-PFV.CVB daughter-ERG walking.stick-POSS.LAT food-CONT.ABL-ATTR poison III-steal-QUOT-TOP say-PFV.CVB after good I.PL-eat-PST.UNW
+Translation: Noticing the king's trickery, and the daughter told the walking stick to remove the poison in the food, whereafter they ate well.
+Sentence: Dey xexbi, di exun xizyo t’ubazi odin łiynosi, meži łˤonon esnabi bitazoni ɣˤutkar bezu, elo mežur ʕuraw mesed yołƛin”.
+Gloss: me-GEN1 children me die-PFV.CVB after fulfill do-PST.UNW end-ANT.CVB you.PL three-TOP brother-PL next-DEF room-IN.LAT I.PL-look-IMPR there you(I).PL.OBL-LAT much gold be-QUOT
+Translation: "My children, when I have died and the funeral is done, you three brothers look into the next room, there is much gold for you."
+Sentence: Mi nedurä hudu zownƛin, eƛin Ražbadinä, nedur resunäy, ela sosi debi berten boda yoł, xizyo di baru yowa yołƛin.
+Gloss: you so-Q though be.NPRS-PST.UNW-QUOT say-PST.UNW Razhbadin-ERG so IV-exist-CND.CVB we(I).OBL-ERG at.first you-GEN1 marriage III-do-INF be afterwards me wife II-marry-INF be-QUOT
+Translation: "So that way you are," said Razhbadin, "if that's the case, we will first prepare your wedding and afterwards I will marry my wife."
+
+Approximate Matches:
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+Sentence: C’iɣruk’es xizyogon aždaħtow bok’ek’anixƛin rok’ƛ’or pikru bayn.
+Gloss: Tsighruk-GEN1 again dragon-EMPH III-steal.from-MSD-AD.ESS-QUOT heart-SUPER.LAT idea III-come-PST.UNW
+Translation: Tsighruk thought of stealing from the dragon again.
+Sentence: Moƛa iqirno ƛexun, xizyogon di oč’ino q’ˤim yołäsi aždaħ bexursiƛin, esin yisä.
+Gloss: sleep-ERG take.away-PFV.CVB remain-PFV.CVB then me nine head be-RES.PRT dragon III-kill-PST.WIT-QUOT tell-PST.UNW DEM2.ISG.OBL-ERG
+Translation: "I was sleeping, and then I killed a nine-headed dragon.", he told.

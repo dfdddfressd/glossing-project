@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣˤutkoxor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣˤutkoxor: 
+
+Exact Matches
+Sentence: Ħusen eženis ɣˤutkoxor ayn.
+Gloss: Hussein old-DEF-GEN1 house-AD.LAT come-PST.UNW
+Translation: Hussein came to the old man's house.
+Sentence: Tabanaw hunäsi hunä yik’in yedu sidaɣ ɣˤutkoxor yaynosi, tełxor yoqno.
+Gloss: long way-IN.ESS-ATTR way-IN.ESS II-go-PFV.CVB DEM2.IISG in.one.place house-AD.LAT II-come-ANT.CVB inside-AD.LAT II-become-PST.UNW
+Translation: When she came to a house somewhere on the long way she was going on, she went inside.
+Sentence: Žedu teł iduɣor boqnosi, ceyä bełiqus uži žeduz ɣˤutkoxor egirno.
+Gloss: DEM1.IPL inside home-IN.ALL III-become-ANT.CVB eagle-ERG hunter-GEN1 son DEM1.IPL.OBL-GEN2 house-AD.LAT let-PST.UNW
+Translation: When they had gone into their house, the eagle let the hunter's son down to their house.
+
+Approximate Matches:
+Sentence: Q’ˤunaäƛiru ɣudƛ’o miƛ’i bayrno boc’in, isno gugyoq caƛin zeyn ziruz ɣˤutkoxorno rayn, maħlaytow qˤaƛin:
+Gloss: two.OBL-ORD day-SUPER.ESS ram III-bring-PFV.CVB wolf-TOP bull-TOP back-POSS.ESS throw-PFV.CVB bear-TOP fox-GEN2 house-AD.LAT-TOP III.PL-come-PFV.CVB court-IN.ABL-EMPH loudly
+Translation: On the second day, the wolf came to the fox's house bringing a ram and the bear came with a bull thrown over his back, a loud voice shouted from the backyard:
+Sentence: Neł č’uramxor ɣˤutkoxorno ik’in akäz ezunosi, sis ozuri yołali esiya q’ˤiryoƛ’ geler žek’uzas q’ˤimbi kurxo yukayn.
+Gloss: DEM1.IISG.OBL light-AD.LAT house-AD.LAT-TOP go-PFV.CVB window-IN.ESS.DIST look-ANT.CVB one eye be-ATTR sister-ERG floor-SUPER.ESS head.over.heals man-PL-GEN1 head-PL throw-IPFV.CVB II-see-PST.UNW
+Translation: He went to the house with light, looked into the window and saw his one-eyed sister throwing people's heads over the floor.

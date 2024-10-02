@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word oƛƛozoniƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word oƛƛozoniƛ: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hudun neła kʷanin bok’no, taqˤorno boqno, kidbabi riqira risƛ’oräy, yoƛƛozoni esiya q’ˤidar muri kurno.
+Gloss: nevertheless DEM1.IISG.OBL-ERG swimming-TOP III-beat-PFV.CVB over.there-LAT-TOP III-become-PFV.CVB girl-PL II.PL-take.away-INF II.PL-take-SIM.CVB II-middle-ATTR.OBL-DEF sister-ERG down-LAT needle throw-PST.UNW
+Translation: Nevertheless, it swam across it and got there, and when it tried to catch the girls, the middle one threw the needle down.

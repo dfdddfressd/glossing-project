@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: qˤoda.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": qˤoda
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word qˤoda:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neła ƛuza radiru qˤodaza beqes rešambi c’oxno.
+Gloss: DEM1.IISG.OBL bone-ERG IV-do-PST.PRT hole-IN.VERS.DIST sun-GEN1 ray-PL hit-PST.UNW
+Translation: Through the hole that the bone had made, the sun's ray shined.

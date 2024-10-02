@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esoƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esoƛin: 
+
+Exact Matches
+Sentence: Xizay žek’un egirno goƛ’in ayrno, sis kepaw imadu esoƛin žeda ža t’amizi odin.
+Gloss: from.behind man-TOP send-PFV.CVB invite-PFV.CVB bring-PFV.CVB one merry tale tell-IMPR-QUOT DEM1.IPL.OBL-ERG DEM1.SG force do-PST.UNW
+Translation: And they sent a man, invited and brought him; "Tell us a merry tale!", they forced him.
+Sentence: Were, were, esoƛin, baru ƛ’iri yutin.
+Gloss: well well tell-IMPR-QUOT wife above II-turn-PST.UNW
+Translation: "Well well, tell me!", the wife insisted.
+Sentence: Howži tełxorno goƛ’in, neła nełaz xediwqor yiła eƛin, howła xizaɣorzo zamanał deber baqru q’ʷariłiłäy mi däq esoƛin.
+Gloss: now inside-AD.LAT-TOP invite-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 husband-POSS.LAT DEM2.IISG.OBL-ERG say-PST.UNW DEM3.IISG.OBL finally-ATTR.OBL time-CONT.ESS you-LAT III-happen-PST.PRT sadness-CONT.ABL you me-POSS.ESS tell-IMPR-QUOT
+Translation: Now she invited her own husband in and said: "Tell me about the bad things that had happened to you lately?"
+
+Approximate Matches:
+Sentence: Horo, meža yaqˤuł dey sis ʕaq’lu bisoƛin.
+Gloss: come.IMPR you(I).PL.OBL-ERG today me-GEN1 one advice III-take-IMPR-QUOT
+Translation: Come, take my advice today!
+Sentence: Howlotow yedu babiƛ’ ƛ’iri yutin, ža ɣamas micxiryoƛ yisoƛin.
+Gloss: there-EMPH DEM2.IISG father-SUPER.ESS above II-return-PFV.CVB DEM1.SG box money-SUB.ESS II-buy-IMPR-QUOT
+Translation: Thereupon she insisted that her father buy this box for the money.
+Sentence: Xizyo ʕArabuzanä qot ric’no micxir teƛno nełaqor enłaƛ elur retixosi šebin risoƛin.
+Gloss: afterwards Arabuzan-ERG handfull IV-fill-PFV.CVB money give-PFV.CVB DEM1.IISG.OBL-POSS.LAT DEM3b.IISG.OBL-SUB.ESS we(I).OBL-LAT IV-want-PRS.PRT thing IV-buy-IMPR-QUOT
+Translation: Then Arabuzan gave her a handfull of money: "Buy the things we want with it!"

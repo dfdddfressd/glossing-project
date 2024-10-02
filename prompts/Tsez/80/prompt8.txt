@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: riyärułi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": riyärułi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word riyärułi:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyo xaner riyn neła q’ˤuna žek’us zawru daʕba łiyärułi.
+Gloss: afterwards khan-LAT IV-know-PST.UNW DEM1.IISG.OBL-ERG two.OBL man-GEN1 be.NPRS-PST.PRT dispute finish-MSD
+Translation: Afterwards the king found out that she had finished the two men's dispute.

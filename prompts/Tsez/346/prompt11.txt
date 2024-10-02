@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esirno: 
+
+Exact Matches
+Sentence: Maħor boqnosi, bara xediwq esirno, yedu q’urec’nibin, žedaƛ’ ƛ’irisi q’ayn łasey besanƛin.
+Gloss: outside I.PL-become-ANT.CVB wife-ERG husband-POSS.ESS ask-PST.UNW DEM2.IISG mule-PL-and DEM1.IIPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT
+Translation: When they went outside, the wife asked her husband: "Whose might those mules and the wares on them be?"
+Sentence: Ɣˤutkun, ƛen rodin łiyzaƛ’, žoyä eniw k’ox äƛirugon kidno esirno xander yegirno.
+Gloss: house-and bridge-and III.PL-do-PFV.CVB end-CSL.CVB boy-ERG mother twice ORD-CNTR girl-TOP ask-PFV.CVB khan-APUD.LAT II-send-PST.UNW
+Translation: When the house and the bridge were finished, the boy sent his mother to the king a second time to ask for the girl.
+Sentence: Ox̌oyoƛin łu eƛäƛin, esirno yisi žek’a yiziq.
+Gloss: Ohoyo-QUOT who.ERG say-PST.WIT.INT-QUOT ask-PST.UNW DEM2.ISG.OBL man-ERG DEM2.IPL-POSS.ESS
+Translation: "Who said Ohoyo?", that man asked him.
+
+Approximate Matches:
+Sentence: Elus esiw na yołƛin neła esirnosi, q’ˤuya šaharyaɣor ik’äsiƛin, yaƛ’irno nesä ža.
+Gloss: we(I).OBL-GEN1 brother where be-QUOT DEM1.IISG.OBL-ERG ask-ANT.CVB other city-IN.VERS go-RES.PRT-QUOT II-cheat-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG
+Translation: When she asked: "Where is our brother?", he lied to her: "He has gone to another city."
+Sentence: Didur, šebi roqäƛin nesiq esirnosi, nesä heresi esin, raładno k’ek’-bik’no gaman butin debi baru ɣanq’izi yoqsi, uži däq xʷasar oda k’ʷeze oqsiƛin.
+Gloss: how what IV-happen-PST.WIT.INT-QUOT DEM1.ISG.OBL-POSS.ESS ask-ANT.CVB DEM1.ISG.OBL-ERG lie tell-PST.UNW sea-TOP move-PFV.CVB boat-Q-TOP III-turn-PFV.CVB you-GEN1 wife drown II-become-PST.WIT son me-POSS.ESS rescue do-INF can become-PST.WIT-QUOT
+Translation: When he asked: "How and what happened?", he lied: "The sea was moved and the boat turned around, your wife drowned; I was able to rescue the boy."
+Sentence: Nesirno aħozizar bayru biłetow sayɣatno boyn, bazarganbi howt’aza boƛixnäy, beč’er žeduƛin harizin rodin, roc’no adäz łenon ħumukulibin ʕaƛaɣor esʷałno yedan ik’in.
+Gloss: DEM1.ISG.OBL-LAT-TOP shepherd-PL-LAT I.PL-come-PST.PRT I.PL-as-EMPH present-TOP III-do-PFV.CVB merchant-PL there-IN.VERS.DIST I.PL-appear-CND.CVB I.PL-stop DEM1.IPL-QUOT request-TOP IV-do-PFV.CVB IV-urge-PFV.CVB ahead five-TOP camel-PL-TOP village-IN.VERS hurry.up-PFV.CVB DEM2.ISG-TOP go-PST.UNW
+Translation: And he also gave to him the same present as to the shepherds who had come, and begged him: "When merchants appear over there, stop them!"; then he urged the five camels forward and hastily went into the village.

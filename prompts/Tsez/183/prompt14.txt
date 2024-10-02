@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rečuƛerƛa.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rečuƛerƛa
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rečuƛerƛa:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Howži yedu yexusƛin, yisä rečuƛerno yižin, rekuł šušin.
+Gloss: now DEM2.IISG II-die-PST.WIT-QUOT DEM2.ISG.OBL-ERG cattleshed-SUB.LAT-TOP II-carry-PFV.CVB manure-CONT.ESS bury-PST.UNW
+Translation: "Now she died.", he (tought and) carried her into the cattleshed and buried her in manure.
+Sentence: Nesiqor didiwnokin xabar boynč’ey, c’odorawni esiw dibirzo rečuƛerno ik’in, sis čanya bexurno elo rekuyał šušin, elayn yoɣno q’ˤuya mečoƛ’ dibires barun šušin yisä.
+Gloss: DEM1.ISG.OBL-POSS.LAT which-TOP-even story III-do-NEG.PST.CVB clever-DEF brother mullah-GEN2 cattleshed-SUB.LAT-TOP go-PFV.CVB one she.goat III-kill-PFV.CVB there manure-CONT.ESS bury-PFV.CVB here-IN.ABL-TOP II-take.away-PFV.CVB other place-SUPER.ESS mullah-GEN1 wife-TOP bury-PST.UNW DEM2.ISG.OBL-ERG
+Translation: Not telling him anything, the clever brother went into the mullah's shed, killed a goat and burried it in the manure there and took out the mullah's wife from there and burried her in another place.
+Sentence: Nełƛ’ay neširu, sasiłnosi, rečuƛertow nexnäy rigu ana deberƛin.
+Gloss: DEM1.IISG.OBL-SUPER.ABL evening get.dark-ANT.CVB cattleshed-SUB.LAT-EMPH come-CND.CVB III.PL-good be.NEG-Q you-LAT-QUOT
+Translation: Above that, wouldn't it be better for you if you come into the cattleshed after it got evening?"

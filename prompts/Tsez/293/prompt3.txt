@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word halmaɣä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word halmaɣä: 
+
+Exact Matches
+Sentence: K’ox äƛirugon mekoyn iguni halmaɣä biša esirnosi, nesä inkar boyn, deber di sosi neƛinč’aƛin.
+Gloss: twice ORD-CNTR be.hungry-PFV.CVB good-DEF friend-ERG food ask-ANT.CVB DEM1.ISG.OBL-ERG rejection III-do-PST.UNW you-LAT me at.first give-NEG.PST.WIT-Q-QUOT
+Translation: When the good friend was hungry for the second time, he asked for food, but he [the other one] rejected: "Didn't I give you something first?"
+Sentence: Xizyogon žukani halmaɣä eƛin, deber bišʷa retinäy, roɣno mi där sis ozuri neƛƛin.
+Gloss: then worse-MSD friend-ERG say-PST.UNW you-LAT food IV-want-CND.CVB IV-take.away-PFV.CVB you me-LAT one eye give-QUOT
+Translation: Then the bad friend said: "If you want food, take one eye out and give it to me!"
+Sentence: Asoq itix qazaq, halmaɣä ža xabar esinosi.
+Gloss: sky-POSS.ESS touch-PRS Georgian friend-ERG DEM1.SG story tell-ANT.CVB
+Translation: The Georgian was on cloud nine, when his friend told him the story.
+
+Approximate Matches:
+Sentence: ʕOmoyä łinax riyx yedu elur ħažat boqaniƛin, halmaɣłiqorno eƛin, neła nełaz gugyoƛ’orno bizirerno, elay bitor bižin.
+Gloss: donkey-ERG how IV-know-PRS DEM2.IISG we-LAT necessity III-become-MSD-QUOT friendship-POSS.LAT-TOP say-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-IN.ESS.DIST back-SUPER.LAT-TOP III-lift-CAUS-PFV.CVB there-IN.ABL thither III-carry-PST.UNW
+Translation: The donkey said to his friends: "How does one know [how] it can become useful for us.", had [the wolf] lifted on his back and carried it further.
+Sentence: Hunix mekʷa c’oxnosi, žeda sosi iguni halmaɣes bišʷa rac’no łiyrno.
+Gloss: way-AD.ESS hunger meet-ANT.CVB DEM1.IPL-ERG at.first good-DEF friend-GEN1 food IV-eat-PFV.CVB finish-PST.UNW
+Translation: When they became hungry on their way, the first ate up the good friend's food.
+Sentence: Išno-utin, partalno rutirno, nesä nesiz hunix ik’iƛ’oräy, aziroyn, k’omo biłet’a boqno bexasi halmaɣbi besun.
+Gloss: eat-PFV.CVB belongings-TOP IV-gather-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 way-AD.ESS go-SIM.CVB freeze.to.death-PFV.CVB ball I.PL-as-DISTR I.PL-become-PFV.CVB I.PL-die-RES.PRT friend-PL I.PL-find-PST.UNW
+Translation: He ate, gathered his belongings, and while he went on his way, he found his friends, frozen to death and each one rolled together like a ball.

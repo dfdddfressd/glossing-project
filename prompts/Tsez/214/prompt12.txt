@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: soderno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": soderno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word soderno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howt’ay yäk’irun, där moƛał rukaysƛin babiwqor eƛo mi, soderno kurno ƛ’ˤiyor nexƛ’oräy, geres hibos boq’ˤugani pu wˤałxor butin nexno raƛ’moƛxorgon šäšiƛin.
+Gloss: from.here II-go-IMM.ANT.CVB me-LAT dream-CONT.ESS IV-see-PST.WIT-QUOT father-POSS.LAT say-IMPR you upward-TOP throw-PFV.CVB downward come-SIM.CVB iron-GEN1 stick-GEN1 III-heavy-ATTR-DEF side downward-AD.LAT III-turn-PFV.CVB come-PFV.CVB earth-SUB.LAT-CNTR get.stuck-QUOT
+Translation: "When you go again, tell your father that you have seen it in a dream: He shall throw it upward and when it comes down again, the iron stick's heavier side will turn downward and get stuck in the earth."
+
+Approximate Matches:
+Sentence: Bazarganbi mešizaxozo aħoderno bayn esirno nesiq, howt’aza bitor łeno ħumukulin bižin ik’ix žek’u ukaynč’a deberƛin.
+Gloss: merchant-PL bull.calf-PL-AD.ESS-ATTR.OBL shepherd-APUD.LAT-TOP I.PL-come-PFV.CVB ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS there-IN.VERS.DIST thither five camel-TOP III-lead-PFV.CVB go-IPFV.CVB man see-NEG.PST.WIT-PST.WIT.INT you-LAT-QUOT
+Translation: The merchants came to the shepherd with the calves and asked him: "Have you seen a man leading five camels going there?"
+Sentence: Nełƛ’ay soder žedur žedu bič’zin boqno, t’ok’ow mamalay iħuxor łoħroderno bik’ix zown anu, netin quqäsi gurow qacan rayrxo zown anu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after DEM1.IPL.OBL-LAT DEM1.IPL.OBL understand-TOP III-become-PFV.CVB anymore rooster river-AD.LAT frog-APUD.LAT-TOP III-go-IPFV.CVB be.NPRS-PFV.CVB be.NEG always dry except firewood-TOP IV-bring-IPFV.CVB be.NPRS-PFV.CVB be.NEG
+Translation: After that, they understood each other, the rooster didn't go to the frog at the river anymore and always brought dry firewood only.

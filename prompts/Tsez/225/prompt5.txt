@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yexuranix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yexuranix: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Di yoł debi xexbin rexurno, howži mi bexuranix nexʷasi žek’uƛin”, - eƛin ʕAliqiličä.
+Gloss: me be you-GEN1 children-TOP III.PL-kill-PFV.CVB now you III-kill-MSD-AD.ESS come-RES.PRT man-QUOT - say-PST.UNW Aliqilich-ERG
+Translation: "I am a man who killed your children, and now came to kill you", said Aliqilich.
+Sentence: Horo eli sidqo sis biłaniƛäyn, dey rok’u riq’ˤaniƛäyn, łˤonon debi užibi däz žaz mečʷa bexuranix dadäɣor begirnäy där räti.
+Gloss: come.IMPR we one.OBL-POSS.ESS one III-resemble-MSD-SUB.ABL-and me-GEN1 heart IV-approach-MSD-SUB.ABL-and three-TOP you-GEN1 son-PL me-GEN2 son-GEN2 instead.of I.PL-kill-MSD-AD.ESS me-APUD.VERS I.PL-send-CND.CVB me-LAT IV-want
+Translation: So that we resemble one another and that you approach my heart, I'd love if you could send your three sons to me so I could kill them instead of my son."
+Sentence: Hoboy q’orolaz užä yizi baƛ’ärułi riynosi, ʕoƛiran esnaza q’ut’i bodin ža exuranixƛin.
+Gloss: now widow-GEN2 son-ERG DEM2.IPL I.PL-cheat-MSD IV-know-ANT.CVB seven.OBL-TOP brother-PL-ERG agreement III-do-PFV.CVB DEM1.SG kill-MSD-AD.ESS-QUOT
+Translation: Now, after the seven brothers knew that the widow's son had cheated them, they agreed to kill him.

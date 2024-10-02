@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bezučey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bezučey: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ƛ’ˤuƛ’or bizin bezunosi, elo yizir gondu yesun, elo tełer bezunosi, aždaħ bukayn.
+Gloss: roof-SUPER.LAT I.PL-get.up-PST.UNW I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT big.hole II-find-PFV.CVB there into I.PL-look-ANT.CVB dragon III-see-PST.UNW
+Translation: They got up onto the roof, had a look and found a big hole; when they looked into it, they saw the dragon.
+Sentence: Tełer bik’in bezuzaƛ’, ʕoƛnon esnabi haqa bogun bezun ƛexun.
+Gloss: to.the.inside I.PL-go-PFV.CVB I.PL-look-CSL.CVB seven-TOP brother-PL mouth-IN.ESS I.PL-gape-PFV.CVB I.PL-look-PFV.CVB remain-PST.UNW
+Translation: When the seven brothers went inside and took a look, they remained looking with an open mouth.
+Sentence: Užin, kidnogon sida sidƛ’or bezun ƛexun, žedur žedu betin.
+Gloss: boy-and girl-and-CNTR one.OBL one.OBL-SUPER.LAT I.PL-look-PFV.CVB remain-PFV.CVB DEM1.IPL.OBL-LAT DEM1.IPL III-love-PST.UNW
+Translation: The boy and the girl were looking at each other and fell in love.

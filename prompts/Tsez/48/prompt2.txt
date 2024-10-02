@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rown.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rown
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rown:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zirulaw, mi äƛiru šebinon rown eli nexsi!
+Gloss: fox-VOC you say-PST.PRT something IV-bring-PFV.CVB we come-PST.WIT
+Translation: "Mr.(?) Fox, we have come to bring what you said!
+Sentence: Ele enła onočas k’eneč’yabin rižin iduɣorno ik’in, sasaqor k’eneč’yołäy xexoybin roɣno däqor rown horoƛin.
+Gloss: there DEM3b.IISG.OBL hen-GEN1 egg-PL-TOP IV-carry-PFV.CVB home-IN.ALL-TOP go-PFV.CVB in.the.morning-POSS.LAT egg-CONT.ABL young.animal-PL-TOP III.PL-hatch-PFV.CVB me-POSS.LAT III.PL-bring-PFV.CVB come.IMPR-QUOT
+Translation: "Here, carry these chicken eggs to your home; tomorrow bring me the chicks that have hatched from the egg."
+Sentence: Łˤonon barubin rown, Ismaʕilä nełqay ža łˤora ɣudi bertenno boyn.
+Gloss: three-TOP wife-PL-TOP II.PL-marry-PFV.CVB Ismail-ERG DEM1.IISG.OBL-POSS.ABL DEM1.SG three.OBL day marriage-TOP III-do-PST.UNW
+Translation: Ismail married the three wives and three days in a row celebrated his marriage.
+
+Approximate Matches:

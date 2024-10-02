@@ -1,0 +1,72 @@
+{
+  "word": "Walah",
+  "glosses": [
+    "God",
+    "1sg.want.PST",
+    "someone"
+  ]
+}
+{
+  "word": "sis",
+  "glosses": [
+    "one",
+    "single",
+    "just"
+  ]
+}
+{
+  "word": "ɣamas",
+  "glosses": [
+    "box",
+    "container",
+    "vessel"
+  ]
+}
+{
+  "word": "yodira",
+  "glosses": [
+    "II-do-CAUS-OPT",
+    "II-do-CAUS-OPT-QUOT",
+    "II-do-CAUS-OPT-QUOT"
+  ]
+}
+{
+  "word": "yetäsi",
+  "glosses": [
+    "IV-want-RES.PRT",
+    "want-PST.UNW",
+    "want-PFV.CVB"
+  ]
+}
+{
+  "word": "zows",
+  "glosses": [
+    "be.NPRS-PST.WIT",
+    "be.NPRS-PST.WIT",
+    "be.NPRS-PST.WIT"
+  ]
+}
+{
+  "word": "där",
+  "glosses": [
+    "LOC",
+    "by",
+    "DIST"
+  ]
+}
+{
+  "word": "adäytow",
+  "glosses": [
+    "DEM1.IISG.OBL-POSS.LAT-EMPH",
+    "box-ATTR.OBL",
+    "IV-want.to-PST.PFV"
+  ]
+}
+{
+  "word": "soder",
+  "glosses": [
+    "after",
+    "afterwards",
+    "later"
+  ]
+}

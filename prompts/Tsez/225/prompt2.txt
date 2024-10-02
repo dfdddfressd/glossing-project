@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word aynosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word aynosi: 
+
+Exact Matches
+Sentence: Roqnäy däł xizay rexadanix sadaq’ałer ħonƛ’äy bˤeƛ’ rowan ik’an, elazay aynosi, debeq žan esanƛin.
+Gloss: IV-happen-CND.CVB me-CONT.ESS behind III.PL-slaughter-MSD-AD.ESS alms-CONT.LAT mountain-SUPER.ABL sheep III.PL-bring-FUT.CVB go-FUT.DEF here-IN.ABL.DIST come-ANT.CVB you-POSS.ESS DEM1.SG-TOP tell-FUT.DEF-QUOT
+Translation: "In that case, I will go and bring the sheep from the mountain for slaughtering them for alms behind me(?), and when I come back here, I will tell it to you."
+Sentence: Uži idur aynosi, babiya nesił adäza zaɣrušaw biša erno.
+Gloss: son home-LAT come-ANT.CVB father-ERG DEM1.ISG.OBL-CONT.ESS before poison-ATTR food put-PST.UNW
+Translation: When the son came home, his father put poisoned food in front of him.
+Sentence: Aždaħes xexoyn bižin yeda idur aynosi, yisä yedu ɣˤʷay biłe ɣˤutkox ɣuɣudoxor bicin.
+Gloss: dragon-GEN1 young.animal-TOP III-carry-PFV.CVB DEM2.ISG home-LAT come-ANT.CVB DEM2.ISG.OBL-ERG DEM2.IISG dog III-as house-AD.ESS big.chain-AD.LAT III-tie-PST.UNW
+Translation: He carried the dragon's young home and tied it on a chain to the house, like a dog.
+
+Approximate Matches:
+Sentence: Q’aymoxor baynosi, bˤeƛä šida boxäƛin esirnosi, qˤayä elo didiwƛa žek’u yołƛin eƛin.
+Gloss: shelter-AD.LAT III-come-ANT.CVB pig-ERG why III-run.away-PST.WIT.INT-QUOT ask-ANT.CVB hare-ERG there which-INDEF man be-QUOT say-PST.UNW
+Translation: After coming to the tent, the pig asked: "Why did you run away?" and the hare said: "There is some man there!"
+Sentence: Q’ˤunan ozzar rukaynosi, aɣˤuxay bitor hunix oqno yeda zeyä äƛiruni hemeł ʕaƛaɣor.
+Gloss: two.OBL-TOP eye-PL-LAT IV-see-ANT.CVB mill-AD.ABL thither way-AD.ESS become-PFV.CVB DEM2.ISG bear-ERG say-PST.PRT-DEF DEM4.IISG.OBL village-IN.VERS
+Translation: When both of his eyes saw again, he got on his way away from the mill to the village that the bear had talked about.
+Sentence: Užä ža ragin łiyrxo rukaynosi, bazarganä yeda xizor oxirno.
+Gloss: boy-ERG DEM1.SG IV-lick-PFV.CVB finish-IPFV.CVB IV-see-ANT.CVB merchant-ERG DEM2.ISG back chase-PST.UNW
+Translation: When he saw that the boy was eating it up, the merchant chased him.

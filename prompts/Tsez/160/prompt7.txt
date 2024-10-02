@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žaqor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žaqor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žaqor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła žaqor beɣetow hibo teƛno.
+Gloss: DEM1.IISG.OBL-ERG boy-POSS.LAT III-small-EMPH stick give-PFV.CVB
+Translation: The eagle gave a small stick to the boy.
+Sentence: Ik’in k’oƛin nukarä bełiquz žaqor eƛin, mi xanä goƛ’ixƛin.
+Gloss: go-PFV.CVB run-PFV.CVB henchman-ERG hunter-GEN2 son-POSS.LAT say-PST.UNW you khan-ERG invite-PRS-QUOT
+Translation: The henchman ran off and told the hunter's son, "The king invites you."
+Sentence: Xanä eɣeni žaqor eƛäsi zown:
+Gloss: khan-ERG young-DEF son-POSS.LAT say-RES.PRT be.NPRS-PST.UNW
+Translation: The king said to his younger son:
+
+Approximate Matches:

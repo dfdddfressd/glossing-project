@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boƛƛäɣor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boƛƛäɣor: 
+
+Exact Matches
+Sentence: Howt’ay yäk’irun mi babiwqor där moƛał rukaysƛin eƛo, łˤora ɣudi žedu gulubi rišerłin, łi ħaƛurinč’eyn xecin, iħä łäƛ’or žedu rižinosi, ʕoloqanawni gulu łi ħaƛa boƛƛäɣor bäk’i, ečrunä lilyoxaytow ħaƛuƛin.
+Gloss: from.here II-go-IMM.ANT.CVB you father-POSS.LAT me-LAT dream-CONT.ESS IV-see-PST.WIT-QUOT say-IMPR three.OBL day DEM1.IPL horse-PL IV-eat-CAUS-CNC.CVB water drink-CAUS-NEG.PST.CVB-and leave-PFV.CVB river-IN.ESS water-SUPER.LAT DEM1.IPL III.PL-lead-ANT.CVB young-DEF horse water drink-INF III-middle-IN.VERS III-go old-DEF-ERG river.bank-AD.ABL-EMPH drink-QUOT
+Translation: "When you go, say to your father that I saw it in a dream: Although you feed those horses for three days, you don't give them water to drink, then you lead them over the water into a river; the young horse will go to the middle to drink water, the old one will drink from the riverbank instead."
+
+Approximate Matches:
+Sentence: Boƛƛäɣor bayzaƛ’ortow, gulun, nełaƛ’gon ƛ’irisini ža č’uħarawni žek’un ɣˤuɣˤuruni neł iħä butirno caƛin, boɣno bižin ƛ’iräy wˤałer.
+Gloss: III-middle-IN.VERS I.PL-come-POST.CVB-EMPH horse-and DEM1.IISG.OBL-SUPER.ESS-CNTR on-ATTR-DEF DEM1.SG proud-DEF man-and muddy-DEF DEM1.IISG.OBL river-IN.ESS I.PL-turn-PFV.CVB stick-PFV.CVB I.PL-take.away-PFV.CVB I.PL-take.out-PFV.CVB from.above downward-LAT
+Translation: Before they reached the middle, the horse and the proud man on it got stuck in that muddy river, and it pulled them downward.

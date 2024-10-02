@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roqun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roqun: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Baq’ˤu mesedno besuroqur teƛno, yisä ža besuro nesiq raładyołxor begirerno.
+Gloss: III-much gold-TOP fisherman-LAT give-PFV.CVB DEM2.ISG.OBL-ERG DEM1.SG fish DEM1.ISG.OBL-POSS.ESS sea-CONT.VERS III-let-CAUS-PST.UNW
+Translation: He gave the fisherman a lot of gold and had him let the fish into the sea.
+Sentence: Hudunč’e nucoł his roqux ƛexun mi.
+Gloss: nevertheless-INTS honey-CONT.ESS spring.wool IV-stick-IPFV.CVB remain-PST.UNW you
+Translation: you nevertheless were sticking the wool into the honey.

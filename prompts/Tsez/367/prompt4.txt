@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bok’k’äsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bok’k’äsi: 
+
+Exact Matches
+Sentence: Däz pikruxor, meža ža dey ħumukuli bok’k’äsi yoł, dey däqor xizor neƛƛin!”
+Gloss: me-GEN2 idea-AD.LAT you(I).PL.OBL-ERG DEM1.SG me-GEN1 camel III-steal-RES.PRT be me-GEN1 me-POSS.LAT back give-QUOT
+Translation: Methinks, you have stolen my camel, give it back to me!"
+
+Approximate Matches:
+Sentence: Zownƛax zownanuƛax ader zamanał Ceƛ’o sida ʕaƛa Ražbadinƛin ci rik’äsi bahadur.
+Gloss: be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB-NEG-QUOT earlier time-CONT.ESS Tsetlo one.OBL village-IN.ESS Razhbadin-QUOT name IV-go-RES.PRT hero
+Translation: Once upon a long time ago in the Tsetlo village there was a hero who went by the name of "Razhbadin".
+Sentence: Mix bik’äsi zamanno boqzaƛ’, yiła ɣˤanaza yeda neła nełdäɣor ƛirbałix ižix.
+Gloss: time III-go-RES.PRT time-TOP III-become-CSL.CVB DEM2.IISG.OBL woman-ERG DEM2.ISG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-APUD.VERS hospitality-AD.ESS lead-PRS
+Translation: Because some time had passed, that woman let him be her guest.
+Sentence: Neła quł Ħusen zown ciqaɣor ik’äsi.
+Gloss: DEM1.IISG.OBL day-CONT.ESS Hussein be.NPRS-PST.UNW forest-IN.VERS go-RES.PRT
+Translation: On that day, Hussein had gone into the forest.

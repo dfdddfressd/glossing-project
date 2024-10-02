@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bik’inosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bik’inosi: 
+
+Exact Matches
+Sentence: Sida quł bet’erhanno bet’erhanes užin ƛˤoreł bik’inosi, yiła neł ʕaƛos dibir iduɣor goƛ’in.
+Gloss: one.OBL day-CONT.ESS master-and master-GEN1 son-and war-CONT.ESS I.PL-go-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL village-GEN1 imam home-IN.ALL invite-PST.UNW
+Translation: One day, when the master and the master's son went to war, she invited the village's imam to their home.
+Sentence: Elayn boqno dahawtow bitaɣor bik’inosi, yisi žoyä žeduqor eƛin, di ža kid yowanix ik’ix, däz ža c’aq’ rok’äwa yisäƛin.
+Gloss: there-IN.ABL-TOP I.PL-become-PFV.CVB a.little-EMPH distance-IN.VERS I.PL-go-ANT.CVB DEM2.ISG.OBL boy-ERG DEM1.IPL.OBL-POSS.LAT say-PFV.CVB me DEM1.SG girl II-marry-MSD-AD.ESS go-PRS me-GEN2 DEM1.SG much heart-IN.ESS-Q II-take-PST.WIT.INT-QUOT
+Translation: When they had gone just a little further, that boy said to them: "I am going to marry this girl; did she really take me into her heart?"
+Sentence: Boƛƛogon zaman bik’inosi, hemedurtow sosigon neła esirno.
+Gloss: III-middle-CNTR time III-go-ANT.CVB so-EMPH again-CNTR DEM1.IISG.OBL-ERG ask-PST.UNW
+Translation: After a while, she asked it again.
+
+Approximate Matches:
+Sentence: Roƛƛ’o q’ˤanogon anƛ’ rik’inosi, hemedurtow riyrinč’ey rekan riqirno, dice reƛ ƛexunƛin xal bodinosi, sida quł rac’ace ƛexasi resun.
+Gloss: IV-half-SUPER.ESS two-CNTR week IV-go-ANT.CVB so-EMPH IV-explain-NEG.PST.CVB key-TOP IV-take.away-PFV.CVB how.much meat remain-PFV.CVB-QUOT examination III-do-ANT.CVB one.OBL day-CONT.ESS IV-eat-TERM remain-RES.PRT IV-find-PST.UNW
+Translation: After two weeks had passed, he took the key away without letting her know in the same way, and took a look how much meat would remain, and he found that it would remain to eat for one day.
+Sentence: Yedu šebi ʕalamałi riča rayxƛin yeda bazaryar ik’inosi, elon siskin besun anu:
+Gloss: DEM2.IISG what miracle IV-be-INF IV-must-PRS-QUOT DEM2.ISG bazar-IN.LAT go-ANT.CVB there-TOP anything III-find-PFV.CVB be.NEG
+Translation: "What wonder could this be?"; when he went to the market, he didn't find anything there:
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.

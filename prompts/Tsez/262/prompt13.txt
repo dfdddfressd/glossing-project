@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word howžedatow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word howžedatow: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nedur resunäy, däqay mežur ħumukulibin, žedaƛ’osi šebinon räqinč’iƛin, eƛin oqno yeda užin ičin.
+Gloss: so IV-exist-CND.CVB me-POSS.ABL you(I).PL.OBL-LAT camel-PL-TOP DEM1.IIPL.OBL-SUPER.ESS-ATTR something III.PL-get-NEG.FUT-QUOT say-PFV.CVB become-PFV.CVB DEM2.ISG boy-TOP remain-PST.UNW
+Translation: "If that's the case, you won't get the camels and what is on them from me," said the boy and remained.
+Sentence: Maħor boqnosi, bara xediwq esirno, yedu q’urec’nibin, žedaƛ’ ƛ’irisi q’ayn łasey besanƛin.
+Gloss: outside I.PL-become-ANT.CVB wife-ERG husband-POSS.ESS ask-PST.UNW DEM2.IISG mule-PL-and DEM1.IIPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT
+Translation: When they went outside, the wife asked her husband: "Whose might those mules and the wares on them be?"
+Sentence: Bitaɣor bok’äłrun, žeda žeduƛ xabarno boqno, ħumukulizaƛ’osini boƛik’u mesed teƛno yołin howža hibo bisan nesi žaqay, nełas elur beže raħat biča yoł, šidaƛin eƛiłiri ačqˤaynosi ža bak’za ħaƛanix łin roƛixnäy, mekoynosigon hemedurtow bišʷan riqinäy, t’ok’ow elur q’ʷˤariłi łinasƛin.
+Gloss: distance-IN.VERS I.PL-go.away-IMM.ANT.CVB DEM1.IIPL.OBL DEM1.IPL.OBL-SUB.ESS story-TOP III-become-PFV.CVB camel-PL-SUPER.ESS-ATTR-DEF half gold give-PFV.CVB however-TOP DEM4.SG stick III-buy-FUT.DEF DEM1.ISG.OBL boy-POSS.ABL DEM1.IISG.OBL-GEN1 we(I).OBL-LAT III-big recreation III-be-INF be why-QUOT say-CND.CVB.IRR be.thirsty-ANT.CVB DEM1.SG III-hit-LCV.CVB drink-MSD-AD.ESS water-TOP IV-appear-CND.CVB be.hungry-ANT.CVB-CNTR so-EMPH food-TOP IV-get-CND.CVB more we(I).OBL-LAT sadness why-QUOT
+Translation: After they disappered into the distance, they told themselves: "We will buy that stick from this boy for half of the gold on the camels; it will be such a relieve for us! [why?]", they would say(?), "Why would we be anymore sad, if, when we are thirsty, we hit it and water appears for drinking; and when we are hungry, we get food that way."

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rizira in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rizira: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yizirabi q’ˤanon Ražbadinzo barudäɣorno, xexzadäɣorno bik’in.
+Gloss: DEM2.PL two-TOP Razhbadin-GEN2 wife-APUD.VERS-and children-APUD.VERS-and I.PL-go-PST.UNW
+Translation: And the two of them went to his wife and the children.
+Sentence: Neširutow bˤeƛä c’idoƛ’or ƛoħon rizirno, qˤay łäxay buta begirno.
+Gloss: at.night-EMPH pig-ERG fire-SUPER.LAT pan-TOP IV-lift-PFV.CVB hare water-AD.ABL III-return-INF III-send-PST.UNW
+Translation: At night, the pig put the pan on the fire and sent the hare for water again.
+Sentence: Sida quł rocazo ɣudƛ’o yizirabi hunix boqxo.
+Gloss: one.OBL day-CONT.ESS IV-become.clean-RES.PRT.OBL day-SUPER.ESS DEM2.PL way-AD.ESS I.PL-become-PRS
+Translation: On a clear day then, they got on their way.

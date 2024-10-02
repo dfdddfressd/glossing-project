@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kawumos in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kawumos: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neł kawumoz acmoq rexoriłno zawru ɣˤʷak’un riqirno yizanƛin yaqru ža, ƛ’irir ža yoq’ˤugani acno yoƛ’ˤun Qartayn ƛ’iƛ’iłno yexun.
+Gloss: DEM1.IISG.OBL gate-GEN2 door-ERG-POSS.ESS IV-hang-PFV.CVB be.NPRS-PST.PRT hook-TOP IV-take.away-PFV.CVB II-get.up-FUT.CVB-QUOT II-begin-PST.PRT DEM1.SG above-LAT DEM1.SG II-heavy-ATTR-DEF door-TOP II-fall-PFV.CVB Qartay-TOP get.crushed-PFV.CVB II-die-PST.UNW
+Translation: Qartay took the hook that hang at the door of that gate, began to get up; the heavy door fell down, Qartay got crushed and died.
+Sentence: Bayzatow ʕoƛiran kawumoqosi rekarbi rixäsi resun.
+Gloss: III-come-LCV-EMPH seven.OBL-TOP gate-POSS.ESS-ATTR key-PL IV.PL-hang-RES.PRT IV.PL-find-PST.UNW
+Translation: Where he arrived, he found keys hanging on the seven gates.
+Sentence: Yeda, łukin tełxorno goƛ’inč’ey, best’alawni iłe kawumox hečk’er ƛexun.
+Gloss: DEM2.ISG who.ERG-even inside-AD.LAT-TOP invite-NEG.PST.CVB orphan-DEF as gate-AD.ESS upright remain-PST.UNW
+Translation: Because no one invited him inside, he stood there upright at the gate like an orphan.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: et’un.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": et’un
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word et’un:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yedagon et’un k’oƛin guluƛ’orno izin, xizazagon ħurženyabin ricin, q’ˤimƛ’ogon k’ukno erno elay bitor oxin.
+Gloss: DEM2.ISG-CNTR jump-PFV.CVB jump-PFV.CVB horse-SUPER.LAT-TOP get.up-PFV.CVB behind-IN.ESS-CNTR bag-PL-and III.PL-tie-PFV.CVB head-SUPER.ESS-CNTR cap-TOP put-PFV.CVB there-IN.ABL thither run.away-PST.UNW
+Translation: He, however, jumped onto the horse, tied the bags onto it, put the cap onto his head and rode away from there.
+Sentence: Elayn izin t’akanno yisno, et’un guluƛ’orno k’oƛin, elar bižin, t’ar bižin bigza ħalał žan akik’no, xizyo yižin xande t’akanno eqerno.
+Gloss: here-IN.ABL-TOP get.up-PFV.CVB glass-TOP II-take-PFV.CVB jump-PFV.CVB horse-SUPER.LAT-TOP jump-PFV.CVB there-IN.LAT III-lead-PFV.CVB thither III-lead-PFV.CVB III-very-ZA with.difficulties DEM1.SG-TOP tire-PFV.CVB afterwards II-carry-PFV.CVB khan-APUD.ESS glass-TOP put-PST.UNW
+Translation: He got up from there, took the glass and jumped onto a horse, lead it here and there, which tired him quite much, and then he carried the glass back and put it next to the king.
+Sentence: Elay ža oxirƛ’oräy, t’omceni žek’a mešok’lałäy boɣno musno, bełiqan imyoqorno icin, kinaw bišan rac’no, et’un k’oƛin mamalayƛ’no zown, oqno ik’in.
+Gloss: there-IN.ABL DEM1.SG chase-SIM.CVB span-EQU1-DEF man-ERG moustache-CONT.ABL III-take.away-PFV.CVB hair-TOP hunter pole-POSS.LAT-TOP tie-PFV.CVB entire food-TOP IV-eat-PFV.CVB jump-PFV.CVB jump-PFV.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB become-PFV.CVB go-PST.UNW
+Translation: When he chased him away from there, the span-sized man took a hair out of his moustache, tied the hunter to a pole, ate up the entire food, jumped on his rooster and rode away.
+
+Approximate Matches:
+Sentence: Zirun, k’et’un yołi boc’än, zeyän bayäru dawlaƛ’ žin yołƛax.
+Gloss: fox-and cat-and indeed wolf-ERG-and bear-ERG-and III-bring-PST.PRT prey-SUPER.ESS now be-QUOT
+Translation: And now the fox and the cat went to the prey that the wolf and the bear have brought that day.
+Sentence: Bet’un k’oƛin łˤonon esnabi butnoƛ’no zown nełqor eƛin:
+Gloss: I.PL-jump-PFV.CVB jump-PFV.CVB three-TOP brother-PL burka-SUPER.ESS-TOP be.NPRS-PFV.CVB DEM1.IISG.OBL-POSS.LAT say-PST.UNW
+Translation: The three brothers jumped onto the burka and said to it:
+Sentence: Yedu Ismaʕiles qˤaƛu yołƛin, łˤonon barubi ret’un k’oƛin maħor roƛixno.
+Gloss: DEM2.IISG Ismail-GEN1 shout be-QUOT three-TOP wife-PL II.PL-jump-PFV.CVB run-PFV.CVB outside II.PL-appear-PST.UNW
+Translation: "That's Ismail's shouting!", the three wives ran outside.

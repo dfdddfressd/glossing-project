@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bˤałno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bˤałno: 
+
+Exact Matches
+Sentence: Elaygon bitor bˤałno gulun ik’in, neširur sidaɣ ɣˤutkoxor ayn.
+Gloss: there-IN.ABL-CNTR thither III-strike-PFV.CVB horse-TOP go-PFV.CVB evening-LAT in.one.place house-AD.LAT come-PST.UNW
+Translation: From there he stroke his horse and went on and in the evening arrived at a house in some place.
+Sentence: Elo äsuruni žek’u guluƛ’no zown, bˤałno žan bižin ik’iƛ’oräy, sidaɣ mečoƛ’ aħinno yizirno, wˤałzoni dunyalƛ’aɣor oqno, nesiłgon xizay wˤałzoni dunyalƛ’aɣor xanes užin ik’in.
+Gloss: there find-PST.PRT-DEF man horse-SUPER.ESS-TOP ride-PFV.CVB III-strike-PFV.CVB DEM1.SG-TOP III-lead-PFV.CVB go-SIM.CVB in.one.place place-SUPER.ESS rock-TOP II-lift-PFV.CVB downward-ATTR.OBL-DEF world-SUPER.VERS become-PFV.CVB DEM1.ISG.OBL-CONT.ESS-CNTR behind downward-ATTR.OBL-DEF world-SUPER.VERS khan-GEN1 son-TOP go-PST.UNW
+Translation: The man he had found got on his horse, and while he got away, he lifted a rock in some place and got down into the underworld, and the prince followed him and went into the underworld as well.
+
+Approximate Matches:
+Sentence: Bˤałno gulun yeda qalamäɣor, nesä nesiz baruzadäɣor ezunč’ey ik’in.
+Gloss: III-strike-PFV.CVB horse-TOP DEM2.ISG fortress-IN.VERS DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 wife-PL-APUD.VERS look-NEG.PST.CVB go-PST.UNW
+Translation: His horse rushed on to that fortress and he went to his wives straight without looking.

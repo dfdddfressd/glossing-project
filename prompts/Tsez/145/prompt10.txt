@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yałruni.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yałruni
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yałruni:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Užä eƛin, anƛ’imarsi där hunixor qˤašo ero, mesedyos bašiqˤoy yałruni kid k’eda di ik’ix.
+Gloss: boy-ERG say-PFV.CVB week-LAT-ATTR me-LAT way-AD.LAT get.up-IMPR put-IMPR gold-GEN1 ring be-PST.PRT-DEF girl search-INF me go-PRS
+Translation: The boy answered: "Pack provisions for me for a way of one week, I'm going to search the girl with the golden ring."
+Sentence: Howži ža ɣamasno hokomƛ’o erno, eɣeni esiw xanes kid yałruni qalamxaɣor ik’in.
+Gloss: now DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB young-DEF brother khan-GEN1 daughter be-PST.PRT-DEF fortress-AD.VERS go-PST.UNW
+Translation: Now they put the box onto a carriage and the young brother went to the fortress where the king's daughter was.
+Sentence: Äzuru yisir ciqez raʕalłix yałruni sida ixiw ɣunoq soder bizix aždaħ-bikori bukayn.
+Gloss: look-PST.PRT DEM2.ISG.OBL-LAT forest-GEN2 edge-AD.ESS be-PST.PRT-DEF one.OBL big tree-POSS.ESS upward III-get.up-IPFV.CVB dragon~snake III-see-PST.UNW
+Translation: Looking around, he saw a dragon-snake climbing a tree that was standing at the edge of the forest.
+
+Approximate Matches:
+Sentence: Xizyogon urɣizi oqno xan, c’ohores q’ˤim anunč’uruni cudi sidaɣ qunyoxorno bayran, nesiz ʕagarłä ža šudał šušanix elay bižinč’ey xäcinč’i, hemełƛ’o där šebi ža c’ohor yałrun äyƛin.
+Gloss: then thinking become-PST.UNW khan thief-GEN1 head be.NEG-NEG.PST.WIT-PST.PRT-DEF corpse in.one.place farmstead-AD.LAT-TOP III-bring-FUT.CVB DEM1.ISG.OBL-GEN2 relatives-ERG DEM1.SG graveyard-CONT.ESS bury-MSD-AD.ESS there-IN.ABL III-carry-NEG.PST.CVB leave-NEG.FUT DEM4.IISG.OBL-SUPER.ESS me-LAT who DEM1.SG thief be-PST.PRT-TOP know-QUOT
+Translation: Then the king pondered: "I will bring the thief's headless corpse to the farmstead, his relatives won't leave without taking him from there to bury him on a graveyard."
+Sentence: Ža C’irdux yałrun iyn, łinasnotow čaran bexun p’estow anusi ɣamasya teł Qartayn ƛexun.
+Gloss: DEM1.SG Tsirdukh be-IMM.ANT.CVB know-PFV.CVB what.OBL-GEN1-TOP-EMPH possibility-TOP III-die-PFV.CVB sound-EMPH be.NEG-ATTR box-IN.ESS inside Qartay-TOP remain-PST.UNW
+Translation: She [then] knew it was Tsirdukh and that there was no way out, and without any sound, Qartay stayed in the box.
+Sentence: Ža łas ħalt’i yałrun čuqˤno k’oƛin yedu xizay.
+Gloss: DEM1.SG who.OBL-GEN1 work be-IMM.ANT.CVB notice-PFV.CVB run-PST.UNW DEM2.IISG behind
+Translation: Just when he noticed who's work this was, he ran behind [him].

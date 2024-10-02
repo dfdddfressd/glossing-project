@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word resunč’ey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word resunč’ey: 
+
+Exact Matches
+Sentence: Hič’č’a bercinawni kid šeƛ’un resunč’ey, howlotow ƛexun.
+Gloss: the.most beautiful-DEF girl clothing-TOP IV-find-NEG.PST.CVB there-EMPH remain-PST.UNW
+Translation: The most beautiful girl didn't find her clothes and thus stayed there.
+
+Approximate Matches:
+Sentence: Mi rac’no resunč’inäy, ezur di haqarƛin, ƛ’iri Bac’ali utin.
+Gloss: you III.PL-eat-PFV.CVB IV-exist-NEG.FUT.CVB-CND.CVB look-CAUS me mouth-IN.LAT-QUOT above Batsali turn-PST.UNW
+Translation: "If it's not the case that you have eaten them, let me look into your mouth!", Batsali insisted.

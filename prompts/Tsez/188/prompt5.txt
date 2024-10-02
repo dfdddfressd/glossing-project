@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: wasiyat.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": wasiyat
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word wasiyat:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemedur q’ʷaridno oqno ičin zawru yeda, babiya nesiqor boyn zawruni wasiyat rok’ƛ’or bayn.
+Gloss: so sadness-TOP become-PFV.CVB be-PFV.CVB be.NPRS-PST.PRT DEM2.ISG father-ERG DEM1.ISG.OBL-POSS.LAT III-do-PFV.CVB be.NPRS-PST.PRT-DEF legacy heart-SUPER.LAT III-come-PST.UNW
+Translation: So, being so sad, he recalled the legacy handed down to him by his father.
+Sentence: Nesä žazar wasiyat bodin:
+Gloss: DEM1.ISG.OBL-ERG son-PL-LAT legacy III-do-PST.UNW
+Translation: He left his sons his last will:
+
+Approximate Matches:
+Sentence: Dey esnabi, babiya badiru wasiyatyoƛ’ req’un t’o mesedyos łˤono saħ biča bay, amma t’o q’ˤano taraw saħ anu.
+Gloss: me-GEN1 brother-PL father-ERG III-fulfilled legacy-SUPER.ESS in.accordance.with here gold-GEN1 three sah I.PL-be-INF III-must but here two except.for sah be.NEG
+Translation: "My brothers, according to father's fulfilled legacy, 3 Sah of gold must be here, but here is nothing more than 2 Sah.

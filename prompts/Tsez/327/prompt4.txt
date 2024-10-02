@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ceyder in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ceyder: 
+
+Exact Matches
+Sentence: Žigoƛ’aygon uži ceyder ik’in.
+Gloss: again-SUPER.ABL-CNTR son eagle-APUD.LAT go-PFV.CVB
+Translation: The son went again to the eagle.
+Sentence: Bik’in yiziri neła ceyder, žedus murad bič’zi boqnosi neła eƛin:
+Gloss: III-go-PFV.CVB DEM2.IPL DEM1.IISG.OBL-ERG eagle-APUD.LAT DEM1.IPL.OBL-GEN1 wish understand III-become-ANT.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: They went to that eagle, and when he had understood their wish, the eagle said:
+
+Approximate Matches:
+Sentence: Łox äƛiru žoyä karuni tupis hil ceyde pureł č’aq’ˤin.
+Gloss: thrice say-PST.PRT boy-ERG shoot.from-PST.PRT-DEF rifle-GEN1 bullet eagle-APUD.ESS side-CONT.ESS hit-PST.UNW
+Translation: The third time the rifle's bullet shot from the boy hit next to the eagle.
+Sentence: K’ox äƛiru caƛin, hil dahaw ceyde igo yiłe č’aq’ˤinosi, nełaƛ’no k’ek’-bik’noanu.
+Gloss: twice say-PST.PRT shoot.with-PFV.CVB bullet a.little eagle-APUD.ESS near II-as hit-ANT.CVB then-TOP move-PFV.CVB-NEG
+Translation: He shot a second time, and when the bullet hit something near the eagle, it didn't move then either.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: dunyalƛ’o.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": dunyalƛ’o
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word dunyalƛ’o:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanä hemedurtow pakmos ʕabasin cuƛer kurno eƛinosi, Kusagon mesedyos ʕabasin cuƛer kurno eƛin, k’ešonad mi, mesedyos ʕabasi, dunyalƛ’o debeq roqxanusi šebintow anuƛin.
+Gloss: khan-ERG so-EMPH copper-GEN1 coin-TOP upward throw-PFV.CVB say-ANT.CVB Kusa-CNTR gold-GEN1 coin-TOP upward throw-PFV.CVB say-PST.UNW play you gold-GEN1 coin world-SUPER.ESS you-POSS.ESS IV-become-NEG.PRS.PRT thing-EMPH be.NEG-QUOT
+Translation: When the king threw the copper coin upward and said his phrase, Kusa threw up the golden coin up and said: "Play, golden coin, there is nothing in the world that you couldn't become!"
+Sentence: Madaƛäz oƛäxrun, bełiqanä tupin caƛin žan exurno neła kidbeqor eƛin, t’ok’ow dunyalƛ’o deber ħinq’i yołäsi moči yołäƛin.
+Gloss: gate-SUB.ESS.DIST appear-IMM.ANT.CVB hunter-ERG rifle-TOP shoot.with-PFV.CVB DEM1.SG-TOP kill-PFV.CVB DEM1.IISG.OBL-ERG girl-POSS.LAT say-PST.UNW anymore earth-SUPER.ESS you-LAT danger be-RES.PRT place be-Q-QUOT
+Translation: Just when he appeared under the gate, the hunter shot from his rifle killed him and said to the girl: "Is there any dangerous place for you in the world anymore?"
+Sentence: Neła guluƛ’no zown, waħazoni dunyalƛ’o idur aynosi, Okä kidbeqor maħlazaytow qˤaƛin, xexłiƛ’ bˤałay maħor roƛik’ gulu bexada retinƛin.
+Gloss: DEM1.IISG.OBL horse-SUPER.ESS-TOP ride-PFV.CVB below-ATTR.OBL-DEF world-SUPER.ESS home-LAT come-ANT.CVB Oku-ERG daughter-POSS.LAT court-IN.ABL.DIST-EMPH shout-PST.UNW quickness-SUPER.ESS dagger outside IV-pull.out horse III-slaughter-INF IV-want-PST.UNW-QUOT
+Translation: He rode home on that horse and when he came home into the underworld, Oku shouted to his daughter from the court: "Quick, get the dagger outside, I wanted to slaughter a horse!"
+
+Approximate Matches:
+Sentence: Neła baydanƛ’or aynosi, miƛ’zo iyos ruɣubin łiyn, šet’u utiƛ’oräy, yeda waħozoni dunyalƛ’orno ˤoƛ’un, sida ɣˤutkoz ƛ’ˤuƛ’ ƛ’iri c’oxno.
+Gloss: DEM1.IISG.OBL plain-SUPER.LAT come-ANT.CVB ram-ATTR.OBL blood-GEN1 prints-PL-TOP end-PFV.CVB around turn.back-SIM.CVB DEM2.ISG below-ATTR.OBL-DEF earth-SUPER.LAT-TOP fall-PFV.CVB one.OBL house-GEN2 roof-SUPER.ESS on hit-PST.UNW
+Translation: After he came to that plain, the ram's blood spots ended; when he turned around, he fell onto the earth/world below, and on the roof of a house.
+Sentence: Wˤałzoni dunyalƛ’or aynosi, užir elo Okus bercinaw kid yesun.
+Gloss: downward-GEN2-DEF world-SUPER.LAT come-ANT.CVB boy-LAT there Oku-GEN1 beautiful daughter II-find-PST.UNW
+Translation: When he came into the underworld, the boy found Oku's beautiful daughter there.
+Sentence: Žigoƛ’aygon dunyalƛ’otow ci rik’äsi doxtur goƛ’in nesider.
+Gloss: now-SUPER.ABL-CNTR world-SUPER.ESS-EMPH name IV-go-RES.PRT doctor call-PST.UNW DEM1.ISG.OBL-APUD.LAT
+Translation: But this time he called the most famous doctor in the world to himself.

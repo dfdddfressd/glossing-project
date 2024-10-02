@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word miƛ’i in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word miƛ’i: 
+
+Exact Matches
+Sentence: Sidaquł neširu šudax yeda yałzay, roƛiquraɣor xizor šilabi yołäsi, ƛ’iri hisno raqˤäsi sis miƛ’i bayn.
+Gloss: one.day at.night graveyard-AD.ESS DEM2.ISG be-SIM.CVB at.midnight-IN.VERS back horn-PL be-RES.PRT above spring.wool-TOP IV-show.up-RES.PRT one ram I.PL-come-PST.UNW
+Translation: One night while they were at the grave, at mighnight came a ram that had its horns backwards and accumulated whool.
+Sentence: K’ox äƛirugon užiłäy mesedyos šilabi yołäsi miƛ’i boqno.
+Gloss: twice ORD-CNTR boy-CONT.ABL gold-GEN1 horn-PL be-RES.PRT ram III-become-PST.UNW
+Translation: For the second time, the boy became a ram with golden horns.
+Sentence: Debez eniwq baqru hunarä däq boqxanuƛin, aždaħä žedur miƛ’i bexayn.
+Gloss: you-GEN2 mother-POSS.ESS III-happen-PST.PRT talent-ERG me-POSS.ESS III-become-IPFV.CVB-NEG-QUOT dragon-ERG DEM1.IPL.OBL-LAT ram III-slaughter-PST.UNW
+Translation: "Your mother's talent isn't mine", the dragon said and slaughtered a ram for them.
+
+Approximate Matches:
+Sentence: Šibaw ɣudƛ’o šudaƛ’ay ciyo raganix sis ixiw miƛ’it’a bayx zown.
+Gloss: every day-SUPER.ESS graveyard-SUPER.ABL salt IV-lick-MSD-AD.ESS one big ram-DISTR III-come-IPFV.CVB be.NPRS-PST.UNW
+Translation: Every day a big ram was coming to lick the salt from the grave.
+Sentence: Užä izin, miƛ’in bexayn, ƛäxuruni at’es magalun boyn.
+Gloss: son-ERG get.up-PFV.CVB ram-TOP III-slaughter-PFV.CVB remain-PST.PRT-DEF wheat-GEN1 bread-TOP III-do-PST.UNW
+Translation: The son got up, slaughtered the ram and made a bread from the remaining wheat.
+Sentence: Neła t’umiqay bˤaƛ’uru ħuli babiwz k’ukyoł boqun, miƛ’iłäy räšruni mesedyosnigon his ħamarno čˤaƛin esirno, baba, req’ezi roqxaƛin.
+Gloss: DEM1.IISG.OBL pigeon-POSS.ABL III-fall-PST.PRT feather father-GEN2 cap-CONT.ESS III-stick-PFV.CVB ram-CONT.ABL IV-fall-PST.PRT-DEF gold-GEN1-DEF-CNTR spring.wool chest-IN.LAT-TOP throw-PFV.CVB ask-PFV.CVB daddy approach IV-become-PRS-Q-QUOT
+Translation: She put the feather that fell from that pigeon onto her father's hat, and threw the golden whool that fell from the ram onto the chest and asked: "Daddy, does it fit?"

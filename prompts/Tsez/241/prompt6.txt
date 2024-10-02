@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yisiqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yisiqor: 
+
+Exact Matches
+Sentence: Debi iš anu žaƛin, bežet’ani esnabi bixzin boqno xabaryayn yisiqor rok’ƛ’osi murad t’ubazi boqinč’izaƛ’.
+Gloss: you-GEN1 concern be.NEG DEM1.SG-QUOT I.PL-old-DISTR-DEF brother-PL angry-TOP I.PL-become-PFV.CVB tell-PFV.CVB DEM2.ISG.OBL-POSS.LAT heart-SUPER.ESS-ATTR wish fulfill III-become-NEG.FUT.CVB-CSL.CVB
+Translation: "That's not your business.", said the older brothers angrily because their hearts' desire was not fulfilled.
+Sentence: Xizyo neła yisiqor mešok’lałäy bet’urno mus teƛno, debeƛ’ ɣudi rayza mečoƛ’ bik’ur mi yeduƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT moustache-CONT.ABL III-pull.out-PFV.CVB hair give-PFV.CVB you-SUPER.ESS day IV-come-LCV.CVB place-SUPER.ESS III-burn-CAUS you DEM2.IISG-QUOT
+Translation: Then it pulled out a hair from its whiskers and gave it to him, "When one day you are in trouble, burn it!"
+Sentence: Neła yisiqor eƛin, mi aynosi di bežigon bˤuƛ’si, šida mi di xʷasar bodäƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT say-PST.UNW you come-ANT.CVB me III-more-CNTR III-be.afraid-ATTR why you me rescue III-do-PST.WIT.INT-QUOT
+Translation: It said to him, "When you came, I was even more afraid; why did you save me?"
+
+Approximate Matches:
+Sentence: Nedur resunäy, hi enda sis lel, debeƛ’ ɣudi rayza quł ža mi yik’urƛin, yisiqorno eƛin, cey hawaƛ’ k’oƛin bik’in.
+Gloss: so IV-find-CND.CVB take.IMP DEM3b.SG one feather you-SUPER.ESS day IV-come-LCV.CVB day-CONT.ESS DEM1.SG you II-burn-CAUS-QUOT DEM2.ISG.OBL-POSS.LAT-TOP say-PST.UNW eagle air-SUPER.ESS run-PFV.CVB III-go-PST.UNW
+Translation: "If that's the case, take this feather, and on a day that brings trouble upon you, burn it!" the eagle said to him and flew away.

@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ciq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ciq: 
+
+Exact Matches
+Sentence: Ža igor yayƛ’oräy, awä äƛiruxor, meš kurnosi nełał adäz žopono ciq roƛixno.
+Gloss: DEM1.SG near-LAT II-come-SIM.CVB mouse-ERG say-PST.PRT-AD.LAT broom throw-ANT.CVB DEM1.IISG.OBL-CONT.ESS before dense forest IV-appear-PST.UNW
+Translation: When she came near, he - as the mouse had said - threw the broom and before her appeared a dense forest.
+
+Approximate Matches:

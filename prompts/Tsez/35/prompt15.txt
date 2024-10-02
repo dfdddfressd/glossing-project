@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ik’in.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ik’in
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ik’in:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.
+Gloss: one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW
+Translation: One day Bear Ear went to the spring the dragon was covering to get water.
+Sentence: Ik’in, ik’in babiwƛ’or kaɣat yegirno zawruni ečruni žek’uder ayn.
+Gloss: go-PFV.CVB go-PFV.CVB father-SUPER.LAT letter II-send-PFV.CVB be.NPRS-PST.PRT-DEF old-DEF man-APUD.LAT come-PST.UNW
+Translation: He went and went and came to the old man who had sent the letter to his father.
+Sentence: Howži ža ɣamasno hokomƛ’o erno, eɣeni esiw xanes kid yałruni qalamxaɣor ik’in.
+Gloss: now DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB young-DEF brother khan-GEN1 daughter be-PST.PRT-DEF fortress-AD.VERS go-PST.UNW
+Translation: Now they put the box onto a carriage and the young brother went to the fortress where the king's daughter was.
+
+Approximate Matches:
+Sentence: Žedu q’ˤanon xexbin rižin q’orolay duri bižin režet’ani esnazadäɣor yik’in.
+Gloss: DEM1.IIPL two-TOP children-TOP III.PL-carry-PFV.CVB widow run III-carry-PFV.CVB IV-old-DISTR-DEF sister-PL-APUD.VERS II-go-PST.UNW
+Translation: The widow carried the two children and ran to the older sisters.
+Sentence: Elay bitor bik’in yizi sida ʕalazanyoz lilyoxor bayn.
+Gloss: there-IN.ABL thither I.PL-go-PFV.CVB DEM2.IPL one.OBL lake-GEN2 river.bank-AD.LAT I.PL-come-PST.UNW
+Translation: The went on and came to the coast of a lake.
+Sentence: Yeženi kidbä, din yegir yiłde sadaq hunin regirnoƛin, eniwq esirnosi, yegirzaƛ’ šida yik’inč’uƛin bixzin yoqno eƛin.
+Gloss: II-old-DEF daughter-ERG me-TOP II-let DEM2.IISG.OBL-APUD.ESS together way-TOP IV-send-PFV.CVB-QUOT mother-POSS.ESS ask-ANT.CVB II-let-CSL.CVB why II-go-NEG.PST.WIT-QUOT angry-TOP II-become-PFV.CVB say-PST.UNW
+Translation: When the eldest daughter asked her mother: "Let me go with her together so I can see her off!", and the mother angrily said: "Why didn't you go when I let you?"

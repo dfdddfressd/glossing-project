@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ac in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ac: 
+
+Exact Matches
+Sentence: Xizaɣorsi magalu boɣƛ’oräy, Ħusenä ža q’ˤiƛin tełxorno kurno, ħoyos ac yuqin yičirno elo ža ik’un łiyace.
+Gloss: finally-ATTR bread III-take.away-SIM.CVB Hussein-ERG DEM1.SG push-PFV.CVB inside-AD.LAT-TOP throw-PFV.CVB oven-GEN1 door II-close-PFV.CVB II-restrain-PFV.CVB there DEM1.SG burn-PFV.CVB end-TERM
+Translation: While he was taking the last bread out, Hussein pushed him inside, shut the oven's door and restrained it until he was burned up there.
+Sentence: Ac ħišäsi yesuzaƛ’, boc’ä qˤaƛin, ħišixosi, ac seroƛin.
+Gloss: door lock-RES.PRT II-exist-CSL.CVB wolf-ERG shout-PST.UNW lock-PRS.PRT door unlock-IMPR-QUOT
+Translation: Because the door was locked, the wolf shouted: "It's locked, unlock the door!"
+Sentence: Šebey roqsiƛin, idur bik’inosi, ɣˤutkos ac tełäz ħišäsi yesun.
+Gloss: what-DUB IV-happen-PST.WIT-QUOT home-LAT I.PL-go-ANT.CVB house-GEN1 door inside-IN.ESS.DIST lock-RES.PRT II-find-PST.UNW
+Translation: "What happened?", they asked and when they went home, they found the house door locked from inside.
+
+Approximate Matches:

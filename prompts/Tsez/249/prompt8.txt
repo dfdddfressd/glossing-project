@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yoƛosin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yoƛosin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hudayzikogon neširu xanä baɣmoxor oƛosini uži egirno.
+Gloss: the.next.day-CNTR evening khan-ERG garden-AD.LAT middle-ATTR-DEF son send-PFV.CVB
+Translation: Next day in the evening the khan sent his middle son to the garden.
+Sentence: Yoƛosini, hič’č’an bercinawni xanes kid yołƛin, yukarno Ismaʕilä.
+Gloss: II-middle-ATTR-DEF the.most-TOP beautiful-DEF khan-GEN1 daughter be-QUOT II-show-PST.UNW Ismail-ERG
+Translation: "The middle one, the most beautiful daughter of the king.", Ismail showed here.

@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xalq’imoƛ’ä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xalq’imoƛ’ä: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža maxsarno bacin, łox äƛiru hunix Zeyes Aħya bˤałayn risno oč’ino q’ˤim yołali aždaħno bexurno xalq’imoƛ’ay yedu ɣudi roɣanƛintow ik’in.
+Gloss: DEM1.SG joke-TOP III-bother-PFV.CVB thrice say-PST.PRT way-AD.ESS bear-GEN1 ear dagger-TOP IV-take-PFV.CVB nine head be-ATTR dragon-TOP III-kill-PFV.CVB people-SUPER.ABL DEM2.IISG day IV-take.away-FUT.CVB-QUOT-EMPH go-PST.UNW
+Translation: Being bothered by this mockery, Bear Ear took his dagger and went to kill the dragon with the nine heads and to take this burden off the people.

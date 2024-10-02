@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žek’a.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žek’a
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žek’a:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.
+Gloss: so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT
+Translation: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.
+Sentence: Howži nesi žek’a ža uži debez mi hunix ik’iƛin egirno.
+Gloss: now DEM1.ISG.OBL man-ERG DEM1.SG boy you-GEN2 you way-AD.ESS go-QUOT let-PST.UNW
+Translation: Now the man let the boy go: "Go on your way!"
+Sentence: Ox̌oyoƛin łu eƛäƛin, esirno yisi žek’a yiziq.
+Gloss: Ohoyo-QUOT who.ERG say-PST.WIT.INT-QUOT ask-PST.UNW DEM2.ISG.OBL man-ERG DEM2.IPL-POSS.ESS
+Translation: "Who said Ohoyo?", that man asked him.
+
+Approximate Matches:
+Sentence: Xexłiƛ’ k’oƛin babiwderno yik’in, hemesi tusnaq’äzo užir teƛxa mi izmu guluƛ’ zowanirƛin, nełaq eƛin rok’äłrun, xan kid žek’anixƛin iza oqno.
+Gloss: quickness-SUPER.ESS run-PFV.CVB father-APUD.LAT-TOP II-go-PFV.CVB DEM4.ISG.OBL prison-IN.ESS-ATTR.OBL boy-LAT give-IPFV.CVB-Q you permission horse-SUPER.ESS ride-MSD-LAT-QUOT DEM1.IISG.OBL-POSS.ESS say-PFV.CVB IV-escape-IMM.ANT.CVB khan daughter beat-MSD-AD.ESS-QUOT get.up-INF begin-PST.UNW
+Translation: She quickly ran to her father, and when the words "Do you give the permission that the boy in prison can ride the horse?" broke out of her, the king got up to slap his daughter.
+Sentence: Mi žek’anix ɣˤilya bowsƛin eƛin, Alimaħama baruz gugya ɣˤilya basada oqno.
+Gloss: you beat-MSD-AD.ESS stick III-bring-PST.WIT-QUOT say-PFV.CVB Alimagomed-ERG wife-GEN2 back-IN.ESS stick III-measure-INF begin-PST.UNW
+Translation: "I brought a stick to beat you!", said Alimagomed and began to hit his wife's back with the stick.
+Sentence: Di žek’anč’e babiw nexxoƛin, yoł yałzatow q’ayn xecin užin oxin.
+Gloss: me beat-INF-TOP-INTS father come-PRS-QUOT be be-LCV.CVB-EMPH article-TOP leave-PFV.CVB boy-TOP run.away-PST.UNW
+Translation: Thinking that the father came to beat him, the boy left the goods where they were and ran away.

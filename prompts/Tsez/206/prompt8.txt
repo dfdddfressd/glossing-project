@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bara.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bara
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bara:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Maħor boqnosi, bara xediwq esirno, yedu q’urec’nibin, žedaƛ’ ƛ’irisi q’ayn łasey besanƛin.
+Gloss: outside I.PL-become-ANT.CVB wife-ERG husband-POSS.ESS ask-PST.UNW DEM2.IISG mule-PL-and DEM1.IIPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT
+Translation: When they went outside, the wife asked her husband: "Whose might those mules and the wares on them be?"
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.
+Sentence: Sida quł sasaqosi bara eƛin, di yaqˤuł xexbi royxosi, mi däde igono näxno, č’uħaraw šeƛ’un šeƛ’un madaħarno oƛäxnoƛin.
+Gloss: one.OBL day-CONT.ESS in.the.morning wife-ERG say-PST.UNW me today children III.PL-do-PRS.PRT you me-APUD.ESS near-TOP come-PROHIB gorgeous clothing-TOP put.on-PFV.CVB outside-IN.LAT-and appear-PROHIB-QUOT
+Translation: One day in the morning the wife said: "Today I am giving birth to the children, do not come near me and do not go outside in gorgeous clothing!"
+
+Approximate Matches:

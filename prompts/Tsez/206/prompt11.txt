@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: roqno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": roqno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word roqno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zira äƛiru łinaƛ’no nasin razi roqno.
+Gloss: fox-ERG say-PST.PRT what.OBL-SUPER.ESS-TOP all agree III.PL-become-PST.UNW
+Translation: All agreed on what the fox said.
+Sentence: Zamanałäy čanyan, cek’bintow ħalaq’ roqa roqno.
+Gloss: time-CONT.ABL she.goat-and goat.kid-PL-and-EMPH meager III.PL-become-INF III.PL-begin-PST.UNW
+Translation: After a while, the she.goat and the goat kids began to become meager.
+Sentence: Elay mekoyx yałru yisä bet’urno neł ɣunoqay c’udani heneš bac’nosi, nesiłäy ɣun roqno.
+Gloss: there-IN.ABL be.hungry-IPFV.CVB be-PST.PRT DEM2.ISG.OBL-ERG III-pull.out-PFV.CVB DEM1.IISG.OBL tree-POSS.ABL red-DEF apple III-eat-ANT.CVB DEM1.ISG.OBL-CONT.ABL tree IV-become-PST.UNW
+Translation: Then, he - being hungry - plucked a red apple from that tree and ate it, he became a tree.
+
+Approximate Matches:
+Sentence: Ele hoboda debi mi eɣʷedin et’no biqiräsi micxir boqzaƛ’, c’idaɣor kura baynč’iƛin, eƛin babiya, užä nesä nesir micxir boda oqsiƛin rok’u č’eze roqnosi.
+Gloss: there that you-GEN1 you sweat-TOP pour-PFV.CVB III-win-RES.PRT money III-become-CSL.CVB fire-APUD.VERS throw-INF III-must-NEG.FUT-QUOT say-PFV.CVB dad-ERG boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT money III-do-INF begin-PST.WIT-QUOT heart convinced[?] IV-become-ANT.CVB
+Translation: "There, because it's the money you earned with your own sweat, I don't have to throw it into the fire.", said the father, and was convinced that his son earned money for himself.
+Sentence: Waħ, šebi nesir roqnoƛin, Qartayä esirno.
+Gloss: whoa who DEM1.ISG.OBL-LAT IV-happen-PST.UNW-QUOT Qartay-ERG ask-PST.UNW
+Translation: "Oh, what happened with it?", said Qartay.
+Sentence: Ič’č’an yeɣeni esiya sasiłzaƛ’ortown, xexłiƛ’ iduɣor ƛaƛin daʕba bičirłin, nełqor žedu ʕenekizi roqnoanu.
+Gloss: the.most-TOP II-young-DEF sister-ERG get.dark-POST.CVB-EMPH-TOP quickness-SUPER.ESS home-IN.ALL go.IMPR-QUOT dispute III-be-CAUS-CNC.CVB DEM1.IISG.OBL-POSS.LAT DEM1.IPL listen II.PL-become-PFV.CVB-NEG
+Translation: Although the youngest sister argued: "We have to go home quick before it gets dark!", the didn't listen to her.

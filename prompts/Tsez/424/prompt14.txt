@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħadur in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħadur: 
+
+Exact Matches
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Sasaq qˤašinosi, Ismaʕil hunixor oqanix ħadur oqxo ukaynosi, ʕArabuzanä gulu bˤaƛoyn, din dowde sadaq yik’ixƛin.
+Gloss: in.the.morning get.up-ANT.CVB Ismail way-AD.LAT become-MSD-AD.ESS prepare become-IPFV.CVB see-ANT.CVB Arabuzan-ERG horse III-harness-PFV.CVB me-and you-APUD.ESS together II-go-PRS-QUOT
+Translation: After she got up in the morning and saw that Ismail was preparing to get on his way, Arabuzan harnessed her horse: "I am going with you."
+Sentence: Ražbadin ħadur oqxon iyn, ʕaƛoz ʕoloqza nesiq harizi rodin, elin Huläɣor dawlaƛ’ bižoƛin.
+Gloss: Razhbadin prepare become-IPFV.CVB-TOP know-PFV.CVB village-GEN2 young.person-PL-ERG DEM1.ISG.OBL-POSS.ESS request IV-do-PST.UNW we-TOP Georgia-IN.VERS prey-SUPER.ESS I.PL-lead-IMPR-QUOT
+Translation: Knowing that Razhbadin was preparing, the young people from the village asked him: "Lead us to Georgia for hunting as well!"
+
+Approximate Matches:
+Sentence: Sosisi ʕomoyn, mešin ričäsi zown regirxanuƛin, mežan ela riłetow eƛnoqor ħadurłi roda yałiƛin.
+Gloss: at.first-LNK donkey-and bull.calf-and III.PL-remain-RES.PRT be.NPRS-PFV.CVB III.PL-let-IPFV.CVB-NEG-QUOT you.PL-ERG-TOP we-ERG III.PL-as-EMPH winter-POSS.LAT preparation IV-do-INF else-QUOT
+Translation: At first, the donkey and the calf remained not letting them in: "You must as well, just like us, make preparation for the winter!"
+Sentence: Esiya eƛin, rigutow ħadurłi rodaniƛäy ħonƛ’ay bˤeƛ’ rowa ik’an diƛin.
+Gloss: brother-ERG say-PST.UNW IV-good-EMPH preparation IV-do-MSD-SUB.ABL mountain-SUPER.ABL sheep III.PL-bring-INF go-FUT.DEF me-QUOT
+Translation: His brother said: "Because this has to be well prepared, I'll go bring a flock of sheep down from the mountain."
+Sentence: Yeɣeni kidbeq esirnosi yołi, deber rätiru zamanał mi äƛiru šebin roda ħaduraw di yołƛin, eniwqor eƛin.
+Gloss: II-young-DEF daughter-POSS.ESS ask-ANT.CVB however you-LAT IV-want-PST.PRT time-CONT.ESS you say-PST.PRT thing IV-do-INF prepared me be-QUOT mother-POSS.LAT say-PST.UNW
+Translation: When she asked the youngest daughter, she said to her mother: "I'm ready to do whatever you say, whenever you want."

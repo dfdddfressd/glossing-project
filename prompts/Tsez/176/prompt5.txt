@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ˤano.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ˤano
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ˤano:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Haq’uł q’ˤano buci boɣnosi, eniya daʕba bičirno yiłał, debez mi ɣˤutkoƛ’or yuti, xedyor rätinč’iƛin.
+Gloss: family-CONT.ESS two month III-spend.time-ANT.CVB mother-ERG dispute III-be-CAUS-PFV.CVB DEM2.IISG.OBL-CONT.ESS you-GEN2 you house-SUPER.LAT II-turn.back husband-LAT IV-love-NEG.FUT-QUOT
+Translation: After spending two months at her family's, the mother had up a dispute with her: "Go back to your house and your husband won't like it."
+
+Approximate Matches:
+Sentence: Elor baynosi, yizi q’ˤanon bik’in hiɣa bixił kecno.
+Gloss: there-LAT I.PL-come-ANT.CVB DEM2.IPL.OBL two-TOP I.PL-go-PFV.CVB hayloft-IN.ESS hay-CONT.ESS sleep-PST.UNW
+Translation: When they came there, the two of them went into the hayloft to sleep in the hay.
+Sentence: Elo yizi sidä sidƛ’o łeɣin, q’ˤanon akiłace biħanayn.
+Gloss: there DEM2.IPL one.OBL-ERG one.OBL-SUPER.ESS grasp-PFV.CVB two-TOP get.tired-TERM I.PL-fight-PST.UNW
+Translation: There they grasped each other and fought until the two of them got tired.
+Sentence: Xizyo eženi esiya eƛin, q’ˤanon bexa adäza sis exun riguƛin.
+Gloss: afterwards old-DEF brother-ERG say-PST.UNW two-TOP I.PL-die-INF before one die-PST.UNW IV-good-QUOT
+Translation: Then the older brother said: "Before two die, it's better if [just] one dies.

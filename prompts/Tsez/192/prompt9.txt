@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xanez.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xanez
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xanez:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕAƛaza ec’no xabar šebiƛin yisä esirnosi, sida maduhalä esin, xanez yeɣeni kidbeƛäy bitor sidä sis esnabi bexursiƛin.
+Gloss: village-IN.VERS.DIST new story what-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB one.OBL neighbor-ERG tell-PST.UNW khan-GEN2 II-young-DEF daughter-SUB.ABL because.of one.OBL-Q one brother-PL I.PL-kill-PST.WIT-QUOT
+Translation: When he asked: "What's new in the village?", a neighbor told: "The brothers killed each other because of the king's youngest daughter."
+Sentence: Hudayziko xanez kidbä neła nełas ɣarabaš yezu-yoƛ’ˤanix łeno minutno beč’no bazaryaɣor yegirno.
+Gloss: the.next.day khan-GEN2 daughter-ERG DEM1.IISG.OBL DEM1.IISG.OBL-GEN1 servant II-examine-MSD-AD.ESS five minute-TOP III-cut-PFV.CVB bazar-IN.VERS II-send-PST.UNW
+Translation: The next day, the princess sent her own servant to the market for five minutes to have a look.
+Sentence: Yeda bełiƛ’ ik’a aqzay soder xanez nukarzaskin bełis bax bexun.
+Gloss: DEM2.ISG hunting-SUPER.ESS go-INF begin-SIM.CVB after khan-GEN2 henchman-PL-GEN1-even hunting-GEN1 success III-die-PST.UNW
+Translation: After he began to go hunting, even the king's henchmen's hunting luck deteriorated.
+
+Approximate Matches:
+Sentence: Sidaɣ lalašin łi räk’iza mečoƛ’, xanes kid teł yałruni k’emot’ ɣˤanazaq yiqin.
+Gloss: in.one.place spread-PFV.CVB water IV-go-LCV.CVB place-SUPER.ESS khan-GEN1 daughter inside be-PST.PRT-DEF wooden.case woman-POSS.ESS II-get-PST.UNW
+Translation: In one place, where the river spread out, the wooden chest with the princess inside got to a woman.
+Sentence: Elor bayrun xanes oz partalq’ay butiranił c’oxno.
+Gloss: there-LAT III-come-IMM.ANT.CVB khan-GEN1 army belongings-EQU2 III-turn-MSD-CONT.ESS meet-PST.UNW
+Translation: When the king's army arrived there, they started gathering the belongings.
+Sentence: Xizyo nesä kinaw raqru šebinon esin, xaner nesäq nesä łi ħaƛuxosini t’akan yetinƛin esirno.
+Gloss: afterwards DEM1.ISG.OBL-ERG entire IV-happen-PST.PRT something tell-PFV.CVB khan-LAT DEM1.ISG.OBL-ERG-POSS.ESS DEM1.ISG.OBL-ERG water drink-PRS.PRT-DEF glass II-want-PFV.CVB-QUOT ask-PST.UNW
+Translation: Afterwards, he told everything that happened and the king asked for the water-drinking-glass that he wanted.

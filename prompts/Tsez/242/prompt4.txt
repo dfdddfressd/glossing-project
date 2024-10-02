@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word biƛnon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word biƛnon: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ismaʕilqo oc’ino biƛno ƛˤeb yaynosi, muʕalimä xanqo riyrno, ƛuza teł yołäsi reƛ täƛno nesirƛin.
+Gloss: Ismail-POSS.ESS ten eight year II-come-ANT.CVB teacher-ERG khan-POSS.ESS IV-explain-PST.UNW bone inside be-RES.PRT meat give-PROHIB DEM1.ISG.OBL-LAT-QUOT
+Translation: When Ismail became eighteen years old, the teacher explained to the king: "Do not give him meat that contains bones!"
+Sentence: Nesä yiłaqor eƛin, sasaq q’arƛ’o ʕoƛno put yołali kedonno yisno din ayan, biƛno put yołäsi yisno min horoƛin.
+Gloss: DEM1.ISG.OBL-ERG DEM2.IISG.OBL-POSS.LAT say-PST.UNW tomorrow early-SUPER.ESS seven pood be-ATTR sledgehammer-TOP II-take-PFV.CVB me-and come-FUT.DEF eight pood be-RES.PRT II-take-PFV.CVB you-and come.IMPR-QUOT
+Translation: He said to her: "Tomorrow in the morning, I will come with the seven-pood sledgehammer, and you come with the eight-pood sledgehammer!

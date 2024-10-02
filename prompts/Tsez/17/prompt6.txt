@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: roqnäy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": roqnäy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word roqnäy:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howła däz xexzas tatuwa quqix, behizi roqnäy, hut’bi rešak’ace łi neƛ, debertow ažru bäqi”.
+Gloss: DEM3.IISG.OBL me-GEN2 child-GEN1 cheerfulness-Q dry.out-IPFV.CVB permit IV-become-CND.CVB lip-PL IV-moisten-TERM water give you-LAT-EMPH recompense III-get
+Translation: My child is getting weak; if it is possible, give her enough water to moisten her lips, she will recompensate you."
+Sentence: Xizyo yizi bazarganza yisił roƛƛo risno, neširu debin barusno c’ok’ini roqnäy, debi yałru maʕišat elur biča yoł, bercingo bara mi iduɣor egirnäy, ele enza łˤoran q’urec’niƛ’osi q’ay ħalalgotow deber biča yołƛin.
+Gloss: afterwards DEM2.IPL.OBL merchant-PL-ERG DEM2.ISG.OBL-CONT.ESS IV-middle IV-take-PST.UNW evening you-GEN1-TOP wife-GEN1-TOP scandal IV-happen-CND.CVB you-GEN1 be-PST.PRT fortune we(I).OBL-LAT III-remain-INF be good wife-ERG you home-IN.ALL let-CND.CVB here DEM3b.IIPL.OBL three.OBL-TOP mule-SUPER.ESS-ATTR article be.permitted-COND-EMPH you-LAT III-be-INF be-QUOT
+Translation: Then the merchants decided among themselves: "In the evening, if your wife makes a scandal, then your fortune will be ours, and when a good wife lets you into the home, all the articles on these three mules shall be yours."
+Sentence: Ħalt’in bodan dandi keze roqnäy, barubin rižanƛin, eƛin C’irduxä nełqor.
+Gloss: work-TOP III-do-FUT.CVB regularly meet II.PL-become-CND.CVB wife-PL-TOP II.PL-take.out-FUT.DEF-QUOT say-PST.UNW Tsirdukh-ERG DEM1.IISG.OBL-POSS.LAT
+Translation: "When we find some work to do [regularly?], we will find some wives.", said Tsirdukh to her.
+
+Approximate Matches:
+Sentence: Där sis debi haraƛ’ teqra bäti, behizi roqnäyƛin”.
+Gloss: me-LAT one you-GEN1 voice listen.to-INF III-want permit IV-become-CND.CVB-QUOT
+Translation: I want to hear your voice, if I may!"

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hemełƛ’o in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hemełƛ’o: 
+
+Exact Matches
+Sentence: Xizyogon urɣizi oqno xan, c’ohores q’ˤim anunč’uruni cudi sidaɣ qunyoxorno bayran, nesiz ʕagarłä ža šudał šušanix elay bižinč’ey xäcinč’i, hemełƛ’o där šebi ža c’ohor yałrun äyƛin.
+Gloss: then thinking become-PST.UNW khan thief-GEN1 head be.NEG-NEG.PST.WIT-PST.PRT-DEF corpse in.one.place farmstead-AD.LAT-TOP III-bring-FUT.CVB DEM1.ISG.OBL-GEN2 relatives-ERG DEM1.SG graveyard-CONT.ESS bury-MSD-AD.ESS there-IN.ABL III-carry-NEG.PST.CVB leave-NEG.FUT DEM4.IISG.OBL-SUPER.ESS me-LAT who DEM1.SG thief be-PST.PRT-TOP know-QUOT
+Translation: Then the king pondered: "I will bring the thief's headless corpse to the farmstead, his relatives won't leave without taking him from there to bury him on a graveyard."
+Sentence: Di muši pˤaƛunosi, mi nociƛ’or ati, xizyo mi kidbez kočorał teł uqˤeł, ža iduɣor yik’iƛ’oräy, mi q’ˤidar k’oƛo, hemełƛ’o mi di nociƛ’ay užiƛ’or utiran.
+Gloss: me breath thrash-ANT.CVB you louse-SUPER.LAT turn afterwards you girl-GEN2 forelock-CONT.ESS inside hide DEM1.SG home-IN.ALL II-go-SIM.CVB you down-LAT jump-IMPR DEM4.IISG.OBL-SUPER.ESS you me louse-SUPER.ABL boy-SUPER.LAT turn-FUT.DEF
+Translation: "When I blow, you will turn into the louse. Afterwards you will hide youself inside the girl's forelock. Before she go home, jump down and I will turn you back to the boy."
+Sentence: Xanä yisił adäza sual erno, kid yižiƛ’oräy bodač’in berten, nagaħ yoxiraniƛ’or yaynäy, hemełƛ’o bodanƛin.
+Gloss: khan-ERG DEM2.ISG.OBL-CONT.ESS before question put-PST.UNW girl II-lead-SIM.CVB III-do-NEG.FUT.DEF marriage suppose II-chase-MSD-SUPER.LAT II-must-CND.CVB DEM4.IISG.OBL-SUPER.ESS III-do-FUT.DEF-QUOT
+Translation: The king asked him a question: "While I am going to marry the girl, I will not make a wedding; if I have to chase her away, I will do it."
+
+Approximate Matches:
+Sentence: Hemełƛ’o ceyä eƛin, hi debi deber k’onč’aƛ’osi reƛno, yedun yałza caƛo, ƛ’irigon debez min zam-zames łi riħo, däzno hemedurtow riħoƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS eagle-ERG say-PST.UNW take.IMP you-GEN1 you-LAT leg-SUPER.ESS-ATTR meat-TOP DEM2.IISG-TOP be-LCV.CVB stick-IMPR above-CNTR you-GEN2 you-TOP Zam-Zam-GEN1 water IV-smear-IMPR me-GEN2-TOP so-EMPH IV-smear-IMPR-QUOT
+Translation: Then the eagle said: "Take the meat of your own leg and stick it where it used to be! And smear holy water on yours and smear it also on mine."
+Sentence: Hemełƛ’o Beqes ʕUneyzatä kidbez q’ˤimƛ’ay pardagi roɣno caƛin eƛin, yedu yoł mesedyos žežu yołalini debi kidƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS sun-GEN1 Uneyzat-ERG girl-GEN2 head-SUPER.ABL scarf IV-take.away-PFV.CVB throw-PFV.CVB say-PST.UNW DEM2.IISG be gold-GEN1 ponytail be-ATTR-DEF you-GEN1 daughter-QUOT
+Translation: Thereupon Sun's Uneyzat threw away the scarf off the girl's head and said: "She is your daughter with the golden ponytail.
+Sentence: Hemełƛ’otow bik’in žeda žedu esnazaq esin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS-EMPH I.PL-go-PFV.CVB DEM1.IPL.OBL-ERG DEM1.IIPL.OBL sister-PL-POSS.ESS tell-PST.UNW
+Translation: Immediately they went and told those sisters of this.

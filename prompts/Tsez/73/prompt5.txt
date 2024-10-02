@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: minaraƛ’or.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": minaraƛ’or
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word minaraƛ’or:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sidaquł sasaqosi akbar roɣa di minaraƛ’or izis.
+Gloss: one.day in.the.morning call.for.prayer IV-take.away-INF me minaret-SUPER.LAT get.up-PST.WIT
+Translation: One day in the morning I went up the minaret to call for the prayer.
+Sentence: Ceyä di isno own minaraƛ’or egirsi.
+Gloss: eagle-ERG me take-PFV.CVB bring-PFV.CVB minaret-SUPER.LAT let-PST.WIT
+Translation: The eagle picked me up and brought me to the minaret again.
+
+Approximate Matches:
+Sentence: Hunin resun žedu nexłin, sadaq mesed gogaƛ’orno boɣno čuret’no bok’no nełas di nˤoƛu yadi.
+Gloss: way-TOP IV-find-PFV.CVB DEM1.IPL come-CNC.CVB all gold meadow-SUPER.LAT-TOP III-take.away-PFV.CVB whip-TOP III-beat-PFV.CVB DEM1.IISG.OBL-GEN1 me ashes II-do
+Translation: And even if they come, when they find the way, I will take away all the gold onto a meadow and with the beat of my whip, I'll transform it into ashes.
+Sentence: Kid madaxor yaynosi, iduɣor ža yoqno yok’ełzaƛ’or noci q’ˤimƛ’ay k’oƛin madax ƛexun.
+Gloss: girl door-AD.LAT II-come-ANT.CVB home-IN.ALL DEM1.SG II-become-PFV.CVB II-be.in.time-POST.CVB louse head-SUPER.ABL jump-PFV.CVB door-AD.ESS remain-PFV.CVB
+Translation: The girl went home and just before the girl entered the house the louse jumped down and remained near the door.
+Sentence: Maħazay yutin yedu yayzaƛ’orgon, käcrus riłen rodin mežä utin c’oxno užin ičin, šebičey yiła radiƛin.
+Gloss: outside-AD.ESS-IN.ABL.DIST II-return-PFV.CVB DEM2.IISG II-come-POST.CVB-CNTR sleep-PST.PRT-GEN1 IV-as-TOP IV-do-PFV.CVB mattress-IN.ESS turn-PFV.CVB hit-PFV.CVB boy-TOP be-PFV.CVB what-INTS DEM2.IISG.OBL-ERG IV-do-QUOT
+Translation: Before she came back from outside, the boy layed down on the mattress and pretended to sleep [thinking]: "What the heck will she do?"

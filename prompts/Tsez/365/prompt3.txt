@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iduzaɣor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iduzaɣor: 
+
+Exact Matches
+Sentence: Xizyo Bilq’isdä ƛ’iräy k’ukno boɣno, bexorani neła nełas žežun bukarno, žedaqorno eƛin, howži meži iduzaɣor rik’iƛin, xizor žedun regirno.
+Gloss: afterwards Bilqisdi-ERG from.above cap-TOP III-take.away-PFV.CVB lengthy-DEF DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 ponytail-TOP III-show-PFV.CVB DEM1.IIPL.OBL-POSS.LAT-TOP say-PFV.CVB now you.PL home-PL-IN.ALL II.PL-go-QUOT back DEM1.IIPL-TOP II.PL-send-PST.UNW
+Translation: Then Bilqisdi took off her cap, showed her long ponytail and said to them: "Now go to your homes.", and she sent them back.
+Sentence: Neširu kinaw ħalt’imabin łiyrno nasin iduzaɣor butinosi, sida sidqo badiru ħalt’ozałäy esin.
+Gloss: evening entire work-PL-TOP finish-PFV.CVB all home-PL-IN.ALL III-return-ANT.CVB one.OBL-ERG one.OBL-POSS.ESS I.PL-do-PST.PRT work-PL-CONT.ABL tell-PST.UNW
+Translation: By the evening, when everyone has finished their works and returned home, they told each other about the work they did.
+
+Approximate Matches:
+Sentence: Babiya badiru wasimoxor, žedu netintow bełiƛ’ buq bätuzaɣort’a bik’ix zown.
+Gloss: dad-ERG III-do-PST.PRT testament-AD.LAT DEM1.IPL always-EMPH hunting-SUPER.ESS sun III-set-ATTR.OBL-IN.VERS-DISTR I.PL-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: According to the testament that their father gave, they always went hunting in the west.

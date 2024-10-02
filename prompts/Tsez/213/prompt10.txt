@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: maħin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": maħin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word maħin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Q’ˤano äƛiru ɣudƛ’ogon zap’aniłnotow bayn zira eƛin, kurxo besunäy xexoy kuro, yałi di maħin rok’no ɣun recura yołƛin.
+Gloss: two say-PST.PRT day-SUPER.ESS-CNTR firmly-TOP-EMPH III-come-PFV.CVB fox-ERG say-PFV.CVB throw-IPFV.CVB III-appear-CND.CVB young.animal throw-IMPR else me tail-TOP IV-beat-PFV.CVB tree IV-break-INF be-QUOT
+Translation: On the second day, the fox came firmly and said: "Throw me down a nestling, or else I'll knock down the tree with my tail!"
+Sentence: Nełar žukłi roda retizaƛ’, di xaner hič’č’a betixozoni gulus maħin reč’no, qˤirič’ nełaz mežiƛ ruqˤsi, nełƛ’or rutiraniƛäy.
+Gloss: DEM1.IISG.OBL-LAT evil IV-do-INF IV-want-CSL.CVB me khan-LAT the.most III-love-PRS.PRT.OBL-DEF horse-GEN1 tail-TOP IV-cut-PFV.CVB scissors DEM1.IISG.OBL-GEN2 mattress-SUB.ESS IV-hide-PST.WIT DEM1.IISG.OBL-SUPER.LAT IV-turn-MSD-SUB.ABL
+Translation: Because I wanted to harm her, I cut off the tail of the king's most beloved horse and hid the scissors under her mattress, so it would turn onto her.
+Sentence: Elo igoza bäsuru yizir ɣˤays oreznar k’oƛinosi, gulun saɣ boqno, adäzoƛ’aygon rigu rexora maħin roƛixno.
+Gloss: there near-ZA III-find-PST.PRT DEM2.IPL.OBL-LAT milk-GEN1 pond-IN.LAT jump-ANT.CVB horse-TOP cure III-become-PFV.CVB before-SUPER.ABL-CNTR IV-pretty IV-long tail-TOP IV-appear-PST.UNW
+Translation: There the jumped into a milky lake that they had found nearby, and the horse gut cured; its tail appeared, prettier and longer than before.
+
+Approximate Matches:
+Sentence: Boƛik’u xanez maħišatyoce micxirno teƛno, yisno xanä ɣamas kidbez idu eqerno.
+Gloss: half khan-GEN2 fortune-EQU1 money-TOP give-PFV.CVB II-buy-PFV.CVB khan-ERG box daughter-GEN2 room put-PST.UNW
+Translation: The king gave half of his fortune, bought the box and put it into his daughter's room.
+Sentence: Best’al eniwn, bužin erno nełade sadaq egäruni žek’un guluzaz maħizaqorno bicin ʕaƛay maħor boxirno.
+Gloss: step mother-and hope-TOP put-PFV.CVB DEM1.IISG.OBL-APUD.ESS together send-PST.PRT-DEF man-and horse-PL-GEN2 tail-PL-POSS.LAT-TOP I.PL-tie-PFV.CVB village-IN.ABL outside I.PL-chase-PST.UNW
+Translation: The step-mother and the man she sent together with her, who was put hope into, were tied to horses' tails and were chased out of the village.
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.

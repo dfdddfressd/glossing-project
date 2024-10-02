@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Eloš in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Eloš: 
+
+Exact Matches
+Sentence: Ħayran boqno yizä sidä sidqor eƛin, eloš nesi žek’uł adäza anusi šebinonwa anu, hudun nesiq łinaƛ’orkin reƛ’a regirełxanuwaƛin.
+Gloss: be.astonished I.PL-become-PFV.CVB DEM2.IPL-ERG one.OBL-ERG one.OBL-POSS.LAT say-PST.UNW over.there DEM1.ISG.OBL man-CONT.ESS before be.NEG-ATTR something-Q be.NEG nevertheless DEM1.ISG.OBL-POSS.ESS what.OBL-SUPER.LAT-even hand IV-let-POT-PRS-NEG-Q-QUOT
+Translation: They were surprised and talked among each other: "Isn't there everything possible on the table, but he nevertheless can't let his hand to any of it?"
+Sentence: Yizi elor bayzaƛ’, imyoq yicäsi nesä nesis barun yukarno, xanä eƛin, naʕanan bodin eloš neła ɣˤanazas nocu caƛoƛin.
+Gloss: DEM2.IPL there-LAT I.PL-come-CSL.CVB pole-POSS.ESS II-tie-RES.PRT DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 wife-TOP II-show-PFV.CVB khan-ERG say-PST.UNW curse-TOP III-do-PFV.CVB over.there DEM1.IISG.OBL woman-GEN1 saliva throw-IMPR-QUOT
+Translation: Because they came there, the king showed them his wife, tied to the pole, and said: "Curse and spit on that women over there!"
+Sentence: Eniya eƛin, nagon ža äči, eloš hisołäy tuturłi hok’xo yołƛin.
+Gloss: mother-ERG say-PST.UNW where-CNTR DEM1.SG be over.there spring.wool-CONT.ABL dirt pull.out-IPFV.CVB be-QUOT
+Translation: The mother said: "Where could he be; he is pulling out the dirt from the whool over there."
+
+Approximate Matches:

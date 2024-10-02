@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: guluzaƛ’ay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": guluzaƛ’ay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word guluzaƛ’ay:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Rigutow riguƛin rok’ƛ’orno rayn, maħorno yoqno yiła guluzaƛ’ay q’ayn boɣno pikru bodin, Ražbadinqo iłäsi iłewa yeda där iyäƛin.
+Gloss: IV-good-EMPH IV-good-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB outside-TOP II-become-PFV.CVB DEM2.IISG.OBL-ERG horse-PL-SUPER.ABL article-TOP III-take.away-PFV.CVB idea III-do-PFV.CVB Razhbadin-POSS.ESS resemble-RES.PRT as-Q DEM2.ISG me-LAT know-Q-QUOT
+Translation: "Very good", she thought, came outside and took the articles off the horse and thought: "He looks like Razhbadin."
+
+Approximate Matches:
+Sentence: Ik’in däz guluzaƛ’no ezu, deber bätiru howlay łˤono gulu łet’oƛin.
+Gloss: go-PFV.CVB me-GEN2 horse-PL-SUPER.ESS-TOP look you-LAT III-want-PST.PRT from.there three horse pick-IMPR-QUOT
+Translation: Go and see my horses, then pick the three horses that you want out of them.

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eluƛ’or in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eluƛ’or: 
+
+Exact Matches
+Sentence: Bara xanqor hoboy eluƛ’or oz nexxowaƛin eƛinosi, nesä eƛin, nexłin žedur huni räynč’i.
+Gloss: wife-ERG khan-POSS.LAT now we(I).OBL-SUPER.LAT army come-PRS-Q-QUOT say-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW come-CNC.CVB DEM1.IPL-LAT way IV-know-NEG.FUT
+Translation: When the kings wife asked the king: "Is the army coming towards us now?", he said: "Although they will come, they won't know the way.
+
+Approximate Matches:
+Sentence: ƛ’irir ik’in sis xexoyn biqirno, et’un guluƛ’orno k’oƛin, sosi čuret’ bok’no.
+Gloss: on-LAT go-PFV.CVB one young.animal-TOP III-take.away-PFV.CVB jump-PFV.CVB horse-SUPER.LAT-TOP jump-PFV.CVB once whip III-beat-PST.UNW
+Translation: He came closer, grabbed one young dragon, jumped onto his horse and cracked the whip once.
+Sentence: Elayn izin t’akanno yisno, et’un guluƛ’orno k’oƛin, elar bižin, t’ar bižin bigza ħalał žan akik’no, xizyo yižin xande t’akanno eqerno.
+Gloss: here-IN.ABL-TOP get.up-PFV.CVB glass-TOP II-take-PFV.CVB jump-PFV.CVB horse-SUPER.LAT-TOP jump-PFV.CVB there-IN.LAT III-lead-PFV.CVB thither III-lead-PFV.CVB III-very-ZA with.difficulties DEM1.SG-TOP tire-PFV.CVB afterwards II-carry-PFV.CVB khan-APUD.ESS glass-TOP put-PST.UNW
+Translation: He got up from there, took the glass and jumped onto a horse, lead it here and there, which tired him quite much, and then he carried the glass back and put it next to the king.
+Sentence: Sida quł ža guluƛ’orno utin, ža di bazaryarno bižin teƛsi.
+Gloss: one.OBL day-CONT.ESS DEM1.SG horse-SUPER.LAT-TOP turn-PFV.CVB DEM1.SG me bazar-IN.LAT-TOP III-lead-PFV.CVB sell-PST.WIT
+Translation: One day he turned into a horse, and I led him to the market and sold him.

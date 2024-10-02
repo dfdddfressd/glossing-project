@@ -1,0 +1,64 @@
+{
+  "word": "Elaygon",
+  "glosses": [
+    "there-IN.ABL-CNTR",
+    "thither",
+    "from.there-CNTR"
+  ]
+}
+{
+  "word": "bitor",
+  "glosses": [
+    "thither",
+    "thither-CNTR",
+    "there-IN.ABL"
+  ]
+}
+{
+  "word": "hunix",
+  "glosses": [
+    "way-AD.ESS",
+    "on his way",
+    "hunger hit him"
+  ]
+}
+{
+  "word": "ik’iƛ’oräy",
+  "glosses": [
+    "go-SIM.CVB",
+    "go.away-SIM.CVB",
+    "leave-SIM.CVB"
+  ]
+}
+{
+  "word": "zamanałäz",
+    "glosses": [
+        "time-CONT.VERS.DIST",
+        "one.OBL",
+        "after a while"
+    ]
+}
+{
+  "word": "yisiƛ",
+  "glosses": [
+    "DEM2.ISG.OBL-SUPER.LAT",
+    "DEM2.ISG.OBL-SUPER.ESS",
+    "DEM2.ISG.OBL-POSS.ESS"
+  ]
+}
+{
+  "word": "meko",
+  "glosses": [
+    "away",
+    "on his way",
+    "hit"
+  ]
+}
+{
+  "word": "c’oxno",
+  "glosses": [
+    "hunger",
+    "meet-ANT.CVB",
+    "on his way"
+  ]
+}

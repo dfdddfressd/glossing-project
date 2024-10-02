@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ozzaq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ozzaq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ozzaq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howžäy soder nediw šebin radinƛin, reƛ’an ozzaq riħin č’uran rukarerno, Bilq’isdä ža maħor egirno.
+Gloss: now-IN.ABL after such thing IV-do-PROHIB-QUOT hand-TOP eye-PL-POSS.ESS IV-smear-PFV.CVB light-TOP IV-show-CAUS-PFV.CVB Bilqisdi-ERG DEM1.SG outside send-PST.UNW
+Translation: "From now on, don't do such things anymore!", Bilqisdi put her hands onto his eyes, gave him back his eyelight and sent him outside.
+Sentence: Hemełƛ’o ozzaq reƛ’an riħin, xedyoz esiwq Bilq’isdä č’ura rukarerno.
+Gloss: DEM4.IISG.OBL-SUPER.ESS eye-PL-POSS.ESS hand-TOP IV-smear-PFV.CVB husband-GEN2 brother-POSS.ESS Bilqisdi-ERG light IV-show-CAUS-PST.UNW
+Translation: Thereupon, Bilqisdi laid her hand on his eyes and restored the eyesight for her husband's brother.
+Sentence: Idur ayruntow yexurno k’eneč’ žedu q’ˤunzontow ozzaq yiħinosi, sider sis bukayłin, ɣudi qˤašizaƛ’orkin žedu bužzi boqno anu, ozzałer kanłi baysƛin, hemece ɣˤaɣˤu bizizaq.
+Gloss: home-LAT come-IMM.ANT.CVB-EMPH II-kill-PFV.CVB egg DEM1.IPL.OBL two.OBL-ATTR.OBL-TOP-EMPH eye-PL-POSS.ESS II-smear-ANT.CVB one.OBL-LAT one I.PL-see-CNC.CVB day dawn-POST.CVB-even DEM1.IPL trust I.PL-become-PST.UNW be.NEG eye-PL-CONT.LAT light III-come-PST.WIT-QUOT as.many be.happy I.PL-get.up-CSL.CVB
+Translation: After he came home, he crushed an egg, smeared it on each of their eyes, and although they could see each other again, they couldn't believe it when it got dawn, and were even more happy when the light came into their eyes.
+
+Approximate Matches:
+Sentence: Didur di ħažƛ’o bik’an, däz ozzar šebin rukayxanuwaƛin?” - zeyä eƛin.
+Gloss: how me hajj-SUPER.ESS III-go-FUT.DEF me-GEN2 eye-PL-LAT thing IV-see-PRS-NEG-PST.WIT.Q-QUOT - bear-ERG say-PST.UNW
+Translation: "How should I go on hajj, when my eyes can't see a thing?", the bear said.
+Sentence: Ozurazaq reƛ’an riħin egirno yiła yeda, kʷaxatow debez ozzar č’ura rukayƛin.
+Gloss: eye-PL-POSS.ESS hand-TOP IV-smear-PFV.CVB send-PST.UNW DEM2.IISG.OBL-ERG DEM2.ISG soon-EMPH you-GEN2 eye-PL-LAT light IV-see-QUOT
+Translation: She lead her hands over his eyes and sent him away: "Soon your eyes are going to see the light again."
+Sentence: Howži uži ozzał ogun.
+Gloss: now boy eye-PL-CONT.ESS gape-PST.UNW
+Translation: Now the boy was making big eyes.

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: čuqˤnosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": čuqˤnosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word čuqˤnosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła ža beƛ’q’ˤu bac’anix łet’ix yałrułi nesir čuqˤnosi, c’eruc’a caƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG sheep III-eat-MSD-AD.ESS pick-IPFV.CVB be-MSD DEM1.ISG.OBL-LAT notice-ANT.CVB bow shoot.with-PST.UNW
+Translation: When he noticed that she was picking that sheep in order to eat it, he shot with his bow.
+
+Approximate Matches:
+Sentence: Ža łas ħalt’i yałrun čuqˤno k’oƛin yedu xizay.
+Gloss: DEM1.SG who.OBL-GEN1 work be-IMM.ANT.CVB notice-PFV.CVB run-PST.UNW DEM2.IISG behind
+Translation: Just when he noticed who's work this was, he ran behind [him].
+Sentence: Hemeła quł Okur čuqˤno, yisi užä nesiqay ʕilmu yiqärułi.
+Gloss: DEM4.IISG.OBL day-CONT.ESS Oku-LAT notice-PST.UNW DEM2.ISG.OBL boy-ERG DEM1.ISG.OBL-POSS.ABL science II-take.away-PST.PRT-CND.CVB.IRR
+Translation: That day, Oku noticed that the boy took away the science from him.
+Sentence: Xanes ħillan čuqˤno, kidbä ʕansaqor, bišodyołäysi zahru bok’ek’ƛinno eƛin, xizyo bercingo bišno.
+Gloss: khan-GEN1 trickery-TOP notice-PFV.CVB daughter-ERG walking.stick-POSS.LAT food-CONT.ABL-ATTR poison III-steal-QUOT-TOP say-PFV.CVB after good I.PL-eat-PST.UNW
+Translation: Noticing the king's trickery, and the daughter told the walking stick to remove the poison in the food, whereafter they ate well.

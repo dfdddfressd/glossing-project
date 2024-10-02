@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: dowder.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": dowder
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word dowder:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Debeł halmaɣłin risno, łäƛ’ ƛ’iri xanłi rodaniƛäy anu di dowder iħada nexäsiƛin, eƛin rizirno yisä mač’a.
+Gloss: you-CONT.ESS friendship-TOP IV-take-PFV.CVB water-SUPER.ESS above khanship IV-do-MSD-SUB.ABL be.NEG me you-APUD.LAT fight-INF come-RES.PRT-QUOT say-PFV.CVB IV-lift-PST.UNW DEM2.ISG.OBL-ERG dagger
+Translation: "I won't accept your friendship with you and I won't rule over the water, I came to you in order to fight!", he said and lifted the dagger.
+Sentence: Däz butna eli ozuri buqin bˤaɣizaƛ’or dowder bayrinč’us yołi, mi łemu yexa zowsƛin”.
+Gloss: me-GEN2 burka-ERG we eye III-close-PFV.CVB III-open-POST.CVB you-APUD.LAT I.PL-bring-NEG.PST.WIT-PST.WIT however you then.would II-die-INF be.NPRS-PST.WIT-QUOT
+Translation: "If my burka hadn't brought us to you before the wink of an eye, then you would have died."
+Sentence: Mi däƛ’ ʕayibno badin, di dowder harizi oqno aysƛin.
+Gloss: you me-SUPER.ESS fault-TOP III-do-PROHIB me you-APUD.LAT request become-PFV.CVB come-PST.WIT-QUOT
+Translation: Don't blame me [that] I came to ask you.
+
+Approximate Matches:
+Sentence: Bišƛ’oräytow nesä kidbez babiwqor xabar boƛik’no, hemedur sis beže q’ʷariʕelno dowqor keze boqno, mi ža t’ubazi badiƛin debeƛ’ rok’un rayn nexäsi yoł di dowderƛin.
+Gloss: I.PL-eat-SIM.CVB-EMPH DEM1.ISG.OBL-ERG girl-GEN2 father-POSS.LAT story III-push.out-PFV.CVB so one III-big necessity-TOP you-POSS.LAT meet III-become-PFV.CVB you DEM1.SG fulfill III-do-QUOT you-SUPER.ESS heart-TOP IV-come-PFV.CVB come-RES.PRT be me you-APUD.LAT-QUOT
+Translation: While they were eating, he started a conversation with the girl's father: "So there is a big necessity you have to do, and I have come to you and am convinced you can fulfill it."
+Sentence: Xizyo q’ˤidayn izin di dowderno nexno babiwqor eƛan, horo howži yiłas meč’ beč’oƛin.
+Gloss: afterwards down-IN.ABL-TOP get.up-PFV.CVB me you-APUD.LAT-TOP come-PFV.CVB father-POSS.LAT say-FUT.DEF come.IMPR now DEM2.IISG.OBL-GEN1 neck III-cut-IMPR-QUOT
+Translation: Then, when I got up, I will come to you and say to my father: 'Come now, cut off her neck!'

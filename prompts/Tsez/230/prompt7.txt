@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word guluzar in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word guluzar: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Guluza di akik’xanuƛin, žawab teƛno guluzaxozo aħa.
+Gloss: horse-PL-ERG me tire-IPFV.CVB-NEG-QUOT answer give-PST.UNW horse-PL-AD.ESS-ATTR.OBL shepherd-ERG
+Translation: "Horses don't make me tired," answered the horse shepherd.
+Sentence: Bazarganbi guluzaxozo aħozider baynosi, nesiqayn hemedurtow bayan bisno, t’aza ħumukulibin roc’no ik’ix debełi sis uži c’oxinč’aƛin.
+Gloss: merchant-PL horse-PL-AD.ESS-ATTR.OBL shepherd-APUD.LAT I.PL-come-ANT.CVB DEM1.ISG.OBL-POSS.ABL-TOP so-EMPH information III-take-PFV.CVB from.here camel-PL-TOP III.PL-drive-PFV.CVB go-IPFV.CVB you-NMLZ one boy meet-NEG.PST.WIT-PST.WIT.INT-QUOT
+Translation: When the merchants came to the shepherd with the horses, they wanted to take his information, if
+Sentence: Best’al eniwn, bužin erno nełade sadaq egäruni žek’un guluzaz maħizaqorno bicin ʕaƛay maħor boxirno.
+Gloss: step mother-and hope-TOP put-PFV.CVB DEM1.IISG.OBL-APUD.ESS together send-PST.PRT-DEF man-and horse-PL-GEN2 tail-PL-POSS.LAT-TOP I.PL-tie-PFV.CVB village-IN.ABL outside I.PL-chase-PST.UNW
+Translation: The step-mother and the man she sent together with her, who was put hope into, were tied to horses' tails and were chased out of the village.

@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ozuri.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ozuri
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ozuri:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Dey di roɣno ozuri rac’xo, debi min rac’oƛin” - žawab teƛno zira.
+Gloss: me-GEN1 me IV-take.away-PFV.CVB eye IV-eat-PRS you-GEN1 you-TOP IV-eat-IMPR-QUOT - answer give-PST.UNW fox-ERG
+Translation: "I eat the eye I have removed, eat yours too!", answered the fox.
+Sentence: Hudu där riys nełas keč’oƛ’asi ozuri rexasi yałrułiƛin”.
+Gloss: so me-LAT IV-know-PST.WIT DEM1.IISG.OBL-GEN1 left eye IV-die-RES.PRT be-MSD-QUOT
+Translation: So I knew that it has a left eye that is blind."
+Sentence: C’aq’ maʕdinay, ozäy ozuri boɣxanusi yiłe šebin zown ža.
+Gloss: very lovely eye-IN.ABL eye III-take.away-NEG.PRS.PRT II-as thing be.NPRS-PST.UNW DEM1.SG
+Translation: She was very lovely and one couldn't take one's eye off of hers.
+
+Approximate Matches:
+Sentence: Igtow yeda ƛ’iri utizaƛ’ Tawadä esin, mi yowxozo barurno, deberno saɣłin rodin ħaƛanix di t’akan yizärun, gugyoq tungin bisno akiƛäza yik’ix yukayru kidbeƛ’ ozurin c’oxno, nełaz bercinłä ʕadal oys.
+Gloss: much-EMPH DEM2.ISG above turn-CSL.CVB Tavadi-ERG tell-PST.UNW you II-marry-PRS.PRT.OBL wife-LAT-and you-LAT-and health-TOP IV-do-PFV.CVB drink-MSD-AD.ESS me glass II-lift-IMM.ANT.CVB back-POSS.ESS copper.jug-TOP III-take-PFV.CVB window-SUB.VERS II-go-IPFV.CVB II-see-PST.PRT girl-SUPER.ESS eye-TOP hit-PFV.CVB DEM1.IISG.OBL-GEN2 beauty-ERG intoxication do-PST.WIT
+Translation: Because he insisted so much, Tavadi told him: "Right after lifting my glass to drink on your and your soon to be married wife, my eye met this girl whom I saw going under the window and taking a jar on her back, and her beauty was intoxicating."
+Sentence: Nesä ik’in xanez kidbes räxuruni ozuras meča ɣʷays ozuri ernosi, nełar nełaz ozuriƛ’aygon rig rukada roqno.
+Gloss: DEM1.ISG.OBL-ERG go-PFV.CVB khan-GEN2 daughter-GEN1 IV-die-PST.PRT-DEF eye-GEN1 instead.of dog-GEN1 eye put-ANT.CVB DEM1.IISG.OBL-LAT DEM1.IISG.OBL-GEN2 eye-SUPER.ABL-CNTR IV-well IV-see-INF IV-begin-PST.UNW
+Translation: He went and after putting a dog's eye in place of the princess' dead eye, she began to see well again from her eye.

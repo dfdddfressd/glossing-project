@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word dandir in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word dandir: 
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Yizi esnazaqor Ismaʕilä eƛin, howži mežin xizoxno sisxoli di žedude dandir egirƛin.
+Gloss: DEM2.IPL.OBL brother-PL-POSS.LAT Ismail-ERG say-PST.UNW now you.PL-TOP withdraw-PFV.CVB alone me DEM1.IPL.OBL-APUD.ESS towards let-QUOT
+Translation: Ismail said to those brothers: "Now withdraw and let me go against them alone!"
+Sentence: Acno yaɣˤin tełer aqruntow, suƛƛi dandir nexno bara xedyoq ałni bic’no.
+Gloss: door-TOP II-open-PFV.CVB to.the.inside become-IMM.ANT.CVB-EMPH immediately towards come-PFV.CVB wife-ERG husband-POSS.ESS hug III-hug-PST.UNW
+Translation: As soon as he opened the door and stepped inside, his wife came toward him and hugged him.
+
+Approximate Matches:
+Sentence: Elus xan exursiƛin, ozno, xalq’in roxin rik’iƛ’oräy, sidaɣaza puƛ’azar Ismaʕil k’oƛin, sidaɣazar ʕArabuzan yoqno nasin ahli dandirno butirno, xanłun ʕArabuzanno xecin, Ismaʕilgon wizirłunno ičin.
+Gloss: we(I).OBL-GEN1 khan kill-PST.WIT-QUOT army-and people-and III.PL-run.away-PFV.CVB III.PL-go-SIM.CVB in.one.place-IN.VERS.DIST side-SUPER.LAT.DIST Ismail run-PFV.CVB in.one.place-IN.LAT.DIST Arabuzan II-become-PFV.CVB all people together-TOP III-gather-PFV.CVB khan-LHUN Arabuzan-TOP leave-PFV.CVB Ismail-CNTR vizier-LHUN-TOP be-PST.UNW
+Translation: "They killed our king!", the army and the people ran away and at the same time, Ismail ran to one side, and Arabuzan ran to the other side, and they gathered all the people together and Arabuzan was elected king/queen and Ismail became vizier.
+Sentence: Assalamu ʕalaykumƛin salamno teƛno, babiwderno, žaderno dandirno nexno nesä esirno, meža sapar naɣor bicäsi yołƛin.
+Gloss: peace. ...be.with.you-QUOT greeting-TOP give-PFV.CVB father-APUD.LAT-and son-APUD.LAT-and together-TOP come-PFV.CVB DEM1.ISG.OBL-ERG ask-PST.UNW you(I).PL.OBL-ERG journey where-IN.VERS I.PL-follow-RES.PRT be-QUOT
+Translation: "Peace be with you!", he greeted and came with the father and his son and asked: "Where are you heading?"

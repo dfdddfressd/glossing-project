@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: utin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": utin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word utin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizor utin Pat’imatno yižin nesä nesiz ʕaƛaɣorno ik’in, mi däƛ’ay ʕaq’ilawn, c’odorawn zownƛin xanłin nełaqor teƛno žan paraxat ičin.
+Gloss: back turn.back-PFV.CVB Fatima-TOP II-lead-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 village-IN.VERS-TOP go-PST.UNW you me-SUPER.ABL intelligent-and clever-and be.NPRS-PST.UNW-QUOT khanate-TOP DEM1.IISG.OBL-POSS.LAT give-PST.UNW DEM1.SG-TOP calmly live-PST.UNW
+Translation: He returned with Fatima into his own village: "You are more intelligent and cleverer than me!", gave her the kingdom and lived calmly ever after.
+Sentence: Žigoƛ’aygon xanes yeženi kidno yok’ek’no, xizor utin idur bežet’ani esnazaƛ’ay ader ayn.
+Gloss: now-SUPER.ABL-CNTR khan-GEN1 II-old-DEF daughter-TOP II-steal-PFV.CVB back return-PFV.CVB home-LAT I.PL-old-DISTR-DEF brother-PL-SUPER.ABL before come-PST.UNW
+Translation: And now he stole the king's oldest daughter and returned home before his older brothers.
+Sentence: Xizyo yeda xizor utin babiwdäɣor nexno.
+Gloss: afterwards DEM2.ISG back return-PFV.CVB father-APUD.VERS come-PST.UNW
+Translation: Then he came back to his father.
+
+Approximate Matches:

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word madaxtow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word madaxtow: 
+
+Exact Matches
+Sentence: Q’orola nełqor eƛin, łäxor mi yik’iƛ’oräy yok’ek’anix ʕoloqbi urɣizi boqxo, hudu mi esiwqor eƛo, zam-zames łi et’näy, madaxtow nełas kik boƛixxosi, nełał xizay ik’iƛƛin.
+Gloss: widow-ERG DEM1.IISG.OBL-POSS.LAT say-PST.UNW water-AD.LAT you II-go-SIM.CVB II-steal-MSD-AD.ESS young.person-PL thinking I.PL-become-PRS so you brother-POSS.LAT say-IMPR Zam-Zam-GEN1 water pour-CND.CVB outside-AD.ESS-EMPH DEM1.IISG.OBL-GEN1 spring III-appear-PRS.PRT DEM1.IISG.OBL-CONT.ESS behind go-OPT-QUOT
+Translation: The widow said to her: "Some young men are thinking about kidnapping you when you go to get water, so tell your brother that if he pours out holy water, then outside a spring of it will appear, behind which he should go."
+
+Approximate Matches:
+Sentence: Neła eniwqor eƛix, sidade ʕoloqza di yexurƛ’oräy, eloš madax ičin zawruni užä ƛ’irirno ayn, žedur łˤono ɣˤurušno teƛno xʷasar yoysƛin.
+Gloss: DEM1.IISG.OBL-ERG mother-POSS.LAT say-PRS one.OBL-APUD.ESS young.person-PL-ERG me II-kill-SIM.CVB over.there outside-AD.ESS be-PFV.CVB be.NPRS-PST.PRT-DEF boy-ERG above-LAT-TOP come-PFV.CVB DEM1.IPL.OBL-LAT three ruble-TOP give-PFV.CVB rescue II-do-PST.WIT-QUOT
+Translation: She said to her mother: 'When somewhere some young people were killing me, the boy who is standing over there outside came about, gave them three rubles and saved [me].'
+Sentence: Xanes sis ħalikataw madaxosi žek’u zown.
+Gloss: khan-GEN1 one mean gate-AD.ESS-ATTR man be.NPRS-PST.UNW
+Translation: The king had a mean guard.
+Sentence: Xizyo madaxosinin ayn, xandärno yižin neła nełas muradyołäy esin, wallahi, di žax debi kid esira nexäsi yołƛin.
+Gloss: afterwards yard-AD.ESS-ATTR-DEF-TOP come-PFV.CVB khan-APUD.VERS-TOP II-lead-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 wish-CONT.ABL tell-PST.UNW by.God me son-AD.ESS you-GEN1 daughter ask-INF come-RES.PRT be-QUOT
+Translation: Then the house-serf came, lead her to the king, and she told [him] of her wish: "By God, I have come to ask out the kings daughter to marry my son."

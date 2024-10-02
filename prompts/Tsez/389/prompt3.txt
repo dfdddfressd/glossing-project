@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bik’iƛ’orey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bik’iƛ’orey: 
+
+Exact Matches
+Sentence: Hunix bik’iƛ’orey, žedur ħumukulis ruɣu resun.
+Gloss: way-AD.ESS I.PL-go-SIM.CVB DEM1.IPL.OBL-LAT camel-GEN1 prints IV-find-PST.UNW
+Translation: While being on their way, they found the hoofprints of a camel.
+Sentence: Sadaq bik’iƛ’orey, sida sidqo xabaryabi esix Ražbadinno halmaɣbin cezyazno qazaqzazno ʕurqixor bayx.
+Gloss: together I.PL-go-SIM.CVB one.OBL-ERG one.OBL-POSS.ESS story-PL tell-IPFV.CVB Razhbadin-and friend-PL-and Tsez-GEN2-and Georgian-PL-GEN2-and border-AD.LAT I.PL-come-PRS
+Translation: While they were walking together, Razhbadin and his friends were talking with each other and came to the Tsez and Georgian border.
+Sentence: Qazaqzar roda šebinon koƛ’inč’ey, sasiw ɣudin roqzaƛ’, xizaz k’oƛin bik’iƛ’orey, yizi rešt’izi boqno Ražbadin aqˤza mečox igo.
+Gloss: Georgian-PL-LAT IV-do-INF something understand.to-NEG.PST.CVB gloomy day-TOP IV-become-CSL.CVB from.behind run-PFV.CVB I.PL-go-SIM.CVB DEM2.IPL take.a.rest I.PL-become-PFV.CVB Razhbadin hide-LCV place-AD.ESS near
+Translation: The Georgians didn't know what to do because the day got gloomy; and while running behind them they took a rest near the place where Razhbadin was hiding.
+
+Approximate Matches:
+Sentence: Gamiƛ’no zown baħna-bik’iƛ’orey, ža gamiƛ’osi žek’un, däx horoƛin, hemedurtow ƛ’iri utin.
+Gloss: boat-SUPER.ESS-TOP be.NPRS-PFV.CVB I.PL-walk.for.a.while-SIM.CVB DEM1.SG boat-SUPER.ESS-ATTR man-TOP me-AD.ESS come.IMPR-QUOT so-EMPH above turn-PST.UNW
+Translation: When they were walking around on the boat, that sailor insisted again: "Come with me!"

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕilmu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕilmu: 
+
+Exact Matches
+Sentence: Babiya eƛin, wallah, howda uži ʕarab ʕilmu t’et’ranix ižixƛin.
+Gloss: dad-ERG say-PST.UNW wallah DEM3.SG son Arabic science learn-MSD-AD.ESS lead-PRS-QUOT
+Translation: The father said: "By God, I am leading my son here to learn the Arabic science."
+Sentence: Kidbä eƛin, ʕilmu yiyxosi nasin babiya bexurxosi, ele hemedurt’a bexaruzas ƛuzabi yoł yiziƛin.
+Gloss: girl-ERG say-PST.UNW science II-know-PRS.PRT all dad-ERG I.PL-kill-PRS.PRT here so-DISTR I.PL-kill-PST.PRT-PL-GEN1 bone-PL be DEM2.IPL-QUOT
+Translation: The girl said: "My father kills all who know about science, these here are the bones of the thus killed."
+Sentence: Žaq oč’ino ƛˤeb yaynosi, babiwz rok’ƛ’or rayn, ʕarab ʕilmu t’et’ra ižanƛin.
+Gloss: son-POSS.ESS nine year II-come-ANT.CVB father-GEN2 heart-SUPER.LAT IV-come-PST.UNW Arabic science learn-INF lead-FUT.DEF-QUOT
+Translation: When the son became nine years old, the father had an idea: "I will send him to learn the Arabian science."
+
+Approximate Matches:
+Sentence: Žaq ʕaƛno ƛˤeb yayzay soder, idur own muʕalimno, xanä ža ʕilmuƛ’or oɣno.
+Gloss: son-POSS.ESS seven year II-come-SIM.CVB after home-LAT bring-PST.UNW teacher-TOP khan-ERG DEM1.SG science-SUPER.LAT spend.time-PST.UNW
+Translation: When the son became seven years old, the king brought a teacher into his home and he spent time on science.

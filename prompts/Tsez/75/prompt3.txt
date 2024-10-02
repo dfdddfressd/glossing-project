@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boqno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boqno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boqno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Esnazał xizaz ixiw raład boqno.
+Gloss: sister-PL-CONT.ESS behind big sea III-become-PST.UNW
+Translation: And a big sea formed behind the sisters.
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Harizi boqno ža:
+Gloss: request III-become-TOP DEM1.SG
+Translation: The dragon begged:
+
+Approximate Matches:
+Sentence: Hemełƛ’okin gama xʷasar boda boqnoanu, ƛ’iri zawru nasin xalq’in raładyoł ɣanq’izi boqno.
+Gloss: DEM4.IISG.OBL-SUPER.ESS-even boat rescue III-do-INF III-happen-PFV.CVB-NEG above be.NPRS-PST.PRT all people-TOP sea-CONT.ESS drown III-happen-PFV.CVB
+Translation: But it did not rescue the boat, all people drowned in the sea.
+Sentence: Žedu bužzi boqnoanu, mi iłeni łaciraqa xanes kidbabi rawnč’i, nediwt’a gulubi yołi nay deber riqixƛin.
+Gloss: DEM1.IPL believe I.PL-become-PFV.CVB-NEG you as-DEF light.headed.person-ERG khan-GEN1 daughter-PL II.PL-bring-NEG.FUT such-DISTR horse-PL however from.where you-LAT IV-get-PRS-QUOT
+Translation: They didn't believe him: "A light-headed person like you wouldn't bring the king's daughters, however, where did you get such horses from?"
+Sentence: Babiwq žan biqira k’ʷeze boqnoanu.
+Gloss: father-POSS.ESS DEM1.SG-TOP III-catch-INF can III-become-PFV.CVB-NEG
+Translation: The father couldn't catch him either.

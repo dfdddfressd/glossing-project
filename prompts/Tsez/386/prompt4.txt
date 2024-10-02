@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xuxix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xuxix: 
+
+Exact Matches
+Sentence: Sidä his xuxix zown, sis ek’anił c’oxno, ɣoq’ˤot’aniza butnin, xaličabin rodin.
+Gloss: one.OBL-ERG spring.wool comb-IPFV.CVB be.NPRS-PFV.CVB one spin-MSD-CONT.ESS hit-PFV.CVB other-DISTR-DEF-PL-ERG burka-and mat-PL-and IV-do-PST.UNW
+Translation: One was combing the wool, one was hitting it to spin, the others made the burka and mats.
+Sentence: Tabanaw manzilno xecin ik’inosi, yisir his xuxix yeže ɣˤanabi yesun.
+Gloss: long distance-TOP leave-PFV.CVB go-ANT.CVB DEM2.ISG.OBL-LAT spring.wool comb-IPFV.CVB II-old woman II-find-PST.UNW
+Translation: After having gone a long distance, he found a woman combing wool.
+Sentence: Q’ˤidan ičin his xuxix zawru bara esirno, łinaƛ’ mi qoqƛäƛin.
+Gloss: down-TOP sit-PFV.CVB spring.wool comb-IPFV.CVB be.NPRS-PST.PRT wife-ERG ask-PST.UNW what.OBL-SUPER.ESS you laugh-PST.WIT.INT-QUOT
+Translation: His wife who was sitting there combing wool asked: "What were you laughing about?"
+
+Approximate Matches:
+Sentence: Di ayzaƛ’or xuxin ek’no hisno, där bigu, qema regirxanusi butni bodoƛin.
+Gloss: me come-POST.CVB comb-PFV.CVB spin-PFV.CVB spring.wool-TOP me-LAT III-good rain IV-let-NEG.PRS.PRT burka III-do-IMPR-QUOT
+Translation: Before I come back, comb and spin the wool, and make a good burka for me, that doesn't let the rain go through."
+Sentence: Kidbä his xuxiƛ’oräy, nełaƛ’ yałru aq’ˤuban, q’ʷariłin bukaynosi, yisiq reže qoqoƛu regin.
+Gloss: girl-ERG spring.wool comb-SIM.CVB DEM1.IISG.OBL-SUPER.ESS be-PST.PRT torture-and sadness-and III-see-ANT.CVB DEM2.ISG.OBL-POSS.ESS IV-big laughter IV-be.emitted-PST.UNW
+Translation: While the girl was combing the wool, he laughed loudly, when he saw the torture and sadness that was upon her.

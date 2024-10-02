@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yezunon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yezunon: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Idurno yižin yiła yaɣˤin tełer yezunosi, bercinaw ƛ’iräy ozuri boɣa betixanusi, kid yesun.
+Gloss: home-LAT-TOP II-carry-PFV.CVB DEM2.IISG.OBL-ERG II-open-PFV.CVB to.the.inside II-look-ANT.CVB beautiful from.above eye III-take.away-INF III-want-NEG.PRS.PRT girl II-find-PST.UNW
+Translation: She carried it home, opened it and when she looked inside, she found a girl so beautiful that she didn't want to take her eyes off from her.
+Sentence: Yaɣˤin tełer yezunosi, elo neła best’alawni kidbes eniw yołƛax.
+Gloss: II-open-PFV.CVB to.the.inside II-look-ANT.CVB there DEM1.IISG.OBL-ERG step-DEF girl-GEN1 mother be-QUOT
+Translation: She opened it and when she looked inside, there was the stepdaughter's mother inside.
+Sentence: Nełaƛ’no mamalay q’oq’oƛixosin, akbar roɣxosin bičinč’izaƛ’, šudno rič’in tełer yezunosi, elo yiłar bercinaw kid yesun.
+Gloss: then-TOP rooster crow-PRS.PRT-and call.for.prayer IV-take.away-PRS.PRT-TOP III-cease-NEG.FUT-CSL.CVB grave-TOP IV-dig-PFV.CVB into II-look-ANT.CVB there DEM2.IISG.OBL-LAT beautiful girl II-find-PST.UNW
+Translation: Then the rooster still didn't stop crowing and cackling, so she dug out the grave, looked inside and found a beautiful girl.

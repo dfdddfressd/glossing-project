@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ahlimos in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ahlimos: 
+
+Exact Matches
+Sentence: Mi ʕiyaynäy, ahlimos šakno bäk’i, yižin xander min karƛin.
+Gloss: you cry-CND.CVB people-GEN1 suspicion-TOP III-go II-carry-PFV.CVB khan-APUD.LAT you-TOP throw-QUOT
+Translation: "If you cry, people will get suspicious and throw you before the king."
+
+Approximate Matches:
+Sentence: Nesiƛ’ bezanixƛin bayru ahlimor žoyä bˤeƛ’es šebint’a teƛxo zown.
+Gloss: DEM1.ISG.OBL-SUPER.ESS I.PL-look-MSD-AD.ESS-QUOT I.PL-come-PST.PRT people-LAT son-ERG sheep-GEN1 thing-DISTR give-IPFV.CVB be.NPRS-PST.UNW
+Translation: The son gave out one sheep each for every person who came to look after him.
+Sentence: Hunix dandir c’axru ahlimo esirzaƛ’, žedur teƛxo užä łäs bic’äsi q’ut’u łiyrno.
+Gloss: way-AD.ESS towards meet-PST.PRT people ask-CSL.CVB DEM1.IPL-LAT give-IPFV.CVB boy-ERG water-GEN1 III-fill-RES.PRT earthen.jug finish-PST.UNW
+Translation: Because on the way, people whom he met on the way, asked him, the boy was giving them [water] and the jug filled with water was finished.
+Sentence: Neła äƛiruxor, xanez užä ač’urqor gulun bicin, k’ulä bäsuru ahlimoqor salamno teƛno eƛin, däqor meža maxsar boyłin, yiła guluqor badinoƛin.
+Gloss: DEM1.IISG.OBL-ERG say-PST.PRT-AD.LAT khan-GEN2 son-ERG handle-POSS.LAT horse-TOP III-tie-PFV.CVB side.street-IN.ESS I.PL-find-PST.PRT people-POSS.LAT greeting-TOP give-PFV.CVB say-PST.UNW me-POSS.LAT you(I).PL.OBL-ERG joke III-do-CNC.CVB DEM2.IISG.OBL horse-POSS.LAT III-do-PROHIB-QUOT
+Translation: According to what she said, the prince tied the horse to the handle gave a greeting to the people he found in the side street and said: "Although you can make jokes about me, do not make jokes about this horse!"

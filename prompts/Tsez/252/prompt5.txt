@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word däƛ’ay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word däƛ’ay: 
+
+Exact Matches
+Sentence: Xizor utin Pat’imatno yižin nesä nesiz ʕaƛaɣorno ik’in, mi däƛ’ay ʕaq’ilawn, c’odorawn zownƛin xanłin nełaqor teƛno žan paraxat ičin.
+Gloss: back turn.back-PFV.CVB Fatima-TOP II-lead-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 village-IN.VERS-TOP go-PST.UNW you me-SUPER.ABL intelligent-and clever-and be.NPRS-PST.UNW-QUOT khanate-TOP DEM1.IISG.OBL-POSS.LAT give-PST.UNW DEM1.SG-TOP calmly live-PST.UNW
+Translation: He returned with Fatima into his own village: "You are more intelligent and cleverer than me!", gave her the kingdom and lived calmly ever after.
+Sentence: Nesä naysinan nesiz raƛ’ma xabar begirno, c’ohor däƛ’ay ežis, di nesił q’ˤim rok’siƛin.
+Gloss: DEM1.ISG.OBL-ERG everywhere DEM1.ISG.OBL-GEN2 land-IN.ESS story III-send-PFV.CVB thief me-SUPER.ABL win-PST.WIT me DEM1.ISG.OBL-CONT.ESS head IV-beat-PST.WIT-QUOT
+Translation: He spread the story everywhere that "The thief has won over me, I declare my defeat.
+Sentence: Mi däƛ’ay ežen yoł, däzoƛ’aygon rigu tupin yoł debeq, mitow č’aq’ˤirno nesir bižoƛin eƛin, teƛno anu užä ža aɣi xanez nukarqor.
+Gloss: you me-SUPER.ABL old-TOP be me-ATTR.OBL-SUPER.ABL-CNTR IV-good rifle-TOP be you-POSS.ESS you-EMPH kill-PFV.CVB DEM1.ISG.OBL-LAT III-carry-IMPR-QUOT say-PFV.CVB give-PST.UNW be.NEG boy-ERG DEM1.SG bird khan-GEN2 henchman-POSS.LAT
+Translation: "You are older than me and also you have a rifle better than mine, kill one yourself and carry it to him!" the boy said and didn't give the bird to the king's henchman.
+
+Approximate Matches:
+Sentence: Neła kidbeqor eƛin, ele žigoƛ’aygon deber däƛ’aza aždaħes xexoyn biqis, howži mi esiwqor eƛo, deber halmaɣłun yičaniƛäyn, nesirgon barułun yičaniƛäyn Beqes ʕUneyzat yowanix ik’iƛƛin.
+Gloss: DEM1.IISG.OBL-ERG girl-POSS.LAT say-PST.UNW here again-SUPER.ABL-CNTR you-LAT me-SUPER.VERS.DIST dragon-GEN1 young.animal-TOP III-get-PST.WIT now you brother-POSS.LAT say-IMPR you-LAT friend-LHUN II-be-MSD-SUB.ABL-and DEM1.ISG.OBL-LAT-CNTR wife-LHUN II-be-MSD-SUB.ABL-and sun-GEN1 Uneyzat II-marry-MSD-AD.ESS go-OPT-QUOT
+Translation: She said to the girl: "Again now because of me you got hold of a dragon's young, now say to your brother that he go and mary the Sun's Uneyzat, so she may become a friend to you and a wife to him."

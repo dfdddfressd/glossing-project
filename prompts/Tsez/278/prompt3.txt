@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕaƛar in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕaƛar: 
+
+Exact Matches
+Sentence: Q’ˤimzo ʕaƛar ža t’umi baynosi, akä q’ˤida yäčiru sida kidbez koyä heqno.
+Gloss: oneself-GEN2 village-IN.LAT DEM1.SG pigeon III-come-ANT.CVB window-IN.ESS under II-sit-PST.PRT one.OBL girl-GEN2 hand-IN.ESS sit.down-PST.UNW
+Translation: When the pigeon had come to its own village, it sat down in the hand of a girl who was sitting under a window.
+Sentence: ʕOƛno ħonno, ʕoƛno iħun xecin ik’inosi, sida ʕaƛar ayn.
+Gloss: seven mountain-and seven river-and leave-PFV.CVB go-ANT.CVB one.OBL village-IN.LAT come-PST.UNW
+Translation: After he walked past seven mountains and seven rivers, he came into a village.
+Sentence: Alimaħama maduhalłiqozoni ʕaƛar ayn.
+Gloss: Alimagomed neighbourhood-POSS.ESS-ATTR.OBL-DEF village-IN.LAT come-PST.UNW
+Translation: Alimagomed came into a neighboring village.
+
+Approximate Matches:
+Sentence: Buqbetałer ʕaƛarno bik’in, dahaw iduzan bičin, godek’anyaɣor ʕoloqzałxor boqno.
+Gloss: sunset-CONT.LAT village-IN.LAT-TOP I.PL-go-PFV.CVB a.little home-DIST-TOP I.PL-be-PFV.CVB village.square-IN.VERS young.person-PL-CONT.VERS I.PL-become-PST.UNW
+Translation: At sunset they went into the village, spent some time at home, and went to the people at the godekan.
+Sentence: Nełaƛ’no zown ʕaƛarno nexnogon eɣeni esiya eƛin, dey eženi esiw esurƛin.
+Gloss: DEM1.IISG.OBL-SUPER.ESS-TOP be.NPRS-PFV.CVB village-IN.LAT-TOP come-PFV.CVB-CNTR young-DEF brother-ERG say-PST.UNW me-GEN1 big-DEF brother find-QUOT
+Translation: Sitting down on it, the young brother came home to the village and said: "Find my big brother!"
+Sentence: Roƛiqur raynosi yeda sida ʕaƛarno ayn, adäza räsuru ɣˤutkaɣor ik’in.
+Gloss: at.midnight IV-come-ANT.CVB DEM2.ISG one.OBL village-IN.LAT-TOP come-PFV.CVB ahead IV-exist-PST.PRT house-IN.VERS go-PST.UNW
+Translation: At midnight he came into a village and went into the house that lay before him.

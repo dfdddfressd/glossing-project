@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xexoy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xexoy: 
+
+Exact Matches
+Sentence: Sis nełarno kurno siskin där ƛexandaƛin, aɣzo rok’ƛ’orno rayn, dicego rok’er zaħmat roqłin, zirur sis xexoy kurno.
+Gloss: one DEM1.IISG.OBL-LAT-TOP throw-PFV.CVB anything me-LAT remain-FUT.DEF-COND-QUOT bird-ATTR.OBL heart-SUPER.LAT-TOP IV-come-PFV.CVB how.much-COND heart-LAT trouble IV-become-CNC.CVB fox-LAT one young.animal throw-PST.UNW
+Translation: "Throwing one down, there will still remain one for me.", thought the bird and although it was difficult, it threw one nestling to the fox.
+Sentence: Q’ˤano äƛiru ɣudƛ’ogon zap’aniłnotow bayn zira eƛin, kurxo besunäy xexoy kuro, yałi di maħin rok’no ɣun recura yołƛin.
+Gloss: two say-PST.PRT day-SUPER.ESS-CNTR firmly-TOP-EMPH III-come-PFV.CVB fox-ERG say-PFV.CVB throw-IPFV.CVB III-appear-CND.CVB young.animal throw-IMPR else me tail-TOP IV-beat-PFV.CVB tree IV-break-INF be-QUOT
+Translation: On the second day, the fox came firmly and said: "Throw me down a nestling, or else I'll knock down the tree with my tail!"
+Sentence: Kutak q’ʷarid boqno aɣi q’anon xexoy zira bac’zaƛ’.
+Gloss: too.much sadness III-become-PFV.CVB bird two-TOP young.animal fox-ERG III-eat-CSL.CVB
+Translation: The bird became even more sad because the fox has eaten two nestlings now.
+
+Approximate Matches:
+Sentence: Sida quł ciqaɣor qaca roda uži ik’inosi, nesir aɣzaz xexoyzadäɣor ɣunoq bizix bikori bukayn.
+Gloss: one.OBL day-CONT.ESS forest-IN.VERS firewood IV-do-INF boy go-ANT.CVB DEM1.ISG.OBL-LAT bird-PL-GEN2 young.animal-PL-APUD.VERS tree-POSS.ESS III-get.up-IPFV.CVB snake III-see-PST.UNW
+Translation: One day, when the boy went to the forest to get firewood, he saw a snake getting up a tree towards some bird chicks.
+Sentence: T’ok’ow bäxuru onočas xexoycekin elay iziłno anu.
+Gloss: anymore III-die-PST.PRT hen-GEN1 young.animal-EQU1-even there-IN.ABL get.up-POT-PST.UNW be.NEG
+Translation: He couldn't get up anymore, just like the little chicks of a dead hen.
+Sentence: Yeda neła gogaƛ’or aynosi, naysinan c’oxäsi buqno yołƛax, elozagon k’ešonayx xexoybin resun.
+Gloss: DEM2.ISG DEM1.IISG.OBL meadow-SUPER.LAT come-ANT.CVB everywhere hit-RES.PRT sun-TOP be-QUOT there-DIST-CNTR play-IPFV.CVB young.animal-PL-TOP III.PL-find-PST.UNW
+Translation: When he came on that meadow, the sun shined everywhere, and he found the youngs playing over there.

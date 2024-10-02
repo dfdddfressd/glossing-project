@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: haqazay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": haqazay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word haqazay:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža xabar yisä aħyaxorkin begirnoanu, baru yowač’inƛin di hedizi oqäsiƛin, t’ok’ow ža xabar meža haqazay maħor baɣnoƛin.
+Gloss: DEM1.SG story DEM2.ISG.OBL-ERG ear-AD.LAT-even III-let-PFV.CVB-NEG wife II-marry-NEG.FUT.DEF-QUOT me swear become-RES.PRT-QUOT anymore DEM1.SG story you(I).PL.OBL-ERG mouth-IN.ABL.DIST outside III-take.away-PROHIB-QUOT
+Translation: These words he didn't let to his ears, "I won't marry another wife!"... "I swear!"... "Don't say that anymore!",
+
+Approximate Matches:
+Sentence: Anu där t’ok’ow łinaqazaykin ħinq’iƛin, žawab nełan teƛno.
+Gloss: be.NEG me-LAT anymore what.OBL-POSS.ABL.DIST-even danger-QUOT answer DEM1.IISG.OBL-FUT.DEF give-PST.UNW
+Translation: And she answered: "There's no dangerous place for me anymore."

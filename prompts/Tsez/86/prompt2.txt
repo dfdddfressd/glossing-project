@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ziys.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ziys
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ziys:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła ziys reƛno rac’no łiyrno, ħaħno ƛäxuru ƛuzazaq nesis raɣin ric’erno, ʕoƛnon esnabin boqno bik’in, yedan žeda žedudäy et’urno.
+Gloss: DEM1.IISG.OBL cow-GEN1 meat-TOP IV-eat-PFV.CVB finish-PFV.CVB gnaw-PFV.CVB remain-PST.PRT bone-PL-POSS.ESS DEM1.ISG.OBL-GEN1 veranda-TOP IV-fill-PFV.CVB handle-INT brother-PL-TOP I.PL-become-PFV.CVB I.PL-go-PFV.CVB DEM2.ISG-TOP DEM1.IPL.OBL-ERG DEM1.IPL.OBL-APUD.ABL pull.out-PST.UNW
+Translation: After they had eaten up that cow's meat, the brothers left his veranda filled with the gnawed bones and left him behind.
+Sentence: Užä žeduqor eƛin, neła ziys ħošis režigon reɣet’a t’it’urbi roys yołi, bežigon baq’ˤu łemu där micxir bäqiƛin.
+Gloss: boy-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW DEM1.IISG.OBL cow-GEN1 hide-GEN1 IV-more-CNTR IV-small-DISTR piece-PL IV.PL-do-PST.WIT if III-more-CNTR III-much then.would me-LAT money III-get-QUOT
+Translation: The boy said to them: "If you had made even smaller pieces, then I would've gotten even more money."
+Sentence: Nesän hemedurtow esirno užiq, ža ziys ħoši teƛxanaƛin.
+Gloss: DEM1.ISG.OBL-ERG-TOP so-EMPH ask-PFV.CVB boy-POSS.ESS DEM1.SG cow-GEN1 hide sell-IPFV.CVB-NEG-Q-QUOT
+Translation: He asked the boy likewise: "Aren't you going to sell that cow hide?"
+
+Approximate Matches:

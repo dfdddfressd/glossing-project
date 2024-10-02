@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: k’oƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": k’oƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word k’oƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Ik’in k’oƛin nukarä bełiquz žaqor eƛin, mi xanä goƛ’ixƛin.
+Gloss: go-PFV.CVB run-PFV.CVB henchman-ERG hunter-GEN2 son-POSS.LAT say-PST.UNW you khan-ERG invite-PRS-QUOT
+Translation: The henchman ran off and told the hunter's son, "The king invites you."
+Sentence: Neła mixƛ’o yisä k’oƛin nełas kodi biqirno.
+Gloss: DEM1.IISG.OBL-ERG time-SUPER.ESS DEM2.ISG.OBL-ERG run-PFV.CVB DEM1.IISG.OBL-GEN1 hair III-take.away-PST.UNW
+Translation: At that time, he ran and took her by her hair.
+
+Approximate Matches:
+Sentence: Elo igoza bäsuru yizir ɣˤays oreznar k’oƛinosi, gulun saɣ boqno, adäzoƛ’aygon rigu rexora maħin roƛixno.
+Gloss: there near-ZA III-find-PST.PRT DEM2.IPL.OBL-LAT milk-GEN1 pond-IN.LAT jump-ANT.CVB horse-TOP cure III-become-PFV.CVB before-SUPER.ABL-CNTR IV-pretty IV-long tail-TOP IV-appear-PST.UNW
+Translation: There the jumped into a milky lake that they had found nearby, and the horse gut cured; its tail appeared, prettier and longer than before.
+Sentence: Dowƛ’or ħal bayza quł, enła ɣˤutka yałru imyoq ħobo bok’oƛin”.
+Gloss: you-SUPER.LAT trouble III-come-LCV.CVB day-CONT.ESS DEM3b.IISG.OBL-IN.ESS house-IN.ESS be-PST.PRT pole-POSS.ESS leg III-beat-IMPR-QUOT
+Translation: "On a day when you have trouble, kick against a pillar that is in the house."
+Sentence: Idur yaynosi, xedyoz eniya, qidoq tungi bok’oƛin yiłqor eƛinosi, bok’no neła qidoq.
+Gloss: home-LAT II-come-ANT.CVB husband-GEN2 mother-ERG wall-POSS.ESS copper.jug III-beat-IMPR-QUOT DEM2.IISG.OBL-POSS.LAT say-ANT.CVB III-beat-PFV.CVB DEM1.IISG.OBL-ERG wall-POSS.ESS
+Translation: After she came home, the husband's mother said to her: "Strike the jug against the wall." and she struck it against the wall.

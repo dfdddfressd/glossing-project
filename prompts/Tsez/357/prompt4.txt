@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boɣinč’ey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boɣinč’ey: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Eɣeni esiya ƛ’iri risno, žigoƛ’ayƛa didurnokin iča anu nesi žek’uƛ’ yałru q’ʷariłi biyrinč’eyƛin.
+Gloss: young-DEF brother-ERG above IV-take-PST.UNW now-SUPER.ABL-INDEF how-TOP-even be-INF be.NEG DEM1.ISG.OBL man-SUPER.ESS be-PST.PRT sadness III-find.out-NEG.PST.CVB-QUOT
+Translation: The younger brother insisted: "And now there is no way whatsoever to find out what is bothering this man."
+Sentence: Xalq’in, ʕaƛno bukaynosi, aždaħ nełaq ža biqinč’ey neła nełaz iduɣor, ciqaɣor, boxin.
+Gloss: people-and village-and III-see-ANT.CVB dragon DEM1.IISG.OBL-POSS.ESS DEM1.SG III-get-NEG.PST.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 home-IN.ALL forest-IN.VERS III-run.away-PST.UNW
+Translation: When the dragon saw the people and the village, it ran back to its own home, towards the forest.
+Sentence: Mekoyx oqłin, išinč’ey baq’ˤu zamanno zowzaƛ’, yeda uži sosisi išxanuƛin ičäsi zown, kʷat’izi oqnäy di t’otow äčiƛin.
+Gloss: be.hungry-IPFV.CVB begin-CNC.CVB eat-NEG.PST.CVB III-much time-TOP be.NPRS-CSL.CVB DEM2.ISG boy at.first-ATTR eat-IPFV.CVB-NEG-QUOT wait-RES.PRT be.NPRS-PFV.CVB be.late become-CND.CVB me here-EMPH wait-QUOT
+Translation: Although he was hungry and hadn't eaten for a long time, the boy waited at first: "I won't eat. If it gets late, I will wait here."

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esirnäy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esirnäy: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Iduɣor ayƛ’oräy, ačqˤaq quqix kikoƛ’osi xexbin risno sida q’orolayä yoƛixno esirno:
+Gloss: home-IN.ALL come-SIM.CVB thirst-POSS.ESS dry.out-IPFV.CVB breast-SUPER.ESS-ATTR child-TOP III.PL-take-PFV.CVB one.OBL widow-ERG II-appear-PFV.CVB ask-PST.UNW
+Translation: When coming home, he saw the widow with her child (at her breast), which almost died of thirst, and asked:
+Sentence: Idur aynosigon, eniyan, kidbäntow, rok’u č’eze roqaniƛäy, best’alawni kid yexuriyäƛin, esirno nesiq.
+Gloss: home-LAT come-ANT.CVB-CNTR mother-ERG-and daughter-ERG-and-EMPH heart convinced[?] IV-become-MSD-SUB.ABL step-DEF daughter II-kill-PST.WIT.Q-QUOT ask-PST.UNW DEM1.ISG.OBL-POSS.ESS
+Translation: After he came home, the mother and her daughter asked him: "Did you kill the stepdaughter?" to become convinced.
+Sentence: Hoboy mi, eni, eloš nesi bečedawni maduhales kidno däx esirno yik’iƛin, eƛin užä.
+Gloss: now you mother over.there DEM1.ISG.OBL wealthy-DEF neighbor-GEN1 daughter-TOP me-AD.ESS ask-PFV.CVB II-go-QUOT say-PST.UNW boy-ERG
+Translation: "Now you, mom, go over there and ask the wealthy neighbour's daughter out for me!", said the boy.

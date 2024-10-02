@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rac’äsi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rac’äsi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rac’äsi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Debi di č’iħotow rac’äsi anuƛin, žawab teƛno žoyä.
+Gloss: you-GEN1 me fruit-EMPH IV-eat-RES.PRT be.NEG-QUOT answer give-PST.UNW boy-ERG
+Translation: "Your fruits I haven't eaten.", answered the boy.
+
+Approximate Matches:
+Sentence: Eloza bezu-bˤoƛ’unosi, zirur boƛik’u bac’äsi ƛeles q’ulaʕi besun.
+Gloss: there-ZA III-examine-ANT.CVB fox-LAT half III-eat-RES.PRT lamb-GEN1 carcass III-find-PST.UNW
+Translation: When he looked around there, he found the carcass of a half-eaten lamb.

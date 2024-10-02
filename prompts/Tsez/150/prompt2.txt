@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: oqnäy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": oqnäy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word oqnäy:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mekoyx oqłin, išinč’ey baq’ˤu zamanno zowzaƛ’, yeda uži sosisi išxanuƛin ičäsi zown, kʷat’izi oqnäy di t’otow äčiƛin.
+Gloss: be.hungry-IPFV.CVB begin-CNC.CVB eat-NEG.PST.CVB III-much time-TOP be.NPRS-CSL.CVB DEM2.ISG boy at.first-ATTR eat-IPFV.CVB-NEG-QUOT wait-RES.PRT be.NPRS-PFV.CVB be.late become-CND.CVB me here-EMPH wait-QUOT
+Translation: Although he was hungry and hadn't eaten for a long time, the boy waited at first: "I won't eat. If it gets late, I will wait here."
+Sentence: Yiła eƛin, mi razi oqnäy, dowxor di sis bercinaw kid yiqiranƛin.
+Gloss: DEM2.IISG.OBL-ERG say-PFV.CVB you agree become-CND.CVB you-AD.LAT me one beautiful girl II-find-FUT.DEF-QUOT
+Translation: "if you agree, I will find a beautiful girl for you," the woman said.
+
+Approximate Matches:
+Sentence: Wizirä xanqor eƛin, hemeła qalamä teł sis aɣi yoł, nełasgo bik boqnäy, debez bokor ʕeze baqƛin.
+Gloss: vizier-ERG khan-POSS.LAT say-PST.UNW DEM4.IISG.OBL fortress-IN.ESS inside one bird be DEM1.IISG.OBL-GEN1-COND hide III-become-CND.CVB you-GEN2 fur.coat-LAT be.enough III-become-QUOT
+Translation: The vizier said to the king, "In that fortress there is a bird, if you can get its hide, it will be enough for your coat."
+Sentence: Q’ˤida muqno boɣno ʕantawnä nełaq riyrno, enda bexurno ent’aɣor yoqnäy yexura yołƛin.
+Gloss: down line-TOP III-hatch-PFV.CVB stupid-DEF-ERG DEM1.IISG.OBL-POSS.ESS IV-explain-PST.UNW DEM3b.SG III-kill-PFV.CVB here-IN.VERS II-become-CND.CVB II-kill-INF be-QUOT
+Translation: The stupid one drew a line on the floor and explained to her: "When you cross over this line, I will kill you."
+Sentence: Där sis debi haraƛ’ teqra bäti, behizi roqnäyƛin”.
+Gloss: me-LAT one you-GEN1 voice listen.to-INF III-want permit IV-become-CND.CVB-QUOT
+Translation: I want to hear your voice, if I may!"

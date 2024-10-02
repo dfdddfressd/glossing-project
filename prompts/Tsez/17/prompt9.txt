@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mečoƛ’azay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mečoƛ’azay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mečoƛ’azay:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nesä nedur harizi royzaƛ’, sabru bodin bičin bełiqan ħalkaraw mečoƛ’aɣor ok’ełzaƛ’or.
+Gloss: DEM1.ISG.OBL-ERG so request IV-do-CSL.CVB patience III-do-PFV.CVB III-wait-PST.UNW hunter even field-SUPER.VERS go.away-POST.CVB
+Translation: Because he asked, the snake waited patiently until the hunter went away to an even field.
+Sentence: Žek’alini nukarä eƛix teqno, nukarza debeq heresin esis, ža łin žeda esnabi bičixozo mečoƛ’ay ric’si, žedu xexbi debikin besač’ineyƛin.
+Gloss: beat-ATTR-DEF henchman-ERG say-IPFV.CVB hear-PST.UNW henchman-PL-ERG you-POSS.ESS lie-TOP tell-PST.WIT DEM1.SG water-TOP DEM1.IPL.OBL-ERG brother-PL I.PL-live-PRS.PRT.OBL place-SUPER.ABL IV-fill-PST.WIT DEM1.IPL children you-GEN1-even III-find-NEG.FUT.DEF-DUB-QUOT
+Translation: They heard the beaten henchman say: "The henchmen lied to you, they filled that water from the place where the siblings live; couldn't these children perhaps be yours?"
+Sentence: Elo teł min uqˤno, ža ɣamasno hokomƛ’o eqerno, di xanes ez yałza mečoƛ’ar ik’an.
+Gloss: there inside you-TOP hide-PFV.CVB DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB me khan-GEN1 fortress be-LCV.CVB place-SUPER.VERS go-FUT.DEF
+Translation: I will hide you inside it, put that box onto a carriage and go to the place where the king's fortress is.

@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: sadaqay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": sadaqay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word sadaqay:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žeda sadaqay ʕumru boyx zown.
+Gloss: DEM1.IIPL-ERG together-IN.ABL life III-do-IPFV.CVB be.NPRS-PST.UNW
+Translation: They where living together.
+Sentence: Adäz ƛeles boƛik’uni q’ulaʕin erno, ziran, ɣʷˤadan q’ˤunän sadaqay rac’no.
+Gloss: ahead lamb-GEN1 half-DEF carcass-TOP put-PFV.CVB fox-ERG-and crow-ERG-and two.OBL-ERG-TOP together-IN.ABL IV-eat-PST.UNW
+Translation: Having put the lamb's half carcass down, the fox and the crow, they both ate together.
+
+Approximate Matches:
+Sentence: Elay bitor yizi łenon sadaq hunix boqno.
+Gloss: there-IN.ABL thither DEM2.IPL five-TOP together way-AD.ESS I.PL-become-PST.UNW
+Translation: The five of them went on their way together, from there.
+Sentence: Sis žek’un ayn howlor hemecetow ƛ’iri utizaƛ’, moƛ’oqˤoyn sadaq däq teƛno rok’ełsi.
+Gloss: one man-TOP come-PFV.CVB there-LAT such-EMPH above turn-CSL.CVB bridle-TOP together me-POSS.ESS sell-PFV.CVB IV-lose-PST.WIT
+Translation: And there came a man and because he insisted so much, I sold also the bridle and lost it.
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word moƛaq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word moƛaq: 
+
+Exact Matches
+Sentence: Xizyo Kusa xanez kidbeden kecno, qˤašiƛ’aɣor kid moƛaq yiqirnosi, elayn izin ɣamasya tełerno oqno, tełäzgon žan ħišin, maq’anyabi rižixosi pelun yexurno.
+Gloss: afterwards Kusa-ERG khan-GEN2 daughter-APUD.ESS-TOP sleep-PFV.CVB dawn-SUPER.VERS girl sleep-POSS.ESS II-stop-ANT.CVB there-IN.ABL-TOP get.up-PFV.CVB box-IN.ESS into-TOP become-PFV.CVB inside-IN.ESS.DIST-CNTR DEM1.SG-TOP lock-PFV.CVB melody-PL III.PL-carry-IPFV.CVB-ATTR pipe-TOP II-kill-PST.UNW
+Translation: Afterwards, when Kusa had slept with the king's daughter, and the girl had stopped sleeping, he got up from there and went into the box, locked it from inside and destroyed the pipes which played the melodies.
+
+Approximate Matches:
+Sentence: Ħayran yoqno yezun ƛexun kid, moƛałä yedu di yaqˤułƛin.
+Gloss: be.astonished II-become-PFV.CVB II-look-PFV.CVB remain-PFV.CVB girl dream-CONT.ESS-Q DEM2.IISG me today-QUOT
+Translation: The girl was surprised and remained looking (at him), "Is this day a dream?"
+Sentence: Sosi moƛaxay uži č’ariłno - tamaša oqno ƛexun yeda, xanzoƛ’aygon rigu ɣˤutku moƛaxay izizaƛ’or elo resuzaƛ’.
+Gloss: at.first sleep-AD.ABL boy wake.up-PST.UNW - be.surprised become-PFV.CVB remain-PFV.CVB DEM2.ISG khan-GEN2-SUPER.ABL-CNTR IV-pretty house sleep-AD.ABL get.up-POST.CVB there IV-find-CSL.CVB
+Translation: At first, the boy woke up from his sleep - he was surprised because he found the house to be prettier than even the king's one, when he got up.
+Sentence: Hemeła maqˤizo ʕaƛasi där moƛał yukayru mesedyos nak’ila yałruni kid yiqinč’inäy di anƛ’imoq’az äxuƛin.”
+Gloss: then far.away-ATTR.OBL village-RES.PRT me-LAT dream-CONT.ESS II-see-PST.PRT gold-GEN1 little.finger be-PST.PRT-DEF girl II-get-NEG.FUT-CND.CVB me week-POSS.ESS.DIST(?) die-QUOT
+Translation: "Then, if I don't get the girl from the village far away with the golden pinky, that I saw in my dream, I will die in a week."

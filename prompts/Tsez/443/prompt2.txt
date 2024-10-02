@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eƛixozo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eƛixozo: 
+
+Exact Matches
+Sentence: Alay-bulayƛin eƛixozo guluqorno qˤaƛin, ʕoƛira putce yoq’ˤiw kedonno yisno, ža Ismaʕilƛ’or yoqno.
+Gloss: Alay~bulay-QUOT say-PRS.PRT.OBL horse-POSS.LAT-TOP shout-PFV.CVB seven.OBL pood-EQU1 II-heavy sledgehammer-TOP II-take-PFV.CVB DEM1.SG Ismail-SUPER.LAT II-become-PST.UNW
+Translation: She shouted after her horse names Alay-bulay, took a 7-pood heavy sledgehammer and went to Ismail.
+
+Approximate Matches:
+Sentence: ʕArabuzanno qalamäy maħor yoqno, Alay-bulayƛin eƛixozoni nełaznitow guluƛ’no zown.
+Gloss: Arabuzan-TOP fortress-IN.ABL outside II-become-PST.UNW Alay~bulay-QUOT say-PRS.PRT.OBL-DEF DEM1.IISG.OBL-GEN2-DEF-EMPH horse-SUPER.ESS-TOP ride-PFV.CVB
+Translation: And Arabuzan came out of the fortress, riding on her horse named Alay-Bulay.

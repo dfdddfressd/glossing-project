@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łet’a in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łet’a: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Išno-utin, partalno rutirno, nesä nesiz hunix ik’iƛ’oräy, aziroyn, k’omo biłet’a boqno bexasi halmaɣbi besun.
+Gloss: eat-PFV.CVB belongings-TOP IV-gather-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 way-AD.ESS go-SIM.CVB freeze.to.death-PFV.CVB ball I.PL-as-DISTR I.PL-become-PFV.CVB I.PL-die-RES.PRT friend-PL I.PL-find-PST.UNW
+Translation: He ate, gathered his belongings, and while he went on his way, he found his friends, frozen to death and each one rolled together like a ball.
+Sentence: Ħon-bahadurä eƛin, debi eniwn yexursi, min bexuran, mi biłet’ani bišom bexurełxosi bahadur oqzaƛ’ nexsi di t’orƛin.
+Gloss: Mountain~Hero-ERG say-PST.UNW you-GEN1 mother-and II-kill-PST.WIT you-and III-kill-FUT.DEF you III-as-DISTR-DEF hundred I.PL-kill-POT-PRS.PRT hero become-CSL.CVB come-ATTR me here-LAT-QUOT
+Translation: Mountain~Hero said: "I killed your mother, and I will kill you! I have come here, for I am the hero who has killed a hundred just like you."
+Sentence: Diwanbegä nesiqor eƛin, mi iłet’a ʕorƛ’ilawbi bižin iħuxay eč’ibi rutirƛin.
+Gloss: judge-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW you as-DISTR young.man-PL I.PL-lead-PFV.CVB river-AD.ABL pebble-PL II.PL-gather-QUOT
+Translation: The judge said to him: "Bring some fine men just like you and gather pebbles at the river."

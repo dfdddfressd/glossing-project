@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ƛ’irayn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ƛ’irayn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ƛ’irayn:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Encegon ƛ’iray reku roɣnosi, čanyas šilabi maħor roƛixno.
+Gloss: a.little-CNTR above-IN.ABL manure IV-take.away-ANT.CVB she.goat-GEN1 horn-PL outside II.PL-appear-PST.UNW
+Translation: They took away a little more manure from above and a goat's horns appeared.

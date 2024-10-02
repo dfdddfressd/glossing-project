@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: sidaɣ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": sidaɣ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word sidaɣ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža uži qˤilon ok’ełno, sidaɣ ɣˤuɣˤura iħuz lilyoxor ayn.
+Gloss: DEM1.SG boy erroneously-TOP go.away-PFV.CVB in.one.place muddy river-GEN2 river.bank-AD.LAT come-PST.UNW
+Translation: The boy went a wrong way and came to a muddy river bank somewhere.
+Sentence: Tabanaw hunäsi hunä yik’in yedu sidaɣ ɣˤutkoxor yaynosi, tełxor yoqno.
+Gloss: long way-IN.ESS-ATTR way-IN.ESS II-go-PFV.CVB DEM2.IISG in.one.place house-AD.LAT II-come-ANT.CVB inside-AD.LAT II-become-PST.UNW
+Translation: When she came to a house somewhere on the long way she was going on, she went inside.
+Sentence: Xizyogon urɣizi oqno xan, c’ohores q’ˤim anunč’uruni cudi sidaɣ qunyoxorno bayran, nesiz ʕagarłä ža šudał šušanix elay bižinč’ey xäcinč’i, hemełƛ’o där šebi ža c’ohor yałrun äyƛin.
+Gloss: then thinking become-PST.UNW khan thief-GEN1 head be.NEG-NEG.PST.WIT-PST.PRT-DEF corpse in.one.place farmstead-AD.LAT-TOP III-bring-FUT.CVB DEM1.ISG.OBL-GEN2 relatives-ERG DEM1.SG graveyard-CONT.ESS bury-MSD-AD.ESS there-IN.ABL III-carry-NEG.PST.CVB leave-NEG.FUT DEM4.IISG.OBL-SUPER.ESS me-LAT who DEM1.SG thief be-PST.PRT-TOP know-QUOT
+Translation: Then the king pondered: "I will bring the thief's headless corpse to the farmstead, his relatives won't leave without taking him from there to bury him on a graveyard."
+
+Approximate Matches:
+Sentence: Elus xan exursiƛin, ozno, xalq’in roxin rik’iƛ’oräy, sidaɣaza puƛ’azar Ismaʕil k’oƛin, sidaɣazar ʕArabuzan yoqno nasin ahli dandirno butirno, xanłun ʕArabuzanno xecin, Ismaʕilgon wizirłunno ičin.
+Gloss: we(I).OBL-GEN1 khan kill-PST.WIT-QUOT army-and people-and III.PL-run.away-PFV.CVB III.PL-go-SIM.CVB in.one.place-IN.VERS.DIST side-SUPER.LAT.DIST Ismail run-PFV.CVB in.one.place-IN.LAT.DIST Arabuzan II-become-PFV.CVB all people together-TOP III-gather-PFV.CVB khan-LHUN Arabuzan-TOP leave-PFV.CVB Ismail-CNTR vizier-LHUN-TOP be-PST.UNW
+Translation: "They killed our king!", the army and the people ran away and at the same time, Ismail ran to one side, and Arabuzan ran to the other side, and they gathered all the people together and Arabuzan was elected king/queen and Ismail became vizier.
+Sentence: Elo ƛirbałix sida ɣˤanazader keze oqnosi, yisir neł ʕaƛnos xalq’i sidaɣor butäsi bukayn.
+Gloss: there hospitality-AD.ESS one.OBL woman-APUD.LAT meet become-ANT.CVB DEM2.ISG.OBL-LAT DEM1.IISG.OBL village-and-GEN1 people one.OBL-IN.VERS III-turn-RES.PRT III-see-PST.UNW
+Translation: When he became the guest of a woman there, he saw the people of the village gathering in some place.
+Sentence: Elus xan exursiƛin, ozno, xalq’in roxin rik’iƛ’oräy, sidaɣaza puƛ’azar Ismaʕil k’oƛin, sidaɣazar ʕArabuzan yoqno nasin ahli dandirno butirno, xanłun ʕArabuzanno xecin, Ismaʕilgon wizirłunno ičin.
+Gloss: we(I).OBL-GEN1 khan kill-PST.WIT-QUOT army-and people-and III.PL-run.away-PFV.CVB III.PL-go-SIM.CVB in.one.place-IN.VERS.DIST side-SUPER.LAT.DIST Ismail run-PFV.CVB in.one.place-IN.LAT.DIST Arabuzan II-become-PFV.CVB all people together-TOP III-gather-PFV.CVB khan-LHUN Arabuzan-TOP leave-PFV.CVB Ismail-CNTR vizier-LHUN-TOP be-PST.UNW
+Translation: "They killed our king!", the army and the people ran away and at the same time, Ismail ran to one side, and Arabuzan ran to the other side, and they gathered all the people together and Arabuzan was elected king/queen and Ismail became vizier.

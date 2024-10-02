@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word debex in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word debex: 
+
+Exact Matches
+Sentence: Retinäy debex mi yižo, retinäy q’ˤuyzix yegir.
+Gloss: IV-want-CND.CVB you-AD.ESS you II-lead-IMPR IV-want-CND.CVB other-ATTR.OBL-AD.ESS II-send
+Translation: If you want, marry her yourself, or if you want, send her to someone else.
+Sentence: Sida quł nesider ziru bayn, debex di xanes kid yowanƛin.
+Gloss: one.OBL day-CONT.ESS DEM1.ISG.OBL-APUD.LAT fox III-come-PST.UNW you-AD.ESS me khan-GEN1 daughter II-bring-FUT.DEF-QUOT
+Translation: One day a fox came to him [saying]: "I will marry the princess off to you!"
+Sentence: Esnaza eƛin, mi äxuzay iłe izin ayzaƛ’, debez ħurmatyoxay ela beže bertenno bodin sis kid debex yowa yoł.
+Gloss: brother-PL-ERG say-PFV.CVB you die-SIM.CVB as get.up-PFV.CVB come-CSL.CVB you-GEN2 respect-AD.ABL we(I).OBL-ERG III-big marriage-TOP III-do-PFV.CVB one girl you-AD.ESS II-marry-INF be
+Translation: The brothers said: "Because you came back like from the dead, we will organize a big marriage out of respect for you and marry of a girl to you.
+
+Approximate Matches:
+Sentence: Xizaɣor esiwz kidbä yiłqor eƛin, yisiq’ay igun, bečedawn deber uži äqinč’i kid xedyox yegirinč’ey min yok’äłinč’iƛin.
+Gloss: finally brother-GEN2 girl-ERG DEM2.IISG.OBL-POSS.LAT say-PST.UNW DEM2.ISG.OBL-EQU2 rich-and wealthy-and you-LAT boy get-NEG.FUT daughter husband-AD.ESS II-send-NEG.PST.UNW you-TOP II-escape-NEG.FUT-QUOT
+Translation: Finally the brother's girl said to her that she won't find any man as rich and wealthy, so that the daughter couldn't do anything else than to take him as a husband.
+Sentence: Neła eƛin, darno rac’anix šebin neƛ, dowƛ’or ɣudi rayza quł, nagon boqłin din bäsu debez ħalarƛin.
+Gloss: DEM1.IISG.OBL say-PFV.CVB me-LAT-TOP IV-eat-MSD-PRS thing give you-SUPER.LAT day IV-come-LCV.CVB day-CONT.ESS where-CNTR III-happen-CNC.CVB me-TOP III-find you-GEN2 trouble-IN.LAT-QUOT
+Translation: The bear said, "Give me something to eat, one day I will find you, if you will be in trouble."
+Sentence: Šebi deber ela roda retixƛin?”
+Gloss: what you-LAT we(I).OBL-ERG IV-do-INF IV-want-PRS-QUOT
+Translation: What do you want us to do?"

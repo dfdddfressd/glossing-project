@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word utirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word utirno: 
+
+Exact Matches
+Sentence: Elo yeda zamanałäy mekoda utirno.
+Gloss: there DEM2.ISG time-CONT.ABL hunger-COND turn-PST.UNW
+Translation: There he got hungry after a while.
+Sentence: Šebi deber retix, šebi deber neƛanƛin, nazon xalq’imo yeda šet’u utirno, mi äƛiru šebin ela t’ubazi rodanƛin, koyä isxo yeda cuƛert’a kurxo zown, hemece ɣˤaɣˤu bizizaq.
+Gloss: what you-LAT IV-want-PRS what you-LAT give-FUT.DEF-QUOT all.OBL-TOP people-ERG DEM2.ISG around gather-PST.UNW you say-PST.PRT what-TOP we(I).OBL-ERG fulfill IV-do-FUT.DEF-QUOT hand-IN.ESS take-IPFV.CVB DEM2.ISG upward-DISTR throw-IPFV.CVB be.NPRS-PFV.CVB such be.happy I.PL-get.up-CSL.CVB
+Translation: "What do you want? What shall we give you?", all the people gathered around him: "We will fulfill what you say."; and they took him into their hands and threw him upward [several times], because they got so happy.
+Sentence: Boƛƛo sis zaman bik’inosi, xan roƛa utirno.
+Gloss: III-middle one time III-go-ANT.CVB khan IV-be.sick-INF turn-PST.UNW
+Translation: After a while, the king became sick.
+
+Approximate Matches:
+Sentence: Elus xan exursiƛin, ozno, xalq’in roxin rik’iƛ’oräy, sidaɣaza puƛ’azar Ismaʕil k’oƛin, sidaɣazar ʕArabuzan yoqno nasin ahli dandirno butirno, xanłun ʕArabuzanno xecin, Ismaʕilgon wizirłunno ičin.
+Gloss: we(I).OBL-GEN1 khan kill-PST.WIT-QUOT army-and people-and III.PL-run.away-PFV.CVB III.PL-go-SIM.CVB in.one.place-IN.VERS.DIST side-SUPER.LAT.DIST Ismail run-PFV.CVB in.one.place-IN.LAT.DIST Arabuzan II-become-PFV.CVB all people together-TOP III-gather-PFV.CVB khan-LHUN Arabuzan-TOP leave-PFV.CVB Ismail-CNTR vizier-LHUN-TOP be-PST.UNW
+Translation: "They killed our king!", the army and the people ran away and at the same time, Ismail ran to one side, and Arabuzan ran to the other side, and they gathered all the people together and Arabuzan was elected king/queen and Ismail became vizier.
+Sentence: Q’ˤida yuyoƛ’or žan kurno, ħoyaƛ’aygon nesiƛ’or rutirno ƛoħon kurno, xediw nesä nesiz mežä ik’in kecno.
+Gloss: down floor-SUPER.LAT DEM1.SG-and throw-PFV.CVB oven-SUPER.ABL-CNTR DEM1.ISG.OBL-SUPER.LAT IV-turn-PFV.CVB pan-and throw-PFV.CVB husband DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 mattress-IN.ESS go-PFV.CVB sleep-PST.UNW
+Translation: And the husband threw it down onto the floor and the pan off from the oven onto him, and went to sleep on his own mattress.
+Sentence: Nełas yałru žedur mumpaʕat biynosi, yizä ža ʕansa muroƛ’orno butirno, kidbez kočorał caƛin.
+Gloss: DEM1.IISG.OBL-GEN1 be-PST.PRT DEM1.IPL.OBL-LAT benefit I.PL-know-ANT.CVB DEM2.IPL.OBL-ERG DEM1.SG walking.stick needle-SUPER.LAT-TOP III-turn-PFV.CVB girl-GEN2 forelock-CONT.ESS stick-PST.UNW
+Translation: When they understood the benefit of it, they turned this walking stick into a needle and put it into the girl's hair.

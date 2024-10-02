@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łałnokin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łałnokin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Zamanałäy, łarnokin yukaynč’ey, yedu kid iduɣorno yik’in, šeƛ’un roɣno neła nełas ħošin šeƛ’un, yałzatow pečmox kecno yičin.
+Gloss: time-CONT.ABL who.OBL-LAT-TOP-even II-see-NEG.PST.CVB DEM2.IISG girl home-IN.ALL-TOP II-go-PFV.CVB clothing-TOP IV-take.away-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 hide-TOP put.on-PFV.CVB be-LCV.CVB-EMPH oven-AD.ESS sleep-PFV.CVB II-be-PST.UNW
+Translation: After a while, the girl went home with nobody seeing her, took off the clothes, put on her hide, and went to sleep at the oven where she was.
+Sentence: Łinasnokin pikru boynč’ey, esnabi ɣˤulabi caƛix qidobi kuša boqno.
+Gloss: what.OBL-GEN1-TOP-even idea III-do-NEG.PST.CVB brother-PL stone-PL throw-IPFV.CVB wall-PL demolish-INF I.PL-begin-PST.UNW
+Translation: Without thinking, the brothers began demolishing the wall by throwing stones.
+Sentence: Eli t’ay narnokin bik’ixanuƛin, bet’un k’oƛin ziru bičin.
+Gloss: we from.here where-TOP-even I.PL-go-IPFV.CVB-NEG-QUOT III-jump-PFV.CVB jump-PFV.CVB fox III-be-PST.UNW
+Translation: "We are not going anywhere from here!", the fox jumped up.

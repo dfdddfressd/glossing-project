@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: dowdär.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": dowdär
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word dowdär:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nesiqosi šeƛ’u łiyän rižin, ža howlotow adoru ƛexasi dowdäɣor nexa oqinč’ey.
+Gloss: DEM1.ISG.OBL-POSS.ESS-ATTR clothing water-ERG-TOP IV-carry-PFV.CVB DEM1.SG there-EMPH naked remain-RES.PRT you-APUD.VERS come-INF become-NEG.PST.UNW
+Translation: And the water carried his clothes away, he remained naked there and could not come to you.
+Sentence: Hemedurtow nesiƛ’or nełas eniwn yutin, mi ža kid yexurinč’inäy, dey di kidno yižin dowdäy yoxa yołƛin.
+Gloss: so-EMPH DEM1.ISG.OBL-SUPER.LAT DEM1.IISG.OBL-GEN1 mother-TOP II-turn-PST.UNW you DEM1.SG girl II-kill-NEG.FUT.CVB-CND.CVB me-GEN1 me daughter-TOP II-carry-PFV.CVB you-APUD.ABL II-run.away-INF be-QUOT
+Translation: Her mother likewise turned to him: "If you don't kill the girl, I will take my daughter with me and run away from you."
+Sentence: Di dowdäɣor nexƛ’oräy, madazax zawruni ʕoloqza žeda žeduqor eƛix, Ražbadinłäy baħarčiƛinä eƛan, nesä nesix yižixosi baħaray šebi eƛa äynč’iru qazaqxo yegirxoƛin.
+Gloss: me you-APUD.VERS come-SIM.CVB yard-PL-AD.ESS be.NPRS-PST.PRT-DEF young.person-PL-ERG DEM1.IPL.OBL-ERG DEM1.IPL.OBL-POSS.LAT say-PRS Razhbadin-CONT.ABL brave.young.man-QUOT-Q say-FUT.DEF DEM1.ISG.OBL-ERG DEM1.ISG.OBL-AD.ESS II-lead-PRS.PRT fiancée what say-INF know-NEG.FUT.CVB-PST.PRT Georgian-AD.ESS II-send-PRS-QUOT
+Translation: When I came to you, the young people who were in their yards, were saying to each other: "Razhbadin is a brave young man, to send the bride he was to marry to an unknown Georgian."

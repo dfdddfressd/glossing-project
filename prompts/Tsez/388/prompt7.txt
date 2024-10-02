@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word but’a in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word but’a: 
+
+Exact Matches
+Sentence: Nesä neła bełis łˤono but’a yodix zown, sis but’a awarager, sis miskinzar, sideni q’ˤimä q’ˤimzo haq’ur iduɣor yowx zown.
+Gloss: DEM1.ISG.OBL-ERG DEM1.IISG.OBL hunting-GEN1 three part II-do-IPFV.CVB be.NPRS-PFV.CVB one part prophet-LAT one poor-PL-LAT the.other.one oneself-ERG oneself-GEN2 family-LAT home-IN.ALL II-bring-IPFV.CVB be.NPRS-PST.UNW
+Translation: He always made three parts of what he hunted, one part he gave to the prophet, one to the poor, and the other part he brought to his own family's home.
+Sentence: Nesä neła bełis łˤono but’a yodix zown, sis but’a awarager, sis miskinzar, sideni q’ˤimä q’ˤimzo haq’ur iduɣor yowx zown.
+Gloss: DEM1.ISG.OBL-ERG DEM1.IISG.OBL hunting-GEN1 three part II-do-IPFV.CVB be.NPRS-PFV.CVB one part prophet-LAT one poor-PL-LAT the.other.one oneself-ERG oneself-GEN2 family-LAT home-IN.ALL II-bring-IPFV.CVB be.NPRS-PST.UNW
+Translation: He always made three parts of what he hunted, one part he gave to the prophet, one to the poor, and the other part he brought to his own family's home.
+
+Approximate Matches:
+Sentence: ʕAƛar ayrun, bełiqanä idu nesä nesirsini but’an eqerno, mažgitäɣor ik’in.
+Gloss: village-IN.LAT come-IMM.ANT.CVB hunter-ERG home DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT-ATTR-DEF part-TOP put-PFV.CVB mosque-IN.VERS go-PST.UNW
+Translation: Just when he came to the village, the hunter put the part that was for himself down at home and went to the mosque.

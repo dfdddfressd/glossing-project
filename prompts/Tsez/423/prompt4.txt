@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eluz in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eluz: 
+
+Exact Matches
+Sentence: Zownƛax zownanuƛax yiła eluz wilayatyoł sis barun yexun ƛexasi žek’u.
+Gloss: be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB-NEG-QUOT DEM2.IISG.OBL we(I).OBL-GEN2 province-CONT.ESS one wife-TOP II-die-PFV.CVB remain-RES.PRT man
+Translation: Once upon a time there was a man in our province, whose wife had died.
+Sentence: Zeyä xizyogon esin, eluz maduhalłiq yałru ʕaƛa łi ħaƛanix posu sida maqˤi yałruni keroqor rik’ixosi.
+Gloss: bear-ERG then tell-PST.UNW we(I).OBL-GEN2 neighbourhood-POSS.ESS be-PST.PRT village-IN.ESS water drink-MSD-AD.ESS cattle one.OBL far.away be-PST.PRT-DEF ravine-POSS.LAT IV-go-PRS.PRT
+Translation: The bear then told: "In a village in our neighbourhood, the cattle has to go to a ravine that is far a way in order to drink water.
+Sentence: Xizyogon xabar esanix boc’i boqno, eluz maduhalłiq ičixozo xanez kidbes sis ozuri rexasi yoł.
+Gloss: then story tell-MSD-AD.ESS wolf III-begin-PST.UNW we(I).OBL-GEN2 neighbourhood-POSS.ESS live-PRS.PRT.OBL khan-GEN2 daughter-GEN1 one eye IV-die-RES.PRT be
+Translation: Then the wolf began to tell a story: "The daughter of the king who lives in our neighbourhood is blind on one eye.
+
+Approximate Matches:

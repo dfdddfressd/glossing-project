@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yołi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yołi: 
+
+Exact Matches
+Sentence: Zirun, k’et’un yołi boc’än, zeyän bayäru dawlaƛ’ žin yołƛax.
+Gloss: fox-and cat-and indeed wolf-ERG-and bear-ERG-and III-bring-PST.PRT prey-SUPER.ESS now be-QUOT
+Translation: And now the fox and the cat went to the prey that the wolf and the bear have brought that day.
+Sentence: Barus yołi kid łinasnotow hunarno, maxšelno, bažarin anusi zown.
+Gloss: wife-GEN1 however daughter what.OBL-GEN1-TOP-EMPH talent-and skill-and skill-and be.NEG-ATTR be.NPRS-PST.UNW
+Translation: The wife's daughter however had no talent or skill whatsoever.
+Sentence: Mi där madaħ esus yołi exura zows.
+Gloss: you me-LAT outside find-PST.WIT however kill-INF be.NPRS-PST.WIT
+Translation: Had I found you outside, I would have killed you.
+
+Approximate Matches:

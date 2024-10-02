@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yiziz using Leipzig glossing symbols. The sentence this word is drawn from means: "The guest's boy who invited her for dancing, took it.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yiziz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yiziz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yizi kecäsi yałzay, yizir ɣˤutkun di roys, yiziz ɣˤutkoxay, debez ɣˤutkoxor mesedyos ƛen di ersi.
+Gloss: DEM2.IPL sleep-RES.PRT be-SIM.CVB DEM2.IPL.OBL-LAT house-and me IV-do-PST.WIT DEM2.IPL.OBL-GEN2 house-AD.ABL you-GEN2 house-AD.LAT gold-GEN1 bridge-and me set.up-PST.WIT
+Translation: "While they were asleep, I built a house for them, and I set up a golden bridge from their house to your house."
+Sentence: Raħäruni reƛno rac’no, ence mazaħarno xizor utin iduɣor nexƛ’oräy, yiziz ɣˤutka tełäzay maħor yoqxo howža q’orolay yukayn.
+Gloss: IV-cook-CAUS-PST.PRT-DEF meat-TOP IV-eat-PFV.CVB a.little outside-IN.LAT-TOP back return-PFV.CVB home-IN.ALL come-SIM.CVB DEM2.IPL.OBL-GEN2 house-IN.ESS inside-IN.ABL.DIST outside II-become-IPFV.CVB DEM4.SG widow II-see-PST.UNW
+Translation: He ate the cooked meat and while coming home again, he saw that widow getting out of their house.
+
+Approximate Matches:
+Sentence: Sasaqosi moƛaxay yizizaƛ’or kidber ɣamas yexasi yesun.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-POST.CVB girl-LAT box II-die-RES.PRT II-find-PST.UNW
+Translation: When the girl got up in the morning, she found that the box was broken.

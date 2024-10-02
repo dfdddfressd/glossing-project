@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Nełaq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Nełaq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Nełaq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ik’in nełaq reƛ’iqoy rukarnosi, didiw ža yałru sosisi riynč’ey neła eƛin:
+Gloss: go-PFV.CVB DEM1.IISG.OBL-POSS.ESS glove IV-show-ANT.CVB which DEM1.SG be-PST.PRT at.first-ATTR IV-know-NEG.PST.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: He went and showed her the glove, and at first, when she didn't know what kind of glove this was, she said:
+Sentence: Nedurä mi dey wasi t’ubazi bodix zownƛin, elayn bizin ziru xanes kidbederno bik’in esin nełaq ža ɣˤutkun, maʕišatno ɣˤʷays yałrułin, žatown habihan yołƛinno.
+Gloss: so-Q you me-GEN1 testament fulfill III-do-IPFV.CVB be.NPRS-PST.UNW-QUOT there-IN.ABL-TOP III-get.up-PFV.CVB fox khan-GEN1 daughter-APUD.LAT-TOP III-go-PFV.CVB tell-PFV.CVB DEM1.IISG.OBL-POSS.ESS DEM1.SG house-and fortune-and dog-GEN1 be-PST.PRT-NMLZ-and DEM1.SG-EMPH-and miller be-QUOT-TOP
+Translation: "So you have fulfilled my wish?", [said] the fox[,] got up from there, went to the king's daughter and told her that the house and the fortune all belong to the dog and that he is just a miller.
+Sentence: Bełiqanä esirno nełaq, mi nesis kidä, baruyä yaqƛin.
+Gloss: hunter-ERG ask-PST.UNW DEM1.IISG.OBL-POSS.ESS you DEM1.ISG.OBL-GEN1 daughter-Q wife-Q II-become-QUOT
+Translation: The hunter asked her: "Are you his daughter or his wife?"
+
+Approximate Matches:
+Sentence: Netintow mamalayä at’iwt’a qaca rayrxo zown, nełaqgon c’i era onočar isałxo zown.
+Gloss: always-EMPH rooster-ERG wet-DISTR firewood IV-bring-IPFV.CVB be.NPRS-PST.UNW DEM1.IISG.OBL-POSS.ESS-CNTR fire put-INF hen-LAT be.difficult-IPFV.CVB be.NPRS-PST.UNW
+Translation: The rooster always brought wet firewood, and it was difficult for the hen to light a fire with it.
+Sentence: Raqru šebin nełaqno esin, ik’in yeda iduɣor.
+Gloss: IV-happen-PST.PRT thing DEM1.IISG.OBL-POSS.ESS-TOP tell-PFV.CVB go-PST.UNW DEM2.ISG home-IN.ALL
+Translation: He told her what had happened and went home.
+Sentence: Xizor utin Pat’imatno yižin nesä nesiz ʕaƛaɣorno ik’in, mi däƛ’ay ʕaq’ilawn, c’odorawn zownƛin xanłin nełaqor teƛno žan paraxat ičin.
+Gloss: back turn.back-PFV.CVB Fatima-TOP II-lead-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 village-IN.VERS-TOP go-PST.UNW you me-SUPER.ABL intelligent-and clever-and be.NPRS-PST.UNW-QUOT khanate-TOP DEM1.IISG.OBL-POSS.LAT give-PST.UNW DEM1.SG-TOP calmly live-PST.UNW
+Translation: He returned with Fatima into his own village: "You are more intelligent and cleverer than me!", gave her the kingdom and lived calmly ever after.

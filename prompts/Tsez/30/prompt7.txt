@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bexunosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bexunosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bexunosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła quł yeda idur mix bexunosi ayn.
+Gloss: DEM1.IISG.OBL day-CONT.ESS DEM2.ISG home-LAT time III-die-ANT.CVB come-PST.UNW
+Translation: On that day he came home only after a long time had passed.
+Sentence: Tungi bexunosi, ʕiyayn yičin yedu.
+Gloss: copper.jug III-die-ANT.CVB cry-PFV.CVB II-be-PST.UNW DEM2.IISG
+Translation: When the jug broke, she was crying.
+Sentence: Nedur resunäy, di bexunosi, däz iyos zok’in ric’o, däz axʷay č’aɣˤirno roɣo, žubin boɣo.
+Gloss: so IV-exist-CND.CVB me III-die-ANT.CVB me-GEN2 blood-GEN1 mug-and IV-fill-IMPR me-GEN2 belly-IN.ABL bowel-and IV-take.away-IMPR liver-and III-take.away-IMPR
+Translation: "In that case, after I died, fill the mug with my blood, take the bowel out of my belly and also take away my liver!
+
+Approximate Matches:
+Sentence: Exa adäza babiya užizaqor wasi bodin, were, dey xexbi, di exunosi, šibaw ruzman ɣudƛ’o däz šudaƛ’orno nexno meža q’ulhut’a t’et’roƛin.
+Gloss: die-INF before dad-ERG son-PL-POSS.LAT testament III-do-PST.UNW well me-GEN1 children me die-ANT.CVB every Friday day-SUPER.ESS me-GEN2 graveyard-SUPER.LAT-TOP come-PFV.CVB you(I).PL.OBL-ERG funeral.prayer-DISTR read-IMPR-QUOT
+Translation: Before he died, the father did his testament: "Well, my children, after I have died, come to my grave every Friday and read a funeral prayer each time."
+Sentence: Ečriłno exʷa zaman baynosi, nesä žaqor wasi bodin, di exunosi deber rätiza ɣˤutkun rodo, yexoriłxosin, k’ot’oniłxosin, aluk’an, qˤaban yoqxosi gurow barun yawno.
+Gloss: get.old-PFV.CVB die-INF time III-come-ANT.CVB DEM1.ISG.OBL-ERG son-POSS.LAT testament III-do-PST.UNW me die-ANT.CVB you-LAT IV-want-LCV house-TOP IV-do-IMPR II-become.longer-PRS.PRT-and become.shorter-PRS.PRT-and white-and black-and II-become-PRS.PRT except wife-TOP II-mouse-TOP
+Translation: He got older and when the time has come to die, he gave his testament to the son: "When I have died, you build a house where you want, but don't marry a woman except for one being black and white, be she long or short.
+Sentence: Eƛnin ɣutaneł yoɣno, ħonzaqaɣor bˤeƛ’ rowa oc’ino łeno ɣudi ƛexunosi, aħozir ɣˤʷadbi sidä sidqor xabaryayx teqno.
+Gloss: winter-TOP winter.pasture-CONT.ESS II-spend.time-PFV.CVB mountain-PL-POSS.VERS sheep III.PL-bring-INF ten five day remain-ANT.CVB shepherd-LAT crow-PL one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB hear-PST.UNW
+Translation: They spent the winter on the winter pasture and when just 15 days remained to bring the sheep back to the mountains, the shepherd heard the crows talking among each other.

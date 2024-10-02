@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: aƛ’in.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": aƛ’in
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word aƛ’in:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mi didiwtow siskin šebin riyxanusi uži iča ayxƛin, Oku aƛ’in nesiqor.
+Gloss: you which-EMPH any thing IV-know-NEG.PRS.PRT boy be-INF must-PRS-QUOT Oku talk-PST.UNW DEM1.ISG.OBL-POSS.LAT
+Translation: "What kind of boy must you be, who doesn't know anything.", spoke Oku.
+Sentence: Hudayzikon uži besurozaƛ’or ik’in, hemedurtow biqinč’ey aynosi, babiw igza ħalał aƛ’in.
+Gloss: the.next.day-TOP boy fish-PL-SUPER.LAT go-PFV.CVB so-EMPH III-get-NEG.PST.CVB come-ANT.CVB father well-ZA with.difficulties scold-PST.UNW
+Translation: The next day when the boy went after fish again, didn't catch any either and came back, the father scolded him pretty much.
+Sentence: Maħama žigon aƛ’in Aħmadqor, mi ʕabdal esunč’inäy eƛ’isi riƛu žiƛbo räƛiyäƛin.
+Gloss: Magomed-ERG again.now scold-PST.UNW Akhmed-POSS.LAT you fool exist-NEG.FUT.CVB-CND.CVB last.year-ATTR field this.year IV-plough-Q-QUOT
+Translation: Again now Magomed scolded Akhmed: "If you weren't a fool, would you plough last year's field this year?"
+
+Approximate Matches:
+Sentence: Neła nesiqno esirno, deber heresi esa kaƛ’iyä kaƛ’inč’aƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS-TOP ask-PST.UNW you-LAT lie tell-INF understand.to-PST.WIT.INT understand.to-NEG.PST.WIT-Q-QUOT
+Translation: She asked him as well: "Can you tell a lie or not?"
+Sentence: Nesan hemedurtow kaƛ’inč’iƛin žawab teƛno.
+Gloss: DEM1.ISG.OBL-ERG-TOP so-EMPH understand.to-NEG.FUT-QUOT answer give-PST.UNW
+Translation: Also he gave the answer likewise: "I can't."
+Sentence: Tełäzay sis žuka ɣˤanabin yoƛixno esirno nesiq, heresi esa kaƛ’iya, kaƛ’inč’a.
+Gloss: inside-IN.ABL.DIST one bad woman-TOP II-appear-PFV.CVB ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS lie tell-INF understand.to-Q understand.to-NEG.PST.WIT-Q
+Translation: From inside a bad woman appeared and asked him: "Can you tell a lie or not?

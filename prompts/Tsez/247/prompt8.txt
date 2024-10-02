@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bodin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bodin: 
+
+Exact Matches
+Sentence: Neł zamanał bełiqanä eƛin, howła purqay ħalkiłiƛ’aɣor ok’łace sabru bodin bičiƛin.
+Gloss: DEM1.IISG.OBL time-CONT.ESS hunter-ERG say-PST.UNW DEM3.IISG.OBL field-POSS.ABL relaxation-SUPER.VERS go.away-TERM patience III-do-PFV.CVB III-wait-QUOT
+Translation: That time the hunter said: "Wait in patience until I go away to relax from that field."
+Sentence: Aħozä c’aq’ xal bodin zown, nar ža čanya gugixƛin.
+Gloss: shepherd-ERG much examination III-do-PFV.CVB be.NPRS-PST.UNW where DEM1.SG she.goat escape-PRS-QUOT
+Translation: The shepherd examined closely, where this goat escaped to.
+Sentence: Sasaqtow izin žoyä ros bič’anix bašla bodin.
+Gloss: in.the.morning-EMPH get.up-PFV.CVB boy-ERG base III-dig-MSD-AD.ESS begin III-do-PST.UNW
+Translation: In the morning the boy got up and began to dig the base.
+
+Approximate Matches:
+Sentence: Mi där quluq bodinäy, žeduqay bałgo sis šebin esanƛin”.
+Gloss: you me-LAT duty III-do-CND.CVB DEM1.IPL.OBL-POSS.ABL secretly one thing tell-FUT.DEF-QUOT
+Translation: If you look after me, I will tell you a secret that the others don't know."
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."
+Sentence: Buħima halizi bodinosi, idurno bik’in sabaniƛ’or boƛ’ˤun.
+Gloss: heat-ERG excite III-do-ANT.CVB home-LAT-TOP III-go-PFV.CVB blanket-SUPER.LAT III-fall-PST.UNW
+Translation: When the heat excited him [the dragon], he went home and fell onto the blanket.

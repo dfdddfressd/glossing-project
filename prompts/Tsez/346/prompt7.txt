@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boqäsiƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boqäsiƛin: 
+
+Exact Matches
+Sentence: Bišno boqnosi, esnabin maħor begirno, eɣeni esiya igorno ik’in Kusaq esirno, sasaqay soder q’ˤimno riqirno, bišadyoƛ’orno aq’ˤułnowa mi ičäsi, šebi deber q’ʷariłi boqäsiƛin.
+Gloss: I.PL-eat-TOP I.PL-begin-ANT.CVB brother-PL-TOP outside I.PL-send-PFV.CVB young-DEF brother-ERG near-LAT-TOP go-PFV.CVB Kusa-POSS.ESS ask-PST.UNW in.the.morning-IN.ABL after head-TOP IV-stop-PFV.CVB food-SUPER.LAT-TOP sit-PFV.CVB-Q you be-RES.PRT what you-LAT sadness III-happen-RES.PRT-QUOT
+Translation: After having eaten, the young brother sent his brothers outside, approached Kusa and asked him: "What sadness has happened to you so that you are sitting there over your food holding your head."
+
+Approximate Matches:
+Sentence: T’umzałäy xabar täqruntow, akäłru iłen oqno Ħon-Bahadurä eƛin, di žedał xizaynč’e oqäsiƛin.
+Gloss: pigeon-PL-CONT.ABL story hear-IMM.ANT.CVB-EMPH get.tired-PST.PRT as-TOP become-PFV.CVB Mountain~Hero-ERG say-PST.UNW me DEM1.IIPL.OBL-CONT.ESS behind-TOP-INTS become-RES.PRT-QUOT
+Translation: When Mountain~Hero heard the story about the pigeons, he wasn't tired anymore and said: "I will search for them!"
+Sentence: Bełiquza nełaq, nazay ža t’or yayäƛin esirnosi, hemedur eniwn yexun, best’alłiƛ’no ƛexun bet’erbaqi bodanix maħor yoqäsiƛin esin.
+Gloss: hunter-PL-ERG DEM1.IISG.OBL-POSS.ESS from.where DEM1.SG here-LAT II-come-PST.WIT.INT-QUOT ask-ANT.CVB so mother-TOP II-die-PFV.CVB orphanhood-SUPER.ESS-TOP remain-PFV.CVB life III-do-MSD-AD.ESS outside II-become-RES.PRT-QUOT tell-PST.UNW
+Translation: When the hunters asked her, from where she came, she said that her mother died and she lived in orphanhood and went outside to make a living.
+Sentence: Ža xabar yisä aħyaxorkin begirnoanu, baru yowač’inƛin di hedizi oqäsiƛin, t’ok’ow ža xabar meža haqazay maħor baɣnoƛin.
+Gloss: DEM1.SG story DEM2.ISG.OBL-ERG ear-AD.LAT-even III-let-PFV.CVB-NEG wife II-marry-NEG.FUT.DEF-QUOT me swear become-RES.PRT-QUOT anymore DEM1.SG story you(I).PL.OBL-ERG mouth-IN.ABL.DIST outside III-take.away-PROHIB-QUOT
+Translation: These words he didn't let to his ears, "I won't marry another wife!"... "I swear!"... "Don't say that anymore!",

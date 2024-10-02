@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yic’äsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yic’äsi: 
+
+Exact Matches
+Sentence: Babiw išƛ’oräy, kidbä nesił adäz mesedyos yic’äsi t’akan eqerno.
+Gloss: father eat-SIM.CVB daughter-ERG DEM1.ISG.OBL-CONT.ESS before gold-GEN1 II-fill-RES.PRT glass put-PST.UNW
+Translation: While the father was eating, his daughter put the glass full of gold in front of him.
+Sentence: Yisä žedus šebin elo- t’o esaniqno bˤuƛ’no, c’ohorza mesedyos yic’äsi k’emot’ yisiden xecin, boxin bik’in.
+Gloss: DEM2.ISG.OBL-ERG DEM1.IPL-GEN1 thing there here tell-MSD-POSS.ESS-TOP III-be.afraid-PFV.CVB thief-PL-ERG gold-GEN1 II-fill-RES.PRT wooden.case DEM2.ISG.OBL-APUD.ESS-TOP leave-PFV.CVB III-run.away-PFV.CVB III-go-PFV.CVB
+Translation: Being afraid that he will tell about their doings here and there, the thieves left the box filled with gold and ran away.
+
+Approximate Matches:
+Sentence: Reƛno łiyn k’onč’aqay reč’no kuräsi zows, howlaytow iyos zok’in ric’äsi zowsƛin”, - esin yisä.
+Gloss: meat-TOP end-PFV.CVB leg-POSS.ABL IV-cut-PFV.CVB throw-RES.PRT be.NPRS-PST.WIT from.there-EMPH blood-GEN1 mug-TOP IV-fill-RES.PRT be.NPRS-PST.WIT-QUOT - tell-PST.UNW DEM2.ISG.OBL-ERG
+Translation: "When the meat ended, I cut some from my leg and threw it to you, and from there I filled the blood into a mug", he told.
+Sentence: Yezunosi yiłar bercinaw, gelmač’u, ozuri bic’äsi uži ukayn nełał adäzarno oqno ičäsi.
+Gloss: II-look-ANT.CVB DEM2.IISG.OBL-LAT beautiful round eye III-fill-RES.PRT boy see-PST.UNW DEM1.IISG.OBL-CONT.ESS before-IN.LAT-TOP become-PFV.CVB be-RES.PRT
+Translation: She looked around and saw a boy with handsome, round eyes having come in front of her.
+Sentence: Elo yizi nucos bic’äsi q’ilima teł šišin.
+Gloss: there DEM2.IPL honey-GEN1 III-fill-RES.PRT qili-IN.ESS inside get.stuck-PST.UNW
+Translation: There they got stuck in the pot filled with honey.

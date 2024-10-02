@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: tełxor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": tełxor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word tełxor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ħumukulin bisno yizä, tełäy axorekasin roɣno, nełaz axä tełxor q’ebedes uži egirno.
+Gloss: camel-TOP III-buy-PFV.CVB DEM2.IPL.OBL-ERG inside-IN.ABL giblets-TOP IV-take.away-PFV.CVB DEM1.IISG.OBL-GEN2 belly-IN.ESS inside-AD.LAT smith-GEN1 son let-PST.UNW
+Translation: They bought a camel, removed its giblets and let the smith's son inside its belly.
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.
+Sentence: Dey xediw nexxoƛin, yiła yeda sida yeže ɣamasya tełxor uqˤno.
+Gloss: me-GEN1 husband come-PRS-QUOT DEM2.IISG.OBL-ERG DEM2.ISG one.OBL II-big box-IN.ESS inside-AD.LAT hide-PST.UNW
+Translation: "My husband is coming!", she [said and] hid him inside a large box.
+
+Approximate Matches:
+Sentence: Idazayn oƛixno nesä yizi tełxorno goƛ’in, ƛ’irir zahrun ƛešun adäz bišʷa ħaƛin, bišƛ’oräytow bexuran yiziƛin.
+Gloss: home-IN.ABL.DIST-TOP appear-PFV.CVB DEM1.ISG.OBL-ERG DEM2.IPL.OBL inside-AD.LAT-and call-PFV.CVB above-LAT poison-and pour-PFV.CVB before food organize-PFV.CVB I.PL-eat-SIM.CVB-EMPH I.PL-kill-FUT.DEF DEM2.IPL.OBL-QUOT
+Translation: Coming out of the house, he called them inside, organized dinner and poured poison in it, to kill them when they eat.
+Sentence: Yeda, łukin tełxorno goƛ’inč’ey, best’alawni iłe kawumox hečk’er ƛexun.
+Gloss: DEM2.ISG who.ERG-even inside-AD.LAT-TOP invite-NEG.PST.CVB orphan-DEF as gate-AD.ESS upright remain-PST.UNW
+Translation: Because no one invited him inside, he stood there upright at the gate like an orphan.
+Sentence: ʕOmoyn, mešin yołi tełxorno riħun, eƛnoqor rutäruni bix tatanaxorno roqno rac’xo zown.
+Gloss: donkey-and bull.calf-and however inside-AD.LAT-TOP III.PL-sit.down-PFV.CVB winter-POSS.LAT IV-gather-PST.PRT-DEF hay warmth-AD.LAT-TOP III.PL-become-PFV.CVB IV-eat-IPFV.CVB be.NPRS-PST.UNW
+Translation: The donkey and the calf, however, sat down inside in the warmth and ate the hay that had been gathered for the winter.

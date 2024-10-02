@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nesi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nesi: 
+
+Exact Matches
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Howži nesi žek’a ža uži debez mi hunix ik’iƛin egirno.
+Gloss: now DEM1.ISG.OBL man-ERG DEM1.SG boy you-GEN2 you way-AD.ESS go-QUOT let-PST.UNW
+Translation: Now the man let the boy go: "Go on your way!"
+Sentence: Nedur resunäyƛin, eƛin nesi žek’a, sis žek’u egir debez bˤeƛ’łäy biƛurox aluk’ani bˤeƛ’q’ˤu bowanix.
+Gloss: so IV-exist-CND.CVB-QUOT say-PST.UNW DEM1.ISG.OBL man-ERG one man send you-GEN2 sheep-CONT.ABL belly-AD.ESS white-DEF sheep III-bring-MSD-AD.ESS
+Translation: "If that's the case," said the man, "send a man to bring the sheep from your flock which is white on the belly!"
+
+Approximate Matches:

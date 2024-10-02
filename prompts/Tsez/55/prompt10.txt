@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: anu.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": anu
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word anu:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Debi iš anu žaƛin, bežet’ani esnabi bixzin boqno xabaryayn yisiqor rok’ƛ’osi murad t’ubazi boqinč’izaƛ’.
+Gloss: you-GEN1 concern be.NEG DEM1.SG-QUOT I.PL-old-DISTR-DEF brother-PL angry-TOP I.PL-become-PFV.CVB tell-PFV.CVB DEM2.ISG.OBL-POSS.LAT heart-SUPER.ESS-ATTR wish fulfill III-become-NEG.FUT.CVB-CSL.CVB
+Translation: "That's not your business.", said the older brothers angrily because their hearts' desire was not fulfilled.
+Sentence: Sida idu q’ˤuna xaner moči boqxosi anu.
+Gloss: one.OBL home two.OBL khan-LAT place I.PL-become-PRS.PRT be.NEG
+Translation: In one home there is no place for two kings.
+Sentence: Ħayran boqno yizä sidä sidqor eƛin, eloš nesi žek’uł adäza anusi šebinonwa anu, hudun nesiq łinaƛ’orkin reƛ’a regirełxanuwaƛin.
+Gloss: be.astonished I.PL-become-PFV.CVB DEM2.IPL-ERG one.OBL-ERG one.OBL-POSS.LAT say-PST.UNW over.there DEM1.ISG.OBL man-CONT.ESS before be.NEG-ATTR something-Q be.NEG nevertheless DEM1.ISG.OBL-POSS.ESS what.OBL-SUPER.LAT-even hand IV-let-POT-PRS-NEG-Q-QUOT
+Translation: They were surprised and talked among each other: "Isn't there everything possible on the table, but he nevertheless can't let his hand to any of it?"
+
+Approximate Matches:

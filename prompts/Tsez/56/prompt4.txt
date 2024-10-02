@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eč’uri.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eč’uri
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eč’uri:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yisi užä yedu kid idurno yižin, sasaqozox nasin moƛaxay bizinosi, eƛin, eni, mi hek’uyax eč’uri roda yik’inäy, yiła iduzasi radi, di ciqaɣor ik’anƛin.
+Gloss: DEM2.ISG.OBL boy-ERG DEM2.IISG girl home-LAT-TOP II-lead-PFV.CVB early.morning all sleep-AD.ABL III-get.up-ANT.CVB say-PFV.CVB mother you potatoe-AD.ESS weeding IV-do-INF II-go-CND.CVB DEM2.IISG.OBL-ERG home-PL-ATTR IV-do me forest-IN.VERS go-FUT.DEF-QUOT
+Translation: The boy took the girl home and in the early morning, when everyone got up from their sleeps, he said: "Mother, if you go to weed the potatoes, she will do the housework and I will go into the forest."
+
+Approximate Matches:
+Sentence: Ozzałer č’uran rayrerno, yiła xediw howlotow ičirno.
+Gloss: eye-PL-CONT.LAT light-TOP IV-bring-CAUS-PFV.CVB DEM2.IISG.OBL-ERG husband there-EMPH wait-CAUS-PST.UNW
+Translation: She brought the light back to his eyes but let her husband wait there.
+Sentence: Ozurazaq reƛ’an riħin egirno yiła yeda, kʷaxatow debez ozzar č’ura rukayƛin.
+Gloss: eye-PL-POSS.ESS hand-TOP IV-smear-PFV.CVB send-PST.UNW DEM2.IISG.OBL-ERG DEM2.ISG soon-EMPH you-GEN2 eye-PL-LAT light IV-see-QUOT
+Translation: She lead her hands over his eyes and sent him away: "Soon your eyes are going to see the light again."
+Sentence: Elo esnazar q’ˤidar beč’ułäsi ukrun, micxirno besun.
+Gloss: there brother-PL-LAT down-LAT III-flow.out-RES.PRT silver-and money-and III-find-PST.UNW
+Translation: There the brothers found the silver and money that had flown down.

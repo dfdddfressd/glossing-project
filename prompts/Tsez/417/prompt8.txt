@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word royn in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word royn: 
+
+Exact Matches
+Sentence: Nełaq mi rasgi q’ʷarid yaqnoƛin, žoyä nełas rok’u čučzi royn.
+Gloss: DEM1.IISG.OBL-POSS.ESS you at.all sadness II-become-PROHIB-QUOT boy-ERG DEM1.IISG.OBL-GEN1 heart loosen IV-do-PST.UNW
+Translation: "Don't be sad at all about it!", he calmed her down.
+Sentence: Qaca royn łiynosi, ʕomoybin ric’no Mirza ʕaƛaɣor ik’in.
+Gloss: firewood IV-do-PFV.CVB end-ANT.CVB donkey-PL-TOP III.PL-fill-PFV.CVB Mirza-ERG village-IN.VERS go-PST.UNW
+Translation: After Mirza finished collecting firewood, he charged the donkeys and went into the village.
+Sentence: Yizi biħanayxozo mečoƛ’or ayn, yisä salam teƛnosi, ʕoƛiran esnaza yisis salam butirno, yiziƛ’ biħanada bayrut’anibi yołi täqinč’irus riłe royn bičin.
+Gloss: DEM2.IPL.OBL I.PL-fight-PRS.PRT.OBL place-SUPER.LAT come-PFV.CVB DEM2.ISG.OBL-ERG greeting give-ANT.CVB seven.OBL-TOP brother-PL-ERG DEM2.ISG.OBL-GEN1 greeting III-give.back-PFV.CVB DEM2.IPL.OBL-SUPER.ESS I.PL-fight-INF I.PL-come-PST.PRT-DISTR-DEF-PL however hear-NEG.FUT.CVB-PST.PRT-GEN1 IV-as IV-do-PFV.CVB I.PL-be-PST.UNW
+Translation: He went to the place where they were fighting, and when he greeted them, the seven brothers gave back the greeting, the ones they were fighting however pretended not to have heard anything.
+
+Approximate Matches:

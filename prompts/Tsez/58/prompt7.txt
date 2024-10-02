@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mešok’la.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mešok’la
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mešok’la:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Bełiqanza bayn bišʷa esirnosi, nesä raqru šebin esin, hemedur mamalayƛ’no zown, ruk’ice mešok’la yołäsi t’omce žek’un ayn, kinaw mežur radiru bišʷan rac’no ik’isƛin.
+Gloss: hunter-PL-ERG I.PL-come-PFV.CVB food ask-ANT.CVB DEM1.ISG.OBL-ERG IV-happen-PST.PRT thing tell-PST.UNW so rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT span-EQU1 man-TOP come-PFV.CVB entire you(I).PL.OBL-LAT IV-do-PST.PRT food-TOP IV-eat-PFV.CVB go-PST.WIT-QUOT
+Translation: When the hunters came and asked for food, he told what had happened: "So on a rooster came riding a man in the size of a span, with a moustache in the size of a cubit, ate up the entire food that I made for you, and went away."
+
+Approximate Matches:
+Sentence: Xizyo neła yisiqor mešok’lałäy bet’urno mus teƛno, debeƛ’ ɣudi rayza mečoƛ’ bik’ur mi yeduƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT moustache-CONT.ABL III-pull.out-PFV.CVB hair give-PFV.CVB you-SUPER.ESS day IV-come-LCV.CVB place-SUPER.ESS III-burn-CAUS you DEM2.IISG-QUOT
+Translation: Then it pulled out a hair from its whiskers and gave it to him, "When one day you are in trouble, burn it!"
+Sentence: Din zows elo, nucin ragis, zerun ħaƛus, ruy mešok’labi taraw at’iłinč’u.
+Gloss: me-TOP be.NPRS-PST.WIT there honey-TOP IV-lick-PST.WIT bouza-TOP drink-PST.WIT IV-indeed moustache-PL except.for become.wet-NEG.PST.WIT
+Translation: I was there as well, I ate honey, I drank booze, and indeed only the moustaches got wet!
+Sentence: Žan rac’no łiyrno, p’es anusi c’ik’iwtow bišʷa rac’a ħuruƛ’or ik’iƛ’oräy, sid bełiqanä ža t’omceni žek’u oxira aqrun mešok’lałay boɣno musno, ɣunoqor icin kurno.
+Gloss: DEM1.SG-TOP IV-eat-PFV.CVB finish-PFV.CVB voice be.absent-ATTR all-EMPH food IV-eat-INF basin-SUPER.LAT go-SIM.CVB one.OBL hunter-ERG DEM1.SG span-EQU1-DEF man chase-INF begin-IMM.ANT.CVB moustache-CONT.ABL III-take.away-PFV.CVB hair-TOP tree-POSS.LAT tie-PFV.CVB throw-PST.UNW
+Translation: When he had finished eating it and went to the basin to eat all the food without saying anything, one hunter began to chase the span-sized man away and he took a hair out of his moustache and tied him to a tree.

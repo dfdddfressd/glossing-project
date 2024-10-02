@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣuron.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣuron
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣuron:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ħonƛ’orno izin, regirno bixiłer ɣuron muši begiranix yeda q’ˤida ičinosi, nazay eƛa biynč’ey sis aɣi boƛixno yisiqor insanzo mecreƛ’no xabaryayn eƛin:
+Gloss: mountain-SUPER.LAT-TOP get.up-PFV.CVB IV-send-PFV.CVB grass-CONT.LAT cows-TOP breath III-let-MSD-AD.ESS DEM2.ISG down sit-ANT.CVB from.where say-INF III-know-NEG.PST.CVB one bird III-appear-PFV.CVB DEM2.ISG.OBL-POSS.LAT human-ATTR.OBL language-SUPER.ESS-TOP talk-PFV.CVB say-PST.UNW
+Translation: He climbed up the mountain and sent the cows onto the grass, and when he sat down to take a breath, a bird appeared out of nowhere and told him in human language:
+Sentence: Ɣˤanazader ɣuron regirno, eluq ħalikataw šebin deber roqsiƛin ƛ’iräy žan yoɣno, nełar q’omexno bodin, roqno žeda žedaz q’aymozaƛ’ar ciqaɣor rik’in.
+Gloss: woman-APUD.LAT cows-TOP IV-send-PST.UNW we(I).OBL-POSS.ESS mean thing you-LAT IV-happen-PST.WIT-QUOT from.above DEM1.SG-TOP II-take.away-PST.UNW DEM1.IISG.OBL-LAT farewell-TOP III-do-PST.UNW IV-begin-PST.UNW DEM1.IIPL.OBL-ERG DEM1.IIPL.OBL-IN.ESS.DIST settlement-SUPER.VERS forest-IN.VERS IV-go-PST.UNW
+Translation: The cows were sent to the woman, "We've done something mean to you", they said; they apologized to her, said farewell to her and began to go towards the forest over their own settlement.
+
+Approximate Matches:
+Sentence: Neła quł sasaqozoxgon ɣurox žade sadaq babiwn ik’in.
+Gloss: DEM1.IISG.OBL day-CONT.ESS early.morning-CNTR cows-AD.ESS boy-APUD.ESS together father-TOP go-PST.UNW
+Translation: The next day in the early morning, the father went together with the boy to pasture the cows.
+Sentence: Hudayzikogon ɣurox uži egirnosi, hemedurtow boƛixno aɣi užiqor xabaryayn:
+Gloss: the.next.day-CNTR cows-AD.ESS boy send-ANT.CVB so-EMPH III-appear-PST.UNW bird boy-POSS.LAT tell-PST.UNW
+Translation: The next day the boy was sent to pasture the cows, when the bird appeared again and told him:
+Sentence: Di mi ɣurox egiranƛin odäsi zownč’u.
+Gloss: me you cows-AD.ESS send-FUT.DEF-QUOT do-RES.PRT be.NPRS-NEG.PST.WIT
+Translation: "I didn't give birth to you to have you pasture the cows.

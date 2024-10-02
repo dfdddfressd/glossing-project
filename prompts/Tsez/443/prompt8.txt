@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rowa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rowa: 
+
+Exact Matches
+Sentence: Biša rodanix barun yegirno, yeda maħor oqno, bˤeƛ’ rowa ħonƛ’aɣor ik’ixƛin.
+Gloss: food IV-do-MSD-AD.ESS wife-TOP II-let-PFV.CVB DEM2.ISG outside become-PFV.CVB sheep III.PL-bring-INF mountain-SUPER.VERS go-PRS-QUOT
+Translation: He let his wife prepare the meal and went outside: "I am going to the mountains to bring the sheep."
+Sentence: Hič’č’a adäzaytow soder eni- babiwde idu zawru yisä yisis ʕamal boda oqno, dicegon bara eƛiłin ya qaca ret’urxo zownanu, ya łi rowa ik’ix zownanu, ya q’ˤuya iduzo ħalt’oqor utin ezux zownanu.
+Gloss: the.most in.front-IN.ABL.DIST-EMPH after mother father-APUD.ESS home be.NPRS-PST.PRT DEM2.ISG.OBL-ERG DEM2.ISG.OBL-GEN1 behaviour III-do-INF begin-PFV.CVB how.much-CNTR wife-ERG say-CNC.CVB neither firewood IV-hack-IPFV.CVB be.NPRS-PFV.CVB-NEG neither water IV-bring-INF go-IPFV.CVB be.NPRS-PFV.CVB-NEG neither other home-ATTR.OBL work-POSS.LAT turn-PFV.CVB look-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: Right from the beginning he started to behave like in the house of his parents; how much his wife would say, he neither hacked firewood, nor did he go and bring water, nor did he do look for or did any other housework.
+Sentence: Eƛnin ɣutaneł yoɣno, ħonzaqaɣor bˤeƛ’ rowa oc’ino łeno ɣudi ƛexunosi, aħozir ɣˤʷadbi sidä sidqor xabaryayx teqno.
+Gloss: winter-TOP winter.pasture-CONT.ESS II-spend.time-PFV.CVB mountain-PL-POSS.VERS sheep III.PL-bring-INF ten five day remain-ANT.CVB shepherd-LAT crow-PL one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB hear-PST.UNW
+Translation: They spent the winter on the winter pasture and when just 15 days remained to bring the sheep back to the mountains, the shepherd heard the crows talking among each other.
+
+Approximate Matches:

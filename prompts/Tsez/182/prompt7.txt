@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: baɣmaɣor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": baɣmaɣor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word baɣmaɣor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Kidbazade sadaq di baɣmaɣor yoqan yaħna-yik’anix, elay di yok’ek’anix nesis hunar ʕeze boqnäy, nesis murad t’ubazi baqƛin.
+Gloss: girl-PL-APUD.ESS together me garden-IN.ALL II-become-FUT.DEF II-walk.for.a.while-MSD-AD.ESS there-IN.ABL me II-steal-MSD-AD.ESS DEM1.ISG.OBL-GEN1 talent be.enough III-become-CND.CVB DEM1.ISG.OBL-GEN1 wish fulfill III-become-QUOT
+Translation: "I will go out into the garden together with the girls to take a walk, if his talent is enough to steal me from there, his wish will be fulfilled."
+
+Approximate Matches:
+Sentence: Xizyo baɣmaɣorno ik’in, ɣunoƛ waħo q’ˤida ičin zown ičäsi, Allahä sis sabaw yoynč’i diƛin.
+Gloss: afterwards garden.OBL-IN.VERS-TOP go-PFV.CVB tree-SUB.ESS below under sit-PFV.CVB be.NPRS-PFV.CVB be-RES.PRT God-ERG one amulet II-do-NEG.FUT me-QUOT
+Translation: Afterwards he went to the garden and sat down thinking under the tree , "The God will not disregard me."
+Sentence: Hi hudu deber nedur resunäyƛin, rok’no mač’an exurno eženi esiwdetow puräza taxeƛno eqerno akäza baɣmaɣorno yezun yičin.
+Gloss: take.IMP so you-LAT so IV-exist-CND.CVB-QUOT IV-hit-PFV.CVB dagger-TOP kill-PFV.CVB old-DEF brother-APUD.ESS-EMPH side-IN.VERS.DIST ottoman-SUB.ESS-TOP put-PFV.CVB window-IN.VERS.DIST garden-IN.ALL-TOP II-look-PFV.CVB II-wait-PST.UNW
+Translation: "So take [this], if that's the case!", and she hit and killed him with the dagger, put him under the ottoman to the oldest brother's side and waited looking out of the window into the garden.

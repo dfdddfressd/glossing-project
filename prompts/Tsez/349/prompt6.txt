@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word pandurya in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word pandurya: 
+
+Exact Matches
+Sentence: Hemedur yeda zawzay, pandurya tełäzay q’ˤanoquno oc’ino łelaw, q’ˤanoquno oc’ino guluƛ’no zown saldatbi boƛixno.
+Gloss: so DEM2.ISG be.NPRS-SIM.CVB lute inside-IN.ABL.DIST forty-TOP ten by.foot forty-TOP ten horse-SUPER.ESS-TOP be.NPRS-PFV.CVB soldier-PL I.PL-appear-PST.UNW
+Translation: When he was like this, 50 soldiers by foot and 50 soldiers on horses appeared out of the lute.
+
+Approximate Matches:
+Sentence: Nediwt’a panduryabi elzox šomoƛała besʷanƛin”.
+Gloss: such-DISTR lute-PL we(II-ATTR.OBL-AD.ESS how.many-INDEF-DUB III-have-FUT.DEF-QUOT
+Translation: "We should have some such lutes."

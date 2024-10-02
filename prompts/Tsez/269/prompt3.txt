@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xizay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xizay: 
+
+Exact Matches
+Sentence: Yisä eƛin, mi barułun yižanix debeł xizay nexäsi yoł diƛin.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW you wife-LHUN II-take.out-MSD-AD.ESS you-CONT.ESS behind come-RES.PRT be me-QUOT
+Translation: He said: "I came to you in order to take you as a wife."
+Sentence: Neła quł sasaqtow moƛaxayn bizin, ixinno risno, q’ˤanon gagalazał xizay ħonƛ’aɣor boqno.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH sleep-AD.ABL-TOP I.PL-get.up-PFV.CVB bag-TOP IV-take-PFV.CVB two-TOP flower-PL-CONT.ESS behind mountain-SUPER.VERS I.PL-become-PST.UNW
+Translation: The next morning, the two of them got up from their sleep, took a back and went to the mountain for flowers.
+Sentence: Bertenyoł šeƛ’anix baħarčis šeƛ’ureł xizay yiłagon q’orolay yegirno, neła nełas šeƛ’un nełar xecin.
+Gloss: marriage-CONT.ESS put.on-MSD-AD.ESS brave.young.man-GEN1 clothing-CONT.ESS behind DEM2.IISG.OBL-ERG-CNTR widow II-let-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 put.on-PST.UNW DEM1.IISG.OBL-LAT leave-PST.UNW
+Translation: In order to dress up for the marriage, she let the widow look after young men's clothings and left her own clothes with her.
+
+Approximate Matches:
+Sentence: T’umzałäy xabar täqruntow, akäłru iłen oqno Ħon-Bahadurä eƛin, di žedał xizaynč’e oqäsiƛin.
+Gloss: pigeon-PL-CONT.ABL story hear-IMM.ANT.CVB-EMPH get.tired-PST.PRT as-TOP become-PFV.CVB Mountain~Hero-ERG say-PST.UNW me DEM1.IIPL.OBL-CONT.ESS behind-TOP-INTS become-RES.PRT-QUOT
+Translation: When Mountain~Hero heard the story about the pigeons, he wasn't tired anymore and said: "I will search for them!"
+Sentence: Oka eƛin, däde sadaq egirno xec yeda debi uži, xizyo ƛˤebaq ƛˤeb ħišiłnosi, hobołatow mečoƛ’or horo mi yisił xizayƛin.
+Gloss: Oku-ERG say-PST.UNW me-APUD.ESS together send-PFV.CVB leave DEM2.ISG you-GEN1 son afterwards year-POSS.ESS year be.over-ANT.CVB this-DUB-EMPH field-SUPER.LAT come.IMPR you DEM2.ISG.OBL-CONT.ESS behind-QUOT
+Translation: Oku said: "Send your son together with me, and when the year after next year is over, come to this very field and follow him."
+Sentence: Yoƛƛozo kidbä eƛin, di bečedaw žek’us uži ok’ek’äsi zows, nesił xizayn ayn, däqay xot’oqosin roɣno axiru užix därno yik’a rätiƛin.
+Gloss: II-middle-ATTR.OBL girl-ERG say-PST.UNW me wealthy man-GEN1 son steal.from-RES.PRT be.NPRS-PST.WIT DEM1.ISG.OBL-CONT.ESS from.behind-TOP come-PFV.CVB me-POSS.ABL foot-POSS.ESS-ATTR-TOP IV-take.away-PFV.CVB run.away-PST.PRT boy-AD.ESS me-LAT-TOP II-go-INF IV-want-QUOT
+Translation: The middle girl said: "I'll also want to marry the boy who, when I stole the rich man's son, came after him, took my footwear from me and ran away."

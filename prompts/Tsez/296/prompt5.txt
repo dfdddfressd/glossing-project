@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roq’ˤyabi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roq’ˤyabi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža łi ƛ’iri riħinosi, siskin raqinč’iru riłe užisno, ceyesno raqˤyabi ixin.
+Gloss: DEM1.SG water above IV-smear-ANT.CVB anything IV-happen-NEG.FUT.CVB-PST.PRT IV-as boy-GEN1-and eagle-GEN1-and wound-PL heal-PST.UNW
+Translation: He smeared the water on it and the boy's and the eagle's wounds healed like nothing had happened.

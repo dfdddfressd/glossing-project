@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bok’ełƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bok’ełƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Dandi yizi huniƛxor k’oƛin bok’ełno, žedu zawza mečoƛ’ ža ɣunno rik’in c’oxno.
+Gloss: only DEM2.IPL way-SUB.LAT run-PFV.CVB I.PL-escape-PFV.CVB DEM1.IPL be.NPRS-LCV.CVB place-SUPER.ESS DEM1.SG tree-TOP IV-go-PFV.CVB hit-PST.UNW
+Translation: They had just gotten out of the way, and that tree hit the place where they had been.
+Sentence: Hoboy eli sidqo sisno biłis, däƛ’ ƛ’iräy urɣelno bok’ełsiƛin.
+Gloss: now we one.OBL-POSS.ESS one-TOP I.PL-resemble-PST.WIT me-SUPER.ESS from.above sorrow-TOP III-go.away-PST.WIT-QUOT
+Translation: Now we became similar to one another and the sorrow went away from me."
+Sentence: Eɣenigon esiw ža biqiranƛin oqno, hemedurtow nesiqayn boxin bok’ełno.
+Gloss: young-DEF-CNTR brother DEM1.SG III-catch-FUT.CVB-QUOT begin-PFV.CVB so-EMPH DEM1.ISG.OBL-POSS.ABL-TOP III-run.away-PFV.CVB III-escape-PST.UNW
+Translation: The young brother tryed to catch it, and just as before it escaped and ran away from him.

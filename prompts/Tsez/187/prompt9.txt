@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: muradno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": muradno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word muradno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xan ʕuraw ɣˤaɣˤu izin kidno, yisiƛ’ay q’ʷariłi bok’äk’runi misikin užin saɣłiƛ’, nesis muradno t’ubazi bodin xizor butin bayzaƛ’.
+Gloss: khan much be.happy get-PFV.CVB daughter-and DEM2.ISG.OBL-SUPER.ABL sadness III-steal-PST.PRT-DEF poor boy-and health-SUPER.ESS DEM1.ISG.OBL-GEN1 wish-TOP fulfill III-do-PFV.CVB back I.PL-turn.back-PFV.CVB I.PL-come-CSL.CVB
+Translation: The king got very happy that his wish came true, that his daughter and the young boy who helped him out of distress came home safely.
+
+Approximate Matches:
+Sentence: Sosi yisä ħumukulis bet’erhanno goƛ’in nesis murad esirnosi, nesä eƛin:
+Gloss: at.first DEM2.ISG.OBL-ERG camel-GEN1 master-TOP call-PFV.CVB DEM1.ISG.OBL-GEN1 wish ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: At first he called the owner of the camel and asked what he desired, the owner said:
+Sentence: Neła eƛin, beže taliħ boqsi debi, yaqˤułäy soder mi dey uži yoł, howži debi mi murad eso däqƛin.
+Gloss: DEM1.IISG.OBL-ERG say-PST.UNW III-big fortune III-happen-PST.WIT you-GEN1 today-IN.ABL after you me-GEN1 son be now you-GEN1 you wish tell-IMPR me-POSS.ESS-QUOT
+Translation: She said: "You have good luck, as of today you are my son; now tell me your wish!"
+Sentence: Xizyo madaxosinin ayn, xandärno yižin neła nełas muradyołäy esin, wallahi, di žax debi kid esira nexäsi yołƛin.
+Gloss: afterwards yard-AD.ESS-ATTR-DEF-TOP come-PFV.CVB khan-APUD.VERS-TOP II-lead-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 wish-CONT.ABL tell-PST.UNW by.God me son-AD.ESS you-GEN1 daughter ask-INF come-RES.PRT be-QUOT
+Translation: Then the house-serf came, lead her to the king, and she told [him] of her wish: "By God, I have come to ask out the kings daughter to marry my son."

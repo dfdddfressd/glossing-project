@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kidbeq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kidbeq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kidbeq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełde idur baynosi, šakno oqno eɣeni esiya kidbeq ħaƛanix łi esiro.
+Gloss: DEM1.IISG.OBL-APUD.ESS home-LAT I.PL-come-ANT.CVB suspicion-TOP become-PFV.CVB young-DEF brother-ERG girl-POSS.ESS drink-MSD-AD.ESS water ask-IMPR
+Translation: When they came to the house where she was, the youngest brother became suspicious and asked the girl if she wanted to drink some water.
+Sentence: Yeɣeni kidbeq esirnosi yołi, deber rätiru zamanał mi äƛiru šebin roda ħaduraw di yołƛin, eniwqor eƛin.
+Gloss: II-young-DEF daughter-POSS.ESS ask-ANT.CVB however you-LAT IV-want-PST.PRT time-CONT.ESS you say-PST.PRT thing IV-do-INF prepared me be-QUOT mother-POSS.LAT say-PST.UNW
+Translation: When she asked the youngest daughter, she said to her mother: "I'm ready to do whatever you say, whenever you want."
+Sentence: Waħ, łu nesis žedu xexbi rexura rayx, - esirno ʕAliqiličä neł kidbeq, - žeda nesi baħarčir šebi zaral bodäsiƛin?”
+Gloss: whoa who.ERG DEM1.ISG.OBL-GEN1 DEM1.IPL.OBL children III.PL-kill-INF IV-come-IPFV.CVB - ask-PST.UNW Aliqilich-ERG DEM1.IISG.OBL girl-POSS.ESS - DEM1.IPL-ERG DEM1.ISG.OBL brave.young.man-LAT what harm III-do-RES.PRT-QUOT
+Translation: "Whoa, who would kill his children?", asked Aliqilich the girl, "What did they do to this brave young man?"
+
+Approximate Matches:
+Sentence: Nesä kidbeqor eƛin, yedu t’umi dey yoł, xizor dey däqor neƛƛin.
+Gloss: DEM1.ISG.OBL-ERG girl-POSS.LAT say-PST.UNW DEM2.IISG pigeon me-GEN1 be back me-GEN1 me-POSS.LAT give-QUOT
+Translation: He said to the girl: "That pigeon is mine; give it back to me!"
+Sentence: Ža kaɣat kidbeqor teƛƛ’oräy Tawadä eƛin, di maqˤir ok’łacen yičin yedu kaɣat Ražbadinqor teƛ.
+Gloss: DEM1.SG letter girl-POSS.LAT give-SIM.CVB Tavadi-ERG say-PST.UNW me far.away-LAT go.away-TERM-TOP II-wait-PFV.CVB DEM2.IISG letter Razhbadin-POSS.LAT give
+Translation: While he gave the letter to the girl, Tavadi said: "Until I got far away, wait and give this letter to Razhbadin.
+Sentence: Mesedyos saħno, t’asno, reƛ’iqoyn, pandurno boɣno xanez kidbeqay, xanägon nesi žax žan yegirno.
+Gloss: gold-GEN1 sah-and washbowl-and glove-and lute-and III-take.away-PFV.CVB khan-GEN2 daughter-POSS.ABL khan-ERG-CNTR DEM1.ISG.OBL boy-AD.ESS DEM1.SG-TOP II-send-PST.UNW
+Translation: The king took away the sah of gold, the washbowl, the glove and the lute, and sent it back to the boy.

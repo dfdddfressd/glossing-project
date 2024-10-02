@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rok’un.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rok’un
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rok’un:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Aħos nesix rok’un rexun, ža icin zawruni ročyabi reč’-t’it’in roɣno.
+Gloss: shepherd-GEN1 DEM1.ISG.OBL-AD.ESS heart-TOP IV-die-PFV.CVB DEM1.SG tie-PFV.CVB be.NPRS-PST.PRT-DEF rope-PL IV.PL-split-PFV.CVB IV.PL-take.away-PST.UNW
+Translation: The shepherd had deep sympathy for him, and cut off the ropes that restrained him.
+Sentence: Bišƛ’oräytow nesä kidbez babiwqor xabar boƛik’no, hemedur sis beže q’ʷariʕelno dowqor keze boqno, mi ža t’ubazi badiƛin debeƛ’ rok’un rayn nexäsi yoł di dowderƛin.
+Gloss: I.PL-eat-SIM.CVB-EMPH DEM1.ISG.OBL-ERG girl-GEN2 father-POSS.LAT story III-push.out-PFV.CVB so one III-big necessity-TOP you-POSS.LAT meet III-become-PFV.CVB you DEM1.SG fulfill III-do-QUOT you-SUPER.ESS heart-TOP IV-come-PFV.CVB come-RES.PRT be me you-APUD.LAT-QUOT
+Translation: While they were eating, he started a conversation with the girl's father: "So there is a big necessity you have to do, and I have come to you and am convinced you can fulfill it."
+Sentence: Qiƛ’orok’uƛ’ay yeɣeni esiw yukaynosi, yiła nełar radiru kinaw šebinon roƛixno adäz ričin, howlortow rok’un ret’un žan yexun.
+Gloss: by.accident II-young-DEF sister II-see-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL-LAT IV-do-PST.PRT entire something IV-appear-PFV.CVB ahead IV-be-PFV.CVB there-LAT-EMPH heart-TOP IV-jump-IMPR-PFV.CVB DEM1.SG-TOP II-die-PST.UNW
+Translation: When she happened to see her younger sister, everthing appeared in front of her(?), she got a heart-attack and died.
+
+Approximate Matches:
+Sentence: C’iɣruk’ä yeɣeni kidbes iyos q’ut’un bic’no, nełastow ħamorok’un roɣno adäz eqerno, maqˤäytow aždaħqor qˤaƛin, biša ħaƛis, howži idur bik’iƛin.
+Gloss: Tsighruk-ERG II-young-DEF daughter-GEN1 blood-GEN1 earthen.jug-TOP III-fill-PFV.CVB DEM1.IISG.OBL-GEN1-EMPH breast-TOP IV-take.away-PFV.CVB ahead put-PFV.CVB far.away-IN.ABL-EMPH dragon-POSS.LAT shout-PST.UNW food organize-PST.WIT now home-LAT III-go-QUOT
+Translation: Tsighruk filled the youngest daughter's blood into an earthen jug, took her breast and put it before himself and shouted from far away to the dragon: "I organized the food, now I'm going home!"

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bayxƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bayxƛin: 
+
+Exact Matches
+Sentence: Howžiƛa rˤałay roda zaman bayxƛin Alimaħama ciqaɣor ik’in, isʷaqor reƛ’u rodanix c’araʕyor qaca rowanixƛin.
+Gloss: now-INDEF threshing.floor IV-do-INF time III-come-PRS-QUOT Alimagomed-ERG forest-IN.VERS go-PST.UNW bull-PL-POSS.LAT yoke IV-do-MSD-AD.ESS building.material-LAT firewood IV-bring-MSD-AD.ESS-QUOT
+Translation: "Now it's time to do the threshing.", Alimagomed thought and went into the forest to bring wood for building the yoke for the bulls.
+Sentence: ʕAƛor ʕeziyaw k’udi däq biqira bayxƛin.
+Gloss: village-LAT many vine me-POSS.ESS III-take.away-INF III-must-PRS-QUOT
+Translation: I must deliver enough vines to the village."
+Sentence: Eɣeni esiwq xanä, däz šadał aqˤuros maħ nazay boqa bayxƛin esirnosi, nesä eƛin:
+Gloss: young-DEF brother-POSS.ESS khan-ERG me-GEN2 wine-CONT.ESS urine-GEN1 smell from.where III-become-INF III-come-PRS-QUOT ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: When the king asked the younger brother, how it came that his wine smells like urine, he said:
+
+Approximate Matches:
+Sentence: Mi didiwtow siskin šebin riyxanusi uži iča ayxƛin, Oku aƛ’in nesiqor.
+Gloss: you which-EMPH any thing IV-know-NEG.PRS.PRT boy be-INF must-PRS-QUOT Oku talk-PST.UNW DEM1.ISG.OBL-POSS.LAT
+Translation: "What kind of boy must you be, who doesn't know anything.", spoke Oku.
+Sentence: Yizis xabar xanez kidberno teqno, yedu maħor yoƛixno, didiw ža dey eniw yiča yayxƛin, kid maħor yoqno.
+Gloss: DEM2.IPL.OBL-GEN1 story khan-GEN2 daughter-LAT-TOP hear-PFV.CVB DEM2.IISG outside II-appear-PST.UNW which DEM1.SG me-GEN1 mother II-be-INF II-come-PRS-QUOT girl outside II-become-PST.UNW
+Translation: This story was overheard by the king's daughter, who appeared outside: "Which one is my mother?!", the girl went outside.
+Sentence: Radiru rigłin riynč’ey, bežet’ani esnaza daʕba bodin, hič’č’a bercinaw kid deber šida yiča yayxƛin.
+Gloss: IV-do-PST.PRT IV-good-CNC.CVB IV-know-NEG.PST.CVB I.PL-old-DISTR-DEF brother-PL-ERG dispute III-do-PFV.CVB the.most beautiful girl you-LAT why II-be-INF II-must-PRS-QUOT
+Translation: The other brothers didn't know what good he had done, and began to argue: "Why must the most beautiful girl be for you?"

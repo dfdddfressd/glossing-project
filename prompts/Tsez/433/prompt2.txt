@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’ˤidan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’ˤidan: 
+
+Exact Matches
+Sentence: Yisägon bizirno q’ˤidan bok’no aždaħ ašuƛäyd raƛ’moƛxor cucik’no.
+Gloss: DEM2.ISG.OBL-ERG-CNTR III-lift-PFV.CVB down-TOP III-beat-PFV.CVB dragon waist-SUB.ABL-TERM earth-SUB.LAT put-PST.UNW
+Translation: Then he beat the dragon down and put him into the earth up to the waist.
+Sentence: Bełiƛ’ esnabi bäk’äsi yałzay, eɣeni esiwz bara k’orin boyn nazon q’ˤidan ričin bac’ƛ’oräy, Umukusez haqa bašiqˤoy šišin, k’ori boyƛ’orey eɣeni esiwz baruqay rˤaƛ’uruni.
+Gloss: hunting-SUPER.ESS brother-PL I.PL-go-ATTR be-SIM.CVB young-DEF brother-GEN2 wife-ERG oatmeal-TOP III-do-PFV.CVB everyone.OBL-TOP down-TOP II.PL-sit-PFV.CVB III-eat-SIM.CVB Umukus-GEN2 mouth-IN.ESS ring get.stuck-PST.UNW oatmeal III-do-SIM.CVB young-DEF brother-GEN2 wife-POSS.ABL IV-fall-PST.PRT-DEF
+Translation: When the brothers were going hunting, the youngest brother's wife made an oatmeal and when everyone sat down and ate, a ring that fell off the youngest brother's wife when she made the oatmeal, got stuck in Umukus' mouth.
+Sentence: Q’ˤanon q’ˤidan bičin biš-butin łiynosi, užä nełqor ħaƛanix łäsno yic’no besuroz haqa yesun zawruni t’akan teƛno.
+Gloss: two-TOP down-TOP I.PL-sit-PFV.CVB I.PL-eat-PFV.CVB end-ANT.CVB boy-ERG DEM1.IISG.OBL-POSS.LAT drink-MSD-AD.ESS water-GEN1-TOP II-fill-PFV.CVB fish-GEN2 mouth-IN.ESS II-find-PFV.CVB be.NPRS-PST.PRT-DEF glass give-PST.UNW
+Translation: The two sat down and when they had finished eating, the boy filled the glass he found in the fish's mouth with water and gave it to her to drink.
+
+Approximate Matches:
+Sentence: Soder ezunosi, ƛ’iräy ƛ’iyor łäs čok boɣäsiƛax, wˤałer ezuzaƛ’ q’ˤidar axukin yayxanuƛax.
+Gloss: upward look-ANT.CVB from.above downwards water-GEN1 stream III-hatch-RES.PRT-QUOT downward-LAT look-CSL.CVB down-LAT drop-even II-come-PRS-NEG-QUOT
+Translation: When he looked upwards, a stream of water flowed down, but when he looked down, not even a drop of water came down.
+Sentence: Žan bitor yiq’ˤirno waħaz egin ik’inosi, deber elo ixiw gondu yukay, elogon tełxor oqnosi, q’ˤida yičäsi eniw yäsu.
+Gloss: DEM1.SG-TOP thither II-move.aside-PFV.CVB below-IN.ESS.DIST go.into-PFV.CVB go-ANT.CVB you-LAT there big big.hole II-see there-CNTR inside-AD.LAT become-ANT.CVB down II-sit-RES.PRT mother II-find
+Translation: After you have moved it aside and went below it, you will see a big hole, and inside you will see your mother sitting there.
+Sentence: Elo esnazar q’ˤidar beč’ułäsi ukrun, micxirno besun.
+Gloss: there brother-PL-LAT down-LAT III-flow.out-RES.PRT silver-and money-and III-find-PST.UNW
+Translation: There the brothers found the silver and money that had flown down.

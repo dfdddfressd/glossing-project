@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nesisgon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nesisgon: 
+
+Exact Matches
+Sentence: Zownƛax, zownanuƛax sis xan, nesisgon łˤono užin zownƛax.
+Gloss: be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB-NEG-QUOT one khan DEM1.ISG.OBL-GEN1-CNTR three son-TOP be.NPRS-PFV.CVB-QUOT
+Translation: Once upon a time there was a khan with three sons.
+Sentence: Zamanałäy neła ɣˤanazas xediwn, nesisgon užin ozno bižin ƛˤoreł bik’inosi, nełar retäsi zown best’alawni kid elo iday yok’ek’anix.
+Gloss: time-CONT.ABL DEM1.IISG.OBL woman-GEN1 husband-and DEM1.ISG.OBL-GEN1-CNTR son-and army-and I.PL-lead-PFV.CVB war-CONT.ESS I.PL-go-ANT.CVB DEM1.IISG.OBL-LAT IV-want-RES.PRT be.NPRS-PFV.CVB step-DEF daughter there home-IN.ABL II-remove-MSD-AD.ESS
+Translation: After some time, after the woman's husband, his son and the army went to war, she wanted to remove the step-daughter from their home.
+Sentence: Sis zown babiwn nesisgon łˤono užin.
+Gloss: one be.NPRS-PST.UNW father-and DEM1.ISG.OBL-GEN1-CNTR three son-and
+Translation: Once there was a father and his three sons.
+
+Approximate Matches:
+Sentence: Nesisgon łˤono uži zown.
+Gloss: DEM1.ISG.OBL-GEN1-CNTR three son be.NPRS-PST.UNW
+Translation: He had three sons.

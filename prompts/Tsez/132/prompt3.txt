@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ric’q’i.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ric’q’i
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ric’q’i:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elay ža maħor łi roƛäk’rur, žamaʕatyo ʕaƛos boƛƛik’u ric’q’i neƛxoƛax.
+Gloss: there-IN.ABL DEM1.SG outside water IV-pull.out-PST.PRT-LAT assembly-ERG village-GEN1 III-half wealth give-PRS-QUOT
+Translation: They say that the assembly of the village would give half their wealth in order to get the water out there.
+Sentence: Žeda eƛin, ʕaƛos boƛik’u ric’q’i neƛa yołƛin.
+Gloss: DEM1.IPL-ERG say-PST.UNW village-GEN1 half wealth give-INF be-QUOT
+Translation: They said: "We will give [you] half the wealth of the village!"
+Sentence: Xanä urɣizikin oqxo ičinč’ey nesir žawab teƛno, boƛƛik’u dey ric’q’i neƛa yoł deberƛin.
+Gloss: khan-ERG thinking-even become-IPFV.CVB be-NEG.PST.CVB DEM1.ISG.OBL-LAT answer give-PFV.CVB III-half me-GEN1 wealth give-INF be you-LAT-QUOT
+Translation: The king wasn't thinking and answered him: "I will give you half of my wealth!"
+
+Approximate Matches:
+Sentence: T’omceni žek’us bełiqaner nasin ric’q’in ƛexun, barułungon nesis kidno yown, maʕišat bodix howlotow žan ičin.
+Gloss: span-EQU1-DEF man-GEN1 hunter-LAT all wealth-TOP remain-PFV.CVB wifehood-TOP-CNTR DEM1.ISG.OBL-GEN1 daughter-TOP II-marry-PFV.CVB fortune III-do-IPFV.CVB there-EMPH DEM1.SG-TOP live-PST.UNW
+Translation: All the span-sized man's wealth remained for the hunter, he married his daughter, and lived there making a great fortune.
+Sentence: Xanä nesix ixiw bertenno boyn kidno yegirno, boƛik’u nesis ric’q’in, ɣˤutkun, posun teƛno, howlotow xande puräza iguni žek’un ičin.
+Gloss: khan-ERG DEM1.ISG.OBL-AD.ESS big marriage-TOP III-do-PFV.CVB daughter-TOP II-send-PFV.CVB half DEM1.ISG.OBL-GEN1 wealth-and house-and cattle-and give-PFV.CVB there-EMPH khan-APUD.ESS side-IN.VERS.DIST good-DEF man-TOP be-PST.UNW
+Translation: The king organized a big marriage and married off his daughter, gave half his wealth, his house and cattle to him and the good man was to the king's side.
+Sentence: Iłnon kawu serun, nasin ric’q’is ric’äsi resun.
+Gloss: six-TOP gate unlock-PFV.CVB all wealth-GEN1 IV-fill-RES.PRT IV-find-PST.UNW
+Translation: He had unlocked six gates and found all filled with wealth.

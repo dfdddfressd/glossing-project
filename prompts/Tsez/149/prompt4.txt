@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: egirno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": egirno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word egirno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howži nesi žek’a ža uži debez mi hunix ik’iƛin egirno.
+Gloss: now DEM1.ISG.OBL man-ERG DEM1.SG boy you-GEN2 you way-AD.ESS go-QUOT let-PST.UNW
+Translation: Now the man let the boy go: "Go on your way!"
+Sentence: Bet’erhanes kidno ħamimyołxor yegirno, nełałtow xizaygon dibirno egirno, micxir neƛanƛin.
+Gloss: master-GEN1 daughter-TOP hot.springs-CONT.VERS II-send-PFV.CVB DEM1.IISG.OBL-CONT.ESS-EMPH behind-CNTR imam-TOP send-PFV.CVB money give-FUT.DEF-QUOT
+Translation: She sent the master's daughter to the hot springs and sent the imam behind her, "I'll give you money."
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+
+Approximate Matches:
+Sentence: Yigza ħalał barun qˤaƛanada yegirno xecin, xiszi rožin rodin, xediya eƛin, di ent’o yoł, šebi deber retinƛin.
+Gloss: II-good-ZA strength-CONT.ESS wife-TOP yell-INF II-let-PFV.CVB leave-PFV.CVB change word-TOP IV-do-PFV.CVB husband-ERG say-PST.UNW me here be what you-LAT IV-want-PST.UNW-QUOT
+Translation: Letting his wife shout out quite loudly, the husband changed his voice and said: "I am here, what do you want?"
+Sentence: Maharno erno xanä kid Kusaxno yegirno, nesä nesis mečar xanłunno egirno.
+Gloss: wedding-TOP set.up-PFV.CVB khan-ERG daughter Kusa-AD.ESS-TOP II-send-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 instead.of-LAT khan-LHUN-TOP send-PST.UNW
+Translation: The king organized a wedding, married off his daughter to Kusa and gave him his kingdom.
+Sentence: Nełƛ’ay soder žedu kidbabi ħalaxor regirnokin ciqaɣor rik’ix zownanu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after DEM1.IPL girl-PL strength-AD.LAT II.PL-let-PFV.CVB-even forest-IN.VERS II.PL-go-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: After that, the girl couldn't even with force go into the forest anymore.

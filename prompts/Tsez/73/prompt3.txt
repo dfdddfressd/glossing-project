@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: budum.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": budum
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word budum:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sidaquł xanä idurno goƛ’in budumqor eƛin:
+Gloss: one.day khan-ERG home-LAT-TOP call-PFV.CVB muezzin-POSS.LAT say-PST.UNW
+Translation: One day, the king called the muezzin to his home and said:

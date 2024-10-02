@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esnabin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esnabin: 
+
+Exact Matches
+Sentence: Där eniwn, esnabin bukada betinƛin.
+Gloss: me-LAT mother-and brother-PL-and I.PL-see-INF I.PL-want-PST.UNW-QUOT
+Translation: I wanted to see my mother and my brothers."
+Sentence: ʕIyayx yedun xecin C’irduxno, nesis esnabin elaygon bitor bik’in.
+Gloss: cry-IPFV.CVB DEM2.IISG-TOP leave-PFV.CVB Tsirdukh-and DEM1.ISG.OBL-GEN1 brother-PL-and there-IN.ABL-CNTR thither I.PL-go-PST.UNW
+Translation: Tsirdukh and his brothers left her crying and went away from there.
+Sentence: Meži łˤonon esnabin yoł, mežułäy sider gurow di yuyn yäqinč’i.
+Gloss: you.PL three-TOP brother-PL-TOP be you(I).PL.OBL-CONT.ABL one.OBL-LAT except me and(?) II-get-NEG.FUT
+Translation: "You are three brothers and I won't get to any of you except for one.
+
+Approximate Matches:
+Sentence: Hemedur oxin yeda ik’iƛ’oräy, yisił dandir q’ˤanon esnabi c’oxxo - sis c’odoraw, sideni - ʕantaw.
+Gloss: so run.away-PFV.CVB DEM2.ISG go-SIM.CVB DEM2.ISG.OBL-CONT.ESS towards two-TOP brother-PL meet-PRS - one clever the.other.one - stupid
+Translation: While he was running, he met two brothers - one was clever, the other one stupid.
+Sentence: Neła quł sasaqosigon esnabi madaħor boqnosi, eɣeni esiw qˤabani guluƛ’no zown, q’ˤuya šeƛ’un šeƛ’un, yaraɣno lagiqor kurno ik’in.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-CNTR brother-PL outside I.PL-become-ANT.CVB young-DEF brother black-DEF horse-SUPER.ESS-TOP ride-PFV.CVB other put.on-PFV.CVB put.on-PFV.CVB weapon-TOP body-POSS.LAT throw-PFV.CVB go-PST.UNW
+Translation: The next morning when the brothers went outside, the young brother rode the black horse, put on different clothes, threw a weapon around his body and rode off.
+Sentence: Xanłi koyär riqinosi, Kusa žedu łˤonon esnabi nesä neside ust’arbiłun xecin, žedus eɣeni esiw hič’č’a adäsi nesis ʕaq’lus žek’ułun odin.
+Gloss: khanship hand-IN.LAT IV-get-ANT.CVB Kusa-ERG DEM1.IPL three-TOP brother-PL DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.ESS master-PL-LHUN leave-PFV.CVB DEM1.IPL.OBL-GEN1 young-DEF brother the.most in.front-RES.PRT DEM1.ISG.OBL-GEN1 advice-GEN1 man-LHUN do-PST.UNW
+Translation: When Kusa had the kingship in his hands, he named the three brothers masters for himself and named the youngest brother his foremost advisor.

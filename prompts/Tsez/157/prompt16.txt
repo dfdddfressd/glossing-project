@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xec.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xec
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xec:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Užä žeduqor eƛin, ža bikori sida ħala xec meža, neła mežur royxosi žukłi šebiƛin.
+Gloss: boy-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW DEM1.SG snake one.OBL condition-IN.ESS leave you(I).PL.OBL-ERG DEM1.IISG.OBL-ERG you(I).PL.OBL-LAT IV-do-PRS.PRT evil what-QUOT
+Translation: The boy said to them: "Let go of the snake, what's the evil thing it has done to you?!"
+Sentence: Oka eƛin, däde sadaq egirno xec yeda debi uži, xizyo ƛˤebaq ƛˤeb ħišiłnosi, hobołatow mečoƛ’or horo mi yisił xizayƛin.
+Gloss: Oku-ERG say-PST.UNW me-APUD.ESS together send-PFV.CVB leave DEM2.ISG you-GEN1 son afterwards year-POSS.ESS year be.over-ANT.CVB this-DUB-EMPH field-SUPER.LAT come.IMPR you DEM2.ISG.OBL-CONT.ESS behind-QUOT
+Translation: Oku said: "Send your son together with me, and when the year after next year is over, come to this very field and follow him."
+Sentence: Eženi esiya esin, č’ikays tungin bisno łäħorno yik’i, kikxar yik’iƛ’oräy yaħno bodo, elazay tungin bic’no nexƛ’oräy, esiwz žanazaxor yaynosi, tungi q’ˤidar bˤoƛ’a begirno xec.
+Gloss: old-DEF brother-ERG tell-PST.UNW glass-GEN1 copper.jug-TOP III-take-PFV.CVB water-AD.LAT-TOP II-go spring-AD.VERS II-go-SIM.CVB patience-TOP III-do-IMPR there-IN.ABL.DIST copper.jug-TOP III-fill-PFV.CVB come-SIM.CVB brother-GEN2 corpse-AD.LAT II-come-ANT.CVB copper.jug down-LAT III-fall-INF III-let-PFV.CVB leave
+Translation: The older brother told: "Take a glass jug and go to the water; when you go to the spring, be patient and when you fill the jug there, come to your brother's corpse, let the jug fall down and leave.
+
+Approximate Matches:

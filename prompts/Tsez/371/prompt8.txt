@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word howžatow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word howžatow: 
+
+Exact Matches
+Sentence: Nesiq bišʷa rodin łäyrun, mamalayƛ’no zown howžatow t’omceni žek’u oƛixno k’oƛin salamno teƛno, q’ˤida ičin łäyrun bišʷa esirno.
+Gloss: DEM1.ISG.OBL-POSS.ESS food IV-do-PFV.CVB end-IMM.ANT.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB DEM4.SG-EMPH span-EQU1-DEF man appear-PFV.CVB jump-PFV.CVB greeting-TOP give-PFV.CVB down sit-PFV.CVB end-IMM.ANT.CVB food ask-PST.UNW
+Translation: When he was just finished making the food, that very span-sized man appeared riding on the rooster, jumped off, greeted, and right when he sat down, he asked for food.
+Sentence: Žeduq bišʷa łäyrułer, mamalayƛ’no zown howžatow t’omceni žek’u ayn.
+Gloss: DEM1.IPL.OBL-POSS.ESS food end-PST.PRT-CONT.LAT rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB DEM4.SG-EMPH span-EQU1-DEF man come-PST.UNW
+Translation: When they finished the food, that very span-sized man came riding on the rooster again.
+Sentence: Neširun biša bik’inosi, esnazar howžatow žek’u esun q’ˤunan reƛ’izad q’ˤimno riqirno, bišadyoƛ’or aq’ˤułno ičäsi.
+Gloss: at.night-TOP I.PL-eat-INF I.PL-go-ANT.CVB brother-PL-LAT DEM4.SG-EMPH man find-PFV.CVB two.OBL-TOP hand-PL-INSTR head-TOP IV-stop-PFV.CVB food-SUPER.LAT sit-PFV.CVB be-RES.PRT
+Translation: When they came to eat dinner there, the brothers found that man there with his two hands supporting him and sitting over his food.
+
+Approximate Matches:
+Sentence: Raładyoz lilyox c’eruc’an resus, howža łoħron xizaz nexsiƛin, žawab teƛno žoyä babiwr.
+Gloss: sea-GEN2 river.bank-AD.ESS bow-TOP IV-find-PST.WIT DEM4.SG frog-TOP from.behind come-PST.WIT-QUOT answer give-PST.UNW son-ERG father-LAT
+Translation: "I found the bow at the sea shore, [and] that frog came behind me.", the son answered the father.
+Sentence: Xizyo nesi nukarä xanqor eƛin, howža bełiqus uži egirčey neła aɣił xizay, nesä biqär žaƛin.
+Gloss: afterwards DEM1.ISG.OBL henchman-ERG khan-POSS.LAT say-PST.UNW DEM4.SG hunter-GEN1 son send-INTS DEM1.IISG.OBL bird-CONT.ESS behind DEM1.ISG.OBL-ERG III-catch DEM1.SG-QUOT
+Translation: Then the henchman said to the king, "Send that hunter's son after the bird, he will catch it."
+Sentence: Xizyo Ħon-Bahadurä babiwq nesir yukayru moƛałäy esin, howža moƛał yukayru kidbeł xizay ik’a retinƛin.
+Gloss: afterwards Mountain~Hero-ERG father-POSS.ESS DEM1.ISG.OBL-LAT II-see-PST.PRT dream-CONT.ABL tell-PST.UNW DEM4.SG dream-CONT.ESS II-see-PST.PRT girl-CONT.ESS behind go-INF IV-want-PST.UNW-QUOT
+Translation: Then Mountain~Hero told his father about the dream he had seen: "I want to go after the girl that I had seen in that dream."

@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: beč’erƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": beč’erƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word beč’erƛin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nesirno aħozizar bayru biłetow sayɣatno boyn, bazarganbi howt’aza boƛixnäy, beč’er žeduƛin harizin rodin, roc’no adäz łenon ħumukulibin ʕaƛaɣor esʷałno yedan ik’in.
+Gloss: DEM1.ISG.OBL-LAT-TOP shepherd-PL-LAT I.PL-come-PST.PRT I.PL-as-EMPH present-TOP III-do-PFV.CVB merchant-PL there-IN.VERS.DIST I.PL-appear-CND.CVB I.PL-stop DEM1.IPL-QUOT request-TOP IV-do-PFV.CVB IV-urge-PFV.CVB ahead five-TOP camel-PL-TOP village-IN.VERS hurry.up-PFV.CVB DEM2.ISG-TOP go-PST.UNW
+Translation: And he also gave to him the same present as to the shepherds who had come, and begged him: "When merchants appear over there, stop them!"; then he urged the five camels forward and hastily went into the village.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rok’nosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rok’nosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rok’nosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Aždaħa qˤaƛu rok’nosi kičuriču rayzaƛ’ riłe raƛ’no k’ek’-rik’no, yizin bižin taqˤo č’aq’ˤirno.
+Gloss: dragon-ERG shout IV-hit-ANT.CVB earthquake IV-do-CSL.CVB IV-as earth-TOP IV-move-PFV.CVB DEM2.IPL-TOP III-carry-PFV.CVB far.away let.fall-PST.UNW
+Translation: The dragon released a shout, and moved the earth like by an earthquake, and thus caused them to fall far away.
+Sentence: Bayru q’ut’oxor, Ħasanä rełimay bˤałayn roɣno aždaħzo rok’nosi, boƛƛi begirno.
+Gloss: III-do-PST.PRT agreement-AD.LAT Hassan-ERG sheath-IN.ABL dagger-TOP IV-take.away-PFV.CVB dragon-GEN2 IV-hit-ANT.CVB III-middle III-break.apart-CAUS-PST.UNW
+Translation: According to the agreement they did, Hassan took his dagger out of the sheath and stabbed it into the dragon and broke him apart in the middle.
+Sentence: Xizaɣorgon tełtow žan xecin acmołnonan ok’bi rok’nosi, Qartayä eƛin, ha, howži, yił badiru ħalt’os deber keze roqxosi šebin neƛanix maħor yegir diƛin.
+Gloss: finally-CNTR inside-EMPH DEM1.SG-TOP leave-PST.UNW door-TOP-INT nail-PL III.PL-beat-ANT.CVB Qartay-ERG say-PST.UNW well now DEM2.IISG.OBL III-do-PST.PRT work-GEN1 you-LAT meet IV-become-PRS.PRT thing give-MSD-AD.ESS outside II-let me-QUOT
+Translation: Finally, he left her inside, and after he had beated nails into the door, Qartay said: "Well now, let me out to give you something for the work that you have done!"
+
+Approximate Matches:
+Sentence: Elayn izin imyoq ħobo bok’nosi, nazay eƛa biynč’ey t’as bˤoƛ’un bayn.
+Gloss: here-IN.ABL-and get.up-PFV.CVB pole-POSS.ESS leg III-beat-ANT.CVB from.where say-INF III-know-NEG.PST.CVB washbowl III-fall-PFV.CVB III-come-PST.UNW
+Translation: So he got up from there and kicked the pole, and out of who-knows-where a bowl fell down.
+Sentence: Guluƛ’no zown sosigon Musa čuret’ bok’nosi, reč’yałer yizirabi xanzo ɣˤutkox igor bayn.
+Gloss: horse-SUPER.ESS-TOP be.NPRS-PFV.CVB at.first-CNTR Musa-ERG whip III-beat-ANT.CVB quickness-CONT.LAT DEM2.PL khan-ATTR.OBL house-AD.ESS near-LAT I.PL-come-PST.UNW
+Translation: When he was on the horse, Musa first beated the whip, and in an instant they came to the king's house.
+Sentence: Kidbezno, baruzno, nesizno bok’nosigon, žedułäy ħalaq’awt’a ʕomoybi roqno.
+Gloss: daughter-GEN2-TOP wife-GEN2-and DEM1.ISG.OBL-GEN2-and III-beat-ANT.CVB-CNTR DEM1.IPL-CONT.ABL thin-DISTR donkey-PL III.PL-become-PST.UNW
+Translation: And after cracking also [for?] his daughter, his wife and himself, they became thin donkeys.

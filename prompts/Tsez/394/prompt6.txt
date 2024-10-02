@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word t’et’erƛ’oräy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word t’et’erƛ’oräy: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xanä žedu t’umbi łˤora ɣudi quqan xecin rišerƛ’oräy, aqugani bišno łiyace gulučini t’umi šet’u butix bičin.
+Gloss: khan-ERG DEM1.IPL pigeon-PL three.OBL day hungry-TOP leave-PFV.CVB III.PL-eat-CAUS-SIM.CVB female-ATTR-DEF III-eat-PFV.CVB end-TERM male-DEF pigeon around III-turn-IPFV.CVB III-be-PST.UNW
+Translation: The king left those pigeons hungry for three days, and when he fed them, the male one turned around until the female one had finished eating.

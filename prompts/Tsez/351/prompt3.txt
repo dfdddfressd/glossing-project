@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roqxosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roqxosi: 
+
+Exact Matches
+Sentence: Elo azbaryoł adäza mesedyos č’iħo roqxosi baɣ yołƛax.
+Gloss: there palace-CONT.ESS before gold-GEN1 fruit IV-become-PRS.PRT garden be-QUOT
+Translation: There, in front of the palace, was a garden where golden fruits were growing.
+Sentence: T’eker šebi eƛakin riyn anu nełaz šilazaƛ’ roqxosi šebin.
+Gloss: he.goat-LAT what say-INF-even IV-know-PST.UNW be.NEG DEM1.IISG.OBL-GEN2 horn-PL-SUPER.ESS IV-happen-PRS.PRT thing
+Translation: The goat didn't even notice what happened on its horns.
+Sentence: Łˤora äƛiru ʕomoyä žawab teƛno, di qˤaƛanayru mixƛ’o, deber roqxosi šebin rukay hoboyƛin.
+Gloss: three.OBL say-PST.PRT donkey-ERG answer give-PST.UNW me yell-PST.PRT late.at.night you-LAT IV-happen-PRS.PRT thing IV-see now-QUOT
+Translation: The third donkey answered: "When I cry late at night, you'll see what happens then!"
+
+Approximate Matches:
+Sentence: Q’ˤogce bix eqersiyołi, q’ˤida äčiza kokoru qˤiƛci roqxosiƛin.
+Gloss: hay.bale-EQU1 hay put-PST.WIT-COND.IRR down sit-LCV soft pillow IV-become-PRS.PRT-QUOT
+Translation: If one had put a bale of hay to where one sits, it would become a soft pillow.

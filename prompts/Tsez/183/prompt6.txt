@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Qartay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Qartay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Qartay:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elo q’ebedes užin xecin xizyo qartay ħadur yoqno yik’anix.
+Gloss: there smith-GEN1 son-TOP leave-PFV.CVB afterwards witch prepare II-become-PFV.CVB II-go-MSD-AD.ESS
+Translation: And the witch prepared to go away, leaving the smith's son there.
+Sentence: Elo räsuru ɣˤutkaɣor ik’inosi, teł qartay yołƛax, q’ˤunader čˤaƛin kočorin q’ˤidan yičin yičäsi.
+Gloss: there IV-exist-PST.PRT house-IN.VERS go-ANT.CVB inside witch be-QUOT two.OBL-APUD.LAT pour.out-PFV.CVB forelock-TOP down-PFV.CVB II-sit-PFV.CVB II-be-RES.PRT
+Translation: When he went into a house that stood there, inside there was supposed to be a witch, that was sitting down with hear hear spread.
+
+Approximate Matches:
+Sentence: Däq hemedur eƛin rok’łinč’us yołiƛin, eƛin qartayä, di mi aħirno, ešayn ac’a zowsƛin.
+Gloss: me-POSS.ESS so say-PST.UNW heart-NMLZ-NEG.PST.WIT-ATTR if-QUOT say-PST.UNW witch-ERG me you cook-CAUS-PFV.CVB bake-PFV.CVB eat-INF be.NPRS-PST.WIT-QUOT
+Translation: "If I hadn't said so," the with said, "I would've cooked, baked and eaten you!"

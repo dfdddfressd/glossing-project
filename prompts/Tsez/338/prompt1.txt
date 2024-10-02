@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Žan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Žan: 
+
+Exact Matches
+Sentence: Xizor utin Pat’imatno yižin nesä nesiz ʕaƛaɣorno ik’in, mi däƛ’ay ʕaq’ilawn, c’odorawn zownƛin xanłin nełaqor teƛno žan paraxat ičin.
+Gloss: back turn.back-PFV.CVB Fatima-TOP II-lead-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 village-IN.VERS-TOP go-PST.UNW you me-SUPER.ABL intelligent-and clever-and be.NPRS-PST.UNW-QUOT khanate-TOP DEM1.IISG.OBL-POSS.LAT give-PST.UNW DEM1.SG-TOP calmly live-PST.UNW
+Translation: He returned with Fatima into his own village: "You are more intelligent and cleverer than me!", gave her the kingdom and lived calmly ever after.
+Sentence: T’omceni žek’us bełiqaner nasin ric’q’in ƛexun, barułungon nesis kidno yown, maʕišat bodix howlotow žan ičin.
+Gloss: span-EQU1-DEF man-GEN1 hunter-LAT all wealth-TOP remain-PFV.CVB wifehood-TOP-CNTR DEM1.ISG.OBL-GEN1 daughter-TOP II-marry-PFV.CVB fortune III-do-IPFV.CVB there-EMPH DEM1.SG-TOP live-PST.UNW
+Translation: All the span-sized man's wealth remained for the hunter, he married his daughter, and lived there making a great fortune.
+Sentence: Roqnäy däł xizay rexadanix sadaq’ałer ħonƛ’äy bˤeƛ’ rowan ik’an, elazay aynosi, debeq žan esanƛin.
+Gloss: IV-happen-CND.CVB me-CONT.ESS behind III.PL-slaughter-MSD-AD.ESS alms-CONT.LAT mountain-SUPER.ABL sheep III.PL-bring-FUT.CVB go-FUT.DEF here-IN.ABL.DIST come-ANT.CVB you-POSS.ESS DEM1.SG-TOP tell-FUT.DEF-QUOT
+Translation: "In that case, I will go and bring the sheep from the mountain for slaughtering them for alms behind me(?), and when I come back here, I will tell it to you."
+
+Approximate Matches:

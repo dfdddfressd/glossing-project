@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mesedyosni.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mesedyosni
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mesedyosni:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elogon xanä wazirbin butirno, sosigon łu yedu dey mesedyosni t’akan yayräƛin esirnosi, oƛixno hemesitow wazirä eƛin, di yayrinč’a žaƛin.
+Gloss: there-CNTR khan-ERG vizier-PL-TOP I.PL-gather-PFV.CVB again-CNTR who.ERG DEM2.IISG me-GEN1 gold-GEN1-DEF glass II-bring-PST.WIT.INT-QUOT ask-ANT.CVB appear-PFV.CVB DEM4.ISG.OBL-EMPH vizier-ERG say-PFV.CVB me II-bring-NEG.PST.WIT-Q DEM1.SG-QUOT
+Translation: There, the king gathered his viziers, and when he asked: "Who again brought this golden glass of mine?", that vizier appeared and said: "Haven't I brought it?"
+
+Approximate Matches:
+Sentence: Neła t’umiqay bˤaƛ’uru ħuli babiwz k’ukyoł boqun, miƛ’iłäy räšruni mesedyosnigon his ħamarno čˤaƛin esirno, baba, req’ezi roqxaƛin.
+Gloss: DEM1.IISG.OBL pigeon-POSS.ABL III-fall-PST.PRT feather father-GEN2 cap-CONT.ESS III-stick-PFV.CVB ram-CONT.ABL IV-fall-PST.PRT-DEF gold-GEN1-DEF-CNTR spring.wool chest-IN.LAT-TOP throw-PFV.CVB ask-PFV.CVB daddy approach IV-become-PRS-Q-QUOT
+Translation: She put the feather that fell from that pigeon onto her father's hat, and threw the golden whool that fell from the ram onto the chest and asked: "Daddy, does it fit?"

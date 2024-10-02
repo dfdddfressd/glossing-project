@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ʕumru.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ʕumru
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ʕumru:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žeda sadaqay ʕumru boyx zown.
+Gloss: DEM1.IIPL-ERG together-IN.ABL life III-do-IPFV.CVB be.NPRS-PST.UNW
+Translation: They where living together.
+Sentence: Nełƛ’ay soder yizä sadaq paraxat ʕumru bižin.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after DEM2.IPL.OBL-ERG together calmly life III-lead-PST.UNW
+Translation: After that, they led a peaceful life together.
+Sentence: Q’ˤunan esnaza rigut’a rodin ɣutkabin paraxat ʕumru bodix bičin.
+Gloss: two.OBL-TOP brother-PL-ERG IV-pretty-DISTR IV-do-PFV.CVB house-PL-TOP calmly life III-do-IPFV.CVB III-be-PST.UNW
+Translation: And the two brothers built pretty houses and lead a calm life.
+
+Approximate Matches:
+Sentence: Habihan ziru ƛ’iräy boɣa ik’in, t’ok’ow debeł teł di nediw šebin ʕumruł rodač’inƛin.
+Gloss: miller fox from.above III-take.away-INF go-PFV.CVB anymore you-CONT.ESS inside me such thing life-CONT.ESS IV-do-NEG.FUT.DEF-QUOT
+Translation: The miller went to apologize to the fox: "I won't do such a thing to you in my life anymore."
+Sentence: Gugyoq ričin łi ħaƛa koƛ’ixanuzogon žek’a eƛin, di ʕumruł sid žek’ur ħaƛa łi teƛinč’uƛin.
+Gloss: back-POSS.ESS IV-be-PFV.CVB water drink-INF understand.to-NEG.PRSPRT.OBL-CNTR man-ERG say-PST.UNW me life-CONT.ESS one.OBL man-LAT drink-INF water give-NEG.PST.WIT-QUOT
+Translation: The man who couldn't drink the water on his back said: "I didn't give water to anyone for drinking, in my life."

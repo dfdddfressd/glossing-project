@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: halmaɣbi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": halmaɣbi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word halmaɣbi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Kinaw žedu bałgołibin esin halmaɣbi maħor roqno.
+Gloss: entire DEM1.IIPL secret-PL-TOP tell-PFV.CVB friend-PL outside III.PL-become-PST.UNW
+Translation: The friends had told all the secrets and went outside.
+Sentence: Esin šebi xecin šebi, zownƛax sis q’ˤanon halmaɣbi.
+Gloss: tell-PFV.CVB what leave-PFV.CVB what be.NPRS-PFV.CVB-QUOT one two-TOP friend-PL
+Translation: Once upon a time there were two friends.
+Sentence: Elay cołizin roqno nasin halmaɣbi rizin zeyƛ’ c’oxno.
+Gloss: there-IN.ABL unite-TOP III.PL-become-PFV.CVB all friend-PL III.PL-get.up-PFV.CVB bear-SUPER.ESS pounce-PST.UNW
+Translation: Then all the friends united, got up and pounced on the bear.
+
+Approximate Matches:
+Sentence: Sadaq bik’iƛ’orey, sida sidqo xabaryabi esix Ražbadinno halmaɣbin cezyazno qazaqzazno ʕurqixor bayx.
+Gloss: together I.PL-go-SIM.CVB one.OBL-ERG one.OBL-POSS.ESS story-PL tell-IPFV.CVB Razhbadin-and friend-PL-and Tsez-GEN2-and Georgian-PL-GEN2-and border-AD.LAT I.PL-come-PRS
+Translation: While they were walking together, Razhbadin and his friends were talking with each other and came to the Tsez and Georgian border.
+Sentence: Kaɣatyoƛ’ rukaräsi zown Tawadä, däz žade sadaq Tiblisä t’et’erxo zawru halmaɣbin bayxosi yołƛin.
+Gloss: letter-SUPER.ESS IV-show-RES.PRT be.NPRS-PFV.CVB Tavadi-ERG me-GEN2 son-APUD.ESS together Tbilisi-IN.ESS learn-IPFV.CVB be.NPRS-PST.PRT friend-PL-TOP I.PL-come-PRS.PRT be-QUOT
+Translation: In the letter it was also pointed out that some friends who were studying together with the son in Tbilisi were coming.
+Sentence: Sida quł kidbeder halmaɣbin rayno, yizä yizade sadaq yedu ełuyax yižin.
+Gloss: one.OBL day-CONT.ESS daughter-APUD.LAT friend-PL-TOP II.PL-come-PFV.CVB DEM2.IIPL.OBL-ERG DEM2.IIPL.OBL-APUD.ESS together DEM2.IISG bilberry-AD.ESS II-lead-PST.UNW
+Translation: One day, some (female) friends came to the daughter, and took her with them to the bilberries.

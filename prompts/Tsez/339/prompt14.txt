@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ƛˤeba in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ƛˤeba: 
+
+Exact Matches
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: Neła ƛˤeba q’ˤuyazis raq’ˤu bˤeƛ’ rexun, netin yegirxanuzoce zigolun, isin yegirno.
+Gloss: DEM1.IISG.OBL year-IN.ESS other-ATTR.OBL-GEN1 III.PL-many sheep III.PL-die-PFV.CVB always II-send-NEG.PRS.PRT.OBL-TERM hail-and snow-and II-send-PST.UNW
+Translation: In this year, many sheep of other people died, as it hailed and snowed as if it had never snowed before.
+
+Approximate Matches:
+Sentence: Oka eƛin, däde sadaq egirno xec yeda debi uži, xizyo ƛˤebaq ƛˤeb ħišiłnosi, hobołatow mečoƛ’or horo mi yisił xizayƛin.
+Gloss: Oku-ERG say-PST.UNW me-APUD.ESS together send-PFV.CVB leave DEM2.ISG you-GEN1 son afterwards year-POSS.ESS year be.over-ANT.CVB this-DUB-EMPH field-SUPER.LAT come.IMPR you DEM2.ISG.OBL-CONT.ESS behind-QUOT
+Translation: Oku said: "Send your son together with me, and when the year after next year is over, come to this very field and follow him."
+Sentence: Neła elur łi neƛxosi, ƛˤebaxay sosit’a ela nełar yac’anix kid teƛnäy.
+Gloss: DEM1.IISG.OBL-ERG we(I).OBL-LAT water give-PRS.PRT yearly once we(I).OBL-ERG DEM1.IISG.OBL-LAT II-eat-MSD-AD.ESS girl give-CND.CVB
+Translation: "He gives us water, if once a year we give him a girl to eat.
+Sentence: ƛˤebaƛ’aza žedur uži odin.
+Gloss: year-SUPER.VERS.DIST DEM1.IPL.OBL-LAT son do-PST.UNW
+Translation: After a year, they got a son.

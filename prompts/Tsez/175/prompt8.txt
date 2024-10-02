@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eč’erno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eč’erno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eč’erno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Halmaɣza eč’erno yeda, debez eniwr nełas hut’-mˤalin, kočorin rätinč’iƛin.
+Gloss: friend-PL-ERG stop-PFV.CVB DEM2.ISG you-GEN2 mother-LAT DEM1.IISG.OBL-GEN1 front.part.of.the.face-and forelock-and III.PL-like-NEG.FUT-QUOT
+Translation: The friends stopped him[, saying]: "Your mother won't like her face and hair!"
+Sentence: Užä ʕon rok’no bikorin bexurno boɣno kurno ik’anƛin aqru yeda, xexoyza eč’erno žedas eniw yayace t’o ičiƛin.
+Gloss: boy-ERG ax-TOP IV-hit-PFV.CVB snake-TOP III-kill-PFV.CVB III-take.away-PFV.CVB throw-PFV.CVB go-FUT.CVB-QUOT become-PST.PRT DEM2.ISG young.animal-PL-ERG stop-PFV.CVB DEM1.IIPL.OBL-GEN1 mother II-come-TERM there wait-QUOT
+Translation: The boy struck his ax, killed the snake, took it and threw it away and thought of going, but the chicks stopped him until their mother would come.
+
+Approximate Matches:
+Sentence: Neła rac’ru bišʷan rac’erno yičiräsi zown kid.
+Gloss: DEM1.IISG.OBL-ERG IV-eat-PST.PRT food-TOP IV-eat-CAUS-PFV.CVB II-restrain-RES.PRT be.NPRS-PFV.CVB girl
+Translation: He fed the girl with the food that he ate and kept her.
+Sentence: Nesirno aħozizar bayru biłetow sayɣatno boyn, bazarganbi howt’aza boƛixnäy, beč’er žeduƛin harizin rodin, roc’no adäz łenon ħumukulibin ʕaƛaɣor esʷałno yedan ik’in.
+Gloss: DEM1.ISG.OBL-LAT-TOP shepherd-PL-LAT I.PL-come-PST.PRT I.PL-as-EMPH present-TOP III-do-PFV.CVB merchant-PL there-IN.VERS.DIST I.PL-appear-CND.CVB I.PL-stop DEM1.IPL-QUOT request-TOP IV-do-PFV.CVB IV-urge-PFV.CVB ahead five-TOP camel-PL-TOP village-IN.VERS hurry.up-PFV.CVB DEM2.ISG-TOP go-PST.UNW
+Translation: And he also gave to him the same present as to the shepherds who had come, and begged him: "When merchants appear over there, stop them!"; then he urged the five camels forward and hastily went into the village.
+Sentence: Kaɣat t’et’ernosi, Ražbadin ħayran oqno ƛexun yedu šebi daq roqäƛin.
+Gloss: letter read-ANT.CVB Razhbadin be.astonished become-PFV.CVB remain-PFV.CVB DEM2.IISG what me-POSS.ESS IV-happen-PST.WIT.INT-QUOT
+Translation: After he had read the letter, Razhbadin wondered in surprise: "What happened to me?"

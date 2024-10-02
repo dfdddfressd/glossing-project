@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esiwr in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esiwr: 
+
+Exact Matches
+Sentence: Baq’ˤu mix bik’izaƛ’ortow, eɣeni esiwr teqxo xabar, yisiz eženi esiws cudi nukarza c’unzi bodix sida qunyox yołƛin.
+Gloss: III-much time III-go-POST.CVB-EMPH young-DEF brother-LAT hear-PRS story DEM2.ISG.OBL-GEN2 old-DEF brother-GEN1 corpse henchman-PL-ERG guard I.PL-do-IPFV.CVB one.OBL farmstead-AD.ESS be-QUOT
+Translation: Before much time has passed, the younger brother was hearing the story that his older brother's corpse was at a farmstead being guarded by henchman.
+Sentence: Ža šebin yisi eɣeni esiwr teqno.
+Gloss: DEM1.SG thing DEM2.ISG.OBL young-DEF brother-LAT hear-PST.UNW
+Translation: And the young brother heard of that.
+Sentence: Xizaɣor eɣeni esiwr riyn, esnabi bik’ixosi moči.
+Gloss: finally young-DEF brother-LAT IV-know-PST.UNW brother-PL I.PL-go-PRS.PRT place
+Translation: In the end the younger brother knew the place his brothers were going to.
+
+Approximate Matches:
+Sentence: Xexłiƛ’ idurno yik’in, yiłä yedu xabar babiwq esinosi, nesä nesidäɣor esiws uži goƛ’a yedu yegirno.
+Gloss: quickness-SUPER.ESS home-LAT-TOP II-go-PFV.CVB DEM2.IISG.OBL-ERG DEM2.IISG story father-POSS.ESS tell-ANT.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.VERS brother-GEN1 son invite-INF DEM2.IISG II-let-PST.UNW
+Translation: She went home quickly, and when she told this story to her father, he let her invite his brother's son to himself.
+Sentence: Risno yeženi esiwqor xanä rut’ugabi rišanix hisos ric’äsi urgu teƛno.
+Gloss: IV-take-PFV.CVB II-old-DEF sister-POSS.LAT khan-ERG carpet-PL IV.PL-weave-MSD-AD.ESS spring.wool-GEN1 IV-fill-RES.PRT sack give-PST.UNW
+Translation: The king gave the oldest sister a sack filled with wool for her to weave carpets.
+Sentence: Yeɣeni esiwde sadaq žan yuqˤno, gulun rečuƛ bicin, bežet’ani esnabi bayaniqor idu ezun ičäsi zown.
+Gloss: II-young-DEF sister-APUD.ESS together DEM1.SG-TOP II-hide-PFV.CVB horse-TOP cattleshed-SUB.ESS III-tie-PFV.CVB I.PL-old-DISTR-DEF brother-PL I.PL-come-MSD-POSS.LAT home look-PFV.CVB wait-RES.PRT be.NPRS-PST.UNW
+Translation: He hid her together with her younger sister, tied the horse to the shed, and waited at home for his older brothers to come.

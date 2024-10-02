@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bizin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bizin: 
+
+Exact Matches
+Sentence: Ac ħišäsi yesuzaƛ’, ƛ’ˤuƛ’orno bizin, gondun yoɣno, tełerno boqno, łenon užin igin kurno.
+Gloss: door lock-RES.PRT II-find-CSL.CVB roof-SUPER.LAT-TOP III-get.up-PFV.CVB big.hole-TOP II-take.away-PFV.CVB to.the.inside-TOP III-become-PFV.CVB five-TOP son-TOP swallow-PFV.CVB throw-PST.UNW
+Translation: Because it found the door locked, it got onto the roof, made a hole, got inside and gobbled the five sons up.
+Sentence: Neła quł sasaqtow moƛaxayn bizin, ixinno risno, q’ˤanon gagalazał xizay ħonƛ’aɣor boqno.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH sleep-AD.ABL-TOP I.PL-get.up-PFV.CVB bag-TOP IV-take-PFV.CVB two-TOP flower-PL-CONT.ESS behind mountain-SUPER.VERS I.PL-become-PST.UNW
+Translation: The next morning, the two of them got up from their sleep, took a back and went to the mountain for flowers.
+Sentence: Nełquł sasaq č’ˤurqotow bizin onoču qaciƛ’or bik’in.
+Gloss: on.that.day tomorrow in.the.morning-EMPH III-get.up-PFV.CVB hen firewood-SUPER.LAT III-go-PST.UNW
+Translation: The next day, in the early morning, the hen got up and went after firewood.
+
+Approximate Matches:
+Sentence: Istowlizaƛ’ anunč’uru niʕmatyabin zownč’u, dicegon rac’łin axʷarno raynč’u, dicegon zeru ħaƛułin q’ˤimłerno bizinč’u.
+Gloss: table-PL-SUPER.ESS be.absent-NEG.PST.WIT-PST.PRT bliss-PL-TOP be.NPRS-NEG.PST.WIT how.much-CNTR IV-eat-CNC.CVB belly-IN.LAT-TOP IV-come-NEG.PST.WIT how.much-CNTR bouza drink-CNC.CVB head-CONT.LAT-TOP III-get.up-NEG.PST.WIT
+Translation: There were no blisses that were [not] absent from the tables, so that, no matter how much one ate, they didn't come into the belly, and how much booze one drank, it didn't get up into the head.
+Sentence: Yisi užä yedu kid idurno yižin, sasaqozox nasin moƛaxay bizinosi, eƛin, eni, mi hek’uyax eč’uri roda yik’inäy, yiła iduzasi radi, di ciqaɣor ik’anƛin.
+Gloss: DEM2.ISG.OBL boy-ERG DEM2.IISG girl home-LAT-TOP II-lead-PFV.CVB early.morning all sleep-AD.ABL III-get.up-ANT.CVB say-PFV.CVB mother you potatoe-AD.ESS weeding IV-do-INF II-go-CND.CVB DEM2.IISG.OBL-ERG home-PL-ATTR IV-do me forest-IN.VERS go-FUT.DEF-QUOT
+Translation: The boy took the girl home and in the early morning, when everyone got up from their sleeps, he said: "Mother, if you go to weed the potatoes, she will do the housework and I will go into the forest."
+Sentence: Neširu mežaɣor bizinosi, Ismaʕila q’ˤunełno roƛƛo bˤałayn erno eƛin nełqor, howłaq ged yitirłi debi meč’, dey bˤałayƛin.
+Gloss: evening mattress-IN.VERS I.PL-get-ANT.CVB Ismail-ERG two.OBL-CONT.ESS-TOP IV-middle dagger-TOP put-PFV.CVB say-PST.UNW DEM1.IISG.OBL-POSS.LAT DEM3.IISG.OBL-POSS.ESS shirt II-touch-CND.CVB.IRR you-GEN1 neck me-GEN1 dagger-QUOT
+Translation: In the evening, when they got onto the bed, Ismail put a dagger in the middle between the two and said to her: "If your shirt touches it, so will my dagger [touch] your neck."

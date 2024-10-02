@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word godek’anär in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word godek’anär: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Buqbetałer ʕaƛarno bik’in, dahaw iduzan bičin, godek’anyaɣor ʕoloqzałxor boqno.
+Gloss: sunset-CONT.LAT village-IN.LAT-TOP I.PL-go-PFV.CVB a.little home-DIST-TOP I.PL-be-PFV.CVB village.square-IN.VERS young.person-PL-CONT.VERS I.PL-become-PST.UNW
+Translation: At sunset they went into the village, spent some time at home, and went to the people at the godekan.
+Sentence: Elo yisä godek’anya q’ˤida bäčiru ʕoloqzaq łi esirnosi, sidä izin zok’är aqˤun kučin teƛƛ’oräy, nesä eƛin, eleley, yedu šebi šebin, insanä aqˤuyä łäz meča ħaƛuƛin, nediw šebin behizi raqinč’iƛin.
+Gloss: there DEM2.ISG.OBL-ERG village.square-IN.ESS down III-sit-PST.PRT young.person-PL-POSS.ESS water ask-ANT.CVB one.OBL-ERG get.up-PFV.CVB mug-IN.LAT urine-TOP defecate-TOP give-SIM.CVB DEM1.ISG.OBL-ERG say-PST.UNW behold DEM2.IISG what thing human-ERG urine-Q water-GEN2 instead.of drink-QUOT such thing permit IV-become-NEG.FUT-QUOT
+Translation: There he asked a young person who sat at the village square for water, and one got up, pissed into a mug and gave it to him and he said: "Behold, what is this? A human is not allowed such a thing as to drink urine instead of water!"

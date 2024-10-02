@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’orolaydäɣor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’orolaydäɣor: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Šebi deber roqnoƛin yisä esirnosi, yiła yisiq q’orolayä äsiru xabar esin.
+Gloss: what you-LAT IV-happen-PST.UNW-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB DEM2.IISG.OBL-ERG DEM2.ISG.OBL-POSS.ESS widow-ERG tell-PST.PRT story tell-PST.UNW
+Translation: When he asked: "What happened to you?", she told him what the widow had told her.
+Sentence: Neła quł sasaq, esiw bełiƛ’ ik’inosi, ža q’orolay žigon yayn k’oƛin idur.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning brother hunting-SUPER.ESS go-ANT.CVB DEM1.SG widow again.now II-come-PFV.CVB run-PST.UNW home-LAT
+Translation: The next morning when the brother had gone hunting, that widow ran back to their home once again.
+Sentence: Neła q’orolays zownƛax sis nełƛ’aygon siħiraw yacʕal.
+Gloss: DEM1.IISG.OBL widow-GEN1 be.NPRS-PST.UNW-QUOT one DEM1.IISG.OBL-SUPER.ABL-CNTR cunning female.cousin
+Translation: That widow, so it's said, had a (female) cousin who was more cunning than her.

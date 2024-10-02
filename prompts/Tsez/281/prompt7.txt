@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qoqoƛix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qoqoƛix: 
+
+Exact Matches
+Sentence: Ža yiqiranƛingon soder izin ƛ’irir aynosi, ža elo yesuxanu - hudu di qoqoƛix soder izixƛin.
+Gloss: DEM1.SG II-take.away-FUT.DEF-QUOT-CNTR upward get.up-PFV.CVB above-LAT come-ANT.CVB DEM1.SG there II-find-IPFV.CVB-NEG - so me laugh-IPFV.CVB after get.up-IPFV.CVB-QUOT
+Translation: I go upward to take her with me, but I can't find her -- so I am laughing, when I go up.
+Sentence: Ža soder iziƛ’oräy, qoqoƛix izix zown, wˤałer oqƛ’oräy ʕiyayx oqxo zown.
+Gloss: DEM1.SG after get.up-SIM.CVB laugh-IPFV.CVB get.up-IPFV.CVB be.NPRS-PFV.CVB downward-LAT become-SIM.CVB cry-IPFV.CVB become-IPFV.CVB be.NPRS-PST.UNW
+Translation: While he was going up, he laughed, and while he was going down, he cryed.
+Sentence: Šebitowey meža där rodanƛin pikrun ban, zey qoqoƛix bičäsi zewn.
+Gloss: what-EMPH-DUB you(II-ERG me-LAT IV-do-FUT.DEF-QUOT idea-TOP III-do-PFV.CVB bear laugh-IPFV.CVB III-wait-RES.PRT be.NPRS-PST.UNW
+Translation: "What are you going to do to me anyway?", thought the bear and waited laughing.
+
+Approximate Matches:
+Sentence: Nełƛ’ay soder, dicegon Alimaħama qoqoƛiłin, šida mi qoqoƛixƛin, bara esirno anu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after how.much-CNTR Alimagomed laugh-CNC.CVB why you laugh-PRS-QUOT wife-ERG ask-PST.UNW be.NEG
+Translation: After that, no matter how often Alimagomed laughed, his wife didn't ask "Why are you laughing?" ever again.
+Sentence: Baħarayä eƛin, di debeƛ’ qoqoƛixanu.
+Gloss: fiancée-ERG say-PST.UNW me you-SUPER.ESS laugh-IPFV.CVB-NEG
+Translation: The bride said: "I am not laughing about you."

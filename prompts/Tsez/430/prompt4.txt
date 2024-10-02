@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zawru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zawru: 
+
+Exact Matches
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.
+Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW
+Translation: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+
+Approximate Matches:
+Sentence: Neširugon žedu baħnayx zawrunitow hunäza q’ˤanon esnabi micxir bok’ek’anix bayn.
+Gloss: at.night-CNTR DEM1.IPL I.PL-walk.around-IPFV.CVB be.NPRS-PST.PRT-DEF-EMPH way-IN.VERS.DIST two-TOP brother-PL money III-steal-MSD-AD.ESS I.PL-come-PST.UNW
+Translation: At night, then, the two brothers came on the same way they had been walking on, to steal the money.
+Sentence: Esnabi zawruni ɣˤutkoz madaxor xanä wazir egirno, žeda elo teł badiru xabarno teqerno xizyo nesiq esanix.
+Gloss: brother-PL be.NPRS-PST.PRT-DEF room-GEN2 gate-AD.LAT khan-ERG vizier send-PFV.CVB DEM1.IPL.OBL-ERG there inside I.PL-do-PST.PRT story-TOP aloud after DEM1.ISG.OBL-POSS.ESS tell-MSD-AD.ESS
+Translation: The king sent a vizier to the door of the room where the brothers were, to overhear their conversation and to tell him about it afterwards.
+Sentence: Rukarƛin, yizi ʕuraw ƛ’iri butinosi, butnoƛ’ pun bok’no ičin zawruni žek’a eƛin, di bitaɣorno ik’in ayzaƛ’or, yedu k’uk biqirno bičinäy, mežuq di t’o yałru šebin rukaranƛin.
+Gloss: IV-show-QUOT DEM2.IPL much above I.PL-turn-ANT.CVB burka-SUPER.ESS side-TOP III-hit-PFV.CVB be-PFV.CVB be.NPRS-PST.PRT-DEF man-ERG say-PFV.CVB me distance-IN.VERS-TOP go-PFV.CVB come-POST.CVB DEM2.IISG cap III-take.away-PFV.CVB III-be-CND.CVB you(I).PL.OBL-POSS.ESS me here be-PST.PRT thing IV-show-FUT.DEF-QUOT
+Translation: "Show it!", [they said and] when they insisted heavily, the man lying on the burka said: "When you hold my cap while I will go away and come back, I will show you the thing that is here."

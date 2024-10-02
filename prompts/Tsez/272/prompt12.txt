@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ayanƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ayanƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xexbi roda netiey zaman bayanƛin, xanä ɣudbi t’et’erxo ičäsi zown.
+Gloss: children III.PL-do-INF when-DUB time III-come-FUT.DEF-QUOT khan-ERG day-PL count-IPFV.CVB wait-RES.PRT be.NPRS-PST.UNW
+Translation: The king waited and counted the days until the time when the children would be born.
+Sentence: Žeda yeda ader egirno eli xizaz bayanƛin.
+Gloss: DEM1.IPL.OBL-ERG DEM2.ISG forward send-PFV.CVB we behind I.PL-come-FUT.DEF-QUOT
+Translation: They sent him ahead, [saying]: "We'll come behind."

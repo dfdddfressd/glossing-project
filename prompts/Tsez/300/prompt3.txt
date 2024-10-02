@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕansan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕansan: 
+
+Exact Matches
+Sentence: Xizyogon žoyä ʕansan begirno xanes oz č’agun rodin, xande sadaq iduɣor begirno.
+Gloss: then boy-ERG walking.stick-TOP III-send-PFV.CVB khan-GEN1 army alive-TOP IV-do-PFV.CVB khan-APUD.ESS together home-IN.ALL III-send-PST.UNW
+Translation: Then the boy sent his walking stick, made the king's army alive again and sent them(?) home together with the king.
+
+Approximate Matches:
+Sentence: Neł mixƛ’o žoyä ʕansa begirno, xanes sadaq askar t’it’oƛin.
+Gloss: DEM1.IISG.OBL time-SUPER.ESS boy-ERG walking.stick III-send-PST.UNW khan-GEN1 all army destroy-IMPR-QUOT
+Translation: At this time, the boy sent his walking stick: "Destroy the king's entire army!"
+Sentence: Xanes ħillan čuqˤno, kidbä ʕansaqor, bišodyołäysi zahru bok’ek’ƛinno eƛin, xizyo bercingo bišno.
+Gloss: khan-GEN1 trickery-TOP notice-PFV.CVB daughter-ERG walking.stick-POSS.LAT food-CONT.ABL-ATTR poison III-steal-QUOT-TOP say-PFV.CVB after good I.PL-eat-PST.UNW
+Translation: Noticing the king's trickery, and the daughter told the walking stick to remove the poison in the food, whereafter they ate well.
+Sentence: Meɣu där neƛ, deber di ʕansa neƛanƛin daʕba boyn ičin ečruni žek’u.
+Gloss: udder me-LAT give you-LAT me walking.stick give-FUT.DEF-QUOT dispute III-do-PFV.CVB be-PFV.CVB old-DEF man
+Translation: "Give me the udder and I will give you the walking stick!", the old man argued.

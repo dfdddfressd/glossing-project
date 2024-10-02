@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word biqirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word biqirno: 
+
+Exact Matches
+Sentence: Neła mixƛ’o yisä k’oƛin nełas kodi biqirno.
+Gloss: DEM1.IISG.OBL-ERG time-SUPER.ESS DEM2.ISG.OBL-ERG run-PFV.CVB DEM1.IISG.OBL-GEN1 hair III-take.away-PST.UNW
+Translation: At that time, he ran and took her by her hair.
+Sentence: Neła äƛiruxor, nełas č’aɣˤirno, žubin boɣno, iyon zok’är biqirno.
+Gloss: DEM1.IISG.OBL-ERG say-PST.PRT-AD.LAT DEM1.IISG.OBL-GEN1 bowel-and liver-and III-take.away-PFV.CVB blood-TOP mug-IN.LAT III-take.away-PST.UNW
+Translation: As the dragon said, he took out his bowel and liver, and put the blood into the mug.
+Sentence: Tełer ayrun yisä sida reƛ’id nełas kočori biqirno, sidenigon reƛ’id hibon bisno žek’no yedu, neła mi dey uži yołƛin eƛace.
+Gloss: to.the.inside come-IMM.ANT.CVB DEM2.ISG.OBL-ERG one.OBL hand-INSTR DEM1.IISG.OBL-GEN1 forelock III-take.away-PFV.CVB the.other.one-CNTR hand-INSTR stick-TOP III-take-PFV.CVB beat-PST.UNW DEM2.IISG DEM1.IISG.OBL-ERG you me-GEN1 son be-QUOT say-TERM
+Translation: Immediately after going inside, he took her hair with one hand and took a stick with the other hand and hit her until she said: "You're my son!"
+
+Approximate Matches:
+Sentence: Yeda ukayrun, šebiƛa sis kid yoxin yik’iƛ’oräy, nełał xizay k’oƛin yisä nełas xot’oqosi riqirno.
+Gloss: DEM2.ISG see-IMM.ANT.CVB who-INDEF one girl II-run.away-PFV.CVB II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS from.behind run-PFV.CVB DEM2.ISG.OBL-ERG DEM1.IISG.OBL-GEN1 foot-POSS.ESS-ATTR IV-take.away-PST.UNW
+Translation: And right when he saw that there was some girl who was trying to run away, he ran behind her and took what she had on her feet.
+Sentence: Roƛƛ’o q’ˤanogon anƛ’ rik’inosi, hemedurtow riyrinč’ey rekan riqirno, dice reƛ ƛexunƛin xal bodinosi, sida quł rac’ace ƛexasi resun.
+Gloss: IV-half-SUPER.ESS two-CNTR week IV-go-ANT.CVB so-EMPH IV-explain-NEG.PST.CVB key-TOP IV-take.away-PFV.CVB how.much meat remain-PFV.CVB-QUOT examination III-do-ANT.CVB one.OBL day-CONT.ESS IV-eat-TERM remain-RES.PRT IV-find-PST.UNW
+Translation: After two weeks had passed, he took the key away without letting her know in the same way, and took a look how much meat would remain, and he found that it would remain to eat for one day.
+Sentence: Xizyo Kusa xanez kidbeden kecno, qˤašiƛ’aɣor kid moƛaq yiqirnosi, elayn izin ɣamasya tełerno oqno, tełäzgon žan ħišin, maq’anyabi rižixosi pelun yexurno.
+Gloss: afterwards Kusa-ERG khan-GEN2 daughter-APUD.ESS-TOP sleep-PFV.CVB dawn-SUPER.VERS girl sleep-POSS.ESS II-stop-ANT.CVB there-IN.ABL-TOP get.up-PFV.CVB box-IN.ESS into-TOP become-PFV.CVB inside-IN.ESS.DIST-CNTR DEM1.SG-TOP lock-PFV.CVB melody-PL III.PL-carry-IPFV.CVB-ATTR pipe-TOP II-kill-PST.UNW
+Translation: Afterwards, when Kusa had slept with the king's daughter, and the girl had stopped sleeping, he got up from there and went into the box, locked it from inside and destroyed the pipes which played the melodies.

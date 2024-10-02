@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: neƛxosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": neƛxosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word neƛxosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła sualyor žawab neƛxosi žek’u elo mužmareł oƛixnoanu.
+Gloss: DEM1.IISG.OBL question-LAT answer give-PRS.PRT man there Friday-CONT.ESS appear-PFV.CVB-NEG
+Translation: A man who could give the answer to that question didn't appear there on this Friday.
+Sentence: Hudu neła mežur łi neƛxosi anaƛin? - esirno yisä neła q’orolaq.
+Gloss: so DEM1.IISG.OBL-ERG you(I).PL.OBL-LAT water give-PRS.PRT be.NEG-Q-QUOT - ask-PST.UNW DEM2.ISG.OBL-ERG DEM1.IISG.OBL widow-POSS.ESS
+Translation: "So he's not giving you water?", he asked the widow.
+Sentence: Neła elur łi neƛxosi, ƛˤebaxay sosit’a ela nełar yac’anix kid teƛnäy.
+Gloss: DEM1.IISG.OBL-ERG we(I).OBL-LAT water give-PRS.PRT yearly once we(I).OBL-ERG DEM1.IISG.OBL-LAT II-eat-MSD-AD.ESS girl give-CND.CVB
+Translation: "He gives us water, if once a year we give him a girl to eat.
+
+Approximate Matches:
+Sentence: Dandir c’axru bazarganza esirno, ža tupi teƛxosi ana miƛin.
+Gloss: towards meet-PST.PRT merchant-PL-ERG ask-PST.UNW DEM1.SG rifle sell-PRS.PRT be.NEG-Q you-QUOT
+Translation: Some merchants whom he met asked him: "Aren't you selling this rifle?"
+Sentence: Dey xediw nexxoƛin yiła yeda nuci teƛxosi bazargan nesi žade puräza ɣamasya teł uqˤno.
+Gloss: me-GEN1 husband come-PRS-QUOT DEM2.IISG.OBL-ERG DEM2.ISG honey sell-PRS.PRT merchant DEM1.ISG.OBL boy-APUD.ESS side-IN.VERS.DIST box-IN.ESS inside hide-PST.UNW
+Translation: "My husband is coming!", she [said and] hid that honey-selling merchant in the box next to the boy.
+Sentence: Yisił dandir nuci teƛxosi bazargan c’oxno.
+Gloss: DEM2.ISG.OBL-CONT.ESS towards honey sell-PRS.PRT merchant meet-PST.UNW
+Translation: He met a merchant who was selling honey.

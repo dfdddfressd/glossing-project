@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nełƛ’ar in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nełƛ’ar: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Kʷaxatow žax bertenno bodin eniwn, užin, barun nełƛ’ay soder łinasnotow q’ʷariłi anusi bičix zown.
+Gloss: soon-EMPH boy-AD.ESS marriage-TOP III-do-PFV.CVB mother-TOP boy-and wife-and DEM1.IISG.OBL-SUPER.ABL after what.OBL-GEN1-TOP-EMPH sadness be.absent-ATTR I.PL-live-IPFV.CVB be.NPRS-PST.UNW
+Translation: Soon the mother arranged a marriage for the boy and the boy and his wife henceforward were living without any sadness whatsoever.
+Sentence: Xizyogon bara yizin xediwq ałni bic’no, nełƛ’ay žuka elur rukaynoƛ, eli saɣłiƛ’ boqnäy, dunyales ɣez bihayaw šebin yołƛin.
+Gloss: then wife-ERG II-get.up-PFV.CVB husband-POSS.ESS hug III-hug-PST.UNW DEM1.IISG.OBL-SUPER.ABL bad we(I).OBL-LAT IV-see-PROHIB-OPT we health-SUPER.ESS III-become-CND.CVB world-GEN1 dirt easy thing be-QUOT
+Translation: Then the wife got up and hugged her husband again: "May we not see something worse than this; as long as we are in health, it's an easy thing to find the world's "
+Sentence: Ža balah žeduƛ’ ƛ’iräy bok’ek’zaƛ’ ahli ʕuraw ɣˤaɣˤun bizin, nełƛ’ay soder žeda Zeyes Aħya narnokin egirinč’ey, nesis adabno, ħurmatno bodin ičira yołƛin ƛ’iri risno.
+Gloss: DEM1.SG misfortune DEM1.IPL.OBL-SUPER.ESS from.above III-remove-CSL.CVB people very be.happy-TOP III-get.up-PFV.CVB DEM1.IISG.OBL-SUPER.ABL after DEM1.IPL-ERG bear-GEN1 ear where-TOP-even let-NEG.PST.CVB DEM1.ISG.OBL-GEN1 esteem-and respect-and III-do-PFV.CVB restrain-INF be-QUOT above IV-take-PST.UNW
+Translation: The people were very glad that he had taken the misfortune from them, and after that, they didn't want to let Bear Ear go anywhere, gave him respect and esteem and insisted in keeping him.

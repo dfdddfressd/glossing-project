@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: esiwr.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": esiwr
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word esiwr:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Baq’ˤu mix bik’izaƛ’ortow, eɣeni esiwr teqxo xabar, yisiz eženi esiws cudi nukarza c’unzi bodix sida qunyox yołƛin.
+Gloss: III-much time III-go-POST.CVB-EMPH young-DEF brother-LAT hear-PRS story DEM2.ISG.OBL-GEN2 old-DEF brother-GEN1 corpse henchman-PL-ERG guard I.PL-do-IPFV.CVB one.OBL farmstead-AD.ESS be-QUOT
+Translation: Before much time has passed, the younger brother was hearing the story that his older brother's corpse was at a farmstead being guarded by henchman.
+Sentence: Ža šebin yisi eɣeni esiwr teqno.
+Gloss: DEM1.SG thing DEM2.ISG.OBL young-DEF brother-LAT hear-PST.UNW
+Translation: And the young brother heard of that.
+Sentence: Xizaɣor eɣeni esiwr riyn, esnabi bik’ixosi moči.
+Gloss: finally young-DEF brother-LAT IV-know-PST.UNW brother-PL I.PL-go-PRS.PRT place
+Translation: In the end the younger brother knew the place his brothers were going to.
+
+Approximate Matches:
+Sentence: Eleley, esiwƛin, eƛin yiła, din kumakyor anusi yedu nece reže ɣˤutku didur debeq rodiłä, dikin šida moƛaxay č’arik’inč’uƛin.
+Gloss: behold brother-QUOT say-PST.UNW DEM2.IISG.OBL-ERG me-TOP help-LAT be.absent-ATTR DEM2.IISG so.much IV-big house how you-POSS.ESS IV-do-POT-PST.WIT.INT me-even why sleep-AD.ABL wake.up-NEG.PST.WIT-QUOT
+Translation: "Wow, brother!", said she, "Without my help you have built such a big house; why didn't you wake me up from my sleep?"
+Sentence: Hi hudu deber nedur resunäyƛin, rok’no mač’an exurno eženi esiwdetow puräza taxeƛno eqerno akäza baɣmaɣorno yezun yičin.
+Gloss: take.IMP so you-LAT so IV-exist-CND.CVB-QUOT IV-hit-PFV.CVB dagger-TOP kill-PFV.CVB old-DEF brother-APUD.ESS-EMPH side-IN.VERS.DIST ottoman-SUB.ESS-TOP put-PFV.CVB window-IN.VERS.DIST garden-IN.ALL-TOP II-look-PFV.CVB II-wait-PST.UNW
+Translation: "So take [this], if that's the case!", and she hit and killed him with the dagger, put him under the ottoman to the oldest brother's side and waited looking out of the window into the garden.
+Sentence: Q’ˤiday bet’un k’oƛin xediwn užin nełaq łeɣin, babiwn esiwn ʕuraw ɣˤaɣˤu bizin.
+Gloss: down-IN.ABL I.PL-jump-PFV.CVB jump-PFV.CVB husband-and son-and DEM1.IISG.OBL-POSS.ESS grasp-PFV.CVB father-and brother-and very be.happy I.PL-get-PST.UNW
+Translation: The husband and the son jumped up and grasped her, the father and the brother got very happy.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yizir in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yizir: 
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Elo yizir qazaqzas bˤeƛ’es reqenyabi resux.
+Gloss: there DEM2.IPL.OBL-LAT Georgian-PL-GEN1 sheep-GEN1 herd-PL III.PL-find-IPFV.CVB
+Translation: There they found herds of sheep from the Georgians.
+Sentence: Esanayn łiynosi, yizir xanez kidbes šeƛ’u resunanu.
+Gloss: swim-PFV.CVB end-ANT.CVB DEM2.IPL.OBL-LAT khan-GEN2 daughter-GEN1 clothing IV-find-PST.UNW-NEG
+Translation: After she finished swimming, they couldn't find the princess' clothes.
+
+Approximate Matches:
+Sentence: Bayn yizirabi ƛirbałix sid žek’ude idur.
+Gloss: I.PL-come-PFV.CVB DEM2.PL hospitality-AD.ESS one.OBL man-APUD.ESS home-LAT
+Translation: Then came home to a man as guests.
+Sentence: Harihun maʕišat bodix bäčiru yizirabi, sida quł xizor rutixanusi roƛnin c’oxno babiwn eniwn bexun iłnon esnabi best’alłiƛ’ ƛexun.
+Gloss: slowly fortune III-do-IPFV.CVB III-be-PST.PRT DEM2.IIPL one.OBL day-CONT.ESS back IV-turn.back-NEG.PRS.PRT disease-TOP hit-PFV.CVB father-and mother-and I.PL-die-PFV.CVB six-TOP brother-PL orphanhood-SUPER.ESS remain-PST.UNW
+Translation: They slowly made their fortune, and one day an irreversible disease hit them and the father and the mother died, so the six brothers remained orphans.
+Sentence: Sida ɣudin bik’in, q’ˤuna äƛiru ɣudƛ’o yizirabi łebelawzas sida šaharyar bayn.
+Gloss: one.OBL day-TOP I.PL-go-PFV.CVB two.OBL say-PST.PRT day-SUPER.ESS DEM2.PL Tlyarata-PL-GEN1 one.OBL city-IN.LAT I.PL-come-PST.UNW
+Translation: They went one day, and on the second day arrived at the city of the Tlyarata people.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: iqiran.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": iqiran
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word iqiran:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ħak’omƛerce šebin riqiraniƛäy, eynodanix močin k’edin oqäsi yołƛin, esin Alimaħama.
+Gloss: khinkali-SUB.LAT-EQU1 thing IV-win-MSD-SUB.ABL work-MSD-AD.ESS place-TOP search-PFV.CVB become-RES.PRT be-QUOT tell-PST.UNW Alimagomed-ERG
+Translation: "I have come to search a place to work in order to earn some food."
+Sentence: Sida quł užiz rok’ƛ’or rayn, netintow däde sadaq babiwn äčinč’i, din besurobi riqiranix ruhun oqa ayƛin.
+Gloss: one.OBL day-CONT.ESS son-GEN2 heart-SUPER.LAT IV-come-PFV.CVB always-EMPH me-APUD.ESS together father-TOP live-NEG.FUT me-TOP fish-PL III.PL-catch-MSD-AD.ESS learn become-INF must-QUOT
+Translation: One day the son thought: "My father won't always live with me, I need to learn how to catch fish."
+Sentence: Xizyo babiwn oqno ža biqiranixƛin.
+Gloss: afterwards father-TOP begin-PST.UNW DEM1.SG III-catch-MSD-AD.ESS-QUOT
+Translation: Then the father began [trying] to catch him.

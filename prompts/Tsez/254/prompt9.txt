@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esirzaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esirzaƛ: 
+
+Exact Matches
+Sentence: Elo teł yexasi esiw yesunosi, yedu šebin šebi t’o idu roqxoƛin baruzaq esirzaƛ’, elar riyxosi šebin anuƛin, inkar bisno ričin.
+Gloss: there inside II-die-RES.PRT sister II-find-ANT.CVB DEM2.IISG thing what here home IV-happen-PRS-QUOT wife-PL-POSS.ESS ask-CSL.CVB here-IN.LAT IV-know-PRS.PRT thing be.NEG-QUOT rejection III-take-PFV.CVB II.PL-be-PST.UNW
+Translation: When they found their dead sister inside, and asked their wives: "What happened here at home?", they rejected: "We don't know anything about this here."
+Sentence: Hunix dandir c’axru ahlimo esirzaƛ’, žedur teƛxo užä łäs bic’äsi q’ut’u łiyrno.
+Gloss: way-AD.ESS towards meet-PST.PRT people ask-CSL.CVB DEM1.IPL-LAT give-IPFV.CVB boy-ERG water-GEN1 III-fill-RES.PRT earthen.jug finish-PST.UNW
+Translation: Because on the way, people whom he met on the way, asked him, the boy was giving them [water] and the jug filled with water was finished.
+
+Approximate Matches:
+Sentence: Zownƛax zown anuƛax Mirzaƛin sis žek’u.
+Gloss: be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB be.NEG-QUOT Mirza-QUOT one man
+Translation: Once upon a time there was a man named Mirza.
+Sentence: Nesis ozuri roƛa rutirzaƛ’, ʕaƛaɣor žamaʕatyoƛ’or xabar begirno, däz ozäɣor räk’iru šebi eƛa räynč’iru šebin roɣʷa horoƛin.
+Gloss: DEM1.ISG.OBL-GEN1 eye IV-be.sick-INF IV-turn-CSL.CVB village-IN.VERS population-SUPER.LAT story III-send-PFV.CVB me-GEN2 eye-IN.VERS IV-go-PST.PRT what say-INF IV-know-NEG.FUT-PST.PRT thing IV-take.away-INF come.IMPR-QUOT
+Translation: Because his eye got hurt, he told it to the people in the village, "Something I don't know came into my eye; come and take it out!"
+Sentence: ʕAt’idä qaħłi begirzaƛ’or aħinyoƛ waħo gondu yič’inosi, tełäzay roč’iw łäs qˤuqˤu boƛixno.
+Gloss: Atid-ERG dawn III-let-POST.CVB rock-SUB.ESS below big.hole II-dig-ANT.CVB inside-IN.ABL.DIST IV-cold water-GEN1 stream III-appear-PST.UNW
+Translation: Atid digged a big hole under the rock before the dawn set in, and then a stream of cold water appeared from inside.

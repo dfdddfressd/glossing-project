@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word debex in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word debex: 
+
+Exact Matches
+Sentence: Retinäy debex mi yižo, retinäy q’ˤuyzix yegir.
+Gloss: IV-want-CND.CVB you-AD.ESS you II-lead-IMPR IV-want-CND.CVB other-ATTR.OBL-AD.ESS II-send
+Translation: If you want, marry her yourself, or if you want, send her to someone else.
+Sentence: Sida quł nesider ziru bayn, debex di xanes kid yowanƛin.
+Gloss: one.OBL day-CONT.ESS DEM1.ISG.OBL-APUD.LAT fox III-come-PST.UNW you-AD.ESS me khan-GEN1 daughter II-bring-FUT.DEF-QUOT
+Translation: One day a fox came to him [saying]: "I will marry the princess off to you!"
+Sentence: Esnaza eƛin, mi äxuzay iłe izin ayzaƛ’, debez ħurmatyoxay ela beže bertenno bodin sis kid debex yowa yoł.
+Gloss: brother-PL-ERG say-PFV.CVB you die-SIM.CVB as get.up-PFV.CVB come-CSL.CVB you-GEN2 respect-AD.ABL we(I).OBL-ERG III-big marriage-TOP III-do-PFV.CVB one girl you-AD.ESS II-marry-INF be
+Translation: The brothers said: "Because you came back like from the dead, we will organize a big marriage out of respect for you and marry of a girl to you.
+
+Approximate Matches:
+Sentence: Xizyo neła yisiqor mešok’lałäy bet’urno mus teƛno, debeƛ’ ɣudi rayza mečoƛ’ bik’ur mi yeduƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT moustache-CONT.ABL III-pull.out-PFV.CVB hair give-PFV.CVB you-SUPER.ESS day IV-come-LCV.CVB place-SUPER.ESS III-burn-CAUS you DEM2.IISG-QUOT
+Translation: Then it pulled out a hair from its whiskers and gave it to him, "When one day you are in trouble, burn it!"
+Sentence: Šebi deber roqno, mi c’aq’ pašmanłiƛ’wa yičäsiƛin, esiya esirnosi, yiła eƛin, maqˤiƛ’ay łi ric’a yik’iƛ’oräy, ʕoloqzas rok’uƛ’ yołƛax di yok’ek’anƛin.
+Gloss: what you-LAT IV-happen-PST.UNW you much sadness-SUPER.ESS-Q II-be-RES.PRT-QUOT brother-ERG ask-ANT.CVB DEM2.IISG.OBL-ERG say-PST.UNW far.away-SUPER.ABL water IV-fill-INF II-go-SIM.CVB young.person-PL-GEN1 heart-SUPER.ESS be-QUOT me II-steal-FUT.CVB-QUOT
+Translation: "What happened to you, to make you so sad?", the brother asked, and she said: "When I went from afar to get water, some young guys planned to kidnap me.
+Sentence: Xizyo ža ɣˤʷay kidbeƛ’orno butin, neła esirno, hemełƛ’o däz babiwz ƛ’irizoni ɣˤutka teł suratyoƛ’ yukayruni kid deber yiqa rätiyäƛin.
+Gloss: afterwards DEM1.SG dog girl-SUPER.LAT-TOP III-turn-PFV.CVB DEM1.IISG.OBL-ERG ask-PST.UNW DEM4.IISG.OBL-SUPER.ESS me-GEN2 father-GEN2 above-ATTR.OBL-DEF room-IN.ESS inside picture-SUPER.ESS II-see-PST.PRT-DEF girl you-LAT II-get-INF IV-want-PST.WIT.INT-QUOT
+Translation: Afterwards that dog turned into a girl again and asked: "Then, do you want to ge the girl you saw on the picture inside my father's upper room?"

@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word čˤʷaħƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word čˤʷaħƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nasin ʕoloqbi waħƛin bik’in, didur aħyałäy bˤulamzałer sis hil c’oxxoƛin.
+Gloss: all young.person-PL laughter-TOP I.PL-go-PFV.CVB how ear-CONT.ABL hoof-PL-CONT.LAT one bullet hit-PRS-QUOT
+Translation: And all the people went "Whoa! How could one bullet hit it from the ear to the hoofs?"

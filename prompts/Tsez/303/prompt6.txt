@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bašiqˤoyn in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bašiqˤoyn: 
+
+Exact Matches
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Neła quł sasaqtow ža ɣˤanabi bašiqˤoyn koyär risno rukarxo bazarya yäčizay, ayn sida užä nełas baha šebiƛin esirnosi, neła debeq yiłas baha bäzinč’iƛin eƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH DEM1.SG woman ring-TOP hand-IN.LAT IV-take-PFV.CVB IV-show-IPFV.CVB bazar-IN.ESS II-be-SIM.CVB come-PFV.CVB one.OBL boy-ERG DEM1.IISG.OBL-GEN1 price what-QUOT ask-ANT.CVB DEM1.IISG.OBL-ERG you-POSS.ESS DEM2.IISG.OBL-GEN1 price III-get-NEG.FUT-QUOT say-PST.UNW
+Translation: The next day in the morning, the woman was showing around the ring on her hand, and while being on the market, a boy came and asked: "What's its price?"; she said: "You won't afford its price."
+Sentence: Bažarizi raq, šida däq roqxanuƛin, yeženä bašiqˤoyn risno yizin xanzo madazaxaɣor yik’in.
+Gloss: able IV-become why me-POSS.ESS IV-become-PRS-NEG-QUOT II-old-DEF-ERG ring-TOP IV-take-PFV.CVB II-get.up-PFV.CVB khan-GEN2 yard-PL-AD.VERS II-go-PST.UNW
+Translation: "I can, why not?", the old woman took the ring, got up and went to the king's yards.
+
+Approximate Matches:
+Sentence: Užä eƛin, anƛ’imarsi där hunixor qˤašo ero, mesedyos bašiqˤoy yałruni kid k’eda di ik’ix.
+Gloss: boy-ERG say-PFV.CVB week-LAT-ATTR me-LAT way-AD.LAT get.up-IMPR put-IMPR gold-GEN1 ring be-PST.PRT-DEF girl search-INF me go-PRS
+Translation: The boy answered: "Pack provisions for me for a way of one week, I'm going to search the girl with the golden ring."
+Sentence: Yedu yukayrun, yeženä bašiqˤoy erali reƛ’a nełar rukadałxor soder rizirno.
+Gloss: DEM2.IISG II-see-IMM.ANT.CVB II-old-DEF-ERG ring put-ATTR hand DEM1.IISG.OBL-LAT IV-see-INF-CONT.VERS after IV-lift-PST.UNW
+Translation: After she saw her, the old woman lifted the hand with the ring put inside, so she could see it.
+Sentence: Ismaʕilä bašiqay roɣno bašiqˤoy teƛno yeženiqor, enda xanez kidbeqor teƛa bažarizi raqä debeqƛin.
+Gloss: Ismail-ERG finger-POSS.ABL IV-take.away-PFV.CVB ring give-PFV.CVB II-old-DEF-POSS.LAT DEM3b.SG khan-GEN2 daughter-POSS.LAT give-INF able IV-become-Q you-POSS.ESS-QUOT
+Translation: Ismail took a ring from his finger and gave it to the old woman: "Could you give it to the king's daughter?"

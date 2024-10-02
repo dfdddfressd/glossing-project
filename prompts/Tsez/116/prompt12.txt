@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: biqira.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": biqira
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word biqira:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕAƛor ʕeziyaw k’udi däq biqira bayxƛin.
+Gloss: village-LAT many vine me-POSS.ESS III-take.away-INF III-must-PRS-QUOT
+Translation: I must deliver enough vines to the village."
+Sentence: Babiwq žan biqira k’ʷeze boqnoanu.
+Gloss: father-POSS.ESS DEM1.SG-TOP III-catch-INF can III-become-PFV.CVB-NEG
+Translation: The father couldn't catch him either.
+
+Approximate Matches:
+Sentence: Eɣenigon esiw ža biqiranƛin oqno, hemedurtow nesiqayn boxin bok’ełno.
+Gloss: young-DEF-CNTR brother DEM1.SG III-catch-FUT.CVB-QUOT begin-PFV.CVB so-EMPH DEM1.ISG.OBL-POSS.ABL-TOP III-run.away-PFV.CVB III-escape-PST.UNW
+Translation: The young brother tryed to catch it, and just as before it escaped and ran away from him.
+Sentence: Ɣedu biqiranƛin bik’inƛax žedu, mark’ač’uxar xizor butin bayn, eluq ɣedu biqinč’uƛin.
+Gloss: shade III-take.away-FUT.DEF-QUOT I.PL-go-PFV.CVB-QUOT DEM1.IPL twilight-AD.VERS back I.PL-turn.back-PFV.CVB I.PL-come-PFV.CVB we(I).OBL-POSS.ESS shade III-get-NEG.PST.WIT-QUOT
+Translation: "We will take the shadow", and they went on and came back in the twilight: "We didn't get the shadow."
+Sentence: Q’ˤanoqu nukar xanä egirno elo qunyoxor c’ohores ʕagarłi biyrno biqiraniƛäy.
+Gloss: forty henchman khan-ERG send-PST.UNW there farmstead-AD.LAT thief-GEN1 relatives III-find.out-PFV.CVB III-catch-MSD-SUB.ABL
+Translation: The king sent forty henchmen to that farmstead in order to find out and catch the thief's relatives.

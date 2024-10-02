@@ -1,0 +1,152 @@
+{
+  "word": "Nazay",
+  "glosses": [
+    "from.where",
+    "who-knows-where",
+    "out.of.who-knows-where"
+  ]
+}
+{
+  "word": "eƛa",
+  "glosses": [
+    "DEM1.IISG.OBL-ERG",
+    "under",
+    "take.away-INF"
+  ]
+}
+{
+  "word": "iynč’ey",
+  "glosses": [
+    "know-NEG.PST.CVB",
+    "know-NEG.PST.UNW",
+    "know-NEG.PST.CVB"
+  ]
+}
+{
+  "word": "ayru",
+  "glosses": [
+    "come-PST.PRT",
+    "me-APUD.LAT",
+    "comrade"
+  ]
+}
+{
+  "word": "qˤaba",
+  "glosses": [
+    "black",
+    "BL",
+    "BLK"
+  ]
+}
+{
+  "word": "guluƛ’no",
+  "glosses": [
+    "horse-SUPER.ESS-TOP",
+    "horse-SUPER.ESS-TOP",
+    "horse-SUPER.ESS-TOP"
+  ]
+}
+{
+  "word": "zown",
+  "glosses": [
+    "IV-do-PST.UNW",
+    "be.NPRS-PST.UNW",
+    "III-do-IPFV.CVB"
+  ]
+}
+{
+  "word": "qˤaba",
+  "glosses": [
+    "black",
+    "DEF",
+    "SG"
+  ]
+}
+{
+  "word": "žek’a",
+  "glosses": [
+    "man",
+    "person",
+    "individual"
+  ]
+}
+{
+  "word": "xanez",
+  "glosses": [
+    "khan-GEN2",
+    "king-GEN2",
+    "princess-GEN2"
+  ]
+}
+{
+  "word": "kidbes",
+  "glosses": [
+    "daughter-GEN1",
+    "princess",
+    "girl-GEN1"
+  ]
+}
+{
+  "word": "šeƛ’un",
+  "glosses": [
+    "clothing-AND",
+    "clothing-CONT.ESS",
+    "put.on-PST.UNW"
+  ]
+}
+{
+  "word": "rok’ek’no",
+  "glosses": [
+    "III-steal-PFV.CVB",
+    "III-steal.from-PFV.CVB",
+    "II-steal-PFV.CVB"
+  ]
+}
+{
+  "word": "rižin",
+  "glosses": [
+    "IV-take-PFV.CVB",
+    "IV-lead-PFV.CVB",
+    "IV-carry-PFV.CVB"
+  ]
+}
+{
+  "word": "ik’in",
+  "glosses": [
+    "go-PFV.CVB",
+    "come-PST.UNW",
+    "be-PST.UNW"
+  ]
+}
+{
+  "word": "sida",
+  "glosses": [
+    "one.OBL",
+    "one.OBL",
+    "one.OBL"
+  ]
+}
+{
+  "word": "ɣunoƛ",
+  "glosses": [
+    "tree-SUB.ESS",
+    "under",
+    "sit-PFV.CVB"
+  ]
+}
+{
+  "word": "q’ˤida",
+  "glosses": [
+    "down",
+    "sit",
+    "here"
+  ]
+}
+{
+  "word": "ičin",
+  "glosses": [
+    "II-sit-PFV.CVB",
+    "II-carry-PFV.CVB",
+    "II-steal-PFV.CVB"
+  ]
+}

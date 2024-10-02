@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word č’ʷadma in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word č’ʷadma: 
+
+Exact Matches
+Sentence: Hemeł zamanał, sidaɣ mečoƛ’ č’ʷadma teł gondu yoqno.
+Gloss: DEM4.IISG.OBL time-CONT.ESS in.one.place place-SUPER.ESS ruin-IN.ESS inside big.hole II-happen-PST.UNW
+Translation: At this time, a big hole appeared somewhere in the ruin.
+Sentence: Xizyo žeda eƛin, nesä elo č’ʷadma čanya bicäsi zown besunäy, ela isʷa ricanƛin.
+Gloss: after DEM1.IPL-ERG say-PFV.CVB DEM1.ISG.OBL-ERG there ruin-IN.ESS she.goat III-follow-RES.PRT be.NPRS-PFV.CVB III-find-CND.CVB we(I).OBL-ERG bull-ERG IV-tie-FUT.DEF-QUOT
+Translation: Then they said that if he tied the she.goat to the family's house, we will tie a bull to it.
+Sentence: Neła quł sasaqosi, qˤašacekin ičinč’ey, č’ʷadma bäciru ƛeli bowa ik’inosi, eɣeni esiwr ƛuzabi gurow resun anu.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning get.up-TERM-even be-NEG.PST.CVB ruin-IN.ESS III-tie-PST.PRT lamb III-get-INF go-ANT.CVB young-DEF brother-LAT bone-PL except IV-find-PST.UNW be.NEG
+Translation: The next day, even before it got morning, he went to get the lamb which was tied to the ruin, and the young brother found nothing but bones.
+
+Approximate Matches:
+Sentence: Neła quł sasaqtow, qaħłi begiracekin bičinč’ey ixinabin rižin q’ˤanon esnabi č’ʷadmay micxir bowa bik’in.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH dawn III-let-TERM-even III-be-NEG.PST.UNW bag-PL-TOP IV-carry-PFV.CVB two-TOP brother-PL ruin-IN.ABL money III-get-INF I.PL-go-PST.UNW
+Translation: The next morning even before dawn, carrying a bag, the two brothers went to get the money out of the ruin.

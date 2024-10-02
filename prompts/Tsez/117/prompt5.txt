@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: čˤaƛirxotow.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": čˤaƛirxotow
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word čˤaƛirxotow:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Užä ħit’ures iƛ’u nec’irxotow yižix yukaynosi, reƛ teƛxozoni bazarganä ža xizor oxirno.
+Gloss: boy-ERG pan-GEN1 bottom empty-IPFV.CVB-EMPH II-take.out-IPFV.CVB II-see-ANT.CVB meat sell-PRS.PRT.OBL-DEF merchant-ERG DEM1.SG back chase-PST.UNW
+Translation: When he saw that the boy was emptying the bottom of the pan, the meat-selling merchant chased him.

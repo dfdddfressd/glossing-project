@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: sistow.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": sistow
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word sistow:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesis zownƛax sistow sis uži.
+Gloss: DEM1.ISG.OBL-GEN1 be.NPRS-PST.UNW-QUOT one-EMPH one son
+Translation: He had just one single son.
+Sentence: Nesis sistow sis uži zown.
+Gloss: DEM1.ISG.OBL-GEN1 one-EMPH one son be.NPRS-PST.UNW
+Translation: He had one single son.
+Sentence: Däzno uyran kidbełäy, ele howda sistow sis ƛexus.
+Gloss: me-GEN2-TOP four-TOP daughter-CONT.ABL here DEM3.SG one-EMPH one remain-PST.WIT
+Translation: And of my four, only this one here remained.
+
+Approximate Matches:
+Sentence: Eženä p’es anusi nesä nesistow ret’urno.
+Gloss: old-DEF-ERG sound be.NEG-ATTR DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1-EMPH IV-hack-PST.UNW
+Translation: The old man hacked his own [wood] without saying anything.
+Sentence: Kidbä eƛin, xanes łiboqan nesistow kid yołƛin, nełde łiboƛ’ izanix mitow oqa ayƛin.
+Gloss: girl-ERG say-PST.UNW khan-GEN1 wrestler DEM1.ISG.OBL-GEN1-EMPH daughter be-QUOT DEM1.IISG.OBL-APUD.ESS wrestling-SUPER.ESS get.up-MSD-AD.ESS you-EMPH become-INF must-QUOT
+Translation: The girl said: "The king's wrestler is his daughter. You have to get into a wrestling fight with her.
+Sentence: Q’ʷarʕelyoƛ’ sida ʕaƛaɣorno ik’in, xizor utin nexƛ’oräy, nesił dandir nesistow ʕaƛasi Aħmadƛin sis ʕoloqanaw uži keze oqno.
+Gloss: need-SUPER.ESS one.OBL village-IN.VERS-TOP go-PFV.CVB back return-PFV.CVB come-SIM.CVB DEM1.ISG.OBL-CONT.ESS towards DEM1.ISG.OBL-GEN1-EMPH village-RES.PRT Akhmed-QUOT one young boy meet become-PST.UNW
+Translation: When he went to a village out of need and came back, he met a young boy named Akhmed from his village.

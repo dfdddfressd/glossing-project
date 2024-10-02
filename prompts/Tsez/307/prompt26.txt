@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esirač’inƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esirač’inƛin: 
+
+Exact Matches
+Sentence: Kʷaxatow xizyo baruq regin, xec di yiča yegirno, t’ok’ow esirač’inƛin.
+Gloss: soon-EMPH afterwards wife-POSS.ESS IV-be.emitted-PST.UNW enough me II-be-INF II-let-PFV.CVB anymore ask-NEG.FUT.DEF-QUOT
+Translation: Soon from his wife could be heard: "Enough, let it be, I won't ask anymore!"
+
+Approximate Matches:
+Sentence: Hudayƛ’aygon hemedurtow ročyoxno icin egirnosi, ƛ’iri yałruni bełiqanzas q’ut’i boqno, žigoƛ’ay roč k’ek’erłin ela ža izirač’inƛin.
+Gloss: on.the.next.day so-EMPH rope-AD.ESS-TOP tie-PFV.CVB let-ANT.CVB above be-PST.PRT-DEF hunter-PL-GEN1 agreement III-become-PFV.CVB again-SUPER.ABL rope move-CAUS-CNC.CVB we(I).OBL-ERG DEM1.SG lift-NEG.FUT.DEF-QUOT
+Translation: The next day[time?], when they let him [down], tied to the rope, the hunters that were above, agreed: "When he moves the rope again, we won't lift him up."

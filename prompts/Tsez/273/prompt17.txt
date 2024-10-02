@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reƛ’a in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reƛ’a: 
+
+Exact Matches
+Sentence: Eženi esiya eɣeniq reƛ’a caƛix kumak nesir boyx zown, yedakin ok’ełxanaƛin.
+Gloss: old-DEF brother-ERG young-DEF-POSS.ESS hand throw-IPFV.CVB help DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT
+Translation: The older brother was helping giving his hand to the younger one, so at least he might escape.
+Sentence: Ħayran boqno yizä sidä sidqor eƛin, eloš nesi žek’uł adäza anusi šebinonwa anu, hudun nesiq łinaƛ’orkin reƛ’a regirełxanuwaƛin.
+Gloss: be.astonished I.PL-become-PFV.CVB DEM2.IPL-ERG one.OBL-ERG one.OBL-POSS.LAT say-PST.UNW over.there DEM1.ISG.OBL man-CONT.ESS before be.NEG-ATTR something-Q be.NEG nevertheless DEM1.ISG.OBL-POSS.ESS what.OBL-SUPER.LAT-even hand IV-let-POT-PRS-NEG-Q-QUOT
+Translation: They were surprised and talked among each other: "Isn't there everything possible on the table, but he nevertheless can't let his hand to any of it?"
+Sentence: Netin t’ut’ƛ’orkin reƛ’a rizärinč’iru, yedu šebi där yaqˤuł roqäƛin, bikorin bexurno yisiz rok’uƛ’ nexełno.
+Gloss: always fly-SUPER.LAT-even hand IV-lift-NEG.FUT.CVB-PST.PRT DEM2.IISG what me-LAT today IV-happen-PST.WIT.INT-QUOT snake-TOP III-kill-PFV.CVB DEM2.ISG.OBL-GEN2 heart-SUPER.ESS come-POT-PST.UNW
+Translation: "I never even lifted my hand to a fly, what has happened to me today?!", he realized that he killed the snake.
+
+Approximate Matches:
+Sentence: Q’orolas reč’alini reƛ’an rižin, yeda mažgityoz akixor ik’in.
+Gloss: widow-GEN1 IV-cut-ATTR-DEF hand-TOP IV-take.out-PFV.CVB DEM2.ISG mosque-GEN2 window-AD.LAT go-PST.UNW
+Translation: He took out the cut-off hand of the widow and went to the moque's window.
+Sentence: Xizyo reƛ’an reč’no, waħozoni ɣˤutka q’orolan šušin, k’uläɣor žamaʕatyołxor ik’in.
+Gloss: afterwards hand-TOP IV-cut-PFV.CVB below-GEN2-DEF room-IN.ESS widow-TOP bury-PFV.CVB side.street-IN.VERS assembly-CONT.VERS go-PST.UNW
+Translation: Then he cut off her hand, and burried the widow in the cellar, then he went to the village's assembly in a side street.
+Sentence: Howžäy soder nediw šebin radinƛin, reƛ’an ozzaq riħin č’uran rukarerno, Bilq’isdä ža maħor egirno.
+Gloss: now-IN.ABL after such thing IV-do-PROHIB-QUOT hand-TOP eye-PL-POSS.ESS IV-smear-PFV.CVB light-TOP IV-show-CAUS-PFV.CVB Bilqisdi-ERG DEM1.SG outside send-PST.UNW
+Translation: "From now on, don't do such things anymore!", Bilqisdi put her hands onto his eyes, gave him back his eyelight and sent him outside.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word guluƛ’ay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word guluƛ’ay: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Biƛira putcegon kedonno yisno, yedan et’un guluƛ’or k’oƛin.
+Gloss: eight.OBL pood-EQU1-CNTR sledgehammer-TOP II-take-PFV.CVB DEM2.ISG-TOP jump-PFV.CVB horse-SUPER.LAT jump-PST.UNW
+Translation: He also took a sledgehammer of 8 pood and jumped onto his horse.
+Sentence: Xexłiƛ’ eƛin ɣˤʷaygon yałru qaciz guluƛ’or butirno.
+Gloss: quickness-SUPER.ESS say-PFV.CVB dog-CNTR be-PST.PRT firewood-GEN2 horse-SUPER.LAT III-turn-PST.UNW
+Translation: He quickly said [something] and what has been a dog transformed back into the wooden horse.
+Sentence: Hemedur iħuz raʕalłix yeda yałzay, guluƛ’no zown žek’u oƛixno.
+Gloss: so river-GEN2 edge-AD.ESS DEM2.ISG be-SIM.CVB horse-SUPER.ESS-TOP ride-PFV.CVB man appear-PST.UNW
+Translation: So while he was at the edge of the river, a man riding on a horse appeared.

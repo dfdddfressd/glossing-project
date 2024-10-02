@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ik’in using Leipzig glossing symbols. The sentence this word is drawn from means: "And a black man riding on a black horse who came out of who-knows-where stole the princess' clothes, carried them away and sat down under a tree.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ik’in
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ik’in:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.
+Gloss: one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW
+Translation: One day Bear Ear went to the spring the dragon was covering to get water.
+Sentence: Ik’in, ik’in babiwƛ’or kaɣat yegirno zawruni ečruni žek’uder ayn.
+Gloss: go-PFV.CVB go-PFV.CVB father-SUPER.LAT letter II-send-PFV.CVB be.NPRS-PST.PRT-DEF old-DEF man-APUD.LAT come-PST.UNW
+Translation: He went and went and came to the old man who had sent the letter to his father.
+Sentence: Howži ža ɣamasno hokomƛ’o erno, eɣeni esiw xanes kid yałruni qalamxaɣor ik’in.
+Gloss: now DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB young-DEF brother khan-GEN1 daughter be-PST.PRT-DEF fortress-AD.VERS go-PST.UNW
+Translation: Now they put the box onto a carriage and the young brother went to the fortress where the king's daughter was.
+
+Approximate Matches:
+Sentence: Elor baynosi, č’ikin boqno c’aramäz begin iduɣorno bik’in, žedus xabarno teqerno bičin.
+Gloss: there-LAT III-come-ANT.CVB flea-TOP III-become-PFV.CVB crack-IN.ESS.DIST III-go.into-PFV.CVB home-IN.ALL-TOP I.PL-go-PFV.CVB DEM1.IPL-GEN1 story-TOP listen.to-PFV.CVB III-be-PST.UNW
+Translation: When it arrived there, it became a flea, went inside through a crack and listened to what they said.
+Sentence: Šebi royłin yeda uži ik’inč’ey ičinanu.
+Gloss: what IV-do-CNC.CVB DEM2.ISG boy go-NEG.PST.CVB be-PFV.CVB-NEG
+Translation: No matter what to do, the boy had to go.
+Sentence: Zira bik’in, xanä täƛruni, Goqiq šeƛ’un šeƛ’urno, guluƛ’no zowerno xandäɣor hunix boqno.
+Gloss: fox-ERG III-go-PFV.CVB khan-ERG give-PST.PRT-DEF Goqi-POSS.ESS clothing-and put.on-CAUS-PFV.CVB horse-SUPER.ESS-and seat-PFV.CVB khan-APUD.VERS way-AD.ESS I.PL-become-PST.UNW
+Translation: The fox left, let Goqi put on the clothes and get on the horse given by the king and so they went on their way to the king.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: šebin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": šebin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word šebin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Siryos bet’erhanä q’ʷaridno oqno sadaq šebin ik’in ec’noni xanzo baruq esin.
+Gloss: mare-GEN1 master-ERG sadness-TOP become-PFV.CVB all thing go-PFV.CVB new-DEF khan-ATTR.OBL wife-POSS.ESS tell-PST.UNW
+Translation: The mare's master became sad and told the king's new wife how all the things happened.
+Sentence: Sis gut’ riłe šebin rukayxƛin, eƛin bełiqanä.
+Gloss: one smoke IV-as thing IV-see-PRS-QUOT say-PST.UNW hunter-ERG
+Translation: "I see something like smoke.", said the hunter.
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+
+Approximate Matches:
+Sentence: Kidbez eniya nesir ya micxir, ya mesed, ya q’ˤuya riguƛ’ay rigu šebinabi teƛxo zown, hudun užä žedu šebinabi risnoanu.
+Gloss: girl-GEN2 mother-ERG DEM1.ISG.OBL-LAT either money either gold either other IV-good-SUPER.ABL IV-good thing-PL give-IPFV.CVB be.NPRS-PFV.CVB nevertheless boy-ERG DEM1.IIPL thing-PL IV.PL-take-PFV.CVB-NEG
+Translation: The girl's mother was about to give him money or gold or other precious things, but the boy didn't take those things.
+Sentence: Yedu šebi nece bercinaw šebinƛin, yeda rešambi riqiranix c’oxno.
+Gloss: DEM2.IISG what so.much beautiful thing-QUOT DEM2.ISG ray-PL IV.PL-catch-MSD-AD.ESS hit-PST.UNW
+Translation: "What beautiful thing is this?!", he tried to catch the rays.
+Sentence: Neła ža yižin idu eqernosi, acno serun nełde puħorno ik’in, royxosi šebinon royn, mi tełerno oqno ɣamas yexar, xizyo žeda ža q’ač’azi yodanixƛin elay xizor yegärƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG II-carry-PFV.CVB home put-ANT.CVB door-TOP unlock-PFV.CVB DEM1.IISG.OBL-APUD.ESS side-AD.LAT-TOP go-PFV.CVB IV-do-IPFV.CVB-ATTR something IV-do-PFV.CVB you to.the.inside-TOP become-PFV.CVB box II-kill afterwards DEM1.IPL.OBL-ERG DEM1.SG get.ready II-do-MSD-AD.ESS-QUOT there-IN.ABL back II-send-QUOT
+Translation: After she carried you inside, unlock the door, and go to her side, do what is to be done, go back inside and destroy the box; afterwards they will send it back to be repaired.

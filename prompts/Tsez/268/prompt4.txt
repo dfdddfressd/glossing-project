@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bat’iyawtowä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bat’iyawtowä: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nełas siskin urɣel boynanu bat’iyaw sisxolizoni q’orolaz užä.
+Gloss: DEM1.IISG.OBL-GEN1 any sorrow III-do-PFV.CVB-NEG other alone-ATTR.OBL-DEF widow-GEN2 son-ERG
+Translation: The son of the other widow who was alone, did not have any sorrow.

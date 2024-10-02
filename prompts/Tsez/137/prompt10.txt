@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rik’inosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rik’inosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rik’inosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.
+Sentence: Nełƛ’osi ɣudbi rik’inosi, sida quł iħuz lilyox yisir bikori besun.
+Gloss: of.that.time day-PL IV.PL-go-ANT.CVB one.OBL day-CONT.ESS river-GEN2 river.bank-AD.ESS DEM2.ISG.OBL-LAT snake III-find-PST.UNW
+Translation: From then on the days went by, and one day he found a snake at the river bank.
+Sentence: Roƛƛo ʕuraw ɣudbi rik’inosi, zira bäxurusno rodin bičin.
+Gloss: IV-middle many day-PL IV-go-ANT.CVB fox-ERG III-die-PST.PRT-GEN1-TOP IV-do-PFV.CVB III-be-PST.UNW
+Translation: After many days had passed, the fox pretended to be dead.
+
+Approximate Matches:
+Sentence: Sida quł ža t’o ʕaƛay ik’inosi, där žek’ude kecan retin di debez babiwz laɣde kecsi.
+Gloss: one.OBL day-CONT.ESS DEM1.SG here village-IN.ABL go-ANT.CVB me-LAT man-APUD.ESS sleep-INF-and IV-want-PFV.CVB me you-GEN2 father-GEN2 slave-APUD.ESS sleep-PST.WIT
+Translation: One day, after he had left this village, I wanted to sleep with a man, and so I slept with your father's slave.
+Sentence: Dahawgon ik’inosi neside guluzaxosi aħo keze oqno.
+Gloss: a.little-CNTR go-ANT.CVB DEM1.ISG.OBL-APUD.ESS horse-PL-AD.ESS-ATTR shepherd meet become-PST.UNW
+Translation: When he went a little further, a shepherd with horses came towards him.
+Sentence: Yedu šebi ʕalamałi riča rayxƛin yeda bazaryar ik’inosi, elon siskin besun anu:
+Gloss: DEM2.IISG what miracle IV-be-INF IV-must-PRS-QUOT DEM2.ISG bazar-IN.LAT go-ANT.CVB there-TOP anything III-find-PFV.CVB be.NEG
+Translation: "What wonder could this be?"; when he went to the market, he didn't find anything there:

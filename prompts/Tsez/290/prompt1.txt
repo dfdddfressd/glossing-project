@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Zamanaƛ’ay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Zamanaƛ’ay: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Zira bigza ħalał ƛ’en bagin, zamanaƛ’azay xexoybin roɣno.
+Gloss: fox-ERG III-very-ZA condition-CONT.ESS malt-TOP III-lick-PFV.CVB time-SUPER.ABL.DIST young.animal-PL-TOP III.PL-hatch-PST.UNW
+Translation: The fox licked enough malt and after some time, it got youngs.
+Sentence: Tełxor egirno zamanaƛ’azay roč k’ek’-rik’ärun, yizä ža raƛ’moƛ’aɣor izirno.
+Gloss: inside-AD.LAT let-PFV.CVB time-SUPER.ABL.DIST rope move-CAUS-IMM.ANT.CVB DEM2.IPL.OBL-ERG DEM1.SG earth-SUPER.VERS lift-PST.UNW
+Translation: They let him inside, and just when after some time the rope was moved, they lifted him onto the earth.
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.

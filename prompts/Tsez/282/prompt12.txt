@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħišin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħišin: 
+
+Exact Matches
+Sentence: Ričiƛƛin, razi oqno ža, amma imadu esa adäza meža yiła ɣˤutkoq acno ħišin reka däqor neƛa ray.
+Gloss: IV-be-OPT-QUOT agree become-PFV.CVB DEM1.SG but tale tell-INF before you(I).PL.OBL-ERG DEM2.IISG.OBL house-POSS.ESS door-TOP lock-PFV.CVB key me-POSS.LAT give-INF IV-must
+Translation: "So be it!", he agreed, "but before I tell the tale, you must lock the door of this house and give me the key."
+Sentence: Xizyo Kusa xanez kidbeden kecno, qˤašiƛ’aɣor kid moƛaq yiqirnosi, elayn izin ɣamasya tełerno oqno, tełäzgon žan ħišin, maq’anyabi rižixosi pelun yexurno.
+Gloss: afterwards Kusa-ERG khan-GEN2 daughter-APUD.ESS-TOP sleep-PFV.CVB dawn-SUPER.VERS girl sleep-POSS.ESS II-stop-ANT.CVB there-IN.ABL-TOP get.up-PFV.CVB box-IN.ESS into-TOP become-PFV.CVB inside-IN.ESS.DIST-CNTR DEM1.SG-TOP lock-PFV.CVB melody-PL III.PL-carry-IPFV.CVB-ATTR pipe-TOP II-kill-PST.UNW
+Translation: Afterwards, when Kusa had slept with the king's daughter, and the girl had stopped sleeping, he got up from there and went into the box, locked it from inside and destroyed the pipes which played the melodies.
+
+Approximate Matches:
+Sentence: Kʷaxatow bełiqanä barun yown, ƛˤeb ħišiłzaƛ’or žedur q’ˤuƛas q’ˤano uži odin.
+Gloss: soon-EMPH hunter-ERG wife-TOP II-marry-PFV.CVB year be.over-POST.CVB DEM1.IPL-LAT twin-GEN1 two son do-PST.UNW
+Translation: Soon the hunter married a wife, and before a year was over, two twin boys were born to them.
+Sentence: Ac ħišäsi yesuzaƛ’, boc’ä qˤaƛin, ħišixosi, ac seroƛin.
+Gloss: door lock-RES.PRT II-exist-CSL.CVB wolf-ERG shout-PST.UNW lock-PRS.PRT door unlock-IMPR-QUOT
+Translation: Because the door was locked, the wolf shouted: "It's locked, unlock the door!"
+Sentence: Oka eƛin, däde sadaq egirno xec yeda debi uži, xizyo ƛˤebaq ƛˤeb ħišiłnosi, hobołatow mečoƛ’or horo mi yisił xizayƛin.
+Gloss: Oku-ERG say-PST.UNW me-APUD.ESS together send-PFV.CVB leave DEM2.ISG you-GEN1 son afterwards year-POSS.ESS year be.over-ANT.CVB this-DUB-EMPH field-SUPER.LAT come.IMPR you DEM2.ISG.OBL-CONT.ESS behind-QUOT
+Translation: Oku said: "Send your son together with me, and when the year after next year is over, come to this very field and follow him."

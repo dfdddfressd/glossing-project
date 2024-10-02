@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yałzatow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yałzatow: 
+
+Exact Matches
+Sentence: Di žek’anč’e babiw nexxoƛin, yoł yałzatow q’ayn xecin užin oxin.
+Gloss: me beat-INF-TOP-INTS father come-PRS-QUOT be be-LCV.CVB-EMPH article-TOP leave-PFV.CVB boy-TOP run.away-PST.UNW
+Translation: Thinking that the father came to beat him, the boy left the goods where they were and ran away.
+Sentence: Zamanałäy, łarnokin yukaynč’ey, yedu kid iduɣorno yik’in, šeƛ’un roɣno neła nełas ħošin šeƛ’un, yałzatow pečmox kecno yičin.
+Gloss: time-CONT.ABL who.OBL-LAT-TOP-even II-see-NEG.PST.CVB DEM2.IISG girl home-IN.ALL-TOP II-go-PFV.CVB clothing-TOP IV-take.away-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 hide-TOP put.on-PFV.CVB be-LCV.CVB-EMPH oven-AD.ESS sleep-PFV.CVB II-be-PST.UNW
+Translation: After a while, the girl went home with nobody seeing her, took off the clothes, put on her hide, and went to sleep at the oven where she was.
+
+Approximate Matches:
+Sentence: Aždaħägon risno yałzatown erno.
+Gloss: dragon-ERG-CNTR IV-take-PFV.CVB be-LCV.CVB-EMPH-TOP put-PST.UNW
+Translation: But the dragon took it and put it back where it was.

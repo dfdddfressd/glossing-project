@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word gugyoq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word gugyoq: 
+
+Exact Matches
+Sentence: Igtow yeda ƛ’iri utizaƛ’ Tawadä esin, mi yowxozo barurno, deberno saɣłin rodin ħaƛanix di t’akan yizärun, gugyoq tungin bisno akiƛäza yik’ix yukayru kidbeƛ’ ozurin c’oxno, nełaz bercinłä ʕadal oys.
+Gloss: much-EMPH DEM2.ISG above turn-CSL.CVB Tavadi-ERG tell-PST.UNW you II-marry-PRS.PRT.OBL wife-LAT-and you-LAT-and health-TOP IV-do-PFV.CVB drink-MSD-AD.ESS me glass II-lift-IMM.ANT.CVB back-POSS.ESS copper.jug-TOP III-take-PFV.CVB window-SUB.VERS II-go-IPFV.CVB II-see-PST.PRT girl-SUPER.ESS eye-TOP hit-PFV.CVB DEM1.IISG.OBL-GEN2 beauty-ERG intoxication do-PST.WIT
+Translation: Because he insisted so much, Tavadi told him: "Right after lifting my glass to drink on your and your soon to be married wife, my eye met this girl whom I saw going under the window and taking a jar on her back, and her beauty was intoxicating."
+Sentence: Łäs tungin bic’no xizor yutin yedu nexƛ’oräy, esiwz žanazał adäzar yaynosi, gugyoq caƛin bowx zawru tungi begirno xecin yiła q’ˤidar.
+Gloss: water-GEN1 copper.jug-TOP III-fill-PFV.CVB back II-return-PFV.CVB DEM2.IISG come-SIM.CVB brother-GEN2 corpse-CONT.ESS before-IN.LAT II-come-ANT.CVB back-POSS.ESS throw-PFV.CVB III-bring-IPFV.CVB be.NPRS-PST.PRT copper.jug III-let-PFV.CVB leave-PFV.CVB DEM2.IISG.OBL-ERG down-LAT
+Translation: She filled the jug with water and while she was coming back, she came to the corpse of her brother, let the jug fall down, which was [bringing/thrown at her back???], and left.
+Sentence: Q’ˤunaäƛiru ɣudƛ’o miƛ’i bayrno boc’in, isno gugyoq caƛin zeyn ziruz ɣˤutkoxorno rayn, maħlaytow qˤaƛin:
+Gloss: two.OBL-ORD day-SUPER.ESS ram III-bring-PFV.CVB wolf-TOP bull-TOP back-POSS.ESS throw-PFV.CVB bear-TOP fox-GEN2 house-AD.LAT-TOP III.PL-come-PFV.CVB court-IN.ABL-EMPH loudly
+Translation: On the second day, the wolf came to the fox's house bringing a ram and the bear came with a bull thrown over his back, a loud voice shouted from the backyard:
+
+Approximate Matches:
+Sentence: Xizyo cey maħorno boqno neła nełaz gugyoƛ’ ƛ’iri užin zowrno, boržizin boqno iħubin, ħonbin xecin bik’in raładyoƛ’ ƛ’irir bayn.
+Gloss: afterwards eagle outside-TOP I.PL-become-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 back-SUPER.ESS on boy-TOP seat-PFV.CVB flight-TOP III-become-PFV.CVB river-PL-and mountain-PL-and leave-PFV.CVB III-go-PFV.CVB sea-SUPER.ESS on-LAT III-come-PST.UNW
+Translation: Afterwards, the eagle went outside, seated the boy on its own back, flew away past rivers and mountains and came to the sea.
+Sentence: Biči, hiboƛin, eƛizaƛ’or deber aciru žek’uz gugyoƛ’ yedu biħnayxosiƛin.
+Gloss: III-stop.IMP stick-QUOT say-POST.CVB you-LAT bother-PST.PRT man-GEN2 back-SUPER.ESS DEM2.IISG III-fight-PRS.PRT-QUOT
+Translation: "As long as you do not say 'Stop, stick', it hits on the back of that man, which bothers you."
+Sentence: Besura neła nełaz gugyoƛ’no zowerno, bełiqus uži neła kidbez ɣˤutkoł adäzar ižin kurno.
+Gloss: fish-ERG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 back-SUPER.ESS-TOP seat-PFV.CVB hunter-GEN1 son DEM1.IISG.OBL girl-GEN2 house-CONT.ESS before-IN.LAT carry-PFV.CVB throw-PST.UNW
+Translation: The fish took the hunter's son onto his back, carried him to that girl's house and threw him off again.

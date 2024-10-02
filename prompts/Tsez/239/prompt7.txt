@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’in: 
+
+Exact Matches
+Sentence: Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.
+Gloss: one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW
+Translation: One day Bear Ear went to the spring the dragon was covering to get water.
+Sentence: Ik’in, ik’in babiwƛ’or kaɣat yegirno zawruni ečruni žek’uder ayn.
+Gloss: go-PFV.CVB go-PFV.CVB father-SUPER.LAT letter II-send-PFV.CVB be.NPRS-PST.PRT-DEF old-DEF man-APUD.LAT come-PST.UNW
+Translation: He went and went and came to the old man who had sent the letter to his father.
+Sentence: Howži ža ɣamasno hokomƛ’o erno, eɣeni esiw xanes kid yałruni qalamxaɣor ik’in.
+Gloss: now DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB young-DEF brother khan-GEN1 daughter be-PST.PRT-DEF fortress-AD.VERS go-PST.UNW
+Translation: Now they put the box onto a carriage and the young brother went to the fortress where the king's daughter was.
+
+Approximate Matches:
+Sentence: Elay yik’in kidbä, där hemedur moƛu yukaysƛin, babiwqor nesi užä äsiru łinałäyn eƛin.
+Gloss: here-IN.ABL II-go-PFV.CVB girl-ERG me-LAT so dream II-see-PST.WIT-QUOT father-POSS.LAT DEM1.ISG.OBL boy-ERG tell-PST.PRT what.OBL-CONT.ABL-TOP say-PST.UNW
+Translation: The girl went away and [saying] "I had a dream like this!", told to her father about what that boy had told.
+Sentence: Yoƛo ƛˤeb yik’inosi, Tawadi ixiw suħmat roda iħux.
+Gloss: II-middle year II-go-ANT.CVB Tavadi big celebration IV-do-INF begin-PRS
+Translation: After a year had passed, Tavadi began to organize a big celbration.
+Sentence: Sida quł ciqaɣor qaca roda uži ik’inosi, nesir aɣzaz xexoyzadäɣor ɣunoq bizix bikori bukayn.
+Gloss: one.OBL day-CONT.ESS forest-IN.VERS firewood IV-do-INF boy go-ANT.CVB DEM1.ISG.OBL-LAT bird-PL-GEN2 young.animal-PL-APUD.VERS tree-POSS.ESS III-get.up-IPFV.CVB snake III-see-PST.UNW
+Translation: One day, when the boy went to the forest to get firewood, he saw a snake getting up a tree towards some bird chicks.

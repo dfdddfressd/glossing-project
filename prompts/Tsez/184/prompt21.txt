@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yizirabi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yizirabi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yizirabi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Beynoda retinäy däde mežur ħalt’in yoł, deytow iłno kidno yoł mežux regiranixƛin, eƛin yiła yizirabi iduɣor bižin.
+Gloss: I.PL-work-INF IV-want-CND.CVB me-APUD.ESS you(I).PL.OBL-LAT work-and be me-GEN1-EMPH six daughter-and be you(I).PL.OBL-AD.ESS IV.PL-let-MSD-AD.ESS-QUOT say-PST.UNW DEM2.IISG.OBL-ERG DEM2.PL home-IN.ALL I.PL-lead-PST.UNW
+Translation: If you want to work, there's work for you at my place, and also my six daughters to be sent to you." she said and let them into her home.
+Sentence: Neła quł neširu yizirabi kecno baq’ˤu mix bik’izaƛ’ortow, Tawadis uži ayn.
+Gloss: DEM1.IISG.OBL day-CONT.ESS evening DEM2.PL sleep-PFV.CVB III-much time III-go-POST.CVB-EMPH Tavadi-GEN1 son come-PST.UNW
+Translation: On the same evening, before they slept too long, Tavadis son came.
+Sentence: Bayn yizirabi ƛirbałix sid žek’ude idur.
+Gloss: I.PL-come-PFV.CVB DEM2.PL hospitality-AD.ESS one.OBL man-APUD.ESS home-LAT
+Translation: Then came home to a man as guests.
+
+Approximate Matches:
+Sentence: Yizirabi q’ˤanon Ražbadinzo barudäɣorno, xexzadäɣorno bik’in.
+Gloss: DEM2.PL two-TOP Razhbadin-GEN2 wife-APUD.VERS-and children-APUD.VERS-and I.PL-go-PST.UNW
+Translation: And the two of them went to his wife and the children.

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hemecetowgon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hemecetowgon: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neširu bežet’ani esnabi q’ʷarid boqno biłe baynosi, yisä esirno, šebi mežur roqno hemecetow pašman boqa keze boqnäy, šebi necetow beže q’ʷariłi mežuƛ’or bayäsiƛin.
+Gloss: evening I.PL-old-DISTR-DEF brother-PL sad I.PL-become-PFV.CVB I.PL-as I.PL-come-ANT.CVB DEM2.ISG.OBL-ERG ask-PST.UNW what you(I).PL.OBL-LAT IV-happen-PFV.CVB such-EMPH become.sad I.PL-become-INF meet I.PL-become-CND.CVB what so.much-EMPH III-big sadness you(I).PL.OBL-SUPER.LAT III-come-RES.PRT-QUOT
+Translation: In the evening, when the brothers came looking sad, he asked: "What happened to you that you became so sad? What a big sadness has come upon you!"
+Sentence: Sis žek’un ayn howlor hemecetow ƛ’iri utizaƛ’, moƛ’oqˤoyn sadaq däq teƛno rok’ełsi.
+Gloss: one man-TOP come-PFV.CVB there-LAT such-EMPH above turn-CSL.CVB bridle-TOP together me-POSS.ESS sell-PFV.CVB IV-lose-PST.WIT
+Translation: And there came a man and because he insisted so much, I sold also the bridle and lost it.

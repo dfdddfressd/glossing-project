@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Neširu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Neširu: 
+
+Exact Matches
+Sentence: Neła quł neširu ža äčiza ɣutkaɣorgon baħarayn yižin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS evening DEM1.SG live-LCV house-IN.VERS-CNTR fiancée-TOP II-lead-PST.UNW
+Translation: That evening, he lead his fiancée to the house were he lived.
+Sentence: Moƛaxay žan č’arik’no, nesä eƛin, di malaik yoł, asatow maharno erno, mi yowanix nexäsi t’aɣor, neširu di dowde puħo keca ayƛin.
+Gloss: sleep-AD.ABL DEM1.SG-TOP wake.up-PFV.CVB DEM1.ISG.OBL-ERG say-PST.UNW me angel be sky-IN.ESS-EMPH wedding-TOP set.up-PFV.CVB you II-marry-MSD-AD.ESS come-RES.PRT here-IN.VERS at.night me you-APUD.ESS next.to sleep-INF must-QUOT
+Translation: He woke her up from her sleep and said: "I am an angel, I will arange a wedding in the heavens for I have come here to marry you; I must sleep next to you at night."
+Sentence: Howži xanä, sida quł neširu eženi uži egirno baɣmox ičanix, heneš bok’ek’anix šebi elor bayxosi yałru riyraniƛäy.
+Gloss: now khan-ERG one.OBL-ERG day-CONT.ESS evening old-DEF son let-PFV.CVB garden-AD.ESS be-MSD-IPFV.CVB apple III-steal-MSD-PRS who there-LAT III-come-PRS.PRT be-PST.PRT IV-find.out-MSD-SUB.ABL
+Translation: One day in the evening the khan left his elder son in the garden to find out who comes and steals the apples.
+
+Approximate Matches:
+Sentence: Nełar neširuxay rukayx zown anu.
+Gloss: DEM1.IISG.OBL-LAT at.night-AD.ABL IV-see-IPFV.CVB be.NPRS-PFV.CVB be.NEG
+Translation: It couldn't see anything in the night.
+Sentence: Ža kid dicegon bac’ałiƛ’ yoqłin, neła xediwƛ’or kaɣat caxno, debi kid neširuxayt’a q’ʷat’azaq yaħna-yik’ix yičixƛin.
+Gloss: DEM1.SG daughter how.much-CNTR cleanness-SUPER.ESS II-become-CNC.CVB DEM1.IISG.OBL-ERG husband-SUPER.LAT letter write-PST.UNW you-GEN1 daughter at.night-AD.ABL-DISTR street-PL-POSS.ESS II-walk.for.a.while-IPFV.CVB II-be-PRS-QUOT
+Translation: Although the daughter was very cleanly, she wrote a letter to her husband: "Your daughter is being wandering through the streets at night."
+Sentence: Sida zamanał, neširuxayt’a šebi eƛa riyxanuzo łinan c’iɣaƛ’ ƛ’iri yałru ʕaƛ k’ek’-bik’erxot’a zown.
+Gloss: one.OBL time-CONT.ESS at.night-AD.ABL-DISTR what say-INF IV-know-NEG.PRS.PRT.OBL water-INT shoulder.blade-SUPER.ESS above be-PST.PRT village move-CAUS-IPFV.CVB-DISTR be.NPRS-PST.UNW
+Translation: One time, at night the village on the shoulder.blade was moved by something unknown.

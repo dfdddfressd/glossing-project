@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: anuƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": anuƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word anuƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanä hemedurtow pakmos ʕabasin cuƛer kurno eƛinosi, Kusagon mesedyos ʕabasin cuƛer kurno eƛin, k’ešonad mi, mesedyos ʕabasi, dunyalƛ’o debeq roqxanusi šebintow anuƛin.
+Gloss: khan-ERG so-EMPH copper-GEN1 coin-TOP upward throw-PFV.CVB say-ANT.CVB Kusa-CNTR gold-GEN1 coin-TOP upward throw-PFV.CVB say-PST.UNW play you gold-GEN1 coin world-SUPER.ESS you-POSS.ESS IV-become-NEG.PRS.PRT thing-EMPH be.NEG-QUOT
+Translation: When the king threw the copper coin upward and said his phrase, Kusa threw up the golden coin up and said: "Play, golden coin, there is nothing in the world that you couldn't become!"
+Sentence: Tawadä Ražbadin bužzi odin, nediw ħalikataw šebin debeł teł roda dey pikrukin zownč’u, rodäsin anuƛin.
+Gloss: Tavadi-ERG Razhbadin convince do-PFV.CVB such mean thing you-CONT.ESS inside IV-do-INF me-GEN1 idea-even be.NPRS-NEG.PST.WIT IV-do-RES.PRT-TOP be.NEG-QUOT
+Translation: Tavadi convinced Razhbadin: "I would not have he idea to do such a mean thing to you, I haven't done anything."
+Sentence: Yisis rigu rok’ƛ’o anuƛin, nesiqay zebun yoɣno boc’i boxin.
+Gloss: DEM2.ISG.OBL-GEN1 IV-good heart-SUPER.ESS be.NEG-QUOT DEM1.ISG.OBL-POSS.ABL running-TOP II-take.away-PFV.CVB wolf III-run.away-PST.UNW
+Translation: "He's bad-tempered", [thought] the wolf [and] ran away from him.
+
+Approximate Matches:
+Sentence: Bažarizi raq, šida däq roqxanuƛin, yeženä bašiqˤoyn risno yizin xanzo madazaxaɣor yik’in.
+Gloss: able IV-become why me-POSS.ESS IV-become-PRS-NEG-QUOT II-old-DEF-ERG ring-TOP IV-take-PFV.CVB II-get.up-PFV.CVB khan-GEN2 yard-PL-AD.VERS II-go-PST.UNW
+Translation: "I can, why not?", the old woman took the ring, got up and went to the king's yards.
+Sentence: Sosisi ža dey anuƛinno yičin, yedu xizyo ža teƛanix razi yoqno.
+Gloss: at.first-ATTR DEM1.SG me-GEN1 be.NEG-QUOT-TOP II-be-PFV.CVB DEM2.IISG afterwards DEM1.SG give-MSD-AD.ESS agree II-become-PST.UNW
+Translation: At first she was like "I don't have it.", afterwards she agreed to give it away.
+Sentence: Onoču sosisi begirxanuƛin inkarno boyn bičäsi zown, yaqˤułno łoħrodär bik’iƛin.
+Gloss: hen at.first-ATTR III-let-IPFV.CVB-NEG-QUOT rejection-TOP III-do-PFV.CVB III-be-RES.PRT be.NPRS-PFV.CVB today-TOP frog-APUD.VERS III-go-QUOT
+Translation: "I won't let you in", the hen rejected at first, "Go to the frog again, today!"

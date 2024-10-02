@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word babiw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word babiw: 
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Sidaɣ maqˤir ciqaɣorno yisä yedu yižin, hemedurtow gondun yič’in, ƛ’irigon zozis ƛ’ˤun bodin howlo žan xecin babiw xizor utin nexno.
+Gloss: in.one.place far.away-LAT forest-IN.VERS-TOP DEM2.ISG.OBL-ERG DEM2.IISG II-lead-PFV.CVB so-EMPH big.hole-TOP II-dig-PFV.CVB above-CNTR moss-GEN1 roof-TOP III-do-PFV.CVB there DEM1.SG-TOP leave-PFV.CVB father back return-PFV.CVB come-PST.UNW
+Translation: The father led her to a place far away in the forest, likewise dug a hole and built a roof of moss ontop, left her there and returned.
+Sentence: Hudayziko qˤaħłiqtow babiw kidbabi saparyox boqno.
+Gloss: the.next.day dawn-POSS.ESS-EMPH father daughter-PL journey-AD.ESS I.PL-become-PST.UNW
+Translation: The next day at dawn the father (and) the daughters went on their journey.
+
+Approximate Matches:
+Sentence: Žan sadaq yižin uži babiwz ʕaƛaɣor ik’in.
+Gloss: DEM1.SG-TOP together II-lead-PFV.CVB boy father-GEN2 village-IN.VERS go-PST.UNW
+Translation: The boy took her together to his father's village.
+Sentence: Yisiz babiws šudaƛ’osi ħimu yaganix biħun yedu.
+Gloss: DEM2.ISG.OBL-GEN2 father-GEN1 graveyard-SUPER.ESS-ATTR tombstone II-lick-MSD-AD.ESS I.PL-come.to-PST.UNW DEM2.IISG
+Translation: It came to lick the tombstone on his father's grave.
+Sentence: Kidbes babiwgon nesis halmaɣ zown.
+Gloss: girl-GEN1 father-CNTR DEM1.ISG.OBL-GEN1 friend be.NPRS-PST.UNW
+Translation: The girl's father was his friend.

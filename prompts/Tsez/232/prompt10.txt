@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word t’umizaƛ’orno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word t’umizaƛ’orno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ƛ’iräy ħulin kurno, bercinawt’a kidbazaƛ’orno rutin, ɣˤayz orezna teł žedu esanadanix roqno.
+Gloss: from.above feather-TOP throw-PFV.CVB beautiful-DISTR girl-PL-SUPER.LAT-TOP II.PL-turn-PFV.CVB milk-GEN2 pond-IN.ESS inside DEM1.IIPL bathe-MSD-AD.ESS II.PL-begin-PST.UNW
+Translation: Having thrown off their feathers, they turned into beautiful girls and began to bathe in the pond of milk.
+Sentence: Neła elay harizin rodin nasin ħalt’uqanbin boxirno, Musał adäz bečnazaƛ’orno c’oxno eƛin:
+Gloss: DEM1.IISG.OBL-ERG there-IN.ABL request-TOP IV-do-PFV.CVB all worker-PL-TOP I.PL-chase-PFV.CVB Musa-CONT.ESS ahead knee-PL-SUPER.LAT-and pounce-PFV.CVB say-PST.UNW
+Translation: She asked all workers to get away from there, felt on her knees before Musa and said:

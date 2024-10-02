@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word royx in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word royx: 
+
+Exact Matches
+Sentence: Mamalay ɣudes ciqaɣor qaciƛ’or bik’ix zown, onoču iduza beynoyx, iduzasi royx bičix zown.
+Gloss: rooster daily forest-IN.VERS firewood-SUPER.LAT III-go-IPFV.CVB be.NPRS-PFV.CVB hen home-ZA III-work-IPFV.CVB home-ZA-ATTR IV-do-PRS III-be-PRS be.NPRS-PST.UNW
+Translation: Every day the rooster went into the forest for firewood, and the hen was at home doing the housework.
+Sentence: Di k’emot’yabi royx aħnayxosi qacis ust’ar yołƛin, nesä žawab teƛno.
+Gloss: me wooden.case-PL II.PL-do-IPFV.CVB walk.around-PRS.PRT firewood-GEN1 master be-QUOT DEM1.ISG.OBL-ERG answer give-PST.UNW
+Translation: "I am a carpenter working around making wooden cases." he answered.
+Sentence: Šebin roƛor risno yedu suħmat royx mi.
+Gloss: thing IV-middle-LAT IV-take-PFV.CVB DEM2.IISG celebration IV-do-PRS you
+Translation: You took the thing to the middle and organize this celebration.(?)
+
+Approximate Matches:

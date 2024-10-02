@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žaz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žaz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žaz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesi žaz babiya sidaquł q’orol ɣˤanabin yiqirno nełaq esin, hemedur ɣudƛ’ay ɣudƛ’or dey uži ħalaq’ oqxo ik’ixƛin.
+Gloss: DEM1.ISG.OBL boy-GEN2 father-ERG one.day widowed woman-TOP II-find-PFV.CVB DEM1.IISG.OBL-POSS.ESS tell-PST.UNW so day-SUPER.ABL day-SUPER.LAT me-GEN1 boy meager become-IPFV.CVB go-PRS-QUOT
+Translation: One day the boy's father found a widow and told her that his boy is becoming meager day by day.
+Sentence: Horo eli sidqo sis biłaniƛäyn, dey rok’u riq’ˤaniƛäyn, łˤonon debi užibi däz žaz mečʷa bexuranix dadäɣor begirnäy där räti.
+Gloss: come.IMPR we one.OBL-POSS.ESS one III-resemble-MSD-SUB.ABL-and me-GEN1 heart IV-approach-MSD-SUB.ABL-and three-TOP you-GEN1 son-PL me-GEN2 son-GEN2 instead.of I.PL-kill-MSD-AD.ESS me-APUD.VERS I.PL-send-CND.CVB me-LAT IV-want
+Translation: So that we resemble one another and that you approach my heart, I'd love if you could send your three sons to me so I could kill them instead of my son."
+Sentence: Neła ƛˤorłäyn teqno ƛ’irir yayru nesi žaz eniya nesiqor qˤaƛin, iħäzoni łiyä bown kurali mežikin sida ħala bičix yołiƛin.
+Gloss: DEM1.IISG.OBL war-CONT.ABL-TOP hear-PFV.CVB above-LAT II-come-PST.PRT DEM1.ISG.OBL boy-GEN2 mother-ERG DEM1.ISG.OBL-POSS.LAT shout-PST.UNW river-IN.ESS-ATTR.OBL-DEF water-ERG I.PL-bring-PFV.CVB throw-ATTR you.PL-even one.OBL condition-IN.ESS I.PL-remain-IPFV.CVB however-QUOT
+Translation: The moter of that boy heard of their battle and came up and shouted to him: "You two, brought by the river's water and thrown here, be normal!"
+
+Approximate Matches:

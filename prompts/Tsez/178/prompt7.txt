@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: babiw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": babiw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word babiw:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Sidaɣ maqˤir ciqaɣorno yisä yedu yižin, hemedurtow gondun yič’in, ƛ’irigon zozis ƛ’ˤun bodin howlo žan xecin babiw xizor utin nexno.
+Gloss: in.one.place far.away-LAT forest-IN.VERS-TOP DEM2.ISG.OBL-ERG DEM2.IISG II-lead-PFV.CVB so-EMPH big.hole-TOP II-dig-PFV.CVB above-CNTR moss-GEN1 roof-TOP III-do-PFV.CVB there DEM1.SG-TOP leave-PFV.CVB father back return-PFV.CVB come-PST.UNW
+Translation: The father led her to a place far away in the forest, likewise dug a hole and built a roof of moss ontop, left her there and returned.
+Sentence: Hudayziko qˤaħłiqtow babiw kidbabi saparyox boqno.
+Gloss: the.next.day dawn-POSS.ESS-EMPH father daughter-PL journey-AD.ESS I.PL-become-PST.UNW
+Translation: The next day at dawn the father (and) the daughters went on their journey.
+
+Approximate Matches:
+Sentence: Xizyo ža ɣˤʷay kidbeƛ’orno butin, neła esirno, hemełƛ’o däz babiwz ƛ’irizoni ɣˤutka teł suratyoƛ’ yukayruni kid deber yiqa rätiyäƛin.
+Gloss: afterwards DEM1.SG dog girl-SUPER.LAT-TOP III-turn-PFV.CVB DEM1.IISG.OBL-ERG ask-PST.UNW DEM4.IISG.OBL-SUPER.ESS me-GEN2 father-GEN2 above-ATTR.OBL-DEF room-IN.ESS inside picture-SUPER.ESS II-see-PST.PRT-DEF girl you-LAT II-get-INF IV-want-PST.WIT.INT-QUOT
+Translation: Afterwards that dog turned into a girl again and asked: "Then, do you want to ge the girl you saw on the picture inside my father's upper room?"
+Sentence: Neła babiwqor eƛin, howža best’alawni esiw yexura yay, ža č’agun yičin dey dunyalƛ’o netikin taliħ boqa anuƛin.
+Gloss: DEM1.IISG.OBL-ERG father-POSS.LAT say-PST.UNW DEM4.SG step-DEF sister II-kill-INF II-must DEM1.SG alive-TOP II-be-TOP me-GEN1 world-SUPER.ESS when-even happiness III-become-INF be.NEG-QUOT
+Translation: She said to her father: "You must kill this stepsister, when she is alive, I will not get happy again ever in my world."
+Sentence: Xizyo babiwn oqno ža biqiranixƛin.
+Gloss: afterwards father-TOP begin-PST.UNW DEM1.SG III-catch-MSD-AD.ESS-QUOT
+Translation: Then the father began [trying] to catch him.

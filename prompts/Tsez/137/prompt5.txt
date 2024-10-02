@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rok’ƛ’orno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rok’ƛ’orno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rok’ƛ’orno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sis nełarno kurno siskin där ƛexandaƛin, aɣzo rok’ƛ’orno rayn, dicego rok’er zaħmat roqłin, zirur sis xexoy kurno.
+Gloss: one DEM1.IISG.OBL-LAT-TOP throw-PFV.CVB anything me-LAT remain-FUT.DEF-COND-QUOT bird-ATTR.OBL heart-SUPER.LAT-TOP IV-come-PFV.CVB how.much-COND heart-LAT trouble IV-become-CNC.CVB fox-LAT one young.animal throw-PST.UNW
+Translation: "Throwing one down, there will still remain one for me.", thought the bird and although it was difficult, it threw one nestling to the fox.
+Sentence: Bäxuruni tungił xizay yedu ʕiyayxƛin xalq’imozgon rok’ƛ’orno rayƛin.
+Gloss: III-die-PST.PRT-DEF copper.jug-CONT.ESS behind DEM2.IISG cry-PRS-QUOT people-GEN2-CNTR heart-SUPER.LAT-TOP IV-come-QUOT
+Translation: And the people will think that you're crying for the broken jug."
+Sentence: Ža rukayxow, k’et’uz elo aw yołƛin rok’ƛ’orno rayn bet’un bˤeƛez q’ˤimƛ’or k’oƛin.
+Gloss: DEM1.SG IV-see-SEQ cat-GEN2 there mouse be-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB III-jump-PFV.CVB pig-GEN2 head-SUPER.LAT jump-PST.UNW
+Translation: Seeing this, the cat thought there was a mouse and jumped onto the pig's head.
+
+Approximate Matches:
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."
+Sentence: Hemedur q’ʷaridno oqno ičin zawru yeda, babiya nesiqor boyn zawruni wasiyat rok’ƛ’or bayn.
+Gloss: so sadness-TOP become-PFV.CVB be-PFV.CVB be.NPRS-PST.PRT DEM2.ISG father-ERG DEM1.ISG.OBL-POSS.LAT III-do-PFV.CVB be.NPRS-PST.PRT-DEF legacy heart-SUPER.LAT III-come-PST.UNW
+Translation: So, being so sad, he recalled the legacy handed down to him by his father.
+Sentence: Xizyo babiwzno yedu kid rok’ƛ’or yaysƛax.
+Gloss: afterwards father-GEN2-TOP DEM2.IISG daughter heart-SUPER.LAT II-come-PST.WIT-QUOT
+Translation: Afterwards also the father remembered that daughter.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣˤanaza in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣˤanaza: 
+
+Exact Matches
+Sentence: ʕAƛoz ɣˤanaza nediw šebin radinč’iƛin, eƛin xanä.
+Gloss: village-GEN2 woman-ERG such thing IV-do-NEG.FUT-QUOT say-PST.UNW khan-ERG
+Translation: "The village's woman wouldn't do such a thing," said the king.
+Sentence: Mix bik’äsi zamanno boqzaƛ’, yiła ɣˤanaza yeda neła nełdäɣor ƛirbałix ižix.
+Gloss: time III-go-RES.PRT time-TOP III-become-CSL.CVB DEM2.IISG.OBL woman-ERG DEM2.ISG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-APUD.VERS hospitality-AD.ESS lead-PRS
+Translation: Because some time had passed, that woman let him be her guest.
+Sentence: Xizor utin yeda uži raładyoz raʕalłixor aynosi, yoƛixno łäłäzay neła ɣˤanaza esirno, šebi roqä däz esiws užiƛin.
+Gloss: back turn.back-PFV.CVB DEM2.ISG boy sea-GEN2 edge-AD.LAT come-ANT.CVB II-appear-PFV.CVB water-CONT.ABL.DIST DEM1.IISG.OBL woman-ERG ask-PST.UNW what IV-happen-PST.WIT.INT me-GEN2 sister-GEN1 boy-QUOT
+Translation: When the boy went back and came to the edge of the sea, that woman appeared out of the water again and asked: "What happened, my nephew?"
+
+Approximate Matches:
+Sentence: Elaz ik’iƛ’oräy, yisir ɣˤanazas roži teqno, daƛ’ gurħizi oqxosi žek’utow ana t’ozaƛin.
+Gloss: there-IN.ESS.DIST go-SIM.CVB DEM2.ISG.OBL-LAT woman-GEN1 word hear-PST.UNW me-SUPER.ESS pity become-PRS.PRT man-EMPH be.NEG-Q here-ATTR.OBL-IN.ESS-QUOT
+Translation: While he was going there, he heard the words of a woman: "Isn't there a man here who pities me?"
+Sentence: Miƛin, eƛin nesä, k’ot’ono, c’ec’mabi c’uda, ozurabi niga, kodi aluk’a ɣˤanazaƛ’ bužzi aqno, nełqay maqˤixno ičiƛin.
+Gloss: you-QUOT say-PST.UNW DEM1.ISG.OBL-ERG short eyelash-PL red eye-PL green hair white woman-SUPER.ESS trust become-PROHIB DEM1.IISG.OBL-POSS.ABL far.away-AD.ESS-TOP be-QUOT
+Translation: "Don't", he said, "believe in a short woman with her eyelashes red, her eyes green and her hair white, but keep away from her!"
+Sentence: Neł ɣˤanazar uži odin.
+Gloss: DEM1.IISG.OBL woman-LAT son do-PST.UNW
+Translation: A son was born to the woman.

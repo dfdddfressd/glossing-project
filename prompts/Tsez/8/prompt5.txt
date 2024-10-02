@@ -1,0 +1,24 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yoɣxo using Leipzig glossing symbols. The sentence this word is drawn from means: "The guest's boy who invited her for dancing, took it.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yoɣxo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yoɣxo:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nazon yedu, q’ˤidakin yiča yegirinč’ey, łočyaƛ’ yoɣxo zown.
+Gloss: all.OBL-TOP DEM2.IISG down-even II-sit-INF II-let-NEG.PST.CVB dance-SUPER.ESS II-take.away-IPFV.CVB be.NPRS-PST.UNW
+Translation: Everyone, not even letting her sit down, invited her to a dance.
+
+Approximate Matches:

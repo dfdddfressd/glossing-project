@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word risno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word risno: 
+
+Exact Matches
+Sentence: Aždaħägon risno yałzatown erno.
+Gloss: dragon-ERG-CNTR IV-take-PFV.CVB be-LCV.CVB-EMPH-TOP put-PST.UNW
+Translation: But the dragon took it and put it back where it was.
+Sentence: Neła quł sasaqtow moƛaxayn bizin, ixinno risno, q’ˤanon gagalazał xizay ħonƛ’aɣor boqno.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH sleep-AD.ABL-TOP I.PL-get.up-PFV.CVB bag-TOP IV-take-PFV.CVB two-TOP flower-PL-CONT.ESS behind mountain-SUPER.VERS I.PL-become-PST.UNW
+Translation: The next morning, the two of them got up from their sleep, took a back and went to the mountain for flowers.
+Sentence: Aq’ˤu urɣizi oqxo ičinč’ey izin Ražbadinä bˤałayn risno barude kecno äsuruni žek’us gič’orabi rodin kurno.
+Gloss: much thinking become-IPFV.CVB be-NEG.PST.CVB get.up-PFV.CVB Razhbadin-ERG dagger-TOP IV-take-PFV.CVB wife-APUD.ESS sleep-PFV.CVB find-PST.PRT-DEF man-GEN1 piece-PL IV-do-PFV.CVB throw-PST.UNW
+Translation: Without thinking too much, Razhbadin got up, took his dagger and cut the man whom he found sleeping with his wife to pieces.
+
+Approximate Matches:
+Sentence: Amma nesi žoyä xanłi risnoanu.
+Gloss: but DEM1.ISG.OBL boy-ERG khanship IV-take-PFV.CVB-NEG
+Translation: But the boy didn't take up the kingship.
+Sentence: Kidbez eniya nesir ya micxir, ya mesed, ya q’ˤuya riguƛ’ay rigu šebinabi teƛxo zown, hudun užä žedu šebinabi risnoanu.
+Gloss: girl-GEN2 mother-ERG DEM1.ISG.OBL-LAT either money either gold either other IV-good-SUPER.ABL IV-good thing-PL give-IPFV.CVB be.NPRS-PFV.CVB nevertheless boy-ERG DEM1.IIPL thing-PL IV.PL-take-PFV.CVB-NEG
+Translation: The girl's mother was about to give him money or gold or other precious things, but the boy didn't take those things.

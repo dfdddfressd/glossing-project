@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ci.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ci
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ci:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanzo barus naysinan ci rik’inƛax ɣˤʷays k’ucin, k’et’us xexoyn neła ƛuƛin rodinƛin.
+Gloss: khan-GEN2 wife-GEN1 everywhere name IV-go-PST.UNW-QUOT dog-GEN1 puppy-and cat-GEN1 young.animal-and DEM1.IISG.OBL-ERG give.birth-PFV.CVB III.PL-do-PST.UNW-QUOT
+Translation: The king's wife became known everywhere for the fact that she gave birth to a puppy and a kitten.
+Sentence: Nesiƛ’ Alimaħamaƛin ci zown.
+Gloss: DEM1.ISG.OBL-SUPER.ESS Alimagomed-QUOT name be.NPRS-PST.UNW
+Translation: His name was Alimagomed.
+Sentence: Nesän esin, di dunyalƛ’otow ci rik’äsi doxtur yołƛin.
+Gloss: DEM1.ISG.OBL-ERG-TOP tell-PFV.CVB me world-SUPER.ESS-EMPH name IV-go-RES.PRT doctor be-QUOT
+Translation: He said, " I am a doctor known in the world."
+
+Approximate Matches:

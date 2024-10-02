@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kesun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kesun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kesun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howži hudu xanä nesiqor eƛin, nedur resunäy, hi, enda micxir beč’xosi kesun biso, iłira becider mi nełdär ezäɣor izinč’inäy, debi di meč’ beč’a yołƛin.
+Gloss: now then khan-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW so IV-find-CND.CVB take.IMP DEM3b.SG money III-cut-IPFV.CVB-ATTR form-TOP III-take-IMPR six.OBL month-APUD.LAT you DEM1.IISG.OBL-APUD.VERS fortress-IN.VERS get.up-NEG.FUT.CVB-CND.CVB you-GEN1 me neck III-cut-INF be-QUOT
+Translation: Then the king said to him: "If that's the case, here, take the coining form, and if you haven't gotten up the fortress to her within six months, I will cut off your neck."
+
+Approximate Matches:
+Sentence: Digon ayäsi elo žeduz bertenyołer nesi ʕAliqiličä där łeno ukru neƛsi yedu kesubi caxxosi oqzaƛ’.
+Gloss: me-CNTR come-RES.PRT there DEM1.IPL.OBL-GEN2 marriage-CONT.LAT DEM1.ISG.OBL Aliqilich-ERG me-LAT five silver give-PST.WIT DEM2.IISG tale-PL write-PRS.PRT become-CSL.CVB
+Translation: And I came to their marriage as well, and Aliqilich gave me 5 silver (coins), because I am writing down those tales.
+Sentence: Ža eženi ečuy Ħasan žaqˤułno ʕaƛox yołƛax ʕUmares xexbin šet’u butirno žeduq kesubi esix.
+Gloss: DEM1.SG old-DEF grandfather Hassan today-TOP village-AD.ESS be-QUOT Umar-GEN1 children-TOP around I.PL-gather-PFV.CVB DEM1.IPL.OBL-POSS.ESS tale-PL tell-PRS
+Translation: They say that the old grandfather Hassan is still living in the the village and, surrounded by Umar's children, tells them tales.
+Sentence: Nełƛ’aza rayn kesubi esa adäza, eli bezu-bˤoƛ’a bay yołä t’oza xalq’i anaƛin.
+Gloss: DEM1.IISG.OBL-SUPER.VERS.DIST III.PL-come-PFV.CVB secret-PL find-INF before we III-visit-INF I.PL-must be-Q here-ZA people be.NEG-Q-QUOT
+Translation: Because of that [...?], we must look if there are people here.

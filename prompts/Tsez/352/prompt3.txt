@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yik’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yik’in: 
+
+Exact Matches
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.
+Sentence: Tabanaw hunäsi hunä yik’in yedu sidaɣ ɣˤutkoxor yaynosi, tełxor yoqno.
+Gloss: long way-IN.ESS-ATTR way-IN.ESS II-go-PFV.CVB DEM2.IISG in.one.place house-AD.LAT II-come-ANT.CVB inside-AD.LAT II-become-PST.UNW
+Translation: When she came to a house somewhere on the long way she was going on, she went inside.
+
+Approximate Matches:
+Sentence: ƛˤeb yik’inosi, sida quł dawlaƛ’ zey maħor boqäsi yałzay, kid nełdayn yoxin ʕaƛaɣor yik’in.
+Gloss: year II-go-ANT.CVB one.OBL day-CONT.ESS prey-SUPER.ESS bear outside III-become-RES.PRT be-SIM.CVB girl DEM1.IISG.OBL-APUD.ABL-TOP II-run.away-PFV.CVB village-IN.VERS II-go-PST.UNW
+Translation: A year went by, and one day while the bear went outside for prey, the girl ran away from him and went into a village.
+Sentence: Däz beženi ɣˤʷačulis madaxortow ɣˤʷačni teqzaƛ’ tełxorkin yik’inč’uƛin.
+Gloss: me-GEN2 III-old-DEF he.goat-GEN1 door-AD.LAT-EMPH chewing hear-CSL.CVB inside-AD.LAT-even II-go-NEG.PST.WIT-QUOT
+Translation: Because I heard the chewing of my old goat at the door, I didn't go inside.
+Sentence: ƛˤeb yik’inosigon, užił xizay xan ayn.
+Gloss: year II-go-ANT.CVB-CNTR son-CONT.ESS behind khan come-PFV.CVB
+Translation: One year later the khan came to pick up his son.

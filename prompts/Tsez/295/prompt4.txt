@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reč’xo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reč’xo: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Didur ža reč’xosi där riyxanu, sosi mitow reč’oƛin, eƛin Ħusenä nesiqor.
+Gloss: how DEM1.SG IV-cut-PRS.PRT me-LAT IV-know-IPFV.CVB-NEG at.first you-EMPH IV-cut-IMPR-QUOT say-PST.UNW Hussein-ERG DEM1.ISG.OBL-POSS.LAT
+Translation: "I don't know how to chop it down, you chop first!", said Hussein to him.

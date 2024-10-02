@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bixis in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bixis: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ħonƛ’orno izin, regirno bixiłer ɣuron muši begiranix yeda q’ˤida ičinosi, nazay eƛa biynč’ey sis aɣi boƛixno yisiqor insanzo mecreƛ’no xabaryayn eƛin:
+Gloss: mountain-SUPER.LAT-TOP get.up-PFV.CVB IV-send-PFV.CVB grass-CONT.LAT cows-TOP breath III-let-MSD-AD.ESS DEM2.ISG down sit-ANT.CVB from.where say-INF III-know-NEG.PST.CVB one bird III-appear-PFV.CVB DEM2.ISG.OBL-POSS.LAT human-ATTR.OBL language-SUPER.ESS-TOP talk-PFV.CVB say-PST.UNW
+Translation: He climbed up the mountain and sent the cows onto the grass, and when he sat down to take a breath, a bird appeared out of nowhere and told him in human language:
+Sentence: Elo k’edanayx ɣˤʷay yałzay, sidaɣaza got’eł gondun yoɣno, ziru bixiq c’i atagon reʕizi boqno.
+Gloss: there search-IPFV.CVB dog be-SIM.CVB in.one.place-IN.VERS.DIST haystack-CONT.ESS big.hole-TOP II-take.away-PFV.CVB fox hay-POSS.ESS fire light-INF-CNTR have.no.time III-become-PST.UNW
+Translation: While the dog was being searching there, the fox made a hole in some place in the haystack and hurried to set fire to the hay.
+Sentence: Ža bix yałza mečoƛ’or aynosi, rexorani bixiz ɣˤuč’ä eƛix teqno, yisi žek’us ʕantłi rukayxana mežur, barus ʕadlun boqinč’ey, nesä nesił xizaz rexʷadanix ħonƛ’ay bˤeƛ’no rown nexxoƛin.
+Gloss: DEM1.SG grass be-LCV.CVB place-SUPER.LAT come-ANT.CVB IV-long-DEF grass-GEN2 stick-ERG say-IPFV.CVB hear-PST.UNW DEM2.ISG.OBL man-GEN1 stupidity IV-see-IPFV.CVB-NEG-Q you(I).PL.OBL-LAT wife-GEN1 order-TOP III-become-NEG.PST.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-CONT.ESS behind III.PL-slaughter-MSD-AD.ESS mountain-SUPER.ABL sheep-TOP III.PL-bring-PFV.CVB come-PRS-QUOT
+Translation: When he came to the place where the grass was, he heard the longest blade of grass say: "Don't you see the ... of this man? He can't control his wife, but brings sheep down from the mountain to slaughter them after himself."

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iziƛ’oräy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iziƛ’oräy: 
+
+Exact Matches
+Sentence: Ža soder iziƛ’oräy, qoqoƛix izix zown, wˤałer oqƛ’oräy ʕiyayx oqxo zown.
+Gloss: DEM1.SG after get.up-SIM.CVB laugh-IPFV.CVB get.up-IPFV.CVB be.NPRS-PFV.CVB downward-LAT become-SIM.CVB cry-IPFV.CVB become-IPFV.CVB be.NPRS-PST.UNW
+Translation: While he was going up, he laughed, and while he was going down, he cryed.
+
+Approximate Matches:
+Sentence: Q’ʷaridno boqno ɣʷˤadä eƛin, wallahi, šomon ħon xecin bik’is di, hudun šebintow riqinč’ey nexƛ’oräy, sidaɣ simildis muhu besun howdagon boqłin bižanƛin bowƛ’oräy, adäzar osiw ħonno keze yoqno soder biziƛ’oräy biynč’ey bigin bok’ełsi.
+Gloss: sadness-TOP III-become-PFV.CVB crow-ERG say-PST.UNW by.God how.many-TOP mountain leave-PFV.CVB III-go-PST.WIT me nevertheless thing-EMPH IV-get-NEG.PST.CVB come-SIM.CVB in.one.place maize-GEN1 granule III-find-PFV.CVB DEM3.SG-CNTR III-become-CNC.CVB III-take.out-FUT.DEF-QUOT III-bring-SIM.CVB ahead-IN.LAT high mountain-TOP meet II-become-PFV.CVB upward III-get.up-SIM.CVB III-know-NEG.PST.CVB III-swallow-PFV.CVB III-lose-PST.WIT
+Translation: The crow became sad and said: "By God, I passed so many mountains; nevertheless while I didn't get anything, I found a grain of maize somewhere and [thinking:] "I will take it anyway!", so while I carried it here anyway, I encountered a high mountain, and while flying higher, I accidentally swallowed and [thus] lost it.

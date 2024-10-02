@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: esiwł.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": esiwł
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word esiwł:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemedur guluƛ’no zown xanes uži maħor oqno yok’ek’alini esiwł xizay.
+Gloss: so horse-SUPER.ESS-TOP ride-PFV.CVB khan-GEN1 son outside become-PST.UNW II-steal-ATTR-DEF sister-CONT.ESS behind
+Translation: So the prince rode on his horse outside behind his stolen sister.
+Sentence: Yoqzaƛ’ yeženi esiwł xizaytow min yik’iƛin, xanä yoƛƛosin esiw maħor yoxirno.
+Gloss: II-happen-CSL.CVB II-old-DEF sister-CONT.ESS behind-EMPH you-and II-go-QUOT khan-ERG II-middle-ATTR-and sister outside II-chase-PST.UNW
+Translation: "Because this happened, go after your older sister!", and the king also chased the middle sister away.
+
+Approximate Matches:
+Sentence: Haraƛ’ badirun, ɣˤanabin yoƛixno hemedurtow šebi retinƛin esirno eɣeni esiwq.
+Gloss: voice III-do-IMM.ANT.CVB woman-TOP II-appear-PFV.CVB so-EMPH what IV-want-PST.UNW-QUOT ask-PST.UNW young-DEF brother-POSS.ESS
+Translation: After he shouted, the woman appeared and again she asked the younger brother: "What do you want?"
+Sentence: Yisis q’ˤano dandi ʕagaraw žek’u zown ƛexasi, babiws esiwn, nesis kid yisis yacʕalno.
+Gloss: DEM2.ISG.OBL-GEN1 two only related man be.NPRS-PFV.CVB remain-RES.PRT father-GEN1 brother-and DEM1.ISG.OBL-GEN1 daughter DEM2.ISG.OBL-GEN1 female.cousin-and
+Translation: He had only two relatives remaining, the father's brother and his daughter, his cousin.
+Sentence: Elo yisir imyoq bicäsi q’ˤim anusi esiws žanaza bukayn.
+Gloss: there DEM2.ISG.OBL-LAT pole-POSS.ESS III-tie-RES.PRT head be.NEG-ATTR brother-GEN1 corpse III-see-PST.UNW
+Translation: There he saw the headless corpse of his brother tied to a pole.

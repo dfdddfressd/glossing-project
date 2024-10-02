@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’ut’imoƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’ut’imoƛ: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Eli beɣusƛin, tełxorkin boqinč’ey, badiru q’ut’imoxor, łˤonon q’urec’nin, žedaƛ’ ƛ’iri yałru q’ayn howlotow xecin, bazarganbin xizor bik’in.
+Gloss: we I.PL-be.defeated-PST.WIT-QUOT inside-AD.LAT-even I.PL-become-NEG.PST.CVB III-fulfilled agreement-AD.LAT three-TOP mule-and DEM1.IIPL.OBL-SUPER.ESS on be-PST.PRT article-and there-EMPH leave-PFV.CVB merchant-PL-TOP back I.PL-go-PST.UNW
+Translation: "We have lost!"; without even going inside they left the three mules and the wares on them there, to fulfill the agreement, and went back.
+Sentence: Yeda nełaƛ’ razi oqinč’izaƛ’, baqru q’ut’imoxor ƛ’irigon yisir gulun, tupingon teƛno.
+Gloss: DEM2.ISG DEM1.IISG.OBL-SUPER.ESS accept become-NEG.FUT-CSL.CVB III-become-PST.PRT agreement-AD.LAT above-CNTR DEM2.ISG.OBL-LAT horse-and rifle-and-CNTR give-PST.UNW
+Translation: Because he didn't accept her and according to the agreement that had been made, they gave him a horse and a gun.
+Sentence: Xediyan di neła bayru q’ut’imoxor izmun neƛno nesi žadaɣor yegirsiƛin.
+Gloss: husband-ERG-TOP me DEM1.IISG.OBL-ERG III-do-PST.PRT agreement-AD.LAT permission-TOP give-PFV.CVB DEM1.ISG.OBL boy-APUD.VERS II-let-PST.WIT-QUOT
+Translation: And my husband let me go to this boy and also gave her the permission to have a (marriage) contract.

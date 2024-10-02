@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bišadyoqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bišadyoqor: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Łi rowa ik’iƛin babiwqorno eƛin, Ismaʕilä bišadyoƛ’ ƛ’iri ʕArabuzanä teƛno zawruni bašiqˤoy łox šet’u rutirno.
+Gloss: water IV-bring-INF go-QUOT father-POSS.LAT-TOP say-PFV.CVB Ismail-ERG food-SUPER.ESS above Arabuzan-ERG give-PFV.CVB be.NPRS-PST.PRT-DEF ring thrice around IV-turn-PST.UNW
+Translation: "Go and bring some water!", Ismail said to his father and turned the ring that Arabuzan had given to him over the food three times.
+Sentence: Howžin hemedurtow bišadyos niʕmatyabi ašiłno nełaƛ’ ƛ’iri.
+Gloss: now-TOP so-EMPH food-GEN1 bliss-PL grow-PST.UNW DEM1.IISG.OBL-SUPER.ESS on
+Translation: And again now delicacies grew on it.
+Sentence: Bišno boqnosi, esnabin maħor begirno, eɣeni esiya igorno ik’in Kusaq esirno, sasaqay soder q’ˤimno riqirno, bišadyoƛ’orno aq’ˤułnowa mi ičäsi, šebi deber q’ʷariłi boqäsiƛin.
+Gloss: I.PL-eat-TOP I.PL-begin-ANT.CVB brother-PL-TOP outside I.PL-send-PFV.CVB young-DEF brother-ERG near-LAT-TOP go-PFV.CVB Kusa-POSS.ESS ask-PST.UNW in.the.morning-IN.ABL after head-TOP IV-stop-PFV.CVB food-SUPER.LAT-TOP sit-PFV.CVB-Q you be-RES.PRT what you-LAT sadness III-happen-RES.PRT-QUOT
+Translation: After having eaten, the young brother sent his brothers outside, approached Kusa and asked him: "What sadness has happened to you so that you are sitting there over your food holding your head."

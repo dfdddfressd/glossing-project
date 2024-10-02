@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rok’ƛ’orno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rok’ƛ’orno: 
+
+Exact Matches
+Sentence: Sis nełarno kurno siskin där ƛexandaƛin, aɣzo rok’ƛ’orno rayn, dicego rok’er zaħmat roqłin, zirur sis xexoy kurno.
+Gloss: one DEM1.IISG.OBL-LAT-TOP throw-PFV.CVB anything me-LAT remain-FUT.DEF-COND-QUOT bird-ATTR.OBL heart-SUPER.LAT-TOP IV-come-PFV.CVB how.much-COND heart-LAT trouble IV-become-CNC.CVB fox-LAT one young.animal throw-PST.UNW
+Translation: "Throwing one down, there will still remain one for me.", thought the bird and although it was difficult, it threw one nestling to the fox.
+Sentence: Bäxuruni tungił xizay yedu ʕiyayxƛin xalq’imozgon rok’ƛ’orno rayƛin.
+Gloss: III-die-PST.PRT-DEF copper.jug-CONT.ESS behind DEM2.IISG cry-PRS-QUOT people-GEN2-CNTR heart-SUPER.LAT-TOP IV-come-QUOT
+Translation: And the people will think that you're crying for the broken jug."
+Sentence: Ža rukayxow, k’et’uz elo aw yołƛin rok’ƛ’orno rayn bet’un bˤeƛez q’ˤimƛ’or k’oƛin.
+Gloss: DEM1.SG IV-see-SEQ cat-GEN2 there mouse be-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB III-jump-PFV.CVB pig-GEN2 head-SUPER.LAT jump-PST.UNW
+Translation: Seeing this, the cat thought there was a mouse and jumped onto the pig's head.
+
+Approximate Matches:
+Sentence: Mi näƛru ʕaq’ˤlun rok’ƛ’or bayn, bikorin xʷasar bodin nexƛ’oräy, däłtow xizayn bayn neła esirsi, nazosnotow tušman šida mi bexura begirno xecinč’uƛin.
+Gloss: you give-PST.PRT advice-TOP heart-SUPER.LAT III-come-PFV.CVB snake-TOP rescue III-do-PFV.CVB come-SIM.CVB me-CONT.ESS-EMPH behind-TOP III-come-PFV.CVB DEM1.IISG.OBL-ERG ask-PST.WIT everyone.OBL-GEN1-TOP-EMPH enemy why you III-kill-INF III-let-PFV.CVB leave-NEG.PST.WIT-QUOT
+Translation: "I remembered the advice you gave me and rescued the snake, and when I came back, it came behind me and asked: 'Why didn't you let them kill the enemy of everyone?'"
+Sentence: Xizyo babiya žaqor eƛin, ele uži, di eƛix zownč’a dowqor ža bercinawni aɣi bexarno mi, šomoraxno žuk roqa yoł deber, howži rok’ƛ’or ayxa di.
+Gloss: afterwards father-ERG son-POSS.LAT say-PST.UNW there son me say-IPFV.CVB be.NPRS-NEG.PST.WIT-PST.WIT.INT you-POSS.LAT DEM1.SG beautiful-DEF bird III-kill-PROHIB you how.often-TOP worse IV-become-INF be you-LAT now heart-SUPER.LAT come-PRS-Q me
+Translation: Afterwards the father said to his son, "There, son, didn't I say to you not to kill that beautiful bird, or bad things would happen to you ever so often, have you understood this now?
+Sentence: C’iɣruk’es xizyogon aždaħtow bok’ek’anixƛin rok’ƛ’or pikru bayn.
+Gloss: Tsighruk-GEN1 again dragon-EMPH III-steal.from-MSD-AD.ESS-QUOT heart-SUPER.LAT idea III-come-PST.UNW
+Translation: Tsighruk thought of stealing from the dragon again.

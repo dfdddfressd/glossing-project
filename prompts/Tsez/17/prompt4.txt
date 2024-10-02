@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’araw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’araw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’araw:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Kidbä eƛin, nesis xabar bit’araw yołƛin.
+Gloss: daughter-ERG say-PST.UNW DEM1.ISG.OBL-GEN1 story true be-QUOT
+Translation: The daughter said: "What he said, is true."
+Sentence: Neł mixƛ’o dibirä eƛin, žeda debeq c’aq’tow bit’araw esin.
+Gloss: DEM1.IISG.OBL at.a.time imam-ERG say-PST.UNW DEM1.IPL.OBL-ERG you-POSS.ESS much-EMPH true tell-PST.UNW
+Translation: Thereupon the imam said: "They told you the very truth!"
+Sentence: Sisgon ʕaq’lu mołoƛin ƛ’iri uži utinosi, hunix ik’izaƛ’ deberno ħažat yaq ža xizor ƛäxuruni sisini ɣˤurušƛin, endurtow esin eženi žek’a ʕaq’lu, boƛ’araw royxozo łinałno cim xizor biq’ˤir, sabru ader adek’ƛin.
+Gloss: one-CNTR advice teach-IMPR-QUOT above boy turn.back-ANT.CVB way-AD.ESS go-CSL.CVB you-LAT-TOP necessary II-become DEM1.SG back remain-PST.PRT-DEF other-DEF ruble-QUOT that.way-EMPH tell-PFV.CVB old-DEF man-ERG advice any IV-do-PRS.PRT.OBL what.OBL-CONT.ESS-TOP malice back III-move.aside patience forward push.forward-QUOT
+Translation: When the boy insisted: "Give me another advice!", the old man said the advice that way: "When you go on your way, the remaining ruble will become necessary for you. Anything evil that might be done should be moved aside, and patience should be pushed forward."

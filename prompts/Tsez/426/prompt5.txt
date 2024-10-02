@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word čorpa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word čorpa: 
+
+Exact Matches
+Sentence: Yiłƛ’ay rigu čorpa netikin riqäsi zownč’uƛin, neła quł neširu eniyan užän rigut’a ax rodin.
+Gloss: DEM2.IISG.OBL-SUPER.ABL IV-good soup when-even IV-get-RES.PRT be.NPRS-NEG.PST.WIT-QUOT DEM1.IISG.OBL-IN.ESS day-CONT.ESS evening mother-ERG-TOP son-ERG-and IV-good-DISTR belly IV-do-PFV.CVB
+Translation: They have never had a such delicious soup before, so that evening the mother and the son ate good.
+
+Approximate Matches:

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ciqaɣor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ciqaɣor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ciqaɣor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nedur resunäy, hi enda dowqor sis dey musno, debeƛ’ ɣudi rayza quł yedu mi bik’urƛin nesiqorno eƛin, zeyä ciqaɣor zebu yoɣno.
+Gloss: so IV-exist-CND.CVB take.IMP DEM3b.SG you-POSS.LAT one me-GEN1 hair-TOP you-SUPER.ESS day IV-come-LCV.CVB day-CONT.ESS DEM2.IISG you III-burn-CAUS-QUOT DEM1.ISG.OBL-POSS.LAT-TOP say-PFV.CVB bear-ERG forest-IN.VERS running II-take.away-PST.UNW
+Translation: "In that case, take this hair of me and when you're in big trouble one day, burn it!" it said to him and ran off to the forest.
+Sentence: Howžiƛa rˤałay roda zaman bayxƛin Alimaħama ciqaɣor ik’in, isʷaqor reƛ’u rodanix c’araʕyor qaca rowanixƛin.
+Gloss: now-INDEF threshing.floor IV-do-INF time III-come-PRS-QUOT Alimagomed-ERG forest-IN.VERS go-PST.UNW bull-PL-POSS.LAT yoke IV-do-MSD-AD.ESS building.material-LAT firewood IV-bring-MSD-AD.ESS-QUOT
+Translation: "Now it's time to do the threshing.", Alimagomed thought and went into the forest to bring wood for building the yoke for the bulls.
+Sentence: Mamalay ɣudes ciqaɣor qaciƛ’or bik’ix zown, onoču iduza beynoyx, iduzasi royx bičix zown.
+Gloss: rooster daily forest-IN.VERS firewood-SUPER.LAT III-go-IPFV.CVB be.NPRS-PFV.CVB hen home-ZA III-work-IPFV.CVB home-ZA-ATTR IV-do-PRS III-be-PRS be.NPRS-PST.UNW
+Translation: Every day the rooster went into the forest for firewood, and the hen was at home doing the housework.
+
+Approximate Matches:
+Sentence: Ža ɣudes ciqaɣort’a ik’ix Allahqo harizi oqxo zown: däłäy žek’ułersi žek’u odoƛin.
+Gloss: DEM1.SG daily forest-IN.VERS-DISTR go-IPFV.CVB God-POSS.ESS request become-IPFV.CVB be.NPRS-PST.UNW me-CONT.ABL man-CONT.LAT-ATTR man do-IMPR-QUOT
+Translation: Every day, he went into the forest and asked God: Make me a respectable man.
+Sentence: Kurno užä c’eruc’as hil, ciqaɣorno rezun durimoƛ’ boc’an rik’in, zirun žedaqay xʷasar boqno.
+Gloss: shoot.from-PFV.CVB boy-ERG bow-GEN1 arrow forest-IN.VERS-TOP III.PL-look-PFV.CVB running wolf.PL-TOP III.PL-go-PFV.CVB fox-TOP DEM1.IIPL.OBL-POSS.ABL rescue III-become-PST.UNW
+Translation: The boy shot the arrow from his bow, the wolves ran towards the forest and the fox got rescued from them.
+Sentence: Nukarza Ismaʕil ciqaɣorno ižin, exuran k’ʷeze roqinč’ey, ozurabin roɣno yizä ža howlotow ɣunoqor icin xecin.
+Gloss: henchman-PL-ERG Ismail forest-IN.VERS-TOP carry-PFV.CVB kill-INF-TOP can IV-become-NEG.PST.CVB eye-PL-TOP IV.PL-take.away-PFV.CVB DEM2.IPL.OBL-ERG DEM1.SG there-EMPH tree-POSS.LAT tie-PFV.CVB leave-PST.UNW
+Translation: The henchmen carried Ismail into the forest, but couldn't kill him; so they pricked out his eyes, bound him to a tree and left him there.

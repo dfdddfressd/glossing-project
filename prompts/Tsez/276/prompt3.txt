@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yisiqay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yisiqay: 
+
+Exact Matches
+Sentence: Hoq’ˤonägon eƛin, di yisiqay kapekkin yisäsi anuƛin.
+Gloss: other-DEF-ERG-CNTR say-PST.UNW me DEM2.ISG.OBL-POSS.ABL kopeck-even II-take-RES.PRT be.NEG-QUOT
+Translation: The other one said: "I didn't even take one kopeck from him."
+
+Approximate Matches:
+Sentence: Łox äƛiru ik’inosin, neła yisiqor xabarkin boyn anu.
+Gloss: thrice ORD go-ANT.CVB-TOP DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT story-even III-do-PFV.CVB be.NEG
+Translation: Also the third time when he went, he did not say anything to him.
+Sentence: Sida quł xexzade k’ešonayƛ’oräy, sida xexzas yisiq žirbabi recun.
+Gloss: one.OBL day-CONT.ESS children-APUD.ESS play-SIM.CVB one.OBL child-GEN1 DEM2.ISG.OBL-POSS.ESS rib-PL IV.PL-break-PST.UNW
+Translation: One day, while playing with other children, one child broke its ribs.
+Sentence: Boržizi boqno bik’a adäza ceyä yisiqor neła nełałäy boɣno sis ħulin teƛno eƛin, dowƛ’or ħal baynosi, yedu mi bik’urnäy, yiła deber kumak badiƛin.
+Gloss: fly III-become-PFV.CVB III-go-INF before eagle-ERG DEM2.ISG.OBL-POSS.LAT DEM1.IISG.OBL-ERG DEM1.IISG.OBL-CONT.ABL III-take.away-PFV.CVB one feather-TOP give-PFV.CVB say-PST.UNW you-SUPER.LAT trouble III-come-ANT.CVB DEM2.IISG you III-burn-CAUS-CND.CVB DEM2.IISG.OBL-ERG you-LAT help III-do-QUOT
+Translation: Before the eagle flew away, it plucked a feather from itself, gave it to him and said: "When trouble comes upon you, if you burn it, it will help you."

@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šibaw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šibaw: 
+
+Exact Matches
+Sentence: Exa adäza babiya užizaqor wasi bodin, were, dey xexbi, di exunosi, šibaw ruzman ɣudƛ’o däz šudaƛ’orno nexno meža q’ulhut’a t’et’roƛin.
+Gloss: die-INF before dad-ERG son-PL-POSS.LAT testament III-do-PST.UNW well me-GEN1 children me die-ANT.CVB every Friday day-SUPER.ESS me-GEN2 graveyard-SUPER.LAT-TOP come-PFV.CVB you(I).PL.OBL-ERG funeral.prayer-DISTR read-IMPR-QUOT
+Translation: Before he died, the father did his testament: "Well, my children, after I have died, come to my grave every Friday and read a funeral prayer each time."
+Sentence: Eɣeni esiw yołi, šibaw ruzman ɣudƛ’ot’a babiwz šudaƛ’or ik’ix zown.
+Gloss: young-DEF brother however every Friday day-SUPER.ESS-DISTR father-GEN2 graveyard-SUPER.LAT go-IPFV.CVB be.NPRS-PST.UNW
+Translation: The younger brother, however, went to his fathers grave every Friday.
+Sentence: Allahä bižaraw šibaw ɣudeł yiła oč’inot’a mučari rac’xo zown.
+Gloss: God-ERG ?? every day-CONT.ESS DEM2.IISG.OBL-ERG nine-DISTR cumin IV-eat-IPFV.CVB be.NPRS-PST.UNW
+Translation: Every day she ate nine cumin cakes.
+
+Approximate Matches:
+Sentence: Adäz riłetow muhumabin teƛno egirno šibawz akä eqroƛin.
+Gloss: before IV-as-EMPH granule-PL-TOP give-PFV.CVB send-PST.UNW every-GEN2 window-IN.ESS put-IMPR-QUOT
+Translation: As before, she gave him grains and sent him away[, saying]: "Put those in every window!"
+Sentence: Neširuzoƛ’ ʕaƛa šibawz ɣˤutkoz akä neł ɣˤanaza näƛru muhumabin eqerno, eɣeni esiw iduɣor ik’in.
+Gloss: evening-ATTR.OBL-SUPER.ESS village-IN.ESS every-GEN2 house-GEN2 window-IN.ESS DEM1.IISG.OBL woman-ERG give-PST.PRT granule-PL-TOP put-PST.UNW young-DEF brother home-IN.ALL go-PST.UNW
+Translation: In the evening the younger brother put the grains that woman had given to him into the windows of each house and went home.

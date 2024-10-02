@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word begira in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word begira: 
+
+Exact Matches
+Sentence: Dandir aždaħ c’oxnosi, Ħuseneł biłetow yiła yisiłno q’ut’i boyx, łox ɣˤul caƛin sosikin nełaz c’oxnäy, yisä ža boƛƛi begira bayx, sosikin c’oxinč’inäy, aždaħä ža igix.
+Gloss: towards dragon meet-ANT.CVB Hussein-CONT.ESS III-as-EMPH DEM2.IISG.OBL-ERG DEM2.ISG.OBL-CONT.ESS-TOP agreement III-do-IPFV.CVB thrice stone throw-PFV.CVB once-even DEM1.IISG.OBL-GEN2 hit-CND.CVB DEM2.ISG.OBL-ERG DEM1.SG III-middle III-break.apart-CAUS-INF III-must-IPFV.CVB once-even hit-NEG.FUT.CVB-CND.CVB dragon-ERG DEM1.SG swallow-PRS
+Translation: When he came to the dragon, he was making the same agreement as with Hussein with him, that if he throws a stone three times and hits him at least once, he must break him apart in the middle, if he doesn't hit him at least once, the dragon would be swallowing him.
+Sentence: Elor bayrun, muši begira Ħasan q’ˤida ičiƛ’oräy ox̌-x̌o-x̌oyƛin eƛin.
+Gloss: there-LAT I.PL-come-IMM.ANT.CVB breath I.PL-be.emitted-CAUS-INF Hassan down sit-SIM.CVB oh~ho~hoy-QUOT say-PST.UNW
+Translation: As soon as they arrived there, while Hassan sat down to take a breath, he said: "Oh-ho-hoy!"
+
+Approximate Matches:
+Sentence: Buqbetaxor yizi sida iħuz lilyoxor baynosi, muši begiranix bazarganbin, yedan q’ˤida bičin.
+Gloss: sunset-AD.LAT DEM2.IPL one.OBL river-GEN2 river.bank-AD.LAT I.PL-come-ANT.CVB breath III-let-MSD-AD.ESS merchant-PL-and DEM2.ISG-and down I.PL-sit-PST.UNW
+Translation: Toward sunset, when they came to a river bank, the merchants and he sat down to take a break.
+Sentence: Neła quł sasaqtow, qaħłi begiracekin bičinč’ey ixinabin rižin q’ˤanon esnabi č’ʷadmay micxir bowa bik’in.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH dawn III-let-TERM-even III-be-NEG.PST.UNW bag-PL-TOP IV-carry-PFV.CVB two-TOP brother-PL ruin-IN.ABL money III-get-INF I.PL-go-PST.UNW
+Translation: The next morning even before dawn, carrying a bag, the two brothers went to get the money out of the ruin.
+Sentence: Ħonƛ’orno izin, regirno bixiłer ɣuron muši begiranix yeda q’ˤida ičinosi, nazay eƛa biynč’ey sis aɣi boƛixno yisiqor insanzo mecreƛ’no xabaryayn eƛin:
+Gloss: mountain-SUPER.LAT-TOP get.up-PFV.CVB IV-send-PFV.CVB grass-CONT.LAT cows-TOP breath III-let-MSD-AD.ESS DEM2.ISG down sit-ANT.CVB from.where say-INF III-know-NEG.PST.CVB one bird III-appear-PFV.CVB DEM2.ISG.OBL-POSS.LAT human-ATTR.OBL language-SUPER.ESS-TOP talk-PFV.CVB say-PST.UNW
+Translation: He climbed up the mountain and sent the cows onto the grass, and when he sat down to take a breath, a bird appeared out of nowhere and told him in human language:

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ik’in.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ik’in
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ik’in:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.
+Gloss: one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW
+Translation: One day Bear Ear went to the spring the dragon was covering to get water.
+Sentence: Ik’in, ik’in babiwƛ’or kaɣat yegirno zawruni ečruni žek’uder ayn.
+Gloss: go-PFV.CVB go-PFV.CVB father-SUPER.LAT letter II-send-PFV.CVB be.NPRS-PST.PRT-DEF old-DEF man-APUD.LAT come-PST.UNW
+Translation: He went and went and came to the old man who had sent the letter to his father.
+Sentence: Howži ža ɣamasno hokomƛ’o erno, eɣeni esiw xanes kid yałruni qalamxaɣor ik’in.
+Gloss: now DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB young-DEF brother khan-GEN1 daughter be-PST.PRT-DEF fortress-AD.VERS go-PST.UNW
+Translation: Now they put the box onto a carriage and the young brother went to the fortress where the king's daughter was.
+
+Approximate Matches:
+Sentence: Xizyo cey maħorno boqno neła nełaz gugyoƛ’ ƛ’iri užin zowrno, boržizin boqno iħubin, ħonbin xecin bik’in raładyoƛ’ ƛ’irir bayn.
+Gloss: afterwards eagle outside-TOP I.PL-become-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 back-SUPER.ESS on boy-TOP seat-PFV.CVB flight-TOP III-become-PFV.CVB river-PL-and mountain-PL-and leave-PFV.CVB III-go-PFV.CVB sea-SUPER.ESS on-LAT III-come-PST.UNW
+Translation: Afterwards, the eagle went outside, seated the boy on its own back, flew away past rivers and mountains and came to the sea.
+Sentence: Howži min barun ʕaƛaɣor bik’in.
+Gloss: now you-and wife-and village-IN.VERS I.PL-go-PST.UNW
+Translation: You and your wife go into the village now.
+Sentence: Sida ɣudi bik’in, q’ˤuna ɣudi bik’in łˤora äƛiza ɣudiƛ’o yizirabi sidaɣ qunyoxor bayn.
+Gloss: one.OBL day I.PL-go-PFV.CVB two.OBL day I.PL-go-PFV.CVB three.OBL say-LCV day-SUPER.ESS DEM2.IIPL in.one.place farmstead-AD.LAT III-come-PST.UNW
+Translation: They went one day, they went two days, and on the third day they came to a farmstead somewhere.

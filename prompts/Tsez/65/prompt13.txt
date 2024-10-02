@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yik’in.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yik’in
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yik’in:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.
+Sentence: Tabanaw hunäsi hunä yik’in yedu sidaɣ ɣˤutkoxor yaynosi, tełxor yoqno.
+Gloss: long way-IN.ESS-ATTR way-IN.ESS II-go-PFV.CVB DEM2.IISG in.one.place house-AD.LAT II-come-ANT.CVB inside-AD.LAT II-become-PST.UNW
+Translation: When she came to a house somewhere on the long way she was going on, she went inside.
+
+Approximate Matches:
+Sentence: ƛˤeb yik’inosigon, užił xizay xan ayn.
+Gloss: year II-go-ANT.CVB-CNTR son-CONT.ESS behind khan come-PFV.CVB
+Translation: One year later the khan came to pick up his son.
+Sentence: Yeženi kidbä, din yegir yiłde sadaq hunin regirnoƛin, eniwq esirnosi, yegirzaƛ’ šida yik’inč’uƛin bixzin yoqno eƛin.
+Gloss: II-old-DEF daughter-ERG me-TOP II-let DEM2.IISG.OBL-APUD.ESS together way-TOP IV-send-PFV.CVB-QUOT mother-POSS.ESS ask-ANT.CVB II-let-CSL.CVB why II-go-NEG.PST.WIT-QUOT angry-TOP II-become-PFV.CVB say-PST.UNW
+Translation: When the eldest daughter asked her mother: "Let me go with her together so I can see her off!", and the mother angrily said: "Why didn't you go when I let you?"
+Sentence: Yisi užä yedu kid idurno yižin, sasaqozox nasin moƛaxay bizinosi, eƛin, eni, mi hek’uyax eč’uri roda yik’inäy, yiła iduzasi radi, di ciqaɣor ik’anƛin.
+Gloss: DEM2.ISG.OBL boy-ERG DEM2.IISG girl home-LAT-TOP II-lead-PFV.CVB early.morning all sleep-AD.ABL III-get.up-ANT.CVB say-PFV.CVB mother you potatoe-AD.ESS weeding IV-do-INF II-go-CND.CVB DEM2.IISG.OBL-ERG home-PL-ATTR IV-do me forest-IN.VERS go-FUT.DEF-QUOT
+Translation: The boy took the girl home and in the early morning, when everyone got up from their sleeps, he said: "Mother, if you go to weed the potatoes, she will do the housework and I will go into the forest."

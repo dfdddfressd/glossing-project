@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bik’urno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bik’urno: 
+
+Exact Matches
+Sentence: Elay maħor aqruntow, yisä zirus mus bik’urno.
+Gloss: here-IN.ABL outside happen-IMM.ANT.CVB-EMPH DEM2.ISG.OBL-ERG fox-GEN1 hair III-burn-CAUS-PFV.CVB
+Translation: As he was outside, he burnt the fox's hair.
+Sentence: Łox äƛirugon yeda ʕuqła ik’inosi, bełiquz užä zeyes mus bik’urno.
+Gloss: thrice ORD-CNTR DEM2.ISG hide-INF go-ANT.CVB hunter-GEN2 boy-ERG bear-GEN1 hair III-burn-CAUS-PST.UNW
+Translation: After the hunter's son went hiding for the third time, he burnt the bear's hair.
+Sentence: Hemełƛ’o yisä besuros mus bik’urno.
+Gloss: DEM4.IISG.OBL-SUPER.ESS DEM2.ISG.OBL-ERG fish-GEN1 hair III-burn-CAUS-PST.UNW
+Translation: At that point he burned the hair of the fish.
+
+Approximate Matches:
+Sentence: Boržizi boqno bik’a adäza ceyä yisiqor neła nełałäy boɣno sis ħulin teƛno eƛin, dowƛ’or ħal baynosi, yedu mi bik’urnäy, yiła deber kumak badiƛin.
+Gloss: fly III-become-PFV.CVB III-go-INF before eagle-ERG DEM2.ISG.OBL-POSS.LAT DEM1.IISG.OBL-ERG DEM1.IISG.OBL-CONT.ABL III-take.away-PFV.CVB one feather-TOP give-PFV.CVB say-PST.UNW you-SUPER.LAT trouble III-come-ANT.CVB DEM2.IISG you III-burn-CAUS-CND.CVB DEM2.IISG.OBL-ERG you-LAT help III-do-QUOT
+Translation: Before the eagle flew away, it plucked a feather from itself, gave it to him and said: "When trouble comes upon you, if you burn it, it will help you."
+Sentence: Insanzo mecrexorno xabaryayn neła eƛin, mi di t’äy boxärno, däz maħiłäy łˤono musno bet’urno iduɣor ik’i, debeƛ’ ɣudi rayza quł žedu rik’urnosi, debez ħalarno nexno boqxosi kumak bodanƛin.
+Gloss: human-GEN2 language-AD.LAT-TOP talk-PFV.CVB DEM1.IISG.OBL-ERG say-PST.UNW you me from.here III-chase-PROHIB me-GEN2 tail-CONT.ABL three hair-TOP III-pull.out-PFV.CVB home-IN.ALL go you-SUPER.ESS day IV-come-LCV day-CONT.ESS DEM1.IIPL III.PL-burn-CAUS-ANT.CVB you-GEN2 strength-IN.LAT-TOP come-PFV.CVB III-begin-PRS.PRT help III-do-FUT.DEF-QUOT
+Translation: It talked in human language and said: "Don't chase me away from here; pull out three hairs from my tail and go home; on a day that you are in trouble, after you burned them, I  will help you to regain your strength."
+Sentence: Howlotow yisä ceyes lel yik’urno.
+Gloss: there-EMPH DEM2.ISG.OBL-ERG eagle-GEN1 feather II-burn-CAUS-PST.UNW
+Translation: There he burned the eagle's feather.

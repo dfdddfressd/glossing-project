@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yoqäsi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yoqäsi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yoqäsi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełaq yoqäsi q’ˤano ƛˤeb yoł.
+Gloss: DEM1.IISG.OBL-POSS.ESS II-become-RES.PRT two leaf be
+Translation: There are two leaves growing on it.
+Sentence: - elus maħ yołäsi migon nay t’or keze yoqäsi?”
+Gloss: - we(I).OBL-GEN1 spirit be-RES.PRT you-CNTR from.where here-LAT meet II-become-RES.PRT
+Translation: "And from where did you, having our spirit, get here?"
+
+Approximate Matches:
+Sentence: Bełiquza nełaq, nazay ža t’or yayäƛin esirnosi, hemedur eniwn yexun, best’alłiƛ’no ƛexun bet’erbaqi bodanix maħor yoqäsiƛin esin.
+Gloss: hunter-PL-ERG DEM1.IISG.OBL-POSS.ESS from.where DEM1.SG here-LAT II-come-PST.WIT.INT-QUOT ask-ANT.CVB so mother-TOP II-die-PFV.CVB orphanhood-SUPER.ESS-TOP remain-PFV.CVB life III-do-MSD-AD.ESS outside II-become-RES.PRT-QUOT tell-PST.UNW
+Translation: When the hunters asked her, from where she came, she said that her mother died and she lived in orphanhood and went outside to make a living.

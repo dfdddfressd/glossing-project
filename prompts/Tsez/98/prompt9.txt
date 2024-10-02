@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: gugyoƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": gugyoƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word gugyoƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Biči, hiboƛin, eƛizaƛ’or deber aciru žek’uz gugyoƛ’ yedu biħnayxosiƛin.
+Gloss: III-stop.IMP stick-QUOT say-POST.CVB you-LAT bother-PST.PRT man-GEN2 back-SUPER.ESS DEM2.IISG III-fight-PRS.PRT-QUOT
+Translation: "As long as you do not say 'Stop, stick', it hits on the back of that man, which bothers you."
+Sentence: Bizin ʕAliqiličzo raƛ’mar bayanix oc’ino gali ƛäxurun ceyez gugyoƛ’ erno zawruni šebin łiyn.
+Gloss: III-get.up-PFV.CVB Aliqilich-GEN2 land-LAT III-come-MSD-AD.ESS ten step remain-IMM.ANT.CVB eagle-GEN2 back-SUPER.ESS put-PFV.CVB be.NPRS-PST.PRT-DEF thing end-PST.UNW
+Translation: They flew upwards and just ten steps before coming up to Aliqilich's country, the things that were on the eagle's back ended.
+Sentence: Nełaz gugyoƛ’ zawrunigon šebin din riyranƛin:
+Gloss: DEM1.IISG.OBL-GEN2 back-SUPER.ESS be.NPRS-PST.PRT-DEF-CNTR thing me-TOP IV-explain-FUT.DEF-QUOT
+Translation: And I will explain what was on its back:
+
+Approximate Matches:
+Sentence: Besura neła nełaz gugyoƛ’no zowerno, bełiqus uži neła kidbez ɣˤutkoł adäzar ižin kurno.
+Gloss: fish-ERG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 back-SUPER.ESS-TOP seat-PFV.CVB hunter-GEN1 son DEM1.IISG.OBL girl-GEN2 house-CONT.ESS before-IN.LAT carry-PFV.CVB throw-PST.UNW
+Translation: The fish took the hunter's son onto his back, carried him to that girl's house and threw him off again.
+Sentence: ʕOmoyä łinax riyx yedu elur ħažat boqaniƛin, halmaɣłiqorno eƛin, neła nełaz gugyoƛ’orno bizirerno, elay bitor bižin.
+Gloss: donkey-ERG how IV-know-PRS DEM2.IISG we-LAT necessity III-become-MSD-QUOT friendship-POSS.LAT-TOP say-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-IN.ESS.DIST back-SUPER.LAT-TOP III-lift-CAUS-PFV.CVB there-IN.ABL thither III-carry-PST.UNW
+Translation: The donkey said to his friends: "How does one know [how] it can become useful for us.", had [the wolf] lifted on his back and carried it further.
+Sentence: Yisiz gugyoƛ’or bˤaƛ’un butni bayn.
+Gloss: DEM2.ISG.OBL-GEN2 back-SUPER.LAT III-fall-PFV.CVB burka III-come-PST.UNW
+Translation: And a burka fell over his back.

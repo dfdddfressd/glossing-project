@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nexa.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nexa
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nexa:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"
+Sentence: Elzox idu ƛirba yoł, elor nexa resno, sanaʕałin anu elusƛin, xizor begirno užä nukarbi.
+Gloss: we(II-ATTR.OBL-AD.ESS home guest be there-LAT come-INF possibility-and chance-and be.NEG we(I).OBL-GEN1-QUOT back I.PL-send-PST.UNW boy-ERG henchman-PL
+Translation: "We have a guest at home, we don't have a possibility or a chance to come there," the boy said and sent the henchmen back.
+Sentence: Hudun ʕArabuzanä žedu igorkin nexa begirno anu.
+Gloss: nevertheless Arabuzan-ERG DEM1.IIPL near-LAT-even come-INF I.PL-let-PST.UNW be.NEG
+Translation: Nevertheless, Arabuzan didn't even let them come close.
+
+Approximate Matches:

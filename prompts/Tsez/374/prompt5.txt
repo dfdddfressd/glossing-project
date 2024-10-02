@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esnabin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esnabin: 
+
+Exact Matches
+Sentence: Där eniwn, esnabin bukada betinƛin.
+Gloss: me-LAT mother-and brother-PL-and I.PL-see-INF I.PL-want-PST.UNW-QUOT
+Translation: I wanted to see my mother and my brothers."
+Sentence: ʕIyayx yedun xecin C’irduxno, nesis esnabin elaygon bitor bik’in.
+Gloss: cry-IPFV.CVB DEM2.IISG-TOP leave-PFV.CVB Tsirdukh-and DEM1.ISG.OBL-GEN1 brother-PL-and there-IN.ABL-CNTR thither I.PL-go-PST.UNW
+Translation: Tsirdukh and his brothers left her crying and went away from there.
+Sentence: Meži łˤonon esnabin yoł, mežułäy sider gurow di yuyn yäqinč’i.
+Gloss: you.PL three-TOP brother-PL-TOP be you(I).PL.OBL-CONT.ABL one.OBL-LAT except me and(?) II-get-NEG.FUT
+Translation: "You are three brothers and I won't get to any of you except for one.
+
+Approximate Matches:
+Sentence: Tełer bik’in bezuzaƛ’, ʕoƛnon esnabi haqa bogun bezun ƛexun.
+Gloss: to.the.inside I.PL-go-PFV.CVB I.PL-look-CSL.CVB seven-TOP brother-PL mouth-IN.ESS I.PL-gape-PFV.CVB I.PL-look-PFV.CVB remain-PST.UNW
+Translation: When the seven brothers went inside and took a look, they remained looking with an open mouth.
+Sentence: Elo azbarya teł ža ezu-ʕaƛ’unosi, taxeƛ yisir bexuräsi esnabi besun.
+Gloss: there palace-IN.ESS inside DEM1.SG examine-ANT.CVB ottoman-SUB.ESS DEM2.ISG.OBL-LAT I.PL-kill-RES.PRT brother-PL I.PL-find-PST.UNW
+Translation: When he examined inside the palace, he found his killed brothers under the ottoman.
+Sentence: Bet’un k’oƛin łˤonon esnabi butnoƛ’no zown nełqor eƛin:
+Gloss: I.PL-jump-PFV.CVB jump-PFV.CVB three-TOP brother-PL burka-SUPER.ESS-TOP be.NPRS-PFV.CVB DEM1.IISG.OBL-POSS.LAT say-PST.UNW
+Translation: The three brothers jumped onto the burka and said to it:

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: aħo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": aħo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word aħo:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howži qˤays yxexoy aħo xäciza mečoƛ’orno bik’in, nełaz mecreq yisis mecno bitirerno, riya rodanix aħozis hibon bisno, xizor butin eniwdäɣortown butin.
+Gloss: now hare-GEN1 II-young.animal shepherd leave-LCV.CVB place-SUPER.LAT-TOP III-go-PFV.CVB DEM1.IISG.OBL-GEN2 tongue-POSS.ESS DEM2.ISG.OBL-GEN1 tongue-TOP III-touch-CAUS-PFV.CVB IV-know-INF IV-do-MSD-AD.ESS shepherd-GEN1 stick-TOP III-take-PFV.CVB back III-return-PFV.CVB mother-APUD.VERS-EMPH-TOP III-return-PST.UNW
+Translation: Now the rabbit's young went to the place where it had left the shepherd, touched his tongue with its own tongue and took the shepherd's stick for marking it, and returned back to its mother.
+Sentence: Žigoƛ’aygon mi eli baƛ’ärinč’iƛin, esnaza aħo qaciz ruk’uzaqorno icin iħuq egirno.
+Gloss: again-SUPER.ABL-CNTR you we I.PL-cheat-NEG.FUT-QUOT brother-PL-ERG shepherd firewood-GEN2 bundle-PL-POSS.LAT-TOP tie-PFV.CVB river-POSS.ESS let-PST.UNW
+Translation: "You're not going to cheat us again!", the brothers [said,] tied the shepherd to the bundles of wood and let him into the river.
+Sentence: Ɣˤalu seranix indowrizaxosi aħo goƛ’anix xanä wazirbi begirno baynosi, k’oƛin yik’in kidbätow serun.
+Gloss: saddle unlock-MSD-AD.ESS turkey-PL-AD.ESS-ATTR shepherd call-MSD-AD.ESS khan-ERG vizier-PL I.PL-let-PFV.CVB I.PL-come-ANT.CVB run-PFV.CVB II-go-PFV.CVB daughter-ERG-EMPH unlock-PST.UNW
+Translation: He sent his viziers to call the turkey herder to open the saddle, but his daughter came running and opened it.
+
+Approximate Matches:

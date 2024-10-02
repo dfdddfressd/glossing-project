@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word maʕišatno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word maʕišatno: 
+
+Exact Matches
+Sentence: Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.
+Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW
+Translation: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.
+Sentence: Nedurä mi dey wasi t’ubazi bodix zownƛin, elayn bizin ziru xanes kidbederno bik’in esin nełaq ža ɣˤutkun, maʕišatno ɣˤʷays yałrułin, žatown habihan yołƛinno.
+Gloss: so-Q you me-GEN1 testament fulfill III-do-IPFV.CVB be.NPRS-PST.UNW-QUOT there-IN.ABL-TOP III-get.up-PFV.CVB fox khan-GEN1 daughter-APUD.LAT-TOP III-go-PFV.CVB tell-PFV.CVB DEM1.IISG.OBL-POSS.ESS DEM1.SG house-and fortune-and dog-GEN1 be-PST.PRT-NMLZ-and DEM1.SG-EMPH-and miller be-QUOT-TOP
+Translation: "So you have fulfilled my wish?", [said] the fox[,] got up from there, went to the king's daughter and told her that the house and the fortune all belong to the dog and that he is just a miller.
+Sentence: Xizaɣor ɣˤutkun, idusi maʕišatno, daruyabin teƛno micxiryosno, mesedyosno ħurženyabin ric’no, yeda saparyox oqno.
+Gloss: finally house-TOP home-ATTR fortune-TOP medicine-PL-TOP sell-PFV.CVB money-GEN1-TOP gold-GEN1-TOP bag-PL-TOP IV-fill-PFV.CVB DEM2.ISG journey-AD.ESS begin-PFV.CVB
+Translation: Finally, he sold his house, fortune, medicine and went on journey with the saddle bags filled with money and gold.
+
+Approximate Matches:
+Sentence: Elo ɣˤutkaɣorno boqno, žeda žedur maʕišat boyx bičin q’ˤanon esnabi.
+Gloss: there house-IN.VERS-TOP I.PL-become-PFV.CVB DEM1.IPL-ERG DEM1.IPL.OBL-LAT fortune III-do-IPFV.CVB III-live-PST.UNW two-TOP brother-PL
+Translation: Then moved into the house there, and lived there engaging in their household.
+Sentence: Mi aħyabin rˤoƛ’urno šida ičäsiƛin esirnosi, yisä eƛin, debex di esiw yegirłin, mi däq debi mi maʕišat bukarxanuƛin.
+Gloss: you ear-PL-TOP IV-let.fall-PFV.CVB why be-RES.PRT-QUOT ask-ANT.CVB DEM2.ISG.OBL-ERG say-PST.UNW you-AD.ESS me sister II-send-CNC.CVB you me-POSS.ESS you-GEN1 you fortune III-show-PRS-NEG-QUOT
+Translation: When in the morning he asked: "Why are you sitting there with your ears fallen down?", he answered: "Although I married off my sister to you, you don't show me your fortune."
+Sentence: Harihun maʕišat bodix bäčiru yizirabi, sida quł xizor rutixanusi roƛnin c’oxno babiwn eniwn bexun iłnon esnabi best’alłiƛ’ ƛexun.
+Gloss: slowly fortune III-do-IPFV.CVB III-be-PST.PRT DEM2.IIPL one.OBL day-CONT.ESS back IV-turn.back-NEG.PRS.PRT disease-TOP hit-PFV.CVB father-and mother-and I.PL-die-PFV.CVB six-TOP brother-PL orphanhood-SUPER.ESS remain-PST.UNW
+Translation: They slowly made their fortune, and one day an irreversible disease hit them and the father and the mother died, so the six brothers remained orphans.

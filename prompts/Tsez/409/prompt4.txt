@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zamanno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zamanno: 
+
+Exact Matches
+Sentence: Howłaƛ’ dey emadun łiys, keca zamanno bays.
+Gloss: DEM3.IISG.OBL-SUPER.ESS me-GEN1 fairy.tale-TOP end-PST.WIT sleep-INF time-TOP III-come-PST.WIT
+Translation: With that my story ends, now sleeping time has come.
+Sentence: Elur yiłaƛ’ay mustaħiq’aw močin bäsunč’i, ži eƛnoqor ħadur roqanix zamanno bayn, howt’otow ričanƛin, žedas ħukmu boqno.
+Gloss: we-LAT DEM2.IISG.OBL-SUPER.ABL suitable place-TOP III-find-NEG.FUT now winter-POSS.LAT preparation III.PL-become-MSD-AD.ESS time-TOP III-come-PFV.CVB here-EMPH III.PL-live-FUT.DEF-QUOT DEM1.IIPL.OBL-GEN1 decision III-become-PST.UNW
+Translation: "We won't find a place more suitable than this one; now the time has come to prepare for the winter; we will live here." was their decision.
+Sentence: Mekoyx oqłin, išinč’ey baq’ˤu zamanno zowzaƛ’, yeda uži sosisi išxanuƛin ičäsi zown, kʷat’izi oqnäy di t’otow äčiƛin.
+Gloss: be.hungry-IPFV.CVB begin-CNC.CVB eat-NEG.PST.CVB III-much time-TOP be.NPRS-CSL.CVB DEM2.ISG boy at.first-ATTR eat-IPFV.CVB-NEG-QUOT wait-RES.PRT be.NPRS-PFV.CVB be.late become-CND.CVB me here-EMPH wait-QUOT
+Translation: Although he was hungry and hadn't eaten for a long time, the boy waited at first: "I won't eat. If it gets late, I will wait here."
+
+Approximate Matches:
+Sentence: Sabru bodin iči, zamanałäy debertow räyƛin”, - eniya eƛin.
+Gloss: patience III-do-PFV.CVB be time-CONT.ABL you-LAT-EMPH IV-know.FUTIND-QUOT - mother-ERG say-PST.UNW
+Translation: "Be patient, eventually you will know.", said the mother.
+Sentence: Sida zamanałäy, xexbi bežet’a boqnosi henešyabi täƛruni eženi žek’us xabar bayn, sissi uži nesir egiroƛ, nesiqor ezun ža sida kikxo äčiƛin.
+Gloss: one.OBL time-CONT.ABL children I.PL-old-DISTR I.PL-become-ANT.CVB apple-PL give-PST.PRT-DEF old-DEF man-GEN1 story III-come-PFV.CVB one-ATTR boy DEM1.ISG.OBL-LAT send-OPT DEM1.ISG.OBL-POSS.LAT look-PFV.CVB DEM1.SG one.OBL spring-AD.ESS wait-QUOT
+Translation: At one time, when the children had become older, the story came [to them] of the old man who gave the apples, and one boy was to be sent to him and he would wait on a spring looking for him.
+Sentence: Sida zamanałäza yeda Beqes ʕUneyzates ɣˤutkoł adäzar ayn.
+Gloss: one.OBL time-CONT.VERS.DIST DEM2.ISG sun-GEN1 Uneyzat-GEN1 house-CONT.ESS before-IN.LAT come-PST.UNW
+Translation: After a while he came before the house of Sun's Uneyzat.

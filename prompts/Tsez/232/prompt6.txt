@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žedus in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žedus: 
+
+Exact Matches
+Sentence: Xalq’ima ža gamušyozaq ƛisirno ʕaƛaɣorno yižin, žeda žedus c’ik’iw ʕaƛno kušin, neł c’iɣuƛ’ ƛ’iri bodin.
+Gloss: people-ERG DEM1.SG buffalo-PL-POSS.ESS pull-CAUS-PFV.CVB village-IN.VERS-and II-carry-PFV.CVB DEM1.IPL-ERG DEM1.IPL.OBL-GEN1 entire village-and demolish-PFV.CVB DEM1.IISG.OBL shoulder.blade-SUPER.ESS above III-do-PST.UNW
+Translation: The people made the buffalo pull it into the village, demolished their entire village and rebuilt it on the shoulder.blade.
+Sentence: Žan šušin q’ulhu bet’unosi, žedus xabar boqno bełiƛ’ bik’anƛin.
+Gloss: DEM1.SG-TOP bury-PFV.CVB funeral.feast III-stay.behind-ANT.CVB DEM1.IPL.OBL-GEN1 story III-become-PFV.CVB hunting-SUPER.ESS I.PL-go-FUT.DEF-QUOT
+Translation: After they burried him and the funeral feast was over, their plan was: "We'll go hunting."
+Sentence: Zamanałäy žedus žeduł c’aq’ muši biłin.
+Gloss: time-CONT.ABL DEM1.IIPL-GEN1 DEM1.IPL.OBL-CONT.ESS very smell III-approach-PST.UNW
+Translation: Suddenly a very strong smell approached them.
+
+Approximate Matches:
+Sentence: Tełerno ik’in, yisä esirno žeduq, di na uqˤäłru iyyä mežurƛin.
+Gloss: into-TOP go-PFV.CVB DEM2.ISG.OBL-ERG ask-PFV.CVB DEM1.IPL.OBL-POSS.ESS me where hide-PST.PRT know-Q you(I).PL.OBL-LAT-QUOT
+Translation: He got into the house and asked them, "Do you know, where I had hidden?"
+Sentence: Neła quł hudayziko sasaqasi zaman baynosi, žedur bišanix retin, hudun Q’arumä nesiqosini biša ader roƛik’noanu.
+Gloss: DEM1.IISG.OBL day-CONT.ESS the.next.day in.the.morning-ATTR time III-come-ANT.CVB DEM1.IPL.OBL-LAT I.PL-eat-MSD-AD.ESS IV-want-PFV.CVB nevertheless Qarum-ERG DEM1.ISG.OBL-POSS.ESS-ATTR-DEF food forward IV-pull.out-PFV.CVB-NEG
+Translation: A day later, when the morning time came, they wanted to eat, but Qarum didn't take out the food that he had.
+Sentence: Ža ɣˤanabi yałrułi žedurno yiynanu.
+Gloss: DEM1.SG woman be-MSD DEM1.IPL.OBL-LAT-TOP II-know-PFV.CVB-NEG
+Translation: And they didn't know that she was a woman.

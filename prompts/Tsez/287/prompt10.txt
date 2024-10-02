@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word keze in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word keze: 
+
+Exact Matches
+Sentence: Hudayzikotow Bac’ali žedu k’eda ik’inosi, zeyn keze boqno nełaq esirno, meža dey čanyabi rac’iyäƛin.
+Gloss: the.next.day-EMPH Batsali DEM1.IIPL search-INF go-ANT.CVB bear-TOP meet III-become-PFV.CVB DEM1.IISG.OBL-POSS.ESS ask-PFV.CVB you(II-ERG me-GEN1 she.goat-PL III.PL-eat-PST.WIT.Q-QUOT
+Translation: The next day, when Batsali went to search them, he met a bear and asked him: "Have y'all eaten my goats?"
+Sentence: Xizyo ečruni ɣˤanabi ʕaƛos xalq’i batizarno yik’in eƛin, däde idur sis uži ayäsi yoł, šebigo boqłin hunar boqinč’inäy ža t’orkin keze aqinč’iƛin.
+Gloss: afterwards old-DEF woman village-GEN1 people III-turn-LCV-LAT-TOP II-go-PFV.CVB say-PST.UNW me-APUD.ESS home-LAT one boy come-RES.PRT be what-COND III-become-CNC.CVB talent III-become-NEG.FUT-CND.CVB DEM1.SG here-LAT-even meet become-NEG.FUT-QUOT
+Translation: Afterwards, the old woman went to where the village's people gathered and said: "A boy has come to my home, if he had no talent, he wouldn't have come here."
+Sentence: Elaɣor bik’iƛ’oräy, zirude dandir ixiw bˤeƛ’es reqenno, žedał tełgon bik’ix ixiw ɣˤʷayn keze boqno.
+Gloss: there-IN.VERS I.PL-go-SIM.CVB fox-APUD.ESS together big sheep-GEN1 herd-and DEM1.IIPL.OBL-CONT.ESS inside-CNTR I.PL-go-IPFV.CVB big dog-and meet III-become-PST.UNW
+Translation: When they went there, the fox met a big flock of sheep and a large dog walking among them.
+
+Approximate Matches:

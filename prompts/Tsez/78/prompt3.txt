@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: sadaqno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": sadaqno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word sadaqno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža užin, baħarawn sadaqno bičirno, žeduł roƛƛo hečk’er eqerno ciqqay reč’no rawruni ɣun.
+Gloss: DEM1.SG boy-and fiancé-and together-TOP I.PL-remain-CAUS-PFV.CVB DEM1.IIPL.OBL-CONT.ESS IV-middle upright put-PFV.CVB forest-POSS.ABL IV-cut-PFV.CVB IV-bring-PST.PRT-DEF tree
+Translation: nan
+Sentence: Nełde sadaqno zown ɣˤʷay.
+Gloss: DEM1.IISG.OBL-APUD.ESS together-TOP be.NPRS-TOP dog
+Translation: A dog was together with her as well.
+
+Approximate Matches:
+Sentence: Neširu sadaq kecnosi, Ismaʕilä baħarayłno, nesä nesiłno roƛƛo bˤałäyn eqerno, debi ged ent’aɣor yaynäy, debi di meč’ beč’a yołƛin riyrno.
+Gloss: at.night together sleep-ANT.CVB Ismail-ERG fiancée-CONT.ESS-and DEM1.ISG.OBL-ERG DEM1.ISG.OBL-CONT.ESS-and IV-middle dagger-TOP put-PFV.CVB you-GEN1 shirt here-IN.VERS II-come-CND.CVB you-GEN1 me neck III-cut-INF be-QUOT IV-explain-PST.UNW
+Translation: At night, when they were sleeping together, Ismail put a dagger inbetween his bride and himself: "If your shirt comes onto my side, I will cut your neck!", he explained.
+Sentence: ƛ’iri xabar boynč’ey bazarganzadetow sadaq oqno užin ik’in.
+Gloss: above story III-do-NEG.PST.CVB merchant-PL-APUD.ESS-EMPH together begin-PFV.CVB boy-TOP go-PST.UNW
+Translation: Without further conversation, the boy went together with the merchants.
+Sentence: Goqi zira äƛiru łinaƛ’no bužzin oqno, nesä ža iduɣorno bižin, q’ˤanon sadaq bičix zown.
+Gloss: Goqi fox-ERG say-PST.PRT what.OBL-SUPER.ESS-TOP trust-TOP become-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG home-IN.ALL-and I.PL-lead-PFV.CVB two-and together I.PL-live-IPFV.CVB be.NPRS-PST.UNW
+Translation: Goqi believed what the fox said, he took him home and the two lived together.

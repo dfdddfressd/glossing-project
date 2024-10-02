@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word baydanƛ’or in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word baydanƛ’or: 
+
+Exact Matches
+Sentence: Užir łinasnotow čaran bexun, ži ik’ix di dunyalqoƛin, eƛin oqno ik’in elay sida baydanƛ’or ayn.
+Gloss: boy-LAT what.OBL-GEN1-TOP-EMPH possibility-TOP III-die-PFV.CVB now go-PRS me world-POSS.ESS-QUOT say-PFV.CVB begin-PFV.CVB go-PFV.CVB there-IN.ABL one.OBL field-SUPER.LAT come-PST.UNW
+Translation: Now that all the possibilities are gone for the boy, he said "I shall wander through the world now", and began to go away until he came to a field.
+Sentence: Neł ciqeł teł ik’iƛ’oräy, yeda yoƛƛo ciqa teł yałru baydanƛ’or ayn.
+Gloss: DEM1.IISG.OBL forest-CONT.ESS inside go-SIM.CVB DEM2.ISG II-middle forest-IN.ESS inside be-PST.PRT plain-SUPER.LAT come-PST.UNW
+Translation: While going through the forest, he came to a clearance that was in the middle of the forest.
+Sentence: Neła baydanƛ’or aynosi, miƛ’zo iyos ruɣubin łiyn, šet’u utiƛ’oräy, yeda waħozoni dunyalƛ’orno ˤoƛ’un, sida ɣˤutkoz ƛ’ˤuƛ’ ƛ’iri c’oxno.
+Gloss: DEM1.IISG.OBL plain-SUPER.LAT come-ANT.CVB ram-ATTR.OBL blood-GEN1 prints-PL-TOP end-PFV.CVB around turn.back-SIM.CVB DEM2.ISG below-ATTR.OBL-DEF earth-SUPER.LAT-TOP fall-PFV.CVB one.OBL house-GEN2 roof-SUPER.ESS on hit-PST.UNW
+Translation: After he came to that plain, the ram's blood spots ended; when he turned around, he fell onto the earth/world below, and on the roof of a house.
+
+Approximate Matches:
+Sentence: Sida ɣudi ik’in, q’ˤuna ɣudi ik’in, łˤora äƛiza quł ʕAliqilič sida maydanƛ’or ayn.
+Gloss: one.OBL day go-PFV.CVB two.OBL day go-PFV.CVB three.OBL ORD-ATTR.OBL-IN.ESS day-CONT.ESS Aliqilich one.OBL clearance-SUPER.LAT come-PST.UNW
+Translation: He went one day, two days, and on the third day Aliqilich came to a clearance.
+Sentence: Ža hunin risno ik’iƛ’orey, sida maydanƛ’or keze oqno.
+Gloss: DEM1.SG way-TOP IV-take-PFV.CVB go-SIM.CVB one.OBL clearance-SUPER.LAT meet become-PST.UNW
+Translation: When he took the way, he came to a clearance.

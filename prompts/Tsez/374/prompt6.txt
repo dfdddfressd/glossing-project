@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iłnon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iłnon: 
+
+Exact Matches
+Sentence: Harihun maʕišat bodix bäčiru yizirabi, sida quł xizor rutixanusi roƛnin c’oxno babiwn eniwn bexun iłnon esnabi best’alłiƛ’ ƛexun.
+Gloss: slowly fortune III-do-IPFV.CVB III-be-PST.PRT DEM2.IIPL one.OBL day-CONT.ESS back IV-turn.back-NEG.PRS.PRT disease-TOP hit-PFV.CVB father-and mother-and I.PL-die-PFV.CVB six-TOP brother-PL orphanhood-SUPER.ESS remain-PST.UNW
+Translation: They slowly made their fortune, and one day an irreversible disease hit them and the father and the mother died, so the six brothers remained orphans.
+
+Approximate Matches:
+Sentence: Howlo xizyo yizi q’ˤanon esnabi akiłno moƛan biqirno, łerakin ɣudi č’ariłnoanu.
+Gloss: there afterwards DEM2.IPL two-TOP brother-PL get.tired-PFV.CVB sleep-TOP III-catch-PFV.CVB five.OBL-even day wake.up-PST.UNW-NEG
+Translation: Afterwards these two siblings got tired and caught some sleep, and didn't even woke up for five days.
+Sentence: Neširu, sasiłnosi, ʕomoybi yałru rečuxor boc’i bayn.
+Gloss: evening get.dark-ANT.CVB donkey-PL be-PST.PRT cattleshed-AD.LAT wolf III-come-PST.UNW
+Translation: In the evening, after it got dark, the wolf came to the cattleshed where the donkeys were.
+Sentence: Oka eƛin, däde sadaq egirno xec yeda debi uži, xizyo ƛˤebaq ƛˤeb ħišiłnosi, hobołatow mečoƛ’or horo mi yisił xizayƛin.
+Gloss: Oku-ERG say-PST.UNW me-APUD.ESS together send-PFV.CVB leave DEM2.ISG you-GEN1 son afterwards year-POSS.ESS year be.over-ANT.CVB this-DUB-EMPH field-SUPER.LAT come.IMPR you DEM2.ISG.OBL-CONT.ESS behind-QUOT
+Translation: Oku said: "Send your son together with me, and when the year after next year is over, come to this very field and follow him."

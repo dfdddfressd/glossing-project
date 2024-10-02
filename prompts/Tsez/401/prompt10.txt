@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boqno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boqno: 
+
+Exact Matches
+Sentence: Esnazał xizaz ixiw raład boqno.
+Gloss: sister-PL-CONT.ESS behind big sea III-become-PST.UNW
+Translation: And a big sea formed behind the sisters.
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Harizi boqno ža:
+Gloss: request III-become-TOP DEM1.SG
+Translation: The dragon begged:
+
+Approximate Matches:
+Sentence: Babiwq žan biqira k’ʷeze boqnoanu.
+Gloss: father-POSS.ESS DEM1.SG-TOP III-catch-INF can III-become-PFV.CVB-NEG
+Translation: The father couldn't catch him either.
+Sentence: Sida zamanałäy, xexbi bežet’a boqnosi henešyabi täƛruni eženi žek’us xabar bayn, sissi uži nesir egiroƛ, nesiqor ezun ža sida kikxo äčiƛin.
+Gloss: one.OBL time-CONT.ABL children I.PL-old-DISTR I.PL-become-ANT.CVB apple-PL give-PST.PRT-DEF old-DEF man-GEN1 story III-come-PFV.CVB one-ATTR boy DEM1.ISG.OBL-LAT send-OPT DEM1.ISG.OBL-POSS.LAT look-PFV.CVB DEM1.SG one.OBL spring-AD.ESS wait-QUOT
+Translation: At one time, when the children had become older, the story came [to them] of the old man who gave the apples, and one boy was to be sent to him and he would wait on a spring looking for him.
+Sentence: Bišno boqnosi, esnabin maħor begirno, eɣeni esiya igorno ik’in Kusaq esirno, sasaqay soder q’ˤimno riqirno, bišadyoƛ’orno aq’ˤułnowa mi ičäsi, šebi deber q’ʷariłi boqäsiƛin.
+Gloss: I.PL-eat-TOP I.PL-begin-ANT.CVB brother-PL-TOP outside I.PL-send-PFV.CVB young-DEF brother-ERG near-LAT-TOP go-PFV.CVB Kusa-POSS.ESS ask-PST.UNW in.the.morning-IN.ABL after head-TOP IV-stop-PFV.CVB food-SUPER.LAT-TOP sit-PFV.CVB-Q you be-RES.PRT what you-LAT sadness III-happen-RES.PRT-QUOT
+Translation: After having eaten, the young brother sent his brothers outside, approached Kusa and asked him: "What sadness has happened to you so that you are sitting there over your food holding your head."

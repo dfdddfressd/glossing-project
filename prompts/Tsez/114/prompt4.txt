@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: taqˤor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": taqˤor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word taqˤor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Waħħo gibu bukayn gurow, iħu taqˤor baɣnoƛinno, eƛin šeyxä, žaqay ɣˤurušno yoɣno.
+Gloss: below-AD.ESS sand III-see-PFV.CVB except river over.there-LAT III-cross-PROHIB-QUOT-TOP say-PFV.CVB sheikh-ERG boy-POSS.ABL ruble-TOP II-take.away-PST.UNW
+Translation: "Don't cross the river unless you see the sand below!", said the sheikh and took the ruble from the boy.
+Sentence: Sosisi łäł taqˤor oqanix yisis pikru boqäsi zown.
+Gloss: at.first-ATTR water-CONT.ESS over.there-LAT become-MSD-AD.ESS DEM2.ISG.OBL-GEN1 idea III-become-RES.PRT be.NPRS-PST.UNW
+Translation: His first idea was to get through the water.
+
+Approximate Matches:
+Sentence: Ganƛ’on zown neširur yiził xizay yik’in, raładyoł taqˤorno boqa biynč’ey sidaɣ gogaƛ’ rešt’izi boqäsi besun.
+Gloss: bull.calf-SUPER.ESS-TOP be.NPRS-PFV.CVB evening-LAT DEM2.IPL-CONT.ESS behind II-go-PFV.CVB sea-CONT.ESS over.there-LAT-TOP I.PL-become-INF I.PL-know-NEG.PST.CVB in.one.place meadow-SUPER.ESS take.a.rest I.PL-become-RES.PRT I.PL-find-PST.UNW
+Translation: And on the bull.calf, he went behind them in the evening and found them taking a rest on a meadow somewhere, not knowing how to get over the sea.
+Sentence: Hudun neła kʷanin bok’no, taqˤorno boqno, kidbabi riqira risƛ’oräy, yoƛƛozoni esiya q’ˤidar muri kurno.
+Gloss: nevertheless DEM1.IISG.OBL-ERG swimming-TOP III-beat-PFV.CVB over.there-LAT-TOP III-become-PFV.CVB girl-PL II.PL-take.away-INF II.PL-take-SIM.CVB II-middle-ATTR.OBL-DEF sister-ERG down-LAT needle throw-PST.UNW
+Translation: Nevertheless, it swam across it and got there, and when it tried to catch the girls, the middle one threw the needle down.
+Sentence: C’iɣruk’ yołi iħuƛ’ taqˤorgon oqno ok’łäsi zown.
+Gloss: Tsighruk however river-SUPER.ESS over.there-LAT-CNTR become-PFV.CVB escape-RES.PRT be.NPRS-PST.UNW
+Translation: Tsighruk, however, crossed a river and escaped.

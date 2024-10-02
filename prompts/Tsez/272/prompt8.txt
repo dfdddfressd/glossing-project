@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bukaru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bukaru: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyo c’odorawni esiw oqno ʕantawnä bukaruni moči bič’a.
+Gloss: afterwards clever-DEF brother become-PST.UNW stupid-DEF-ERG III-show-PST.PRT-DEF place III-dig-INF
+Translation: After that, the clever brother went to dig at the place the stupid brother had shown.

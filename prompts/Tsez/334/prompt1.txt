@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Boč’ik’xo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Boč’ik’xo: 
+
+Exact Matches
+Sentence: Cek’i guzqay guzqor k’oƛix boč’ik’xo bičäsi zewn.
+Gloss: goat.kid rock-POSS.ABL rock-POSS.LAT run-IPFV.CVB III-feel.cold-IPFV.CVB III-be-RES.PRT be.NPRS-PST.UNW
+Translation: The goat kid ran from rock to rock and felt cold.
+
+Approximate Matches:
+Sentence: Ža aɣes täqrun zira eƛin, debeq ža äsirus haqu yoč’ik’oƛƛin.
+Gloss: DEM1.SG bird-GEN1 hear-IMM.ANT.CVB fox-ERG say-PFV.CVB you-POSS.ESS DEM1.SG tell-PST.PRT-GEN1 mouth II-freeze-OPT-QUOT
+Translation: After hearing what the bird said, the fox said: "May the mouth freeze to the one who told you that!"

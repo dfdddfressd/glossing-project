@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yayäru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yayäru: 
+
+Exact Matches
+Sentence: Neširu xanä elo nasin sidaɣor butirnosi, xanä eƛin, di łi ħaƛuxosi t’akan sasaqor howt’or yayäru žek’ux kid yegira yołƛin.
+Gloss: evening khan-ERG there all one.OBL-IN.VERS I.PL-gather-ANT.CVB khan-ERG say-PFV.CVB me water drink-PRS.PRT glass tomorrow-POSS.LAT here-LAT II-bring-PST.PRT man-AD.ESS daughter II-send-INF be-QUOT
+Translation: In the evening the king gather everyone together and said: "I will marry my daughter off to the man who can bring my water-drinking-glass here tomorrow!"
+
+Approximate Matches:
+Sentence: Xanä wazires meč’no beč’no, t’akan nesiqor yayäruni žax, ixiw bertenno bodin, kidno yegirno.
+Gloss: khan-ERG vizier-GEN1 neck-TOP III-cut-PFV.CVB glass DEM1.ISG.OBL-POSS.LAT II-bring-PST.PRT-DEF boy-AD.ESS big marriage-TOP III-do-PFV.CVB daughter-TOP II-send-PST.UNW
+Translation: The king cut off the vizier's head, arranged a big wedding and gave his daughter to the boy who brought him his glass.

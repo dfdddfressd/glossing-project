@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rodanixƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rodanixƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyogon nasin xalq’i butirno nesi xanä, howža uži ƛexuzaƛ’or, kidber daru bodanixƛin.
+Gloss: then all people III-gather-PFV.CVB DEM1.ISG.OBL khan-ERG DEM4.SG boy remain-POST.CVB daughter-LAT medicine III-do-MSD-AD.ESS-QUOT
+Translation: Then, the king gathered all the people, except for that boy, to cure his daughter.
+Sentence: Ric’äsi mesedyosno, micxiryosno ixinno sadaq risno, ža kid saɣ yodanixƛin xander ik’in.
+Gloss: IV-fill-RES.PRT gold-GEN1-and money-GEN1-and bag-TOP all IV-take-PST.UNW DEM1.SG daughter cure II-do-MSD-AD.ESS-QUOT khan-APUD.LAT go-PST.UNW
+Translation: He took the entire bag filled with gold and money and went to the king in order to cure his daughter.
+Sentence: Neła ža yižin idu eqernosi, acno serun nełde puħorno ik’in, royxosi šebinon royn, mi tełerno oqno ɣamas yexar, xizyo žeda ža q’ač’azi yodanixƛin elay xizor yegärƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG II-carry-PFV.CVB home put-ANT.CVB door-TOP unlock-PFV.CVB DEM1.IISG.OBL-APUD.ESS side-AD.LAT-TOP go-PFV.CVB IV-do-IPFV.CVB-ATTR something IV-do-PFV.CVB you to.the.inside-TOP become-PFV.CVB box II-kill afterwards DEM1.IPL.OBL-ERG DEM1.SG get.ready II-do-MSD-AD.ESS-QUOT there-IN.ABL back II-send-QUOT
+Translation: After she carried you inside, unlock the door, and go to her side, do what is to be done, go back inside and destroy the box; afterwards they will send it back to be repaired.

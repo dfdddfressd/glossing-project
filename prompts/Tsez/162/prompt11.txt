@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bešnoyx.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bešnoyx
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bešnoyx:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Suƛƛi ža yukayrun, Ħusenłäy nesä esirnosi, kidbä elo ɣˤutka teł kinaw raqru šebinno esin, nesä q’ˤida q’ˤiryoł caƛiru c’eruc’az hilmołäzay bešnoyx iyon bukarno.
+Gloss: immediately DEM1.SG II-see-IMM.ANT.CVB Hussein-CONT.ABL DEM1.ISG.OBL-ERG ask-ANT.CVB girl-ERG there house-IN.ESS inside entire IV-happen-PST.PRT thing-TOP tell-PFV.CVB DEM1.ISG.OBL-ERG down floor-CONT.ESS throw-PST.PRT bow-GEN2 arrow-CONT.ABL.DIST III-dribble-IPFV.CVB blood-TOP III-show-PST.UNW
+Translation: Immediately when he saw her, he asked for Hussein, and the girl told everything that happened inside the house there, and he showed the blood that was dribbling out of the bow's arrow that was shot down on the floor.
+
+Approximate Matches:
+Sentence: Miƛ’zo raqˤyołäy bešnayx zawru iyoł xizayn ik’in sidaɣ žopono ciqär ayn.
+Gloss: ram-ATTR.OBL wound-CONT.ABL III-drip-IPFV.CVB be.NPRS-PST.PRT blood-CONT.ESS behind-TOP go-PFV.CVB in.one.place dense forest-IN.LAT come-PST.UNW
+Translation: He went behind the blood that was dripping out of the ram's wound and came into a dense forest, someplace.
+Sentence: ƛ’ˤu bešnada boqnosi, neła q’orolayä kidbeqor eƛin:
+Gloss: roof III-leak-INF III-begin-ANT.CVB DEM1.IISG.OBL widow-ERG daughter-POSS.LAT say-PST.UNW
+Translation: When the roof began to leak, the widow said to her daughter:

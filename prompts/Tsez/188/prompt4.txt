@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: badiru.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": badiru
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word badiru:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Didurgon, šebigon resułin xal bodanix elor ɣˤanabi yegira yay, yałi - ela badiru ħukmu meq’aw bäčiƛin, diwan boyxozo xalq’imo xan wˤałer ezurerno.
+Gloss: how-CNTR what-CNTR IV-find-CNC.CVB examination III-do-MSD-AD.ESS there-LAT woman II-send-INF II-must else - we(I).OBL-ERG III-do-PST.PRT decision wrong III-be-QUOT judgement III-do-PRS.PRT.OBL people-ERG khan downward-LAT show-CAUS-PST.UNW
+Translation: "How- and whatever it is, we must send a woman there to make an examination, or else the decision we make will be wrong.", the judges said and calmed down the king.
+Sentence: Mi badiru ħurmatno där ʕezen boqno ƛ’iräza k’oƛäsi yoł.
+Gloss: you III-do-PST.PRT respect-TOP me-LAT be.enough-TOP III-become-PFV.CVB above-IN.VERS.DIST jump-RES.PRT be
+Translation: And your respect was enough for me, more than necessary.
+Sentence: Hoka k’eč’oli badiru raładyołäy madaħor besurobi raqruyä raq’ˤuƛin”.
+Gloss: carriage-IN.ESS foal III-do-PST.PRT sea-CONT.ABL outside fish-PL III.PL-become-PST.PRT-Q III.PL-much-QUOT
+Translation: "Is it really that much (of a surprise) fish came out of the sea, than a foal was born on the carriage?"
+
+Approximate Matches:
+Sentence: Nesä xʷasar badiruni ceyä, neła nełaƛ’no zowerno, yeda raładno xecin bitaɣor oɣno.
+Gloss: DEM1.ISG.OBL-ERG rescue III-do-PST.PRT-DEF eagle-ERG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-SUPER.ESS-TOP seat-PFV.CVB DEM2.ISG sea-TOP leave-PFV.CVB distance-IN.VERS take.away-PST.UNW
+Translation: The eagle he had rescued seated him onto itself and leaving the sea took him away into the distance.
+Sentence: Asaqozagon łˤono henešno bayrsi, sis yedu kesu urɣizi badirur, sis äsirur, sideni teqärur.
+Gloss: Asakh.people-ERG-CNTR three apple-TOP III-bring-PST.WIT one DEM2.IISG tale thinking III-do-PST.PRT-LAT one tell-PST.PRT-LAT the.other.one listen.to-PST.PRT-LAT
+Translation: And the people from Asakh brought three apples; one from the one who invented the story, one for the one who told this story and another one for the one, who listened to the story.
+Sentence: Nesir didiw zaral žeda badirun biyxanu.
+Gloss: DEM1.ISG.OBL-LAT which harm DEM1.IPL-ERG III-do-PST.PRT-TOP III-know-IPFV.CVB-NEG
+Translation: Neither does one know what harm they did to him.

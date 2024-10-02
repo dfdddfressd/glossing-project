@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ʕalim.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ʕalim
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ʕalim:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Muʕalimkin nesä maħor egirinč’iey, žaq darsi mołirxo ičirxo zown.
+Gloss: teacher-even DEM1.ISG.OBL-ERG outside let-NEG.FUT.CVB-DUB son-POSS.ESS lesson teach-CAUS-IPFV.CVB stop-IPFV.CVB be.NPRS-PST.UNW
+Translation: He didn't even let the teacher go outside until he finished teaching lessons to his son.
+Sentence: ʕOƛira ɣudƛ’aza Ismaʕilesno ričin, nesir darsi eranix muʕalimno ayn.
+Gloss: seven.OBL day-SUPER.VERS.DIST Ismail-GEN1-TOP IV-live-PFV.CVB DEM1.ISG.OBL-LAT lesson set.up-MSD-AD.ESS teacher-TOP come-PST.UNW
+Translation: After seven days, Ismail got well, and the teacher came to teach him again.
+Sentence: ƛ’irir žas muʕalim ayn.
+Gloss: above-LAT son-GEN1 teacher come-PST.UNW
+Translation: Suddenly the son's teacher came.

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nełader in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nełader: 
+
+Exact Matches
+Sentence: Žigoƛ’ay nełader xanez madaxosini žek’u ayn.
+Gloss: now-SUPER.ABL DEM1.IISG.OBL-APUD.LAT khan-GEN2 gate-AD.ESS-ATTR-DEF man come-PST.UNW
+Translation: This time the king's guard came to her.
+
+Approximate Matches:
+Sentence: Hemeła zamanał, łaci yiłe yaƛˤo neładerno yik’in, ʕArabuzanä xanes kid yown Ismaʕilzo guluƛ’ caƛin.
+Gloss: DEM4.IISG.OBL time-CONT.ESS wind II-as II-quickly DEM1.IISG.OBL-APUD.LAT-TOP II-go-PFV.CVB Arabuzan-ERG khan-GEN1 daughter II-bring-PFV.CVB Ismail-GEN2 horse-SUPER.ESS throw-PST.UNW
+Translation: In that moment, Arabuzan went to him quickly as the wind and brought the king's daughter and threw it onto Ismail's horse.

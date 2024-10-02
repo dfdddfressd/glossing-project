@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: äsuƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": äsuƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word äsuƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yeda ƛirba mekoyxo äsuƛin, yizi bišʷa rodanił c’oxno.
+Gloss: DEM2.ISG guest be.hungry-IPFV.CVB find-QUOT DEM2.IPL food IV-do-MSD-CONT.ESS meet-PST.UNW
+Translation: "The guest seems to be hungry", and they they met up to make food.
+Sentence: Mi ʕadalaw uži äsuƛin, Maħama nesiqor eƛin.
+Gloss: you stupid boy exist-QUOT Magomed-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW
+Translation: You are a stupid boy.", Magomed said to him.
+Sentence: Way, mi exurno äsuƛin ʕiyayx zowsƛin”, - esin yizä.
+Gloss: o.dear you kill-PFV.CVB appear-QUOT cry-IPFV.CVB be.NPRS-PST.WIT-QUOT - tell-PST.UNW DEM2.IIPL.OBL-ERG
+Translation: "O dear, we were crying because we thought you had been killed!", they said.
+
+Approximate Matches:
+Sentence: Boc’ezno, qˤayzno, ziruznogon žedaƛ’or ixiwtow žanawar bays bäsuƛin rok’ƛ’orno rayn sidqo sis riqinč’ey k’iriłno roxin.
+Gloss: wolf-GEN2-and hare-GEN2-and fox-GEN2-and-CNTR DEM1.IIPL.OBL-SUPER.LAT big-EMPH wild.animal III-come-PST.WIT III-exist-QUOT heart-SUPER.LAT-TOP IV-come-PST.UNW one.OBL-POSS.ESS one IV-get-NEG.PST.CVB run.away-PFV.CVB IV-run.away-PST.UNW
+Translation: The wolf, the hare and the fox thought that an animal, larger than themselves, was coming, they ran away, one running faster than the other.
+Sentence: Nełas uži ela exuräsi esunäy, bazarganzo čantasi t’aqˤ mežur ruqäsi räsu, neła exuräsi esunäy raɣˤäsi räsuƛin.
+Gloss: DEM1.IISG.OBL-GEN1 son we(I).OBL-ERG kill-RES.PRT exist-CND.CVB merchant-GEN2 pocket-IN.ESS-ATTR knife you(I).PL.OBL-LAT IV-close-RES.PRT IV-find DEM1.IISG.OBL-ERG kill-RES.PRT exist-CND.CVB IV-open-RES.PRT IV-exist-QUOT
+Translation: If we have killed her son, you will find the knife in the merchant's pocket closed, if she has killed him, it will be open.
+Sentence: Ya yexun yäsu ža, ya č’agu yäsuƛin xanqorno eƛin, yedu režet’ani esnazadäɣor yik’in, xanesno yiłasno baqru xabaryołäy esanix.
+Gloss: either II-die-PFV.CVB II-exist DEM1.SG either alive II-exist-QUOT khan-POSS.LAT-TOP say-PFV.CVB DEM2.IISG IV-old-DISTR-DEF sister-PL-APUD.VERS II-go-PFV.CVB khan-GEN1-and DEM2.IISG.OBL-GEN1-and III-happen-PST.PRT story-CONT.ABL tell-MSD-AD.ESS
+Translation: Maybe she is dead, or maybe she is alive." she said to the king, went to the older sister and told that story that happened to her and the king.

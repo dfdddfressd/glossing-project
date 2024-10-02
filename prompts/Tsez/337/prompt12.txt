@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bazargan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bazargan: 
+
+Exact Matches
+Sentence: Dey xediw nexxoƛin yiła yeda nuci teƛxosi bazargan nesi žade puräza ɣamasya teł uqˤno.
+Gloss: me-GEN1 husband come-PRS-QUOT DEM2.IISG.OBL-ERG DEM2.ISG honey sell-PRS.PRT merchant DEM1.ISG.OBL boy-APUD.ESS side-IN.VERS.DIST box-IN.ESS inside hide-PST.UNW
+Translation: "My husband is coming!", she [said and] hid that honey-selling merchant in the box next to the boy.
+Sentence: Oƛixno k’oƛin tełer reƛ teƛxo zawruni bazargan.
+Gloss: appear-PFV.CVB jump-PST.UNW to.the.inside meat sell-IPFV.CVB be.NPRS-PST.PRT-DEF merchant
+Translation: The merchant who had been selling the meat jumped inside.
+Sentence: Sidaɣ rut’uga quqirxo bazargan esun.
+Gloss: in.one.place carpet dry.out-CAUS-IPFV.CVB merchant find-PST.UNW
+Translation: In some place, he found a merchant who was drying a carpet.
+
+Approximate Matches:
+Sentence: Xizyo, babiya äƛiruxor, ža uži bazarganzar teƛno.
+Gloss: afterwards father-ERG ORD-AD.LAT DEM1.SG boy merchant-PL-LAT give-PST.UNW
+Translation: Afterwards, the father sold his boy off to the merchants, as he said.
+Sentence: C’aq’ bit’araw eƛisƛin, dibirän eƛin, q’ˤimbin wˤałer rˤoq’urno bazarganbin bik’in, žar q’aymos ric’äsi ħumukulibin xecin.
+Gloss: very true say-PST.WIT-QUOT imam-ERG-TOP say-PFV.CVB head-PL-TOP downward-LAT IV.PL-lower-PFV.CVB merchant-PL-TOP I.PL-go-PFV.CVB boy-LAT article-GEN1 IV-fill-RES.PRT camel-PL-TOP leave-PST.UNW
+Translation: "Very well said," said the imam and the merchants hung their hads and went away, leaving the camels with the goods to the boy.
+Sentence: Sid bazarganes xexbi zownanu.
+Gloss: one.OBL merchant-GEN1 child be.NPRS-PFV.CVB-NEG
+Translation: One merchant had no child.

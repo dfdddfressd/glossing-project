@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kinaw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kinaw: 
+
+Exact Matches
+Sentence: Yisä kinaw šebinon esin, q’ˤunan esnazar gulubi sayɣat rodin.
+Gloss: DEM2.ISG.OBL-ERG entire something tell-PST.UNW two.OBL-TOP brother-PL-LAT horse-PL present III.PL-do-PST.UNW
+Translation: He told everything and gave his two brothers horses as a present.
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+Sentence: Elay ža oxirƛ’oräy, t’omceni žek’a mešok’lałäy boɣno musno, bełiqan imyoqorno icin, kinaw bišan rac’no, et’un k’oƛin mamalayƛ’no zown, oqno ik’in.
+Gloss: there-IN.ABL DEM1.SG chase-SIM.CVB span-EQU1-DEF man-ERG moustache-CONT.ABL III-take.away-PFV.CVB hair-TOP hunter pole-POSS.LAT-TOP tie-PFV.CVB entire food-TOP IV-eat-PFV.CVB jump-PFV.CVB jump-PFV.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB become-PFV.CVB go-PST.UNW
+Translation: When he chased him away from there, the span-sized man took a hair out of his moustache, tied the hunter to a pole, ate up the entire food, jumped on his rooster and rode away.
+
+Approximate Matches:
+Sentence: Paxrudinno zown, nesisno kinawtow bˤeƛ’ rexun räsuƛin.
+Gloss: Pakhrudin-TOP be.NPRS-PST.UNW DEM1.ISG.OBL-GEN1-and entire-EMPH sheep III.PL-die-PFV.CVB IV-find-QUOT
+Translation: Pakhrudin thought that also all of his sheep must have died.
+Sentence: Zamanałäy, howžatow miskinawni uži oƛixno, di ža yeynodaniƛ’or ruhun yodanƛin.
+Gloss: time-CONT.ABL DEM4.SG-EMPH poor-DEF boy appear-PFV.CVB me DEM1.SG II-work-MSD-SUPER.LAT teach II-do-FUT.DEF-QUOT
+Translation: After a while, that poor boy appeared[, saying]: "I will teach her how to work."
+Sentence: Nełar ža ʕaq’ˤu etix zown, hudun Musa hiƛ’ar anusi ičix zown - miskinaw oqzaƛ’ ža däx yuyn yegärinč’i, yuyn näxinč’iƛin.
+Gloss: DEM1.IISG.OBL-LAT DEM1.SG much love-IPFV.CVB be.NPRS-PFV.CVB nevertheless Musa worry be.NEG-ATTR be-IPFV.CVB be.NPRS-PST.UNW - poor become-CSL.CVB DEM1.SG me-AD.ESS and(?) II-send-NEG.FUT and(?) come-NEG.FUT-QUOT
+Translation: She loved him very much, but Musa didn't care about this, thinking: "Because I am so poor, he wont give me to her and she won't come to me either."

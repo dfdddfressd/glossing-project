@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bäk’irun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bäk’irun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bäk’irun:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Tełxor yeda äk’iruntow, gulu begirnon xecin kidbä, xizyo qˤaƛin babiwqor, gulu boxin bik’isƛin.
+Gloss: inside-AD.LAT DEM2.ISG go-IMM.ANT.CVB-EMPH horse III-let-INT leave-PFV.CVB girl-ERG afterwards shout-PST.UNW father-POSS.LAT horse III-run.away-PFV.CVB III-go-PST.WIT-QUOT
+Translation: Right after he went inside, the girl let the horse go and then shouted to her father: "The horse has run away!"
+Sentence: Sasaqosi esnazar łuq’zi boqali ceyłäy bäk’iru iyon, nełqay rˤaƛ’uru lelabin rukayn.
+Gloss: in.the.morning brother-PL-LAT hurt III-become-ATTR eagle-CONT.ABL III-go-PST.PRT blood-and DEM1.IISG.OBL-POSS.ABL II.PL-fall-PST.PRT feather-PL-and III.PL-see-PST.UNW
+Translation: In the morning the brothers saw the blood that came out of the wounded eagle and the feathers that fell from it.
+Sentence: Q’orola radirun, habihander yizi didur keze baqrułäyn, elo žedudäy xizor bäk’irułäyn, esnaza boyx zawru rek’mołäyn - nasin šebin Beqes ʕUneyzatä esin.
+Gloss: widow-ERG IV-do-PST.PRT-and miller-APUD.LAT DEM2.IPL how meet I.PL-become-PST.PRT-CONT.ABL-and there DEM1.IPL.OBL-APUD.ABL back I.PL-go-PST.PRT-CONT.ABL-and sister-PL-ERG III-do-IPFV.CVB be.NPRS-PST.PRT trick-CONT.ABL-and - all thing sun-GEN1 Uneyzat-ERG tell-PST.UNW
+Translation: About what the widow did, and about how they met the miller, and about how they went back from there, and about the tricks that their sisters played - all these things Sun's Uneyzat told.

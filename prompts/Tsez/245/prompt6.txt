@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ƛ’oq’ˤa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ƛ’oq’ˤa: 
+
+Exact Matches
+Sentence: Oč’ira beciƛ’azay, nełar bercinaw kid yodin, ruy nełas sistow sis ƛ’oq’ˤa ozuri zown.
+Gloss: nine month-SUPER.ABL.DIST DEM1.IISG.OBL-LAT beautiful daughter II-do-PFV.CVB IV-just DEM1.IISG.OBL-GEN1 one-EMPH one forehead-IN.ESS eye be.NPRS-PST.UNW
+Translation: Nine months later, a beautiful daughter was born to her, just that she had only one eye on the forehead.
+
+Approximate Matches:
+Sentence: Hemedur Okä babiw mak’ur odin guludetow sadaq moƛ’oqˤoyn łera ʕazara łera bišomra ɣˤurušyoƛ teƛanix, dicegon užä moƛ’oqˤoy täƛnoƛin eƛinłin.
+Gloss: so Oku-ERG father persuade do-PFV.CVB horse-APUD.ESS-EMPH together bridle-TOP five.OBL thousand five.OBL hundred ruble-SUB.ESS sell-MSD-AD.ESS how.much-CNTR boy-ERG bridle sell-PROHIB-QUOT say-PST.UNW-CNC.CVB
+Translation: So Oku persuaded the father to sell him the horse together with the bridle for 5,500 rubles, no matter how much the boy told him not to sell the bridle.
+Sentence: T’akanyar bayru mesedno ħiƛ’oqax butirno čantan eqerno, łˤonon besuron bižin uži iduɣor ik’in.
+Gloss: glass-IN.LAT III-come-PST.PRT gold-TOP handkerchief-AD.ESS III-gather-PFV.CVB pocket-TOP put-PFV.CVB three-TOP fish-TOP III-carry-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The boy gathered the gold that came int the glass into a handkerchief, put it inside his pocket and carried the three fish home.
+Sentence: Hi enda ħiƛ’oqu debez mi ozurazaq riħoƛin, žoyä babiwqor teƛno.
+Gloss: take.IMP DEM3b.SG handkerchief you-GEN2 you eye-PL-POSS.ESS IV-smear-IMPR-QUOT boy-ERG father-POSS.LAT give-PST.UNW
+Translation: "Take this handkerchief and rub it on your eyes.", the boy gave it to his father.

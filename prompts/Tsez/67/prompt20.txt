@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bodinäy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bodinäy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bodinäy:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."
+Sentence: Mi där quluq bodinäy, žeduqay bałgo sis šebin esanƛin”.
+Gloss: you me-LAT duty III-do-CND.CVB DEM1.IPL.OBL-POSS.ABL secretly one thing tell-FUT.DEF-QUOT
+Translation: If you look after me, I will tell you a secret that the others don't know."
+
+Approximate Matches:
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"

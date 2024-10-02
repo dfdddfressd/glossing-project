@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mesedyos in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mesedyos: 
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Užä eƛin, anƛ’imarsi där hunixor qˤašo ero, mesedyos bašiqˤoy yałruni kid k’eda di ik’ix.
+Gloss: boy-ERG say-PFV.CVB week-LAT-ATTR me-LAT way-AD.LAT get.up-IMPR put-IMPR gold-GEN1 ring be-PST.PRT-DEF girl search-INF me go-PRS
+Translation: The boy answered: "Pack provisions for me for a way of one week, I'm going to search the girl with the golden ring."
+
+Approximate Matches:
+Sentence: Xizaɣor ɣˤutkun, idusi maʕišatno, daruyabin teƛno micxiryosno, mesedyosno ħurženyabin ric’no, yeda saparyox oqno.
+Gloss: finally house-TOP home-ATTR fortune-TOP medicine-PL-TOP sell-PFV.CVB money-GEN1-TOP gold-GEN1-TOP bag-PL-TOP IV-fill-PFV.CVB DEM2.ISG journey-AD.ESS begin-PFV.CVB
+Translation: Finally, he sold his house, fortune, medicine and went on journey with the saddle bags filled with money and gold.
+Sentence: Neła t’umiqay bˤaƛ’uru ħuli babiwz k’ukyoł boqun, miƛ’iłäy räšruni mesedyosnigon his ħamarno čˤaƛin esirno, baba, req’ezi roqxaƛin.
+Gloss: DEM1.IISG.OBL pigeon-POSS.ABL III-fall-PST.PRT feather father-GEN2 cap-CONT.ESS III-stick-PFV.CVB ram-CONT.ABL IV-fall-PST.PRT-DEF gold-GEN1-DEF-CNTR spring.wool chest-IN.LAT-TOP throw-PFV.CVB ask-PFV.CVB daddy approach IV-become-PRS-Q-QUOT
+Translation: She put the feather that fell from that pigeon onto her father's hat, and threw the golden whool that fell from the ram onto the chest and asked: "Daddy, does it fit?"
+Sentence: Nagaħ uži miskinłiƛ’or aynäy, babiyä kobora teł eqerno xecäsi micxiryosno, mesedyosno ric’äsi ixin zown.
+Gloss: suppose boy poverty-SUPER.LAT come-CND.CVB dad-ERG granary-IN.ESS inside put-PFV.CVB leave-RES.PRT money-GEN1-TOP gold-GEN1-TOP IV-fill-RES.PRT bag be.NPRS-PST.UNW
+Translation: In case the boy would hit poverty, there was a bag filled with money and gold left inside the granary, put there by the father.

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esirxo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esirxo: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Q’ˤidayn yisno č’ikayä bezunosi, žeda esirxosi kid yexux yukarno.
+Gloss: down-IN.ABL-TOP II-take-PFV.CVB mirror-IN.ESS I.PL-look-ANT.CVB DEM1.IPL-ERG ask-PRS.PRT girl II-die-PRS II-show-PST.UNW
+Translation: And when they looked at the mirror, after taking it up from below, it showed the girl that they had asked out dying.
+Sentence: Ela esirxosi kid yexux, xexłiƛ’ nełder bayr eliƛin!”.
+Gloss: we(I).OBL-ERG ask-PRS.PRT girl II-die-PRS quickness-SUPER.ESS DEM1.IISG.OBL-APUD.LAT III-bring we-QUOT
+Translation: "The girl that we asked is dying, quick, bring us to her!"

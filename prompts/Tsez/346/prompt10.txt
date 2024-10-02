@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word oqno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word oqno: 
+
+Exact Matches
+Sentence: Hudun ži ɣˤuruš neƛnäy sisgon bodan deber di ʕaq’luƛin razi oqno eženi.
+Gloss: nevertheless now ruble give-CND.CVB one-CNTR III-do-FUT.DEF you-LAT me advice-QUOT agree become-PST.UNW old-DEF
+Translation: "Nevertheless, if you give me a ruble, I'll give you another advice.", agreed the old man.
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"
+
+Approximate Matches:

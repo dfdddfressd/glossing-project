@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: č’iħo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": č’iħo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word č’iħo:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elo azbaryoł adäza mesedyos č’iħo roqxosi baɣ yołƛax.
+Gloss: there palace-CONT.ESS before gold-GEN1 fruit IV-become-PRS.PRT garden be-QUOT
+Translation: There, in front of the palace, was a garden where golden fruits were growing.
+Sentence: Elo nesä elo c’oxno, t’o c’oxno č’iħo rac’a bašla bodin.
+Gloss: there DEM1.ISG.OBL-ERG there pounce-PFV.CVB there pounce-PFV.CVB fruit IV-eat-INF begin III-do-PST.UNW
+Translation: There, pouncing here and there, he began to eat the fruits.
+Sentence: Mi dey č’iħo rac’iyäƛin, esirno xizyogon nełä.
+Gloss: you me-GEN1 fruit IV-eat-PST.WIT.Q-QUOT ask-PST.UNW then DEM1.IISG.OBL-ERG
+Translation: "Did you eat my fruits?", she asked again.
+
+Approximate Matches:
+Sentence: Debi di č’iħotow rac’äsi anuƛin, žawab teƛno žoyä.
+Gloss: you-GEN1 me fruit-EMPH IV-eat-RES.PRT be.NEG-QUOT answer give-PST.UNW boy-ERG
+Translation: "Your fruits I haven't eaten.", answered the boy.
+Sentence: Xanes ɣˤutkoł adäza reže baɣ zown, elo anunč’uru č’iħotow zownanu.
+Gloss: khan-GEN1 house-CONT.ESS before IV-big garden be.NPRS-PFV.CVB there be.NEG-NEG.PST.WIT-PST.PRT fruit-EMPH be.NPRS-PFV.CVB-NEG
+Translation: There was a big garden before the khan's house, where the fruits grew.
+Sentence: Eženi esiya eƛin, ɣudes neširuxay eluz baɣmay sist’a č’iħomes ɣun rok’ek’äsit’a resux, łu rok’ek’xosin elur riyxanu.
+Gloss: old-DEF brother-ERG say-PST.UNW daily at.night-AD.ABL we(I).OBL-GEN2 garden-IN.ABL one.at.a.time fruit-GEN1 tree IV-steal-RES.PRT-DISTR IV-find-IPFV.CVB who.ERG IV-steal-PRS.PRT-TOP we(I).OBL-LAT IV-know-PRS-NEG
+Translation: The old brother said: "Every night, there seems to be someone who steals one fruit tree from our garden, and we don't know who it is."

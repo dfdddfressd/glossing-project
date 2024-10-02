@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rodisƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rodisƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rodisƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Tamaša oqno ƛexun eɣeni esiw, łuey yedu t’o idu nediw bercinłi rodisƛin.
+Gloss: astonished become-PFV.CVB remain-PFV.CVB young-DEF brother who.ERG-DUB DEM2.IISG here home such beauty IV-do-PST.WIT-QUOT
+Translation: The younger brother got very surprised: "Who the heck has done such a beauty here at home?"
+
+Approximate Matches:
+Sentence: Meč’oƛäyr bayäru cedisƛin” - eƛin zira.
+Gloss: neck-SUB.LAT III-bring-PST.PRT name-PST.WIT-QUOT - say-PST.UNW fox-ERG
+Translation: "He was named 'up-to-the-neck'", said the fox.
+Sentence: Zeyä šebi ci cedäƛin esirnosi, zira boƛƛäyr bayäru cedisƛin eƛin.
+Gloss: bear-ERG what name name-PST.WIT.INT-QUOT ask-ANT.CVB fox-ERG III-middle-SUB.LAT III-bring-PST.PRT name-PST.WIT-QUOT say-PST.UNW
+Translation: After the bear had asked, what name they gave him, the fox said, they named him 'up-to-the-middle'.

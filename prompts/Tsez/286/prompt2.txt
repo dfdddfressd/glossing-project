@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mežur in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mežur: 
+
+Exact Matches
+Sentence: Dey xexbi, di exun xizyo t’ubazi odin łiynosi, meži łˤonon esnabi bitazoni ɣˤutkar bezu, elo mežur ʕuraw mesed yołƛin”.
+Gloss: me-GEN1 children me die-PFV.CVB after fulfill do-PST.UNW end-ANT.CVB you.PL three-TOP brother-PL next-DEF room-IN.LAT I.PL-look-IMPR there you(I).PL.OBL-LAT much gold be-QUOT
+Translation: "My children, when I have died and the funeral is done, you three brothers look into the next room, there is much gold for you."
+Sentence: Beynoda retinäy däde mežur ħalt’in yoł, deytow iłno kidno yoł mežux regiranixƛin, eƛin yiła yizirabi iduɣor bižin.
+Gloss: I.PL-work-INF IV-want-CND.CVB me-APUD.ESS you(I).PL.OBL-LAT work-and be me-GEN1-EMPH six daughter-and be you(I).PL.OBL-AD.ESS IV.PL-let-MSD-AD.ESS-QUOT say-PST.UNW DEM2.IISG.OBL-ERG DEM2.PL home-IN.ALL I.PL-lead-PST.UNW
+Translation: If you want to work, there's work for you at my place, and also my six daughters to be sent to you." she said and let them into her home.
+Sentence: Užä žeduqor eƛin, ža bikori sida ħala xec meža, neła mežur royxosi žukłi šebiƛin.
+Gloss: boy-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW DEM1.SG snake one.OBL condition-IN.ESS leave you(I).PL.OBL-ERG DEM1.IISG.OBL-ERG you(I).PL.OBL-LAT IV-do-PRS.PRT evil what-QUOT
+Translation: The boy said to them: "Let go of the snake, what's the evil thing it has done to you?!"
+
+Approximate Matches:
+Sentence: Meži łˤonontow esira däder nexłin, mežurno riyx ža, hudun di mežułäy sider gurow yäqinč’i.
+Gloss: you.PL three-TOP-EMPH ask-INF me-APUD.LAT come-CNC.CVB you(I).PL.OBL-LAT-TOP IV-know-PRS DEM1.SG nevertheless me you(I).PL.OBL-CONT.ABL one.OBL-LAT except II-get-NEG.FUT
+Translation: "You three have come to me in order to ask me out, you know that, and so I won't get to any of you except for one.
+Sentence: Tełerno ik’in, yisä esirno žeduq, di na uqˤäłru iyyä mežurƛin.
+Gloss: into-TOP go-PFV.CVB DEM2.ISG.OBL-ERG ask-PFV.CVB DEM1.IPL.OBL-POSS.ESS me where hide-PST.PRT know-Q you(I).PL.OBL-LAT-QUOT
+Translation: He got into the house and asked them, "Do you know, where I had hidden?"

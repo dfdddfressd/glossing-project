@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word sasaqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word sasaqor: 
+
+Exact Matches
+Sentence: Neširu xanä elo nasin sidaɣor butirnosi, xanä eƛin, di łi ħaƛuxosi t’akan sasaqor howt’or yayäru žek’ux kid yegira yołƛin.
+Gloss: evening khan-ERG there all one.OBL-IN.VERS I.PL-gather-ANT.CVB khan-ERG say-PFV.CVB me water drink-PRS.PRT glass tomorrow-POSS.LAT here-LAT II-bring-PST.PRT man-AD.ESS daughter II-send-INF be-QUOT
+Translation: In the evening the king gather everyone together and said: "I will marry my daughter off to the man who can bring my water-drinking-glass here tomorrow!"
+Sentence: Nar yik’a koƛ’inč’ey, sasiw ɣudin roqzaƛ’, ža kid sasaqor ciqqotow ƛexun.
+Gloss: where II-go-INF understand.to-NEG.PST.CVB gloomy day-TOP IV-become-CSL.CVB DEM1.SG girl in.the.morning-POSS.LAT forest-POSS.ESS-EMPH remain-PST.UNW
+Translation: Not knowing where to go, and because the day became gloomy, the girl stayed in the forest until morning.
+Sentence: Ismaʕilä esirno, t’o sasaqor iča behizi aqäƛin.
+Gloss: Ismail-ERG ask-PST.UNW here in.the.morning-POSS.LAT live-INF permit become-Q-QUOT
+Translation: Ismail asked: "May I spend the night here?"
+
+Approximate Matches:
+Sentence: Zeyn, zirun, boc’in elo sasaqorno ričin, qˤašiƛ’aɣor roqno rik’in.
+Gloss: bear-and fox-and wolf-and there in.the.morning-POSS.LAT-TOP III.PL-wait-PFV.CVB dawn-SUPER.VERS III.PL-become-PFV.CVB III.PL-go-PST.UNW
+Translation: The bear, the fox and the wolf waited there until the morning and when it got dawn, they went away.
+Sentence: Hisonax ža bäciza mečoƛ’ sasaqort’a mesed besux zown.
+Gloss: trough-ERG-AD.ESS DEM1.SG III-tie-LCV.CVB place-SUPER.ESS in.the.morning-POSS.LAT-DISTR gold III-find-PRS be.NPRS-PFV.CVB
+Translation: In the morning they found gold in the trough, where it was tied.
+Sentence: Sisxoli ciqqo ƛäxuru kidbä ɣunoz gonda teł sasaqorsi ɣudi qˤaširno.
+Gloss: alone forest-POSS.ESS remain-PST.PRT girl-ERG tree-GEN2 big.hole-IN.ESS inside tomorrow-POSS.LAT-ATTR day dawn-PST.UNW
+Translation: The girl who stayed in the forest alone [VERB] inside a hole in a tree, then the next day started to dawn.

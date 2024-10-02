@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mečoł in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mečoł: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Iłira äƛiru ɣudƛ’o užä dahawtow koyä bixno risno ik’in, rečuƛäy mäħorno roɣno, ƛ’iri reƛ’un erno xizazgon gutanno yicin mečołxor rižin.
+Gloss: six.OBL say-PST.PRT day-SUPER.ESS boy-ERG a.little-EMPH hand-IN.ESS hay-TOP IV-take-PFV.CVB go-PFV.CVB cattleshed-SUB.ABL outside-TOP III.PL-take.away-PFV.CVB above yoke-TOP put-PFV.CVB from.behind-CNTR plow-TOP II-tie-PFV.CVB field-CONT.VERS III.PL-lead-PST.UNW
+Translation: On the sixth day, the boy went to take a little hay in his hand, took them out of the shed, put a yoke around them, tied a plow behind it and lead them into the field.
+Sentence: Sasaqosi moƛaxayn bizin, aždaħä yeɣeni kidbeqorƛin eƛin, Maryam där bišan riso, ič’an eɣeni užiz iyos q’ut’un bic’o mečołxor raƛin.
+Gloss: in.the.morning sleep-AD.ABL-TOP III-get.up-PFV.CVB dragon-ERG II-young-DEF daughter-POSS.LAT-QUOT say-PST.UNW Maryam me-LAT food-TOP IV-take-IMPR most-TOP young-DEF boy-GEN2 blood-GEN1 earthen.jug-TOP III-fill-IMPR field-CONT.VERS IV-bring-QUOT
+Translation: In the morning, after getting up from his sleep, the dragon said to - what he supposed was - his youngest daughter: "Maryam, take the food to me and fill the earthen jug with the youngest boy's blood and bring them to the field!"
+Sentence: Sidaquł azu kosiƛ’oräy, zirun, zeyn hemedurtow sadaq mečołxor rik’in.
+Gloss: one.day harvest gather-SIM.CVB fox-and bear-and so-EMPH together field-CONT.VERS III.PL-go-PST.UNW
+Translation: One day, while gathering the harvest, the fox and the bear went to the field together.

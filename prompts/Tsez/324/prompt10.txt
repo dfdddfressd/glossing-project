@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bitorsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bitorsi: 
+
+Exact Matches
+Sentence: Raładyołxorno yiħun, muhumozas qotno ric’no yoƛixno eƛin, šibaw žek’uz akä sist’a muhu eqro, elay bitorsi debi ħalt’i anuƛin.
+Gloss: sea-CONT.VERS-TOP II-come.to-PFV.CVB granule-PL-GEN1 handfull-TOP IV-fill-PFV.CVB II-appear-PFV.CVB say-PST.UNW every man-GEN2 window-IN.ESS one.at.a.time granule put-IMPR here-IN.ABL thither-ATTR you-GEN1 work be.absent-QUOT
+Translation: She went into the sea, filled her hand with grains, reappeared and said: "Put one grain into the window of each man, besides that there's no more work for you."
+
+Approximate Matches:
+Sentence: Elay bitor yizi łenon sadaq hunix boqno.
+Gloss: there-IN.ABL thither DEM2.IPL five-TOP together way-AD.ESS I.PL-become-PST.UNW
+Translation: The five of them went on their way together, from there.
+Sentence: Elay bitor, ɣˤaɣˤun bizin, łˤonon iduɣor bik’inosi, yeženi esiw yesun, idu yiłe, q’ˤidan yičin yičäsi.
+Gloss: there-IN.ABL thither be.happy-TOP I.PL-get.up-PFV.CVB three-TOP home-IN.ALL I.PL-go-ANT.CVB II-old-DEF sister II-find-PFV.CVB home II-as down-TOP II-sit-PST.UNW II-wait-RES.PRT
+Translation: The three of them were very delighted, so when they went home, they found the older sister, sitting at home waiting.
+Sentence: Howlaytow bitor adäz bikorin, xizaz kidno hunix boqno bikorzo iduɣorƛin bik’in.
+Gloss: from.there-EMPH thither ahead snake-TOP from.behind daughter-TOP way-AD.ESS III-become-PFV.CVB snake-ATTR.OBL home-IN.ALL-QUOT III-go-PST.UNW
+Translation: From then on, the snake went ahead with the daughter following it, until it came to the snake's house.

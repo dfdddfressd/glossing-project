@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: baybik.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": baybik
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word baybik:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Boc’ä keč’ qˤaƛa baybik bodin, dalay, dalay sida bogmor ʕomoy, dalay, dalay sidagon bogmor mamalay, sidenigon bogmor k’et’un, mešinƛin.
+Gloss: wolf.PL-ERG song sing-INF begin III-do-PST.UNW dalay dalay one.OBL meal-LAT donkey dalay dalay one.OBL-CNTR meal-LAT rooster other-CNTR meal-LAT cat-and bull.calf-and-QUOT
+Translation: The wolves began to sing a song: "Dalay, dalay, a donkey for one meal; dalay, dalay, a rooster for another meal; and a cat and a calf for yet another meal."
+Sentence: Eɣeni esiyan, łoħran sadaq ʕumru boda baybik bodin.
+Gloss: young-DEF brother-ERG-and frog-ERG-and together life III-do-INF begin III-do-PST.UNW
+Translation: The younger brother and the frog began to live together.
+Sentence: Xedya mežay bitor zigara bizira baybik bodin.
+Gloss: husband-ERG mattress-IN.ABL thither complaint III-lift-INF begin III-do-PST.UNW
+Translation: The husband began to moan from his mattress.
+
+Approximate Matches:

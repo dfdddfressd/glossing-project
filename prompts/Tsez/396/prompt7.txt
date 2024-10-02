@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roqno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roqno: 
+
+Exact Matches
+Sentence: Zira äƛiru łinaƛ’no nasin razi roqno.
+Gloss: fox-ERG say-PST.PRT what.OBL-SUPER.ESS-TOP all agree III.PL-become-PST.UNW
+Translation: All agreed on what the fox said.
+Sentence: Zamanałäy čanyan, cek’bintow ħalaq’ roqa roqno.
+Gloss: time-CONT.ABL she.goat-and goat.kid-PL-and-EMPH meager III.PL-become-INF III.PL-begin-PST.UNW
+Translation: After a while, the she.goat and the goat kids began to become meager.
+Sentence: Elay mekoyx yałru yisä bet’urno neł ɣunoqay c’udani heneš bac’nosi, nesiłäy ɣun roqno.
+Gloss: there-IN.ABL be.hungry-IPFV.CVB be-PST.PRT DEM2.ISG.OBL-ERG III-pull.out-PFV.CVB DEM1.IISG.OBL tree-POSS.ABL red-DEF apple III-eat-ANT.CVB DEM1.ISG.OBL-CONT.ABL tree IV-become-PST.UNW
+Translation: Then, he - being hungry - plucked a red apple from that tree and ate it, he became a tree.
+
+Approximate Matches:
+Sentence: Žigon šebi roqnoƛin, užä bayan bisnosi, neła kinaw raqru šebin esin.
+Gloss: again.now what IV-happen-PST.UNW-QUOT boy-ERG information III-take-ANT.CVB DEM1.IISG.OBL-ERG entire IV-happen-PST.PRT thing tell-PST.UNW
+Translation: When the boy asked: "What happened?" again, she told all the things that happened.
+Sentence: Šebi deber roqnoƛin yisä esirnosi, yiła yisiq q’orolayä äsiru xabar esin.
+Gloss: what you-LAT IV-happen-PST.UNW-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB DEM2.IISG.OBL-ERG DEM2.ISG.OBL-POSS.ESS widow-ERG tell-PST.PRT story tell-PST.UNW
+Translation: When he asked: "What happened to you?", she told him what the widow had told her.
+Sentence: Nesis hut’-mˤalay ƛ’er bisäsi bukayzaƛ’ hunixoza esirno, šebi deber roqnoƛin.
+Gloss: DEM1.ISG.OBL-GEN1 front.part.of.the.face-IN.ABL color III-take-RES.PRT III-see-CSL.CVB way-AD.ESS-ATTR.OBL-ERG ask-PST.UNW who you-LAT IV-happen-PST.UNW-QUOT
+Translation: When they saw the color vanishing from his face, the travellers asked: "What happened to you?"

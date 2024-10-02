@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word t’awus in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word t’awus: 
+
+Exact Matches
+Sentence: Hič’č’a bercinawni t’awus yisä boƛƛäy boɣƛ’oräy, qarawulza iqirno nesiq esirno, mi nazay, łinar ayäsi žek’u yołƛin.
+Gloss: the.most beautiful-DEF peacock DEM2.ISG.OBL-ERG III-middle-SUB.ABL III-take.away-SIM.CVB guard-PL-ERG catch-PFV.CVB DEM1.ISG.OBL-POSS.ESS ask-PFV.CVB you from.where why come-RES.PRT man be-QUOT
+Translation: After he has seized the most beatiful one, the guards caught him and asked, "Where did you come from and why?"
+Sentence: Hič’č’a adäza bäqiruni guluƛ’no zown, xanes uži hawaƛ’ k’oƛin ik’in t’awus bičixozoni qoqxor.
+Gloss: the.most ahead III-get-PST.PRT-DEF horse-SUPER.ESS-TOP ride-PFV.CVB khan-GEN1 son air-SUPER.ESS run-PFV.CVB go-PFV.CVB peacock III-be-PRS-ATTR.OBL-DEF cliff-AD.LAT
+Translation: He took the first horse and rode to the cliff where the peacock lives.
+Sentence: Qˤašiƛ’ɣor hawaƛ’ k’oƛin bayn asasi t’awus ɣunoƛ’ bičin.
+Gloss: dawn-SUPER.ESS-IN.ALL air-SUPER.ESS jump-PFV.CVB III-come-PFV.CVB sky-RES.PRT peacock tree-SUPER.ESS III-sit-PFV.CVB
+Translation: At dawn the heaven peacock came and sat at the tree.
+
+Approximate Matches:
+Sentence: Ža elay bok’ek’xo asazo t’awusä.
+Gloss: DEM1.SG there-IN.ABL III-steal-PRS sky-RES.PRT.OBL peacock-ERG
+Translation: The heaven peacock steals them.
+Sentence: Xanez užä žeduq šinaw raqru łinałäyn esin, xizyo žeduq neła t’awuses lel yukarno.
+Gloss: khan-GEN2 son-ERG DEM1.IPL-POSS.ESS every IV-happen-PST.PRT what.OBL-CONT.ABL-TOP tell-PFV.CVB afterwards DEM1.IPL-POSS.ESS DEM1.IISG.OBL peacock-GEN1 feather II-show-PFV.CVB
+Translation: The khan's son told them what had happened and showed the feather of that peacock.
+Sentence: Xizyo eɣeni esiya nełaz c’eruc’a caƛinosi, sis nełas lel ɣunoƛer yoƛ’ˤun yayn, t’awusno hawaƛ’ k’oƛin boxin bik’in.
+Gloss: afterwards young-DEF brother-ERG DEM1.IISG.OBL-GEN2 bow shoot.with-ANT.CVB one DEM1.IISG.OBL-GEN1 feather tree-SUB.LAT II-fall-PFV.CVB II-come-PFV.CVB peacock-TOP air-SUPER.ESS jump-PFV.CVB III-run.away-PFV.CVB III-go-PFV.CVB
+Translation: Then the youngest brother shot with the bow and the peacock flew away, but one feather fell down under the tree.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: K’ʷeze.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": K’ʷeze
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word K’ʷeze:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Eniwqorno hemedurtow, esa k’ʷeze yaqinč’i däqƛin ičin.
+Gloss: mother-POSS.LAT-TOP so-EMPH tell-INF can II-become-NEG.FUT me-POSS.ESS-QUOT be-PST.UNW
+Translation: To his mother he was the same: "I cannot tell you."
+Sentence: Babiwq žan biqira k’ʷeze boqnoanu.
+Gloss: father-POSS.ESS DEM1.SG-TOP III-catch-INF can III-become-PFV.CVB-NEG
+Translation: The father couldn't catch him either.
+Sentence: Hemeła zamanał ʕaƛa xabar boƛixno, qalamez ƛ’ˤuƛ’or gulun bizirno, elay kid yok’ek’a k’ʷeze yaqru žek’ux xanä ža yegirxoƛin.
+Gloss: DEM4.IISG.OBL time-CONT.ESS village-IN.ESS story III-appear-PST.UNW fortress-GEN2 roof-SUPER.LAT horse-TOP III-lift-PFV.CVB there-IN.ABL daughter II-remove-INF can II-become-PST.PRT man-AD.ESS khan-ERG DEM1.SG II-send-PRS-QUOT
+Translation: At some time, a rumor appeared in the village: The king would marry off his daughter to the man who is able to lift a horse onto the roof of his fortress and to steal his daughter from there.
+
+Approximate Matches:

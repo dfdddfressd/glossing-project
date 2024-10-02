@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: zamanaƛ’aza.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": zamanaƛ’aza
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word zamanaƛ’aza:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Reže nesiz ħurmatyoxaysi rok’uɣʷeyn rodin, sida zamanaƛ’aza Ražbadin haq’uzaƛ’ hulin, žeduƛ’ ezu-ʕoƛ’a ʕaƛaɣor ik’a retin.
+Gloss: IV-big DEM1.ISG.OBL-GEN2 respect-AD.ABL-ATTR banquet-TOP IV-do-PFV.CVB one.OBL time-SUPER.VERS.DIST Razhbadin family-PL-SUPER.ESS miss-PFV.CVB DEM1.IPL.OBL-SUPER.ESS visit-INF village-IN.VERS go-INF IV-want-PST.UNW
+Translation: They organized the big banquet because of his respect, and at some point in time, Razhbadin missed his family and wanted to go to the village to visit them.
+Sentence: Sida zamanaƛ’aza ʕArabuzanƛin eƛixosi ɣˤanabi yayn, didiw žek’a ža dey simildi rac’xoƛin.
+Gloss: one.OBL time-SUPER.VERS.DIST Arabuzan-QUOT say-PRS.PRT woman II-come-PST.UNW which man-ERG DEM1.SG me-GEN1 maize IV-eat-PRS-QUOT
+Translation: After some time, a woman named Arabuzan came: "What man is eating my corn?!"
+
+Approximate Matches:
+Sentence: Tełxor egirno zamanaƛ’azay roč k’ek’-rik’ärun, yizä ža raƛ’moƛ’aɣor izirno.
+Gloss: inside-AD.LAT let-PFV.CVB time-SUPER.ABL.DIST rope move-CAUS-IMM.ANT.CVB DEM2.IPL.OBL-ERG DEM1.SG earth-SUPER.VERS lift-PST.UNW
+Translation: They let him inside, and just when after some time the rope was moved, they lifted him onto the earth.
+Sentence: Zira bigza ħalał ƛ’en bagin, zamanaƛ’azay xexoybin roɣno.
+Gloss: fox-ERG III-very-ZA condition-CONT.ESS malt-TOP III-lick-PFV.CVB time-SUPER.ABL.DIST young.animal-PL-TOP III.PL-hatch-PST.UNW
+Translation: The fox licked enough malt and after some time, it got youngs.

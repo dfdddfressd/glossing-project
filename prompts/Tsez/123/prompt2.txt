@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: t’asma.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": t’asma
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word t’asma:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Izin neł t’asmar kakičurin royn, elosi łi maħor čˤaƛin.
+Gloss: get.up-PFV.CVB DEM1.IISG.OBL washbowl-LAT ablution-TOP IV-do-PFV.CVB there-ATTR water outside pour.out-PST.UNW
+Translation: He got up to that bowl, did his ablution, and poured the water out again.
+Sentence: Bazarganä q’ˤunerno yic’xot’a t’akan et’nosi, nesä ħaƛux zown, yiła enduräz t’asmaɣor yiħurxo zown.
+Gloss: merchant-ERG two.OBL-LAT-TOP II-fill-IPFV.CVB-DISTR glass pour-ANT.CVB DEM1.ISG.OBL-ERG drink-IPFV.CVB be.NPRS-PFV.CVB DEM2.IISG.OBL-ERG that.way-IN.ESS.DIST washbowl-IN.ALL II-pour-IPFV.CVB be.NPRS-PST.UNW
+Translation: After the merchant poured a glass full for each of them, he drank, and she poured it into the washbowl in the same way.

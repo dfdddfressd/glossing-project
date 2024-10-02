@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: halmaɣłin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": halmaɣłin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word halmaɣłin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Debeł halmaɣłin risno, łäƛ’ ƛ’iri xanłi rodaniƛäy anu di dowder iħada nexäsiƛin, eƛin rizirno yisä mač’a.
+Gloss: you-CONT.ESS friendship-TOP IV-take-PFV.CVB water-SUPER.ESS above khanship IV-do-MSD-SUB.ABL be.NEG me you-APUD.LAT fight-INF come-RES.PRT-QUOT say-PFV.CVB IV-lift-PST.UNW DEM2.ISG.OBL-ERG dagger
+Translation: "I won't accept your friendship with you and I won't rule over the water, I came to you in order to fight!", he said and lifted the dagger.
+Sentence: Nagaħ mi ža yownč’inäy, mi din šuƛ’ir, di min šuƛ’iran, ela elułsi halmaɣłin łiyranƛin.
+Gloss: suppose you DEM1.SG II-marry-NEG.FUT.CVB-CND.CVB you me-TOP forget me you-TOP forget-FUT.DEF we(I).OBL-ERG we(I).OBL-CONT.ESS-ATTR friendship-TOP finish-FUT.DEF-QUOT
+Translation: Suppose you won't marry her, then forget about me and I will forget about you, and we will finish the friendship between us.
+Sentence: Ɣʷˤadin zirun žeda žedudäɣorno rik’in halmaɣłin rexurno.
+Gloss: crow-TOP fox-and DEM1.IIPL.OBL-ERG DEM1.IIPL.OBL-APUD.VERS-TOP IV-go-PFV.CVB friendship-TOP IV-kill-PST.UNW
+Translation: The crow and the fox went to each other and ended their friendship.
+
+Approximate Matches:
+Sentence: Ela elus halmaɣłi rexura raynč’i.
+Gloss: we(I).OBL-ERG we(I).OBL-GEN1 friendship IV-kill-INF IV-must-NEG.FUT
+Translation: We mustn't destroy our friendship.
+Sentence: Horoƛin, eƛix xizyo Ražbadinä halmaɣłiqor, Huläɣor eli łinar bik’an, howt’aytow bˤeƛ’no rok’ek’no xizor butin rigu anaƛin.
+Gloss: come.IMPR-QUOT say-IPFV.CVB afterwards Razhbadin-ERG friendship-POSS.LAT Georgia-IN.VERS we why I.PL-go-FUT.DEF from.here-EMPH sheep-TOP III.PL-steal.from-PFV.CVB back III-return-PFV.CVB IV-good be.NEG-Q-QUOT
+Translation: "Come", said Razhbadin to his friends afterwards, "why shouldn't it be better for us to go back to Georgia, steal some from the flock and then return?"
+Sentence: Meža mežuł raqru halmaɣłi eli sabawłun rexarno.
+Gloss: you(I).PL.OBL-ERG you(I).PL.OBL-CONT.ESS IV-become-PST.PRT friendship we for.the.sake.of IV-kill-PROHIB
+Translation: Don't destroy the friendship that is between you because of us!

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boc’a in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boc’a: 
+
+Exact Matches
+Sentence: Elo ʕomoyä bayäruni bexasi boc’i bukaynosi, nasin boc’a elin rexar yizäƛin, aɣˤʷa tełäy roxin.
+Gloss: there donkey-ERG III-bring-PST.PRT-DEF III-die-RES.PRT wolf III-see-ANT.CVB all wolf.PL we-TOP III.PL-kill DEM2.IIPL.OBL-ERG-QUOT mill-IN.ESS inside-IN.ABL III.PL-run.away-PST.UNW
+Translation: When they saw the dead wolf that the donkey had brought, all the wolves said: "They will kill us!", ran out of the mill and away.
+
+Approximate Matches:
+Sentence: Neła zira yisiq harizi rodin, deber taliħ neƛani, žeda boc’aqay di xʷasar bodoƛin.
+Gloss: DEM1.IISG.OBL fox-ERG DEM2.ISG.OBL-POSS.ESS request IV-do-PST.UNW you-LAT fortune give-MSD DEM1.IIPL.OBL wolf.PL-POSS.ABL me rescue III-do-IMPR-QUOT
+Translation: That fox pleaded to him, "May fortune be given to you, please rescue me from those wolves!"
+Sentence: Nediwtow q’ʷariłi bayzaƛ’, dahawtow yuyn ʕiyayn, bisno sis bexora hibon łoxt’a ža bok’xo nasin boc’an, zeybin maħor roxirno.
+Gloss: such-EMPH sadness III-come-CSL.CVB a.little-EMPH and(?) cry-PST.UNW I.PL-take-PFV.CVB one lengthy stick-TOP thrice-DISTR DEM1.SG III-beat-IPFV.CVB all wolf.PL-and bear-PL-and outside III.PL-chase-PST.UNW
+Translation: Because of such a tragedy, she began to cry a little, took a long stick, beated it three times and chased off all the wolves and bears.
+Sentence: Yizin maħorno yoqno yezunosi, ɣuros reqenno bayrno rayäsi, eƛnoq yiłas posu rac’runi boc’an, zeybin resun.
+Gloss: II-get.up-PFV.CVB outside-TOP II-become-PFV.CVB II-look-ANT.CVB cows-GEN1 herd-TOP III-bring-PFV.CVB III.PL-come-RES.PRT winter-POSS.ESS DEM2.IISG.OBL-GEN1 cattle IV-eat-PST.PRT-DEF wolf.PL-and bear-PL-and III.PL-find-PST.UNW
+Translation: After she got up, went outside and had a look, the wolves and bears that had eaten her cattle in winter, turned up leading a cow herd.

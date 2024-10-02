@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Igtow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Igtow: 
+
+Exact Matches
+Sentence: Bahadur igtow razi oqxo sadaqor halmaɣłi roqxoƛin.
+Gloss: hero well-EMPH agree become-IPFV.CVB together-LAT friendship IV-become-PRS-QUOT
+Translation: The hero accepted well that there were friends with him.
+Sentence: Ža nesä eƛinosi yeda igtow lamus oqxo, qazaqä yisir bodixosi ħurmat bukayzaƛ’.
+Gloss: DEM1.SG DEM1.ISG.OBL-ERG say-ANT.CVB DEM2.ISG much-EMPH shame become-PRS Georgian-ERG DEM2.ISG.OBL-LAT III-do-PRS.PRT respect III-see-CSL.CVB
+Translation: When he [Tavadi] said that, he [Razhbadin] became very ashamed, because he saw the respect that the Georgian showed him.
+Sentence: Ražbadin igtow pašman oqno, yedu šebi däq roqäƛin.
+Gloss: Razhbadin very-EMPH become.sad become-PFV.CVB DEM2.IISG what me-POSS.ESS IV-happen-PST.WIT.INT-QUOT
+Translation: Razhbadin became very sad: "What happened to me?"
+
+Approximate Matches:
+Sentence: Sosisi xan royxosi anuƛin ičäsi zown, yigtow q’orolay ƛ’iri yutizaƛ’, xanä esin.
+Gloss: at.first-ATTR khan III.PL-do-IPFV.CVB-ATTR be.NEG-QUOT be-RES.PRT be.NPRS-PFV.CVB II-much-EMPH widow above II-turn-CSL.CVB khan-ERG tell-PST.UNW
+Translation: At first the king was like: "She doesn't.", but because the widow insisted so much, the king told her.
+Sentence: Boc’a rigtow rˤuƛ’no.
+Gloss: wolf.PL III.PL-very-EMPH III.PL-be.afraid-PST.UNW
+Translation: The wolves were very afraid.
+Sentence: ʕAƛar aynƛin teqzaƛ’ortow Ražbadin yizzoxor oƛixzaƛ’, kidbez babiya bigtow tamašan bodin, yisiz ħurmatyoxay rigu bišʷan rodin.
+Gloss: village-IN.LAT come-PFV.CVB-QUOT hear-POST.CVB-EMPH Razhbadin DEM2.IPL.OBL-ATTR.OBL-AD.LAT appear-CSL.CVB girl-GEN2 dad-ERG III-much-EMPH astonished-TOP III-do-PFV.CVB DEM2.ISG.OBL-GEN2 respect-AD.ABL IV-good food-TOP IV-do-PST.UNW
+Translation: Because Razhbadin appeared at their place before he heard that he had come to the village, the girl's dad was very surprised and out of respect for him he prepared a good meal.

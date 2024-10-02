@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ˤida.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ˤida
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ˤida:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žedaxay bitor di q’ˤida ičinč’ey bixno kosix zows.
+Gloss: DEM1.IIPL.OBL-AD.ABL thither me down sit-NEG.PST.CVB grass-TOP mow-IPFV.CVB be.NPRS-PST.WIT
+Translation: Because of them, I didn't sit down but mowed grass.
+Sentence: Akiłno q’ˤida di ičinosi, nesä howt’o deber kokoru qˤiƛci riqixyołiƛin eƛis.
+Gloss: get.tired-PFV.CVB down me sit-ANT.CVB DEM1.ISG.OBL-ERG here you-LAT soft pillow IV-get-PRS-COND.IRR-QUOT say-PST.WIT
+Translation: When I got tired and sat down, he said: "If we only could get you a soft pillow to sit down here..."
+Sentence: Aħmadä ečruni žek’uqor eƛin, howt’o deber q’ˤida iča kokoru qˤiƛci riqixyołiƛin.
+Gloss: Akhmed-ERG old-DEF man-POSS.LAT say-PST.UNW here you-LAT down sit-INF soft pillow IV-get-PRS-COND.IRR-QUOT
+Translation: Akhmed said to the old man: "If we only could get you a soft pillow to sit down here..."
+
+Approximate Matches:
+Sentence: Yiła yiziqor eƛin, sis guluƛ’ zown, sideni q’ˤidan ik’in, buq betunosi xizyo žek’us ɣedun bown ent’or horo mežiƛin.
+Gloss: DEM2.IISG.OBL-ERG DEM2.IPL.OBL-POSS.LAT say-PST.UNW one horse-SUPER.ESS ride-PFV.CVB the.other.one down-TOP go-PFV.CVB sun III-set-ANT.CVB after man-GEN1 shade-TOP III-get-PFV.CVB here-LAT come.IMPR you.PL-QUOT
+Translation: She said to them: "One will ride on a horse and the other one will walk below; after the sun has set, get me a man's shadow and come here!"
+Sentence: Adäza q’ˤidan ičirno Bilq’isdä nesiq esirno, howła ɣudzał mi meq’aw šebin rodäsi zowwäƛin.
+Gloss: ahead down-TOP sit-CAUS-PFV.CVB Bilqisdi-ERG DEM1.ISG.OBL-POSS.ESS ask-PST.UNW DEM3.IISG.OBL day-PL-CONT.ESS you wrong thing IV-do-RES.PRT be.NPRS-PST.WIT.Q-QUOT
+Translation: Bilqisdi sat him down before her and asked him: "Have you done wrong things in these days?"
+Sentence: Di ža keč’oz reƛ’id aɣˤuroƛ’ eqersi, kut’yoz reƛ’id q’ˤidar yoɣsi, deber retinäy, iduɣor yižo ža, retinäy - däx yegir žaƛin, eƛin nesä xanez užiqor.
+Gloss: me DEM1.SG left.side-GEN2 hand-INSTR wheel-SUPER.ESS put-PST.WIT right.side-GEN2 hand-INSTR down-LAT II-take.away-PST.WIT you-LAT IV-want-CND.CVB home-IN.ALL II-carry-IMPR DEM1.SG IV-want-CND.CVB - me-AD.ESS II-send DEM1.SG-QUOT say-PST.UNW DEM1.ISG.OBL-ERG khan-GEN2 boy-POSS.LAT
+Translation: I've put her on the wheel with my left hand, I took her down with my right hand, if you want, carry her home; if you want, marry her off to me!", he said to the prince.

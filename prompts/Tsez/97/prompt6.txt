@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: roda.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": roda
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word roda:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howžiƛa rˤałay roda zaman bayxƛin Alimaħama ciqaɣor ik’in, isʷaqor reƛ’u rodanix c’araʕyor qaca rowanixƛin.
+Gloss: now-INDEF threshing.floor IV-do-INF time III-come-PRS-QUOT Alimagomed-ERG forest-IN.VERS go-PST.UNW bull-PL-POSS.LAT yoke IV-do-MSD-AD.ESS building.material-LAT firewood IV-bring-MSD-AD.ESS-QUOT
+Translation: "Now it's time to do the threshing.", Alimagomed thought and went into the forest to bring wood for building the yoke for the bulls.
+Sentence: Nełƛ’aza di aq’ˤu pikrazał ƛexux roda šebin koƛ’inč’eyƛin, žawab teƛno xedya.
+Gloss: DEM1.IISG.OBL-SUPER.VERS.DIST me much idea-PL-CONT.ESS remain-IPFV.CVB IV-do-INF thing understand.to-NEG.PST.UNW-QUOT answer give-PST.UNW husband-ERG
+Translation: Because of this, I - remaining very thoughtful - don't know what to do.", answered the husband.
+Sentence: Tawadä Ražbadin bužzi odin, nediw ħalikataw šebin debeł teł roda dey pikrukin zownč’u, rodäsin anuƛin.
+Gloss: Tavadi-ERG Razhbadin convince do-PFV.CVB such mean thing you-CONT.ESS inside IV-do-INF me-GEN1 idea-even be.NPRS-NEG.PST.WIT IV-do-RES.PRT-TOP be.NEG-QUOT
+Translation: Tavadi convinced Razhbadin: "I would not have he idea to do such a mean thing to you, I haven't done anything."
+
+Approximate Matches:

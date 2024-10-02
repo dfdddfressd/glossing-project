@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word elur in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word elur: 
+
+Exact Matches
+Sentence: Howži žedu nesiƛ’or butin, neƛ elur araq’iƛin.
+Gloss: now DEM1.IPL DEM1.ISG.OBL-SUPER.LAT I.PL-turn-PFV.CVB give we(I).OBL-LAT vodka-QUOT
+Translation: Now they turned on him: "Give us the vodka!"
+Sentence: Yisä yisir łˤora ɣudi bertenno erno, bercinawƛ’ay bercinawt’a kidbabin rukarno, howt’aytow barun yižoƛin harizin rodin, roƛik’u xanłin riso howt’otow uyn iči, mi iłe baħarči naynkin t’ok’ow elur äqinč’iƛin.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-LAT three.OBL day marriage-and put-PFV.CVB beautiful-SUPER.ABL beautiful-DISTR girl-PL-and II.PL-show-PFV.CVB from.here-EMPH wife-TOP II-take.out-IMPR-QUOT request-TOP IV-do-PFV.CVB IV-half khanate-TOP IV-take-IMPR here-EMPH just-TOP be you as brave.young.man from.nowhere anymore we(I).OBL-LAT get-NEG.FUT-QUOT
+Translation: He arranged a 3-day lasting marriage for him, presented girls that were prettier than pretty, "Choose a wife from here!", he begged, "Settle down here and take half of the kingdom, from nowhere will we ever get such a brave young man as you, anymore!"
+Sentence: Mežur beže barkala yoł eli nedur beže boqace käkirus, howži elur mežudäy bik’a retin.
+Gloss: you(I).PL.OBL-LAT III-big thank be we so I.PL-big I.PL-become-TERM feed-PST.PRT-GEN1 now we(I).OBL-LAT you(I).PL.OBL-APUD.ABL I.PL-go-INF IV-want-PST.UNW
+Translation: "Thank you very much for feeding us until we got that big, now we wanted to leave you.
+
+Approximate Matches:

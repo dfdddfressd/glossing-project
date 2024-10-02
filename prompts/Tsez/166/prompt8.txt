@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yäsu.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yäsu
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yäsu:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žan bitor yiq’ˤirno waħaz egin ik’inosi, deber elo ixiw gondu yukay, elogon tełxor oqnosi, q’ˤida yičäsi eniw yäsu.
+Gloss: DEM1.SG-TOP thither II-move.aside-PFV.CVB below-IN.ESS.DIST go.into-PFV.CVB go-ANT.CVB you-LAT there big big.hole II-see there-CNTR inside-AD.LAT become-ANT.CVB down II-sit-RES.PRT mother II-find
+Translation: After you have moved it aside and went below it, you will see a big hole, and inside you will see your mother sitting there.
+Sentence: Ya yexun yäsu ža, ya č’agu yäsuƛin xanqorno eƛin, yedu režet’ani esnazadäɣor yik’in, xanesno yiłasno baqru xabaryołäy esanix.
+Gloss: either II-die-PFV.CVB II-exist DEM1.SG either alive II-exist-QUOT khan-POSS.LAT-TOP say-PFV.CVB DEM2.IISG IV-old-DISTR-DEF sister-PL-APUD.VERS II-go-PFV.CVB khan-GEN1-and DEM2.IISG.OBL-GEN1-and III-happen-PST.PRT story-CONT.ABL tell-MSD-AD.ESS
+Translation: Maybe she is dead, or maybe she is alive." she said to the king, went to the older sister and told that story that happened to her and the king.
+Sentence: Elaygon bitor ik’iƛ’oräy, yäsu deber aluk’a ɣˤul.
+Gloss: there-IN.ABL-CNTR thither go-SIM.CVB II-find you-LAT white stone
+Translation: And when you go further, you will find a white stone.
+
+Approximate Matches:

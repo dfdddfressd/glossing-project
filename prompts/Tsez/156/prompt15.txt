@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yik’ix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yik’ix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yik’ix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Sida quł neła kidbes eniw qˤišoder sis mučarin rižin ħonƛ’aɣor yik’ix zown.
+Gloss: one.OBL day-CONT.ESS DEM1.IISG.OBL girl-GEN1 mother at.noon one cumin-TOP IV-carry-PFV.CVB mountain-SUPER.VERS II-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: One day that girl's mother went to the mountain with a cumin cake.
+Sentence: Igtow yeda ƛ’iri utizaƛ’ Tawadä esin, mi yowxozo barurno, deberno saɣłin rodin ħaƛanix di t’akan yizärun, gugyoq tungin bisno akiƛäza yik’ix yukayru kidbeƛ’ ozurin c’oxno, nełaz bercinłä ʕadal oys.
+Gloss: much-EMPH DEM2.ISG above turn-CSL.CVB Tavadi-ERG tell-PST.UNW you II-marry-PRS.PRT.OBL wife-LAT-and you-LAT-and health-TOP IV-do-PFV.CVB drink-MSD-AD.ESS me glass II-lift-IMM.ANT.CVB back-POSS.ESS copper.jug-TOP III-take-PFV.CVB window-SUB.VERS II-go-IPFV.CVB II-see-PST.PRT girl-SUPER.ESS eye-TOP hit-PFV.CVB DEM1.IISG.OBL-GEN2 beauty-ERG intoxication do-PST.WIT
+Translation: Because he insisted so much, Tavadi told him: "Right after lifting my glass to drink on your and your soon to be married wife, my eye met this girl whom I saw going under the window and taking a jar on her back, and her beauty was intoxicating."
+
+Approximate Matches:
+Sentence: Sasaq qˤašinosi, Ismaʕil hunixor oqanix ħadur oqxo ukaynosi, ʕArabuzanä gulu bˤaƛoyn, din dowde sadaq yik’ixƛin.
+Gloss: in.the.morning get.up-ANT.CVB Ismail way-AD.LAT become-MSD-AD.ESS prepare become-IPFV.CVB see-ANT.CVB Arabuzan-ERG horse III-harness-PFV.CVB me-and you-APUD.ESS together II-go-PRS-QUOT
+Translation: After she got up in the morning and saw that Ismail was preparing to get on his way, Arabuzan harnessed her horse: "I am going with you."
+Sentence: Way, dey užiƛin, eƛin yeženä, eluz xanez kidbes anƛ’imasi berten boyx, nesi baħarawx di yik’ixanuƛin yedu yičäsi.
+Gloss: o.dear me-GEN1 son-QUOT say-PST.UNW II-old-DEF-ERG we(I).OBL-GEN2 khan-GEN2 daughter-GEN1 week-IN.ESS-ATTR marriage III-do-IPFV.CVB DEM1.ISG.OBL fiancé-AD.ESS me II-go-PRS-NEG-QUOT DEM2.IISG II-be-RES.PRT
+Translation: "Oh my son!", said the old woman, "They're celebrating our king's daughter's marriage the whole week, she was like: 'I won't go to that fiancé!'."
+Sentence: Yedu kidgon Ražbadinqor baqru ʕišq’ud, netey yedu berten bodixƛin, iduɣor yik’ixosi hunin šuƛ’in qˤilo yok’ełxo.
+Gloss: DEM2.IISG girl-CNTR Razhbadin-POSS.LAT III-become-PST.PRT love-INSTR when-DUB DEM2.IISG marriage III-do-PRS-QUOT home-IN.ALL II-go-PRS.PRT way-TOP forget-PFV.CVB erroneously II-go.away-PRS
+Translation: The girl was so in love with Razhbadin, and because she prepared that marriage, she forgot the way home and got lost.

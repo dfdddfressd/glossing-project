@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nesisno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nesisno: 
+
+Exact Matches
+Sentence: Paxrudinno zown, nesisno kinawtow bˤeƛ’ rexun räsuƛin.
+Gloss: Pakhrudin-TOP be.NPRS-PST.UNW DEM1.ISG.OBL-GEN1-and entire-EMPH sheep III.PL-die-PFV.CVB IV-find-QUOT
+Translation: Pakhrudin thought that also all of his sheep must have died.
+
+Approximate Matches:
+Sentence: Užä nesä nesis murad esinosi, besura hoqoƛno iqirno, raładyoz iƛ’aqaɣor ižin ža.
+Gloss: boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 wish tell-ANT.CVB fish-ERG mouth-SUB.ESS-TOP take.away-PFV.CVB sea-GEN2 bottom-POSS.VERS carry-PFV.CVB DEM1.SG
+Translation: After the boy had told his wish, the fish took him into its mouth and carried him to the bottom of the sea.
+Sentence: Ražbadines xexbi bexuranis mečʷa, Tawadä žedu nesis uži zawza Tiblisäɣor t’et’ranixno begirno, riyrxo žeduq, dey izmu anusi eni- babiwƛ’or kaɣat caxnoƛin.
+Gloss: Razhbadin-GEN1 children I.PL-kill-MSD-GEN1 instead.of Tavadi-ERG DEM1.IPL DEM1.ISG.OBL-GEN1 son be.NPRS-LCV Tbilisi-IN.VERS learn-MSD-AD.ESS-TOP I.PL-send-PFV.CVB IV-explain-PRS DEM1.IPL.OBL-POSS.ESS me-GEN1 permission be.NEG-ATTR mother father-SUPER.LAT letter write-PROHIB-QUOT
+Translation: Instead of killing Razhbadin's children, Tavadi sent them to study in Tbilisi where his son was, and explained to them: "Don't write a letter to your parents without my permission!"
+Sentence: Žan bit’araw yoł nesisƛin, eƛin kidbä.
+Gloss: DEM1.SG-TOP true be DEM1.ISG.OBL-GEN1-QUOT say-PST.UNW daughter-ERG
+Translation: "That of him is true.", said his daughter.

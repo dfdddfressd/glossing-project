@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kaɣatno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kaɣatno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Boƛƛo tabanaw mix bik’inosi, Ražbadinƛ’or Tawadis kaɣat yayx, ec’noni barun yown pulanaw ɣudƛ’or Telawär horo, Tiblisä t’et’erno łiyn ayru užis berten boyxosiƛin.
+Gloss: III-middle long time III-go-ANT.CVB Razhbadin-SUPER.LAT Tavadi-GEN1 letter II-come-IPFV.CVB new-DEF wife-TOP II-bring-PFV.CVB a.certain day-SUPER.LAT Telavi-IN.LAT come.IMPR Tbilisi-IN.ESS learn-PFV.CVB end-PFV.CVB come-PST.PRT son-GEN1 marriage III-do-PRS.PRT-QUOT
+Translation: After quite a long time has passed, a letter from Tavadi came to Razhbadin: "Come to Telavi on a certain day and bring your new wife; we are preparing the marriage of my son who came from finishing his studies in Tbilisi."
+Sentence: Nesirno howžatow sayɣatno boyn, hemedurtow nesiqorno eƛin.
+Gloss: DEM1.ISG.OBL-LAT-TOP DEM4.SG-EMPH present-TOP III-do-PFV.CVB so-EMPH DEM1.ISG.OBL-POSS.LAT-TOP say-PST.UNW
+Translation: To him he gave the same present and said the same thing.
+Sentence: Ža kaɣat yayrun, Ražbadinno, barun Telawäɣor halmaɣdäɣor bik’ix.
+Gloss: DEM1.SG letter II-come-IMM.ANT.CVB Razhbadin-and wife-and Telavi-IN.VERS friend-APUD.VERS I.PL-go-PRS
+Translation: Right after the letter arrived, Razhbadin and his wife went to Telavi to their friend.

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: askarno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": askarno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word askarno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elaɣor bik’anix ħadur boqƛ’orey, xedyoƛ’or aħin bayn, askarno boɣno ƛˤoreł ik’in.
+Gloss: there-IN.VERS I.PL-go-MSD-AD.ESS prepare I.PL-become-SIM.CVB husband-SUPER.LAT rock III-come-PFV.CVB army-TOP III-take.away-PFV.CVB war-CONT.ESS go-PST.UNW
+Translation: While they prepared themselves to go there, the alarm came unto the husband, he took the army and went to war.
+
+Approximate Matches:
+Sentence: Igtow ɣˤaɣˤun izin Tawadä nesis roƛ’i baqruni kid Ražbadinqo yukarno.
+Gloss: much-EMPH be.happy-TOP get.up-PFV.CVB Tavadi-ERG DEM1.ISG.OBL-GEN1 love III-become-PST.PRT-DEF girl Razhbadin-POSS.ESS II-show-PST.UNW
+Translation: Tavadi became very happy and showed Razhbadin the girl that became his love.
+Sentence: Ik’in nełaq reƛ’iqoy rukarnosi, didiw ža yałru sosisi riynč’ey neła eƛin:
+Gloss: go-PFV.CVB DEM1.IISG.OBL-POSS.ESS glove IV-show-ANT.CVB which DEM1.SG be-PST.PRT at.first-ATTR IV-know-NEG.PST.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: He went and showed her the glove, and at first, when she didn't know what kind of glove this was, she said:
+Sentence: Onoču sosisi begirxanuƛin inkarno boyn bičäsi zown, yaqˤułno łoħrodär bik’iƛin.
+Gloss: hen at.first-ATTR III-let-IPFV.CVB-NEG-QUOT rejection-TOP III-do-PFV.CVB III-be-RES.PRT be.NPRS-PFV.CVB today-TOP frog-APUD.VERS III-go-QUOT
+Translation: "I won't let you in", the hen rejected at first, "Go to the frog again, today!"

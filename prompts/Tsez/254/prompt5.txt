@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word c’oxnosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word c’oxnosi: 
+
+Exact Matches
+Sentence: Hunix mekʷa c’oxnosi, žeda sosi iguni halmaɣes bišʷa rac’no łiyrno.
+Gloss: way-AD.ESS hunger meet-ANT.CVB DEM1.IPL-ERG at.first good-DEF friend-GEN1 food IV-eat-PFV.CVB finish-PST.UNW
+Translation: When they became hungry on their way, the first ate up the good friend's food.
+Sentence: Dandir aždaħ c’oxnosi, Ħuseneł biłetow yiła yisiłno q’ut’i boyx, łox ɣˤul caƛin sosikin nełaz c’oxnäy, yisä ža boƛƛi begira bayx, sosikin c’oxinč’inäy, aždaħä ža igix.
+Gloss: towards dragon meet-ANT.CVB Hussein-CONT.ESS III-as-EMPH DEM2.IISG.OBL-ERG DEM2.ISG.OBL-CONT.ESS-TOP agreement III-do-IPFV.CVB thrice stone throw-PFV.CVB once-even DEM1.IISG.OBL-GEN2 hit-CND.CVB DEM2.ISG.OBL-ERG DEM1.SG III-middle III-break.apart-CAUS-INF III-must-IPFV.CVB once-even hit-NEG.FUT.CVB-CND.CVB dragon-ERG DEM1.SG swallow-PRS
+Translation: When he came to the dragon, he was making the same agreement as with Hussein with him, that if he throws a stone three times and hits him at least once, he must break him apart in the middle, if he doesn't hit him at least once, the dragon would be swallowing him.
+Sentence: Žan hemedurtow mat’i boɣa c’oxnosi, zira eƛin:
+Gloss: DEM1.SG-TOP so-EMPH duck III-take.away-INF meet-ANT.CVB fox-ERG say-PST.UNW
+Translation: And he also came to take away the duck, so the fox said:
+
+Approximate Matches:
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: ʕAƛoz raʕalłix äxuru žek’u šuša ižin bik’ix yizide dandir žamaʕatyos xalq’i c’oxno.
+Gloss: village-GEN2 edge-AD.ESS die-PST.PRT man bury-INF carry-PFV.CVB I.PL-go-IPFV.CVB DEM2.IPL.OBL-APUD.ESS towards population-GEN1 people meet-PST.UNW
+Translation: At the edge of the village, some people from the population came toward them carrying a dead man to bury him.
+Sentence: Harihun maʕišat bodix bäčiru yizirabi, sida quł xizor rutixanusi roƛnin c’oxno babiwn eniwn bexun iłnon esnabi best’alłiƛ’ ƛexun.
+Gloss: slowly fortune III-do-IPFV.CVB III-be-PST.PRT DEM2.IIPL one.OBL day-CONT.ESS back IV-turn.back-NEG.PRS.PRT disease-TOP hit-PFV.CVB father-and mother-and I.PL-die-PFV.CVB six-TOP brother-PL orphanhood-SUPER.ESS remain-PST.UNW
+Translation: They slowly made their fortune, and one day an irreversible disease hit them and the father and the mother died, so the six brothers remained orphans.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łas in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łas: 
+
+Exact Matches
+Sentence: Nesä ža ɣamas hokomƛ’on erno iħuxaɣor yižiƛ’oräy, łas haraƛ’ teqnosigon, nełaq roč’uganitow qˤaƛu regin.
+Gloss: DEM1.ISG.OBL-ERG DEM1.SG box carriage-SUPER.ESS-CND put-PFV.CVB river-AD.VERS II-carry-SIM.CVB water-GEN1 voice hear-ANT.CVB-CNTR DEM1.IISG.OBL-POSS.ESS frost-ATTR-DEF-EMPH shout IV-emit-PST.UNW
+Translation: He put the box onto a carriage and while carrying it to a river, but when he heared the water's voice, it emitted a frosty shout.
+Sentence: Howlotow nełar riyn ža reƛ’a łas yałrułi, neła q’orolays reƛ’a yoł žaƛin esin neła xanqo.
+Gloss: there-EMPH DEM1.IISG.OBL-LAT IV-know-PFV.CVB DEM1.SG hand who.OBL-GEN1 be-MSD DEM1.IISG.OBL widow-GEN1 hand be DEM1.SG-QUOT tell-PST.UNW DEM1.IISG.OBL-ERG khan-POSS.ESS
+Translation: And there she knew whose hand it was: "It's this widow's hand.", she told the king.
+Sentence: Ža łas ħalt’i yałrun čuqˤno k’oƛin yedu xizay.
+Gloss: DEM1.SG who.OBL-GEN1 work be-IMM.ANT.CVB notice-PFV.CVB run-PST.UNW DEM2.IISG behind
+Translation: Just when he noticed who's work this was, he ran behind [him].
+
+Approximate Matches:

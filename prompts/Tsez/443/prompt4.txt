@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hiƛ’ar in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hiƛ’ar: 
+
+Exact Matches
+Sentence: Nełar ža ʕaq’ˤu etix zown, hudun Musa hiƛ’ar anusi ičix zown - miskinaw oqzaƛ’ ža däx yuyn yegärinč’i, yuyn näxinč’iƛin.
+Gloss: DEM1.IISG.OBL-LAT DEM1.SG much love-IPFV.CVB be.NPRS-PFV.CVB nevertheless Musa worry be.NEG-ATTR be-IPFV.CVB be.NPRS-PST.UNW - poor become-CSL.CVB DEM1.SG me-AD.ESS and(?) II-send-NEG.FUT and(?) come-NEG.FUT-QUOT
+Translation: She loved him very much, but Musa didn't care about this, thinking: "Because I am so poor, he wont give me to her and she won't come to me either."
+
+Approximate Matches:
+Sentence: Elo yedu q’ˤuya gamiƛ’arno yizin ħaƛ’ala xʷasarno yoqno lilyoxar yok’ełno.
+Gloss: there DEM2.IISG other boat-SUPER.VERS-TOP II-get-PFV.CVB hardly rescue-TOP II-become-PFV.CVB river.bank-AD.VERS II-escape-PST.UNW
+Translation: There she got to another boat, was bearly rescued and escaped to the shore.
+Sentence: Hudayzikotow Ražbadiner bodixosi berten Tawadiƛ’ar butirno.
+Gloss: the.next.day-EMPH Razhbadin-LAT III-do-PRS.PRT marriage Tavadi-SUPER.VERS III-begin-PST.UNW
+Translation: The next day the marriage which was prepared for Razhbadin turned to Tawadi.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: anusi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": anusi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word anusi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełasgon łinasnokin hunar anusi kid zownƛax.
+Gloss: DEM1.IISG.OBL-GEN1-CNTR what.OBL-GEN1-TOP-even talent be.NEG-ATTR daughter be.NPRS-PST.UNW-QUOT
+Translation: She had a daughter with no talent whatsoever.
+Sentence: Ħayran boqno yizä sidä sidqor eƛin, eloš nesi žek’uł adäza anusi šebinonwa anu, hudun nesiq łinaƛ’orkin reƛ’a regirełxanuwaƛin.
+Gloss: be.astonished I.PL-become-PFV.CVB DEM2.IPL-ERG one.OBL-ERG one.OBL-POSS.LAT say-PST.UNW over.there DEM1.ISG.OBL man-CONT.ESS before be.NEG-ATTR something-Q be.NEG nevertheless DEM1.ISG.OBL-POSS.ESS what.OBL-SUPER.LAT-even hand IV-let-POT-PRS-NEG-Q-QUOT
+Translation: They were surprised and talked among each other: "Isn't there everything possible on the table, but he nevertheless can't let his hand to any of it?"
+Sentence: Barus yołi kid łinasnotow hunarno, maxšelno, bažarin anusi zown.
+Gloss: wife-GEN1 however daughter what.OBL-GEN1-TOP-EMPH talent-and skill-and skill-and be.NEG-ATTR be.NPRS-PST.UNW
+Translation: The wife's daughter however had no talent or skill whatsoever.
+
+Approximate Matches:
+Sentence: Žan zown małiru risxanusi, t’ubaraw ʕaq’lus anusi iłe.
+Gloss: DEM1.SG-TOP be.PST-GER teach-PST.PRT IV-take-NEG.PRSPRT full mind-GEN1 be.NEG-LNK as
+Translation: And he was disobedient and had a defective mind.
+Sentence: (Ža kid c’aq’ bercinaw, ƛ’iräy ozuri boɣa retixanusi yiłe zown.)
+Gloss: DEM1.SG girl very beautiful from.above eye III-take.away-INF IV-want-NEG.PRS.PRT II-as be.NPRS-PST.UNW
+Translation: (That girl was so beautiful, that one wouldn't want to keep the eyes from her.)
+Sentence: Kidbezno baruzno rožƛ’ay iziłxanusi žek’u zown ža.
+Gloss: daughter-GEN2-and wife-GEN2-and word-SUPER.ABL get-POT-NEG.PRS.PRT man be.NPRS-PST.UNW DEM1.SG
+Translation: The man could not get away from his daughter's and his wife's words.

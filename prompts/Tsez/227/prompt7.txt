@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iyran in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iyran: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nesä q’ebedzo žaqor eƛin, sosi däq yałru micxir bac’no łiyran, xizyo dowqosi łiyranƛin.
+Gloss: DEM1.ISG.OBL-ERG smith-GEN2 son-POSS.LAT say-PST.UNW at.first me-POSS.ESS be-PST.PRT money III-eat-PFV.CVB finish-FUT.CVB afterwards you-POSS.ESS-ATTR finish-FUT.DEF-QUOT
+Translation: He said to the smith's son: "First we'll spend my money, then we'll spend yours."
+Sentence: Ža esin nesiq rok’äłruntow, xanä nukar bełiquz žader egirno, ža aɣin bown däder horoƛin, nesiq riyranix.
+Gloss: DEM1.SG tell-PFV.CVB DEM1.ISG.OBL-POSS.ESS IV-be.in.time-IMM.ANT.CVB-EMPH khan-ERG henchman hunter-GEN2 son-APUD.LAT send-PST.UNW DEM1.SG bird-TOP III-bring-PFV.CVB me-APUD.LAT come.IMPR-QUOT DEM1.ISG.OBL-POSS.ESS IV-explain-MSD-AD.ESS
+Translation: Right after he told him that, the king sent the henchman to the hunter's son in order to explain to him, "Come to me and bring me that bird!"
+Sentence: Ža šinaw šebin eniwq esinosi, ħiƛ’oqus ħal biyranix hemedurtow užä q’ˤida kurno.
+Gloss: DEM1.SG every thing mother-POSS.ESS tell-ANT.CVB handkerchief-GEN1 condition III-explain-MSD-AD.ESS so-EMPH boy-ERG down spread.out-PST.UNW
+Translation: After he had told his mother everything, in order to show the handkerchief's condition, the boy spread it out.

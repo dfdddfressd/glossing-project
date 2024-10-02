@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Yisis in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Yisis: 
+
+Exact Matches
+Sentence: Žedaƛ’or ʕišq’un erno yisis bežet’ani esnabi žeda žeduz ʕomoyzaƛ’no zown ɣudes elor baħnayx zown.
+Gloss: DEM1.IIPL.OBL-SUPER.LAT love-TOP put-PFV.CVB DEM2.ISG.OBL-GEN1 I.PL-old-DISTR-DEF brother-PL DEM1.IPL.OBL-ERG DEM1.IPL.OBL-GEN2 donkey-PL-SUPER.ESS-TOP ride-PFV.CVB daily there-LAT I.PL-walk.around-IPFV.CVB be.NPRS-PST.UNW
+Translation: His older brothers fell in love with them and rode to there every day on their donkeys.
+Sentence: Yizi biħanayxozo mečoƛ’or ayn, yisä salam teƛnosi, ʕoƛiran esnaza yisis salam butirno, yiziƛ’ biħanada bayrut’anibi yołi täqinč’irus riłe royn bičin.
+Gloss: DEM2.IPL.OBL I.PL-fight-PRS.PRT.OBL place-SUPER.LAT come-PFV.CVB DEM2.ISG.OBL-ERG greeting give-ANT.CVB seven.OBL-TOP brother-PL-ERG DEM2.ISG.OBL-GEN1 greeting III-give.back-PFV.CVB DEM2.IPL.OBL-SUPER.ESS I.PL-fight-INF I.PL-come-PST.PRT-DISTR-DEF-PL however hear-NEG.FUT.CVB-PST.PRT-GEN1 IV-as IV-do-PFV.CVB I.PL-be-PST.UNW
+Translation: He went to the place where they were fighting, and when he greeted them, the seven brothers gave back the greeting, the ones they were fighting however pretended not to have heard anything.
+Sentence: Hič’č’a adäzaytow soder eni- babiwde idu zawru yisä yisis ʕamal boda oqno, dicegon bara eƛiłin ya qaca ret’urxo zownanu, ya łi rowa ik’ix zownanu, ya q’ˤuya iduzo ħalt’oqor utin ezux zownanu.
+Gloss: the.most in.front-IN.ABL.DIST-EMPH after mother father-APUD.ESS home be.NPRS-PST.PRT DEM2.ISG.OBL-ERG DEM2.ISG.OBL-GEN1 behaviour III-do-INF begin-PFV.CVB how.much-CNTR wife-ERG say-CNC.CVB neither firewood IV-hack-IPFV.CVB be.NPRS-PFV.CVB-NEG neither water IV-bring-INF go-IPFV.CVB be.NPRS-PFV.CVB-NEG neither other home-ATTR.OBL work-POSS.LAT turn-PFV.CVB look-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: Right from the beginning he started to behave like in the house of his parents; how much his wife would say, he neither hacked firewood, nor did he go and bring water, nor did he do look for or did any other housework.
+
+Approximate Matches:
+Sentence: Elay oqno ik’iƛ’oräy, yisir hunix xalq’i keze boqno.
+Gloss: there-IN.ABL become-PFV.CVB go-SIM.CVB DEM2.ISG.OBL-LAT way-AD.ESS people meet III-become-PST.UNW
+Translation: While he was getting away from there, he met some people on the way.
+Sentence: Elo yisir šeƛ’urez meča ħošan lagiq šet’u rutirno ahli besun.
+Gloss: there DEM2.ISG.OBL-LAT clothing-GEN2 instead.of hides-TOP body-POSS.ESS around IV-turn-PFV.CVB people III-find-PST.UNW
+Translation: There he found people wearing hides around their body instead of clothes.
+Sentence: Sosi bic’no ik’inosi, aždaħä yisiqor roži eƛinanu.
+Gloss: at.first III-fill-PFV.CVB go-ANT.CVB dragon-ERG DEM2.ISG.OBL-POSS.LAT word say-PFV.CVB-NEG
+Translation: When he first filled the jug, the dragon didn't say a word to him.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣˤuruš.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣˤuruš
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣˤuruš:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hudun ži ɣˤuruš neƛnäy sisgon bodan deber di ʕaq’luƛin razi oqno eženi.
+Gloss: nevertheless now ruble give-CND.CVB one-CNTR III-do-FUT.DEF you-LAT me advice-QUOT agree become-PST.UNW old-DEF
+Translation: "Nevertheless, if you give me a ruble, I'll give you another advice.", agreed the old man.
+Sentence: Łˤono qacis hoko t’it’inäy, łˤono ɣˤuruš neƛanƛin q’ut’in bodin, eynoda egirno xecin.
+Gloss: three firewood-GEN1 carriage fell-CND.CVB three ruble give-FUT.DEF-QUOT agreement-TOP III-do-PFV.CVB work-INF let-PFV.CVB leave-PST.UNW
+Translation: "If you fell three carriages with firewood, I'll give you three rubles."; they made an agreement and he let him work and left.
+Sentence: Mi ža bazaryaɣorno bižin łera ʕazara ɣˤurušyoƛ teƛ, moƛ’oqˤoy yołi łeno bišom ɣˤuruš neƛłikin täƛno, dey ruħ nełał bičixosi yoł, nagaħ mi ža teƛnäy, di exuxosi yołƛin.
+Gloss: you DEM1.SG bazar-IN.VERS-TOP III-lead-PFV.CVB five.OBL thousand ruble-SUB.ESS sell bridle however five hundred ruble give-CND.CVB.IRR-even sell-PROHIB me-GEN1 soul DEM1.IISG.OBL-CONT.ESS III-be-PRS.PRT be suppose you DEM1.SG sell-CND.CVB me die-PRS.PRT be-QUOT
+Translation: Lead it to the market and sell it for 5,000 rubles, the bridle however don't sell even if you were given 500 rubles, my soul will be inside; if you sell it, I will die."
+
+Approximate Matches:
+Sentence: Nece xira, łˤora ɣˤurušyoƛ, yedu q’ut’u teƛxo boqzaƛ’, yiłas hunarno eso mi däqƛin?”.
+Gloss: so.much expensive three.OBL ruble-SUB.ESS DEM2.IISG earthen.jug sell-IPFV.CVB III-happen-CSL.CVB DEM2.IISG.OBL-GEN1 talent-TOP tell-IMPR you me-POSS.ESS-QUOT
+Translation: "So expensive, you're selling this jug for three rubles, tell me about its ability!"
+Sentence: Nedur resunäyƛin, eƛin bara, t’ay deber di uyno ɣˤurušno neƛan, nełaƛ ʕaq’lu bisanix mi pulanaw žek’uder sida ʕaƛar ik’iƛin.
+Gloss: so IV-exist-CND.CVB-QUOT say-PFV.CVB wife-ERG from.here you-LAT me four ruble-TOP give-FUT.DEF DEM1.IISG.OBL-SUB.ESS advice III-take-MSD-AD.ESS you a.certain man-APUD.LAT one.OBL village-IN.LAT go-QUOT
+Translation: "If that's the case," said his wife, "I will give you four rubles from here; go to a village to a certain man in order to buy an advice with it."
+Sentence: Sosigon žoyä łˤono ɣˤurušno teƛno, eženi žek’uqor ʕaq’lu bodoƛin eƛin.
+Gloss: again-CNTR boy-ERG three ruble-TOP give-PFV.CVB old-DEF man-POSS.LAT advice III-do-IMPR-QUOT say-PST.UNW
+Translation: Again, the boy gave him the third ruble and said to the old man: "Give me an advice!"

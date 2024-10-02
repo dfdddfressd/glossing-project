@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: maduhales.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": maduhales
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word maduhales:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žar čuqˤno nesi bečedawni maduhales piša yedu yałrułi.
+Gloss: son-LAT notice-PFV.CVB DEM1.ISG.OBL wealthy-DEF neighbor-GEN1 deed DEM2.IISG be-MSD
+Translation: The son noticed, that it was a deed of that wealthy neighbor.
+Sentence: Hoboy mi, eni, eloš nesi bečedawni maduhales kidno däx esirno yik’iƛin, eƛin užä.
+Gloss: now you mother over.there DEM1.ISG.OBL wealthy-DEF neighbor-GEN1 daughter-TOP me-AD.ESS ask-PFV.CVB II-go-QUOT say-PST.UNW boy-ERG
+Translation: "Now you, mom, go over there and ask the wealthy neighbour's daughter out for me!", said the boy.
+
+Approximate Matches:
+Sentence: Šudaƛ’ yeda ʕiyayx ukayzaƛ’ maduhaler iyn ža žedus eɣeni esiw yałrułi.
+Gloss: graveyard-SUPER.ESS DEM2.ISG cry-IPFV.CVB see-CSL.CVB neighbor-LAT know-PST.UNW DEM1.SG DEM1.IPL.OBL-GEN1 young-DEF brother be-MSD
+Translation: Because he saw him crying on the grave, the neighbor knew that he was their younger brother.

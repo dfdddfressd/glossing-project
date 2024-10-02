@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word murad in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word murad: 
+
+Exact Matches
+Sentence: Sosi yisä ħumukulis bet’erhanno goƛ’in nesis murad esirnosi, nesä eƛin:
+Gloss: at.first DEM2.ISG.OBL-ERG camel-GEN1 master-TOP call-PFV.CVB DEM1.ISG.OBL-GEN1 wish ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: At first he called the owner of the camel and asked what he desired, the owner said:
+Sentence: Debi iš anu žaƛin, bežet’ani esnabi bixzin boqno xabaryayn yisiqor rok’ƛ’osi murad t’ubazi boqinč’izaƛ’.
+Gloss: you-GEN1 concern be.NEG DEM1.SG-QUOT I.PL-old-DISTR-DEF brother-PL angry-TOP I.PL-become-PFV.CVB tell-PFV.CVB DEM2.ISG.OBL-POSS.LAT heart-SUPER.ESS-ATTR wish fulfill III-become-NEG.FUT.CVB-CSL.CVB
+Translation: "That's not your business.", said the older brothers angrily because their hearts' desire was not fulfilled.
+Sentence: Xanä esirno, debi murad šebi, šebi deber retinƛin.
+Gloss: khan-ERG ask-PST.UNW you-GEN1 wish what what you-LAT IV-want-PST.UNW-QUOT
+Translation: The king asked: "What is your wish, what do you want?"
+
+Approximate Matches:
+Sentence: Xizyo madaxosinin ayn, xandärno yižin neła nełas muradyołäy esin, wallahi, di žax debi kid esira nexäsi yołƛin.
+Gloss: afterwards yard-AD.ESS-ATTR-DEF-TOP come-PFV.CVB khan-APUD.VERS-TOP II-lead-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 wish-CONT.ABL tell-PST.UNW by.God me son-AD.ESS you-GEN1 daughter ask-INF come-RES.PRT be-QUOT
+Translation: Then the house-serf came, lead her to the king, and she told [him] of her wish: "By God, I have come to ask out the kings daughter to marry my son."
+Sentence: Xan ʕuraw ɣˤaɣˤu izin kidno, yisiƛ’ay q’ʷariłi bok’äk’runi misikin užin saɣłiƛ’, nesis muradno t’ubazi bodin xizor butin bayzaƛ’.
+Gloss: khan much be.happy get-PFV.CVB daughter-and DEM2.ISG.OBL-SUPER.ABL sadness III-steal-PST.PRT-DEF poor boy-and health-SUPER.ESS DEM1.ISG.OBL-GEN1 wish-TOP fulfill III-do-PFV.CVB back I.PL-turn.back-PFV.CVB I.PL-come-CSL.CVB
+Translation: The king got very happy that his wish came true, that his daughter and the young boy who helped him out of distress came home safely.
+Sentence: Salamno bisno, kidbez babiya esirno, šebi retin nexä, šebi debi muradƛin.
+Gloss: greeting-TOP III-take-PFV.CVB girl-GEN2 father-ERG ask-PST.UNW what IV-want-PFV.CVB come-PST.WIT.INT what you-GEN1 wish-QUOT
+Translation: The girl's father answered the greeting and asked, "What have you come for, what is your wish?"

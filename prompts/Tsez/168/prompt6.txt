@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boqxoƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boqxoƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boqxoƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yisä esirno, šebi retin meži harizi boqxoƛin.
+Gloss: DEM2.ISG.OBL-ERG ask-PST.UNW what IV-want-PFV.CVB you.PL request I.PL-become-PRS-QUOT
+Translation: He asked: "What are you asking for?"
+Sentence: Žigoƛ’ayn Kusa urɣizi oqno, šebitowey yiłas maʕna boqxoƛin, hudun yisiz q’ˤimłer šebintow rik’in anu.
+Gloss: now-SUPER.ABL-and Kusa thinking become-PFV.CVB what-EMPH-DUB DEM2.IISG.OBL-GEN1 sense III-become-PRS-QUOT nevertheless DEM2.ISG.OBL-GEN2 head-CONT.LAT thing-EMPH IV-go-PST.UNW be.NEG
+Translation: And also now Kusa was thinking: "What sense does this make?", but nothing came into his head.
+
+Approximate Matches:
+Sentence: Zira eƛix zown, ħurženyabin, k’ukno där keze roqxoƛin.
+Gloss: fox-ERG say-IPFV.CVB be.NPRS-PST.UNW bag-PL-and cap-and me-LAT meet III.PL-become-PRS-QUOT
+Translation: The fox was saying: "The bags and the cap belong to me!"
+Sentence: Elo teł yexasi esiw yesunosi, yedu šebin šebi t’o idu roqxoƛin baruzaq esirzaƛ’, elar riyxosi šebin anuƛin, inkar bisno ričin.
+Gloss: there inside II-die-RES.PRT sister II-find-ANT.CVB DEM2.IISG thing what here home IV-happen-PRS-QUOT wife-PL-POSS.ESS ask-CSL.CVB here-IN.LAT IV-know-PRS.PRT thing be.NEG-QUOT rejection III-take-PFV.CVB II.PL-be-PST.UNW
+Translation: When they found their dead sister inside, and asked their wives: "What happened here at home?", they rejected: "We don't know anything about this here."
+Sentence: Bahadur igtow razi oqxo sadaqor halmaɣłi roqxoƛin.
+Gloss: hero well-EMPH agree become-IPFV.CVB together-LAT friendship IV-become-PRS-QUOT
+Translation: The hero accepted well that there were friends with him.

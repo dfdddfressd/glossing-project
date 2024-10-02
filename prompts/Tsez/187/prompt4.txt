@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ħillan.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ħillan
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ħillan:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanes ħillan čuqˤno, kidbä ʕansaqor, bišodyołäysi zahru bok’ek’ƛinno eƛin, xizyo bercingo bišno.
+Gloss: khan-GEN1 trickery-TOP notice-PFV.CVB daughter-ERG walking.stick-POSS.LAT food-CONT.ABL-ATTR poison III-steal-QUOT-TOP say-PFV.CVB after good I.PL-eat-PST.UNW
+Translation: Noticing the king's trickery, and the daughter told the walking stick to remove the poison in the food, whereafter they ate well.
+
+Approximate Matches:
+Sentence: Hawaƛ’no, raładyołno, raƛ’moƛ’no žeda di esursi, ana debi q’ˤuya ħilla- makruƛin, esirno užä.
+Gloss: air-SUPER.ESS-TOP sea-CONT.ESS-TOP earth-SUPER.ESS-TOP DEM1.IPL-ERG me find-PST.WIT be.NEG-Q you-GEN1 other trickery ruse-QUOT ask-PFV.CVB boy-ERG
+Translation: "They have found me in the air, in the sea and on the earth, do you have another trick?" the boy asked.
+Sentence: Elon eɣeni esiya žedur sis ħilla urɣizi bodin, araq’is bic’äsi q’urec’nin bižin ik’in, xanes nukarbin ħalik’no, elay eženi esiws cudi bok’ek’anƛin.
+Gloss: there-TOP young-DEF brother-ERG DEM1.IPL.OBL-LAT one trickery thinking III-do-PST.UNW vodka-GEN1 III-fill-RES.PRT mule-TOP III-lead-PFV.CVB go-PFV.CVB khan-GEN1 henchman-PL-TOP water-PFV.CVB there-IN.ABL old-DEF brother-GEN1 corpse III-steal-FUT.DEF-QUOT
+Translation: There the younger brother thought of playing a trickery on them: he would lead a mule packed with vodka and would "water" the king's henchmen and then would steal his older brother's corpse from there.
+Sentence: Xanä xizyo sisgon ħilla urɣizi bodin.
+Gloss: khan-ERG afterwards one-CNTR trickery thinking III-do-PST.UNW
+Translation: The king afterwards thought of yet another trickery.

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bˤeƛ’q’uł.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bˤeƛ’q’uł
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bˤeƛ’q’uł:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sebixasi zaman baynosi, Paxrudinä Alimaħamaqor eƛin, ixdaxor ɣutanłäzay ħonqaɣor bˤeƛ’ rownosi, bˤeƛ’q’uł xizay kami anusi ƛeli bayrnäy, boƛik’u reqen deber xeca yołƛin.
+Gloss: autumn-AD.ESS-RES.PRT time III-come-ANT.CVB Pakhrudin-ERG Alimagomed-POSS.LAT say-PST.UNW spring-AD.LAT winter.pasture-CONT.ABL.DIST mountain-POSS.VERS sheep III.PL-bring-ANT.CVB sheep-CONT.ESS behind get.lost be.NEG-ATTR lamb III-lead-CND.CVB half herd you-LAT leave-INF be-QUOT
+Translation: When fall came, Pakhrudin said to Alimagomed: "Until spring, after your brought the sheep to the mountains onto the winter pastures, if you lead a lamb that doesn't get lost behind every sheep, then I'll leave you half of the herd."
+
+Approximate Matches:
+Sentence: Nesiztow bˤeƛ’eł yałru biƛurox aluk’ani bˤeƛ’q’ˤus reƛ rac’näy, ža xan saɣ oqxosi yałrułin xalq’imor riyxanu.
+Gloss: DEM1.ISG.OBL-GEN2-EMPH sheep-CONT.ESS be-PST.PRT belly-AD.ESS white-DEF sheep-GEN1 meat IV-eat-CND.CVB DEM1.SG khan cure become-PRS.PRT be-PST.PRT-NMLZ-and people-LAT IV-know-IPFV.CVB-NEG
+Translation: When he eats the meat of a sheep from his flock, which is white on its belly, this king will be healed; but the people don't know this.
+Sentence: Ħonƛ’ay ža bˤeƛ’q’ˤun bayrno, bexʷayn nełas reƛ xanqo rac’ernosi, ža saɣ oqno.
+Gloss: mountain-SUPER.ABL DEM1.SG sheep-TOP III-bring-PFV.CVB III-slaughter-PFV.CVB DEM1.IISG.OBL-GEN1 meat khan-POSS.ESS IV-eat-CAUS-ANT.CVB DEM1.SG cure become-PST.UNW
+Translation: That sheep was brought from the mountain, slaughtered and when he let the king eat its meat, he got cured.
+Sentence: Wallaƛin, eƛin boc’ä, howža xanez bˤeƛ’eł zawru biƛurox aluk’ani bˤeƛ’q’ˤu yaqˤułer narƛa bok’ełnoƛin.
+Gloss: wallah-QUOT say-PFV.CVB wolf-ERG DEM4.SG khan-GEN2 sheep-CONT.ESS be.NPRS-PST.PRT belly-AD.ESS white-DEF sheep today-LAT where-INDEF III-escape-PST.UNW-QUOT
+Translation: "I swear," said the wolf, "the sheep with the white belly which was among the flock of sheep of that king there escaped somewhere today."

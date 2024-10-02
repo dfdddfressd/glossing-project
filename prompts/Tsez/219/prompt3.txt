@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yoqzaƛ’or in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yoqzaƛ’or: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ʕAƛar aynƛin teqzaƛ’ortow Ražbadin yizzoxor oƛixzaƛ’, kidbez babiya bigtow tamašan bodin, yisiz ħurmatyoxay rigu bišʷan rodin.
+Gloss: village-IN.LAT come-PFV.CVB-QUOT hear-POST.CVB-EMPH Razhbadin DEM2.IPL.OBL-ATTR.OBL-AD.LAT appear-CSL.CVB girl-GEN2 dad-ERG III-much-EMPH astonished-TOP III-do-PFV.CVB DEM2.ISG.OBL-GEN2 respect-AD.ABL IV-good food-TOP IV-do-PST.UNW
+Translation: Because Razhbadin appeared at their place before he heard that he had come to the village, the girl's dad was very surprised and out of respect for him he prepared a good meal.

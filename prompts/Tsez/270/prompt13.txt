@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word baħnayx in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word baħnayx: 
+
+Exact Matches
+Sentence: Žedaƛ’or ʕišq’un erno yisis bežet’ani esnabi žeda žeduz ʕomoyzaƛ’no zown ɣudes elor baħnayx zown.
+Gloss: DEM1.IIPL.OBL-SUPER.LAT love-TOP put-PFV.CVB DEM2.ISG.OBL-GEN1 I.PL-old-DISTR-DEF brother-PL DEM1.IPL.OBL-ERG DEM1.IPL.OBL-GEN2 donkey-PL-SUPER.ESS-TOP ride-PFV.CVB daily there-LAT I.PL-walk.around-IPFV.CVB be.NPRS-PST.UNW
+Translation: His older brothers fell in love with them and rode to there every day on their donkeys.
+Sentence: Amma k’eč’oli hokomeł xizay baħnayx zown.
+Gloss: but foal carriage-CONT.ESS from.behind III-walk.around-IPFV.CVB be.NPRS-PST.UNW
+Translation: But the foal was walking around behind the carriage.
+Sentence: Neširugon žedu baħnayx zawrunitow hunäza q’ˤanon esnabi micxir bok’ek’anix bayn.
+Gloss: at.night-CNTR DEM1.IPL I.PL-walk.around-IPFV.CVB be.NPRS-PST.PRT-DEF-EMPH way-IN.VERS.DIST two-TOP brother-PL money III-steal-MSD-AD.ESS I.PL-come-PST.UNW
+Translation: At night, then, the two brothers came on the same way they had been walking on, to steal the money.
+
+Approximate Matches:
+Sentence: Hemedur anƛ’ima baħnayn žeduq sosikin bełi biqinanu.
+Gloss: so week-IN.ESS I.PL-walk.around-PFV.CVB DEM1.IPL.OBL-POSS.ESS at.first-even hunting III-get-PFV.CVB-NEG
+Translation: So they walked around for a week and at first didn't get any prey.
+Sentence: Anƛ’ima baħnayłin žeduq nedugani reƛis sis t’it’ukin riqinanu.
+Gloss: week-IN.ESS I.PL-walk.around-CNC.CVB DEM1.IPL.OBL-POSS.ESS such-ATTR-DEF meat-GEN1 one piece-even IV-get-PST.UNW-NEG
+Translation: Although they walked around for a week, they could not get even a piece of such a meat.
+Sentence: Kidbazał xizay yedu kid elar yaħnayx, t’ar yaħnayx yičin yiłaq ɣudi sasiłno.
+Gloss: girl-PL-CONT.ESS from.behind DEM2.IISG girl there-IN.LAT II-walk.around-IPFV.CVB thither II-walk.around-IPFV.CVB II-be-PFV.CVB DEM2.IISG.OBL-POSS.ESS day get.dark-PST.UNW
+Translation: While the girl walked around hither and thither behind the girls, it got dark around her.

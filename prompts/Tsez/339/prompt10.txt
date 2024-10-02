@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žek’u in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žek’u: 
+
+Exact Matches
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Hag oqno ƛexun ečruni žek’u.
+Gloss: amazingly become-PFV.CVB remain-PFV.CVB old-DEF man
+Translation: The old man was amazed.
+
+Approximate Matches:
+Sentence: Xizaɣor bertenno bodin, kid bečedawni žek’us žax yegirno.
+Gloss: finally marriage-TOP I.PL-do-PFV.CVB girl wealthy-DEF man-GEN1 son-AD.ESS II-send-PST.UNW
+Translation: Finally they married and sent the girl to the son of the rich man.
+Sentence: Xizyogon esirno nesä, nesi t’omceni žek’ur roqäsi šebintow yołä, łuq’zinan oqäsi zowä žaƛin.
+Gloss: then ask-PST.UNW DEM1.ISG.OBL-ERG DEM1.ISG.OBL span-EQU1-DEF man-LAT IV-happen-RES.PRT thing-EMPH be-PST.WIT.INT hurt-INT become-RES.PRT be.NPRS-PST.WIT.INT DEM1.SG-QUOT
+Translation: Then he asked: "Did anything happen to the span-sized man, was he hurt?"
+Sentence: Boƛƛo baq’ˤu zaman bik’izaƛ’ortow, elo best’alawni kidbede igor sis žek’un ayn nesä eƛin, aki raɣˤoƛin.
+Gloss: III-middle III-much time III-go-POST.CVB-EMPH there step-DEF daughter-APUD.ESS near-LAT one man-TOP come-PFV.CVB DEM1.ISG.OBL-ERG say-PST.UNW window IV-open-IMPR-QUOT
+Translation: Before much time had passed, a man came to the stepdaughter and he said: "Open the window!"

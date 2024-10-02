@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bik’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bik’in: 
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Howlo lilyoxtow yedan xecin, xanderno bik’in ziru c’ok’inayn:
+Gloss: there river.bank-AD.ESS-EMPH DEM2.ISG-and leave-PFV.CVB khan-APUD.LAT-and I.PL-go-PFV.CVB fox scold-PST.UNW
+Translation: When they left the river bank there and went to the king, the fox scolded:
+Sentence: Nełquł sasaq č’ˤurqotow bizin onoču qaciƛ’or bik’in.
+Gloss: on.that.day tomorrow in.the.morning-EMPH III-get.up-PFV.CVB hen firewood-SUPER.LAT III-go-PST.UNW
+Translation: The next day, in the early morning, the hen got up and went after firewood.
+
+Approximate Matches:
+Sentence: Šebey roqsiƛin, idur bik’inosi, ɣˤutkos ac tełäz ħišäsi yesun.
+Gloss: what-DUB IV-happen-PST.WIT-QUOT home-LAT I.PL-go-ANT.CVB house-GEN1 door inside-IN.ESS.DIST lock-RES.PRT II-find-PST.UNW
+Translation: "What happened?", they asked and when they went home, they found the house door locked from inside.
+Sentence: Boƛƛo tabanaw mix bik’inosi, Ražbadinƛ’or Tawadis kaɣat yayx, ec’noni barun yown pulanaw ɣudƛ’or Telawär horo, Tiblisä t’et’erno łiyn ayru užis berten boyxosiƛin.
+Gloss: III-middle long time III-go-ANT.CVB Razhbadin-SUPER.LAT Tavadi-GEN1 letter II-come-IPFV.CVB new-DEF wife-TOP II-bring-PFV.CVB a.certain day-SUPER.LAT Telavi-IN.LAT come.IMPR Tbilisi-IN.ESS learn-PFV.CVB end-PFV.CVB come-PST.PRT son-GEN1 marriage III-do-PRS.PRT-QUOT
+Translation: After quite a long time has passed, a letter from Tavadi came to Razhbadin: "Come to Telavi on a certain day and bring your new wife; we are preparing the marriage of my son who came from finishing his studies in Tbilisi."
+Sentence: Ɣedu biqiranƛin bik’inƛax žedu, mark’ač’uxar xizor butin bayn, eluq ɣedu biqinč’uƛin.
+Gloss: shade III-take.away-FUT.DEF-QUOT I.PL-go-PFV.CVB-QUOT DEM1.IPL twilight-AD.VERS back I.PL-turn.back-PFV.CVB I.PL-come-PFV.CVB we(I).OBL-POSS.ESS shade III-get-NEG.PST.WIT-QUOT
+Translation: "We will take the shadow", and they went on and came back in the twilight: "We didn't get the shadow."

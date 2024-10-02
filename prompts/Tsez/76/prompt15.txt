@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: neƛa.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": neƛa
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word neƛa:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ričiƛƛin, razi oqno ža, amma imadu esa adäza meža yiła ɣˤutkoq acno ħišin reka däqor neƛa ray.
+Gloss: IV-be-OPT-QUOT agree become-PFV.CVB DEM1.SG but tale tell-INF before you(I).PL.OBL-ERG DEM2.IISG.OBL house-POSS.ESS door-TOP lock-PFV.CVB key me-POSS.LAT give-INF IV-must
+Translation: "So be it!", he agreed, "but before I tell the tale, you must lock the door of this house and give me the key."
+Sentence: Žeda eƛin, ʕaƛos boƛik’u ric’q’i neƛa yołƛin.
+Gloss: DEM1.IPL-ERG say-PST.UNW village-GEN1 half wealth give-INF be-QUOT
+Translation: They said: "We will give [you] half the wealth of the village!"
+Sentence: Xanä urɣizikin oqxo ičinč’ey nesir žawab teƛno, boƛƛik’u dey ric’q’i neƛa yoł deberƛin.
+Gloss: khan-ERG thinking-even become-IPFV.CVB be-NEG.PST.CVB DEM1.ISG.OBL-LAT answer give-PFV.CVB III-half me-GEN1 wealth give-INF be you-LAT-QUOT
+Translation: The king wasn't thinking and answered him: "I will give you half of my wealth!"
+
+Approximate Matches:

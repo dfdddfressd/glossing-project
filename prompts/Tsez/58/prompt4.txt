@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ƛirbałix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ƛirbałix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ƛirbałix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žeduder ƛirbałix din aysi, där žeda rigu ƛirbałin roysi, din nexsi mežuq yedu kesu esanix.
+Gloss: DEM1.IPL.OBL-APUD.LAT hospitality-AD.ESS me-and come-PST.WIT me-LAT DEM1.IPL.OBL-ERG IV-good hospitality-TOP IV-do-PST.WIT me-TOP come-PST.WIT you(I).PL.OBL-POSS.ESS DEM2.IISG tale tell-MSD-AD.ESS
+Translation: I came to them as a guest as well, they treated me great and I have come to tell you this story.
+Sentence: Bayn yizirabi ƛirbałix sid žek’ude idur.
+Gloss: I.PL-come-PFV.CVB DEM2.PL hospitality-AD.ESS one.OBL man-APUD.ESS home-LAT
+Translation: Then came home to a man as guests.
+Sentence: Mix bik’äsi zamanno boqzaƛ’, yiła ɣˤanaza yeda neła nełdäɣor ƛirbałix ižix.
+Gloss: time III-go-RES.PRT time-TOP III-become-CSL.CVB DEM2.IISG.OBL woman-ERG DEM2.ISG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-APUD.VERS hospitality-AD.ESS lead-PRS
+Translation: Because some time had passed, that woman let him be her guest.
+
+Approximate Matches:
+Sentence: Rigu ƛirbałin rodin, ža čantan saɣyatyos teƛno, ceyä bełiqan hunix egirno, neła čantaƛ’osi iƛ’u idur ayzaƛ’or yizärnoƛin.
+Gloss: IV-good hospitality-TOP IV-do-PFV.CVB DEM1.SG pocket-TOP present-GEN1 give-PFV.CVB eagle-ERG hunter way-AD.ESS send-PFV.CVB DEM1.IISG.OBL-ERG pocket-SUPER.ESS-ATTR lid home-LAT come-POST.CVB II-lift-PROHIB-QUOT
+Translation: Being a good host, the eagle gave the pocket as a present and sent the hunter on his way [saying]: "Don't lift the pocket's lid before you came home!"
+Sentence: Di deber łˤora ɣudi ƛirbałi rodinosi, xabaryada yoł dowqor.
+Gloss: me you-LAT three.OBL day hospitality IV-do-ANT.CVB story-COND be you-POSS.LAT
+Translation: After I have been your host for three days, I will talk to you.
+Sentence: Žeduder ƛirbałix din aysi, där žeda rigu ƛirbałin roysi, din nexsi mežuq yedu kesu esanix.
+Gloss: DEM1.IPL.OBL-APUD.LAT hospitality-AD.ESS me-and come-PST.WIT me-LAT DEM1.IPL.OBL-ERG IV-good hospitality-TOP IV-do-PST.WIT me-TOP come-PST.WIT you(I).PL.OBL-POSS.ESS DEM2.IISG tale tell-MSD-AD.ESS
+Translation: I came to them as a guest as well, they treated me great and I have come to tell you this story.

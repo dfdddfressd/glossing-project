@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yaqzay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yaqzay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yaqzay:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yeda bełiƛ’ ik’a aqzay soder xanez nukarzaskin bełis bax bexun.
+Gloss: DEM2.ISG hunting-SUPER.ESS go-INF begin-SIM.CVB after khan-GEN2 henchman-PL-GEN1-even hunting-GEN1 success III-die-PST.UNW
+Translation: After he began to go hunting, even the king's henchmen's hunting luck deteriorated.

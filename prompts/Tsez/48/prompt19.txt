@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yoƛ’ˤun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yoƛ’ˤun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yoƛ’ˤun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža lel yoƛ’ˤun ƛ’iräzay nesis koyär yayn.
+Gloss: DEM1.SG feather II-fall-PFV.CVB above-IN.ABL.DIST DEM1.ISG.OBL-GEN1 hand-IN.LAT II-come-PST.UNW
+Translation: The feather fell down and into his hand.
+Sentence: Xizyo eɣeni esiya nełaz c’eruc’a caƛinosi, sis nełas lel ɣunoƛer yoƛ’ˤun yayn, t’awusno hawaƛ’ k’oƛin boxin bik’in.
+Gloss: afterwards young-DEF brother-ERG DEM1.IISG.OBL-GEN2 bow shoot.with-ANT.CVB one DEM1.IISG.OBL-GEN1 feather tree-SUB.LAT II-fall-PFV.CVB II-come-PFV.CVB peacock-TOP air-SUPER.ESS jump-PFV.CVB III-run.away-PFV.CVB III-go-PFV.CVB
+Translation: Then the youngest brother shot with the bow and the peacock flew away, but one feather fell down under the tree.
+Sentence: Neł kawumoz acmoq rexoriłno zawru ɣˤʷak’un riqirno yizanƛin yaqru ža, ƛ’irir ža yoq’ˤugani acno yoƛ’ˤun Qartayn ƛ’iƛ’iłno yexun.
+Gloss: DEM1.IISG.OBL gate-GEN2 door-ERG-POSS.ESS IV-hang-PFV.CVB be.NPRS-PST.PRT hook-TOP IV-take.away-PFV.CVB II-get.up-FUT.CVB-QUOT II-begin-PST.PRT DEM1.SG above-LAT DEM1.SG II-heavy-ATTR-DEF door-TOP II-fall-PFV.CVB Qartay-TOP get.crushed-PFV.CVB II-die-PST.UNW
+Translation: Qartay took the hook that hang at the door of that gate, began to get up; the heavy door fell down, Qartay got crushed and died.
+
+Approximate Matches:
+Sentence: Elo yezun-yoƛ’ˤun yaynosi kidbä eƛin:
+Gloss: there II-examine-PFV.CVB II-come-ANT.CVB girl-ERG say-PST.UNW
+Translation: After coming back from looking up there, the girl said:

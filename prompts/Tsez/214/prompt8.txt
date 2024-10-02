@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: waħaza.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": waħaza
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word waħaza:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Režet’ani ƛoħazaɣor reƛno riħurno, waħaza c’i erno.
+Gloss: IV-big-DISTR-DEF pan-PL-IN.VERS meat-TOP IV-pour-PFV.CVB below-IN.VERS.DIST fire set.up-PST.UNW
+Translation: They poured the meat into big pans and set up a fire below.
+
+Approximate Matches:
+Sentence: Sida quł madaħazay yeda ayzaƛ’or šet’ur bac’ad rodäsi ɣˤutku resun.
+Gloss: one.OBL day-CONT.ESS outside-IN.ABL.DIST DEM2.ISG come-POST.CVB around clean IV-do-RES.PRT house IV-find-PST.UNW
+Translation: One day, when he came from outside, he found the house all cleaned everywhere.
+Sentence: Ižin waħazoni raƛ’moƛ’or ayrxo yeda.
+Gloss: carry-PFV.CVB below-ATTR.OBL-DEF land-SUPER.LAT bring-PRS DEM2.ISG
+Translation: It took him and brought him to the land below.
+Sentence: Sida quł, ɣudod, maħazayzo ɣuɣaymo yedu moƛaxay č’arik’no.
+Gloss: one.OBL day-CONT.ESS at.midnight outside-IN.ABL.DIST-ATTR.OBL noise-ERG DEM2.IISG sleep-AD.ABL wake.up-PST.UNW
+Translation: One day at midnight a noise from far outside woke her up from her sleep.

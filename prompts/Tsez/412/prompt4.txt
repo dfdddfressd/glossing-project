@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word č’uħaraw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word č’uħaraw: 
+
+Exact Matches
+Sentence: Sida quł sasaqosi bara eƛin, di yaqˤuł xexbi royxosi, mi däde igono näxno, č’uħaraw šeƛ’un šeƛ’un madaħarno oƛäxnoƛin.
+Gloss: one.OBL day-CONT.ESS in.the.morning wife-ERG say-PST.UNW me today children III.PL-do-PRS.PRT you me-APUD.ESS near-TOP come-PROHIB gorgeous clothing-TOP put.on-PFV.CVB outside-IN.LAT-and appear-PROHIB-QUOT
+Translation: One day in the morning the wife said: "Today I am giving birth to the children, do not come near me and do not go outside in gorgeous clothing!"
+Sentence: Sasiłzaƛ’or xan idurno ik’inanu, č’uħaraw šeƛ’un šeƛ’unanu.
+Gloss: get.dark-POST.CVB khan home-LAT-and go-PFV.CVB-NEG gorgeous clothing-and put.on-PST.UNW-NEG
+Translation: Until it got dark, the king neither went home nor put on gorgeous clothing.
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."
+
+Approximate Matches:
+Sentence: Yedu haqa yogun ƛexun, nece bercinawn, č’uħarawn šeƛ’u yiła best’alawni kidber naey riqisƛin.
+Gloss: DEM2.IISG mouth-IN.ESS II-gape-PFV.CVB remain-PST.UNW so.much beautiful-and gorgeous-and clothing DEM2.IISG.OBL step-DEF girl-LAT where-DUB IV-get-PST.WIT-QUOT
+Translation: She was gaping: "Where the heck did the 'stepgirl' get so beautiful and gorgeous clothes from?"
+Sentence: Boƛƛäɣor bayzaƛ’ortow, gulun, nełaƛ’gon ƛ’irisini ža č’uħarawni žek’un ɣˤuɣˤuruni neł iħä butirno caƛin, boɣno bižin ƛ’iräy wˤałer.
+Gloss: III-middle-IN.VERS I.PL-come-POST.CVB-EMPH horse-and DEM1.IISG.OBL-SUPER.ESS-CNTR on-ATTR-DEF DEM1.SG proud-DEF man-and muddy-DEF DEM1.IISG.OBL river-IN.ESS I.PL-turn-PFV.CVB stick-PFV.CVB I.PL-take.away-PFV.CVB I.PL-take.out-PFV.CVB from.above downward-LAT
+Translation: Before they reached the middle, the horse and the proud man on it got stuck in that muddy river, and it pulled them downward.

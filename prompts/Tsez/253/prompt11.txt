@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’ixƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’ixƛin: 
+
+Exact Matches
+Sentence: Nesi žaz babiya sidaquł q’orol ɣˤanabin yiqirno nełaq esin, hemedur ɣudƛ’ay ɣudƛ’or dey uži ħalaq’ oqxo ik’ixƛin.
+Gloss: DEM1.ISG.OBL boy-GEN2 father-ERG one.day widowed woman-TOP II-find-PFV.CVB DEM1.IISG.OBL-POSS.ESS tell-PST.UNW so day-SUPER.ABL day-SUPER.LAT me-GEN1 boy meager become-IPFV.CVB go-PRS-QUOT
+Translation: One day the boy's father found a widow and told her that his boy is becoming meager day by day.
+Sentence: Užä žawab teƛno, yaqˤuł di besurozaƛ’or ik’ixƛin.
+Gloss: son-ERG answer give-PFV.CVB today me fish-PL-SUPER.LAT go-PRS-QUOT
+Translation: The son replied: "Today I am going fishing."
+Sentence: Biša rodanix barun yegirno, yeda maħor oqno, bˤeƛ’ rowa ħonƛ’aɣor ik’ixƛin.
+Gloss: food IV-do-MSD-AD.ESS wife-TOP II-let-PFV.CVB DEM2.ISG outside become-PFV.CVB sheep III.PL-bring-INF mountain-SUPER.VERS go-PRS-QUOT
+Translation: He let his wife prepare the meal and went outside: "I am going to the mountains to bring the sheep."
+
+Approximate Matches:
+Sentence: Musaqilično, ʕIsaqilično babiwz šudaxaɣor bik’ixƛin sida q’orol ɣˤanazaz ƛ’emiƛxorno bik’in kecnot’a bičix zown.
+Gloss: Musaqilich-and Isaqilich-and father-GEN2 graveyard-AD.VERS I.PL-go-IPFV.CVB-QUOT one.OBL widowed woman-GEN2 hayloft-SUB.LAT-TOP I.PL-go-PFV.CVB sleep-PFV.CVB-DISTR I.PL-be-IPFV.CVB be.NPRS-PST.UNW
+Translation: Musaqilich and Isaqilich pretended to go to their father's grave, and went to a widow's hayloft to sleep there.
+Sentence: Deber di łi rowa yik’ixƛin esiwqorno eƛin yedu maħor yoqno.
+Gloss: you-LAT me water IV-bring-INF II-go-PRS-QUOT brother-POSS.LAT-TOP say-PFV.CVB DEM2.IISG outside II-become-PST.UNW
+Translation: "I go to bring you some water." she said to her brother and went outside.
+Sentence: Zamanałäy bik’in q’ˤunesno ƛirbabi yałza sida ʕaƛar baynosi, yizi q’ˤunesno daʕba boqno, däz ƛirbadäɣor bik’ixƛin bazargan zown, ay däzodäɣorƛin uži zown ičäsi.
+Gloss: time-CONT.ABL I.PL-go-PFV.CVB two.OBL-GEN1-TOP comrade-PL be-LCV one.OBL village-IN.LAT I.PL-come-ANT.CVB DEM2.IPL.OBL two.OBL-GEN1-TOP dispute I.PL-become-PFV.CVB me-GEN2 comrade-APUD.VERS I.PL-go-PRS-QUOT merchant be.NPRS-PFV.CVB come me-ATTR.OBL-APUD.VERS-QUOT boy be.NPRS-PFV.CVB be-RES.PRT
+Translation: After some time, when they came to a village where they both had comrades, the two of them got into a dispute: "We are going to my comrade.", said the merchant and "Come to mine!" said the boy.

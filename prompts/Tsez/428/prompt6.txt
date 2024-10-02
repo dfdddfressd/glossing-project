@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word elude in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word elude: 
+
+Exact Matches
+Sentence: Uži mažgityaɣor keca ik’ixƛin oqnosi, yedu ƛ’iri yutin ƛirba kecanix mažgityaɣor egiranix elude lamusaw šebin yołƛin.
+Gloss: boy mosque-IN.VERS sleep-INF go-PRS-QUOT become-ANT.CVB DEM2.IISG above II-turn-PFV.CVB comrade sleep-MSD-AD.ESS mosque-IN.VERS let-MSD-AD.ESS we(I).OBL-APUD.ESS shameful thing be-QUOT
+Translation: When the boy was about to go to the mosque to sleep, she insisted: "It is a shame for us to send a comrade to the mosque for him to sleep!"
+Sentence: ʕAƛoz raʕalłixorgon baynosiƛin, eƛin babiya, elude dandir šuša žek’u ižin bik’ixozo xalq’imoqgon Aħmadä esirsi, eƛ’iyä yeda žek’u exasi, yagi žiƛboyäƛin.
+Gloss: village-GEN2 edge-AD.LAT-CNTR I.PL-come-ANT.CVB-QUOT say-PST.UNW dad-ERG we(I).OBL-APUD.ESS towards bury-INF man carry-PFV.CVB I.PL-go-PRS.PRT.OBL people-POSS.ESS-CNTR Akhmed-ERG ask-PST.WIT last.year-Q DEM2.ISG man die-RES.PRT or this.year-Q-QUOT
+Translation: "When we came to the edge of the village," said the father, "Akhmed asked the people that were coming towards us carrying a man to bury him: 'Has this man died last year or this year?'."
+
+Approximate Matches:
+Sentence: Łiƛa yoł eludeƛin, - yizä yizis q’ʷariłi esin, - amma nełaƛ’ ƛ’iri aždaħ baq’ˤułno bičäsi yoł.
+Gloss: water-INDEF be we(I).OBL-APUD.ESS-QUOT - DEM2.IPL.OBL-ERG DEM2.IPL.OBL-GEN1 sadness tell-PST.UNW - but DEM1.IISG.OBL-SUPER.ESS above dragon III-cover-PFV.CVB III-be-RES.PRT be
+Translation: "We have some water", they told with grief, "but a dragon is covering it."

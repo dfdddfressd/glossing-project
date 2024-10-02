@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Yoqno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Yoqno: 
+
+Exact Matches
+Sentence: Didurnokin ħal bayxanusi biyzaƛ’, kidbä siħirno yoqno dibir šeƛ’u roɣa egirno.
+Gloss: how-TOP-even trouble III-come-NEG.PRS.PRT III-know-CSL.CVB girl-ERG sly.person-TOP II-become-PFV.CVB imam clothing IV-take.away-INF let-PST.UNW
+Translation: When she knew he had no trouble [following her], the girl became a sly person and let the imam take off his clothes.
+Sentence: Tabanaw hunäsi hunä yik’in yedu sidaɣ ɣˤutkoxor yaynosi, tełxor yoqno.
+Gloss: long way-IN.ESS-ATTR way-IN.ESS II-go-PFV.CVB DEM2.IISG in.one.place house-AD.LAT II-come-ANT.CVB inside-AD.LAT II-become-PST.UNW
+Translation: When she came to a house somewhere on the long way she was going on, she went inside.
+Sentence: Sosisi ža dey anuƛinno yičin, yedu xizyo ža teƛanix razi yoqno.
+Gloss: at.first-ATTR DEM1.SG me-GEN1 be.NEG-QUOT-TOP II-be-PFV.CVB DEM2.IISG afterwards DEM1.SG give-MSD-AD.ESS agree II-become-PST.UNW
+Translation: At first she was like "I don't have it.", afterwards she agreed to give it away.
+
+Approximate Matches:
+Sentence: Babiwr kidno, esiwr esiyn, xedyor barun, žar eniwn č’agu yoqnoƛax.
+Gloss: father-LAT daughter-and brother-LAT sister-and husband-LAT wife-and son-LAT mother-and alive II-become-PST.UNW-QUOT
+Translation: For the father his daughter, for the brother his sister, for the husband his wife and for the son his mother was alive.

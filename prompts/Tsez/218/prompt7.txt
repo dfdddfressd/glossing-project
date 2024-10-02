@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ok’łä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ok’łä: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža bayzaƛ’or łˤonon esnabi iħun boɣno taqˤaɣorgon bok’łäsi zown.
+Gloss: DEM1.SG III-come-POST.CVB three-TOP brother-PL river-TOP III-cross-PFV.CVB over.there-IN.VERS-CNTR I.PL-escape-RES.PRT be.NPRS-PST.UNW
+Translation: Before he came, the three brothers crossed a river and escaped to there.
+Sentence: C’iɣruk’ yołi iħuƛ’ taqˤorgon oqno ok’łäsi zown.
+Gloss: Tsighruk however river-SUPER.ESS over.there-LAT-CNTR become-PFV.CVB escape-RES.PRT be.NPRS-PST.UNW
+Translation: Tsighruk, however, crossed a river and escaped.

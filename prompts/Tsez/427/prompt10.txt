@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yołäƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yołäƛin: 
+
+Exact Matches
+Sentence: Žan risno iduɣor ik’iƛ’orey, xizayn bayn neł bikorä esirno, deber ža ħiƛ’oqu reynoyrakin koƛ’ixosi yołäƛin.
+Gloss: DEM1.SG-TOP IV-take-PFV.CVB home-IN.ALL go-SIM.CVB from.behind-TOP III-come-PFV.CVB DEM1.IISG.OBL snake-ERG ask-PST.UNW you-LAT DEM1.SG handkerchief IV-work-CAUS-INF-even understand.to-PRS.PRT be-Q-QUOT
+Translation: And he took it and while he was going home, that snake followed him and asked: "Do you know how to get this handkerchief to work?"
+Sentence: Salamno bisno ečruni žek’a yisiq esirno, debi t’o ƛirba yołäƛin.
+Gloss: greeting-TOP III-take-PFV.CVB old-DEF man-ERG DEM2.ISG.OBL-POSS.ESS ask-PST.UNW you-GEN1 here comrade be-Q-QUOT
+Translation: The old man greeted him and asked him: "Do you have a comrade here?"
+Sentence: Elo babiya kidbazaqor eƛin, meži däqor rezun howt’o ričinčey, di ezu-ʕaƛ’a ik’an sasaqor ɣudi qˤaširanix elur t’ozoƛ’ay bigu moči yołäƛin.
+Gloss: there father-ERG daughter-PL-POSS.LAT say-PST.UNW you.PL me-POSS.LAT II.PL-look-PFV.CVB here II.PL-wait-PFV.CVB-INTS me examine-INF go-FUT.CVB in.the.morning-POSS.LAT day dawn-MSD-AD.ESS we(I).OBL-LAT here-ATTR.OBL-SUPER.ABL I.PL-good place be-Q-QUOT
+Translation: There the father told them: "Wait for me here, I will go and have a look around if there is a better place to spend the night than this one here."
+
+Approximate Matches:
+Sentence: Užiz rok’ƛ’or pikru bayn, dice ixiw ʕaq’lu nesä däq mołäƛin.
+Gloss: boy-GEN2 heart-SUPER.LAT idea III-come-PST.UNW how.much big advice DEM1.ISG.OBL-ERG me-POSS.ESS teach-PST.WIT.INT-QUOT
+Translation: The boy thought: "How big an advice did he give me?!"

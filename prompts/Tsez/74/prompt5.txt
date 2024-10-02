@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łäs.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łäs
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łäs:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕAt’idä qaħłi begirzaƛ’or aħinyoƛ waħo gondu yič’inosi, tełäzay roč’iw łäs qˤuqˤu boƛixno.
+Gloss: Atid-ERG dawn III-let-POST.CVB rock-SUB.ESS below big.hole II-dig-ANT.CVB inside-IN.ABL.DIST IV-cold water-GEN1 stream III-appear-PST.UNW
+Translation: Atid digged a big hole under the rock before the dawn set in, and then a stream of cold water appeared from inside.
+Sentence: Hunixor yisä łäs q’ˤano sikno eqerno, bišʷan erno, kumakyorgon, ħaƛirxo ik’anix, xizay k’oƛin yayn bara hibon teƛno.
+Gloss: way-AD.LAT DEM2.ISG.OBL-ERG water-ERG-GEN1 two waterskin-TOP put-PFV.CVB food-TOP put-PFV.CVB help-LAT-CNTR put-IPFV.CVB go-MSD-AD.ESS behind run-PFV.CVB II-come-PFV.CVB wife-ERG stick-TOP give-PST.UNW
+Translation: He put two waterskins onto the way, packed some food, and came running behind in order to go put(?), when his wife came running behind him and gave him a stick to go with, which he should put down for help.
+Sentence: Yisi žar moƛał neł gogaƛäz łäs oreznin, bišʷan rizäsi c’in, qacisgon ɣeryabin rukayn.
+Gloss: DEM2.ISG.OBL boy-LAT dream-CONT.ESS DEM1.IISG.OBL meadow-SUB.ESS.DIST water-GEN1 pond-and food-and IV-get-RES.PRT fire-and firewood-GEN1-CNTR pile-PL-and IV.PL-see-PST.UNW
+Translation: In his dream, the boy saw a pond of water under the meadow, food, a fire and a pile of firewood.
+
+Approximate Matches:

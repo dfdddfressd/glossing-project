@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ʕaq’lu.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ʕaq’lu
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ʕaq’lu:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesä eƛin, ele eže žek’us ʕaq’lu biszaƛ’, Allahätow xʷasar oyn miƛin.
+Gloss: DEM1.ISG.OBL-ERG say-PST.UNW here old man-GEN1 advice III-take-CSL.CVB God-ERG-EMPH rescue do-PST.UNW you-QUOT
+Translation: He said: "Because you sticked to an old man's advice, God himself has rescued you!"
+Sentence: Xizyogon žoyä sisgon ʕaq’lu mołoƛin nesiqor eƛinosi, hudun mi di bayru ʕaq’luƛ’ razi oqxanuwaƛin eƛintow ičin.
+Gloss: again boy-ERG one-CNTR advice teach-IMPR-QUOT DEM1.ISG.OBL-POSS.LAT say-ANT.CVB nevertheless you me III-do-PST.PRT advice-SUPER.ESS accept become-IPFV.CVB-NEG-PST.WIT.Q-QUOT say-PFV.CVB-EMPH wait-PST.UNW
+Translation: When the boy said to him again: "Give me another advice!", he said: "You won't accept my advice anyway."
+Sentence: Ža posurƛ’ort’a butirxo xalq’i bac’xosi žek’u yołƛin, ʕaq’lu boyn neła kidbä.
+Gloss: DEM1.SG cattle-SUPER.LAT-DISTR III-turn-IPFV.CVB people III-eat-PRS.PRT man be-QUOT advice III-do-PST.UNW DEM1.IISG.OBL girl-ERG
+Translation: He is a man who turns people into cattle and eats them!", advised the girl.
+
+Approximate Matches:
+Sentence: Xizyogon žoyä sisgon ʕaq’lu mołoƛin nesiqor eƛinosi, hudun mi di bayru ʕaq’luƛ’ razi oqxanuwaƛin eƛintow ičin.
+Gloss: again boy-ERG one-CNTR advice teach-IMPR-QUOT DEM1.ISG.OBL-POSS.LAT say-ANT.CVB nevertheless you me III-do-PST.PRT advice-SUPER.ESS accept become-IPFV.CVB-NEG-PST.WIT.Q-QUOT say-PFV.CVB-EMPH wait-PST.UNW
+Translation: When the boy said to him again: "Give me another advice!", he said: "You won't accept my advice anyway."
+Sentence: Žan zown małiru risxanusi, t’ubaraw ʕaq’lus anusi iłe.
+Gloss: DEM1.SG-TOP be.PST-GER teach-PST.PRT IV-take-NEG.PRSPRT full mind-GEN1 be.NEG-LNK as
+Translation: And he was disobedient and had a defective mind.
+Sentence: Q’ˤano äƛirugon nesä žaqay ɣˤurušno yisno, mi qˤišodäy soder ħon xäcinƛin, ʕaq’lun bodin.
+Gloss: two ORD-CNTR DEM1.ISG.OBL-ERG boy-POSS.ABL ruble-TOP II-take-PFV.CVB you at.noon-IN.ABL after mountain leave-PROHIB-QUOT advice-TOP III-do-PST.UNW
+Translation: For the second time he took a ruble from the boy and gave him the advice: "Don't go up the mountain after it got dark!"

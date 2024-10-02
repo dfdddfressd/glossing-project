@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħalt’os in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħalt’os: 
+
+Exact Matches
+Sentence: Xizaɣorgon tełtow žan xecin acmołnonan ok’bi rok’nosi, Qartayä eƛin, ha, howži, yił badiru ħalt’os deber keze roqxosi šebin neƛanix maħor yegir diƛin.
+Gloss: finally-CNTR inside-EMPH DEM1.SG-TOP leave-PST.UNW door-TOP-INT nail-PL III.PL-beat-ANT.CVB Qartay-ERG say-PST.UNW well now DEM2.IISG.OBL III-do-PST.PRT work-GEN1 you-LAT meet IV-become-PRS.PRT thing give-MSD-AD.ESS outside II-let me-QUOT
+Translation: Finally, he left her inside, and after he had beated nails into the door, Qartay said: "Well now, let me out to give you something for the work that you have done!"
+
+Approximate Matches:
+Sentence: Neširu kinaw ħalt’imabin łiyrno nasin iduzaɣor butinosi, sida sidqo badiru ħalt’ozałäy esin.
+Gloss: evening entire work-PL-TOP finish-PFV.CVB all home-PL-IN.ALL III-return-ANT.CVB one.OBL-ERG one.OBL-POSS.ESS I.PL-do-PST.PRT work-PL-CONT.ABL tell-PST.UNW
+Translation: By the evening, when everyone has finished their works and returned home, they told each other about the work they did.
+Sentence: Maduhalłiq yałru xande ħalt’oł ža zown: nesis azbarno c’unzi rodin.
+Gloss: neighbourhood-POSS.ESS be-PST.PRT khan-APUD.ESS work-CONT.ESS DEM1.SG be.NPRS-PST.UNW DEM1.ISG.OBL-GEN1 palace-TOP guard IV-do-PST.UNW
+Translation: He was working at the neighbouring king: He guarded his palace.
+Sentence: Hič’č’a adäzaytow soder eni- babiwde idu zawru yisä yisis ʕamal boda oqno, dicegon bara eƛiłin ya qaca ret’urxo zownanu, ya łi rowa ik’ix zownanu, ya q’ˤuya iduzo ħalt’oqor utin ezux zownanu.
+Gloss: the.most in.front-IN.ABL.DIST-EMPH after mother father-APUD.ESS home be.NPRS-PST.PRT DEM2.ISG.OBL-ERG DEM2.ISG.OBL-GEN1 behaviour III-do-INF begin-PFV.CVB how.much-CNTR wife-ERG say-CNC.CVB neither firewood IV-hack-IPFV.CVB be.NPRS-PFV.CVB-NEG neither water IV-bring-INF go-IPFV.CVB be.NPRS-PFV.CVB-NEG neither other home-ATTR.OBL work-POSS.LAT turn-PFV.CVB look-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: Right from the beginning he started to behave like in the house of his parents; how much his wife would say, he neither hacked firewood, nor did he go and bring water, nor did he do look for or did any other housework.

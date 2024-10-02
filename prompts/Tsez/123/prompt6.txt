@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: čˤaƛinäy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": čˤaƛinäy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word čˤaƛinäy:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Užä žawab teƛno, meža neła quł däz raɣä režigon raq’ˤu rešoni roys yołi ƛuzabin čˤaƛin, režigon raq’ˤu his räqi där bazaryayƛin.
+Gloss: boy-ERG answer give-PST.UNW you(I).PL.OBL-ERG DEM1.IISG.OBL day-CONT.ESS me-GEN2 veranda-IN.ESS IV-more-CNTR IV-much garbage IV-do-PST.WIT if bone-PL-TOP throw-PFV.CVB IV-more-CNTR IV-much spring.wool IV-get me-LAT bazar-IN.ABL-QUOT
+Translation: The boy answered: "If you had produced more garbage and threw the bones onto my veranda that day, I would've got much more wool from the market."
+Sentence: Elus xan oxisƛin, nesiłgon xizaz wazirbin čˤaƛin bik’in.
+Gloss: we(I).OBL-GEN1 khan run.away-PST.WIT-QUOT DEM1.ISG.OBL-CONT.ESS-CNTR behind vizier-PL-TOP rush-PFV.CVB I.PL-go-PST.UNW
+Translation: [Saying] "Our king ran away!", his viziers went running behind him.
+Sentence: Azbaryoz mada gulun bicin, nełał adäzar ʕuraw henešno čˤaƛin, elotow ičix zawru iłe iduɣor ik’in.
+Gloss: palace-GEN2 outside-IN.ESS horse-TOP III-tie-PFV.CVB DEM1.IISG.OBL-CONT.ESS before-IN.LAT many apple-TOP pour.out-PFV.CVB there-EMPH live-IPFV.CVB be.NPRS-PST.PRT as home-IN.ALL go-PST.UNW
+Translation: He tied the horse outside the palace, poured many apples in front of it and went into the house like someone who lived there.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nazon.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nazon
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nazon:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bełiƛ’ esnabi bäk’äsi yałzay, eɣeni esiwz bara k’orin boyn nazon q’ˤidan ričin bac’ƛ’oräy, Umukusez haqa bašiqˤoy šišin, k’ori boyƛ’orey eɣeni esiwz baruqay rˤaƛ’uruni.
+Gloss: hunting-SUPER.ESS brother-PL I.PL-go-ATTR be-SIM.CVB young-DEF brother-GEN2 wife-ERG oatmeal-TOP III-do-PFV.CVB everyone.OBL-TOP down-TOP II.PL-sit-PFV.CVB III-eat-SIM.CVB Umukus-GEN2 mouth-IN.ESS ring get.stuck-PST.UNW oatmeal III-do-SIM.CVB young-DEF brother-GEN2 wife-POSS.ABL IV-fall-PST.PRT-DEF
+Translation: When the brothers were going hunting, the youngest brother's wife made an oatmeal and when everyone sat down and ate, a ring that fell off the youngest brother's wife when she made the oatmeal, got stuck in Umukus' mouth.
+Sentence: Xizyo xanä nazon nukarzaq riyrno, c’ohor yoł t’oza sis reƛ’a anusi, meži nasin nesił xizay boq, ža meža iqira ayƛin.
+Gloss: afterwards khan-ERG all.OBL-TOP henchman-PL-POSS.ESS IV-explain-PFV.CVB thief be here-ZA one hand be.NEG-ATTR you.PL all DEM1.ISG.OBL-CONT.ESS behind I.PL-become DEM1.SG you(I).PL.OBL-ERG catch-INF must-QUOT
+Translation: Afterwards the king explained to all his henchmen: "The thief lacks one hand; y'all get behind him, you must catch him!"
+Sentence: Šebi deber retix, šebi deber neƛanƛin, nazon xalq’imo yeda šet’u utirno, mi äƛiru šebin ela t’ubazi rodanƛin, koyä isxo yeda cuƛert’a kurxo zown, hemece ɣˤaɣˤu bizizaq.
+Gloss: what you-LAT IV-want-PRS what you-LAT give-FUT.DEF-QUOT all.OBL-TOP people-ERG DEM2.ISG around gather-PST.UNW you say-PST.PRT what-TOP we(I).OBL-ERG fulfill IV-do-FUT.DEF-QUOT hand-IN.ESS take-IPFV.CVB DEM2.ISG upward-DISTR throw-IPFV.CVB be.NPRS-PFV.CVB such be.happy I.PL-get.up-CSL.CVB
+Translation: "What do you want? What shall we give you?", all the people gathered around him: "We will fulfill what you say."; and they took him into their hands and threw him upward [several times], because they got so happy.
+
+Approximate Matches:
+Sentence: Mi näƛru ʕaq’ˤlun rok’ƛ’or bayn, bikorin xʷasar bodin nexƛ’oräy, däłtow xizayn bayn neła esirsi, nazosnotow tušman šida mi bexura begirno xecinč’uƛin.
+Gloss: you give-PST.PRT advice-TOP heart-SUPER.LAT III-come-PFV.CVB snake-TOP rescue III-do-PFV.CVB come-SIM.CVB me-CONT.ESS-EMPH behind-TOP III-come-PFV.CVB DEM1.IISG.OBL-ERG ask-PST.WIT everyone.OBL-GEN1-TOP-EMPH enemy why you III-kill-INF III-let-PFV.CVB leave-NEG.PST.WIT-QUOT
+Translation: "I remembered the advice you gave me and rescued the snake, and when I came back, it came behind me and asked: 'Why didn't you let them kill the enemy of everyone?'"
+Sentence: Ražbadinä nazoƛ’no rayrno Tawadä nesiq regäru saɣyatyabi.
+Gloss: Razhbadin-ERG everyone.OBL-SUPER.ESS-TOP III.PL-bring-PST.UNW Tavadi-ERG DEM1.ISG.OBL-POSS.ESS IV-send-PST.PRT present-PL
+Translation: Razhbadin brought to everyone the presents Tavadi has sent him.
+Sentence: Sida quł ruzmanƛ’o xanä nazołno adäza sual erno, hič’č’an qˤaba hič’č’an kokoru, hič’č’an ʕedeʕaraw šebin šebiƛin.
+Gloss: one.OBL day-CONT.ESS Friday-SUPER.ESS khan-ERG everyone.OBL-CONT.ESS-TOP ahead question put-PST.UNW the.most-and black the.most-and soft the.most-and quick thing what-QUOT
+Translation: One Friday the king asked a question before everyone: "What is the blackest, softest and quickest thing?"

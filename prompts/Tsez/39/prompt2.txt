@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bˤuƛ’nogon.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bˤuƛ’nogon
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bˤuƛ’nogon:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yisä žedus šebin elo- t’o esaniqno bˤuƛ’no, c’ohorza mesedyos yic’äsi k’emot’ yisiden xecin, boxin bik’in.
+Gloss: DEM2.ISG.OBL-ERG DEM1.IPL-GEN1 thing there here tell-MSD-POSS.ESS-TOP III-be.afraid-PFV.CVB thief-PL-ERG gold-GEN1 II-fill-RES.PRT wooden.case DEM2.ISG.OBL-APUD.ESS-TOP leave-PFV.CVB III-run.away-PFV.CVB III-go-PFV.CVB
+Translation: Being afraid that he will tell about their doings here and there, the thieves left the box filled with gold and ran away.

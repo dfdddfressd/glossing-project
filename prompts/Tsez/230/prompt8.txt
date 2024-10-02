@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bixno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bixno: 
+
+Exact Matches
+Sentence: Žedaxay bitor di q’ˤida ičinč’ey bixno kosix zows.
+Gloss: DEM1.IIPL.OBL-AD.ABL thither me down sit-NEG.PST.CVB grass-TOP mow-IPFV.CVB be.NPRS-PST.WIT
+Translation: Because of them, I didn't sit down but mowed grass.
+Sentence: Iłira äƛiru ɣudƛ’o užä dahawtow koyä bixno risno ik’in, rečuƛäy mäħorno roɣno, ƛ’iri reƛ’un erno xizazgon gutanno yicin mečołxor rižin.
+Gloss: six.OBL say-PST.PRT day-SUPER.ESS boy-ERG a.little-EMPH hand-IN.ESS hay-TOP IV-take-PFV.CVB go-PFV.CVB cattleshed-SUB.ABL outside-TOP III.PL-take.away-PFV.CVB above yoke-TOP put-PFV.CVB from.behind-CNTR plow-TOP II-tie-PFV.CVB field-CONT.VERS III.PL-lead-PST.UNW
+Translation: On the sixth day, the boy went to take a little hay in his hand, took them out of the shed, put a yoke around them, tied a plow behind it and lead them into the field.
+
+Approximate Matches:

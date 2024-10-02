@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: betinč’ey.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": betinč’ey
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word betinč’ey:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yeda uži žeduł teł rok’u q’uq’ix ik’a retinč’ey ik’ix zown.
+Gloss: DEM2.ISG boy DEM1.IPL-CONT.ESS inside heart press.out-IPFV.CVB go-INF IV-want-NEG.PST.CVB go-IPFV.CVB be.NPRS-PST.UNW
+Translation: Pulling himself together the boy went with them against his will.
+Sentence: Žan di riža retinč’ey, dey boyxosi ħalt’i bexuxƛin, xizay yayn.
+Gloss: DEM1.SG-TOP me II.PL-carry-INF II.PL-want-NEG.PST.CVB me-GEN1 III-do-PRS.PRT work III-die-PRS-QUOT from.behind II-come-PST.UNW
+Translation: She came behind us, because she doesn't want me to take it with me, because my work that I do is coming to and end.
+Sentence: Zownč’uƛin neła ot’ bisno, esan retinč’ey.
+Gloss: be.NPRS-NEG.PST.WIT-QUOT DEM1.IISG.OBL-ERG rejection III-take-PFV.CVB tell-FUT.CVB IV-want-NEG.PST.UNW
+Translation: "No, you didn't.", she rejected and didn't want to tell it.

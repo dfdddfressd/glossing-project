@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ader.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ader
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ader:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žigoƛ’aygon xanes yeženi kidno yok’ek’no, xizor utin idur bežet’ani esnazaƛ’ay ader ayn.
+Gloss: now-SUPER.ABL-CNTR khan-GEN1 II-old-DEF daughter-TOP II-steal-PFV.CVB back return-PFV.CVB home-LAT I.PL-old-DISTR-DEF brother-PL-SUPER.ABL before come-PST.UNW
+Translation: And now he stole the king's oldest daughter and returned home before his older brothers.
+Sentence: Xanez kidbes eniw yoł di, där ža xedyox yik’izaƛ’or yukada retinƛin, yiła ader xot’o boɣno.
+Gloss: khan-GEN2 daughter-GEN1 mother be me me-LAT DEM1.SG husband-AD.ESS II-go-POST.CVB II-see-INF IV-want-PST.UNW-QUOT DEM2.IISG.OBL-ERG forward foot III-take.away-PST.UNW
+Translation: "I am the king's daughter's mother, I wanted to see her before she'd go to that husband.", and she put her foot forward.
+Sentence: Howži mi ader ik’iƛin eƛin, yedu ozyoƛ’ yiħanada yoqno.
+Gloss: now you forward go-QUOT say-PFV.CVB DEM2.IISG army-SUPER.ESS II-fight-INF II-begin-PST.UNW
+Translation: "Now go forward!", she said and began to fight the army.
+
+Approximate Matches:

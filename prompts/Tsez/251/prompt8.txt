@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word teqno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word teqno: 
+
+Exact Matches
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.
+Sentence: Bˤeƛ’no adäz roc’no neširur iduɣor ik’iƛ’oräy, Alimaħamar teqno bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: sheep-TOP ahead III.PL-drive-PFV.CVB evening-LAT home-IN.ALL go-SIM.CVB Alimagomed-LAT hear-PST.UNW sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: When he drove the sheep home in the evening, Alimagomed heard them talking to each other.
+Sentence: Yeda hunix ik’iƛ’oräy, yisir qˤaƛu teqno, mi nesi žek’uł xizay äk’ino, nesä mi exarƛin.
+Gloss: DEM2.ISG way-AD.ESS go-SIM.CVB DEM2.ISG.OBL-LAT shout hear-PST.UNW you DEM1.ISG.OBL man-CONT.ESS behind go-PROHIB DEM1.ISG.OBL-ERG you kill-QUOT
+Translation: While he was going on the way, he heard a shout: "Don't you go behind that man, he will kill you!"
+
+Approximate Matches:
+Sentence: Xizyo ɣamasya tełäzay xanez kidber riguƛ’ay rigut’a maq’anyabi teqnosi, neła ža micxiryoƛ yisinč’ey yäčinč’i.
+Gloss: afterwards box-IN.ESS inside-IN.ABL.DIST khan-GEN2 daughter-LAT III.PL-pretty-SUPER.ABL III.PL-pretty-DISTR melody-PL hear-ANT.CVB DEM1.IISG.OBL-ERG DEM1.SG money-SUB.ESS II-buy-NEG.PST.CVB II-be-NEG.FUT
+Translation: Then, after the king's daughter heard the prettiest melodies coming out of the box, she just had to buy it.
+Sentence: Aɣzas ža xabar teqnosi, Alimaħamas qoqoƛu regin.
+Gloss: bird-PL-GEN1 DEM1.SG story hear-ANT.CVB Alimagomed-GEN1 laughter IV-be.emitted-PST.UNW
+Translation: When Alimagomed heard the birds talking, he bursted into laughter.
+Sentence: Xanez kidber ža maq’anyabi teqnosi, akäzayn yoƛixno yezun, yedu šebi šebin eloƛin.
+Gloss: khan-GEN2 daughter-LAT DEM1.SG melody-PL hear-ANT.CVB window-IN.ABL.DIST-TOP II-appear-PFV.CVB II-look-PFV.CVB DEM2.IISG what thing there-QUOT
+Translation: After the king's daughter heard these melodies, she appeared at the window and looked out, wondering: "What is this thing there?"

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eƛace in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eƛace: 
+
+Exact Matches
+Sentence: Žazasƛin elo q’ˤač’azi rodasi šudabi rukarnosi, eniw yigtow q’ʷarid yoqxo, babiya yołi eƛace ħal čuqernoanu.
+Gloss: son-PL-GEN1-QUOT there get.ready IV-do-RES.PRT graveyard-PL IV.PL-show-ANT.CVB mother II-very-EMPH sadness II-become-IPFV.CVB dad-ERG however say-TERM condition reveal-PFV.CVB-NEG
+Translation: When they saw the graves that were made up as of their sons, the mother became very sad; the father, however, didn't reveal any condition.
+Sentence: Mi iynč’ey nesił xizazarno ik’in, riqirno łox kikibi ƛiso, mi dey uži yołƛin eƛace.
+Gloss: you know-NEG.PST.CVB DEM1.ISG.OBL-CONT.ESS from.behind-IN.LAT-TOP go-PFV.CVB III.PL-catch-PFV.CVB thrice breast-PL pull-IMPR you me-GEN1 son be-QUOT say-TERM
+Translation: Go to him from behind without him knowing, catch his breasts and pull them three times until he says "You are my son"!"
+Sentence: Tełer ayrun yisä sida reƛ’id nełas kočori biqirno, sidenigon reƛ’id hibon bisno žek’no yedu, neła mi dey uži yołƛin eƛace.
+Gloss: to.the.inside come-IMM.ANT.CVB DEM2.ISG.OBL-ERG one.OBL hand-INSTR DEM1.IISG.OBL-GEN1 forelock III-take.away-PFV.CVB the.other.one-CNTR hand-INSTR stick-TOP III-take-PFV.CVB beat-PST.UNW DEM2.IISG DEM1.IISG.OBL-ERG you me-GEN1 son be-QUOT say-TERM
+Translation: Immediately after going inside, he took her hair with one hand and took a stick with the other hand and hit her until she said: "You're my son!"
+
+Approximate Matches:

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nesiƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nesiƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nesiƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bežet’anibi ʕurawtow ɣˤaɣˤun bizin, nesiƛ’ Tabuldiƛin cin erno.
+Gloss: I.PL-old-DISTR-DEF-PL much-EMPH be.happy-TOP I.PL-get.up-PFV.CVB DEM1.ISG.OBL-SUPER.ESS Tabuldi-QUOT name-TOP put-PST.UNW
+Translation: The oldest ones were very glad and gave him the name Tabuldi.
+Sentence: Däz kidbes cin rexurno, buhtan erayä oqäsi miƛin, cimyarno izin xan nesiƛ’ łeɣaniƛ’or ayäsi zown.
+Gloss: me-GEN2 daughter-GEN1 name-TOP IV-kill-PFV.CVB slander set.up-INF-Q become-RES.PRT you-QUOT malice-IN.LAT-TOP get-PFV.CVB khan DEM1.ISG.OBL-SUPER.ESS clutch-MSD-SUPER.LAT come-RES.PRT be.NPRS-PST.UNW
+Translation: "Did you dishonor my daughter's name and ...?", the king got mad and was about to pound on him.
+Sentence: ʕAƛos ʕoloqbi nesiƛ’ bužzi boqno.
+Gloss: village-GEN1 young.person-PL DEM1.ISG.OBL-SUPER.ESS trust I.PL-become-PST.UNW
+Translation: The village people trusted him.
+
+Approximate Matches:
+Sentence: Howži žedu nesiƛ’or butin, neƛ elur araq’iƛin.
+Gloss: now DEM1.IPL DEM1.ISG.OBL-SUPER.LAT I.PL-turn-PFV.CVB give we(I).OBL-LAT vodka-QUOT
+Translation: Now they turned on him: "Give us the vodka!"
+Sentence: Hemedurtow nesiƛ’or nełas eniwn yutin, mi ža kid yexurinč’inäy, dey di kidno yižin dowdäy yoxa yołƛin.
+Gloss: so-EMPH DEM1.ISG.OBL-SUPER.LAT DEM1.IISG.OBL-GEN1 mother-TOP II-turn-PST.UNW you DEM1.SG girl II-kill-NEG.FUT.CVB-CND.CVB me-GEN1 me daughter-TOP II-carry-PFV.CVB you-APUD.ABL II-run.away-INF be-QUOT
+Translation: Her mother likewise turned to him: "If you don't kill the girl, I will take my daughter with me and run away from you."
+Sentence: Zowsƛin”, nesiƛ’no hemedurtow ža žek’u razi oqno.
+Gloss: be.NPRS-PST.WIT-QUOT DEM1.ISG.OBL-SUPER.ESS-TOP so-EMPH DEM1.SG man agree become-PST.UNW
+Translation: "There was", the man agreed this time as well.

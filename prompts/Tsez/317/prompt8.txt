@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zira in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zira: 
+
+Exact Matches
+Sentence: Xizyogon zira šebi ža debez ħiroƛ’ƛin esirnosi, k’et’a tupi yołƛin eƛin.
+Gloss: then fox-ERG what DEM1.SG you-GEN2 shoulder-SUPER.ESS-QUOT ask-ANT.CVB cat-ERG rifle be-QUOT say-PST.UNW
+Translation: When the fox asked: "What is that on your shoulder?", the cat said: "It's a rifle."
+Sentence: Q’ˤano äƛiru ɣudƛ’ogon zap’aniłnotow bayn zira eƛin, kurxo besunäy xexoy kuro, yałi di maħin rok’no ɣun recura yołƛin.
+Gloss: two say-PST.PRT day-SUPER.ESS-CNTR firmly-TOP-EMPH III-come-PFV.CVB fox-ERG say-PFV.CVB throw-IPFV.CVB III-appear-CND.CVB young.animal throw-IMPR else me tail-TOP IV-beat-PFV.CVB tree IV-break-INF be-QUOT
+Translation: On the second day, the fox came firmly and said: "Throw me down a nestling, or else I'll knock down the tree with my tail!"
+Sentence: Mečołer raynosi, boƛƛo baq’ˤu zaman bik’izaƛ’ortow, zira im-m-m-m, im-m-m-mƛin eƛin.
+Gloss: field-CONT.LAT III.PL-come-ANT.CVB III-middle III-much time I.PL-go-POST.CVB-EMPH fox-ERG mhmhmh mhmhmh-QUOT say-PST.UNW
+Translation: After coming to the field, not much time passed until the fox said: "Mhmhmh, mhmhmh!"
+
+Approximate Matches:

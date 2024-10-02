@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word äƛiru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word äƛiru: 
+
+Exact Matches
+Sentence: Zira äƛiru łinaƛ’no nasin razi roqno.
+Gloss: fox-ERG say-PST.PRT what.OBL-SUPER.ESS-TOP all agree III.PL-become-PST.UNW
+Translation: All agreed on what the fox said.
+Sentence: Eniya äƛiru rožbin rok’er ʕeze roqinč’ey, eženi užä eniwq q’ˤano magalun hunixor ererno, iday maħor oqno.
+Gloss: mother-ERG say-PST.PRT word-PL-TOP heart-LAT be.enough IV.PL-become-NEG.PST.CVB old-DEF son-ERG mother-POSS.ESS two bread-TOP way-AD.LAT put-CAUS-PFV.CVB home-IN.ABL outside become-PST.UNW
+Translation: The words that the mother had spoken didn't please his heart enough, so the oldest son let the mother give two breads to him for the way and left the home.
+Sentence: Q’ˤano äƛiru ɣudƛ’ogon zap’aniłnotow bayn zira eƛin, kurxo besunäy xexoy kuro, yałi di maħin rok’no ɣun recura yołƛin.
+Gloss: two say-PST.PRT day-SUPER.ESS-CNTR firmly-TOP-EMPH III-come-PFV.CVB fox-ERG say-PFV.CVB throw-IPFV.CVB III-appear-CND.CVB young.animal throw-IMPR else me tail-TOP IV-beat-PFV.CVB tree IV-break-INF be-QUOT
+Translation: On the second day, the fox came firmly and said: "Throw me down a nestling, or else I'll knock down the tree with my tail!"
+
+Approximate Matches:
+Sentence: Xizyogon Ražbadinä äƛiruxor božarawni ʕoloqza ʕaƛos baħarayƛ’ rayzaƛ’or nasin kidbabi rutirno.
+Gloss: then Razhbadin-ERG say-PST.PRT-AD.LAT reliable-DEF young.person-PL-ERG village-GEN1 fiancée-SUPER.ESS II.PL-come-POST.CVB all girl-PL II.PL-gather-PST.UNW
+Translation: Then, according to what Razhbadin had said, the reliable young people gathered all girls of the village, including the bride.
+Sentence: Łox äƛirugon boc’ä rečuƛxor qˤaƛin, qˤaƛanayxosi, di tełxor begirƛin.
+Gloss: thrice ORD-CNTR wolf-ERG cattleshed-SUB.LAT shout-PST.UNW yell-PRS.PRT me inside-AD.LAT III-let-QUOT
+Translation: For the third time, the wolf shouted into the cattleshed: "Shout, let me inside!"
+Sentence: Bero beca baqruntow t’ay eli boxin bok’ła bayƛin yiłä äƛirun, bet’un guluƛ’orno k’oƛin, čuret’ bak’runtow, ʕoƛno ħonno xecin bitaɣor bok’ełno.
+Gloss: ice III-thaw-INF III-begin-IMM.ANT.CVB-EMPH from.here we I.PL-run.away-PFV.CVB I.PL-escape-INF I.PL-must-QUOT DEM2.IISG.OBL-ERG say-IMM.ANT.CVB I.PL-jump-PFV.CVB horse-SUPER.LAT-TOP jump-PFV.CVB whip III-beat-IMM.ANT.CVB-EMPH seven mountain-TOP go.up-PFV.CVB distance-IN.VERS I.PL-escape-PST.UNW
+Translation: "Immediately after the ice has begun to thaw, we must run away and escape from here!", she said and right away they jumped onto the horse, cracked the whip and immediately crossed the seven mountains and escaped into the distance.

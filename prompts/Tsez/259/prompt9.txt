@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ža in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ža: 
+
+Exact Matches
+Sentence: Harizi boqno ža:
+Gloss: request III-become-TOP DEM1.SG
+Translation: The dragon begged:
+Sentence: Howži nesi žek’a ža uži debez mi hunix ik’iƛin egirno.
+Gloss: now DEM1.ISG.OBL man-ERG DEM1.SG boy you-GEN2 you way-AD.ESS go-QUOT let-PST.UNW
+Translation: Now the man let the boy go: "Go on your way!"
+Sentence: Ɣˤaɣˤun izin nesä ža butni bazaryay bisno bižin.
+Gloss: be.happy-and get.up-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG burka bazar-IN.ABL III-buy-PFV.CVB III-carry-PST.UNW
+Translation: He got happy and bought the burka from the market.
+
+Approximate Matches:

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word oqzaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word oqzaƛ: 
+
+Exact Matches
+Sentence: Eže izäsin oqzaƛ’, ɣudi räk’iruce nesis tatu bexux bik’ix zown.
+Gloss: old get-RES.PRT-TOP become-CSL.CVB day IV-go-PST.PRT-EQU1 DEM1.ISG.OBL-GEN1 power III-die-IPFV.CVB III-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: Because he was getting old, his power was dying as a day passed.
+Sentence: ƛ’iri ayäsi ƛirba oqzaƛ’ aždaħa p’estow anusi kikxay łäs q’ut’u bic’a begirno.
+Gloss: above come-RES.PRT guest become-CSL.CVB dragon-ERG voice-EMPH be.NEG-ATTR spring-AD.ABL water-GEN1 earthen.jug III-fill-INF III-let-PST.UNW
+Translation: Because it was a guest who was coming, the dragon let him fill his jug with water from the spring without saying anything.
+Sentence: His- musoƛ’or rutin, aħozi oqzaƛ’.
+Gloss: spring.wool hair-IMPR-SUPER.LAT IV.PL-turn-PST.UNW shepherd become-CSL.CVB
+Translation: and because there was a shepherd, they turned into wool.
+
+Approximate Matches:
+Sentence: Nesi užä mežus ʕumru xʷasar bodäsi boqzaƛ’, nesiłno, Beqes ʕUneyzatełno esnałin risno žeduz bertenyołxor bik’i, ent’aytow ħaƛu-bišanix šebinon rižin.
+Gloss: DEM1.ISG.OBL boy-ERG you(I).PL.OBL-GEN1 life rescue III-do-RES.PRT III-become-CSL.CVB DEM1.ISG.OBL-CONT.ESS-and sun-GEN1 Uneyzat-CONT.ESS-and brother IV-take-PFV.CVB DEM1.IPL.OBL-GEN2 marriage-CONT.VERS I.PL-go from.here-IN.ABL-EMPH eat.and.drink-MSD-AD.ESS something IV-take.out-PFV.CVB
+Translation: Because that boy saved your life, you should fraternize with him and Sun's Uneyzat and go to their marriage after taking something to eat and drink with you."
+Sentence: Idur aynosi užä nesä nesis esiy guluƛ’no zowerno ciqaɣor yižin, hudun rok’u gurħizi roqzaƛ’, yexurnoanu.
+Gloss: home-LAT come-ANT.CVB son-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 sister horse-SUPER.ESS-TOP seat-PFV.CVB forest-IN.VERS II-lead-PFV.CVB nevertheless heart pity IV-become-CSL.CVB II-kill-PFV.CVB-NEG
+Translation: When the son came home, he seated his own sister onto a horse and led her into the forest, but because his heart felt sorry, he didn't kill her.
+Sentence: Užä žawab teƛno, šida mi di begirno xecixanu, dowƛ’aygon q’ʷariłiƛ’ din oqzaƛ’ƛin.
+Gloss: boy-ERG answer give-PST.UNW why you me III-send-PFV.CVB leave-PRS-NEG you-SUPER.ABL-CNTR sadness-SUPER.ESS me-TOP become-CSL.CVB-QUOT
+Translation: The boy answered, "Why would I not leave you, when I'm much more sad than you?"

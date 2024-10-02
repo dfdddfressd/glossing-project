@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bisxo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bisxo: 
+
+Exact Matches
+Sentence: Išamt’a bisxo caƛin, łoxnon łox c’oxerno.
+Gloss: aim-DISTR III-take-IPFV.CVB throw-PFV.CVB thrice-INT thrice hit-CAUS-PST.UNW
+Translation: Taking aim each time he threw, he hit it three times in a row.
+
+Approximate Matches:
+Sentence: Sida zamanałäza xabar teqxo, xanä nesä nesiz ozyołer ʕoloqbi bisxoƛin.
+Gloss: one.OBL time-CONT.VERS.DIST story hear-PRS khan-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 army-CONT.LAT young.person-PL I.PL-take-PRS-QUOT
+Translation: After a while he hears the story that the king is taking young people into his army.
+Sentence: Xizaɣor, hudun nełar riyx babiya užiqay bisxot’a micxir c’idaɣor kurxosi yałrułi.
+Gloss: finally nevertheless DEM1.IISG.OBL-LAT IV-know-PRS dad-ERG boy-POSS.ABL III-take-IPFV.CVB-DISTR money fire-APUD.VERS throw-PRS.PRT be-MSD
+Translation: Nevertheless she finally found out that the father was throwing the money that the boy earned into the fire.
+Sentence: Łinaƛ’notow raħmu bisxosi xexbi zown ža.
+Gloss: what.OBL-SUPER.ESS-TOP-EMPH mercy III-take-PRS.PRT child be.NPRS-PST.UNW DEM1.SG
+Translation: He was a boy who had mercy with everything.

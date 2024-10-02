@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Nasin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Nasin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Nasin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neširu xanä elo nasin sidaɣor butirnosi, xanä eƛin, di łi ħaƛuxosi t’akan sasaqor howt’or yayäru žek’ux kid yegira yołƛin.
+Gloss: evening khan-ERG there all one.OBL-IN.VERS I.PL-gather-ANT.CVB khan-ERG say-PFV.CVB me water drink-PRS.PRT glass tomorrow-POSS.LAT here-LAT II-bring-PST.PRT man-AD.ESS daughter II-send-INF be-QUOT
+Translation: In the evening the king gather everyone together and said: "I will marry my daughter off to the man who can bring my water-drinking-glass here tomorrow!"
+Sentence: Zira äƛiru łinaƛ’no nasin razi roqno.
+Gloss: fox-ERG say-PST.PRT what.OBL-SUPER.ESS-TOP all agree III.PL-become-PST.UNW
+Translation: All agreed on what the fox said.
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.
+
+Approximate Matches:
+Sentence: Bayn bełiqanza bišʷa esirnosi, nesän žeduq raqru šebin esin, hemedurtow mamalayƛ’no zown t’omceni žek’un ayn, nasintow bišʷa rac’a ža oqnosi elay ža oɣƛ’oräy, mešok’lałäy musno boɣno nesä di ɣunoqor icisƛin mus bukarno.
+Gloss: I.PL-come-PFV.CVB hunter-PL-ERG food ask-ANT.CVB DEM1.ISG.OBL-ERG-TOP DEM1.IPL.OBL-POSS.ESS IV-happen-PST.PRT thing tell-PST.UNW so-EMPH rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB span-EQU1-DEF man-TOP come-PFV.CVB all-EMPH food IV-eat-INF DEM1.SG begin-ANT.CVB there-IN.ABL DEM1.SG take.away-SIM.CVB moustache-CONT.ABL hair-TOP III-take.away-PFV.CVB DEM1.ISG.OBL-ERG me tree-POSS.LAT tie-PST.WIT-QUOT hair III-show-PST.UNW
+Translation: When the hunters came and asked for food, he also told them what had happened: "So a span-sized man came riding on a rooster, and when he began to eat up all the food and I wanted to take him away from there, he took a hair out of his moustache and tied me to a tree." and he showed them the hair.

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roqinč’izaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roqinč’izaƛ: 
+
+Exact Matches
+Sentence: Xizyogon eženi esiw ik’in, nesiqno šebin roqinč’izaƛ’, q’ˤim ƛ’iyoħor rutirno cugu kurno.
+Gloss: then old-DEF brother go-PFV.CVB DEM1.ISG.OBL-POSS.ESS-TOP thing IV-happen-NEG.FUT-CSL.CVB head down-LAT IV-turn-PFV.CVB barrel throw-PST.UNW
+Translation: Then the eldest brother went and nothing happend, so he lowered his head and threw the barrel over.
+
+Approximate Matches:
+Sentence: Kusa nesir žawab teƛno, mesedyoz ʕabasä royxanusi šebintow roqinč’izaƛ’ƛin.
+Gloss: Kusa DEM1.ISG.OBL-LAT answer give-PST.UNW gold-GEN2 coin-ERG IV-do-NEG.PRS.PRT thing-EMPH IV-become-NEG.FUT.CVB-CSL.CVB-QUOT
+Translation: Kusa answered him: "There is nothing that a gold coin couldn't do."

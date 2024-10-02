@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħuli in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħuli: 
+
+Exact Matches
+Sentence: Neła t’umiqay bˤaƛ’uru ħuli babiwz k’ukyoł boqun, miƛ’iłäy räšruni mesedyosnigon his ħamarno čˤaƛin esirno, baba, req’ezi roqxaƛin.
+Gloss: DEM1.IISG.OBL pigeon-POSS.ABL III-fall-PST.PRT feather father-GEN2 cap-CONT.ESS III-stick-PFV.CVB ram-CONT.ABL IV-fall-PST.PRT-DEF gold-GEN1-DEF-CNTR spring.wool chest-IN.LAT-TOP throw-PFV.CVB ask-PFV.CVB daddy approach IV-become-PRS-Q-QUOT
+Translation: She put the feather that fell from that pigeon onto her father's hat, and threw the golden whool that fell from the ram onto the chest and asked: "Daddy, does it fit?"
+Sentence: Ħalarno izin xedya eƛin, c’udani mamalays ħuli ozqo biħinäy, ozłer kanłi bayxƛin där teqäsi zows.
+Gloss: trouble-IN.LAT-TOP get.up-PFV.CVB husband-ERG say-PST.UNW red-DEF rooster-GEN1 feather eye-POSS.ESS III-smear-CND.CVB eye-CONT.LAT light III-come-IPFV.CVB-QUOT me-LAT hear-RES.PRT be.NPRS-PST.WIT
+Translation: The husband got up to help and said: "If one smears the red rooster's feather on the eye, the eyesight comes back... I've heard."
+
+Approximate Matches:

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bižix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bižix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bižix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bešerxotow bižix zown neła xanes oz, xizaɣor ƛäxurubi boxin bok’ełno.
+Gloss: I.PL-fall-CAUS-IPFV.CVB-EMPH I.PL-take.out-IPFV.CVB be.NPRS-PFV.CVB DEM1.IISG.OBL khan-GEN1 army finally remain-PST.PRT-PL I.PL-run.away-PFV.CVB I.PL-escape-PST.UNW
+Translation: She took out and brought to fall that king's armies, and finally the remaining ones fled.
+Sentence: Elo yisir besuroqu esun, gamušyozaq ƛisirno sis ixiw besuro bižix.
+Gloss: there DEM2.ISG.OBL-LAT fisherman find-PFV.CVB buffalo-PL-POSS.ESS pull-CAUS-PFV.CVB one big fish III-carry-IPFV.CVB
+Translation: There he found a fisherman who was carrying one big fish by buffalos.
+Sentence: Yisił dandir c’axru bełiqa esirno, yedu ziya naɣor bižix miƛin.
+Gloss: DEM2.ISG.OBL-CONT.ESS towards meet-PST.PRT hunter-ERG ask-PST.UNW DEM2.IISG cow where-IN.VERS III-lead-PRS you-QUOT
+Translation: A hunter whom he met asked him: "Where are you bringing that cow to?"
+
+Approximate Matches:
+Sentence: Yiła esin, bełiqa di iduɣorno bižin, kikin saɣ boysƛin.
+Gloss: DEM2.IISG.OBL-ERG tell-PST.UNW hunter-ERG me home-IN.ALL-TOP III-lead-PFV.CVB feed-PFV.CVB cure III-do-PST.WIT-QUOT
+Translation: He told [him]: "A hunter led me to his home, fed and cured me."
+Sentence: Aždaħes yaqru nˤoƛun łacqo yižirno, nełas zawru šinaw xazina mesedno bižin, Baxumesedun guluƛ’ zowrno Kidiro Žabulawder ik’in.
+Gloss: dragon-GEN1 II-become-PST.PRT ashes-TOP wind-POSS.ESS II-carry-CAUS-PFV.CVB DEM1.IISG.OBL-GEN1 be.NPRS-PST.PRT every treasure gold-and III-carry-PFV.CVB Bakhumesed-and horse-SUPER.ESS seat-PFV.CVB Kidero Jabulaw-APUD.LAT go-PST.UNW
+Translation: He let the wind carry away ashes of the dragon, took all the gold from its treasures, seated Bakhumesed on a horse, and went to Jabulaw in Kidero.
+Sentence: Mesedyos saħno bižin ža uži nełqay roži riqira ik’in.
+Gloss: gold-GEN1 sah-TOP III-carry-PFV.CVB DEM1.SG boy DEM1.IISG.OBL-POSS.ABL word IV-take.away-INF go-PST.UNW
+Translation: Carrying the Sah of gold, the boy went to take her word (hand).

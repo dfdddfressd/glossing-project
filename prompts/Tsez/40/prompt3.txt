@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Ražbadinä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Ražbadinä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Ražbadinä:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Tawadiz harimoxor Ražbadinä nesirtow hič’č’a eɣeni užin xecin.
+Gloss: Tavadi-GEN2 request-AD.LAT Razhbadin-ERG DEM1.ISG.OBL-LAT-EMPH the.most young-DEF son-TOP leave-PST.UNW
+Translation: According to Tavadi's request, Razhbadin left the youngest son to him.
+Sentence: Elo Ražbadinä ʕoloqzaqor eƛix, pulanaw mečoƛ’or ʕaƛa yałru kidbabi rutirƛin.
+Gloss: there Razhbadin-ERG young.person-PL-POSS.LAT say-PRS some place-SUPER.LAT village-IN.ESS be-PST.PRT girl-PL II.PL-gather-QUOT
+Translation: There, Razhbadin said to the young people: "Gather the girls from the village on some place!
+Sentence: Ražbadinä eƛin, däder ayru ƛirba deber ukayn esunäy, ža qazaq yoł.
+Gloss: Razhbadin-ERG say-PST.UNW me-APUD.LAT come-PST.PRT comrade you-LAT see-PFV.CVB find-CND.CVB DEM1.SG Georgian be
+Translation: Razhbadin said: "You saw that the comrade that came to me is Georgian.

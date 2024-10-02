@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ixinno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ixinno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ixinno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła quł sasaqtow moƛaxayn bizin, ixinno risno, q’ˤanon gagalazał xizay ħonƛ’aɣor boqno.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH sleep-AD.ABL-TOP I.PL-get.up-PFV.CVB bag-TOP IV-take-PFV.CVB two-TOP flower-PL-CONT.ESS behind mountain-SUPER.VERS I.PL-become-PST.UNW
+Translation: The next morning, the two of them got up from their sleep, took a back and went to the mountain for flowers.
+Sentence: Hemedur q’ˤunesno micxirno łiyn, babiya žarƛin c’unzi rodin xecin zawruni micxiryosno, mesedyosno ixinno łiyrno yizä.
+Gloss: so two.OBL-GEN1-TOP money-TOP end-PFV.CVB dad-ERG son-LAT-QUOT guard IV-do-PFV.CVB leave-PFV.CVB be.NPRS-PST.PRT-DEF money-GEN1-and gold-GEN1-and bag-TOP finish-PFV.CVB DEM2.IPL-ERG
+Translation: So the two guys' money was finished, and the bag of money and gold that the father left for his son they finished as well.
+Sentence: Ric’äsi mesedyosno, micxiryosno ixinno sadaq risno, ža kid saɣ yodanixƛin xander ik’in.
+Gloss: IV-fill-RES.PRT gold-GEN1-and money-GEN1-and bag-TOP all IV-take-PST.UNW DEM1.SG daughter cure II-do-MSD-AD.ESS-QUOT khan-APUD.LAT go-PST.UNW
+Translation: He took the entire bag filled with gold and money and went to the king in order to cure his daughter.
+
+Approximate Matches:
+Sentence: Izin äk’iru ʕAliqiličä yołi aħyan rˤołun, bašiqno rixintow aždaħes q’ˤim rayrno.
+Gloss: get.up-PFV.CVB go-PST.PRT Aliqilich-ERG however ear-and drill-PFV.CVB finger-POSS.ESS-and IV-hang-PFV.CVB-EMPH dragon-GEN1 head IV-bring-PST.UNW
+Translation: Aliqilich, who got up and came, pierced its ear, and brought the dragon's head on one finger.
+Sentence: Neła quł sasaqtow, qaħłi begiracekin bičinč’ey ixinabin rižin q’ˤanon esnabi č’ʷadmay micxir bowa bik’in.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH dawn III-let-TERM-even III-be-NEG.PST.UNW bag-PL-TOP IV-carry-PFV.CVB two-TOP brother-PL ruin-IN.ABL money III-get-INF I.PL-go-PST.UNW
+Translation: The next morning even before dawn, carrying a bag, the two brothers went to get the money out of the ruin.
+Sentence: Žedu nexxo bukaynosi, yeda neł ixinoxorno oqno ʕuraw q’ʷaridno oqno ičin.
+Gloss: DEM1.IPL come-IPFV.CVB I.PL-see-ANT.CVB DEM2.ISG DEM1.IISG.OBL bag-AD.LAT-TOP become-PFV.CVB very sadness-TOP become-PFV.CVB be-PST.UNW
+Translation: When he saw them coming, he came next to that bag and became very sad.

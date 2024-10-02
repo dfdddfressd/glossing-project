@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Kidirozaq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Kidirozaq: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Qema regirnosi, Bac’alägon harizi rodin, Allah, kuro däz ħirozaqor butniƛin.
+Gloss: rain IV-let-ANT.CVB Batsali-ERG-CNTR request IV-do-PST.UNW God throw-IMPR me-GEN2 shoulder-PL-POSS.LAT burka-QUOT
+Translation: When it had started to rain, Batsali requested: "God, throw a burka over my shoulders!"

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħayran in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħayran: 
+
+Exact Matches
+Sentence: Sadaq zawru halmaɣłi šebi yisir roqäƛin ħayran boqno ƛexun.
+Gloss: all be.NPRS-PST.PRT friendship what DEM2.ISG.OBL-LAT IV-happen-PST.WIT.INT-QUOT be.astonished I.PL-become-PFV.CVB remain-PST.UNW
+Translation: All the friends who were there wondered what happened to him.
+Sentence: Kaɣat t’et’ernosi, Ražbadin ħayran oqno ƛexun yedu šebi daq roqäƛin.
+Gloss: letter read-ANT.CVB Razhbadin be.astonished become-PFV.CVB remain-PFV.CVB DEM2.IISG what me-POSS.ESS IV-happen-PST.WIT.INT-QUOT
+Translation: After he had read the letter, Razhbadin wondered in surprise: "What happened to me?"
+Sentence: ʕUraw ħayran oqno xan, neła kidbes c’odorłin ʕaq’ilłin rukayn.
+Gloss: very be.astonished become-PFV.CVB khan DEM1.IISG.OBL girl-GEN1 cleverness-and intelligence-and IV.PL-see-PST.UNW
+Translation: The king became very suprised, and he saw that girl's cleverness and intelligence.
+
+Approximate Matches:
+Sentence: Azbaryoxor aynosi, yeda ħayranno oqno ezun ƛexux.
+Gloss: palace-AD.LAT come-ANT.CVB DEM2.ISG be.astonished-TOP become-PFV.CVB look-PFV.CVB remain-PRS
+Translation: When he came to the palace, he remained looking at it in astonishment.

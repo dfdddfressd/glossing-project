@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Ħusenno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Ħusenno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Ħusenno:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža ik’in kʷaxatow Ħusenno ayn.
+Gloss: DEM1.SG go-PFV.CVB soon-EMPH Hussein-TOP come-PST.UNW
+Translation: He went, and soon also Hussein came.

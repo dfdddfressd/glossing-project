@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: et’no.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": et’no
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word et’no:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ele hoboda debi mi eɣʷedin et’no biqiräsi micxir boqzaƛ’, c’idaɣor kura baynč’iƛin, eƛin babiya, užä nesä nesir micxir boda oqsiƛin rok’u č’eze roqnosi.
+Gloss: there that you-GEN1 you sweat-TOP pour-PFV.CVB III-win-RES.PRT money III-become-CSL.CVB fire-APUD.VERS throw-INF III-must-NEG.FUT-QUOT say-PFV.CVB dad-ERG boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT money III-do-INF begin-PST.WIT-QUOT heart convinced[?] IV-become-ANT.CVB
+Translation: "There, because it's the money you earned with your own sweat, I don't have to throw it into the fire.", said the father, and was convinced that his son earned money for himself.
+Sentence: Roda šebinon koƛ’inč’ey yisä bečnaqay reč’no reƛ kurno, howlaytow ric’no iyos zok’in et’no haqa.
+Gloss: IV-do-INF something understand.to-NEG.PST.CVB DEM2.ISG.OBL-ERG knee-POSS.ABL IV-cut-PFV.CVB meat throw-PFV.CVB from.there-EMPH IV-fill-PFV.CVB blood-GEN1 mug-TOP pour-PST.UNW mouth-IN.ESS
+Translation: Not knowing what else to do, he cut meat off from his knee and threw it to the eagle, them he filled the blood into a mug and poured it into its mouth.
+Sentence: Ozuri buqin bˤaɣˤizaƛ’or žedu neł kidbederno baynosi, yeženi esiyagon nesä bisno zawruni č’edosni q’ut’un łäs bic’no, kidbez haqan et’no, ža saɣ yodin.
+Gloss: eye III-close-PFV.CVB III-open-POST.CVB DEM1.IPL.OBL DEM1.IISG.OBL girl-APUD.LAT-TOP I.PL-come-ANT.CVB II-old-DEF brother-ERG-CNTR DEM1.ISG.OBL-ERG III-buy-PFV.CVB be.NPRS-PST.PRT-DEF clay-GEN1-DEF earthen.jug-and water-GEN1 III-fill-PFV.CVB girl-GEN2 mouth-IN.ESS-and pour-PFV.CVB DEM1.SG cure II-do-PST.UNW
+Translation: Before the wink of an eye, they arrived at the girl's; the elder brother filled the clay jug he bought with water, poured it into her mouth and cured her.
+
+Approximate Matches:
+Sentence: Bazarganä q’ˤunerno yic’xot’a t’akan et’nosi, nesä ħaƛux zown, yiła enduräz t’asmaɣor yiħurxo zown.
+Gloss: merchant-ERG two.OBL-LAT-TOP II-fill-IPFV.CVB-DISTR glass pour-ANT.CVB DEM1.ISG.OBL-ERG drink-IPFV.CVB be.NPRS-PFV.CVB DEM2.IISG.OBL-ERG that.way-IN.ESS.DIST washbowl-IN.ALL II-pour-IPFV.CVB be.NPRS-PST.UNW
+Translation: After the merchant poured a glass full for each of them, he drank, and she poured it into the washbowl in the same way.
+Sentence: Hunin resun žedu nexłin, sadaq mesed gogaƛ’orno boɣno čuret’no bok’no nełas di nˤoƛu yadi.
+Gloss: way-TOP IV-find-PFV.CVB DEM1.IPL come-CNC.CVB all gold meadow-SUPER.LAT-TOP III-take.away-PFV.CVB whip-TOP III-beat-PFV.CVB DEM1.IISG.OBL-GEN1 me ashes II-do
+Translation: And even if they come, when they find the way, I will take away all the gold onto a meadow and with the beat of my whip, I'll transform it into ashes.
+Sentence: Xizyogon kidbezno, debezno, däzno čuret’no bok’no, ħolaq’awt’a ʕomoybin rodin, ža čuret’ nˤoƛał buqˤan łärnokin bäsunč’iza.
+Gloss: then daughter-GEN2-TOP you-GEN2-and me-GEN2-and whip-TOP III-beat-PFV.CVB thin-DISTR donkey-PL-TOP III.PL-do-PFV.CVB DEM1.SG whip ashes-CONT.ESS III-hide-FUT.DEF who.OBL-LAT-TOP-even III-find-NEG.FUT-LCV.CVB
+Translation: Then with the beats of our daughter's, your and my whip, we will turn into thin donkeys and hide the whip in the ashes where no one can find it.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hunix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hunix: 
+
+Exact Matches
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Howži nesi žek’a ža uži debez mi hunix ik’iƛin egirno.
+Gloss: now DEM1.ISG.OBL man-ERG DEM1.SG boy you-GEN2 you way-AD.ESS go-QUOT let-PST.UNW
+Translation: Now the man let the boy go: "Go on your way!"
+Sentence: ʕAƛar xabar bayn, hunix zigolun yegirno, raq’ˤu bˤeƛ’ rexunƛin.
+Gloss: village-IN.LAT story III-come-PST.UNW way-AD.ESS hail-TOP II-send-PFV.CVB III.PL-many sheep III.PL-die-PST.UNW-QUOT
+Translation: Into the village came the news that on the way it had hailed and many sheep had died.
+
+Approximate Matches:
+Sentence: Łˤono äƛirunigon hunixoza täƛru łˤeb yac’nosi, t’it’ubin roqno bełiqanez rečnoł bikorin boƛixno maħor.
+Gloss: three say-PST.PRT-DEF-CNTR way-AD.ESS-ATTR.OBL-ERG give-PST.PRT year II-eat-ANT.CVB piece-PL-TOP IV-become-PFV.CVB hunter-GEN2 vomiting-CONT.ESS snake-TOP III-appear-PFV.CVB outside
+Translation: When he ate the leaf that the third traveller gave him, the snake turned to pieces and came out through the hunter's vomiting.
+Sentence: Q’ˤanosi bazargan žeda žeduz hunixno bik’in, sideni ħumukuliƛ’ zowrno uži ʕaƛar ayra nexno.
+Gloss: two-ATTR merchant DEM1.IPL-ERG DEM1.IPL.OBL-GEN2 way-AD.ESS-TOP III-go-PFV.CVB the.other.one camel-SUPER.ESS seat-PFV.CVB boy village-IN.LAT bring-INF come-PST.UNW
+Translation: Two merchants went on their way, the other one seated the boy onto the camel and brought him into the village.
+Sentence: Nesis hut’-mˤalay ƛ’er bisäsi bukayzaƛ’ hunixoza esirno, šebi deber roqnoƛin.
+Gloss: DEM1.ISG.OBL-GEN1 front.part.of.the.face-IN.ABL color III-take-RES.PRT III-see-CSL.CVB way-AD.ESS-ATTR.OBL-ERG ask-PST.UNW who you-LAT IV-happen-PST.UNW-QUOT
+Translation: When they saw the color vanishing from his face, the travellers asked: "What happened to you?"

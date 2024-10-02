@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xizay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xizay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xizay:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yisä eƛin, mi barułun yižanix debeł xizay nexäsi yoł diƛin.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW you wife-LHUN II-take.out-MSD-AD.ESS you-CONT.ESS behind come-RES.PRT be me-QUOT
+Translation: He said: "I came to you in order to take you as a wife."
+Sentence: Neła quł sasaqtow moƛaxayn bizin, ixinno risno, q’ˤanon gagalazał xizay ħonƛ’aɣor boqno.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH sleep-AD.ABL-TOP I.PL-get.up-PFV.CVB bag-TOP IV-take-PFV.CVB two-TOP flower-PL-CONT.ESS behind mountain-SUPER.VERS I.PL-become-PST.UNW
+Translation: The next morning, the two of them got up from their sleep, took a back and went to the mountain for flowers.
+Sentence: Bertenyoł šeƛ’anix baħarčis šeƛ’ureł xizay yiłagon q’orolay yegirno, neła nełas šeƛ’un nełar xecin.
+Gloss: marriage-CONT.ESS put.on-MSD-AD.ESS brave.young.man-GEN1 clothing-CONT.ESS behind DEM2.IISG.OBL-ERG-CNTR widow II-let-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 put.on-PST.UNW DEM1.IISG.OBL-LAT leave-PST.UNW
+Translation: In order to dress up for the marriage, she let the widow look after young men's clothings and left her own clothes with her.
+
+Approximate Matches:
+Sentence: T’umzałäy xabar täqruntow, akäłru iłen oqno Ħon-Bahadurä eƛin, di žedał xizaynč’e oqäsiƛin.
+Gloss: pigeon-PL-CONT.ABL story hear-IMM.ANT.CVB-EMPH get.tired-PST.PRT as-TOP become-PFV.CVB Mountain~Hero-ERG say-PST.UNW me DEM1.IIPL.OBL-CONT.ESS behind-TOP-INTS become-RES.PRT-QUOT
+Translation: When Mountain~Hero heard the story about the pigeons, he wasn't tired anymore and said: "I will search for them!"
+Sentence: Miƛ’zo raqˤyołäy bešnayx zawru iyoł xizayn ik’in sidaɣ žopono ciqär ayn.
+Gloss: ram-ATTR.OBL wound-CONT.ABL III-drip-IPFV.CVB be.NPRS-PST.PRT blood-CONT.ESS behind-TOP go-PFV.CVB in.one.place dense forest-IN.LAT come-PST.UNW
+Translation: He went behind the blood that was dripping out of the ram's wound and came into a dense forest, someplace.
+Sentence: Nełał xizaygon zirun zeyn durimoƛ’ k’oƛin rik’in.
+Gloss: DEM1.IISG.OBL-CONT.ESS behind-CNTR fox-and bear-and running run-PFV.CVB III.PL-go-PST.UNW
+Translation: The fox and the bear went running behind it.

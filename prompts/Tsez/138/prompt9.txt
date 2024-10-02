@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ƛˤebno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ƛˤebno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ƛˤebno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyogon zira eƛin, walla, howža di eƛix zowali łiłiroƛ’ozoni ɣunoqay yaqˤułer ƛˤebno yok’ek’no.
+Gloss: then fox-ERG say-PST.UNW wallah DEM4.SG me say-IPFV.CVB be.NPRS-ATTR ditch-SUPER.ESS-GEN2-DEF tree-POSS.ABL today-LAT leaf-TOP II-steal-PST.UNW
+Translation: Then the fox said: "By God, someone stole the leaf from the tree on that ditch I talked about.
+
+Approximate Matches:
+Sentence: Hemedur ƛˤebrebi rik’in nesis uži aq’ˤiłno ʕoloqan oqno, baru yowa mix bayn nesis.
+Gloss: so year-PL II.PL-go-PFV.CVB DEM1.ISG.OBL-GEN1 son grow.up-PFV.CVB young become-PFV.CVB wife II-marry-INF time III-come-PST.UNW DEM1.ISG.OBL-GEN1
+Translation: So the years went by, his son grew up and became a young man, and the time came for him to marry.
+Sentence: Boc’i maħla ɣˤunoqay räšruni ƛˤebrezał buqˤełno, zey hemełtow ažomzo kosyar bizin.
+Gloss: wolf court-IN.ESS hornless.goat-POSS.ABL IV-fall-PST.PRT-DEF leaf-PL-CONT.ESS III-hide-PFV.CVB bear DEM4.IISG.OBL-EMPH tree-ATTR.OBL peak-LAT III-get.up-PST.UNW
+Translation: The wolf who ate from the goat hide in the garden between the leaves, the bear climbed up on the crest of a tree.
+Sentence: Łˤoran ƛˤeba na mi zowäƛin, esirno gula nesiq.
+Gloss: three.OBL-TOP year-IN.ESS where you be.NPRS-PST.WIT.INT-QUOT ask-PST.UNW horse-ERG DEM1.ISG.OBL-POSS.ESS
+Translation: "Where have you been these three years?", asked him the horse.

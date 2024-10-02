@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kidbä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kidbä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kidbä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Xanes ħillan čuqˤno, kidbä ʕansaqor, bišodyołäysi zahru bok’ek’ƛinno eƛin, xizyo bercingo bišno.
+Gloss: khan-GEN1 trickery-TOP notice-PFV.CVB daughter-ERG walking.stick-POSS.LAT food-CONT.ABL-ATTR poison III-steal-QUOT-TOP say-PFV.CVB after good I.PL-eat-PST.UNW
+Translation: Noticing the king's trickery, and the daughter told the walking stick to remove the poison in the food, whereafter they ate well.
+Sentence: Didurnokin ħal bayxanusi biyzaƛ’, kidbä siħirno yoqno dibir šeƛ’u roɣa egirno.
+Gloss: how-TOP-even trouble III-come-NEG.PRS.PRT III-know-CSL.CVB girl-ERG sly.person-TOP II-become-PFV.CVB imam clothing IV-take.away-INF let-PST.UNW
+Translation: When she knew he had no trouble [following her], the girl became a sly person and let the imam take off his clothes.
+
+Approximate Matches:
+Sentence: Hemedur sadaq ʕumru bodix zown eɣeni užän, łoħrołäy yaqruni bercinawni kidbän.
+Gloss: so together life III-do-IPFV.CVB be.NPRS-PFV.CVB young-DEF boy-ERG-and frog-CONT.ABL II-become-PST.PRT-DEF beautiful-DEF girl-ERG-and
+Translation: So the young boy and the beautiful girl that became of the frog were living together.
+Sentence: Yisän sida kidbän ʕišq’us łin ħaƛun, yisis bašiqˤoy nełas bašiqor rayn, nełasgon Ismaʕilzo bašiqor raynƛin.
+Gloss: DEM2.ISG.OBL-ERG-and one.OBL girl-ERG-and love-GEN1 water-TOP drink-PFV.CVB DEM2.ISG.OBL-GEN1 ring DEM1.IISG.OBL-GEN1 finger-POSS.LAT IV-come-PFV.CVB DEM1.IISG.OBL-GEN1-CNTR Ismail-GEN2 finger-POSS.LAT IV-come-PST.UNW-QUOT
+Translation: He and some girl drank a love potion, his ring came onto her finger, and hers came on Ismail's finger."
+Sentence: Žałäy t’umin boqno, kidbägon akin raɣˤin begirno.
+Gloss: boy-CONT.ABL pigeon-TOP III-become-PFV.CVB girl-ERG-CNTR window-TOP IV-open-PFV.CVB III-let-PST.UNW
+Translation: The boy became a pigeon again, and the girl opened the window and let it out.

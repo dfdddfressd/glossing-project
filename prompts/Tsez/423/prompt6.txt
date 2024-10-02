@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zawru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zawru: 
+
+Exact Matches
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.
+Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW
+Translation: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+
+Approximate Matches:
+Sentence: Neła buqˤno zawruni q’ayn bižin, žeda žedus ʕaƛazaɣorno bik’in.
+Gloss: DEM1.IISG.OBL-ERG III-hide-PFV.CVB be.NPRS-PST.PRT-DEF article-TOP III-take.out-PFV.CVB DEM1.IPL.OBL-ERG DEM1.IPL.OBL-GEN1 village-PL-IN.VERS-TOP I.PL-go-PFV.CVB
+Translation: They took out the article that she hid, and went to their own villages.
+Sentence: Xizor yutin idur yaynosi, best’alawni kid ziya bicix zawruni hisona kecno yičin.
+Gloss: back II-return-PFV.CVB home-LAT II-come-ANT.CVB step-DEF daughter cow III-tie-IPFV.CVB be.NPRS-PST.PRT-DEF trough-IN.ESS sleep-PFV.CVB II-wait-PST.UNW
+Translation: The stepdaughter returned and while she came home, she waited sleeping in the trough the cow was tied to.
+Sentence: Bertenyoł zawruni ahli ʕažaib boqno nesä äƛiru łinaƛ’no.
+Gloss: marriage-CONT.ESS be.NPRS-PST.PRT-DEF people surprise I.PL-become-PST.UNW DEM1.ISG.OBL-ERG say-PST.PRT what.OBL-SUPER.ESS-TOP
+Translation: The people who were on the marriage were surprised about what he had said.

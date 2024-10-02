@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bukayzaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bukayzaƛ: 
+
+Exact Matches
+Sentence: Nesis hut’-mˤalay ƛ’er bisäsi bukayzaƛ’ hunixoza esirno, šebi deber roqnoƛin.
+Gloss: DEM1.ISG.OBL-GEN1 front.part.of.the.face-IN.ABL color III-take-RES.PRT III-see-CSL.CVB way-AD.ESS-ATTR.OBL-ERG ask-PST.UNW who you-LAT IV-happen-PST.UNW-QUOT
+Translation: When they saw the color vanishing from his face, the travellers asked: "What happened to you?"
+Sentence: Ža nesä eƛinosi yeda igtow lamus oqxo, qazaqä yisir bodixosi ħurmat bukayzaƛ’.
+Gloss: DEM1.SG DEM1.ISG.OBL-ERG say-ANT.CVB DEM2.ISG much-EMPH shame become-PRS Georgian-ERG DEM2.ISG.OBL-LAT III-do-PRS.PRT respect III-see-CSL.CVB
+Translation: When he [Tavadi] said that, he [Razhbadin] became very ashamed, because he saw the respect that the Georgian showed him.
+Sentence: Sasaqtow moƛaxay izizaƛ’or, nesä äƛiruxor rodäsi reže ɣˤutkun, nesiz maday kidbez madär kuräsi mesedyos ƛen bukayzaƛ’, xan haqan ogun ezun ƛexun.
+Gloss: in.the.morning-EMPH sleep-AD.ABL get.up-POST.CVB DEM1.ISG.OBL-ERG ORD-AD.LAT IV-do-RES.PRT IV-big house-TOP DEM1.ISG.OBL-GEN2 door-APUD.ABL daughter-GEN2 door-APUD.VERS erect-RES.PRT gold-GEN1 bridge-TOP III-see-CSL.CVB khan mouth-IN.ESS-TOP gape-PFV.CVB look-PFV.CVB remain-PST.UNW
+Translation: The next morning after getting up from sleeping, he built a big house as said, and when the king saw the golden bridge erected from his door to his daughter's door, he remained looking at it with an open mouth.
+
+Approximate Matches:
+Sentence: Madax doxtur adoru ukayzaƛ’, acno yuqin ža tełxor ik’in.
+Gloss: yard-AD.ESS doctor naked see-CSL.CVB door-TOP II-close-PFV.CVB DEM1.SG inside-AD.LAT go-PFV.CVB
+Translation: Having seen the naked doctor, the khan went inside and closed the door.
+Sentence: Mužmarłäzay iduɣor aynosi, Pat’imater babiw q’ʷarid iłe ukayzaƛ’ yiła nesiq esirno, šida mi nece pašman oqno ičäsiƛin.
+Gloss: Friday-CONT.ABL.DIST home-IN.ALL come-ANT.CVB Fatima-LAT father sadness as see-CSL.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS ask-PST.UNW why you so.much become.sad become-PFV.CVB be-RES.PRT-QUOT
+Translation: After he came home from the Friday (prayer), Fatima asked her father because she saw him being so sad: "Why are you so sad?"
+Sentence: Šudaƛ’ yeda ʕiyayx ukayzaƛ’ maduhaler iyn ža žedus eɣeni esiw yałrułi.
+Gloss: graveyard-SUPER.ESS DEM2.ISG cry-IPFV.CVB see-CSL.CVB neighbor-LAT know-PST.UNW DEM1.SG DEM1.IPL.OBL-GEN1 young-DEF brother be-MSD
+Translation: Because he saw him crying on the grave, the neighbor knew that he was their younger brother.

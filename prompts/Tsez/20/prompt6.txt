@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: sist’a.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": sist’a
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word sist’a:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ƛ’iri xabarkin boynč’ey yeda razin oqno, hunixor eniya erno zowali žedu q’ˤunqorno sist’a magalabin teƛno.
+Gloss: above story-even III-do-NEG.PST.CVB DEM2.ISG agree-TOP become-PFV.CVB way-AD.LAT mother-ERG put-PFV.CVB be.NPRS-ATTR DEM1.IPL two.OBL-POSS.LAT-TOP one.at.a.time bread-PL-TOP give-PST.UNW
+Translation: Without further discussion he agreed and gave the breads that his mother made for the way to the two of them, one for each.
+Sentence: Zeyä q’ˤogedtow qˤiči kosix zown, zira sist’a ƛ’ara but’ix bičäsi zown.
+Gloss: bear-ERG hay.bale-INSTR-EMPH harvest gather-IPFV.CVB be.NPRS-PFV.CVB fox-ERG one.at.a.time ear.of.corn III-rip.out-IPFV.CVB III-be-RES.PRT be.NPRS-PST.UNW
+Translation: The bear packed the harvest together in hay bales, the fox was the one who ripped out the ears one after another.
+Sentence: K’oƛin bik’in yizirabi sist’a c’oxłin, q’ˤanot’a c’oxłin, c’ik’iwtow c’oxłin aždaħes q’ˤim žeduq q’ˤiday k’ek’-rik’no anu.
+Gloss: run-PFV.CVB I.PL-go-PFV.CVB DEM2.PL one.at.a.time meet-CNC.CVB two.at.a.time meet-CNC.CVB all-EMPH meet-CNC.CVB dragon-GEN1 head DEM1.IPL.OBL-POSS.ESS down-IN.ABL IV-move-PST.UNW be.NEG
+Translation: Although running around, they came together one at a time, two at a time, and then all together, but couldn't lift the dragon's head up to them.
+
+Approximate Matches:
+Sentence: Aɣä esin, ɣunoxorno bayn, zira maħin rok’no rutirno žan caƛin, nasin xexoyabi roɣa yołƛin, däqay q’ˤanon xexoy boɣsi, sistow sis därno xecinƛin.
+Gloss: bird-ERG tell-PFV.CVB tree-AD.LAT-TOP III-come-PFV.CVB fox-ERG tail-TOP IV-beat-PFV.CVB IV-turn-PFV.CVB DEM1.SG-TOP throw-PFV.CVB all young.animal-PL IV-take.away-INF be-QUOT me-POSS.ABL two-TOP young.animal III-take.away-PST.WIT one-EMPH one me-LAT-TOP leave-PST.UNW-QUOT
+Translation: The bird said: "A fox has come to the tree and wanted to throw it down with a beat of his tail to take away all my nestlings, two nestlings he took, so just a single one he left for me."
+Sentence: Eženä p’es anusi nesä nesistow ret’urno.
+Gloss: old-DEF-ERG sound be.NEG-ATTR DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1-EMPH IV-hack-PST.UNW
+Translation: The old man hacked his own [wood] without saying anything.
+Sentence: Zownƛax, zownanuƛax sis xan, nesis zown sistow sis kid.
+Gloss: be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB-NEG-QUOT one khan DEM1.ISG.OBL-GEN1 be.NPRS-PST.UNW one-EMPH one daughter
+Translation: Once upon a time there was a king who had just one daughter.

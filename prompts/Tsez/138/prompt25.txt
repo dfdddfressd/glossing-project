@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: retinƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": retinƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word retinƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanez kidbes eniw yoł di, där ža xedyox yik’izaƛ’or yukada retinƛin, yiła ader xot’o boɣno.
+Gloss: khan-GEN2 daughter-GEN1 mother be me me-LAT DEM1.SG husband-AD.ESS II-go-POST.CVB II-see-INF IV-want-PST.UNW-QUOT DEM2.IISG.OBL-ERG forward foot III-take.away-PST.UNW
+Translation: "I am the king's daughter's mother, I wanted to see her before she'd go to that husband.", and she put her foot forward.
+Sentence: Xizyo Ħon-Bahadurä babiwq nesir yukayru moƛałäy esin, howža moƛał yukayru kidbeł xizay ik’a retinƛin.
+Gloss: afterwards Mountain~Hero-ERG father-POSS.ESS DEM1.ISG.OBL-LAT II-see-PST.PRT dream-CONT.ABL tell-PST.UNW DEM4.SG dream-CONT.ESS II-see-PST.PRT girl-CONT.ESS behind go-INF IV-want-PST.UNW-QUOT
+Translation: Then Mountain~Hero told his father about the dream he had seen: "I want to go after the girl that I had seen in that dream."
+Sentence: Xanä esirno, debi murad šebi, šebi deber retinƛin.
+Gloss: khan-ERG ask-PST.UNW you-GEN1 wish what what you-LAT IV-want-PST.UNW-QUOT
+Translation: The king asked: "What is your wish, what do you want?"
+
+Approximate Matches:
+Sentence: Xizyo nesä kinaw raqru šebinon esin, xaner nesäq nesä łi ħaƛuxosini t’akan yetinƛin esirno.
+Gloss: afterwards DEM1.ISG.OBL-ERG entire IV-happen-PST.PRT something tell-PFV.CVB khan-LAT DEM1.ISG.OBL-ERG-POSS.ESS DEM1.ISG.OBL-ERG water drink-PRS.PRT-DEF glass II-want-PFV.CVB-QUOT ask-PST.UNW
+Translation: Afterwards, he told everything that happened and the king asked for the water-drinking-glass that he wanted.
+Sentence: Yisiq riyrno, dibirqor mi äƛino, ukrun, micxirno rasadanix q’ili betinƛin, mi eƛo at’ rasadanix betinƛin.
+Gloss: DEM2.ISG.OBL-POSS.ESS IV-explain-PST.UNW mullah-POSS.LAT you say-PROHIB silver-and money-and III.PL-measure-MSD-AD.ESS qili III-want-PST.UNW-QUOT you say-IMPR wheat IV-measure-MSD-AD.ESS III-want-PST.UNW-QUOT
+Translation: He explained to him: "Don't tell the mullah that we want the qilis to measure silver and money, but tell him that we want the qilis to measure wheat!"
+Sentence: Yisiq riyrno, dibirqor mi äƛino, ukrun, micxirno rasadanix q’ili betinƛin, mi eƛo at’ rasadanix betinƛin.
+Gloss: DEM2.ISG.OBL-POSS.ESS IV-explain-PST.UNW mullah-POSS.LAT you say-PROHIB silver-and money-and III.PL-measure-MSD-AD.ESS qili III-want-PST.UNW-QUOT you say-IMPR wheat IV-measure-MSD-AD.ESS III-want-PST.UNW-QUOT
+Translation: He explained to him: "Don't tell the mullah that we want the qilis to measure silver and money, but tell him that we want the qilis to measure wheat!"

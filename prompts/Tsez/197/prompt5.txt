@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: saɣyat.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": saɣyat
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word saɣyat:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Budumä äsiru xabaryoƛ’ xan c’aq’ ʕažaibno oqno, nesir micxirno teƛno, ƛ’irigon bigu saɣyatno bodin, žan egirno.
+Gloss: muezzin-ERG tell-PST.PRT story-SUPER.ESS khan very surprise-TOP become-PFV.CVB DEM1.ISG.OBL-LAT money-and give-PFV.CVB above-CNTR III-good present-and III-do-PFV.CVB DEM1.SG-and send-PST.UNW
+Translation: The king was very surprised about what the muezzin told, he gave him money and nice presents and let him go.
+Sentence: Nełƛ’ay soder raq’ˤu saɣyatyabi nesä xanez kidber regirno.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after III.PL-many present-PL DEM1.ISG.OBL-ERG khan-GEN2 daughter-LAT III.PL-send-PST.UNW
+Translation: After that he sent many presents to the king's daughter.
+Sentence: Ražbadinä nazoƛ’no rayrno Tawadä nesiq regäru saɣyatyabi.
+Gloss: Razhbadin-ERG everyone.OBL-SUPER.ESS-TOP III.PL-bring-PST.UNW Tavadi-ERG DEM1.ISG.OBL-POSS.ESS IV-send-PST.PRT present-PL
+Translation: Razhbadin brought to everyone the presents Tavadi has sent him.

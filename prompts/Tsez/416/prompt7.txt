@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Maħama in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Maħama: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Rˤałayn rodin, at’no beqa ħolimoƛ’ roɣno, Alimaħama čardaħä q’ˤidan ičin ezun ičäsi zown.
+Gloss: threshing.floor-TOP IV-do-PFV.CVB wheat-TOP sun-IN.ESS mat-SUPER.ESS IV-take.away-PFV.CVB Alimagomed-ERG balcony-IN.ESS down-TOP sit-PFV.CVB look-PFV.CVB be-RES.PRT be.NPRS-PST.UNW
+Translation: Having done the threshing, Alimagomed put the wheat on a mat in the sun, sat down on a balcony and was looking around.
+Sentence: Bˤeƛ’no adäz roc’no neširur iduɣor ik’iƛ’oräy, Alimaħamar teqno bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: sheep-TOP ahead III.PL-drive-PFV.CVB evening-LAT home-IN.ALL go-SIM.CVB Alimagomed-LAT hear-PST.UNW sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: When he drove the sheep home in the evening, Alimagomed heard them talking to each other.
+Sentence: Ħak’omƛerce šebin riqiraniƛäy, eynodanix močin k’edin oqäsi yołƛin, esin Alimaħama.
+Gloss: khinkali-SUB.LAT-EQU1 thing IV-win-MSD-SUB.ABL work-MSD-AD.ESS place-TOP search-PFV.CVB become-RES.PRT be-QUOT tell-PST.UNW Alimagomed-ERG
+Translation: "I have come to search a place to work in order to earn some food."

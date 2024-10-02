@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kecno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kecno: 
+
+Exact Matches
+Sentence: Neła quł neširu yizirabi kecno baq’ˤu mix bik’izaƛ’ortow, Tawadis uži ayn.
+Gloss: DEM1.IISG.OBL day-CONT.ESS evening DEM2.PL sleep-PFV.CVB III-much time III-go-POST.CVB-EMPH Tavadi-GEN1 son come-PST.UNW
+Translation: On the same evening, before they slept too long, Tavadis son came.
+Sentence: Aq’ˤu urɣizi oqxo ičinč’ey izin Ražbadinä bˤałayn risno barude kecno äsuruni žek’us gič’orabi rodin kurno.
+Gloss: much thinking become-IPFV.CVB be-NEG.PST.CVB get.up-PFV.CVB Razhbadin-ERG dagger-TOP IV-take-PFV.CVB wife-APUD.ESS sleep-PFV.CVB find-PST.PRT-DEF man-GEN1 piece-PL IV-do-PFV.CVB throw-PST.UNW
+Translation: Without thinking too much, Razhbadin got up, took his dagger and cut the man whom he found sleeping with his wife to pieces.
+Sentence: Ža debeq äsirus haqu azirodoƛ, mi där łˤora ɣudi ʕeze roqace biša eroƛin, esiwqorno eƛin, išno-utin kecno yeda.
+Gloss: DEM1.SG you-POSS.ESS tell-PST.PRT-GEN1 mouth freeze.to.death-OPT you me-LAT three.OBL day be.enough IV-become-TERM food put-IMPR-QUOT sister-POSS.LAT-TOP say-PFV.CVB eat-PFV.CVB sleep-PST.UNW DEM2.ISG
+Translation: "May the mouth of the one who told you that freeze over! Prepare me food enough for three days!", he said, ate and slept.
+
+Approximate Matches:
+Sentence: Žan hemedurtow kecnon ičin, sasaqosi babiwderno nexno eƛin, där c’ohor ukaynč’uƛin.
+Gloss: DEM1.SG-TOP so-EMPH sleep-PFV.CVB-TOP remain-PFV.CVB in.the.morning father-APUD.LAT-TOP come-PFV.CVB say-PFV.CVB me-LAT thief see-NEG.PST.WIT-QUOT
+Translation: He also fell asleep and came in the morning to his father and said, "I did not see the thief."
+Sentence: Neširu sadaq kecnosi, Ismaʕilä baħarayłno, nesä nesiłno roƛƛo bˤałäyn eqerno, debi ged ent’aɣor yaynäy, debi di meč’ beč’a yołƛin riyrno.
+Gloss: at.night together sleep-ANT.CVB Ismail-ERG fiancée-CONT.ESS-and DEM1.ISG.OBL-ERG DEM1.ISG.OBL-CONT.ESS-and IV-middle dagger-TOP put-PFV.CVB you-GEN1 shirt here-IN.VERS II-come-CND.CVB you-GEN1 me neck III-cut-INF be-QUOT IV-explain-PST.UNW
+Translation: At night, when they were sleeping together, Ismail put a dagger inbetween his bride and himself: "If your shirt comes onto my side, I will cut your neck!", he explained.
+Sentence: C’ik’iw yizi kecnosi, neł aždaħä c’in erno ɣoɣoru ʕamołno eqerno geres hibo ɣoɣorik’a boqno.
+Gloss: all DEM2.IPL sleep-ANT.CVB DEM1.IISG.OBL dragon-ERG fire-TOP put-PFV.CVB hot coal-CONT.ESS-TOP put-PFV.CVB iron-GEN1 stick make.red.hot-INF III-begin-PST.UNW
+Translation: When all of them slept, the dragon made a fire, put an iron staff onto the coals and began to make it red-hot.

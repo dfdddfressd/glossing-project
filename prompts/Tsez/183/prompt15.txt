@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yaynč’u.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yaynč’u
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yaynč’u:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Dey ħumukuli bukaynč’uƛinno eƛix meža, nełas c’ik’iw sipatno esix.
+Gloss: me-GEN1 camel III-see-NEG.PST.WIT-QUOT-TOP say-IPFV.CVB you(I).PL.OBL-ERG DEM1.IISG.OBL-GEN1 entire appearance-TOP tell-PRS
+Translation: "You say that you haven't seen my camel, and you tell me its entire appearance.
+Sentence: Žan hemedurtow kecnon ičin, sasaqosi babiwderno nexno eƛin, där c’ohor ukaynč’uƛin.
+Gloss: DEM1.SG-TOP so-EMPH sleep-PFV.CVB-TOP remain-PFV.CVB in.the.morning father-APUD.LAT-TOP come-PFV.CVB say-PFV.CVB me-LAT thief see-NEG.PST.WIT-QUOT
+Translation: He also fell asleep and came in the morning to his father and said, "I did not see the thief."
+Sentence: Howži yiła eƛin, didur di hoboy łaƛ’or yik’iƛ’oräy esiws žanaza bukaynosi, ʕiyaynč’ey yik’anƛin.
+Gloss: now DEM2.IISG.OBL-ERG say-PST.UNW how me now water-SUPER.LAT II-go-SIM.CVB brother-GEN1 corpse III-see-ANT.CVB cry-NEG.PST.CVB II-go-FUT.DEF-QUOT
+Translation: Now she said: "How, while I'm going to fetch water, am I going to go without crying when I see my brother's corpse?"

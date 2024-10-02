@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yałrułi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yałrułi: 
+
+Exact Matches
+Sentence: Neła ža beƛ’q’ˤu bac’anix łet’ix yałrułi nesir čuqˤnosi, c’eruc’a caƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG sheep III-eat-MSD-AD.ESS pick-IPFV.CVB be-MSD DEM1.ISG.OBL-LAT notice-ANT.CVB bow shoot.with-PST.UNW
+Translation: When he noticed that she was picking that sheep in order to eat it, he shot with his bow.
+Sentence: Ža kid nesä yižixosi yałrułi Tawadir riyx zownanu.
+Gloss: DEM1.SG girl DEM1.ISG.OBL-ERG II-lead-PRS.PRT be-MSD Tavadi-LAT IV-know-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: Tavadi didn't know that this girl was the one he was going to marry.
+Sentence: Xaner iyn anu yeda nesis uži yałrułi.
+Gloss: khan-LAT know-PST.UNW be.NEG DEM2.ISG DEM1.ISG.OBL-GEN1 son be-MSD
+Translation: The king didn't know that he was his own son.
+
+Approximate Matches:
+Sentence: Nedurä mi dey wasi t’ubazi bodix zownƛin, elayn bizin ziru xanes kidbederno bik’in esin nełaq ža ɣˤutkun, maʕišatno ɣˤʷays yałrułin, žatown habihan yołƛinno.
+Gloss: so-Q you me-GEN1 testament fulfill III-do-IPFV.CVB be.NPRS-PST.UNW-QUOT there-IN.ABL-TOP III-get.up-PFV.CVB fox khan-GEN1 daughter-APUD.LAT-TOP III-go-PFV.CVB tell-PFV.CVB DEM1.IISG.OBL-POSS.ESS DEM1.SG house-and fortune-and dog-GEN1 be-PST.PRT-NMLZ-and DEM1.SG-EMPH-and miller be-QUOT-TOP
+Translation: "So you have fulfilled my wish?", [said] the fox[,] got up from there, went to the king's daughter and told her that the house and the fortune all belong to the dog and that he is just a miller.
+Sentence: Hemełƛ’o xizyo babiwz ozzałer č’uran rayn, ža nesis uži yałrułin iyn.
+Gloss: DEM4.IISG.OBL-SUPER.ESS after father-GEN2 eye-PL-CONT.LAT light-TOP IV-come-PFV.CVB DEM1.SG DEM1.ISG.OBL-GEN1 son be-PST.PRT-NMLZ-and know-PST.UNW
+Translation: After that, the father's eyesight came back and he knew it was his son.
+Sentence: Xizyo xanä sis siħiray q’orolayn goƛ’in nesä nesidäɣor, nełaq esin, däz iday micxir nar eƛa biynč’ey gugix, łu bok’ek’xosi yałrułin didurnokin riyxanuƛin.
+Gloss: afterwards khan-ERG one cunning.II widow-TOP invite-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.VERS DEM1.IISG.OBL-POSS.ESS tell-PST.UNW me-GEN2 home-IN.ABL money where say-INF III-know-NEG.PST.CVB escape-IPFV.CVB who.ERG III-steal-PRS.PRT be-PST.PRT-NMLZ-and how-and-even IV-know-PRS-NEG-QUOT
+Translation: Then the king invited a cunning widow to himself and he told her: "Money has vanished from my home to who-knows-where, I don't know whatsoever who might have stolen."

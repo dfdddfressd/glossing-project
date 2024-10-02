@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: besuranix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": besuranix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word besuranix:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyo ža c’ohor k’edin esuranix di ƛ’iri risxo, daruyar ħumukulis reƛ där retinƛin iduzan yaħnaynƛin.
+Gloss: afterwards DEM1.SG thief search-PFV.CVB find-MSD-AD.ESS me above IV-take-IPFV.CVB medicine-LAT camel-GEN1 meat me-LAT IV-want-PST.UNW-QUOT home-PL-IN.ESS-TOP II-walk.around-PST.UNW-QUOT
+Translation: Afterwards I will take actions to search and find the thief, walking around the homes [saying] that I want camel meat for a medicine."

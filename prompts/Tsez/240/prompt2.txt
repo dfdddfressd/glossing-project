@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rasgi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rasgi: 
+
+Exact Matches
+Sentence: Nełaq mi rasgi q’ʷarid yaqnoƛin, žoyä nełas rok’u čučzi royn.
+Gloss: DEM1.IISG.OBL-POSS.ESS you at.all sadness II-become-PROHIB-QUOT boy-ERG DEM1.IISG.OBL-GEN1 heart loosen IV-do-PST.UNW
+Translation: "Don't be sad at all about it!", he calmed her down.
+
+Approximate Matches:

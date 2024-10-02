@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word c’oq’iw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word c’oq’iw: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Didurnokin žedus bok’ełxosi ħal boqnoanu neła boc’oqaqay”.
+Gloss: how-and-even DEM1.IPL.OBL-GEN1 I.PL-escape-PRS.PRT strength I.PL-become-PST.UNW-NEG DEM1.IISG.OBL trap-POSS.ABL
+Translation: However, they were not able to escape from that "trap".
+Sentence: Nełƛ’o ža bežigon q’oq’oƛix zown.
+Gloss: then DEM1.SG III-more-CNTR crow-IPFV.CVB be.NPRS-PST.UNW
+Translation: Then it crowed even more.
+Sentence: Nełaƛ’no mamalay q’oq’oƛixosin, akbar roɣxosin bičinč’izaƛ’, šudno rič’in tełer yezunosi, elo yiłar bercinaw kid yesun.
+Gloss: then-TOP rooster crow-PRS.PRT-and call.for.prayer IV-take.away-PRS.PRT-TOP III-cease-NEG.FUT-CSL.CVB grave-TOP IV-dig-PFV.CVB into II-look-ANT.CVB there DEM2.IISG.OBL-LAT beautiful girl II-find-PST.UNW
+Translation: Then the rooster still didn't stop crowing and cackling, so she dug out the grave, looked inside and found a beautiful girl.

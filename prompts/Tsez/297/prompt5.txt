@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bˤeƛ’xozoni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bˤeƛ’xozoni: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Bˤeƛ’xozoni aħozä eƛin:
+Gloss: sheep-AD.ESS-ATTR.OBL-DEF shepherd-ERG say-PST.UNW
+Translation: The shepherd said:

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: aždaħ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": aždaħ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word aždaħ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.
+Gloss: one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW
+Translation: One day Bear Ear went to the spring the dragon was covering to get water.
+Sentence: T’ok’ow k’ek’-bik’łinč’ey howlortow bexun ža - iłno q’ˤim yołali aždaħ.
+Gloss: anymore move-POT-NEG.PST.CVB there-LAT-EMPH III-die-PFV.CVB DEM1.SG - six head be-ATTR dragon
+Translation: The dragon with the six heads couldn't move anymore and died there.
+Sentence: Yisägon bizirno q’ˤidan bok’no aždaħ ašuƛäyd raƛ’moƛxor cucik’no.
+Gloss: DEM2.ISG.OBL-ERG-CNTR III-lift-PFV.CVB down-TOP III-beat-PFV.CVB dragon waist-SUB.ABL-TERM earth-SUB.LAT put-PST.UNW
+Translation: Then he beat the dragon down and put him into the earth up to the waist.
+
+Approximate Matches:
+Sentence: Ħon-bahadurä kurno c’eruc’as hil, aždaħzo yoƛƛo hut’-mˤalä c’oxno.
+Gloss: Mountain~Hero-ERG shoot.from-PFV.CVB bow-GEN1 arrow dragon-GEN2 II-middle front.part.of.the.face-IN.ESS hit-PST.UNW
+Translation: Mountain~Hero shot an arrow from his bow and hit the dragon in the middle of its face.
+Sentence: K’ox äƛirugon Ħon-Bahadurä kurno c’eruc’a - aždaħez rok’eł č’aq’ˤin.
+Gloss: twice ORD-CNTR Mountain~Hero-ERG shoot.from-PFV.CVB bow - dragon-GEN2 heart-CONT.ESS hit-PST.UNW
+Translation: Mountain~Hero shot a second time with his bow and hit the dragons heart.
+Sentence: Di yoł yiła eluz wilayatzo naib Žabulawes aždaħä yok’ek’no yowäsi kidƛin, - esin yiła, - däƛ’ Baxumesedoƛin cin yoł.
+Gloss: me be DEM2.IISG.OBL we(I).OBL-GEN2 province-ATTR.OBL governor Jabulaw-GEN1 dragon-ERG II-steal-PFV.CVB II-bring-RES.PRT daughter-QUOT - tell-PST.UNW DEM2.IISG.OBL-ERG - me-SUPER.ESS Bakhumesed-QUOT name-TOP be
+Translation: "I am the daughter of our province's governor Jabulaw, who got stolen by a dragon." she said, "my name is Bakhumesedo.

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rožitow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rožitow: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Łˤono äƛiru ɣudełno, babiws ħal bayrinč’ey, besurozaƛ’or užitow ik’in.
+Gloss: three ORD day-CONT.ESS-TOP father-GEN1 strength III-bring-NEG.PST.UNW fish-PL-SUPER.LAT boy-EMPH go-PST.UNW
+Translation: And on the third day, although the father was against it, the boy went fishing nonetheless.
+Sentence: Xizyogon bayn žedu ʕoƛiran esnaza nełaq esirno, ya le q’orolay, debi užitowwa ukayxanu, na yoł žaƛin.
+Gloss: then I.PL-come-PFV.CVB DEM1.IPL seven.OBL-TOP brother-PL-ERG DEM1.IISG.OBL-POSS.ESS ask-PST.UNW well hey widow you-GEN1 son-EMPH-Q see-IPFV.CVB-NEG where be DEM1.SG-QUOT
+Translation: Then came the seven brothers and asked her: "Well, hey widow, we don't see your son, where is he?"

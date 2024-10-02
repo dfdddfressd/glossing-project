@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šaharyaɣor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šaharyaɣor: 
+
+Exact Matches
+Sentence: Elus esiw na yołƛin neła esirnosi, q’ˤuya šaharyaɣor ik’äsiƛin, yaƛ’irno nesä ža.
+Gloss: we(I).OBL-GEN1 brother where be-QUOT DEM1.IISG.OBL-ERG ask-ANT.CVB other city-IN.VERS go-RES.PRT-QUOT II-cheat-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG
+Translation: When she asked: "Where is our brother?", he lied to her: "He has gone to another city."
+
+Approximate Matches:
+Sentence: Uži yołi sida šaharyaɣorno ik’in, elo raht’ateles ħalt’i k’eyx aħnayx zown.
+Gloss: boy however one.OBL city-IN.VERS-TOP go-PFV.CVB there servant-GEN1 work search-IPFV.CVB walk.around-IPFV.CVB be.NPRS-PST.UNW
+Translation: The boy however went to a city and walked around searching for a work as a servant.

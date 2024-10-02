@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yecirno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yecirno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yecirno:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Esiƛ’ nesiq xabarno xecirno elo yoƛor k’oƛin kidbä eƛin, neł rožes maʕna deber meq’ bič’zi boqno.
+Gloss: tell-PCT.CVB DEM1.ISG.OBL-POSS.ESS story-TOP leave-CAUS-PFV.CVB there II-middle-LAT run-PFV.CVB girl-ERG say-PST.UNW DEM1.IISG.OBL word-GEN1 sense you-LAT incorrectly understand III-become-PST.UNW
+Translation: "Let him cease the story while he's talking!", the girl ran into the middle of there and said: "You misunderstood the sense of these words.

@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rukadäsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rukadäsi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xanä dowqor neti deber raładyołäy besurobi madaħor roqno rukadäƛin eƛinosi, mi eƛo, qaciz hoka k’eč’oli boyzaƛ’, raładyołäy besurobi madaħor raqruyä raq’ˤuƛin”.
+Gloss: khan-ERG you-POSS.LAT when you-LAT sea-CONT.ABL fish-PL outside III.PL-become-PFV.CVB III.PL-see-PST.WIT.INT-QUOT say-ANT.CVB you say-IMPR firewood-GEN2 carriage-IN.ESS foal III-do-CSL.CVB sea-CONT.ABL fish-PL outside III.PL-become-PST.PRT-Q III.PL-much-QUOT
+Translation: After the king said to you: "When did you saw fish coming out of the sea?", say that because the foal was born on the wooden carriage, is it more (of a surprise) for fish to come out of the sea?

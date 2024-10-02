@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word putceni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word putceni: 
+
+Exact Matches
+Sentence: Ozno xizok’no biłe bičirno Ismaʕil ʕArabuzande dandir ik’in ʕoƛira putceni kedonno yisno, biƛira putcenigon kedon nełaqno zown.
+Gloss: army-TOP push.back-PFV.CVB I.PL-as I.PL-remain-CAUS-PFV.CVB Ismail Arabuzan-APUD.ESS towards go-PFV.CVB seven.OBL pood-EQU1-DEF sledgehammer-TOP II-take-PFV.CVB eight.OBL pood-EQU1-DEF-CNTR sledgehammer DEM1.IISG.OBL-POSS.ESS-TOP be.NPRS-PST.UNW
+Translation: Ismail [kept the army as if they were pushed back?] and went towards Arabuzan, having taken the seven-pood sledgehammer, while she took the eight-pood sledgehammer.
+
+Approximate Matches:
+Sentence: Ozno xizok’no biłe bičirno Ismaʕil ʕArabuzande dandir ik’in ʕoƛira putceni kedonno yisno, biƛira putcenigon kedon nełaqno zown.
+Gloss: army-TOP push.back-PFV.CVB I.PL-as I.PL-remain-CAUS-PFV.CVB Ismail Arabuzan-APUD.ESS towards go-PFV.CVB seven.OBL pood-EQU1-DEF sledgehammer-TOP II-take-PFV.CVB eight.OBL pood-EQU1-DEF-CNTR sledgehammer DEM1.IISG.OBL-POSS.ESS-TOP be.NPRS-PST.UNW
+Translation: Ismail [kept the army as if they were pushed back?] and went towards Arabuzan, having taken the seven-pood sledgehammer, while she took the eight-pood sledgehammer.

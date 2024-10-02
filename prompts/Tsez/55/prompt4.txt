@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: k’onč’ał.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": k’onč’ał
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word k’onč’ał:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyo nesä esin neł kidbeq, kinaw raqru łanałäyn, didur nesä ža k’onč’ałer łuq’zi adirułäyn.
+Gloss: afterwards DEM1.ISG.OBL-ERG tell-PST.UNW DEM1.IISG.OBL girl-POSS.ESS entire IV-happen-PST.PRT what.OBL-CONT.ABL-and how DEM1.ISG.OBL-ERG DEM1.SG leg-CONT.LAT hurt do-PST.PRT-CONT.ABL-and
+Translation: Afterwards he told that girl everything that had happened and how he hurt his leg.
+Sentence: Didurnokin t’omceni žek’a ħal bayrinč’izaƛ’, sideni bełiqanä roɣno k’onč’ałer tupi caƛin.
+Gloss: how-TOP-even span-EQU1-DEF man-ERG strength III-bring-NEG.FUT-CSL.CVB the.other.one hunter-ERG IV-take.away-PFV.CVB leg-CONT.LAT rifle shoot.with-PST.UNW
+Translation: As they couldn't overcome him, the other hunter took a rifle and shot him in the leg.

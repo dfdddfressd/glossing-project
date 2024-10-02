@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: besuro.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": besuro
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word besuro:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Baq’ˤu mesedno besuroqur teƛno, yisä ža besuro nesiq raładyołxor begirerno.
+Gloss: III-much gold-TOP fisherman-LAT give-PFV.CVB DEM2.ISG.OBL-ERG DEM1.SG fish DEM1.ISG.OBL-POSS.ESS sea-CONT.VERS III-let-CAUS-PST.UNW
+Translation: He gave the fisherman a lot of gold and had him let the fish into the sea.
+Sentence: Elo yisir besuroqu esun, gamušyozaq ƛisirno sis ixiw besuro bižix.
+Gloss: there DEM2.ISG.OBL-LAT fisherman find-PFV.CVB buffalo-PL-POSS.ESS pull-CAUS-PFV.CVB one big fish III-carry-IPFV.CVB
+Translation: There he found a fisherman who was carrying one big fish by buffalos.
+Sentence: Yiziqor doxturä eƛäsi zown, besuro bac’näy neła roƛxosi ričär mežusƛin.
+Gloss: DEM2.IPL.OBL-POSS.LAT doctor-ERG say-RES.PRT be.NPRS-PFV.CVB fish III-eat-CND.CVB DEM1.IISG.OBL IV-be.sick-PRS.PRT IV-stop you(I).PL.OBL-GEN1-QUOT
+Translation: A doctor had said to them: "If you eat fish, this will stop you from being sick."
+
+Approximate Matches:
+Sentence: Bisno q’ˤano besuron bac’ad boyn, łˤono äƛiru boyƛ’oräy, nełaz k’esma aɣiw qˤod yesun.
+Gloss: III-take-PFV.CVB two fish-TOP clean III-do-PFV.CVB three say-PST.PRT III-do-SIM.CVB DEM1.IISG.OBL-GEN2 gullet-IN.ESS perforated hole II-find-PST.UNW
+Translation: He took two fish and cleaned them, and when he took the third one, he found a hole in its gullet.
+Sentence: Mi elur raładyoz iƛ’aq besuroz haqa ukaysƛin, eƛin kidbez babiya.
+Gloss: you we(I).OBL-LAT sea-GEN2 bottom-POSS.ESS fish-GEN2 mouth-IN.ESS see-PST.WIT-QUOT say-PST.UNW girl-GEN2 father-ERG
+Translation: "We have seen you at the bottom of the see in the fish's mouth," said the girl's father.
+Sentence: Sasaq nexno maħlay xanqor qˤaƛo mi, c’ik’iw raładyołäy besurobin roqno, žeda debi räƛiru šebin rac’noƛin.
+Gloss: tomorrow come-PFV.CVB court-IN.ABL khan-POSS.LAT shout-IMPR you all sea-CONT.ABL fish-PL-TOP III.PL-become-PFV.CVB DEM1.IPL-ERG you-GEN1 IV-plant-PST.PRT thing IV.PL-eat-PST.UNW-QUOT
+Translation: "Come tomorrow and shout from the court tomorrow, that all the fish got out of the sea and ate what you planted."

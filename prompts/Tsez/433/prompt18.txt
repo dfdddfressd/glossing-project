@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word oq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word oq: 
+
+Exact Matches
+Sentence: Didurgo šebigo roqsi eƛin ži ƛ’iräy din oqsi min oq.
+Gloss: how-COND what-COND IV-happen-PST.WIT say-PFV.CVB now from.above me-TOP become-ATTR you-TOP become
+Translation: Whatever and however it happened, [said?], I forgave you now, so forgive me too.
+
+Approximate Matches:

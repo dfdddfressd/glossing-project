@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xexbi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xexbi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xexbi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Dey xexbi, di exun xizyo t’ubazi odin łiynosi, meži łˤonon esnabi bitazoni ɣˤutkar bezu, elo mežur ʕuraw mesed yołƛin”.
+Gloss: me-GEN1 children me die-PFV.CVB after fulfill do-PST.UNW end-ANT.CVB you.PL three-TOP brother-PL next-DEF room-IN.LAT I.PL-look-IMPR there you(I).PL.OBL-LAT much gold be-QUOT
+Translation: "My children, when I have died and the funeral is done, you three brothers look into the next room, there is much gold for you."
+Sentence: Yiłagon q’ˤanon xanes xexbi - užin, kidno k’emot’ya tełno eqerno, iħułxor kurno.
+Gloss: DEM2.IISG.OBL-CNTR two-TOP khan-GEN1 children - son-and daughter-and wooden.case-IN.ESS inside-TOP put-PFV.CVB river-CONT.VERS throw-PST.UNW
+Translation: But those two children of the king - the son and the daughter - she put into a wooden case and threw them into the river.
+Sentence: Žeda q’orolaq harizi rodin, yizi xexbi mi kikoƛin.
+Gloss: DEM1.IIPL.OBL widow-POSS.ESS request IV-do-PST.UNW DEM2.IPL children you feed-IMPR-QUOT
+Translation: They asked the widow: "Please feed these children!"
+
+Approximate Matches:
+Sentence: Žedu q’ˤanon xexbin rižin q’orolay duri bižin režet’ani esnazadäɣor yik’in.
+Gloss: DEM1.IIPL two-TOP children-TOP III.PL-carry-PFV.CVB widow run III-carry-PFV.CVB IV-old-DISTR-DEF sister-PL-APUD.VERS II-go-PST.UNW
+Translation: The widow carried the two children and ran to the older sisters.
+Sentence: Di yoł debi xexbin rexurno, howži mi bexuranix nexʷasi žek’uƛin”, - eƛin ʕAliqiličä.
+Gloss: me be you-GEN1 children-TOP III.PL-kill-PFV.CVB now you III-kill-MSD-AD.ESS come-RES.PRT man-QUOT - say-PST.UNW Aliqilich-ERG
+Translation: "I am a man who killed your children, and now came to kill you", said Aliqilich.
+Sentence: Yiła esirno, yaqˤuł debez bara xexbiya royxosi yołƛin.
+Gloss: DEM2.IISG.OBL-ERG ask-PST.UNW today you-GEN2 wife-ERG children-Q III.PL-do-IPFV.CVB-ATTR be-QUOT
+Translation: She asked: "Is your wife giving birth to the children today?"

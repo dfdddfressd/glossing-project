@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕoƛ’un in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕoƛ’un: 
+
+Exact Matches
+Sentence: Elaz egin oqanƛin zawru yeda iħułxor ʕoƛ’un ik’in besuroz haqar keze oqno.
+Gloss: there-IN.ESS.DIST go.into-PFV.CVB become-FUT.CVB-QUOT be.NPRS-PST.PRT DEM2.ISG river-CONT.VERS fall-PFV.CVB go-PFV.CVB fish-GEN2 mouth-IN.LAT meet become-PST.UNW
+Translation: He was about to go that way, but fell into the river and into the jaws of a fish.
+Sentence: Sasaqosi maħor oqƛ’oräy, eɣeni esiw gondaɣor ʕoƛ’un.
+Gloss: in.the.morning outside become-SIM.CVB young-DEF brother big.hole-IN.VERS fall-PST.UNW
+Translation: In the morning when he went outside, the young brother fell into the hole.
+Sentence: Xot’on pˤaƛirno ʕoƛ’un iħułxor yeda ik’iƛ’oräy, reƛ’iƛer yäqiru t’it’oraq exoriłno ƛexun.
+Gloss: foot-TOP glide.off-PFV.CVB fall-PFV.CVB river-CONT.VERS DEM2.ISG go-SIM.CVB hand-SUB.LAT II-hold-PST.PRT shrubbery-POSS.ESS hang-PFV.CVB remain-PST.UNW
+Translation: His foot glided off and while he was falling into the river, he could hold to a bush with his hand.
+
+Approximate Matches:
+Sentence: Gulu bišan begirno puƛ’or ʕoƛ’unosi, yeda moƛa iqirxo.
+Gloss: horse III-eat-FUT.CVB III-let-PFV.CVB side-SUPER.LAT fall-ANT.CVB DEM2.ISG sleep-ERG take.away-PRS
+Translation: He let the horse eat, fell onto the side and the sleep took him away.

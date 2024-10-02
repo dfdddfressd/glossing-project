@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boxäsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boxäsi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Bercingo xal boynosi, besuroz qeqa teł t’akan c’oxäsi yesun.
+Gloss: well examination III-do-ANT.CVB fish-GEN2 throat-IN.ESS inside glass hit-RES.PRT II-find-PST.UNW
+Translation: When he examined it better, he found a broken glass.
+Sentence: Yeda neła gogaƛ’or aynosi, naysinan c’oxäsi buqno yołƛax, elozagon k’ešonayx xexoybin resun.
+Gloss: DEM2.ISG DEM1.IISG.OBL meadow-SUPER.LAT come-ANT.CVB everywhere hit-RES.PRT sun-TOP be-QUOT there-DIST-CNTR play-IPFV.CVB young.animal-PL-TOP III.PL-find-PST.UNW
+Translation: When he came on that meadow, the sun shined everywhere, and he found the youngs playing over there.
+Sentence: Q’arƛ’o izin maħorno oqno ezuzaƛ’, yisir rocasi ɣudin resux, c’oxäsigon boboru buqno bukayx.
+Gloss: early-SUPER.ESS get.up-PFV.CVB outside-TOP become-PFV.CVB look-CSL.CVB DEM2.ISG.OBL-LAT IV-become.clean-RES.PRT day-TOP IV-find-IPFV.CVB hit-RES.PRT-CNTR hot sun-TOP III-see-PRS
+Translation: When he got up early and went outside, he found a clear day and the hot sun shining.

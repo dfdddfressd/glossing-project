@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žek’u.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žek’u
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žek’u:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Hag oqno ƛexun ečruni žek’u.
+Gloss: amazingly become-PFV.CVB remain-PFV.CVB old-DEF man
+Translation: The old man was amazed.
+
+Approximate Matches:
+Sentence: Sasaqosi elo baɣmaz egin ik’ix zawru žek’uqor yisi doxturä eƛin, mi äƛiruce mesed neƛan deber di, där šeƛ’un rown mi nexnäyƛin.
+Gloss: in.the.morning there garden.OBL-IN.ESS.DIST go.through-PFV.CVB go-PRS be.NPRS-PST.PRT man-POSS.LAT DEM2.ISG.OBL doctor-ERG say-PFV.CVB you say-PST.PRT-EQU1 gold give-FUT.DEF you-LAT me me-LAT clothing-TOP IV-bring-PFV.CVB you come-CND.CVB-QUOT
+Translation: In the morning the doctor said to the man passing through the garden, "If you will bring me clothing, I will give you as much gold as you say."
+Sentence: Best’al eniwn, bužin erno nełade sadaq egäruni žek’un guluzaz maħizaqorno bicin ʕaƛay maħor boxirno.
+Gloss: step mother-and hope-TOP put-PFV.CVB DEM1.IISG.OBL-APUD.ESS together send-PST.PRT-DEF man-and horse-PL-GEN2 tail-PL-POSS.LAT-TOP I.PL-tie-PFV.CVB village-IN.ABL outside I.PL-chase-PST.UNW
+Translation: The step-mother and the man she sent together with her, who was put hope into, were tied to horses' tails and were chased out of the village.
+Sentence: Eženi žek’ur barkalan zahir bodin, Ħusen nesä nesiz hunix oqno.
+Gloss: old-DEF man-LAT thank-TOP express III-do-PFV.CVB Hussein DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 way-AD.ESS become-PST.UNW
+Translation: Hussein thanked the old man and went on his way.

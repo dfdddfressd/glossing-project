@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yik’in.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yik’in
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yik’in:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.
+Sentence: Tabanaw hunäsi hunä yik’in yedu sidaɣ ɣˤutkoxor yaynosi, tełxor yoqno.
+Gloss: long way-IN.ESS-ATTR way-IN.ESS II-go-PFV.CVB DEM2.IISG in.one.place house-AD.LAT II-come-ANT.CVB inside-AD.LAT II-become-PST.UNW
+Translation: When she came to a house somewhere on the long way she was going on, she went inside.
+
+Approximate Matches:
+Sentence: ƛˤeb yik’inosi, sida quł dawlaƛ’ zey maħor boqäsi yałzay, kid nełdayn yoxin ʕaƛaɣor yik’in.
+Gloss: year II-go-ANT.CVB one.OBL day-CONT.ESS prey-SUPER.ESS bear outside III-become-RES.PRT be-SIM.CVB girl DEM1.IISG.OBL-APUD.ABL-TOP II-run.away-PFV.CVB village-IN.VERS II-go-PST.UNW
+Translation: A year went by, and one day while the bear went outside for prey, the girl ran away from him and went into a village.
+Sentence: Yeženi kidbä, din yegir yiłde sadaq hunin regirnoƛin, eniwq esirnosi, yegirzaƛ’ šida yik’inč’uƛin bixzin yoqno eƛin.
+Gloss: II-old-DEF daughter-ERG me-TOP II-let DEM2.IISG.OBL-APUD.ESS together way-TOP IV-send-PFV.CVB-QUOT mother-POSS.ESS ask-ANT.CVB II-let-CSL.CVB why II-go-NEG.PST.WIT-QUOT angry-TOP II-become-PFV.CVB say-PST.UNW
+Translation: When the eldest daughter asked her mother: "Let me go with her together so I can see her off!", and the mother angrily said: "Why didn't you go when I let you?"
+Sentence: Hudu xedyox yik’inč’ey, nece yeže yizace šida yičäsiƛin bełiqanä esirnosi, neła esin nesiq, t’omceni žek’ur yegira retixanuƛin.
+Gloss: so husband-AD.ESS II-go-NEG.PST.CVB so.much II-old II-get-TERM why II-wait-RES.PRT-QUOT hunter-ERG ask-ANT.CVB DEM1.IISG.OBL-ERG tell-PST.UNW DEM1.ISG.OBL-POSS.ESS span-EQU1-DEF man-LAT II-let-INF IV-want-IPFV.CVB-NEG-QUOT
+Translation: When the hunter asked: "So why don't you go to a husband but wait until you get old?", she said to him: "The span-sized man doesn't want to let me [go]."

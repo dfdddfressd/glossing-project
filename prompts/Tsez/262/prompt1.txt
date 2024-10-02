@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Meža in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Meža: 
+
+Exact Matches
+Sentence: Ža xabar yisä aħyaxorkin begirnoanu, baru yowač’inƛin di hedizi oqäsiƛin, t’ok’ow ža xabar meža haqazay maħor baɣnoƛin.
+Gloss: DEM1.SG story DEM2.ISG.OBL-ERG ear-AD.LAT-even III-let-PFV.CVB-NEG wife II-marry-NEG.FUT.DEF-QUOT me swear become-RES.PRT-QUOT anymore DEM1.SG story you(I).PL.OBL-ERG mouth-IN.ABL.DIST outside III-take.away-PROHIB-QUOT
+Translation: These words he didn't let to his ears, "I won't marry another wife!"... "I swear!"... "Don't say that anymore!",
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+Sentence: Hudayzikotow Bac’ali žedu k’eda ik’inosi, zeyn keze boqno nełaq esirno, meža dey čanyabi rac’iyäƛin.
+Gloss: the.next.day-EMPH Batsali DEM1.IIPL search-INF go-ANT.CVB bear-TOP meet III-become-PFV.CVB DEM1.IISG.OBL-POSS.ESS ask-PFV.CVB you(II-ERG me-GEN1 she.goat-PL III.PL-eat-PST.WIT.Q-QUOT
+Translation: The next day, when Batsali went to search them, he met a bear and asked him: "Have y'all eaten my goats?"
+
+Approximate Matches:

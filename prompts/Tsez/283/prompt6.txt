@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yik’inosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yik’inosi: 
+
+Exact Matches
+Sentence: ƛˤeb yik’inosi, sida quł dawlaƛ’ zey maħor boqäsi yałzay, kid nełdayn yoxin ʕaƛaɣor yik’in.
+Gloss: year II-go-ANT.CVB one.OBL day-CONT.ESS prey-SUPER.ESS bear outside III-become-RES.PRT be-SIM.CVB girl DEM1.IISG.OBL-APUD.ABL-TOP II-run.away-PFV.CVB village-IN.VERS II-go-PST.UNW
+Translation: A year went by, and one day while the bear went outside for prey, the girl ran away from him and went into a village.
+Sentence: Yoƛo ƛˤeb yik’inosi, Tawadi ixiw suħmat roda iħux.
+Gloss: II-middle year II-go-ANT.CVB Tavadi big celebration IV-do-INF begin-PRS
+Translation: After a year had passed, Tavadi began to organize a big celbration.
+
+Approximate Matches:
+Sentence: ƛˤeb yik’inosigon, užił xizay xan ayn.
+Gloss: year II-go-ANT.CVB-CNTR son-CONT.ESS behind khan come-PFV.CVB
+Translation: One year later the khan came to pick up his son.

@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: riħurno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": riħurno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word riħurno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žedaq di łˤora ɣudir ħonce qaca ʕaƛaɣor riħurno łiyrsi.
+Gloss: DEM1.IIPL.OBL-POSS.ESS me three.OBL day-LAT mountain-EQU1 firewood village-IN.VERS IV-pour-PFV.CVB end-CAUS-ATTR
+Translation: I made them pull a mountain of firewood to the village for three days.
+Sentence: Režet’ani ƛoħazaɣor reƛno riħurno, waħaza c’i erno.
+Gloss: IV-big-DISTR-DEF pan-PL-IN.VERS meat-TOP IV-pour-PFV.CVB below-IN.VERS.DIST fire set.up-PST.UNW
+Translation: They poured the meat into big pans and set up a fire below.
+
+Approximate Matches:
+Sentence: Yisä yisiz madax łäs bic’äsi q’ut’u biħurnosi, zam-zames łäs kik boƛixno.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-GEN2 yard-AD.ESS water-GEN1 III-fill-RES.PRT earthen.jug III-pour-ANT.CVB Zam-Zam-GEN1 water-GEN1 spring III-appear-PST.UNW
+Translation: After he poured out the water-filled jug in his yard, a spring of holy water appeared.
+Sentence: Xizyo yiła nesiƛ’or qˤaradamu łäs bic’asi t’asno biħurno, ža mežärsi odin.
+Gloss: afterwards DEM2.IISG.OBL-ERG DEM1.ISG.OBL-SUPER.LAT boiling water-GEN1 III-fill-RES.PRT washbowl-TOP III-pour-PFV.CVB DEM1.SG mattress-IN.LAT-ATTR do-PST.UNW
+Translation: Afterwards, she poured a washbowl filled with boiling water over him, and made him bed-ridden.
+Sentence: Maħor boqno łiyzaƛ’ortow, nesä žedu tełxorno biħurno žigon oqno ik’in xanez kidbeq pandur bukaranix.
+Gloss: outside I.PL-become-PFV.CVB end-POST.CVB-EMPH DEM1.ISG.OBL-ERG DEM1.IPL inside-AD.LAT-TOP I.PL-come.to-CAUS-PFV.CVB again.now become-PFV.CVB go-PST.UNW khan-GEN2 daughter-POSS.ESS lute III-show-MSD-AD.ESS
+Translation: Before all of them could get outside, he instructed them to go back inside and once again went to the princess to show her the lute.

@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žek’uƛ’ä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žek’uƛ’ä: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hemełƛ’o xizyo bečedawni žek’uƛ’or xabar bayn, užä ganbin ruhun rodin, riƛubigon riƛin łiyrxoƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS after wealthy-DEF man-SUPER.LAT story III-come-PFV.CVB boy-ERG bull.calf-PL-TOP teach III.PL-do-PFV.CVB field-PL-CNTR IV.PL-plough-PFV.CVB finish-PRS-QUOT
+Translation: After that, the story that the boy taught the bulls to work and is now plowing all the fields, got to the rich man.

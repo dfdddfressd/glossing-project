@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Sasaqosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Sasaqosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Sasaqosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida quł sasaqosi bara eƛin, di yaqˤuł xexbi royxosi, mi däde igono näxno, č’uħaraw šeƛ’un šeƛ’un madaħarno oƛäxnoƛin.
+Gloss: one.OBL day-CONT.ESS in.the.morning wife-ERG say-PST.UNW me today children III.PL-do-PRS.PRT you me-APUD.ESS near-TOP come-PROHIB gorgeous clothing-TOP put.on-PFV.CVB outside-IN.LAT-and appear-PROHIB-QUOT
+Translation: One day in the morning the wife said: "Today I am giving birth to the children, do not come near me and do not go outside in gorgeous clothing!"
+Sentence: Žan hemedurtow kecnon ičin, sasaqosi babiwderno nexno eƛin, där c’ohor ukaynč’uƛin.
+Gloss: DEM1.SG-TOP so-EMPH sleep-PFV.CVB-TOP remain-PFV.CVB in.the.morning father-APUD.LAT-TOP come-PFV.CVB say-PFV.CVB me-LAT thief see-NEG.PST.WIT-QUOT
+Translation: He also fell asleep and came in the morning to his father and said, "I did not see the thief."
+Sentence: Xizyo sasaqosi babiwderno ayn eƛin, där siskin šebin rukaynč’uƛin.
+Gloss: afterwards in.the.morning father-APUD.LAT-TOP come-PFV.CVB say-PFV.CVB me-LAT any thing IV-see-NEG.PST.WIT-QUOT
+Translation: Then in the morning he came back to his father and said that he did not see anything.
+
+Approximate Matches:
+Sentence: Neła quł sasaqosigon esnabi madaħor boqnosi, eɣeni esiw qˤabani guluƛ’no zown, q’ˤuya šeƛ’un šeƛ’un, yaraɣno lagiqor kurno ik’in.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-CNTR brother-PL outside I.PL-become-ANT.CVB young-DEF brother black-DEF horse-SUPER.ESS-TOP ride-PFV.CVB other put.on-PFV.CVB put.on-PFV.CVB weapon-TOP body-POSS.LAT throw-PFV.CVB go-PST.UNW
+Translation: The next morning when the brothers went outside, the young brother rode the black horse, put on different clothes, threw a weapon around his body and rode off.
+Sentence: Neła quł sasaqosigon babiya eƛin, ɣudegon nazorno ʕaƛor ʕuraw pulaw riqir, yałi exura yołƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-CNTR dad-ERG say-PST.UNW tomorrow-CNTR all.OBL-LAT-TOP village-LAT much rice IV-take.away else kill-INF be-QUOT
+Translation: The next morning, the father said: "Bring alot of pilaw to everyone in the village tomorrow, or else I will kill you."

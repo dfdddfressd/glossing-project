@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roxir in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roxir: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nediwtow q’ʷariłi bayzaƛ’, dahawtow yuyn ʕiyayn, bisno sis bexora hibon łoxt’a ža bok’xo nasin boc’an, zeybin maħor roxirno.
+Gloss: such-EMPH sadness III-come-CSL.CVB a.little-EMPH and(?) cry-PST.UNW I.PL-take-PFV.CVB one lengthy stick-TOP thrice-DISTR DEM1.SG III-beat-IPFV.CVB all wolf.PL-and bear-PL-and outside III.PL-chase-PST.UNW
+Translation: Because of such a tragedy, she began to cry a little, took a long stick, beated it three times and chased off all the wolves and bears.
+Sentence: Nesä eƛin, were meži dahaw wˤałer bik’i, bertenyołäy xalq’i maħor roxira rayxosi anu.
+Gloss: DEM1.ISG.OBL-ERG say-PST.UNW well you.PL a.little downward-LAT I.PL-go marriage-CONT.ABL people outside III.PL-chase-INF IV-must-PRS.PRT be.NEG
+Translation: He said: "Well, calm down a little, one must not chase away people from a marriage."
+Sentence: Žedu sasaq ħonƛ’aɣor roxirnosi, neširaɣor žedar žedu rutin iduɣor rayx zown.
+Gloss: DEM1.IIPL in.the.morning mountain-SUPER.VERS III.PL-chase-ANT.CVB evening-IN.VERS DEM1.IIPL.OBL-LAT DEM1.IIPL III.PL-return-PFV.CVB home-IN.ALL III.PL-come-IPFV.CVB be.NPRS-PST.UNW
+Translation: In the morning he chased them onto a mountain, towards the evening they came back home by themselves.

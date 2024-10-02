@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mečoƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mečoƛ: 
+
+Exact Matches
+Sentence: Dandi yizi huniƛxor k’oƛin bok’ełno, žedu zawza mečoƛ’ ža ɣunno rik’in c’oxno.
+Gloss: only DEM2.IPL way-SUB.LAT run-PFV.CVB I.PL-escape-PFV.CVB DEM1.IPL be.NPRS-LCV.CVB place-SUPER.ESS DEM1.SG tree-TOP IV-go-PFV.CVB hit-PST.UNW
+Translation: They had just gotten out of the way, and that tree hit the place where they had been.
+Sentence: Xizyo neła yisiqor mešok’lałäy bet’urno mus teƛno, debeƛ’ ɣudi rayza mečoƛ’ bik’ur mi yeduƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT moustache-CONT.ABL III-pull.out-PFV.CVB hair give-PFV.CVB you-SUPER.ESS day IV-come-LCV.CVB place-SUPER.ESS III-burn-CAUS you DEM2.IISG-QUOT
+Translation: Then it pulled out a hair from its whiskers and gave it to him, "When one day you are in trouble, burn it!"
+Sentence: Madaħ mečoƛ’ ža c’aq’ t’eq’erbašiƛ’or ičix zown.
+Gloss: outside place-SUPER.ESS DEM1.SG very cautiousness-SUPER.LAT be-IPFV.CVB be.NPRS-PST.UNW
+Translation: In places outside, he was very cautious.
+
+Approximate Matches:
+Sentence: Žek’alini nukarä eƛix teqno, nukarza debeq heresin esis, ža łin žeda esnabi bičixozo mečoƛ’ay ric’si, žedu xexbi debikin besač’ineyƛin.
+Gloss: beat-ATTR-DEF henchman-ERG say-IPFV.CVB hear-PST.UNW henchman-PL-ERG you-POSS.ESS lie-TOP tell-PST.WIT DEM1.SG water-TOP DEM1.IPL.OBL-ERG brother-PL I.PL-live-PRS.PRT.OBL place-SUPER.ABL IV-fill-PST.WIT DEM1.IPL children you-GEN1-even III-find-NEG.FUT.DEF-DUB-QUOT
+Translation: They heard the beaten henchman say: "The henchmen lied to you, they filled that water from the place where the siblings live; couldn't these children perhaps be yours?"
+Sentence: Ražbadinzo halmaɣza ʕaƛos kidbabi sidaɣ mečoƛ’orno rutirno pˤaƛux zurma, bok’xo q’ili, k’oƛix łočyaƛ’.
+Gloss: Razhbadin-GEN2 friend-PL-ERG village-GEN1 girl-PL in.one.place place-SUPER.LAT-TOP II.PL-gather-PFV.CVB thrash-IPFV.CVB zurna III-beat-IPFV.CVB drum jump-IPFV.CVB dance-SUPER.ESS
+Translation: Razhbadin's friends gathered the village's girls in one place somewhere, thrashed the zurna, beated the drum and danced.
+Sentence: Oka eƛin, däde sadaq egirno xec yeda debi uži, xizyo ƛˤebaq ƛˤeb ħišiłnosi, hobołatow mečoƛ’or horo mi yisił xizayƛin.
+Gloss: Oku-ERG say-PST.UNW me-APUD.ESS together send-PFV.CVB leave DEM2.ISG you-GEN1 son afterwards year-POSS.ESS year be.over-ANT.CVB this-DUB-EMPH field-SUPER.LAT come.IMPR you DEM2.ISG.OBL-CONT.ESS behind-QUOT
+Translation: Oku said: "Send your son together with me, and when the year after next year is over, come to this very field and follow him."

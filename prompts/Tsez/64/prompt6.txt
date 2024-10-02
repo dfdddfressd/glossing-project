@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ozurazas.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ozurazas
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ozurazas:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hi enda ħiƛ’oqu debez mi ozurazaq riħoƛin, žoyä babiwqor teƛno.
+Gloss: take.IMP DEM3b.SG handkerchief you-GEN2 you eye-PL-POSS.ESS IV-smear-IMPR-QUOT boy-ERG father-POSS.LAT give-PST.UNW
+Translation: "Take this handkerchief and rub it on your eyes.", the boy gave it to his father.
+Sentence: Hemedur q’ˤunan ozurazaƛ’ayn ok’ek’no iguni halmaɣ žukanä, howlotow žan xecin oxin nesidäy.
+Gloss: so two.OBL-TOP eye-PL-SUPER.ABL-TOP steal-PFV.CVB good-DEF friend worse-NEG-ERG there-EMPH DEM1.SG-TOP leave-PFV.CVB run.away-PST.UNW DEM1.ISG.OBL-APUD.ABL
+Translation: So the bad one had stolen the two eyes from the the good friend, left him there and ran away from him.

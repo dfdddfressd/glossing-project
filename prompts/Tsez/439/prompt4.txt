@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word därno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word därno: 
+
+Exact Matches
+Sentence: Idur aynosi, yisir ciqaɣor erno bišʷan łiyn eniwn nan mekoyx yesuzaƛ’ žoyä meɣyoqor eƛin, wele meɣu deberno, därno, eniwrno ʕeziyaw bišʷa roƛik’ƛin.
+Gloss: home-LAT come-ANT.CVB DEM2.ISG.OBL-LAT forest-IN.VERS put-PFV.CVB food-and end-PFV.CVB mother-and even be.hungry-IPFV.CVB II-find-CSL.CVB boy-ERG udder-POSS.LAT say-PFV.CVB look.out.IMP udder you-LAT-and me-LAT-and mother-LAT-and much food IV-let.appear-QUOT
+Translation: When he came home, he found the food put for [the way into] the forest finished and his mother being hungry, so the boy said to the udder: "Look out, udder, let appear much food for you, me and the mother!"
+Sentence: Nedur resunäyƛin, eƛin dibirez barä, din yik’an dowde sadaq, därno ence betäsi ukrun, micxirnoƛin.
+Gloss: so IV-exist-CND.CVB-QUOT say-PST.UNW mullah-GEN2 wife-ERG me-and II-go-FUT.DEF you-APUD.ESS with me-LAT-and a.little III-want-RES.PRT silver-and money-and-QUOT
+Translation: "If that is the case," said the mullah's wife, "I will also go with you, because I also want silver and money."
+Sentence: Nedur resunäy, sis k’emot’ därno yodoƛin, ƛ’iri yedu yutin.
+Gloss: so IV-exist-CND.CVB one wooden.case me-LAT-TOP II-do-IMPR-QUOT above DEM2.IISG II-turn-PST.UNW
+Translation: "If that's the case, make me one wooden case!" she insisted.
+
+Approximate Matches:
+Sentence: Xizyo madaxosinin ayn, xandärno yižin neła nełas muradyołäy esin, wallahi, di žax debi kid esira nexäsi yołƛin.
+Gloss: afterwards yard-AD.ESS-ATTR-DEF-TOP come-PFV.CVB khan-APUD.VERS-TOP II-lead-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 wish-CONT.ABL tell-PST.UNW by.God me son-AD.ESS you-GEN1 daughter ask-INF come-RES.PRT be-QUOT
+Translation: Then the house-serf came, lead her to the king, and she told [him] of her wish: "By God, I have come to ask out the kings daughter to marry my son."

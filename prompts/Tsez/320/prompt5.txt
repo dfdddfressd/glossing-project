@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qaca in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qaca: 
+
+Exact Matches
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+Sentence: Žedaq di łˤora ɣudir ħonce qaca ʕaƛaɣor riħurno łiyrsi.
+Gloss: DEM1.IIPL.OBL-POSS.ESS me three.OBL day-LAT mountain-EQU1 firewood village-IN.VERS IV-pour-PFV.CVB end-CAUS-ATTR
+Translation: I made them pull a mountain of firewood to the village for three days.
+Sentence: Howžiƛa rˤałay roda zaman bayxƛin Alimaħama ciqaɣor ik’in, isʷaqor reƛ’u rodanix c’araʕyor qaca rowanixƛin.
+Gloss: now-INDEF threshing.floor IV-do-INF time III-come-PRS-QUOT Alimagomed-ERG forest-IN.VERS go-PST.UNW bull-PL-POSS.LAT yoke IV-do-MSD-AD.ESS building.material-LAT firewood IV-bring-MSD-AD.ESS-QUOT
+Translation: "Now it's time to do the threshing.", Alimagomed thought and went into the forest to bring wood for building the yoke for the bulls.
+
+Approximate Matches:

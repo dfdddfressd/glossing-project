@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yegira in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yegira: 
+
+Exact Matches
+Sentence: Neširu xanä elo nasin sidaɣor butirnosi, xanä eƛin, di łi ħaƛuxosi t’akan sasaqor howt’or yayäru žek’ux kid yegira yołƛin.
+Gloss: evening khan-ERG there all one.OBL-IN.VERS I.PL-gather-ANT.CVB khan-ERG say-PFV.CVB me water drink-PRS.PRT glass tomorrow-POSS.LAT here-LAT II-bring-PST.PRT man-AD.ESS daughter II-send-INF be-QUOT
+Translation: In the evening the king gather everyone together and said: "I will marry my daughter off to the man who can bring my water-drinking-glass here tomorrow!"
+Sentence: Didurgon, šebigon resułin xal bodanix elor ɣˤanabi yegira yay, yałi - ela badiru ħukmu meq’aw bäčiƛin, diwan boyxozo xalq’imo xan wˤałer ezurerno.
+Gloss: how-CNTR what-CNTR IV-find-CNC.CVB examination III-do-MSD-AD.ESS there-LAT woman II-send-INF II-must else - we(I).OBL-ERG III-do-PST.PRT decision wrong III-be-QUOT judgement III-do-PRS.PRT.OBL people-ERG khan downward-LAT show-CAUS-PST.UNW
+Translation: "How- and whatever it is, we must send a woman there to make an examination, or else the decision we make will be wrong.", the judges said and calmed down the king.
+Sentence: Xizyogon hemesitow bečedawni žek’a naysinan xabar begirno, dey kid yeynodaniƛ’or ruhun yayru žek’ux yegira yołƛin.
+Gloss: then DEM4.ISG.OBL-EMPH wealthy-DEF man-ERG everywhere story III-let-PFV.CVB me-GEN1 daughter II-work-MSD-SUPER.LAT teach II-do-PST.PRT man-AD.ESS II-send-INF be-QUOT
+Translation: Then that very same rich man spread the story everywhere, that he would marry his daughter off to the man who would teach her how to work.
+
+Approximate Matches:
+Sentence: Xanä kid yegiranƛin nesił q’ut’in boyn, ža uži kid yuyxor yutiranix egirno.
+Gloss: khan-ERG daughter II-send-FUT.CVB-QUOT DEM1.ISG.OBL-CONT.ESS agreement-TOP III-do-PFV.CVB DEM1.SG boy girl II-true-AD.LAT II-turn-MSD-AD.ESS let-PST.UNW
+Translation: The king agreed with him to give him his daughter, and the boy began to turn her back into a real girl.
+Sentence: Hemełƛ’o bečedawni žek’a eƛin, mi dey kid saɣ yodinäy, maharno erno debex ža di yegiran, retinäy boƛi bok’no dey maʕišat neƛanƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS wealthy-DEF man-ERG say-PFV.CVB you me-GEN1 daughter cure II-do-CND.CVB wedding-TOP set.up-PFV.CVB you-AD.ESS DEM1.SG me II-send-FUT.DEF IV-want-CND.CVB III-half III-hit-PFV.CVB me-GEN1 fortune give-FUT.DEF-QUOT
+Translation: Afterwards the rich man suggested, "If you cure my daughter, I will set up the wedding and if you want, I will give you one half of my fortune."
+Sentence: "Xedyo yegäru miƛin, - eƛin nesä, - din yegiranƛin".
+Gloss: husband-ERG II-let-PST.PRT you-QUOT - say-PST.UNW DEM1.ISG.OBL-ERG - me-TOP II-let-FUT.DEF-QUOT
+Translation: 'Your husband let you go,' he said, 'so I will let you, too.'

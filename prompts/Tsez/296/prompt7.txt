@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word raładyołxor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word raładyołxor: 
+
+Exact Matches
+Sentence: Baq’ˤu mesedno besuroqur teƛno, yisä ža besuro nesiq raładyołxor begirerno.
+Gloss: III-much gold-TOP fisherman-LAT give-PFV.CVB DEM2.ISG.OBL-ERG DEM1.SG fish DEM1.ISG.OBL-POSS.ESS sea-CONT.VERS III-let-CAUS-PST.UNW
+Translation: He gave the fisherman a lot of gold and had him let the fish into the sea.
+Sentence: Zamanałäy bet’un kodin nexno, begirno gaman xecin yedu kid raładyołxor yiħun.
+Gloss: time-CONT.ABL III-come.off-PFV.CVB hair-TOP come-PFV.CVB III-let-PFV.CVB boat-TOP leave-PFV.CVB DEM2.IISG girl sea-CONT.VERS II-come.to-PST.UNW
+Translation: After some time, the hair came off and the girl let go of the boat and went into the sea.
+
+Approximate Matches:
+Sentence: Raładyołxorno yiħun, muhumozas qotno ric’no yoƛixno eƛin, šibaw žek’uz akä sist’a muhu eqro, elay bitorsi debi ħalt’i anuƛin.
+Gloss: sea-CONT.VERS-TOP II-come.to-PFV.CVB granule-PL-GEN1 handfull-TOP IV-fill-PFV.CVB II-appear-PFV.CVB say-PST.UNW every man-GEN2 window-IN.ESS one.at.a.time granule put-IMPR here-IN.ABL thither-ATTR you-GEN1 work be.absent-QUOT
+Translation: She went into the sea, filled her hand with grains, reappeared and said: "Put one grain into the window of each man, besides that there's no more work for you."

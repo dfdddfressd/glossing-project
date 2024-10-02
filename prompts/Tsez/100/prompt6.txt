@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bełi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bełi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bełi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesä xanqor eƛin, zam-zames łi ħaƛunay, saɣ oqno ciqqosi bełi iłe aq miƛin.
+Gloss: DEM1.ISG.OBL-ERG khan-POSS.LAT say-PST.UNW Zam-Zam-GEN1 water drink-CND.CVB cure become-PFV.CVB forest-POSS.ESS-ATTR deer as become you-QUOT
+Translation: He said to the king: "If you drink the holy water, you will get cured and become [as healthy] as a forest deer!"
+Sentence: Łˤono äƛiruni bełiqa qˤaƛin, insan esunäy roži roɣo, bełi besunäy ela c’eruc’a caƛixƛin.
+Gloss: three ORD-DEF hunter-ERG shout-PFV.CVB human find-CND.CVB word IV-take.away-IMPR deer III-find-CND.CVB we(I).OBL-ERG bow shoot.with-PRS-QUOT
+Translation: The third hunter shouted: "If you are a human, say something; if you are an animal, we will shoot you with the bow!"
+Sentence: Hemedur anƛ’ima baħnayn žeduq sosikin bełi biqinanu.
+Gloss: so week-IN.ESS I.PL-walk.around-PFV.CVB DEM1.IPL.OBL-POSS.ESS at.first-even hunting III-get-PFV.CVB-NEG
+Translation: So they walked around for a week and at first didn't get any prey.
+
+Approximate Matches:

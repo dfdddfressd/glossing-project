@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bäxuruni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bäxuruni: 
+
+Exact Matches
+Sentence: Di nesix ʕiyayxanu, enła bäxuruni tungix ʕiyayxƛin, žagon där iyxosi žek’ukin anuƛin.
+Gloss: me DEM1.ISG.OBL-AD.ESS cry-IPFV.CVB-NEG DEM3b.IISG.OBL-ERG III-die-PST.PRT-DEF copper.jug-AD.ESS cry-PRS-QUOT DEM1.SG-CNTR me-LAT know-PRS.PRT man-even be.NEG-QUOT
+Translation: "I am not crying for him, I'm crying for the broken jug. I don't know this man."
+
+Approximate Matches:
+Sentence: Užä izin, miƛ’in bexayn, ƛäxuruni at’es magalun boyn.
+Gloss: son-ERG get.up-PFV.CVB ram-TOP III-slaughter-PFV.CVB remain-PST.PRT-DEF wheat-GEN1 bread-TOP III-do-PST.UNW
+Translation: The son got up, slaughtered the ram and made a bread from the remaining wheat.
+Sentence: Bäxuruni tungił xizay yedu ʕiyayxƛin xalq’imozgon rok’ƛ’orno rayƛin.
+Gloss: III-die-PST.PRT-DEF copper.jug-CONT.ESS behind DEM2.IISG cry-PRS-QUOT people-GEN2-CNTR heart-SUPER.LAT-TOP IV-come-QUOT
+Translation: And the people will think that you're crying for the broken jug."
+Sentence: Łˤono äƛiru ɣudƛ’ogon č’urqˤotown q’ˤanon bežet’ani esnabi hunix boqno, yaqˤułgon yiqixana eluq yok’ek’anix sistow sis ƛäxuruni xanes kidƛin.
+Gloss: three say-PST.PRT day-SUPER.ESS-CNTR in.the.morning-EMPH-TOP two-TOP I.PL-old-DISTR-DEF brother-PL way-AD.ESS I.PL-become-PFV.CVB today-CNTR II-get-IPFV.CVB-NEG-Q we(I).OBL-POSS.ESS II-steal-MSD-AD.ESS one-EMPH one remain-PST.PRT-DEF khan-GEN1 daughter-QUOT
+Translation: The third day then, in the morning, the two older brothers went on their way: "Today we might succeed in stealing the single remaining daughter from the king."

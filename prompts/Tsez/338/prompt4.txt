@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ritäruntow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ritäruntow: 
+
+Exact Matches
+Sentence: Ayn yeda zeyä äƛiruni qoqƛer, elo q’ˤim ritäruntow qoq baɣˤiłno bik’in, teł yisir łaces gulubi resun.
+Gloss: come-PFV.CVB DEM2.ISG bear-ERG say-PST.PRT-DEF cliff-SUB.LAT there head IV-touch-IMM.ANT.CVB-EMPH cliff III-open-POT-PFV.CVB III-go-PFV.CVB inside DEM2.ISG.OBL-LAT wind-GEN1 horse-PL IV-find-PFV.CVB
+Translation: The boy came to the cliff, which the bear was talking about, touched the cliff with his head and after it has opened he went inside and found wind horses.
+
+Approximate Matches:
+Sentence: Sida quł yeda žek’u ganzaq ƛexyabin ƛisiran, riƛułno ƛeɣanƛin oqnosi, didurnokin yizä yisiqor meč’ teƛnoanu, ƛ’iri reƛ’u äruntow, žeda boda t’ira xecix zownanu.
+Gloss: one.OBL day-CONT.ESS DEM2.ISG man bull.calf-PL-POSS.ESS log-PL-and pull-CAUS-FUT.DEF field-CONT.ESS-TOP exploit-FUT.DEF-QUOT begin-ANT.CVB how-TOP-even DEM2.IIPL.OBL-ERG DEM2.ISG.OBL-POSS.LAT neck give-PFV.CVB-NEG above yoke put-IMM.ANT.CVB-EMPH DEM1.IIPL-ERG I.PL-do-INF caprice leave-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: One day the man started to utilize the bulls to pull logs and to plough the field, but they didn't comply at all, and when he put the yoke on them, they didn't feel like it at all.

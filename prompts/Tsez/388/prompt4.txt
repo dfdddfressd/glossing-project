@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word sisxolizoni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word sisxolizoni: 
+
+Exact Matches
+Sentence: Nełas siskin urɣel boynanu bat’iyaw sisxolizoni q’orolaz užä.
+Gloss: DEM1.IISG.OBL-GEN1 any sorrow III-do-PFV.CVB-NEG other alone-ATTR.OBL-DEF widow-GEN2 son-ERG
+Translation: The son of the other widow who was alone, did not have any sorrow.
+
+Approximate Matches:
+Sentence: Babiwn, best’al eniwn, esiwn goƛ’in bertenyołxorno bik’in, best’al kid sisxoli idu ƛexun.
+Gloss: father-and step mother-and sister-and invite-PFV.CVB marriage-CONT.VERS-TOP I.PL-go-PFV.CVB step daughter alone home remain-PST.UNW
+Translation: The father, the stepmother and her sister were invited and went to the marriage, the stepdaughter remained home alone.
+Sentence: Šebi roqäƛin esirnosi, neła esin, där žukłi rodanix xalq’i urɣizi boqxoƛax, mi bełiƛ’ ik’inosi, di t’o sisxoli yuƛ’ˤxo.
+Gloss: what IV-happen-PST.WIT.INT-QUOT ask-ANT.CVB DEM1.IISG.OBL-ERG tell-PST.UNW me-LAT evil IV-do-MSD-AD.ESS people thinking III-become-PRS-QUOT you hunting-SUPER.ESS go-ANT.CVB me here alone II-be.afraid-PRS
+Translation: After he asked: "What happened?", she told: "Some people are apparently planning to harm me; after you went hunting, I was afraid here alone.
+Sentence: Hemedur miskinłiƛ’no, best’alłiƛ’no sisxoli eniwde aq’ˤiłno zawruni žoyä, xanno muk’ur oyn, nesis kidno yown, ixiw bertenno bodin.
+Gloss: so poor-NMLZ-SUPER.ESS-TOP orphanhood-SUPER.ESS-and alone mother-APUD.ESS grow.up-PFV.CVB be.NPRS-PST.PRT-DEF boy-ERG khan-TOP persuade do-PFV.CVB DEM1.ISG.OBL-GEN1 daughter-TOP II-marry-PFV.CVB big marriage-TOP III-do-PST.UNW
+Translation: That's how the boy who grew up in poverty and orphanhood by his single mother persuaded the king, married his daughter and prepared a big marriage.

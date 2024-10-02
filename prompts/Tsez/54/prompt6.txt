@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kʷaxatow.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kʷaxatow
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kʷaxatow:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.
+Sentence: Ža ik’in kʷaxatow Ħusenno ayn.
+Gloss: DEM1.SG go-PFV.CVB soon-EMPH Hussein-TOP come-PST.UNW
+Translation: He went, and soon also Hussein came.
+Sentence: Howlotow eniwqor xabarno boƛik’no, žan razi yoyn, zamanałäygon kidbeqay rožin riqirno, nełƛ’osi kʷaxatow bertenno boyn, aħozä ža kidno yown.
+Gloss: there-EMPH mother-POSS.LAT story-TOP III-push.out-PFV.CVB DEM1.SG-TOP accept II-do-PFV.CVB time-CONT.ABL-CNTR girl-POSS.ABL word-TOP IV-take.away-PFV.CVB of.that.time soon-EMPH marriage-TOP III-do-PFV.CVB shepherd-ERG DEM1.SG girl-TOP II-marry-PST.UNW
+Translation: Right there he started talking to the mother, she accepted it, and after some time he took her word and soon after that they celebrated the wedding and the shepherd married that girl.
+
+Approximate Matches:
+Sentence: Kʷaxatow xizyo baruq regin, xec di yiča yegirno, t’ok’ow esirač’inƛin.
+Gloss: soon-EMPH afterwards wife-POSS.ESS IV-be.emitted-PST.UNW enough me II-be-INF II-let-PFV.CVB anymore ask-NEG.FUT.DEF-QUOT
+Translation: Soon from his wife could be heard: "Enough, let it be, I won't ask anymore!"
+Sentence: Kʷaxatow yeda sida azbaryoz madaxor ayn.
+Gloss: soon-EMPH DEM2.ISG one.OBL palace-GEN2 gate-AD.LAT come-PST.UNW
+Translation: Soon he came to the gate of a palace.
+Sentence: Kʷaxatow baq’ˤu ahli kumakyorƛin bayn k’oƛin.
+Gloss: quickly-EMPH III-many people help-LAT-QUOT III-come-PFV.CVB run-PST.UNW
+Translation: Quickly many people came running in order to help.

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yoq’ˤugani in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yoq’ˤugani: 
+
+Exact Matches
+Sentence: Neł kawumoz acmoq rexoriłno zawru ɣˤʷak’un riqirno yizanƛin yaqru ža, ƛ’irir ža yoq’ˤugani acno yoƛ’ˤun Qartayn ƛ’iƛ’iłno yexun.
+Gloss: DEM1.IISG.OBL gate-GEN2 door-ERG-POSS.ESS IV-hang-PFV.CVB be.NPRS-PST.PRT hook-TOP IV-take.away-PFV.CVB II-get.up-FUT.CVB-QUOT II-begin-PST.PRT DEM1.SG above-LAT DEM1.SG II-heavy-ATTR-DEF door-TOP II-fall-PFV.CVB Qartay-TOP get.crushed-PFV.CVB II-die-PST.UNW
+Translation: Qartay took the hook that hang at the door of that gate, began to get up; the heavy door fell down, Qartay got crushed and died.
+
+Approximate Matches:
+Sentence: Howt’ay yäk’irun, där moƛał rukaysƛin babiwqor eƛo mi, soderno kurno ƛ’ˤiyor nexƛ’oräy, geres hibos boq’ˤugani pu wˤałxor butin nexno raƛ’moƛxorgon šäšiƛin.
+Gloss: from.here II-go-IMM.ANT.CVB me-LAT dream-CONT.ESS IV-see-PST.WIT-QUOT father-POSS.LAT say-IMPR you upward-TOP throw-PFV.CVB downward come-SIM.CVB iron-GEN1 stick-GEN1 III-heavy-ATTR-DEF side downward-AD.LAT III-turn-PFV.CVB come-PFV.CVB earth-SUB.LAT-CNTR get.stuck-QUOT
+Translation: "When you go again, tell your father that you have seen it in a dream: He shall throw it upward and when it comes down again, the iron stick's heavier side will turn downward and get stuck in the earth."

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kanłi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kanłi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kanłi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Idur ayruntow yexurno k’eneč’ žedu q’ˤunzontow ozzaq yiħinosi, sider sis bukayłin, ɣudi qˤašizaƛ’orkin žedu bužzi boqno anu, ozzałer kanłi baysƛin, hemece ɣˤaɣˤu bizizaq.
+Gloss: home-LAT come-IMM.ANT.CVB-EMPH II-kill-PFV.CVB egg DEM1.IPL.OBL two.OBL-ATTR.OBL-TOP-EMPH eye-PL-POSS.ESS II-smear-ANT.CVB one.OBL-LAT one I.PL-see-CNC.CVB day dawn-POST.CVB-even DEM1.IPL trust I.PL-become-PST.UNW be.NEG eye-PL-CONT.LAT light III-come-PST.WIT-QUOT as.many be.happy I.PL-get.up-CSL.CVB
+Translation: After he came home, he crushed an egg, smeared it on each of their eyes, and although they could see each other again, they couldn't believe it when it got dawn, and were even more happy when the light came into their eyes.
+Sentence: Xande idur aynosi, nesir elo teł cemä ozzataw kid yukaynosi, iguni žek’a esirno, di nełaz ozzałer kanłi bayrnäy, šebi mi där baha neƛxoƛin.
+Gloss: khan-APUD.ESS home-LAT come-ANT.CVB DEM1.ISG.OBL-LAT there inside corner-IN.ESS eye-PL-without girl II-see-ANT.CVB good-DEF man-ERG ask-PST.UNW me DEM1.IISG.OBL-GEN2 eye-PL-CONT.LAT light III-bring-CND.CVB what you me-LAT price give-PRS-QUOT
+Translation: When he came to a house with the king and saw a blind girl in a corner inside there, the good man asked: "When I bring back her eyesight, what price do you give me?"
+Sentence: Keč’oƛ’asi pu łiynosi nesis kanłi bäs, kut’yoƛ’asi łiynosi äxu.
+Gloss: left side end-ANT.CVB DEM1.ISG.OBL-GEN1 light III-take right end-ANT.CVB die
+Translation: When he finishes the left side, he will lose his eyesight and when he finishes the right side, he will die.
+
+Approximate Matches:

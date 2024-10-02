@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Sidaquł.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Sidaquł
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Sidaquł:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesi žaz babiya sidaquł q’orol ɣˤanabin yiqirno nełaq esin, hemedur ɣudƛ’ay ɣudƛ’or dey uži ħalaq’ oqxo ik’ixƛin.
+Gloss: DEM1.ISG.OBL boy-GEN2 father-ERG one.day widowed woman-TOP II-find-PFV.CVB DEM1.IISG.OBL-POSS.ESS tell-PST.UNW so day-SUPER.ABL day-SUPER.LAT me-GEN1 boy meager become-IPFV.CVB go-PRS-QUOT
+Translation: One day the boy's father found a widow and told her that his boy is becoming meager day by day.
+Sentence: Esin šebi, xecin šebi, sidaquł ʕomoyn bižin ciqaɣor qaciƛ’orƛin ʕoloqan žek’u ik’äsi zown.
+Gloss: tell-PFV.CVB what leave-PFV.CVB what one.day donkey-TOP III-lead-PFV.CVB forest-IN.VERS firewood-SUPER.LAT-QUOT young man go-RES.PRT be.NPRS-PST.UNW
+Translation: What should I tell, what should I leave; once upon a time a young man went with a donkey into the forest to collect firewood.
+
+Approximate Matches:
+Sentence: Sidaquł xanä idurno goƛ’in budumqor eƛin:
+Gloss: one.day khan-ERG home-LAT-TOP call-PFV.CVB muezzin-POSS.LAT say-PST.UNW
+Translation: One day, the king called the muezzin to his home and said:
+Sentence: Sidaquł sasaqosi akbar roɣa di minaraƛ’or izis.
+Gloss: one.day in.the.morning call.for.prayer IV-take.away-INF me minaret-SUPER.LAT get.up-PST.WIT
+Translation: One day in the morning I went up the minaret to call for the prayer.
+Sentence: Sidaquł yiłar mesedyos nak’ila yołäsi kid yodin.
+Gloss: one.day DEM2.IISG.OBL-LAT gold-GEN1 little.finger be-RES.PRT girl II-do-PST.UNW
+Translation: One day she gave birth to a girl that had a golden pinky.

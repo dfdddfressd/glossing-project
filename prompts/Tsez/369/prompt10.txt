@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esanada in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esanada: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ƛ’iräy ħulin kurno, bercinawt’a kidbazaƛ’orno rutin, ɣˤayz orezna teł žedu esanadanix roqno.
+Gloss: from.above feather-TOP throw-PFV.CVB beautiful-DISTR girl-PL-SUPER.LAT-TOP II.PL-turn-PFV.CVB milk-GEN2 pond-IN.ESS inside DEM1.IIPL bathe-MSD-AD.ESS II.PL-begin-PST.UNW
+Translation: Having thrown off their feathers, they turned into beautiful girls and began to bathe in the pond of milk.

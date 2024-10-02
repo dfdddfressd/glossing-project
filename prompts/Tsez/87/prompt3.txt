@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łäƛ’or.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łäƛ’or
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łäƛ’or:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bˤeƛägon qˤay łäƛ’or begirno.
+Gloss: pig-ERG-CNTR hare water-SUPER.LAT I.PL-send-PST.UNW
+Translation: And the pig sent the hare for water.
+Sentence: Yiła łinasno payda anu därƛin pikrun boyn, tungin bisno yeda ʕAliqiličtow łäƛ’or ik’in.
+Gloss: DEM2.IISG.OBL what.OBL-GEN1-TOP use be.NEG me-LAT-QUOT idea-TOP III-do-PFV.CVB copper.jug-TOP III-take-PFV.CVB DEM2.ISG Aliqilich-EMPH water-SUPER.LAT go-PST.UNW
+Translation: "I have no use for that", thought Aliqilich, took the jug and went to get water.
+Sentence: Hudaygon yeda łäƛ’or tungin bižin ik’in, nełaƛ’no aždaħä yisiqor roži eƛin anu.
+Gloss: the.next.day DEM2.ISG water-SUPER.LAT copper.jug-TOP III-carry-PFV.CVB go-PFV.CVB at.that.time-TOP dragon-ERG DEM2.ISG.OBL-POSS.LAT word say-PFV.CVB be.NEG
+Translation: The next day he went to get water with the jug and the dragon didn't say a word to him at that time.
+
+Approximate Matches:
+Sentence: Din hemedurtow bˤuƛ’xo zowsƛin, eƛin ceyä, mi däƛ’orno rutirno tupi caƛiƛ’oräy.
+Gloss: me-TOP so-EMPH III-be.afraid-IPFV.CVB be.NPRS-PST.WIT-QUOT say-PST.UNW eagle-ERG you me-SUPER.LAT-TOP IV-turn-PFV.CVB rifle shoot.with-SIM.CVB
+Translation: "And I was likewise afraid", said the eagle, "when you turned a rifle on me and shot."
+Sentence: Bara eƛin, žedu č’agu boynäy, dowƛ’orno, däƛ’ornotow žeda sis balah bayär, xec žedu sida ħalaƛin.
+Gloss: wife-ERG say-PST.UNW DEM1.IPL alive I.PL-do-CND.CVB you-SUPER.LAT-and me-SUPER.LAT-and-EMPH DEM1.IPL.OBL-ERG one misfortune III-bring leave DEM1.IPL one.OBL condition-IN.ESS-QUOT
+Translation: The wife said: "If we revive them, they will bring misfortune unto both you and me; leave them in their condition!"
+Sentence: Łäƛ’or yäk’iru yiła kidber neł aždaħä, ƛirbar retäsi roqzaƛ’ƛin, bic’no sis tungi teƛno.
+Gloss: water-SUPER.LAT II-go-PST.PRT DEM2.IISG.OBL girl-LAT DEM1.IISG.OBL dragon-ERG guest-LAT IV-want-RES.PRT IV-happen-CSL.CVB-QUOT III-fill-PFV.CVB one copper.jug give-PST.UNW
+Translation: The dragon gave the girl that went to look for water a jug filled with water, because that happened to be what the guest wanted.

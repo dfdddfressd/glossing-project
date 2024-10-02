@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mecyozaƛ’aygon.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mecyozaƛ’aygon
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mecyozaƛ’aygon:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ʕAƛoz xalq’imon, ʕagarłän t’ok’ow nełqay reƛ’an kurno, howłaƛ’aygon žuk yičiƛin.
+Gloss: village-GEN2 people-ERG-and relatives-ERG-and anymore DEM1.IISG.OBL-POSS.ABL hand-TOP spread.out-PFV.CVB DEM3.IISG.OBL-SUPER.ABL-CNTR worse II-live-QUOT
+Translation: The people from the village and the relatives all took their hands from her[, saying]: "Live worse than that!"
+Sentence: Q’ˤida yuyoƛ’or žan kurno, ħoyaƛ’aygon nesiƛ’or rutirno ƛoħon kurno, xediw nesä nesiz mežä ik’in kecno.
+Gloss: down floor-SUPER.LAT DEM1.SG-and throw-PFV.CVB oven-SUPER.ABL-CNTR DEM1.ISG.OBL-SUPER.LAT IV-turn-PFV.CVB pan-and throw-PFV.CVB husband DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 mattress-IN.ESS go-PFV.CVB sleep-PST.UNW
+Translation: And the husband threw it down onto the floor and the pan off from the oven onto him, and went to sleep on his own mattress.
+Sentence: Zira yisiqor eƛin, dice di boc’aq bˤuƛ’äsi zowä, žedaƛ’aygon di debeq bˤuƛ’äsi zows, šida mi di howži begirno xecäƛin.
+Gloss: fox-ERG DEM2.ISG.OBL-POSS.LAT say-PST.UNW how.much me wolf.PL-POSS.ESS III-be.afraid-RES.PRT be.NPRS-PST.WIT.INT DEM1.IIPL.OBL-SUPER.ABL-CNTR me you-POSS.ESS III-be.afraid-RES.PRT be.NPRS-PST.WIT why you me now III-send-PFV.CVB leave-PST.WIT.INT-QUOT
+Translation: The fox said to him, "I was so afraid of the wolves, and even more afraid of you than of them; why did you leave me here now?"

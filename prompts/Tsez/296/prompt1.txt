@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Gamiqanän in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Gamiqanän: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yisi bełiqanän ƛoħay boɣno sis ħak’on nełdergon met’rin teƛno.
+Gloss: DEM2.ISG.OBL hunter-ERG-TOP pan-IN.ABL III-take.away-PFV.CVB one khinkali-TOP DEM1.IISG.OBL-APUD.LAT-CNTR piece.of.meat-TOP give-PST.UNW
+Translation: And the hunter also took one khinkali out of the pan and put a piece of meat next to it.

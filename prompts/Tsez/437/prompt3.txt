@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word užiqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word užiqor: 
+
+Exact Matches
+Sentence: Nesä užiqor eƛin, ža aɣi däqor neƛ xaner bižanixƛin.
+Gloss: DEM1.ISG.OBL-ERG boy-POSS.LAT say-PST.UNW DEM1.SG bird me-POSS.LAT give khan-LAT III-carry-MSD-AD.ESS-QUOT
+Translation: He said to the boy, "Give me that bird, so I can carry it to the king."
+Sentence: ƛ’irir ayru užiqor žeda eƛin, zey bexuranix tupi neƛƛin.
+Gloss: above-LAT come-PST.PRT boy-POSS.LAT DEM1.IPL.OBL-ERG say-PST.UNW bear III-kill-MSD-AD.ESS rifle give-QUOT
+Translation: To the approaching boy they said, "Give us your rifle so we can kill the bear!"
+Sentence: Yiła užiqor eƛin, kakno royn mi däƛ’ ƛ’iri zow, nełaz akixor bik’anix.
+Gloss: DEM2.IISG.OBL-ERG boy-POSS.LAT say-PST.UNW prayer-TOP IV-do-PFV.CVB you me-SUPER.ESS on ride DEM1.IISG.OBL-GEN2 window-AD.LAT I.PL-go-MSD-AD.ESS
+Translation: It said to the boy: "Do a prayer with me and sit on me, so we can get in through her window."
+
+Approximate Matches:
+Sentence: Xizaɣor, hudun nełar riyx babiya užiqay bisxot’a micxir c’idaɣor kurxosi yałrułi.
+Gloss: finally nevertheless DEM1.IISG.OBL-LAT IV-know-PRS dad-ERG boy-POSS.ABL III-take-IPFV.CVB-DISTR money fire-APUD.VERS throw-PRS.PRT be-MSD
+Translation: Nevertheless she finally found out that the father was throwing the money that the boy earned into the fire.

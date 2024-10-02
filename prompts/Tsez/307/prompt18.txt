@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħonƛ’or in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħonƛ’or: 
+
+Exact Matches
+Sentence: Bayn yizi aziroyn xalq’imołäy berobi raqru ħonƛ’or.
+Gloss: I.PL-come-PFV.CVB DEM2.IPL freeze.to.death-PFV.CVB people-CONT.ABL ice-PL III.PL-become-PST.PRT mountain-SUPER.LAT
+Translation: They came to the mountain, which arose from the ice of the frozen people.
+Sentence: Neła äƛirun aħyałer regirinč’ey, Alimaħama ħonƛ’or ayn.
+Gloss: DEM1.IISG.OBL-ERG say-PST.PRT-TOP ear-CONT.LAT IV-let-NEG.PST.CVB Alimagomed mountain-SUPER.LAT come-PST.UNW
+Translation: Not hearing what it said either, Alimagomed came to the mountain.
+
+Approximate Matches:
+Sentence: Ceyä ža ħonƛ’orno bižin, sida ixiw t’ekzo šilazan eqerno bac’xo zown.
+Gloss: eagle-ERG DEM1.SG mountain-SUPER.LAT-and III-carry-PFV.CVB one.OBL big he.goat-ATTR.OBL horn-PL-IN.ESS-and put-PFV.CVB III-eat-IPFV.CVB be.NPRS-PST.UNW
+Translation: The eagle carried it onto a mountain, put it on the horns of a big goat and ate.

@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ƛ’ˤaz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ƛ’ˤaz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ƛ’ˤaz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ƛ’ˤaz č’imix yedu yałzay, qurun-qaranƛin” qˤaƛix ƛ’iräy ƛ’iyor sis k’emot’ yayn.
+Gloss: roof-GEN2 edge-AD.ESS DEM2.IISG be-SIM.CVB kurun-karan-QUOT shout-IPFV.CVB from.above downwards one wooden.case II-come-PST.UNW
+Translation: When she was on the roof's edge and was shouting: "Kurun-karan!", one crate came down from above.
+
+Approximate Matches:
+Sentence: Bežet’ani esnazas c’eruc’abi č’aq’ˤin žedu biłetow bečedawt’anizas ɣutkozas ƛ’ˤazaƛ’.
+Gloss: I.PL-old-DISTR-DEF brother-PL-GEN1 bow-PL hit-PST.UNW DEM1.IPL I.PL-as-EMPH wealthy-DISTR-DEF-PL-GEN1 house-PL-GEN1 roof-PL-SUPER.ESS
+Translation: The elder brothers' bows hit the roofs of houses of wealthy ones just like them.

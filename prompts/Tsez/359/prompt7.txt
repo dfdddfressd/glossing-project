@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word riyxanuƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word riyxanuƛin: 
+
+Exact Matches
+Sentence: Xizyo xanä sis siħiray q’orolayn goƛ’in nesä nesidäɣor, nełaq esin, däz iday micxir nar eƛa biynč’ey gugix, łu bok’ek’xosi yałrułin didurnokin riyxanuƛin.
+Gloss: afterwards khan-ERG one cunning.II widow-TOP invite-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.VERS DEM1.IISG.OBL-POSS.ESS tell-PST.UNW me-GEN2 home-IN.ABL money where say-INF III-know-NEG.PST.CVB escape-IPFV.CVB who.ERG III-steal-PRS.PRT be-PST.PRT-NMLZ-and how-and-even IV-know-PRS-NEG-QUOT
+Translation: Then the king invited a cunning widow to himself and he told her: "Money has vanished from my home to who-knows-where, I don't know whatsoever who might have stolen."
+Sentence: Babiw idu anunč’izay, igorno yayn, Okuz kidbä nesiqor eƛin, were mi dicegon yaq’ˤu ʕilmu deber yiqiłin, mi siskin šebin riyxanuƛin iča ay.
+Gloss: father home be.NEG-NEG.FUT.CVB-SIM.CVB near-LAT-TOP II-come-PFV.CVB Oku-GEN2 daughter-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW well you how.much-CNTR II-much science you-LAT II-get-CNC.CVB you any thing IV-know-IPFV.CVB-NEG-QUOT be-INF must
+Translation: While her father wasn't at home, Oku's daughter came nearer and said to him: "Well, no matter how much science you will get, you must say that you don't know anything!"
+
+Approximate Matches:
+Sentence: ƛ’irir yayru žaz eniya eƛin, xexzas žirbabi recurxo ičinč’ey, yok’ek’no yäžiruni debez mi esiws ʕadlu šida boyxanuƛin.
+Gloss: above-LAT II-come-PST.PRT boy-GEN2 mother-ERG say-PST.UNW child-GEN1 rib-PL IV.PL-break-IPFV.CVB be-NEG.PST.CVB II-steal-PFV.CVB II-carry-PST.PRT-DEF you-GEN2 you sister-GEN1 order why III-do-IPFV.CVB-NEG-QUOT
+Translation: The boy's mother came and said: "There child's ribs were not broken, why don't you fulfill your stolen sister's orders?"
+Sentence: Eniya kʷaraħid et’no, ɣired rown łi ħaƛurxo zawru zamanno rok’ƛ’or bayn moƛutow yayxanuƛin, eƛin yisä.
+Gloss: mother-ERG perforated.spoon-INSTR pour-PFV.CVB sieve-INSTR IV-bring-PFV.CVB water drink-CAUS-IPFV.CVB be.NPRS-PST.PRT time-TOP heart-SUPER.LAT III-come-PFV.CVB sleep-EMPH II-come-IPFV.CVB-NEG-QUOT say-PST.UNW he-ERG
+Translation: "I cannot sleep because I remember the time that our mother poured water with a colander and brought it to drink in a sieve.", he said.

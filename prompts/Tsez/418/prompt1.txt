@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Dahawtow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Dahawtow: 
+
+Exact Matches
+Sentence: Elayn boqno dahawtow bitaɣor bik’inosi, yisi žoyä žeduqor eƛin, di ža kid yowanix ik’ix, däz ža c’aq’ rok’äwa yisäƛin.
+Gloss: there-IN.ABL-TOP I.PL-become-PFV.CVB a.little-EMPH distance-IN.VERS I.PL-go-ANT.CVB DEM2.ISG.OBL boy-ERG DEM1.IPL.OBL-POSS.LAT say-PFV.CVB me DEM1.SG girl II-marry-MSD-AD.ESS go-PRS me-GEN2 DEM1.SG much heart-IN.ESS-Q II-take-PST.WIT.INT-QUOT
+Translation: When they had gone just a little further, that boy said to them: "I am going to marry this girl; did she really take me into her heart?"
+Sentence: Iłira äƛiru ɣudƛ’o užä dahawtow koyä bixno risno ik’in, rečuƛäy mäħorno roɣno, ƛ’iri reƛ’un erno xizazgon gutanno yicin mečołxor rižin.
+Gloss: six.OBL say-PST.PRT day-SUPER.ESS boy-ERG a.little-EMPH hand-IN.ESS hay-TOP IV-take-PFV.CVB go-PFV.CVB cattleshed-SUB.ABL outside-TOP III.PL-take.away-PFV.CVB above yoke-TOP put-PFV.CVB from.behind-CNTR plow-TOP II-tie-PFV.CVB field-CONT.VERS III.PL-lead-PST.UNW
+Translation: On the sixth day, the boy went to take a little hay in his hand, took them out of the shed, put a yoke around them, tied a plow behind it and lead them into the field.
+Sentence: Nediwtow q’ʷariłi bayzaƛ’, dahawtow yuyn ʕiyayn, bisno sis bexora hibon łoxt’a ža bok’xo nasin boc’an, zeybin maħor roxirno.
+Gloss: such-EMPH sadness III-come-CSL.CVB a.little-EMPH and(?) cry-PST.UNW I.PL-take-PFV.CVB one lengthy stick-TOP thrice-DISTR DEM1.SG III-beat-IPFV.CVB all wolf.PL-and bear-PL-and outside III.PL-chase-PST.UNW
+Translation: Because of such a tragedy, she began to cry a little, took a long stick, beated it three times and chased off all the wolves and bears.
+
+Approximate Matches:
+Sentence: Dahawtowgon zaman bik’izaƛ’or, xizyogon acmoq deqƛin.
+Gloss: a.little-EMPH-CNTR time III-go-POST.CVB again door-POSS.ESS knock-PST.UNW
+Translation: After a little while, it knocked on the door again.

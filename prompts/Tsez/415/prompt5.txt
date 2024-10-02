@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yisir in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yisir: 
+
+Exact Matches
+Sentence: Äzuru yisir ciqez raʕalłix yałruni sida ixiw ɣunoq soder bizix aždaħ-bikori bukayn.
+Gloss: look-PST.PRT DEM2.ISG.OBL-LAT forest-GEN2 edge-AD.ESS be-PST.PRT-DEF one.OBL big tree-POSS.ESS upward III-get.up-IPFV.CVB dragon~snake III-see-PST.UNW
+Translation: Looking around, he saw a dragon-snake climbing a tree that was standing at the edge of the forest.
+Sentence: Bara yisir ičin močitown xecinč’izaƛ’, xizyo yisä eƛin, ža esinäy, di äxuƛin.
+Gloss: wife-ERG DEM2.ISG.OBL-LAT be-PFV.CVB place-EMPH-TOP leave-NEG.FUT.CVB-CSL.CVB afterwards DEM2.ISG.OBL-ERG say-PST.UNW DEM1.SG tell-CND.CVB me die-QUOT
+Translation: Because the wife didn't leave him in peace, he then said: "If I tell you, you will die."
+Sentence: Ceyä yisir bigu gulu teƛno.
+Gloss: eagle-ERG DEM2.ISG.OBL-LAT III-good horse give-PFV.CVB
+Translation: The eagle gave him a good horse.
+
+Approximate Matches:
+Sentence: Hemełƛ’o kidbä eƛin, nediw hunar yołäsi t’or siskin uži ayäsi zownč’uƛin, uyraxäƛirugon ʕuqła yeda egirnäy rigu räči yisirƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS girl-ERG say-PFV.CVB such talent be-RES.PRT here-LAT anyone boy come-RES.PRT be.NPRS-NEG.PST.WIT-QUOT four-IPFV.CVB-ORD-CNTR hide-INF DEM2.ISG let-CND.CVB IV-good IV-remain DEM2.ISG.OBL-LAT-QUOT
+Translation: The girl broke in, "None of the boys with such potentials came here. It will be good to let him hide for the fourth time."
+Sentence: Yeženigon esiya, šebin resun yisirƛin, bak’ima tełäyn begirno aɣi q’ˤidar kurnosi, nełłäy qˤirič’ roqno.
+Gloss: II-old-DEF-CNTR sister-ERG thing IV-find-PFV.CVB DEM2.ISG.OBL-LAT-QUOT enclosure-IN.ESS inside-IN.ABL-TOP III-let-PFV.CVB bird down-LAT throw-ANT.CVB DEM1.IISG.OBL-CONT.ABL scissors IV-become-PST.UNW
+Translation: The older sister said "He found something!", let the bird out of the coop and threw it on the ground, so he turned into a pair of scissors.

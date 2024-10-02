@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bodoƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bodoƛin: 
+
+Exact Matches
+Sentence: Howła gulułäy ɣˤʷay bodoƛin”.
+Gloss: DEM3.IISG.OBL horse-CONT.ABL dog III-do-IMPR-QUOT
+Translation: Make a dog out of this horse!
+Sentence: Neła zira yisiq harizi rodin, deber taliħ neƛani, žeda boc’aqay di xʷasar bodoƛin.
+Gloss: DEM1.IISG.OBL fox-ERG DEM2.ISG.OBL-POSS.ESS request IV-do-PST.UNW you-LAT fortune give-MSD DEM1.IIPL.OBL wolf.PL-POSS.ABL me rescue III-do-IMPR-QUOT
+Translation: That fox pleaded to him, "May fortune be given to you, please rescue me from those wolves!"
+Sentence: Sosigon žoyä łˤono ɣˤurušno teƛno, eženi žek’uqor ʕaq’lu bodoƛin eƛin.
+Gloss: again-CNTR boy-ERG three ruble-TOP give-PFV.CVB old-DEF man-POSS.LAT advice III-do-IMPR-QUOT say-PST.UNW
+Translation: Again, the boy gave him the third ruble and said to the old man: "Give me an advice!"
+
+Approximate Matches:
+Sentence: Däzoq’aw ɣˤutkun rodoƛin, xanä eƛin kidbez xedyoqor, maday madargon mesedyos ƛen eroƛin.
+Gloss: me-ATTR.OBL-EQU2 house-TOP IV-do-IMPR-QUOT khan-ERG say-PFV.CVB daughter-GEN2 husband-POSS.LAT door-APUD.ABL door-APUD.VERS-CNTR gold-GEN1 bridge-TOP put-IMPR-QUOT
+Translation: "Build a house like mine", said the king to his daughter's husband, "and construct a golden bridge from door to door!"
+Sentence: Neła qułtow neširu užä q’ˤida ħiƛ’oqun raħno, eƛin, eliz madaxay bečedawni maduhalzo madaxor mesedyos qˤiƛurabi rodoƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS-EMPH evening boy-ERG down handkerchief-TOP IV-lay-PFV.CVB say-PST.UNW we.SPEC.GEN1 door-AD.ABL wealthy-DEF neighbor-GEN2 door-AD.LAT gold-GEN1 step-PL IV.PL-do-IMPR-QUOT
+Translation: On that day in the evening, the boy laid down the handkerchief and said: "Build golden stairs from our door to the wealthy neighbor's door!"
+Sentence: Nełas maʕna yoł, keze aqza ƛirbałi rodoƛin.
+Gloss: DEM1.IISG.OBL-GEN1 sense be meet become-LCV hospitality IV-do-IMPR-QUOT
+Translation: The sense of his words was: 'Be a guest whereever you go to!'"

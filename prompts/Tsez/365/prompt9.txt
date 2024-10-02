@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word oqäsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word oqäsi: 
+
+Exact Matches
+Sentence: Esin šebi, xecin šebi sida beɣe ʕaƛa res anusi, baru yowace oqäsi ʕoloqanaw uži zown.
+Gloss: tell-PFV.CVB what leave-PFV.CVB what one.OBL III-young village-IN.ESS possibility be.NEG-ATTR wife II-marry-TERM become-RES.PRT young boy be.NPRS-PST.UNW
+Translation: What is to be said, what is to be left out -- there lived a young boy, without the necessary subsistence, being in the right age to marry a woman.
+Sentence: Howži di nełał xizay oqäsi yołƛin.
+Gloss: now me DEM1.IISG.OBL-CONT.ESS behind become-RES.PRT be-QUOT
+Translation: That's why I decided to find it."
+Sentence: Däz kidbes cin rexurno, buhtan erayä oqäsi miƛin, cimyarno izin xan nesiƛ’ łeɣaniƛ’or ayäsi zown.
+Gloss: me-GEN2 daughter-GEN1 name-TOP IV-kill-PFV.CVB slander set.up-INF-Q become-RES.PRT you-QUOT malice-IN.LAT-TOP get-PFV.CVB khan DEM1.ISG.OBL-SUPER.ESS clutch-MSD-SUPER.LAT come-RES.PRT be.NPRS-PST.UNW
+Translation: "Did you dishonor my daughter's name and ...?", the king got mad and was about to pound on him.
+
+Approximate Matches:
+Sentence: Žedus zownƛax q’ˤimaku, xedyox regiracet’a roqäsi łˤonon kidbabi.
+Gloss: DEM1.IPL.OBL-GEN1 be.NPRS-PST.UNW-QUOT grown.up husband-AD.ESS II.PL-send-TERM-DISTR II.PL-begin-RES.PRT three-TOP daughter-PL
+Translation: They had three daughters that were in the age of getting married.
+Sentence: ƛˤeb yik’inosi, sida quł dawlaƛ’ zey maħor boqäsi yałzay, kid nełdayn yoxin ʕaƛaɣor yik’in.
+Gloss: year II-go-ANT.CVB one.OBL day-CONT.ESS prey-SUPER.ESS bear outside III-become-RES.PRT be-SIM.CVB girl DEM1.IISG.OBL-APUD.ABL-TOP II-run.away-PFV.CVB village-IN.VERS II-go-PST.UNW
+Translation: A year went by, and one day while the bear went outside for prey, the girl ran away from him and went into a village.
+Sentence: Kidbazä esin, eli babiwde sadaq saparyox roqäsi zows, babiwn gugin howt’o ƛexasi yoł, ela debez ɣunoqay dahaw henešno but’in bac’siƛin.
+Gloss: girl-PL-ERG tell-PST.UNW we father-APUD.ESS together journey-AD.ESS II.PL-become-RES.PRT be.NPRS-PST.WIT father-TOP escape-PFV.CVB here remain-RES.PRT be we(II-ERG you-GEN2 tree-POSS.ABL a.little apple-TOP III-rip.out-PFV.CVB III-eat-PST.WIT-QUOT
+Translation: The girls said: "We were travelling together with our father, and he ran away and we were staying here; and we picked some apples from your tree and ate them."

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xalq’imo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xalq’imo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xalq’imo:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Didurgon, šebigon resułin xal bodanix elor ɣˤanabi yegira yay, yałi - ela badiru ħukmu meq’aw bäčiƛin, diwan boyxozo xalq’imo xan wˤałer ezurerno.
+Gloss: how-CNTR what-CNTR IV-find-CNC.CVB examination III-do-MSD-AD.ESS there-LAT woman II-send-INF II-must else - we(I).OBL-ERG III-do-PST.PRT decision wrong III-be-QUOT judgement III-do-PRS.PRT.OBL people-ERG khan downward-LAT show-CAUS-PST.UNW
+Translation: "How- and whatever it is, we must send a woman there to make an examination, or else the decision we make will be wrong.", the judges said and calmed down the king.
+Sentence: Ža hunix oqnosi xalq’imo eč’erxo zown, äk’ino elaɣor min ok’äk’ƛin.
+Gloss: DEM1.SG way-AD.ESS become-ANT.CVB people-ERG stop-IPFV.CVB be.NPRS-PFV.CVB go-PROHIB here-IN.VERS you-and steal.from-QUOT
+Translation: When he got on his way, the people were stopping him: "Don't go here, you will be stolen as well!"
+Sentence: Elozo ʕaƛos xalq’imo yisir micxir teƛa boqno, amma eɣeni esiya eƛin, där mežus bečełi ħažat anu.
+Gloss: there-ATTR.OBL village-GEN1 people-ERG DEM2.ISG.OBL-LAT money give-INF III-begin-PFV.CVB but young-DEF brother-ERG say-PST.UNW me-LAT you(I).PL.OBL-GEN1 riches necessity be.absent
+Translation: The people in the village there began to give him money, but the young brother said: "I don't need your riches.
+
+Approximate Matches:
+Sentence: Boƛik’a ħošos ʕaƛoz xalq’imoqor bokobi roqno, boƛik’unigon sida q’orol ɣˤanazas kuła rodacekin ʕeze boqno anu.
+Gloss: half-ERG hide-GEN1 village-GEN2 people-POSS.LAT fur.coat-PL IV-become-PFV.CVB half-DEF-CNTR one.OBL widowed woman-GEN1 sleeve IV-do-TERM-even be.enough III-become-PST.UNW be.NEG
+Translation: One half of the hide became fur coats for the people of the village, the other half wasn't even enough for the sleeve of one widow.
+Sentence: Sisgon xalq’imor riyxanusi šebin, łiłiroƛ’ ƛ’iri sis ažo yoł.
+Gloss: one-CNTR people-LAT IV-know-NEG.PRS.PRT thing ditch-SUPER.ESS above one tree be
+Translation: "One thing that the people don't know is that there's a tree above the ditch.
+Sentence: Eniwn, užin, barun bečełiƛ’ zown, miskin xalq’imor sadaq’a teƛxo žeda ʕaƛos žamaʕattown bečed bodin.
+Gloss: mother-and son-and wife-and riches-SUPER.ESS be.NPRS-PFV.CVB poor people-LAT alms give-IPFV.CVB DEM1.IPL.OBL-ERG village-GEN1 population-EMPH-TOP wealthy.man III-do-PST.UNW
+Translation: The mother, her son and his wife lived wealthily, and by giving alms to the poor people, they enriched the population of the village.

@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Sodxor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Sodxor: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Bełiqan sodxorzoq iziƛ’orey, sidaɣ ħalkaraw mečoƛ’ ɣunoƛ q’ˤida ičäsi łˤonon žek’u esun.
+Gloss: hunter above-AD.LAT-ATTR.OBL-POSS.ESS get.up-SIM.CVB in.one.place even place-SUPER.ESS tree-SUB.ESS under sit-RES.PRT three-TOP man find-PST.UNW
+Translation: While the hunter went upwards, he found three men sitting under a tree on an even place somewhere.

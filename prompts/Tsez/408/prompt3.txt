@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bexora in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bexora: 
+
+Exact Matches
+Sentence: Sis zown beže, oc’ira łˤora kilometra bexora is.
+Gloss: one be.NPRS-PST.UNW III-big ten.OBL three.OBL kilometer-ERG lengthy bull
+Translation: There was a 13 kilometer long ox.
+Sentence: Nediwtow q’ʷariłi bayzaƛ’, dahawtow yuyn ʕiyayn, bisno sis bexora hibon łoxt’a ža bok’xo nasin boc’an, zeybin maħor roxirno.
+Gloss: such-EMPH sadness III-come-CSL.CVB a.little-EMPH and(?) cry-PST.UNW I.PL-take-PFV.CVB one lengthy stick-TOP thrice-DISTR DEM1.SG III-beat-IPFV.CVB all wolf.PL-and bear-PL-and outside III.PL-chase-PST.UNW
+Translation: Because of such a tragedy, she began to cry a little, took a long stick, beated it three times and chased off all the wolves and bears.
+
+Approximate Matches:
+Sentence: Xizyo Bilq’isdä ƛ’iräy k’ukno boɣno, bexorani neła nełas žežun bukarno, žedaqorno eƛin, howži meži iduzaɣor rik’iƛin, xizor žedun regirno.
+Gloss: afterwards Bilqisdi-ERG from.above cap-TOP III-take.away-PFV.CVB lengthy-DEF DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 ponytail-TOP III-show-PFV.CVB DEM1.IIPL.OBL-POSS.LAT-TOP say-PFV.CVB now you.PL home-PL-IN.ALL II.PL-go-QUOT back DEM1.IIPL-TOP II.PL-send-PST.UNW
+Translation: Then Bilqisdi took off her cap, showed her long ponytail and said to them: "Now go to your homes.", and she sent them back.
+Sentence: Žeduł teł yałru hič’č’a bexorani bˤeliz ɣunä eƛix teqno, šet’urtow yałru ažomzas ʕadlu däq boqxo, sistow sis yałru barus ʕadlun boqinč’ey, yeda ʕabdal ħonƛ’aɣor ik’ix, nesä nesił xizay rexada šebin rowanixƛin.
+Gloss: DEM1.IIPL.OBL-CONT.ESS inside be-PST.PRT the.most lengthy-DEF poplar-GEN2 tree-ERG say-IPFV.CVB hear-PST.UNW around-EMPH be-PST.PRT tree-PL-GEN1 order me-POSS.ESS III-become-PRS one-EMPH one be-PST.PRT wife-GEN1 order-TOP III-become-NEG.PST.CVB DEM2.ISG fool mountain-SUPER.VERS go-IPFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-CONT.ESS behind IV-slaughter-INF thing IV-bring-MSD-AD.ESS-QUOT
+Translation: And he heard the highest poplar trees saying among themselves: "I can control the trees that are around me, but this fool cannot even control the single wife that he has, and he is going onto the mountain to bring something to slaughter after himself."

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word regirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word regirno: 
+
+Exact Matches
+Sentence: Sida ħiƛ’oquqno rutirno xanƛ’or regirno, ele enda ħaramaw reƛ yołƛin.
+Gloss: one.OBL handkerchief-POSS.ESS-TOP IV-gather-PFV.CVB khan-SUPER.LAT IV-send-PST.UNW there DEM3b.SG prohibited meat be-QUOT
+Translation: They gathered it in one handkerchief and sent it to the king: "There is the prohibited meat."
+Sentence: Ražbadinä reƛ’ibin risno, Tawadisno nesiz halmaɣzasno hunin regirno, xizor iduɣor utin.
+Gloss: Razhbadin-ERG hand-PL-TOP IV.PL-take-PFV.CVB Tavadi-GEN1-and DEM1.ISG.OBL-GEN2 friend-PL-GEN1-and way-TOP IV-send-PFV.CVB back home-IN.ALL return-PST.UNW
+Translation: Razhbadin took the hands of Tavadi and his friends, sent them on their way and returned home.
+Sentence: Nesi xanzo raƛ’mar aynosi, ʕAt’idä naysinan xabaryabi regirno, di boƛ’araw unti saɣ boyxosi yołƛin.
+Gloss: DEM1.ISG.OBL khan-GEN2 land-LAT come-ANT.CVB Atid-ERG everywhere story-PL IV-send-PST.UNW me any illness cure III-do-PRS.PRT be-QUOT
+Translation: When coming onto the king's land, Atid spread the story everywhere: "I can cure any illness!"
+
+Approximate Matches:
+Sentence: Ħon-bahadurä sosi rak’ru mač’id łˤonon q’ˤim nełas reč’no roɣno, k’ox äƛiru rok’nosi hemedurtow łˤonosinigon q’ˤim reč’no roɣno, łox äƛirugon regirnosi, aždaħes oč’inon q’ˤim reč’no.
+Gloss: Mountain~Hero-ERG once IV-hit-PST.PRT dagger-INSTR three-TOP head DEM1.IISG.OBL-GEN1 IV-cut-PFV.CVB IV-take.away-PFV.CVB twice ORD IV-hit-ANT.CVB so-EMPH three-ATTR-DEF-CNTR head IV-cut-PFV.CVB IV-take.away-PFV.CVB thrice ORD-CNTR IV-let-ANT.CVB dragon-GEN1 nine-TOP head IV-cut-PST.UNW
+Translation: Mountain~Hero hit him once with the dagger and cut three heads off of him; when he hit him for the second time, he cut three of his heads off as well; and when he did it for the third time then, he cut off all the nine heads.
+Sentence: Yeženi kidbä, din yegir yiłde sadaq hunin regirnoƛin, eniwq esirnosi, yegirzaƛ’ šida yik’inč’uƛin bixzin yoqno eƛin.
+Gloss: II-old-DEF daughter-ERG me-TOP II-let DEM2.IISG.OBL-APUD.ESS together way-TOP IV-send-PFV.CVB-QUOT mother-POSS.ESS ask-ANT.CVB II-let-CSL.CVB why II-go-NEG.PST.WIT-QUOT angry-TOP II-become-PFV.CVB say-PST.UNW
+Translation: When the eldest daughter asked her mother: "Let me go with her together so I can see her off!", and the mother angrily said: "Why didn't you go when I let you?"
+Sentence: Ħurženyaɣor reƛ’a regirnosi, xanzo užir hemesi žek’uzoq riłäsi eƛuk’ resun.
+Gloss: bag-IN.ALL hand IV-let-ANT.CVB khan-GEN2 son-LAT DEM4.ISG.OBL man-ATTR.OBL-POSS.ESS IV-resemble-RES.PRT leather.sack IV-find-PST.UNW
+Translation: The prince reached his hand into the bag and found a leather sack that resembled the man's.

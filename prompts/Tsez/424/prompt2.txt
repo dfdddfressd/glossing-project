@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mixƛ’or in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mixƛ’or: 
+
+Exact Matches
+Sentence: Šida mi elo nece mixƛ’or yičäƛin, xanes kid c’ok’inayn nełqor.
+Gloss: why you there so.much time-SUPER.LAT II-wait-QUOT khan-GEN1 daughter scold-PST.UNW DEM1.IISG.OBL-POSS.LAT
+Translation: "Why did it take you so much time?", the princess scolded her.
+Sentence: Howži ʕuraw mixƛ’or ezun ičin babiw uži ayxanaƛin.
+Gloss: now much time-SUPER.LAT look-PFV.CVB be-PFV.CVB father son come-IPFV.CVB-NEG-Q-QUOT
+Translation: Now, after much time, the father was looking why his son didn't came.
+Sentence: Aq’ˤu mixƛ’or ičinč’eytow imxayn oqno šayxno ayn idur.
+Gloss: much time-SUPER.LAT wait-NEG.PST.CVB-EMPH cave-IN.ABL-TOP become-PFV.CVB sheikh-TOP come-PST.UNW home-LAT
+Translation: Not waiting too long, the sheikh got out of the cave and came home.
+
+Approximate Matches:
+Sentence: Q’ˤano äƛirugon ɣudƛ’o, buq bayru mixƛ’o xediya eƛin, žaqˤułgon dunyalkinwa yedu qˤašixanuƛin.
+Gloss: two ORD-CNTR day-SUPER.ESS sun III-come-PST.PRT at.a.time husband-ERG say-PST.UNW today-CNTR world-even-Q DEM2.IISG dawn-IPFV.CVB-NEG-QUOT
+Translation: On the second day, at the time the sun came out, the husband said: "And today even the world doesn't seem to dawn at all."
+Sentence: Neł mixƛ’o ceyä žaqor eƛin, di dowqor yeɣe k’emot’ neƛan, ža mi dowz ɣˤutkoxor ayzaƛ’or yaɣˤinƛin.
+Gloss: DEM1.IISG.OBL at.a.time eagle-ERG boy-POSS.LAT say-PST.UNW me you-POSS.LAT II-small wooden.case give-FUT.CVB DEM1.SG you you-GEN2 house-AD.LAT come-POST.CVB II-open-PROHIB-QUOT
+Translation: At that time the eagle said to the boy: "I will give you a small wooden case; don't you open it before you get to your house!"
+Sentence: Hemeł mixƛ’o, yoƛi gogan č’ˤaƛiłno, ozuri buqin baɣˤizaƛ’or, Okun, užin wˤałzoni dunyalƛ’aɣor bok’ełno.
+Gloss: DEM4.IISG.OBL time-SUPER.ESS II-half meadow-TOP be.cut-PFV.CVB eye III-close-PFV.CVB III-open-POST.CVB Oku-and son-and downward-ATTR.OBL-DEF world-SUPER.VERS I.PL-go.away-PST.UNW
+Translation: After that, the middle of the meadow opened, and in the wink of an eye, Oku and his son had gone into the underworld.

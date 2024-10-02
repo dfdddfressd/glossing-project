@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yukayn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yukayn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yukayn:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neł č’uramxor ɣˤutkoxorno ik’in akäz ezunosi, sis ozuri yołali esiya q’ˤiryoƛ’ geler žek’uzas q’ˤimbi kurxo yukayn.
+Gloss: DEM1.IISG.OBL light-AD.LAT house-AD.LAT-TOP go-PFV.CVB window-IN.ESS.DIST look-ANT.CVB one eye be-ATTR sister-ERG floor-SUPER.ESS head.over.heals man-PL-GEN1 head-PL throw-IPFV.CVB II-see-PST.UNW
+Translation: He went to the house with light, looked into the window and saw his one-eyed sister throwing people's heads over the floor.
+Sentence: Kid neside igor yayrun, užä nełqay ħošos šeƛ’un roɣno mesedyos bašiqˤoy ernosi, adäyzoƛ’aygon bercinaw ža užir yukayn.
+Gloss: girl DEM1.ISG.OBL-APUD.ESS near-LAT II-come-IMM.ANT.CVB boy-ERG DEM1.IISG.OBL-POSS.ABL hide-GEN1 clothing-TOP IV-take.away-PFV.CVB gold-GEN1 ring put-ANT.CVB earlier-ATTR.OBL-SUPER.ABL-CNTR beautiful DEM1.SG boy-LAT II-see-PST.UNW
+Translation: When the girl came to him, the boy took off her hide-clothes and put the golden ring on her, and the boy saw that she was much more beautiful than before.
+Sentence: Raħäruni reƛno rac’no, ence mazaħarno xizor utin iduɣor nexƛ’oräy, yiziz ɣˤutka tełäzay maħor yoqxo howža q’orolay yukayn.
+Gloss: IV-cook-CAUS-PST.PRT-DEF meat-TOP IV-eat-PFV.CVB a.little outside-IN.LAT-TOP back return-PFV.CVB home-IN.ALL come-SIM.CVB DEM2.IPL.OBL-GEN2 house-IN.ESS inside-IN.ABL.DIST outside II-become-IPFV.CVB DEM4.SG widow II-see-PST.UNW
+Translation: He ate the cooked meat and while coming home again, he saw that widow getting out of their house.
+
+Approximate Matches:
+Sentence: Moƛaxay izinosi, xan ħayran oqno ƛexun puħo t’akan yukaynosi.
+Gloss: sleep-AD.ABL get-ANT.CVB khan be.astonished become-PFV.CVB remain-PST.UNW next.to glass II-see-ANT.CVB
+Translation: When the king got up from sleeping, he was surprised when he saw the glass at his side.
+Sentence: Užä ħit’ures iƛ’u nec’irxotow yižix yukaynosi, reƛ teƛxozoni bazarganä ža xizor oxirno.
+Gloss: boy-ERG pan-GEN1 bottom empty-IPFV.CVB-EMPH II-take.out-IPFV.CVB II-see-ANT.CVB meat sell-PRS.PRT.OBL-DEF merchant-ERG DEM1.SG back chase-PST.UNW
+Translation: When he saw that the boy was emptying the bottom of the pan, the meat-selling merchant chased him.
+Sentence: Kid yukaynosi, eniw haganiłno ƛexun, becä žedzox yičix zawru kid nece bercinaw yałru nełar howži gurow riynč’izaƛ’.
+Gloss: girl II-see-ANT.CVB mother be.amazed-PFV.CVB remain-PFV.CVB month-IN.ESS DEM1.IIPL.OBL-GEN2-AD.ESS II-live-IPFV.CVB be.NPRS-PST.PRT girl so.much beautiful be-PST.PRT DEM1.IISG.OBL-LAT now except IV-know-NEG.FUT-CSL.CVB
+Translation: Having seen the girl, the mother was amazed that the girl was living with them for one month and because she only now noticed how beautiful the girl was.

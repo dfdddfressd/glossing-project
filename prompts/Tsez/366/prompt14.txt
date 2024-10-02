@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word lel in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word lel: 
+
+Exact Matches
+Sentence: Ža lel yoƛ’ˤun ƛ’iräzay nesis koyär yayn.
+Gloss: DEM1.SG feather II-fall-PFV.CVB above-IN.ABL.DIST DEM1.ISG.OBL-GEN1 hand-IN.LAT II-come-PST.UNW
+Translation: The feather fell down and into his hand.
+Sentence: Xizyo eɣeni esiya nełaz c’eruc’a caƛinosi, sis nełas lel ɣunoƛer yoƛ’ˤun yayn, t’awusno hawaƛ’ k’oƛin boxin bik’in.
+Gloss: afterwards young-DEF brother-ERG DEM1.IISG.OBL-GEN2 bow shoot.with-ANT.CVB one DEM1.IISG.OBL-GEN1 feather tree-SUB.LAT II-fall-PFV.CVB II-come-PFV.CVB peacock-TOP air-SUPER.ESS jump-PFV.CVB III-run.away-PFV.CVB III-go-PFV.CVB
+Translation: Then the youngest brother shot with the bow and the peacock flew away, but one feather fell down under the tree.
+Sentence: Tupin ħiroq caƛin, gulun bˤaƛoyn, eɣeni uži lel yaƛ’ˤuruni aɣeł xizay oqno.
+Gloss: rifle-TOP shoulder-POSS.ESS throw-PFV.CVB horse-TOP III-harness-PFV.CVB young-DEF son feather II-fall-PST.PRT-DEF bird-CONT.ESS behind become-PFV.CVB
+Translation: The youngest son threw the rifle over his shoulder, harnessed the horse and went to find the bird that lost its feather.
+
+Approximate Matches:

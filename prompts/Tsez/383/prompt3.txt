@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eniya in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eniya: 
+
+Exact Matches
+Sentence: Haq’uł q’ˤano buci boɣnosi, eniya daʕba bičirno yiłał, debez mi ɣˤutkoƛ’or yuti, xedyor rätinč’iƛin.
+Gloss: family-CONT.ESS two month III-spend.time-ANT.CVB mother-ERG dispute III-be-CAUS-PFV.CVB DEM2.IISG.OBL-CONT.ESS you-GEN2 you house-SUPER.LAT II-turn.back husband-LAT IV-love-NEG.FUT-QUOT
+Translation: After spending two months at her family's, the mother had up a dispute with her: "Go back to your house and your husband won't like it."
+Sentence: ƛ’iri xabarkin boynč’ey yeda razin oqno, hunixor eniya erno zowali žedu q’ˤunqorno sist’a magalabin teƛno.
+Gloss: above story-even III-do-NEG.PST.CVB DEM2.ISG agree-TOP become-PFV.CVB way-AD.LAT mother-ERG put-PFV.CVB be.NPRS-ATTR DEM1.IPL two.OBL-POSS.LAT-TOP one.at.a.time bread-PL-TOP give-PST.UNW
+Translation: Without further discussion he agreed and gave the breads that his mother made for the way to the two of them, one for each.
+Sentence: Idurno yik’in užin č’arik’no eniya eƛin, eliz mada łuƛa ixiw ɣˤutku rodinƛin.
+Gloss: home-LAT-TOP II-go-PFV.CVB boy-TOP wake.up-PFV.CVB mother-ERG say-PST.UNW we-GEN2 outside-IN.ESS who.OBL-INDEF big house IV-do-PST.UNW-QUOT
+Translation: The mother went home, woke up the boy and said: "Someone built a big house outside of ours."
+
+Approximate Matches:
+Sentence: Idur aynosigon, eniyan, kidbäntow, rok’u č’eze roqaniƛäy, best’alawni kid yexuriyäƛin, esirno nesiq.
+Gloss: home-LAT come-ANT.CVB-CNTR mother-ERG-and daughter-ERG-and-EMPH heart convinced[?] IV-become-MSD-SUB.ABL step-DEF daughter II-kill-PST.WIT.Q-QUOT ask-PST.UNW DEM1.ISG.OBL-POSS.ESS
+Translation: After he came home, the mother and her daughter asked him: "Did you kill the stepdaughter?" to become convinced.
+Sentence: Yiłƛ’ay rigu čorpa netikin riqäsi zownč’uƛin, neła quł neširu eniyan užän rigut’a ax rodin.
+Gloss: DEM2.IISG.OBL-SUPER.ABL IV-good soup when-even IV-get-RES.PRT be.NPRS-NEG.PST.WIT-QUOT DEM1.IISG.OBL-IN.ESS day-CONT.ESS evening mother-ERG-TOP son-ERG-and IV-good-DISTR belly IV-do-PFV.CVB
+Translation: They have never had a such delicious soup before, so that evening the mother and the son ate good.
+Sentence: Hunin regirno xizor yutin nexanƛin, yigtow yedu ƛ’iri yutizaƛ’, eniyan yegirno.
+Gloss: way-TOP IV-let-PFV.CVB back II-turn.back-PFV.CVB come-FUT.DEF-QUOT II-good-EMPH DEM2.IISG above II-turn.back-CSL.CVB mother-ERG-TOP II-let-PST.UNW
+Translation: When she insisted: "I will see her off and come back again!", the mother let her go.

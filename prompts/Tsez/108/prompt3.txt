@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bown.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bown
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bown:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hič’č’a adäza, sasaq mi däz gander biħanada ganin bown horoƛin, egirno nesä.
+Gloss: the.most ahead tomorrow you me-GEN2 bull.calf-APUD.LAT III-fight-INF bull.calf-TOP III-bring-PFV.CVB come.IMPR-QUOT send-PST.UNW DEM1.ISG.OBL-ERG
+Translation: The first one: Come tomorrow and bring a young bull to fight against my young bull.", he [said and] sent him away.
+Sentence: Ražbadinan, baran Tawadir beže barkalan teƛno, bežet’asini q’ˤanon užibin bown ʕaƛoxaɣor nexno.
+Gloss: Razhbadin-ERG-and wife-ERG-and Tavadi-LAT III-big thank-TOP give-PFV.CVB I.PL-old-DISTR-ATTR-DEF two-TOP boy-PL-TOP I.PL-bring-PFV.CVB village-AD.VERS come-PST.UNW
+Translation: Razhbadin and his wife thanked Tavadi very much and went to their village together with their two oldest boys.
+Sentence: Yiła yiziqor eƛin, sis guluƛ’ zown, sideni q’ˤidan ik’in, buq betunosi xizyo žek’us ɣedun bown ent’or horo mežiƛin.
+Gloss: DEM2.IISG.OBL-ERG DEM2.IPL.OBL-POSS.LAT say-PST.UNW one horse-SUPER.ESS ride-PFV.CVB the.other.one down-TOP go-PFV.CVB sun III-set-ANT.CVB after man-GEN1 shade-TOP III-get-PFV.CVB here-LAT come.IMPR you.PL-QUOT
+Translation: She said to them: "One will ride on a horse and the other one will walk below; after the sun has set, get me a man's shadow and come here!"
+
+Approximate Matches:

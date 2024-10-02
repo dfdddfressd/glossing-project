@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Hunix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Hunix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Hunix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Howži nesi žek’a ža uži debez mi hunix ik’iƛin egirno.
+Gloss: now DEM1.ISG.OBL man-ERG DEM1.SG boy you-GEN2 you way-AD.ESS go-QUOT let-PST.UNW
+Translation: Now the man let the boy go: "Go on your way!"
+Sentence: ʕAƛar xabar bayn, hunix zigolun yegirno, raq’ˤu bˤeƛ’ rexunƛin.
+Gloss: village-IN.LAT story III-come-PST.UNW way-AD.ESS hail-TOP II-send-PFV.CVB III.PL-many sheep III.PL-die-PST.UNW-QUOT
+Translation: Into the village came the news that on the way it had hailed and many sheep had died.
+
+Approximate Matches:
+Sentence: Nesis hut’-mˤalay ƛ’er bisäsi bukayzaƛ’ hunixoza esirno, šebi deber roqnoƛin.
+Gloss: DEM1.ISG.OBL-GEN1 front.part.of.the.face-IN.ABL color III-take-RES.PRT III-see-CSL.CVB way-AD.ESS-ATTR.OBL-ERG ask-PST.UNW who you-LAT IV-happen-PST.UNW-QUOT
+Translation: When they saw the color vanishing from his face, the travellers asked: "What happened to you?"
+Sentence: Eniya äƛiru rožbin rok’er ʕeze roqinč’ey, eženi užä eniwq q’ˤano magalun hunixor ererno, iday maħor oqno.
+Gloss: mother-ERG say-PST.PRT word-PL-TOP heart-LAT be.enough IV.PL-become-NEG.PST.CVB old-DEF son-ERG mother-POSS.ESS two bread-TOP way-AD.LAT put-CAUS-PFV.CVB home-IN.ABL outside become-PST.UNW
+Translation: The words that the mother had spoken didn't please his heart enough, so the oldest son let the mother give two breads to him for the way and left the home.
+Sentence: Łˤono äƛirunigon hunixoza täƛru łˤeb yac’nosi, t’it’ubin roqno bełiqanez rečnoł bikorin boƛixno maħor.
+Gloss: three say-PST.PRT-DEF-CNTR way-AD.ESS-ATTR.OBL-ERG give-PST.PRT year II-eat-ANT.CVB piece-PL-TOP IV-become-PFV.CVB hunter-GEN2 vomiting-CONT.ESS snake-TOP III-appear-PFV.CVB outside
+Translation: When he ate the leaf that the third traveller gave him, the snake turned to pieces and came out through the hunter's vomiting.

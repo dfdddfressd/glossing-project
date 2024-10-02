@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mešin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mešin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mešin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zewnoƛax oc’ino halmaɣ, ceyn, ɣʷˤadin, cek’eryon, elbon, onočun, mat’in, ʕomoyn, mešin, cek’in, ƛelin.
+Gloss: be.NPRS-PST.UNW-QUOT ten friend eagle-and crow-and sparrow-and pigeon-and hen-and duck-and donkey-and bull.calf-and goat.kid-and lamb-and
+Translation: Once there were ten friends: An eagle, a crow, a sparrow, a pigeon, a hen, a duck, a donkey, a bull calf, goat kid and a lamb.
+Sentence: Xizaɣor ʕomoyn mešin gurow reynoynanu.
+Gloss: finally donkey-and bull.calf-and except III.PL-work-PFV.CVB-NEG
+Translation: Finally, only the donkey and the calf were working.
+Sentence: Sosisi ʕomoyn, mešin ričäsi zown regirxanuƛin, mežan ela riłetow eƛnoqor ħadurłi roda yałiƛin.
+Gloss: at.first-LNK donkey-and bull.calf-and III.PL-remain-RES.PRT be.NPRS-PFV.CVB III.PL-let-IPFV.CVB-NEG-QUOT you.PL-ERG-TOP we-ERG III.PL-as-EMPH winter-POSS.LAT preparation IV-do-INF else-QUOT
+Translation: At first, the donkey and the calf remained not letting them in: "You must as well, just like us, make preparation for the winter!"
+
+Approximate Matches:
+Sentence: Boc’ä keč’ qˤaƛa baybik bodin, dalay, dalay sida bogmor ʕomoy, dalay, dalay sidagon bogmor mamalay, sidenigon bogmor k’et’un, mešinƛin.
+Gloss: wolf.PL-ERG song sing-INF begin III-do-PST.UNW dalay dalay one.OBL meal-LAT donkey dalay dalay one.OBL-CNTR meal-LAT rooster other-CNTR meal-LAT cat-and bull.calf-and-QUOT
+Translation: The wolves began to sing a song: "Dalay, dalay, a donkey for one meal; dalay, dalay, a rooster for another meal; and a cat and a calf for yet another meal."

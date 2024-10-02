@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: insanqo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": insanqo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word insanqo:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hoboy di šebi rodanƛin?”, - eƛin nesä bet’urno aluk’anigon heneš bac’nosi, yeda yałru insanƛ’or utin.
+Gloss: now me what IV-do-FUT.DEF-QUOT - say-PFV.CVB DEM1.ISG.OBL-ERG III-pull.out-PFV.CVB white-DEF-CNTR apple III-eat-ANT.CVB DEM2.ISG be-PST.PRT human-SUPER.LAT turn-PST.UNW
+Translation: What shall I do now?", he said, plucked a white apple this time, ate it and turned into the human that he was.
+Sentence: Tełäzay teqxo där, šida mi dey kid yaqˤuł nece kʷat’izi yoqäƛin, insanzo mecrexor eƛix.
+Gloss: inside-IN.ABL.DIST hear-IPFV.CVB me-LAT why you me-GEN1 daughter today so.much be.late II-become-PST.WIT.INT-QUOT human-GEN2 language-AD.LAT say-PRS
+Translation: I was hearing from inside: "Why are you, my daughter, so late today?", said in a human voice.
+Sentence: Łˤono äƛiruni bełiqa qˤaƛin, insan esunäy roži roɣo, bełi besunäy ela c’eruc’a caƛixƛin.
+Gloss: three ORD-DEF hunter-ERG shout-PFV.CVB human find-CND.CVB word IV-take.away-IMPR deer III-find-CND.CVB we(I).OBL-ERG bow shoot.with-PRS-QUOT
+Translation: The third hunter shouted: "If you are a human, say something; if you are an animal, we will shoot you with the bow!"

@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: raładyołäzay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": raładyołäzay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word raładyołäzay:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Gamiƛ’no zown žedu raładyołäza bik’a bayx zown.
+Gloss: boat-SUPER.ESS-TOP ride-PFV.CVB DEM1.IPL sea-CONT.VERS.DIST I.PL-go-INF I.PL-must-IPFV.CVB be.NPRS-PST.UNW
+Translation: On a boat they had to cross the sea.

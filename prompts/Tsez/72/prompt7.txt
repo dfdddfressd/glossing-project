@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ric’ali.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ric’ali
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ric’ali:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: C’iɣruk’ä xizyogon ħukmu bodix aždaħes mesedyos teł ric’alini sabani rok’ek’a.
+Gloss: Tsighruk-ERG then decision III-do-PRS dragon-GEN1 gold-GEN1 inside IV-fill-ATTR-DEF blanket IV-steal-INF
+Translation: Tsighruk then decided to steal the blanket filled with the dragon's gold.
+Sentence: Sisini łäs ric’alini sikno roƛik’no, žeduqor ħaƛa teƛno.
+Gloss: other-DEF water-GEN1 IV-fill-ATTR-DEF waterskin-TOP IV-pull.out-PFV.CVB DEM1.IPL-POSS.LAT drink-INF give-PST.UNW
+Translation: He pulled out a skin filled with water and gave it to them to drink.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bik’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bik’in: 
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Howlo lilyoxtow yedan xecin, xanderno bik’in ziru c’ok’inayn:
+Gloss: there river.bank-AD.ESS-EMPH DEM2.ISG-and leave-PFV.CVB khan-APUD.LAT-and I.PL-go-PFV.CVB fox scold-PST.UNW
+Translation: When they left the river bank there and went to the king, the fox scolded:
+Sentence: Nełquł sasaq č’ˤurqotow bizin onoču qaciƛ’or bik’in.
+Gloss: on.that.day tomorrow in.the.morning-EMPH III-get.up-PFV.CVB hen firewood-SUPER.LAT III-go-PST.UNW
+Translation: The next day, in the early morning, the hen got up and went after firewood.
+
+Approximate Matches:
+Sentence: Zamanałäy neła ɣˤanazas xediwn, nesisgon užin ozno bižin ƛˤoreł bik’inosi, nełar retäsi zown best’alawni kid elo iday yok’ek’anix.
+Gloss: time-CONT.ABL DEM1.IISG.OBL woman-GEN1 husband-and DEM1.ISG.OBL-GEN1-CNTR son-and army-and I.PL-lead-PFV.CVB war-CONT.ESS I.PL-go-ANT.CVB DEM1.IISG.OBL-LAT IV-want-RES.PRT be.NPRS-PFV.CVB step-DEF daughter there home-IN.ABL II-remove-MSD-AD.ESS
+Translation: After some time, after the woman's husband, his son and the army went to war, she wanted to remove the step-daughter from their home.
+Sentence: Boƛƛo tabanaw mix bik’inosi, Ražbadinƛ’or Tawadis kaɣat yayx, ec’noni barun yown pulanaw ɣudƛ’or Telawär horo, Tiblisä t’et’erno łiyn ayru užis berten boyxosiƛin.
+Gloss: III-middle long time III-go-ANT.CVB Razhbadin-SUPER.LAT Tavadi-GEN1 letter II-come-IPFV.CVB new-DEF wife-TOP II-bring-PFV.CVB a.certain day-SUPER.LAT Telavi-IN.LAT come.IMPR Tbilisi-IN.ESS learn-PFV.CVB end-PFV.CVB come-PST.PRT son-GEN1 marriage III-do-PRS.PRT-QUOT
+Translation: After quite a long time has passed, a letter from Tavadi came to Razhbadin: "Come to Telavi on a certain day and bring your new wife; we are preparing the marriage of my son who came from finishing his studies in Tbilisi."
+Sentence: Nełƛ’ay soder halmaɣza sida sidƛ’or kaɣatyabin caxnoanu, sidä sidderno bik’inanu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after friend-PL-ERG one.OBL-ERG one.OBL-SUPER.LAT letter-PL-TOP write-PFV.CVB-NEG one.OBL-ERG one.OBL-APUD.LAT-TOP I.PL-go-PFV.CVB-NEG
+Translation: After that, the friends didn't write any letters to each other and didn't visit each other anymore.

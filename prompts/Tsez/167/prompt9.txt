@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: esirno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": esirno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word esirno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Maħor boqnosi, bara xediwq esirno, yedu q’urec’nibin, žedaƛ’ ƛ’irisi q’ayn łasey besanƛin.
+Gloss: outside I.PL-become-ANT.CVB wife-ERG husband-POSS.ESS ask-PST.UNW DEM2.IISG mule-PL-and DEM1.IIPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT
+Translation: When they went outside, the wife asked her husband: "Whose might those mules and the wares on them be?"
+Sentence: Ɣˤutkun, ƛen rodin łiyzaƛ’, žoyä eniw k’ox äƛirugon kidno esirno xander yegirno.
+Gloss: house-and bridge-and III.PL-do-PFV.CVB end-CSL.CVB boy-ERG mother twice ORD-CNTR girl-TOP ask-PFV.CVB khan-APUD.LAT II-send-PST.UNW
+Translation: When the house and the bridge were finished, the boy sent his mother to the king a second time to ask for the girl.
+Sentence: Ox̌oyoƛin łu eƛäƛin, esirno yisi žek’a yiziq.
+Gloss: Ohoyo-QUOT who.ERG say-PST.WIT.INT-QUOT ask-PST.UNW DEM2.ISG.OBL man-ERG DEM2.IPL-POSS.ESS
+Translation: "Who said Ohoyo?", that man asked him.
+
+Approximate Matches:
+Sentence: Łinaqey ža ʕiyayxƛin žas eniya esirnosi, yisir dowqosi pardagi retinƛin eƛin.
+Gloss: what.OBL-POSS.ABL DEM1.SG cry-PRS-QUOT boy-GEN1 mother-ERG ask-ANT.CVB DEM2.ISG.OBL-LAT you-POSS.ESS-ATTR scarf IV-want-PST.UNW-QUOT say-PST.UNW
+Translation: When the boy's mother asked: "Why does he cry?", she said: "He wants your scarf."
+Sentence: K’ox äƛirugon mekoyn iguni halmaɣä biša esirnosi, nesä inkar boyn, deber di sosi neƛinč’aƛin.
+Gloss: twice ORD-CNTR be.hungry-PFV.CVB good-DEF friend-ERG food ask-ANT.CVB DEM1.ISG.OBL-ERG rejection III-do-PST.UNW you-LAT me at.first give-NEG.PST.WIT-Q-QUOT
+Translation: When the good friend was hungry for the second time, he asked for food, but he [the other one] rejected: "Didn't I give you something first?"
+Sentence: Neła quł sasaqtow ža ɣˤanabi bašiqˤoyn koyär risno rukarxo bazarya yäčizay, ayn sida užä nełas baha šebiƛin esirnosi, neła debeq yiłas baha bäzinč’iƛin eƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH DEM1.SG woman ring-TOP hand-IN.LAT IV-take-PFV.CVB IV-show-IPFV.CVB bazar-IN.ESS II-be-SIM.CVB come-PFV.CVB one.OBL boy-ERG DEM1.IISG.OBL-GEN1 price what-QUOT ask-ANT.CVB DEM1.IISG.OBL-ERG you-POSS.ESS DEM2.IISG.OBL-GEN1 price III-get-NEG.FUT-QUOT say-PST.UNW
+Translation: The next day in the morning, the woman was showing around the ring on her hand, and while being on the market, a boy came and asked: "What's its price?"; she said: "You won't afford its price."

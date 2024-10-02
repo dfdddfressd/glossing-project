@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: aderzoni.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": aderzoni
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word aderzoni:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yaqˤułno yołƛax Bac’ali aderzoxortow čanyabi kikix, sasaq roxirno, neširaɣor žedar žedu rayn.
+Gloss: today-TOP be-QUOT Batsali forward-ATTR.OBL-AD.LAT-EMPH she.goat-PL feed-IPFV.CVB in.the.morning III.PL-chase-PFV.CVB evening-IN.VERS DEM1.IIPL.OBL-LAT DEM1.IIPL III.PL-come-PST.UNW
+Translation: Today, it's said, Batsali is living just as before feeding the goats, chased the in the morning and they came back towards the evening by themselves.
+Sentence: Neširur ža aderzotow sida šušuliłäsi aɣˤuxor aynosi, sasaqor howlotow ičanix ħukmu boqxo.
+Gloss: evening-LAT DEM1.SG forward-GEN2-EMPH one.OBL demolish-POT-RES.PRT mill-AD.LAT come-ANT.CVB in.the.morning-POSS.LAT there-EMPH wait-MSD-AD.ESS decision III-become-PRS
+Translation: By the evening he came to a demolished mill and decided to wait there until morning.
+Sentence: Xizyo eniwn, užin aderzoxortow miskinłiƛ’or bayn.
+Gloss: afterwards mother-TOP son-TOP earlier-ATTR.OBL-AD.LAT-EMPH poverty-SUPER.LAT III-come-PFV.CVB
+Translation: Afterwards the mother and the son lived poor again.

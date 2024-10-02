@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Eɣeni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Eɣeni: 
+
+Exact Matches
+Sentence: Nełde idur baynosi, šakno oqno eɣeni esiya kidbeq ħaƛanix łi esiro.
+Gloss: DEM1.IISG.OBL-APUD.ESS home-LAT I.PL-come-ANT.CVB suspicion-TOP become-PFV.CVB young-DEF brother-ERG girl-POSS.ESS drink-MSD-AD.ESS water ask-IMPR
+Translation: When they came to the house where she was, the youngest brother became suspicious and asked the girl if she wanted to drink some water.
+Sentence: Howži ža ɣamasno hokomƛ’o erno, eɣeni esiw xanes kid yałruni qalamxaɣor ik’in.
+Gloss: now DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB young-DEF brother khan-GEN1 daughter be-PST.PRT-DEF fortress-AD.VERS go-PST.UNW
+Translation: Now they put the box onto a carriage and the young brother went to the fortress where the king's daughter was.
+Sentence: Baq’ˤu mix bik’izaƛ’ortow, eɣeni esiwr teqxo xabar, yisiz eženi esiws cudi nukarza c’unzi bodix sida qunyox yołƛin.
+Gloss: III-much time III-go-POST.CVB-EMPH young-DEF brother-LAT hear-PRS story DEM2.ISG.OBL-GEN2 old-DEF brother-GEN1 corpse henchman-PL-ERG guard I.PL-do-IPFV.CVB one.OBL farmstead-AD.ESS be-QUOT
+Translation: Before much time has passed, the younger brother was hearing the story that his older brother's corpse was at a farmstead being guarded by henchman.
+
+Approximate Matches:
+Sentence: ʕAƛaza ec’no xabar šebiƛin yisä esirnosi, sida maduhalä esin, xanez yeɣeni kidbeƛäy bitor sidä sis esnabi bexursiƛin.
+Gloss: village-IN.VERS.DIST new story what-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB one.OBL neighbor-ERG tell-PST.UNW khan-GEN2 II-young-DEF daughter-SUB.ABL because.of one.OBL-Q one brother-PL I.PL-kill-PST.WIT-QUOT
+Translation: When he asked: "What's new in the village?", a neighbor told: "The brothers killed each other because of the king's youngest daughter."
+Sentence: Łˤonon žedu rukaynosi, yeɣeni kid yezun ƛexun, yizigon nazay t’or keze roqäƛin.
+Gloss: three-TOP DEM1.IPL II.PL-see-ANT.CVB II-young-DEF girl II-look-PFV.CVB remain-PFV.CVB DEM2.IPL-CNTR from.where here-LAT meet II.PL-become-PST.WIT.INT-QUOT
+Translation: When the young girl saw the three of them, it remained looking [surprised] and asked, where they had come from.
+Sentence: Yeɣeni kidbeq esirnosi yołi, deber rätiru zamanał mi äƛiru šebin roda ħaduraw di yołƛin, eniwqor eƛin.
+Gloss: II-young-DEF daughter-POSS.ESS ask-ANT.CVB however you-LAT IV-want-PST.PRT time-CONT.ESS you say-PST.PRT thing IV-do-INF prepared me be-QUOT mother-POSS.LAT say-PST.UNW
+Translation: When she asked the youngest daughter, she said to her mother: "I'm ready to do whatever you say, whenever you want."

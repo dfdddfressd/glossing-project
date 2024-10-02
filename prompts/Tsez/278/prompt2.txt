@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nesiz in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nesiz: 
+
+Exact Matches
+Sentence: Xizor utin Pat’imatno yižin nesä nesiz ʕaƛaɣorno ik’in, mi däƛ’ay ʕaq’ilawn, c’odorawn zownƛin xanłin nełaqor teƛno žan paraxat ičin.
+Gloss: back turn.back-PFV.CVB Fatima-TOP II-lead-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 village-IN.VERS-TOP go-PST.UNW you me-SUPER.ABL intelligent-and clever-and be.NPRS-PST.UNW-QUOT khanate-TOP DEM1.IISG.OBL-POSS.LAT give-PST.UNW DEM1.SG-TOP calmly live-PST.UNW
+Translation: He returned with Fatima into his own village: "You are more intelligent and cleverer than me!", gave her the kingdom and lived calmly ever after.
+Sentence: Sida bečedaw žek’uderno ik’in, nesiz k’udoz baɣman eynoyn, micxirno bodin, bižin babiwqor teƛno.
+Gloss: one.OBL wealthy man-APUD.LAT-TOP go-PFV.CVB DEM1.ISG.OBL-GEN2 vine-GEN2 garden-IN.ESS-TOP work-PFV.CVB money-TOP III-do-PFV.CVB III-carry-PFV.CVB father-POSS.LAT give-PST.UNW
+Translation: He went to a wealthy man, worked on his vineyard, earned money and carried it to give it to his father.
+Sentence: Xizyogon urɣizi oqno xan, c’ohores q’ˤim anunč’uruni cudi sidaɣ qunyoxorno bayran, nesiz ʕagarłä ža šudał šušanix elay bižinč’ey xäcinč’i, hemełƛ’o där šebi ža c’ohor yałrun äyƛin.
+Gloss: then thinking become-PST.UNW khan thief-GEN1 head be.NEG-NEG.PST.WIT-PST.PRT-DEF corpse in.one.place farmstead-AD.LAT-TOP III-bring-FUT.CVB DEM1.ISG.OBL-GEN2 relatives-ERG DEM1.SG graveyard-CONT.ESS bury-MSD-AD.ESS there-IN.ABL III-carry-NEG.PST.CVB leave-NEG.FUT DEM4.IISG.OBL-SUPER.ESS me-LAT who DEM1.SG thief be-PST.PRT-TOP know-QUOT
+Translation: Then the king pondered: "I will bring the thief's headless corpse to the farmstead, his relatives won't leave without taking him from there to bury him on a graveyard."
+
+Approximate Matches:
+Sentence: Hudun beže taliħ boqsi: nesiztow hunaryoƛ’aza lilyoxaɣor ok’ełsi.
+Gloss: nevertheless III-big fortune III-happen-PST.WIT DEM1.ISG.OBL-GEN2-EMPH talent-SUPER.VERS.DIST river.bank-AD.VERS escape-PST.WIT
+Translation: Nevertheless, the luck was on his side: Because of his talent, he escaped to the river bank.
+Sentence: Xizyo neła eƛin, bik’anon bik’in debi mi mec bitir nesizoq, riya rodanixgon nesis hibon bisno däqor baƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG say-PST.UNW III-go-INF-TOP III-go-PFV.CVB you-GEN1 you tongue III-touch DEM1.ISG.OBL-ATTR.OBL-POSS.ESS IV-know-INF IV-do-MSD-AD.ESS-CNTR DEM1.ISG.OBL-GEN1 stick-TOP III-take-PFV.CVB me-POSS.LAT III-bring.IMP-QUOT
+Translation: Then she said: "Go, go, and touch his tongue with yours, and take his stick and bring it to me so I can mark it."
+Sentence: Kidbezno, baruzno, nesizno bok’nosigon, žedułäy ħalaq’awt’a ʕomoybi roqno.
+Gloss: daughter-GEN2-TOP wife-GEN2-and DEM1.ISG.OBL-GEN2-and III-beat-ANT.CVB-CNTR DEM1.IPL-CONT.ABL thin-DISTR donkey-PL III.PL-become-PST.UNW
+Translation: And after cracking also [for?] his daughter, his wife and himself, they became thin donkeys.

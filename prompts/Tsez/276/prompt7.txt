@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word oxerno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word oxerno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Išamt’a bisxo caƛin, łoxnon łox c’oxerno.
+Gloss: aim-DISTR III-take-IPFV.CVB throw-PFV.CVB thrice-INT thrice hit-CAUS-PST.UNW
+Translation: Taking aim each time he threw, he hit it three times in a row.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rodan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rodan: 
+
+Exact Matches
+Sentence: Xizyo nesä Ražbadinqor eƛin, riynč’ey raqru łinarno šebin rodan.
+Gloss: afterwards DEM1.ISG.OBL-ERG Razhbadin-POSS.LAT say-PST.UNW IV-know-NEG.PST.CVB IV-happen-PST.PRT what.OBL-LAT-TOP thing IV-do-FUT.DEF
+Translation: Then he said to Razhbadin: "This happened by accident, what shall we do?"
+Sentence: Bilq’isdä dibirqor eƛin, mežur di ʕaƛos xanłi rodan, žamaʕatyo di äƛiru łˤono šebin rodanix ƛ’iri risnäyƛin.
+Gloss: Bilqisdi-ERG imam-POSS.LAT say-PST.UNW you(I).PL.OBL-LAT me village-GEN1 khanship IV-do-FUT.DEF population-ERG me say-PST.PRT three thing IV-do-MSD-AD.ESS on IV-take-CND.CVB-QUOT
+Translation: Bilqisdi said to the imam: "I will take over the kingship over the village for you all, if the population does the three things that I say."
+Sentence: Yoƛozoni esiya eƛin, däqor at’es sis saħ neƛnäy, debez ozyortow ʕeze roqace magalabi rodan diƛin.
+Gloss: II-middle-ATTR.OBL-DEF sister-ERG say-PST.UNW me-POSS.LAT wheat-GEN1 one sah give-CND.CVB you-GEN2 army-LAT-EMPH be.enough III.PL-become-TERM bread-PL III.PL-do-FUT.DEF me-QUOT
+Translation: The middle sister said: "If you give me one sah of wheat, I will make breads enough for your army."
+
+Approximate Matches:
+Sentence: Xizyo neła eƛin, bik’anon bik’in debi mi mec bitir nesizoq, riya rodanixgon nesis hibon bisno däqor baƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG say-PST.UNW III-go-INF-TOP III-go-PFV.CVB you-GEN1 you tongue III-touch DEM1.ISG.OBL-ATTR.OBL-POSS.ESS IV-know-INF IV-do-MSD-AD.ESS-CNTR DEM1.ISG.OBL-GEN1 stick-TOP III-take-PFV.CVB me-POSS.LAT III-bring.IMP-QUOT
+Translation: Then she said: "Go, go, and touch his tongue with yours, and take his stick and bring it to me so I can mark it."
+Sentence: Elo yizi xexza žeda žedur ɣˤutku rodanix ros bič’a bašla bodin.
+Gloss: there DEM2.IPL.OBL children-ERG DEM1.IPL.OBL-ERG DEM1.IPL.OBL-LAT house IV-do-MSD-AD.ESS base III-dig-INF begin III-do-PST.UNW
+Translation: There these children began to dig a base for building a house for themselves.
+Sentence: Howžiƛa rˤałay roda zaman bayxƛin Alimaħama ciqaɣor ik’in, isʷaqor reƛ’u rodanix c’araʕyor qaca rowanixƛin.
+Gloss: now-INDEF threshing.floor IV-do-INF time III-come-PRS-QUOT Alimagomed-ERG forest-IN.VERS go-PST.UNW bull-PL-POSS.LAT yoke IV-do-MSD-AD.ESS building.material-LAT firewood IV-bring-MSD-AD.ESS-QUOT
+Translation: "Now it's time to do the threshing.", Alimagomed thought and went into the forest to bring wood for building the yoke for the bulls.

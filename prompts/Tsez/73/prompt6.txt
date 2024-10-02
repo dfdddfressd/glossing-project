@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: izix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": izix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word izix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža soder iziƛ’oräy, qoqoƛix izix zown, wˤałer oqƛ’oräy ʕiyayx oqxo zown.
+Gloss: DEM1.SG after get.up-SIM.CVB laugh-IPFV.CVB get.up-IPFV.CVB be.NPRS-PFV.CVB downward-LAT become-SIM.CVB cry-IPFV.CVB become-IPFV.CVB be.NPRS-PST.UNW
+Translation: While he was going up, he laughed, and while he was going down, he cryed.
+Sentence: Ža kaɣat t’et’ernosi, Tawadi igtow ɣˤaɣˤu izix.
+Gloss: DEM1.SG letter read-ANT.CVB Tavadi very-EMPH be.happy get.up-PRS
+Translation: When Tavadi read the letter, he became very happy.
+
+Approximate Matches:

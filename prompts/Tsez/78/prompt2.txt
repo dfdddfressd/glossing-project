@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: neside.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": neside
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word neside:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanłi koyär riqinosi, Kusa žedu łˤonon esnabi nesä neside ust’arbiłun xecin, žedus eɣeni esiw hič’č’a adäsi nesis ʕaq’lus žek’ułun odin.
+Gloss: khanship hand-IN.LAT IV-get-ANT.CVB Kusa-ERG DEM1.IPL three-TOP brother-PL DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.ESS master-PL-LHUN leave-PFV.CVB DEM1.IPL.OBL-GEN1 young-DEF brother the.most in.front-RES.PRT DEM1.ISG.OBL-GEN1 advice-GEN1 man-LHUN do-PST.UNW
+Translation: When Kusa had the kingship in his hands, he named the three brothers masters for himself and named the youngest brother his foremost advisor.
+Sentence: Encegon elo neside mušin begirno, ader ħumukulibin roɣno, hunix yizin boqno.
+Gloss: a.little-CNTR there DEM1.ISG.OBL-APUD.ESS air-TOP III-let-PFV.CVB forward camel-PL-TOP III.PL-take.away-PFV.CVB way-AD.ESS DEM2.IPL-TOP I.PL-become-PST.UNW
+Translation: They rested with him there for a little while and then began to drive on their camels and got on their way.
+Sentence: Kid neside igor yayrun, užä nełqay ħošos šeƛ’un roɣno mesedyos bašiqˤoy ernosi, adäyzoƛ’aygon bercinaw ža užir yukayn.
+Gloss: girl DEM1.ISG.OBL-APUD.ESS near-LAT II-come-IMM.ANT.CVB boy-ERG DEM1.IISG.OBL-POSS.ABL hide-GEN1 clothing-TOP IV-take.away-PFV.CVB gold-GEN1 ring put-ANT.CVB earlier-ATTR.OBL-SUPER.ABL-CNTR beautiful DEM1.SG boy-LAT II-see-PST.UNW
+Translation: When the girl came to him, the boy took off her hide-clothes and put the golden ring on her, and the boy saw that she was much more beautiful than before.
+
+Approximate Matches:
+Sentence: Hemełaqułtow ža uži ayrno nesider.
+Gloss: that.day-CONT.ESS-EMPH DEM1.SG boy bring-PST.UNW DEM1.ISG.OBL-APUD.LAT
+Translation: On this very day, the boy was brought to him.
+Sentence: Naysinan nesider bayx zown: beɣen, bežen, miskinawnin bečedawnin.
+Gloss: everywhere DEM1.ISG.OBL-APUD.LAT III-come-PRS be.NPRS-PFV.CVB III-young-TOP III-old-TOP poor-DEF-TOP wealthy-DEF-TOP
+Translation: All people came to him: young and old, poor and wealthy.
+Sentence: Roƛxosi ahli nesider režigon raq’u raya roqno.
+Gloss: IV-be.sick-PRS.PRT people DEM1.ISG.OBL-APUD.LAT IV-more-CNTR IV-much IV-come-INF IV-become-PFV.CVB
+Translation: And more sick people began to come to him.

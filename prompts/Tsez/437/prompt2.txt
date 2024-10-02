@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xanez in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xanez: 
+
+Exact Matches
+Sentence: ʕAƛaza ec’no xabar šebiƛin yisä esirnosi, sida maduhalä esin, xanez yeɣeni kidbeƛäy bitor sidä sis esnabi bexursiƛin.
+Gloss: village-IN.VERS.DIST new story what-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB one.OBL neighbor-ERG tell-PST.UNW khan-GEN2 II-young-DEF daughter-SUB.ABL because.of one.OBL-Q one brother-PL I.PL-kill-PST.WIT-QUOT
+Translation: When he asked: "What's new in the village?", a neighbor told: "The brothers killed each other because of the king's youngest daughter."
+Sentence: Hudayziko xanez kidbä neła nełas ɣarabaš yezu-yoƛ’ˤanix łeno minutno beč’no bazaryaɣor yegirno.
+Gloss: the.next.day khan-GEN2 daughter-ERG DEM1.IISG.OBL DEM1.IISG.OBL-GEN1 servant II-examine-MSD-AD.ESS five minute-TOP III-cut-PFV.CVB bazar-IN.VERS II-send-PST.UNW
+Translation: The next day, the princess sent her own servant to the market for five minutes to have a look.
+Sentence: Yeda bełiƛ’ ik’a aqzay soder xanez nukarzaskin bełis bax bexun.
+Gloss: DEM2.ISG hunting-SUPER.ESS go-INF begin-SIM.CVB after khan-GEN2 henchman-PL-GEN1-even hunting-GEN1 success III-die-PST.UNW
+Translation: After he began to go hunting, even the king's henchmen's hunting luck deteriorated.
+
+Approximate Matches:
+Sentence: Yedu mat’i di ciqez xaner bižix, sis miƛ’in bown min horoƛin”.
+Gloss: DEM2.IISG duck me forest-GEN2 khan-LAT III-carry-PRS one ram-TOP III-get-PFV.CVB you-TOP go.IMPR-QUOT
+Translation: "I am carrying this duck to the king of the forest, go get a ram!"
+Sentence: Neł mixƛ’o žoyä ʕansa begirno, xanes sadaq askar t’it’oƛin.
+Gloss: DEM1.IISG.OBL time-SUPER.ESS boy-ERG walking.stick III-send-PST.UNW khan-GEN1 all army destroy-IMPR-QUOT
+Translation: At this time, the boy sent his walking stick: "Destroy the king's entire army!"
+Sentence: Elo yiła xaner bokon, k’ukno baqˤun.
+Gloss: there DEM2.IISG.OBL-ERG khan-LAT fur.coat-TOP cap-TOP III-sew-PFV.CVB
+Translation: There she sewn a fur coat and a cap for the king.

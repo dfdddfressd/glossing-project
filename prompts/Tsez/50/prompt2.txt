@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rowanixƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rowanixƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rowanixƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howžiƛa rˤałay roda zaman bayxƛin Alimaħama ciqaɣor ik’in, isʷaqor reƛ’u rodanix c’araʕyor qaca rowanixƛin.
+Gloss: now-INDEF threshing.floor IV-do-INF time III-come-PRS-QUOT Alimagomed-ERG forest-IN.VERS go-PST.UNW bull-PL-POSS.LAT yoke IV-do-MSD-AD.ESS building.material-LAT firewood IV-bring-MSD-AD.ESS-QUOT
+Translation: "Now it's time to do the threshing.", Alimagomed thought and went into the forest to bring wood for building the yoke for the bulls.
+Sentence: Žeduł teł yałru hič’č’a bexorani bˤeliz ɣunä eƛix teqno, šet’urtow yałru ažomzas ʕadlu däq boqxo, sistow sis yałru barus ʕadlun boqinč’ey, yeda ʕabdal ħonƛ’aɣor ik’ix, nesä nesił xizay rexada šebin rowanixƛin.
+Gloss: DEM1.IIPL.OBL-CONT.ESS inside be-PST.PRT the.most lengthy-DEF poplar-GEN2 tree-ERG say-IPFV.CVB hear-PST.UNW around-EMPH be-PST.PRT tree-PL-GEN1 order me-POSS.ESS III-become-PRS one-EMPH one be-PST.PRT wife-GEN1 order-TOP III-become-NEG.PST.CVB DEM2.ISG fool mountain-SUPER.VERS go-IPFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-CONT.ESS behind IV-slaughter-INF thing IV-bring-MSD-AD.ESS-QUOT
+Translation: And he heard the highest poplar trees saying among themselves: "I can control the trees that are around me, but this fool cannot even control the single wife that he has, and he is going onto the mountain to bring something to slaughter after himself."
+
+Approximate Matches:
+Sentence: Užä žawab teƛno, där retin Beqes ʕUneyzat barułun yowanixƛin.
+Gloss: boy-ERG answer give-PST.UNW me-LAT IV-want-PST.UNW sun-GEN1 Uneyzat wife-LHUN II-marry-MSD-AD.ESS-QUOT
+Translation: The boy answered: "I wanted to marry Sun's Uneyzat."
+Sentence: Łˤono äƛiru ɣudƛ’ogon xanä łˤonoqu nukar egirno ayrno, q’ˤanon esnabin, Beqes ʕUneyzatno sadaq yowanixƛin.
+Gloss: three ORD day-SUPER.ESS-CNTR khan-ERG sixty henchman send-PFV.CVB call-PST.UNW two-TOP brother-PL-and sun-GEN1 Uneyzat-and together II-bring-MSD-AD.ESS-QUOT
+Translation: On the third day, the king sent sixty henchmen and let them bring the two siblings and Sun's Uneyzat.

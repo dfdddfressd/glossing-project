@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’ʷaridaw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’ʷaridaw: 
+
+Exact Matches
+Sentence: Neła qułno idur q’ʷaridaw yeda ayzaƛ’, bara esirno, yaqˤułgon łinax q’ʷarid oqnoƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS-TOP home-LAT sad DEM2.ISG come-CSL.CVB wife-ERG ask-PST.UNW today-CNTR how sadness become-PST.UNW-QUOT
+Translation: That day, because he came home said, his wife asked: "Why did you come home sad today as well?"
+
+Approximate Matches:
+Sentence: Žedu nexxo bukaynosi, yeda neł ixinoxorno oqno ʕuraw q’ʷaridno oqno ičin.
+Gloss: DEM1.IPL come-IPFV.CVB I.PL-see-ANT.CVB DEM2.ISG DEM1.IISG.OBL bag-AD.LAT-TOP become-PFV.CVB very sadness-TOP become-PFV.CVB be-PST.UNW
+Translation: When he saw them coming, he came next to that bag and became very sad.
+Sentence: Hemedur q’ʷaridno oqno ičin zawru yeda, babiya nesiqor boyn zawruni wasiyat rok’ƛ’or bayn.
+Gloss: so sadness-TOP become-PFV.CVB be-PFV.CVB be.NPRS-PST.PRT DEM2.ISG father-ERG DEM1.ISG.OBL-POSS.LAT III-do-PFV.CVB be.NPRS-PST.PRT-DEF legacy heart-SUPER.LAT III-come-PST.UNW
+Translation: So, being so sad, he recalled the legacy handed down to him by his father.
+Sentence: Bełiƛ’ay xizor utin idur aynosi, hemedurtow yisir q’ʷaridno yoqno yičäsi esiw yesun.
+Gloss: hunting-SUPER.ABL back return-PFV.CVB home-LAT come-ANT.CVB so-EMPH DEM2.ISG.OBL-LAT sad-TOP II-become-PFV.CVB II-be-RES.PRT sister II-find-PST.UNW
+Translation: When he came back home from hunting, he found his sister once again being sad.

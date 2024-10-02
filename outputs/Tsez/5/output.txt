@@ -1,0 +1,168 @@
+{
+  "word": "Sida",
+  "glosses": [
+    "one.OBL",
+    "one",
+    "one.OBL"
+  ]
+}
+{
+  "word": "quł",
+  "glosses": [
+    "one.OBL",
+    "day-CONT.ESS",
+    "evening"
+  ]
+}
+{
+  "word": "užä",
+  "glosses": [
+    "take.out",
+    "remove",
+    "bring out"
+  ]
+}
+{
+  "word": "neširaɣor",
+  "glosses": [
+    "evening-IN.VERS",
+    "night-IN.VERS",
+    "dusk-IN.VERS"
+  ]
+}
+{
+  "word": "indowribin",
+  "glosses": [
+    "turkeys-PL-AD.ESS",
+    "turkey-PL-GEN2",
+    "turkey-PL-AD.ESS-ATTR"
+  ]
+}
+{
+  "word": "rayrno",
+  "glosses": [
+    "IV-bring-PFV.CVB",
+    "III-bring-PFV.CVB",
+    "bring-PFV.CVB"
+  ]
+}
+{
+  "word": "čantay",
+  "glosses": [
+    "pocket",
+    "in",
+    "superessive"
+  ]
+}
+{
+  "word": "t’akanno",
+  "glosses": [
+    "glass",
+    "cup",
+    "vessel"
+  ]
+}
+{
+  "word": "yisno",
+  "glosses": [
+    "II-take-PFV.CVB",
+    "II-take-PFV.CVB",
+    "II-take-PFV.CVB"
+  ]
+}
+{
+  "word": "eƛin",
+  "glosses": [
+    "DEM1.IISG.OBL-POSS.LAT",
+    "DEM1.ISG.OBL-ERG",
+    "DEM1.ISG.OBL-GEN1"
+  ]
+}
+{
+  "word": "howt’o",
+  "glosses": [
+    "come-PFV.CVB",
+    "come-PST.WIT-QUOT",
+    "come-PST.UNW"
+  ]
+}
+{
+  "word": "mečoƛ",
+  "glosses": [
+    "place-SUPER.ESS",
+    "place-SUPER.LAT",
+    "place-SUPER.LAT"
+  ]
+}
+{
+  "word": "ɣˤutkun",
+  "glosses": [
+    "house",
+    "dwelling",
+    "building"
+  ]
+}
+{
+  "word": "elo",
+  "glosses": [
+    "bring-PST.PRT",
+    "take-PST.PRT",
+    "carry-PST.PRT"
+  ]
+}
+{
+  "word": "teł",
+  "glosses": [
+    "inside",
+    "within",
+    "interior"
+  ]
+}
+{
+  "word": "rigu",
+  "glosses": [
+    "house",
+    "home",
+    "dwelling"
+  ]
+}
+{
+  "word": "ist’owlin",
+  "glosses": [
+    "table",
+    "on the table",
+    "at the table"
+  ]
+}
+{
+  "word": "nełaqgon",
+  "glosses": [
+    "DEM1.IISG.OBL-POSS.ESS-CNTR",
+    "DEM1.IISG.OBL-POSS.ESS",
+    "DEM1.IISG.OBL-POSS.ESS-CNTR"
+  ]
+}
+{
+  "word": "šet’ur",
+  "glosses": [
+    "around",
+    "around it",
+    "around"
+  ]
+}
+{
+  "word": "q’ˤuribin",
+  "glosses": [
+    "chair",
+    "seat",
+    "throne"
+  ]
+}
+{
+  "word": "roqoƛƛin",
+  "glosses": [
+    "glass-GEN1",
+    "glass-AND",
+    "glass-POSS.LAT"
+  ]
+}

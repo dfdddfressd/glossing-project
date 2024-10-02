@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word oc’ino in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word oc’ino: 
+
+Exact Matches
+Sentence: Nediwt’a t’as elzox oc’ino bäsuƛin”.
+Gloss: such-DISTR washbowl we(II-ATTR.OBL-AD.ESS ten III-exist-QUOT
+Translation: "We have ten of such washbowls."
+Sentence: Ħumukuliƛ’ ƛ’iräy riguƛ’ay rigu šeƛ’un roɣno, žan aħoziqor teƛno eƛin, nagaħ howt’aza oc’ino žek’un, łeno waranin boƛixnäy, šebi roynon žedu mi ričok’ƛin.
+Gloss: camel-SUPER.ESS from.above IV-pretty-SUPER.ABL IV-pretty clothing-TOP IV-take.away-PFV.CVB DEM1.SG-TOP shepherd-POSS.LAT give-PFV.CVB say-PFV.CVB suddenly there-IN.VERS.DIST ten man-TOP five camel-TOP III-appear-CND.CVB what IV-do-PFV.CVB-CND DEM1.IPL you detain-QUOT
+Translation: Having pulled the prettiest clothings from the camel, he gave it to the shepherd and said: "When suddenly there appear ten men with five camels, do something to detain them."
+Sentence: Hemedur di oc’ino ƛˤeb yoɣsi.
+Gloss: so me ten year II-spend.time-PST.WIT
+Translation: I spent ten years like this.
+
+Approximate Matches:
+Sentence: Elo tełer zeyn, zirun, boc’in rayn.
+Gloss: there to.the.inside bear-and fox-and wolf-and III.PL-come-PST.UNW
+Translation: There a bear, a fox and a wolf came inside.
+Sentence: Elay bitor boxin bik’ix boc’in axoł šäširuni xarcelid bix kosix, xizazgon et’unč’ey neła kasiruni bix rutirxo din ik’ix zows, neduräy žagon bˤeƛ’än rac’xo zows.
+Gloss: there-IN.ABL thither III-run.away-PFV.CVB III-go-IPFV.CVB wolf-TOP belly-CONT.ESS get.stuck-PST.PRT-DEF scythe-INSTR grass mow-IPFV.CVB behind-CNTR stay.behind-NEG.PST.CVB DEM1.IISG.OBL-ERG mow-PST.PRT-DEF grass IV-gather-IPFV.CVB me-TOP go-IPFV.CVB be.NPRS-PST.WIT so-IN.ABL DEM1.SG-CNTR sheep-ERG-TOP IV-eat-IPFV.CVB be.NPRS-PST.WIT
+Translation: From there the wolf ran away with the scythe being stuck in the belly mowing grass, but I didn't stay behind but went gathering the mowed grass; so the sheep were eating it.
+Sentence: Hudod elor zeyn, boc’in, zirun rayn.
+Gloss: at.night there-LAT bear-and wolf-and fox-and III.PL-come-PST.UNW
+Translation: At night, the bear, the wolf and the fox came there.

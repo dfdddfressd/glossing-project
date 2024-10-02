@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: roqzaƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": roqzaƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word roqzaƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nar yik’a koƛ’inč’ey, sasiw ɣudin roqzaƛ’, ža kid sasaqor ciqqotow ƛexun.
+Gloss: where II-go-INF understand.to-NEG.PST.CVB gloomy day-TOP IV-become-CSL.CVB DEM1.SG girl in.the.morning-POSS.LAT forest-POSS.ESS-EMPH remain-PST.UNW
+Translation: Not knowing where to go, and because the day became gloomy, the girl stayed in the forest until morning.
+Sentence: Posures mec nesir biyxozołäy Alimaħama łaqnokin esin anu, esinäy mi äxuƛin nesiq riyräsi roqzaƛ’ qˤayz xexoyä.
+Gloss: cattle-GEN1 language DEM1.ISG.OBL-LAT III-know-AD.ESS-ATTR.OBL-CONT.ABL Alimagomed-ERG who.OBL-POSS.ESS-TOP-even tell-PFV.CVB be.NEG tell-CND.CVB you die-QUOT DEM1.ISG.OBL-POSS.ESS IV-explain-RES.PRT IV-become-CSL.CVB hare-GEN2 young.animal-ERG
+Translation: Alimagomed told to no one about his knowing the animals' language, because the rabbit's young had explained to him: "If you tell it, you'll die!"
+Sentence: Qazaqzar roda šebinon koƛ’inč’ey, sasiw ɣudin roqzaƛ’, xizaz k’oƛin bik’iƛ’orey, yizi rešt’izi boqno Ražbadin aqˤza mečox igo.
+Gloss: Georgian-PL-LAT IV-do-INF something understand.to-NEG.PST.CVB gloomy day-TOP IV-become-CSL.CVB from.behind run-PFV.CVB I.PL-go-SIM.CVB DEM2.IPL take.a.rest I.PL-become-PFV.CVB Razhbadin hide-LCV place-AD.ESS near
+Translation: The Georgians didn't know what to do because the day got gloomy; and while running behind them they took a rest near the place where Razhbadin was hiding.
+
+Approximate Matches:
+Sentence: Łäƛ’or yäk’iru yiła kidber neł aždaħä, ƛirbar retäsi roqzaƛ’ƛin, bic’no sis tungi teƛno.
+Gloss: water-SUPER.LAT II-go-PST.PRT DEM2.IISG.OBL girl-LAT DEM1.IISG.OBL dragon-ERG guest-LAT IV-want-RES.PRT IV-happen-CSL.CVB-QUOT III-fill-PFV.CVB one copper.jug give-PST.UNW
+Translation: The dragon gave the girl that went to look for water a jug filled with water, because that happened to be what the guest wanted.

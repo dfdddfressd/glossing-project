@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mežus.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mežus
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mežus:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Pat’imatä esirno, łinałäy mežus daʕbaƛin.
+Gloss: Fatima-ERG ask-PST.UNW what.OBL-CONT.ABL you(I).PL.OBL-GEN1 dispute-QUOT
+Translation: Fatima asked: "What is your dispute about?"
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+
+Approximate Matches:
+Sentence: Ceyä eƛin, mi di bexarno, xizyo di nagon boqłin debez rigzar bäsu, mežustow kici yoł, radiru rigłi šuƛ’ixosi anuƛin.
+Gloss: eagle-ERG say-PST.UNW you me III-kill-PROHIB afterwards me where-CNTR III-become-CNC.CVB you-GEN2 IV-good-ZA-LAT III-exist you(I).PL.OBL-GEN1-EMPH proverb be IV-do-PST.PRT IV-good-NMLZ forget-PRS.PRT be.NEG-QUOT
+Translation: The eagle said: "Don't kill me! I'll will be a help for you somewhere; you have a proverb: 'A done good is not forgotten'."
+Sentence: Yiziqor doxturä eƛäsi zown, besuro bac’näy neła roƛxosi ričär mežusƛin.
+Gloss: DEM2.IPL.OBL-POSS.LAT doctor-ERG say-RES.PRT be.NPRS-PFV.CVB fish III-eat-CND.CVB DEM1.IISG.OBL IV-be.sick-PRS.PRT IV-stop you(I).PL.OBL-GEN1-QUOT
+Translation: A doctor had said to them: "If you eat fish, this will stop you from being sick."
+Sentence: Xizyo xexza esirno, eli mežusä yoł xexbi, žek’usä yołƛin.
+Gloss: afterwards children-ERG ask-PST.UNW we you(I).PL.OBL-GEN1-Q be children man-GEN1-Q be-QUOT
+Translation: Then the children asked: "Are we your children or someone else's?"

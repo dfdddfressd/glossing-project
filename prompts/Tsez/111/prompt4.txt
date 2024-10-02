@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: babiws.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": babiws
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word babiws:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Łˤono äƛiru ɣudełno, babiws ħal bayrinč’ey, besurozaƛ’or užitow ik’in.
+Gloss: three ORD day-CONT.ESS-TOP father-GEN1 strength III-bring-NEG.PST.UNW fish-PL-SUPER.LAT boy-EMPH go-PST.UNW
+Translation: And on the third day, although the father was against it, the boy went fishing nonetheless.
+Sentence: Yisiz babiws šudaƛ’osi ħimu yaganix biħun yedu.
+Gloss: DEM2.ISG.OBL-GEN2 father-GEN1 graveyard-SUPER.ESS-ATTR tombstone II-lick-MSD-AD.ESS I.PL-come.to-PST.UNW DEM2.IISG
+Translation: It came to lick the tombstone on his father's grave.
+Sentence: Yisis q’ˤano dandi ʕagaraw žek’u zown ƛexasi, babiws esiwn, nesis kid yisis yacʕalno.
+Gloss: DEM2.ISG.OBL-GEN1 two only related man be.NPRS-PFV.CVB remain-RES.PRT father-GEN1 brother-and DEM1.ISG.OBL-GEN1 daughter DEM2.ISG.OBL-GEN1 female.cousin-and
+Translation: He had only two relatives remaining, the father's brother and his daughter, his cousin.
+
+Approximate Matches:
+Sentence: Howži ʕuraw mixƛ’or ezun ičin babiw uži ayxanaƛin.
+Gloss: now much time-SUPER.LAT look-PFV.CVB be-PFV.CVB father son come-IPFV.CVB-NEG-Q-QUOT
+Translation: Now, after much time, the father was looking why his son didn't came.
+Sentence: Neła quł sasaqozoxgon ɣurox žade sadaq babiwn ik’in.
+Gloss: DEM1.IISG.OBL day-CONT.ESS early.morning-CNTR cows-AD.ESS boy-APUD.ESS together father-TOP go-PST.UNW
+Translation: The next day in the early morning, the father went together with the boy to pasture the cows.
+Sentence: ʕArabuzanä nesiqor eƛin, babiwz rok’ƛ’o yoł deber ħilla bodanix, gaƛ’izar ik’inč’ey ičanixgon resno anuƛin.
+Gloss: Arabuzan-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW father-GEN2 heart-SUPER.ESS be you-LAT trickery III-do-MSD-AD.ESS invite-LCV.CVB-LAT go-NEG.PST.CVB be-MSD-AD.ESS-CNTR possibility-TOP be.NEG-QUOT
+Translation: Arabuzan said to him: "Your father has the idea of tricking you!", but it wasn't possible to not go to where he was invited.

@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łinaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łinaƛ: 
+
+Exact Matches
+Sentence: Dey qoqoƛu łinaƛ’ rägiru riya retin resunäy, esan debeq di.
+Gloss: me-GEN1 laughter what.OBL-SUPER.ESS IV-be.emitted-PST.PRT IV-know-INF IV-want-PFV.CVB IV-exist-CND.CVB tell-FUT.DEF you-POSS.ESS me
+Translation: If it is the case that you want to know what I laughed about, I'll tell you.
+Sentence: Q’ˤidan ičin his xuxix zawru bara esirno, łinaƛ’ mi qoqƛäƛin.
+Gloss: down-TOP sit-PFV.CVB spring.wool comb-IPFV.CVB be.NPRS-PST.PRT wife-ERG ask-PST.UNW what.OBL-SUPER.ESS you laugh-PST.WIT.INT-QUOT
+Translation: His wife who was sitting there combing wool asked: "What were you laughing about?"
+
+Approximate Matches:
+Sentence: ƛ’ˤuƛ’ay łinaƛa haraƛ’ bizirsiƛin, q’orola kid yegirno, šebi elo roqnoƛin yezu-yoƛ’ˤanix.
+Gloss: roof-SUPER.ABL what.OBL-INDEF noise III-lift-PST.WIT-QUOT widow-ERG daughter II-send-PFV.CVB what there IV-happen-PST.UNW-QUOT II-examine-MSD-AD.ESS
+Translation: Because something produced a noise from the roof, the widow sent her daughter to check out what was happening there.
+Sentence: Zira äƛiru łinaƛ’no nasin razi roqno.
+Gloss: fox-ERG say-PST.PRT what.OBL-SUPER.ESS-TOP all agree III.PL-become-PST.UNW
+Translation: All agreed on what the fox said.
+Sentence: Täƛru łinaƛ’no razin oqinč’ey, t’omceni žek’a žigon esirno bišʷa, yiłaq dey ax roqinč’uƛin.
+Gloss: give-PST.PRT what.OBL-SUPER.ESS-TOP accept-TOP become-NEG.PST.CVB span-EQU1-DEF man-ERG again.now ask-PST.UNW food DEM2.IISG.OBL-POSS.ESS me-GEN1 belly IV-become-NEG.PST.WIT-QUOT
+Translation: Not having accepted what he was given, the span-sized man asked again for food: "I won't get my fill from that."

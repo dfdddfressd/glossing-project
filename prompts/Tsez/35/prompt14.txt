@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mečoƛ’orno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mečoƛ’orno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mečoƛ’orno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howži qˤays yxexoy aħo xäciza mečoƛ’orno bik’in, nełaz mecreq yisis mecno bitirerno, riya rodanix aħozis hibon bisno, xizor butin eniwdäɣortown butin.
+Gloss: now hare-GEN1 II-young.animal shepherd leave-LCV.CVB place-SUPER.LAT-TOP III-go-PFV.CVB DEM1.IISG.OBL-GEN2 tongue-POSS.ESS DEM2.ISG.OBL-GEN1 tongue-TOP III-touch-CAUS-PFV.CVB IV-know-INF IV-do-MSD-AD.ESS shepherd-GEN1 stick-TOP III-take-PFV.CVB back III-return-PFV.CVB mother-APUD.VERS-EMPH-TOP III-return-PST.UNW
+Translation: Now the rabbit's young went to the place where it had left the shepherd, touched his tongue with its own tongue and took the shepherd's stick for marking it, and returned back to its mother.
+Sentence: Ražbadinzo halmaɣza ʕaƛos kidbabi sidaɣ mečoƛ’orno rutirno pˤaƛux zurma, bok’xo q’ili, k’oƛix łočyaƛ’.
+Gloss: Razhbadin-GEN2 friend-PL-ERG village-GEN1 girl-PL in.one.place place-SUPER.LAT-TOP II.PL-gather-PFV.CVB thrash-IPFV.CVB zurna III-beat-IPFV.CVB drum jump-IPFV.CVB dance-SUPER.ESS
+Translation: Razhbadin's friends gathered the village's girls in one place somewhere, thrashed the zurna, beated the drum and danced.
+
+Approximate Matches:
+Sentence: Nasin yizi xan yałru mečoƛ’or bayn.
+Gloss: all DEM2.IPL.OBL khan be-PST.PRT field-SUPER.LAT I.PL-come-PST.UNW
+Translation: They all came to the place that belonged to the king.
+Sentence: Qˤišdäy sodersi zaman baynosi, yizirabi rešt’izi boqanix sidaɣ sanaʕataw mečoƛ’or bayn.
+Gloss: at.noon.APUD.ABL after-ATTR time III-come-ANT.CVB DEM2.PL take.a.rest I.PL-become-MSD-AD.ESS in.one.place comfortable place-SUPER.LAT I.PL-come-PST.UNW
+Translation: When the afternoon had come, they came to a comfortable place to take a rest.
+Sentence: Yeda sidaɣ ciqo č’iħodyos ažombin šet’ur, roƛƛo azbarno yałza mečoƛ’or ayn.
+Gloss: DEM2.ISG in.one.place forest fruit-GEN1 tree-PL-TOP around IV-middle palace-TOP be-LCV place-SUPER.LAT come-PST.UNW
+Translation: In some place he found a forest with fruit trees all around, and in the middle he came to a place with a palace in the middle.

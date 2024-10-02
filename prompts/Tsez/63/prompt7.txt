@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nesis.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nesis
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nesis:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sosi yisä ħumukulis bet’erhanno goƛ’in nesis murad esirnosi, nesä eƛin:
+Gloss: at.first DEM2.ISG.OBL-ERG camel-GEN1 master-TOP call-PFV.CVB DEM1.ISG.OBL-GEN1 wish ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: At first he called the owner of the camel and asked what he desired, the owner said:
+Sentence: T’omceni žek’us bełiqaner nasin ric’q’in ƛexun, barułungon nesis kidno yown, maʕišat bodix howlotow žan ičin.
+Gloss: span-EQU1-DEF man-GEN1 hunter-LAT all wealth-TOP remain-PFV.CVB wifehood-TOP-CNTR DEM1.ISG.OBL-GEN1 daughter-TOP II-marry-PFV.CVB fortune III-do-IPFV.CVB there-EMPH DEM1.SG-TOP live-PST.UNW
+Translation: All the span-sized man's wealth remained for the hunter, he married his daughter, and lived there making a great fortune.
+Sentence: ʕIyayx yedun xecin C’irduxno, nesis esnabin elaygon bitor bik’in.
+Gloss: cry-IPFV.CVB DEM2.IISG-TOP leave-PFV.CVB Tsirdukh-and DEM1.ISG.OBL-GEN1 brother-PL-and there-IN.ABL-CNTR thither I.PL-go-PST.UNW
+Translation: Tsirdukh and his brothers left her crying and went away from there.
+
+Approximate Matches:
+Sentence: Idur aynosi, Maħama nesistow ʕoloqanawni kidbeqor eƛin, žaqˤuł ʕaƛaɣor nexƛ’oräy, där Aħmad keze oqsi.
+Gloss: home-LAT come-ANT.CVB Magomed-ERG DEM1.ISG.OBL-GEN1-EMPH young-DEF daughter-POSS.LAT say-PST.UNW today village-IN.VERS come-SIM.CVB me-LAT Akhmed meet become-PST.WIT
+Translation: When he came home, Magomed said to his young daughter: "Today, when I came into the village, I met Akhmed.
+Sentence: Sis zown babiwn nesisgon łˤono užin.
+Gloss: one be.NPRS-PST.UNW father-and DEM1.ISG.OBL-GEN1-CNTR three son-and
+Translation: Once there was a father and his three sons.
+Sentence: Q’ʷarʕelyoƛ’ sida ʕaƛaɣorno ik’in, xizor utin nexƛ’oräy, nesił dandir nesistow ʕaƛasi Aħmadƛin sis ʕoloqanaw uži keze oqno.
+Gloss: need-SUPER.ESS one.OBL village-IN.VERS-TOP go-PFV.CVB back return-PFV.CVB come-SIM.CVB DEM1.ISG.OBL-CONT.ESS towards DEM1.ISG.OBL-GEN1-EMPH village-RES.PRT Akhmed-QUOT one young boy meet become-PST.UNW
+Translation: When he went to a village out of need and came back, he met a young boy named Akhmed from his village.

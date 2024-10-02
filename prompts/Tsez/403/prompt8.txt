@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roƛik’näy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roƛik’näy: 
+
+Exact Matches
+Sentence: Xizyo nesä žeduqor eƛin, howt’o ʕaƛa di łi roƛik’näy, šebi meža där baha boyxƛin.
+Gloss: afterwards DEM1.ISG.OBL-ERG DEM1.IPL-POSS.LAT say-PST.UNW here village-IN.ESS me water IV-pull.out-CND.CVB what you(I).PL.OBL-ERG me-LAT price III-do-PRS-QUOT
+Translation: Afterwards he said to them: "If I pull out water here in the village, what price do you pay me?"
+
+Approximate Matches:
+Sentence: Hemedurtow meɣyoqorno eƛin, xanzoq riłäsi mada ɣun roƛik’no.
+Gloss: so-EMPH udder-POSS.LAT-TOP say-PFV.CVB khan-GEN2-POSS.ESS IV-resemble-RES.PRT yard-IN.ESS tree IV-let.appear-PFV.CVB
+Translation: So he said to the udder, and let a tree appear in the yard that resembled the king's one.
+Sentence: Neła quł hudayziko sasaqasi zaman baynosi, žedur bišanix retin, hudun Q’arumä nesiqosini biša ader roƛik’noanu.
+Gloss: DEM1.IISG.OBL day-CONT.ESS the.next.day in.the.morning-ATTR time III-come-ANT.CVB DEM1.IPL.OBL-LAT I.PL-eat-MSD-AD.ESS IV-want-PFV.CVB nevertheless Qarum-ERG DEM1.ISG.OBL-POSS.ESS-ATTR-DEF food forward IV-pull.out-PFV.CVB-NEG
+Translation: A day later, when the morning time came, they wanted to eat, but Qarum didn't take out the food that he had.
+Sentence: Sisini łäs ric’alini sikno roƛik’no, žeduqor ħaƛa teƛno.
+Gloss: other-DEF water-GEN1 IV-fill-ATTR-DEF waterskin-TOP IV-pull.out-PFV.CVB DEM1.IPL-POSS.LAT drink-INF give-PST.UNW
+Translation: He pulled out a skin filled with water and gave it to them to drink.

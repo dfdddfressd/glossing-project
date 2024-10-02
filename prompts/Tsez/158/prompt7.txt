@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mečʷa.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mečʷa
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mečʷa:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Horo eli sidqo sis biłaniƛäyn, dey rok’u riq’ˤaniƛäyn, łˤonon debi užibi däz žaz mečʷa bexuranix dadäɣor begirnäy där räti.
+Gloss: come.IMPR we one.OBL-POSS.ESS one III-resemble-MSD-SUB.ABL-and me-GEN1 heart IV-approach-MSD-SUB.ABL-and three-TOP you-GEN1 son-PL me-GEN2 son-GEN2 instead.of I.PL-kill-MSD-AD.ESS me-APUD.VERS I.PL-send-CND.CVB me-LAT IV-want
+Translation: So that we resemble one another and that you approach my heart, I'd love if you could send your three sons to me so I could kill them instead of my son."
+Sentence: Ražbadines xexbi bexuranis mečʷa, Tawadä žedu nesis uži zawza Tiblisäɣor t’et’ranixno begirno, riyrxo žeduq, dey izmu anusi eni- babiwƛ’or kaɣat caxnoƛin.
+Gloss: Razhbadin-GEN1 children I.PL-kill-MSD-GEN1 instead.of Tavadi-ERG DEM1.IPL DEM1.ISG.OBL-GEN1 son be.NPRS-LCV Tbilisi-IN.VERS learn-MSD-AD.ESS-TOP I.PL-send-PFV.CVB IV-explain-PRS DEM1.IPL.OBL-POSS.ESS me-GEN1 permission be.NEG-ATTR mother father-SUPER.LAT letter write-PROHIB-QUOT
+Translation: Instead of killing Razhbadin's children, Tavadi sent them to study in Tbilisi where his son was, and explained to them: "Don't write a letter to your parents without my permission!"
+
+Approximate Matches:

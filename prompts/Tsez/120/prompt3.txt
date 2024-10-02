@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: sadaq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": sadaq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word sadaq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.
+Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW
+Translation: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"
+
+Approximate Matches:
+Sentence: Eniyagon reže sadaq’a rułirno:
+Gloss: mother-ERG-CNTR IV-big alms IV-share-PST.UNW
+Translation: And the mother shared large alms:
+Sentence: Sasaqosi zira eƛin: ƛa ħažƛ’aɣor rik’an q’anon sadaqƛin.”
+Gloss: in.the.morning fox-ERG say-PST.UNW go.IMPR hajj-SUPER.VERS IV-go-FUT.DEF two-TOP together-QUOT
+Translation: In the morning, the fox said: "Come, let's go on hajj (pilgrimage) together."
+Sentence: Sidaquł žedu nasin sadaqorno rutin ħukmu boyn:
+Gloss: one.day DEM1.IPL.OBL all together-LAT-TOP III.PL-turn.back-PFV.CVB decision III-do-PST.UNW
+Translation: One day they gathered together and made a decision:

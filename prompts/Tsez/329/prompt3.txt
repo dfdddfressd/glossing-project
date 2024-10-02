@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iłnon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iłnon: 
+
+Exact Matches
+Sentence: Harihun maʕišat bodix bäčiru yizirabi, sida quł xizor rutixanusi roƛnin c’oxno babiwn eniwn bexun iłnon esnabi best’alłiƛ’ ƛexun.
+Gloss: slowly fortune III-do-IPFV.CVB III-be-PST.PRT DEM2.IIPL one.OBL day-CONT.ESS back IV-turn.back-NEG.PRS.PRT disease-TOP hit-PFV.CVB father-and mother-and I.PL-die-PFV.CVB six-TOP brother-PL orphanhood-SUPER.ESS remain-PST.UNW
+Translation: They slowly made their fortune, and one day an irreversible disease hit them and the father and the mother died, so the six brothers remained orphans.
+
+Approximate Matches:
+Sentence: Q’ˤano äƛiru ɣudƛ’ogon zap’aniłnotow bayn zira eƛin, kurxo besunäy xexoy kuro, yałi di maħin rok’no ɣun recura yołƛin.
+Gloss: two say-PST.PRT day-SUPER.ESS-CNTR firmly-TOP-EMPH III-come-PFV.CVB fox-ERG say-PFV.CVB throw-IPFV.CVB III-appear-CND.CVB young.animal throw-IMPR else me tail-TOP IV-beat-PFV.CVB tree IV-break-INF be-QUOT
+Translation: On the second day, the fox came firmly and said: "Throw me down a nestling, or else I'll knock down the tree with my tail!"
+Sentence: Nełƛ’ay soder Alimaħama sasiłnosi xizyo gurow bˤeƛ’ iduɣor rowx zown anu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after Alimagomed-ERG get.dark-ANT.CVB after except sheep home-IN.ALL III.PL-bring-IPFV.CVB be.NPRS-PST.UNW be.NEG
+Translation: After that Alimagomed only brought the sheep home after it got dark.
+Sentence: Xanez ɣˤutka tełxor yik’a nično boqno eniw madaxay bitor yik’iłnoanu.
+Gloss: khan-GEN2 house-IN.ESS inside-AD.LAT II-go-INF be.ashamed-TOP III-become-PFV.CVB mother yard-AD.ABL thither II-go-POT-PFV.CVB-NEG
+Translation: The mother was ashamed to go inside the king's house and wasn't able to go further than the yard.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rik’inosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rik’inosi: 
+
+Exact Matches
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.
+Sentence: Nełƛ’osi ɣudbi rik’inosi, sida quł iħuz lilyox yisir bikori besun.
+Gloss: of.that.time day-PL IV.PL-go-ANT.CVB one.OBL day-CONT.ESS river-GEN2 river.bank-AD.ESS DEM2.ISG.OBL-LAT snake III-find-PST.UNW
+Translation: From then on the days went by, and one day he found a snake at the river bank.
+Sentence: Roƛƛo ʕuraw ɣudbi rik’inosi, zira bäxurusno rodin bičin.
+Gloss: IV-middle many day-PL IV-go-ANT.CVB fox-ERG III-die-PST.PRT-GEN1-TOP IV-do-PFV.CVB III-be-PST.UNW
+Translation: After many days had passed, the fox pretended to be dead.
+
+Approximate Matches:
+Sentence: ƛˤeb yik’inosigon, užił xizay xan ayn.
+Gloss: year II-go-ANT.CVB-CNTR son-CONT.ESS behind khan come-PFV.CVB
+Translation: One year later the khan came to pick up his son.
+Sentence: Qacis gulu łaci biłe hawaƛ’ boržizi boqno bik’inosi, ʕoƛno ħonno xecin sidade gogaƛ’or bayn.
+Gloss: firewood-GEN1 horse wind III-as air-SUPER.ESS fly I.PL-happen-PFV.CVB III-go-ANT.CVB seven mountain-TOP leave-PFV.CVB one.OBL-APUD.ESS meadow-SUPER.LAT III-come-PST.UNW
+Translation: After the wooden horse flew through the air like the wind, it left seven mountains behind and came to a meadow.
+Sentence: Žedu q’ˤanon hunar xanqo bukarnosi, łˤono äƛirugon nasi debeq di hunar bukaranƛin uži xande igor ik’inosi, nesä eƛin, däz łiboqande c’oxranix debi mi łiboqan aƛin.
+Gloss: DEM1.IIPL two-TOP talent khan-POSS.ESS III-show-ANT.CVB three ORD-CNTR which you-POSS.ESS me talent III-show-FUT.DEF-QUOT boy khan-APUD.ESS near-LAT go-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW me-GEN2 wrestler-APUD.ESS hit-CAUS-MSD-AD.ESS you-GEN1 you wrestler bring.IMP-QUOT
+Translation: Having shown these two talents to the king, the boy went to the king: "Which is the third one I shall show you?", and he said: "Bring your wrestler in order to fight with my wrester."

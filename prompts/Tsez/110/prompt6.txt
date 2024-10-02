@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bäsu.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bäsu
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bäsu:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła eƛin, darno rac’anix šebin neƛ, dowƛ’or ɣudi rayza quł, nagon boqłin din bäsu debez ħalarƛin.
+Gloss: DEM1.IISG.OBL say-PFV.CVB me-LAT-TOP IV-eat-MSD-PRS thing give you-SUPER.LAT day IV-come-LCV.CVB day-CONT.ESS where-CNTR III-happen-CNC.CVB me-TOP III-find you-GEN2 trouble-IN.LAT-QUOT
+Translation: The bear said, "Give me something to eat, one day I will find you, if you will be in trouble."
+Sentence: Ceyä eƛin, mi di bexarno, xizyo di nagon boqłin debez rigzar bäsu, mežustow kici yoł, radiru rigłi šuƛ’ixosi anuƛin.
+Gloss: eagle-ERG say-PST.UNW you me III-kill-PROHIB afterwards me where-CNTR III-become-CNC.CVB you-GEN2 IV-good-ZA-LAT III-exist you(I).PL.OBL-GEN1-EMPH proverb be IV-do-PST.PRT IV-good-NMLZ forget-PRS.PRT be.NEG-QUOT
+Translation: The eagle said: "Don't kill me! I'll will be a help for you somewhere; you have a proverb: 'A done good is not forgotten'."
+Sentence: Elo qoqä teł miƛ’iryoz ɣunoƛ’ ƛ’iri raq’ˤu aɣbi ričixosi, t’awus hič’č’a bittaza deber bäsu.
+Gloss: there cliff-IN.ESS inside peach.OBL-GEN2 tree-SUPER.ESS above IV-sit bird-PL IV-be-PRS.PRT peacock the.most distance-IN.VERS.DIST you-LAT III-find
+Translation: There inside the cliff there are many birds above on the peach tree, but you will find the peacock over other side.
+
+Approximate Matches:

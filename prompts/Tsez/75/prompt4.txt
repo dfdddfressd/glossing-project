@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bercinaw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bercinaw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bercinaw:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Radiru rigłin riynč’ey, bežet’ani esnaza daʕba bodin, hič’č’a bercinaw kid deber šida yiča yayxƛin.
+Gloss: IV-do-PST.PRT IV-good-CNC.CVB IV-know-NEG.PST.CVB I.PL-old-DISTR-DEF brother-PL-ERG dispute III-do-PFV.CVB the.most beautiful girl you-LAT why II-be-INF II-must-PRS-QUOT
+Translation: The other brothers didn't know what good he had done, and began to argue: "Why must the most beautiful girl be for you?"
+Sentence: Hemeła xabaryoł yizi yałzay, nesi nukarä xanqo esix zown, yaqˤuł bełiquz žoyä bercinaw aɣi č’aq’ˤirno bižisƛin.
+Gloss: DEM4.IISG.OBL story-CONT.ESS DEM2.IPL be-SIM.CVB DEM1.ISG.OBL henchman-ERG khan-POSS.ESS tell-IPFV.CVB be.NPRS-PST.UNW today hunter-GEN2 son-ERG beautiful bird kill-PFV.CVB III-carry-PST.WIT-QUOT
+Translation: While that conversation was going on, that henchman was telling the king, "Today the hunter's son killed a bird and carried it home."
+
+Approximate Matches:
+Sentence: Ža nece bercinawni aɣin bižin, łacez guluƛ’no zown, yeda hawaƛ’ k’oƛin iduɣor ik’in.
+Gloss: boy-ERG so.much beautiful-DEF bird-TOP III-carry-PFV.CVB wind-GEN2 horse-SUPER.ESS-and ride-PFV.CVB DEM2.ISG air-SUPER.ESS jump-PFV.CVB home-IN.ALL go-PFV.CVB
+Translation: The boy took this beatiful bird and rode his wind horse home.
+Sentence: Yoƛosini, hič’č’an bercinawni xanes kid yołƛin, yukarno Ismaʕilä.
+Gloss: II-middle-ATTR-DEF the.most-TOP beautiful-DEF khan-GEN1 daughter be-QUOT II-show-PST.UNW Ismail-ERG
+Translation: "The middle one, the most beautiful daughter of the king.", Ismail showed here.
+Sentence: Yedu haqa yogun ƛexun, nece bercinawn, č’uħarawn šeƛ’u yiła best’alawni kidber naey riqisƛin.
+Gloss: DEM2.IISG mouth-IN.ESS II-gape-PFV.CVB remain-PST.UNW so.much beautiful-and gorgeous-and clothing DEM2.IISG.OBL step-DEF girl-LAT where-DUB IV-get-PST.WIT-QUOT
+Translation: She was gaping: "Where the heck did the 'stepgirl' get so beautiful and gorgeous clothes from?"

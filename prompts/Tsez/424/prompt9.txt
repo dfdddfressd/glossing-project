@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word berten in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word berten: 
+
+Exact Matches
+Sentence: Mi saɣ yayruni kid däz žax yaqˤuł yowxƛin, xanä madał adäzar boɣno berten.
+Gloss: you cure II-do-PST.PRT-DEF girl me-GEN2 son-AD.ESS today II-bring-PRS-QUOT khan-ERG yard-CONT.ESS before-IN.LAT III-take.away-PFV.CVB marriage
+Translation: "My son marry today that girl, you are cured," and khan moved the wedding into the yard.
+Sentence: Mi nedurä hudu zownƛin, eƛin Ražbadinä, nedur resunäy, ela sosi debi berten boda yoł, xizyo di baru yowa yołƛin.
+Gloss: you so-Q though be.NPRS-PST.UNW-QUOT say-PST.UNW Razhbadin-ERG so IV-exist-CND.CVB we(I).OBL-ERG at.first you-GEN1 marriage III-do-INF be afterwards me wife II-marry-INF be-QUOT
+Translation: "So that way you are," said Razhbadin, "if that's the case, we will first prepare your wedding and afterwards I will marry my wife."
+Sentence: Telawä dey sisgon Tawadiƛin esiw yoł, ža t’or ayzaƛ’or di berten badinč’iƛin.
+Gloss: Telavi-IN.ESS me-GEN1 one-CNTR Tavadi-QUOT brother be DEM1.SG here-LAT come-POST.CVB me marriage III-do-NEG.FUT-QUOT
+Translation: In Telavi there's one brother of mine, named Tavadi; before he comes here, I won't marry."
+
+Approximate Matches:
+Sentence: Kʷaxatow žax bertenno bodin eniwn, užin, barun nełƛ’ay soder łinasnotow q’ʷariłi anusi bičix zown.
+Gloss: soon-EMPH boy-AD.ESS marriage-TOP III-do-PFV.CVB mother-TOP boy-and wife-and DEM1.IISG.OBL-SUPER.ABL after what.OBL-GEN1-TOP-EMPH sadness be.absent-ATTR I.PL-live-IPFV.CVB be.NPRS-PST.UNW
+Translation: Soon the mother arranged a marriage for the boy and the boy and his wife henceforward were living without any sadness whatsoever.
+Sentence: Din zows žeduz bertenyoł, hudun k’onč’abin roƛno, łočyaƛ’ k’oƛa oqinč’u.
+Gloss: me-and be.NPRS-PST.WIT DEM1.IPL.OBL-GEN2 marriage-CONT.ESS nevertheless leg-PL-TOP II.PL-hurt-PFV.CVB dance-SUPER.ESS jump-INF become-NEG.PST.WIT
+Translation: I was on this marriage as well, however, my legs hurted, so I didn't dance.
+Sentence: Łˤora ɣudƛ’az beže bertenno bodin, idur kidno yown.
+Gloss: three.OBL day-SUPER.ESS.DIST III-big marriage-TOP III-do-PFV.CVB home-LAT girl-TOP II-bring-PST.UNW
+Translation: They organized a three days lasting marriage and he brought the girl home.

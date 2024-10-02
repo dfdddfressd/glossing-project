@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Yisiz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Yisiz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Yisiz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Baq’ˤu mix bik’izaƛ’ortow, eɣeni esiwr teqxo xabar, yisiz eženi esiws cudi nukarza c’unzi bodix sida qunyox yołƛin.
+Gloss: III-much time III-go-POST.CVB-EMPH young-DEF brother-LAT hear-PRS story DEM2.ISG.OBL-GEN2 old-DEF brother-GEN1 corpse henchman-PL-ERG guard I.PL-do-IPFV.CVB one.OBL farmstead-AD.ESS be-QUOT
+Translation: Before much time has passed, the younger brother was hearing the story that his older brother's corpse was at a farmstead being guarded by henchman.
+Sentence: Netin t’ut’ƛ’orkin reƛ’a rizärinč’iru, yedu šebi där yaqˤuł roqäƛin, bikorin bexurno yisiz rok’uƛ’ nexełno.
+Gloss: always fly-SUPER.LAT-even hand IV-lift-NEG.FUT.CVB-PST.PRT DEM2.IISG what me-LAT today IV-happen-PST.WIT.INT-QUOT snake-TOP III-kill-PFV.CVB DEM2.ISG.OBL-GEN2 heart-SUPER.ESS come-POT-PST.UNW
+Translation: "I never even lifted my hand to a fly, what has happened to me today?!", he realized that he killed the snake.
+Sentence: Hemece raładya caƛi- ok’no yisiz lagiq siskin šebin ƛexun anu.
+Gloss: such sea throw hit-PFV.CVB DEM2.ISG.OBL-GEN2 body-POSS.ESS any thing remain-PFV.CVB be.NEG
+Translation: The sea threw him many times, but there were no traces on his body.
+
+Approximate Matches:
+Sentence: Elo tełxor oqƛ’orey, yisir č’ikays rodäsi ɣˤutku rukayn.
+Gloss: there inside-AD.LAT become-SIM.CVB DEM2.ISG.OBL-LAT glass-GEN1 IV-do-RES.PRT house IV-see-PST.UNW
+Translation: When he went inside there, he saw a house made of glass.
+Sentence: Išno oqnosi yisir siskin roqinč’uƛax.
+Gloss: eat-PFV.CVB become-ANT.CVB DEM2.ISG.OBL-LAT anything IV-happen-NEG.PST.WIT-QUOT
+Translation: After he ate, nothing happened to him.
+Sentence: Howži yedu aždaħ yisiƛ’or bizin eƛin:
+Gloss: now DEM2.IISG dragon DEM2.ISG.OBL-SUPER.LAT III-get.up-PFV.CVB say-PST.UNW
+Translation: Now the dragon came over him, got up and said:

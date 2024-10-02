@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kurno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kurno: 
+
+Exact Matches
+Sentence: Ac ħišäsi yesuzaƛ’, ƛ’ˤuƛ’orno bizin, gondun yoɣno, tełerno boqno, łenon užin igin kurno.
+Gloss: door lock-RES.PRT II-find-CSL.CVB roof-SUPER.LAT-TOP III-get.up-PFV.CVB big.hole-TOP II-take.away-PFV.CVB to.the.inside-TOP III-become-PFV.CVB five-TOP son-TOP swallow-PFV.CVB throw-PST.UNW
+Translation: Because it found the door locked, it got onto the roof, made a hole, got inside and gobbled the five sons up.
+Sentence: Yiłagon q’ˤanon xanes xexbi - užin, kidno k’emot’ya tełno eqerno, iħułxor kurno.
+Gloss: DEM2.IISG.OBL-CNTR two-TOP khan-GEN1 children - son-and daughter-and wooden.case-IN.ESS inside-TOP put-PFV.CVB river-CONT.VERS throw-PST.UNW
+Translation: But those two children of the king - the son and the daughter - she put into a wooden case and threw them into the river.
+Sentence: Sis nełarno kurno siskin där ƛexandaƛin, aɣzo rok’ƛ’orno rayn, dicego rok’er zaħmat roqłin, zirur sis xexoy kurno.
+Gloss: one DEM1.IISG.OBL-LAT-TOP throw-PFV.CVB anything me-LAT remain-FUT.DEF-COND-QUOT bird-ATTR.OBL heart-SUPER.LAT-TOP IV-come-PFV.CVB how.much-COND heart-LAT trouble IV-become-CNC.CVB fox-LAT one young.animal throw-PST.UNW
+Translation: "Throwing one down, there will still remain one for me.", thought the bird and although it was difficult, it threw one nestling to the fox.
+
+Approximate Matches:
+Sentence: Łox äƛiru rayäru bišadyoł zahru anuru biyn yizir, elay bet’urno magalu kurnosi k’et’u bexunč’izaƛ’.
+Gloss: thrice ORD IV-bring-PST.PRT food-CONT.ESS poison be.NEG-PST.PRT III-know-PST.UNW DEM2.IPL.OBL-LAT there-IN.ABL III-pull.out-PFV.CVB bread throw-ANT.CVB cat III-die-NEG.FUT.CVB-CSL.CVB
+Translation: The third time they knew that there was no poison in the food they brought, because the cat for which a [piece of] bread was pulled out and thrown to, wouldn't die.
+Sentence: Yeženigon esiya, šebin resun yisirƛin, bak’ima tełäyn begirno aɣi q’ˤidar kurnosi, nełłäy qˤirič’ roqno.
+Gloss: II-old-DEF-CNTR sister-ERG thing IV-find-PFV.CVB DEM2.ISG.OBL-LAT-QUOT enclosure-IN.ESS inside-IN.ABL-TOP III-let-PFV.CVB bird down-LAT throw-ANT.CVB DEM1.IISG.OBL-CONT.ABL scissors IV-become-PST.UNW
+Translation: The older sister said "He found something!", let the bird out of the coop and threw it on the ground, so he turned into a pair of scissors.
+Sentence: Nełaq dicegon raq’ˤu biša roqłin, ɣˤʷayr neła magalas sis t’it’ukin kurnoanu.
+Gloss: DEM1.IISG.OBL-POSS.ESS how.much-CNTR IV-much food IV-become-CNC.CVB dog-LAT DEM1.IISG.OBL bread-FUT2 one piece-even throw-PFV.CVB-NEG
+Translation: But no matter how much food she had, she didn't throw even one piece of the bread to the dog.

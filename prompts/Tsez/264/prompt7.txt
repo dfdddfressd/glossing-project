@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bayrun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bayrun: 
+
+Exact Matches
+Sentence: Elor bayrun xanes oz partalq’ay butiranił c’oxno.
+Gloss: there-LAT III-come-IMM.ANT.CVB khan-GEN1 army belongings-EQU2 III-turn-MSD-CONT.ESS meet-PST.UNW
+Translation: When the king's army arrived there, they started gathering the belongings.
+Sentence: Elor bayrun, muši begira Ħasan q’ˤida ičiƛ’oräy ox̌-x̌o-x̌oyƛin eƛin.
+Gloss: there-LAT I.PL-come-IMM.ANT.CVB breath I.PL-be.emitted-CAUS-INF Hassan down sit-SIM.CVB oh~ho~hoy-QUOT say-PST.UNW
+Translation: As soon as they arrived there, while Hassan sat down to take a breath, he said: "Oh-ho-hoy!"
+Sentence: Baq’ˤu urɣizi boqxo bičinč’ey, ɣʷˤadä q’ˤʷa-q’ˤʷa-q’ˤʷaƛin haraƛ’ bayrun, haqoƛäy reƛ q’ˤidar rˤaƛ’un.
+Gloss: III-much thinking III-become-IPFV.CVB III-be-NEG.PST.CVB crow-ERG crah-crah-crah-QUOT voice I.PL-do-IMM.ANT.CVB mouth-SUB.ABL meat down-LAT IV-fall-PST.UNW
+Translation: Without thinking much, the crow let its voice caw and the piece of meat fell down out of his mouth.
+
+Approximate Matches:
+Sentence: Maħlar bayruntow, xanä eƛin, eloš neła imyoqor yicalini ɣˤanazar naʕanan bodo, nocun caƛo nełasƛin.
+Gloss: court-IN.LAT I.PL-come-IMM.ANT.CVB-EMPH khan-ERG say-PST.UNW over.there DEM1.IISG.OBL pole-POSS.LAT II-tie-ATTR-DEF woman-LAT curse-and III-do-IMPR saliva-and shoot.with-IMPR DEM1.IISG.OBL-GEN1-QUOT
+Translation: When they came into the court, the king said: "Curse and spit on that woman over there, who is tied to that pole!"
+Sentence: Walla, xan, howža ƛeli bayruntow, nełas eniw bexus.
+Gloss: wallah khan DEM4.SG lamb III-do-IMM.ANT.CVB-EMPH DEM1.IISG.OBL-GEN1 mother III-die-PST.WIT
+Translation: "By God, o king, right after the lamb was born, its mother died.
+Sentence: Idur bayruntow dahaw mušin begirno, bertenyołer butin yizi.
+Gloss: home-LAT I.PL-come-IMM.ANT.CVB-EMPH a.little breath-TOP III-let-PFV.CVB marriage-CONT.LAT I.PL-return-PST.UNW DEM2.IPL
+Translation: Right when they came home, they took a little rest and returned to the marriage again.

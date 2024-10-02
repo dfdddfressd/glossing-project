@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bowxosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bowxosi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Igtow yeda ƛ’iri utizaƛ’ Tawadä esin, mi yowxozo barurno, deberno saɣłin rodin ħaƛanix di t’akan yizärun, gugyoq tungin bisno akiƛäza yik’ix yukayru kidbeƛ’ ozurin c’oxno, nełaz bercinłä ʕadal oys.
+Gloss: much-EMPH DEM2.ISG above turn-CSL.CVB Tavadi-ERG tell-PST.UNW you II-marry-PRS.PRT.OBL wife-LAT-and you-LAT-and health-TOP IV-do-PFV.CVB drink-MSD-AD.ESS me glass II-lift-IMM.ANT.CVB back-POSS.ESS copper.jug-TOP III-take-PFV.CVB window-SUB.VERS II-go-IPFV.CVB II-see-PST.PRT girl-SUPER.ESS eye-TOP hit-PFV.CVB DEM1.IISG.OBL-GEN2 beauty-ERG intoxication do-PST.WIT
+Translation: Because he insisted so much, Tavadi told him: "Right after lifting my glass to drink on your and your soon to be married wife, my eye met this girl whom I saw going under the window and taking a jar on her back, and her beauty was intoxicating."
+Sentence: Yiła eƛin, mi razi oqnäy, dowxor di sis bercinaw kid yiqiranƛin.
+Gloss: DEM2.IISG.OBL-ERG say-PFV.CVB you agree become-CND.CVB you-AD.LAT me one beautiful girl II-find-FUT.DEF-QUOT
+Translation: "if you agree, I will find a beautiful girl for you," the woman said.
+Sentence: Tawadi bercingo ezun ičäsi yałzay, sid žoyä Ražbadinxo yowxozo baħarayz hibon bok’no łočyaƛ’ yoɣno.
+Gloss: Tavadi well look-PFV.CVB wait-RES.PRT be-SIM.CVB one.OBL boy-ERG Razhbadin-AD.ESS II-marry-PRS.PRT.OBL fiancée-GEN2 stick-TOP III-beat-PFV.CVB dance-SUPER.ESS II-take.away-PST.UNW
+Translation: While Tavadi was looking carefully, one boy hit the bride that was to marry Razhbadin with a stick and took her away to dance.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boqno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boqno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boqno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Esnazał xizaz ixiw raład boqno.
+Gloss: sister-PL-CONT.ESS behind big sea III-become-PST.UNW
+Translation: And a big sea formed behind the sisters.
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Harizi boqno ža:
+Gloss: request III-become-TOP DEM1.SG
+Translation: The dragon begged:
+
+Approximate Matches:
+Sentence: Łˤora ɣudi yaħ bodin nesä, elay soder yaħ boqnoanu nesiq.
+Gloss: three.OBL day conscience III-do-PFV.CVB DEM1.ISG.OBL-ERG there-IN.ABL upward conscience III-become-PFV.CVB-NEG DEM1.ISG.OBL-POSS.ESS
+Translation: Three days he had his conscience, then his conscience wasn't enough anymore.
+Sentence: Babiwq žan biqira k’ʷeze boqnoanu.
+Gloss: father-POSS.ESS DEM1.SG-TOP III-catch-INF can III-become-PFV.CVB-NEG
+Translation: The father couldn't catch him either.
+Sentence: Bik’in yiziri neła ceyder, žedus murad bič’zi boqnosi neła eƛin:
+Gloss: III-go-PFV.CVB DEM2.IPL DEM1.IISG.OBL-ERG eagle-APUD.LAT DEM1.IPL.OBL-GEN1 wish understand III-become-ANT.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: They went to that eagle, and when he had understood their wish, the eagle said:

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣˤaɣˤun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣˤaɣˤun: 
+
+Exact Matches
+Sentence: Ža nesä eƛizaƛ’, yeda xan ʕuraw ɣˤaɣˤun izin, xalq’in žaƛ’ razi boqno.
+Gloss: DEM1.SG DEM1.ISG.OBL-ERG say-CSL.CVB DEM2.ISG khan much be.happy-TOP get-PFV.CVB people-TOP boy-SUPER.ESS agree I.PL-become-PST.UNW
+Translation: When he said that, the king got very glad, and the people were okay with the boy.
+Sentence: Igtow ɣˤaɣˤun izin Tawadä nesis roƛ’i baqruni kid Ražbadinqo yukarno.
+Gloss: much-EMPH be.happy-TOP get.up-PFV.CVB Tavadi-ERG DEM1.ISG.OBL-GEN1 love III-become-PST.PRT-DEF girl Razhbadin-POSS.ESS II-show-PST.UNW
+Translation: Tavadi became very happy and showed Razhbadin the girl that became his love.
+Sentence: Bežet’anibi ʕurawtow ɣˤaɣˤun bizin, nesiƛ’ Tabuldiƛin cin erno.
+Gloss: I.PL-old-DISTR-DEF-PL much-EMPH be.happy-TOP I.PL-get.up-PFV.CVB DEM1.ISG.OBL-SUPER.ESS Tabuldi-QUOT name-TOP put-PST.UNW
+Translation: The oldest ones were very glad and gave him the name Tabuldi.
+
+Approximate Matches:
+Sentence: Žan ayrno eɣeni esiw aynosi, c’ik’iw ʕaƛos xalq’i ɣˤaɣˤu bizin.
+Gloss: DEM1.SG-TOP bring-PFV.CVB young-DEF brother come-ANT.CVB all village-GEN1 people be.happy III-get.up-PST.UNW
+Translation: When the young brother came bringing him, all the village's people got happy.
+Sentence: Žamaʕatyo ɣˤaɣˤu bizizaq nesir baq’ˤu mesedno teƛno, reže suħmatno rodin hunix egirno.
+Gloss: population-ERG be.happy III-get-CSL.CVB DEM1.ISG.OBL-LAT III-much gold-TOP give-PFV.CVB IV-big celebration-TOP IV-do-PFV.CVB way-AD.ESS let-PST.UNW
+Translation: Because the population got happy, they gave him much gold, organized a big party and let him go on his way.
+Sentence: Žedu ʕuraw ɣˤaɣˤu rizin ƛirbabi bayzaƛ’.
+Gloss: DEM1.IIPL much be.happy III.PL-get.up-PST.UNW guest-PL I.PL-come-CSL.CVB
+Translation: They got very happy, when guests came.

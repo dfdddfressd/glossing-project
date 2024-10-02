@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bukarzaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bukarzaƛ: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Magalabin nesä hemedurtow nesä nesiz nukarzaƛ’ rułirno.
+Gloss: bread-PL-TOP DEM1.ISG.OBL-ERG so-EMPH DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 henchman-PL-SUPER.ESS III.PL-share-PST.UNW
+Translation: The bread he also shared among his own henchmen.
+Sentence: Nesä nesiz nukarzaƛ’ xaličabin rułirno.
+Gloss: DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 henchman-PL-SUPER.ESS mat-PL-TOP IV.PL-share-PST.UNW
+Translation: And the mats he shared among his own henchmen.

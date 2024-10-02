@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bet’erbaqi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bet’erbaqi: 
+
+Exact Matches
+Sentence: Sida quł, babiya igorno goƛ’in kidbazaq riyrno, sasaq eli bet’erbaqi bodanix maħor boqa bayƛin.
+Gloss: one.OBL day-CONT.ESS father-ERG near-LAT-TOP call-PFV.CVB daughter-PL-POSS.ESS IV-explain-PST.UNW tomorrow we life III-do-MSD-AD.ESS outside I.PL-become-INF I.PL-must-QUOT
+Translation: One day, the father called them to himself and explained to the daughters: "Tomorrow we have to go outside to do work."
+Sentence: Elo bäsuru mesedyoƛ rac’a šebin risno, bigu bet’erbaqi boqno žedus.
+Gloss: there III-find-PST.PRT gold-SUB.ESS IV-eat-INF thing IV-take-PFV.CVB III-good life III-become-PFV.CVB DEM1.IPL-GEN1
+Translation: In exchange for gold, that was found there, they bought something to eat and lived good.
+Sentence: Bełiquza nełaq, nazay ža t’or yayäƛin esirnosi, hemedur eniwn yexun, best’alłiƛ’no ƛexun bet’erbaqi bodanix maħor yoqäsiƛin esin.
+Gloss: hunter-PL-ERG DEM1.IISG.OBL-POSS.ESS from.where DEM1.SG here-LAT II-come-PST.WIT.INT-QUOT ask-ANT.CVB so mother-TOP II-die-PFV.CVB orphanhood-SUPER.ESS-TOP remain-PFV.CVB life III-do-MSD-AD.ESS outside II-become-RES.PRT-QUOT tell-PST.UNW
+Translation: When the hunters asked her, from where she came, she said that her mother died and she lived in orphanhood and went outside to make a living.
+
+Approximate Matches:
+Sentence: Siryos bet’erhanesno, hokožek’usno k’eč’oliƛäy bitor q’ecen boqno:
+Gloss: mare-GEN1 master-GEN1-and coachman-GEN1-and foal-SUB.ABL thither argument I.PL-become-PST.UNW
+Translation: An argument over the foal arose between the mare's master's and the coachman:
+Sentence: Siryos bet’erhanä q’ʷaridno oqno sadaq šebin ik’in ec’noni xanzo baruq esin.
+Gloss: mare-GEN1 master-ERG sadness-TOP become-PFV.CVB all thing go-PFV.CVB new-DEF khan-ATTR.OBL wife-POSS.ESS tell-PST.UNW
+Translation: The mare's master became sad and told the king's new wife how all the things happened.
+Sentence: Sida quł bet’erhanno bet’erhanes užin ƛˤoreł bik’inosi, yiła neł ʕaƛos dibir iduɣor goƛ’in.
+Gloss: one.OBL day-CONT.ESS master-and master-GEN1 son-and war-CONT.ESS I.PL-go-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL village-GEN1 imam home-IN.ALL invite-PST.UNW
+Translation: One day, when the master and the master's son went to war, she invited the village's imam to their home.

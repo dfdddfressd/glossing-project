@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ʷariłi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ʷariłi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ʷariłi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nediwtow q’ʷariłi bayzaƛ’, dahawtow yuyn ʕiyayn, bisno sis bexora hibon łoxt’a ža bok’xo nasin boc’an, zeybin maħor roxirno.
+Gloss: such-EMPH sadness III-come-CSL.CVB a.little-EMPH and(?) cry-PST.UNW I.PL-take-PFV.CVB one lengthy stick-TOP thrice-DISTR DEM1.SG III-beat-IPFV.CVB all wolf.PL-and bear-PL-and outside III.PL-chase-PST.UNW
+Translation: Because of such a tragedy, she began to cry a little, took a long stick, beated it three times and chased off all the wolves and bears.
+Sentence: Kʷaxatow žax bertenno bodin eniwn, užin, barun nełƛ’ay soder łinasnotow q’ʷariłi anusi bičix zown.
+Gloss: soon-EMPH boy-AD.ESS marriage-TOP III-do-PFV.CVB mother-TOP boy-and wife-and DEM1.IISG.OBL-SUPER.ABL after what.OBL-GEN1-TOP-EMPH sadness be.absent-ATTR I.PL-live-IPFV.CVB be.NPRS-PST.UNW
+Translation: Soon the mother arranged a marriage for the boy and the boy and his wife henceforward were living without any sadness whatsoever.
+Sentence: Nełƛ’ay soder yizä łinasno q’ʷariłi anusi bercinłiƛ’ ʕumru bižin.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after DEM2.IPL.OBL-ERG what.OBL-GEN1-TOP sadness be.NEG-ATTR beauty-SUPER.ESS life III-lead-PST.UNW
+Translation: After that they lead a beautiful life without any sadness whatsoever.
+
+Approximate Matches:
+Sentence: Habihanƛ’osi q’ʷariłin bukayn, ziru ƛ’iräyn boqno, xanzo kidbederno bik’in eƛin, ƛ’iräy yoq, mi di yaƛ’irsi.
+Gloss: miller-SUPER.ESS-ATTR sadness-TOP III-see-PST.UNW fox from.above-TOP III-become-PFV.CVB khan-GEN2 daughter-APUD.LAT-TOP III-go-PFV.CVB say-PST.UNW from.above II-become you me II-cheat-PST.WIT
+Translation: The fox saw the sadness that was upon the miller, forgave [him], went to the king's daughter and said: "Forgive [me], I cheated you."
+Sentence: Neł q’ʷariłiƛ’ cek’i bukaynosi, ʕomoyä eƛin, iħäy łäs yic’no muš yownäy, begiranƛin.
+Gloss: DEM1.IISG.OBL sadness-SUPER.ESS goat.kid III-see-ANT.CVB donkey-ERG say-PST.UNW river-IN.ABL water-GEN1 II-fill-PFV.CVB pot II-bring-CND.CVB III-let-FUT.DEF-QUOT
+Translation: When the donkey saw the sad goat kid, he said: "If you bring a pot filled with water from the river, I'll let you in."
+Sentence: Howži tełxorno goƛ’in, neła nełaz xediwqor yiła eƛin, howła xizaɣorzo zamanał deber baqru q’ʷariłiłäy mi däq esoƛin.
+Gloss: now inside-AD.LAT-TOP invite-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 husband-POSS.LAT DEM2.IISG.OBL-ERG say-PST.UNW DEM3.IISG.OBL finally-ATTR.OBL time-CONT.ESS you-LAT III-happen-PST.PRT sadness-CONT.ABL you me-POSS.ESS tell-IMPR-QUOT
+Translation: Now she invited her own husband in and said: "Tell me about the bad things that had happened to you lately?"

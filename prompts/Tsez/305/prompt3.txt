@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šebin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šebin: 
+
+Exact Matches
+Sentence: Siryos bet’erhanä q’ʷaridno oqno sadaq šebin ik’in ec’noni xanzo baruq esin.
+Gloss: mare-GEN1 master-ERG sadness-TOP become-PFV.CVB all thing go-PFV.CVB new-DEF khan-ATTR.OBL wife-POSS.ESS tell-PST.UNW
+Translation: The mare's master became sad and told the king's new wife how all the things happened.
+Sentence: Sis gut’ riłe šebin rukayxƛin, eƛin bełiqanä.
+Gloss: one smoke IV-as thing IV-see-PRS-QUOT say-PST.UNW hunter-ERG
+Translation: "I see something like smoke.", said the hunter.
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+
+Approximate Matches:
+Sentence: Nedur resunäy, däqay mežur ħumukulibin, žedaƛ’osi šebinon räqinč’iƛin, eƛin oqno yeda užin ičin.
+Gloss: so IV-exist-CND.CVB me-POSS.ABL you(I).PL.OBL-LAT camel-PL-TOP DEM1.IIPL.OBL-SUPER.ESS-ATTR something III.PL-get-NEG.FUT-QUOT say-PFV.CVB become-PFV.CVB DEM2.ISG boy-TOP remain-PST.UNW
+Translation: "If that's the case, you won't get the camels and what is on them from me," said the boy and remained.
+Sentence: Yisä kinaw šebinon esin, q’ˤunan esnazar gulubi sayɣat rodin.
+Gloss: DEM2.ISG.OBL-ERG entire something tell-PST.UNW two.OBL-TOP brother-PL-LAT horse-PL present III.PL-do-PST.UNW
+Translation: He told everything and gave his two brothers horses as a present.
+Sentence: Yedu šebi nece bercinaw šebinƛin, yeda rešambi riqiranix c’oxno.
+Gloss: DEM2.IISG what so.much beautiful thing-QUOT DEM2.ISG ray-PL IV.PL-catch-MSD-AD.ESS hit-PST.UNW
+Translation: "What beautiful thing is this?!", he tried to catch the rays.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ruqˤno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ruqˤno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ruqˤno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sasiłacen ičin, iduɣorno bižin yisä yedu ħumukuli buyn bexayn, waħazoni ɣˤutka nełas reƛno ruqˤno.
+Gloss: get.dark-TERM-TOP wait-PFV.CVB home-IN.ALL-TOP III-lead-PFV.CVB DEM2.ISG.OBL-ERG DEM2.IISG camel III-indeed-TOP III-slaughter-PFV.CVB below-ATTR.OBL-DEF room-IN.ESS DEM1.IISG.OBL-GEN1 meat-TOP IV-hide-PST.UNW
+Translation: She waited until it got dark, lead that camel home and indeed slaughtered it and hid it's meat in the cellar.
+Sentence: Ža q’ˤimno ruqˤno yeda esiwde igor ayn.
+Gloss: DEM1.SG head-TOP IV-hide-PFV.CVB DEM2.ISG sister-APUD.ESS near-LAT come-PST.UNW
+Translation: That head he hid and went toward his sister.
+Sentence: Sis k’ucin, k’et’us xexoyn ałux ruqˤno žedun rižin q’orolay xanez barudäɣor yik’in.
+Gloss: one puppy-and cat-GEN1 young.animal-and skirt-AD.ESS III.PL-hide-PFV.CVB DEM1.IIPL-and III.PL-carry-PFV.CVB widow khan-GEN2 wife-APUD.VERS II-go-PST.UNW
+Translation: The widow hid a puppy and a kitten under her skirt and carried them to the king's wife.
+
+Approximate Matches:
+Sentence: Gulun rečuƛ bicin, ža kidno q’ˤuya ɣˤutka teł yuqˤno, esnabi bayaniqor idu ezun ičäsi zown.
+Gloss: horse-TOP cattleshed-SUB.ESS III-tie-PFV.CVB DEM1.SG girl-TOP other room-IN.ESS inside II-hide-PFV.CVB brother-PL I.PL-come-MSD-POSS.LAT home look-PFV.CVB wait-RES.PRT be.NPRS-PST.UNW
+Translation: He tied the horse into the shed, hid the girl in another room and waited at home for his brothers to come.
+Sentence: Elo teł min uqˤno, ža ɣamasno hokomƛ’o eqerno, di xanes ez yałza mečoƛ’ar ik’an.
+Gloss: there inside you-TOP hide-PFV.CVB DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB me khan-GEN1 fortress be-LCV.CVB place-SUPER.VERS go-FUT.DEF
+Translation: I will hide you inside it, put that box onto a carriage and go to the place where the king's fortress is.
+Sentence: Idurno yayngon yiła, mi gulu bayrno zown anuwaƛin, esiwqor eƛinosi, nesir neła gulu bac’rułi čuqˤno.
+Gloss: home-LAT-TOP II-come-PFV.CVB-CNTR DEM2.IISG.OBL-ERG you horse III-bring-PFV.CVB be.NPRS-PFV.CVB be.NEG-Q-QUOT brother-POSS.LAT say-ANT.CVB DEM1.ISG.OBL-LAT DEM1.IISG.OBL-ERG horse III-eat-MSD notice-PST.UNW
+Translation: When she went back into the house and said to the brother: "Didn't you bring a horse along?", he noticed that she had eaten the horse.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħalaq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħalaq: 
+
+Exact Matches
+Sentence: Zamanałäy čanyan, cek’bintow ħalaq’ roqa roqno.
+Gloss: time-CONT.ABL she.goat-and goat.kid-PL-and-EMPH meager III.PL-become-INF III.PL-begin-PST.UNW
+Translation: After a while, the she.goat and the goat kids began to become meager.
+Sentence: Nesi žaz babiya sidaquł q’orol ɣˤanabin yiqirno nełaq esin, hemedur ɣudƛ’ay ɣudƛ’or dey uži ħalaq’ oqxo ik’ixƛin.
+Gloss: DEM1.ISG.OBL boy-GEN2 father-ERG one.day widowed woman-TOP II-find-PFV.CVB DEM1.IISG.OBL-POSS.ESS tell-PST.UNW so day-SUPER.ABL day-SUPER.LAT me-GEN1 boy meager become-IPFV.CVB go-PRS-QUOT
+Translation: One day the boy's father found a widow and told her that his boy is becoming meager day by day.
+Sentence: Sida maqˤizoni ʕaƛa bečedaw žek’us ɣudƛ’ay ɣudƛ’or ħalaq’ oqxo uži ik’ix zown.
+Gloss: one.OBL far.away-ATTR.OBL-DEF village-IN.ESS wealthy man-GEN1 day-SUPER.ABL day-SUPER.LAT meager become-IPFV.CVB son go-IPFV.CVB be.NPRS-PST.UNW
+Translation: In a village far away, a rich man's son was getting thinner day by day.
+
+Approximate Matches:
+Sentence: Kidbezno, baruzno, nesizno bok’nosigon, žedułäy ħalaq’awt’a ʕomoybi roqno.
+Gloss: daughter-GEN2-TOP wife-GEN2-and DEM1.ISG.OBL-GEN2-and III-beat-ANT.CVB-CNTR DEM1.IPL-CONT.ABL thin-DISTR donkey-PL III.PL-become-PST.UNW
+Translation: And after cracking also [for?] his daughter, his wife and himself, they became thin donkeys.
+Sentence: Neła karu rok’xayzo mušimo ħalaq’awni gulus maħi ƛ’iräytow ret’urno roɣno.
+Gloss: DEM1.IISG.OBL exhale-PST.PRT heart-AD.ABL-ATTR.OBL breath-ERG thin-DEF horse-GEN1 tail from.above-EMPH IV-pull.out-PFV.CVB IV-take.away-PST.UNW
+Translation: Its breath, exhaled from the heart, pulled out the tail from the thin horse.
+Sentence: Elaygon bitor ik’iƛ’oräy, yisir sis ħalaq’aw gulu besun.
+Gloss: there-IN.ABL-CNTR thither go-SIM.CVB DEM2.ISG.OBL-LAT one thin horse III-find-PST.UNW
+Translation: When he went on from there, he found a thin horse.

@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bic’äsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bic’äsi: 
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Aħmadägon boƛƛik’u magalun bac’no eƛin, asno rocasi yoł, bucin bic’äsi yołƛin.
+Gloss: Akhmed-ERG-CNTR III-half bread-TOP III-eat-PFV.CVB say-PST.UNW fog-TOP IV-become.clean-RES.PRT be moon-TOP III-fill-RES.PRT be-QUOT
+Translation: Akhmed ate half of the bread and said: "The fog has become clean and the moon has become full."
+Sentence: Hemełƛ’o elo akiłäza łäs bic’äsi tungin bižin Ražbadinxo esäruni kid yik’äsi zown.
+Gloss: DEM4.IISG.OBL-SUPER.ESS there window-CONT.VERS.DIST water-GEN1 III-fill-RES.PRT copper.jug-TOP III-carry-PFV.CVB Razhbadin-AD.ESS ask-PST.PRT-DEF girl II-go-RES.PRT be.NPRS-PST.UNW
+Translation: The girl that Razhbadin asked [= his fiancée] carried a copper jug filled with water and was going to a window up there.
+
+Approximate Matches:
+Sentence: Nedur resunäyƛin, Maħama kidbeqor eƛin, akrošaw magalun bižo, yik’in nesiqor eƛo, asno eräsi yoł, bucin žäd bic’äsianuƛin.
+Gloss: so IV-exist-CND.CVB-QUOT Magomed-ERG daughter-POSS.LAT say-PST.UNW cheese-ATTR bread-TOP III-take.out-IMPR II-go-PFV.CVB DEM1.ISG.OBL-POSS.LAT say-IMPR fog-TOP put-RES.PRT be moon-TOP still III-fill-RES.PRT-NEG-QUOT
+Translation: "If that is the case," Magomed said to his daughter, "take this cheese bread, go and say to him: ''Fog has come up, and the moon is still not full."
+Sentence: Xizyo royn ičäsi hudun muk’ur oqno uži, neł hiboreƛ q’aymos bic’äsit’a łeno ħumukuli neƛanƛin bazarganä eƛinosi.
+Gloss: afterwards IV-do-PFV.CVB be-RES.PRT nevertheless agree become-PFV.CVB boy DEM1.IISG.OBL stick-SUB.ESS article-GEN1 III-fill-RES.PRT-DISTR five camel give-FUT.DEF-QUOT merchant-ERG say-ANT.CVB
+Translation: Then the boy agreed nevertheless, when the merchant said that he would give him the load from 5 camels for the stick.

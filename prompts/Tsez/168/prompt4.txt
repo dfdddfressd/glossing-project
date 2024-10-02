@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bertenyołer.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bertenyołer
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bertenyołer:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła bertenyołer din goƛ’is.
+Gloss: DEM1.IISG.OBL marriage-CONT.LAT me-TOP invite-PST.WIT
+Translation: I was also invited to this marriage.
+Sentence: Di bertenyołer goƛ’in ayäsi yoł ža.
+Gloss: me marriage-CONT.LAT invite-PFV.CVB come-RES.PRT be DEM1.SG
+Translation: I invited him to the wedding and he has come.
+Sentence: Neł bertenyołer hokobin sadaq gulubin rayrno tabanaw xalq’i bayn.
+Gloss: DEM1.IISG.OBL marriage-CONT.LAT carriage-PL-and together horse-PL-and III.PL-bring-PFV.CVB enough people III-come-PST.UNW
+Translation: To that marriage came many people, bringing carriages and horses.
+
+Approximate Matches:
+Sentence: Elay Ražbadin Tawadiƛ’ ƛ’irir ik’in, nesiqor c’ok’inayn, yedu šebi šebin mi där rodä bertenyołerno goƛ’inƛin.
+Gloss: there-IN.ABL Razhbadin Tavadi-SUPER.ESS on-LAT go-PFV.CVB DEM1.ISG.OBL-POSS.LAT scold-PST.UNW DEM2.IISG what thing you me-LAT IV-do-INF marriage-CONT.LAT-TOP invite-PST.UNW-QUOT
+Translation: From there, Razhbadin went up to Tavadi and scolded him: "What is that thing you did to me, inviting me to a marriage?!"

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word maħ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word maħ: 
+
+Exact Matches
+Sentence: Welečo, aq’iw maħ yołalini žek’u, oxi uqˤło.
+Gloss: look.out.IMP-INT foreign smell be-ATTR-DEF man run.away hide-IMPR
+Translation: "Look out, man with the foreign spirit, run away and hide!
+Sentence: Howła šadał aqˤuros maħ yołƛin”.
+Gloss: DEM3.IISG.OBL wine-CONT.ESS urine-GEN1 smell be-QUOT
+Translation: "This wine smells like urine."
+Sentence: Teł zawru ceyä yiłaq esirno, yedu insanes maħ nay mi t’or bowäƛin.
+Gloss: inside be.NPRS-PST.PRT eagle-ERG DEM2.IISG.OBL-POSS.ESS ask-PST.UNW DEM2.IISG human-GEN1 smell from.where you here-LAT III-bring-PST.WIT.INT-QUOT
+Translation: The eagle that was inside asked him: "Where did you bring that human smell from?"
+
+Approximate Matches:

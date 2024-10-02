@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ħaƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ħaƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ħaƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Idur Ražbadin aynosi, kidbez babiya nesił adäza bišʷa ħaƛin.
+Gloss: home-LAT Razhbadin come-ANT.CVB girl-GEN2 dad-ERG DEM1.ISG.OBL-CONT.ESS before food organize-PST.UNW
+Translation: When Razhbadin went to the home, the girl's father put food before him.
+Sentence: Xizyo magalu boɣa ža oqƛ’oräy, ħaƛin tełxor kuroƛin, mołin nesiq neła qˤaƛumo.
+Gloss: afterwards bread III-take.away-INF DEM1.SG begin-SIM.CVB push-PFV.CVB inside-AD.LAT throw-IMPR-QUOT teach-PFV.CVB DEM1.ISG.OBL-POSS.ESS DEM1.IISG.OBL shout-ERG
+Translation: Afterwards, while he is starting to take out the bread, push him inside!", taught him that voice.
+Sentence: Idazayn oƛixno nesä yizi tełxorno goƛ’in, ƛ’irir zahrun ƛešun adäz bišʷa ħaƛin, bišƛ’oräytow bexuran yiziƛin.
+Gloss: home-IN.ABL.DIST-TOP appear-PFV.CVB DEM1.ISG.OBL-ERG DEM2.IPL.OBL inside-AD.LAT-and call-PFV.CVB above-LAT poison-and pour-PFV.CVB before food organize-PFV.CVB I.PL-eat-SIM.CVB-EMPH I.PL-kill-FUT.DEF DEM2.IPL.OBL-QUOT
+Translation: Coming out of the house, he called them inside, organized dinner and poured poison in it, to kill them when they eat.
+
+Approximate Matches:
+Sentence: Hunixor yisä łäs q’ˤano sikno eqerno, bišʷan erno, kumakyorgon, ħaƛirxo ik’anix, xizay k’oƛin yayn bara hibon teƛno.
+Gloss: way-AD.LAT DEM2.ISG.OBL-ERG water-ERG-GEN1 two waterskin-TOP put-PFV.CVB food-TOP put-PFV.CVB help-LAT-CNTR put-IPFV.CVB go-MSD-AD.ESS behind run-PFV.CVB II-come-PFV.CVB wife-ERG stick-TOP give-PST.UNW
+Translation: He put two waterskins onto the way, packed some food, and came running behind in order to go put(?), when his wife came running behind him and gave him a stick to go with, which he should put down for help.
+Sentence: C’iɣruk’ä yeɣeni kidbes iyos q’ut’un bic’no, nełastow ħamorok’un roɣno adäz eqerno, maqˤäytow aždaħqor qˤaƛin, biša ħaƛis, howži idur bik’iƛin.
+Gloss: Tsighruk-ERG II-young-DEF daughter-GEN1 blood-GEN1 earthen.jug-TOP III-fill-PFV.CVB DEM1.IISG.OBL-GEN1-EMPH breast-TOP IV-take.away-PFV.CVB ahead put-PFV.CVB far.away-IN.ABL-EMPH dragon-POSS.LAT shout-PST.UNW food organize-PST.WIT now home-LAT III-go-QUOT
+Translation: Tsighruk filled the youngest daughter's blood into an earthen jug, took her breast and put it before himself and shouted from far away to the dragon: "I organized the food, now I'm going home!"

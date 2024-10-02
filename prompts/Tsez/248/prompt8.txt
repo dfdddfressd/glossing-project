@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roynč’ey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roynč’ey: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Bercinawni ɣˤanaza t’ok’ow ƛ’iri xabarkin boynč’ey, mi xiyantaw žek’u zownƛin däqorno eƛin, ceyqor amru boys, yeda žek’u yałzar ižin kuroƛin.
+Gloss: beautiful-DEF woman-ERG anymore above story-even III-do-NEG.PST.CVB you betraying man be.NPRS-PFV.CVB-QUOT me-POSS.LAT-TOP say-PFV.CVB eagle-POSS.LAT command III-do-PST.WIT DEM2.ISG man be-LCV.CVB-CAUS take.out-PFV.CVB throw-IMPR-QUOT
+Translation: The beautful woman, not having said anything; 'You were a traitor', she said to me, and ordered the eagle: 'Take this man to where he came from and throw him out!'
+Sentence: Bišanon bišno, Kusaqor siskin xabar boynč’ey, łˤonon esnabi maħor boqno.
+Gloss: food-TOP III-eat-PFV.CVB Kusa-POSS.LAT any story III-do-NEG.PST.CVB three-TOP brother-PL outside I.PL-become-PST.UNW
+Translation: Having eaten their food, the three brothers went outside without having talked to Kusa.
+Sentence: ƛ’iri xabar boynč’ey bazarganzadetow sadaq oqno užin ik’in.
+Gloss: above story III-do-NEG.PST.CVB merchant-PL-APUD.ESS-EMPH together begin-PFV.CVB boy-TOP go-PST.UNW
+Translation: Without further conversation, the boy went together with the merchants.

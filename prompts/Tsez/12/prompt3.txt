@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣamas using Leipzig glossing symbols. The sentence this word is drawn from means: "By God, I wanted to have someone make a box for so long!".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣamas
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣamas:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sasaqosi moƛaxay yizizaƛ’or kidber ɣamas yexasi yesun.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-POST.CVB girl-LAT box II-die-RES.PRT II-find-PST.UNW
+Translation: When the girl got up in the morning, she found that the box was broken.
+Sentence: Nesä ža ɣamas hokomƛ’on erno iħuxaɣor yižiƛ’oräy, łas haraƛ’ teqnosigon, nełaq roč’uganitow qˤaƛu regin.
+Gloss: DEM1.ISG.OBL-ERG DEM1.SG box carriage-SUPER.ESS-CND put-PFV.CVB river-AD.VERS II-carry-SIM.CVB water-GEN1 voice hear-ANT.CVB-CNTR DEM1.IISG.OBL-POSS.ESS frost-ATTR-DEF-EMPH shout IV-emit-PST.UNW
+Translation: He put the box onto a carriage and while carrying it to a river, but when he heared the water's voice, it emitted a frosty shout.
+Sentence: Howlotow yedu babiƛ’ ƛ’iri yutin, ža ɣamas micxiryoƛ yisoƛin.
+Gloss: there-EMPH DEM2.IISG father-SUPER.ESS above II-return-PFV.CVB DEM1.SG box money-SUB.ESS II-buy-IMPR-QUOT
+Translation: Thereupon she insisted that her father buy this box for the money.
+
+Approximate Matches:
+Sentence: Hemedurtow, dey xediw nexxoƛin, reƛ teƛxosini bazarganno yizide sadaq ɣamasya teł uqˤno yiła.
+Gloss: so-EMPH me-GEN1 husband come-PRS-QUOT meat sell-PRS.PRT-DEF merchant-TOP DEM2.IPL.OBL-APUD.ESS together box-IN.ESS inside hide-PST.UNW DEM2.IISG.OBL-ERG
+Translation: Again she said "My husband is coming!", and also hid the meat-selling merchant inside the box together with them.
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Elo teł min uqˤno, ža ɣamasno hokomƛ’o eqerno, di xanes ez yałza mečoƛ’ar ik’an.
+Gloss: there inside you-TOP hide-PFV.CVB DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB me khan-GEN1 fortress be-LCV.CVB place-SUPER.VERS go-FUT.DEF
+Translation: I will hide you inside it, put that box onto a carriage and go to the place where the king's fortress is.

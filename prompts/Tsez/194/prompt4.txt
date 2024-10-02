@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boqzaƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boqzaƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boqzaƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ele hoboda debi mi eɣʷedin et’no biqiräsi micxir boqzaƛ’, c’idaɣor kura baynč’iƛin, eƛin babiya, užä nesä nesir micxir boda oqsiƛin rok’u č’eze roqnosi.
+Gloss: there that you-GEN1 you sweat-TOP pour-PFV.CVB III-win-RES.PRT money III-become-CSL.CVB fire-APUD.VERS throw-INF III-must-NEG.FUT-QUOT say-PFV.CVB dad-ERG boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT money III-do-INF begin-PST.WIT-QUOT heart convinced[?] IV-become-ANT.CVB
+Translation: "There, because it's the money you earned with your own sweat, I don't have to throw it into the fire.", said the father, and was convinced that his son earned money for himself.
+Sentence: Užä eƛin, ƛa boqzaƛ’ beza bik’an nełaƛ’ƛin.
+Gloss: boy-ERG say-PST.UNW go.IMPR III-become-CSL.CVB I.PL-look-INF I.PL-go-FUT.DEF DEM1.IISG.OBL-SUPER.ESS-QUOT
+Translation: The boy said: "Let's go, if it is, we'll look at it!"
+Sentence: Mix bik’äsi zamanno boqzaƛ’, yiła ɣˤanaza yeda neła nełdäɣor ƛirbałix ižix.
+Gloss: time III-go-RES.PRT time-TOP III-become-CSL.CVB DEM2.IISG.OBL woman-ERG DEM2.ISG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-APUD.VERS hospitality-AD.ESS lead-PRS
+Translation: Because some time had passed, that woman let him be her guest.
+
+Approximate Matches:
+Sentence: Łäƛ’or yäk’iru yiła kidber neł aždaħä, ƛirbar retäsi roqzaƛ’ƛin, bic’no sis tungi teƛno.
+Gloss: water-SUPER.LAT II-go-PST.PRT DEM2.IISG.OBL girl-LAT DEM1.IISG.OBL dragon-ERG guest-LAT IV-want-RES.PRT IV-happen-CSL.CVB-QUOT III-fill-PFV.CVB one copper.jug give-PST.UNW
+Translation: The dragon gave the girl that went to look for water a jug filled with water, because that happened to be what the guest wanted.
+Sentence: Nar yik’a koƛ’inč’ey, sasiw ɣudin roqzaƛ’, ža kid sasaqor ciqqotow ƛexun.
+Gloss: where II-go-INF understand.to-NEG.PST.CVB gloomy day-TOP IV-become-CSL.CVB DEM1.SG girl in.the.morning-POSS.LAT forest-POSS.ESS-EMPH remain-PST.UNW
+Translation: Not knowing where to go, and because the day became gloomy, the girl stayed in the forest until morning.
+Sentence: Digon ayäsi elo žeduz bertenyołer nesi ʕAliqiličä där łeno ukru neƛsi yedu kesubi caxxosi oqzaƛ’.
+Gloss: me-CNTR come-RES.PRT there DEM1.IPL.OBL-GEN2 marriage-CONT.LAT DEM1.ISG.OBL Aliqilich-ERG me-LAT five silver give-PST.WIT DEM2.IISG tale-PL write-PRS.PRT become-CSL.CVB
+Translation: And I came to their marriage as well, and Aliqilich gave me 5 silver (coins), because I am writing down those tales.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word biča in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word biča: 
+
+Exact Matches
+Sentence: Zeygon bet’un k’oƛin bičäsi zown, ħurženyabin, gulun där biča bayƛin.
+Gloss: bear-CNTR III-jump-PFV.CVB jump-PFV.CVB III-be-RES.PRT be.NPRS-PST.UNW bag-PL-and horse-and me-LAT III-be-INF III-must-QUOT
+Translation: And the bear jumped and was like: "The bags and the horse must be for me!"
+Sentence: Dey esnabi, babiya badiru wasiyatyoƛ’ req’un t’o mesedyos łˤono saħ biča bay, amma t’o q’ˤano taraw saħ anu.
+Gloss: me-GEN1 brother-PL father-ERG III-fulfilled legacy-SUPER.ESS in.accordance.with here gold-GEN1 three sah I.PL-be-INF III-must but here two except.for sah be.NEG
+Translation: "My brothers, according to father's fulfilled legacy, 3 Sah of gold must be here, but here is nothing more than 2 Sah.
+Sentence: Yałi eluł boƛƛ’o ƛˤori biča yołƛin.
+Gloss: else we(I).OBL-CONT.ESS between war III-be-INF be-QUOT
+Translation: Or else there will be war between us!"
+
+Approximate Matches:

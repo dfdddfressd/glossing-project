@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hič’č’a in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hič’č’a: 
+
+Exact Matches
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"
+Sentence: Howła imadał hič’č’a ixiw šebi yoł: isä, ceyä, t’ekayä, aħoyä, ziruyä, q’orol ɣˤanabiyä?
+Gloss: DEM3.IISG.OBL tale-CONT.ESS the.most big who be conceive eagle-Q he.goat-Q shepherd-Q fox-Q widowed woman-Q
+Translation: Who is the biggest one in this tale: The bull, the eagle, the goat, the shepherd, the fox or the widow?
+Sentence: Radiru rigłin riynč’ey, bežet’ani esnaza daʕba bodin, hič’č’a bercinaw kid deber šida yiča yayxƛin.
+Gloss: IV-do-PST.PRT IV-good-CNC.CVB IV-know-NEG.PST.CVB I.PL-old-DISTR-DEF brother-PL-ERG dispute III-do-PFV.CVB the.most beautiful girl you-LAT why II-be-INF II-must-PRS-QUOT
+Translation: The other brothers didn't know what good he had done, and began to argue: "Why must the most beautiful girl be for you?"
+
+Approximate Matches:
+Sentence: Igaɣor bayƛ’oräy, hič’č’an yeɣeni esiyagon, babiya nełqor teƛno zawruni, hiƛu kurno.
+Gloss: near-IN.VERS III-come-SIM.CVB the.most-TOP II-young-DEF sister-ERG-CNTR father-ERG DEM1.IISG.OBL-POSS.LAT give-PFV.CVB be.NPRS-PST.PRT-DEF comb throw-PST.UNW
+Translation: When it came closer, the youngest sister threw down the comb that their father had given to her.
+Sentence: Sosisi yisä esinč’ey iča oqäsi zown, xizyo kidbä xecinč’izaƛ’ esin, hemedur xanä mužmareł sual neƛsi, hič’č’an qˤaban, hič’č’an kokorun, hič’č’an ʕedeʕaraw šebin šebiƛin.
+Gloss: at.first-ATTR DEM2.ISG.OBL-ERG tell-NEG.PST.CVB be-INF begin-RES.PRT be.NPRS-PFV.CVB afterwards daughter-ERG leave-NEG.FUT.CVB-CSL.CVB tell-PST.UNW so khan-ERG Friday-CONT.ESS question give-PST.WIT the.most-and black-and the.most-and soft-and the.most-and quick thing what-QUOT
+Translation: At first he didn't want to tell it, but then, because his daughter wouldn't leave him, he told: "The king asked a question this Friday: 'What is the blackest, softest and quickest thing?'
+Sentence: Yoƛosini, hič’č’an bercinawni xanes kid yołƛin, yukarno Ismaʕilä.
+Gloss: II-middle-ATTR-DEF the.most-TOP beautiful-DEF khan-GEN1 daughter be-QUOT II-show-PST.UNW Ismail-ERG
+Translation: "The middle one, the most beautiful daughter of the king.", Ismail showed here.

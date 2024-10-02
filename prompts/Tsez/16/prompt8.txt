@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: micxirno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": micxirno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word micxirno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida bečedaw žek’uderno ik’in, nesiz k’udoz baɣman eynoyn, micxirno bodin, bižin babiwqor teƛno.
+Gloss: one.OBL wealthy man-APUD.LAT-TOP go-PFV.CVB DEM1.ISG.OBL-GEN2 vine-GEN2 garden-IN.ESS-TOP work-PFV.CVB money-TOP III-do-PFV.CVB III-carry-PFV.CVB father-POSS.LAT give-PST.UNW
+Translation: He went to a wealthy man, worked on his vineyard, earned money and carried it to give it to his father.
+Sentence: Hunixor ʕeziyaw micxirno teƛno, xanä Bilq’isdi yegirno, deber rätizaɣor yik’iƛin.
+Gloss: way-AD.LAT much money-TOP give-PFV.CVB khan-ERG Bilqisdi II-send-PFV.CVB you-LAT IV-want-ATTR.OBL-IN.VERS II-go-QUOT
+Translation: The king gave her a lot of money for the way and sent Bilqisdi away: "Go wherever you want!"
+Sentence: Kusa nesir raqru łinałäyn esin eɣeni esiwq, dicegon baq’ˤu micxirno, mesedno boqłin, däq siskin šebin roda roqxanuƛin.
+Gloss: Kusa-ERG DEM1.ISG.OBL-LAT IV-happen-PST.PRT what.OBL-CONT.ABL-TOP tell-PST.UNW young-DEF brother-POSS.ESS how.much-CNTR III-much money-and gold-and III-become-CNC.CVB me-POSS.ESS any thing IV-do-INF IV-become-PRS-NEG-QUOT
+Translation: Kusa told the younger brother what had happened to him: "No matter how much money and gold I have, I don't manage to do anything.
+
+Approximate Matches:
+Sentence: Nedur resunäyƛin, eƛin dibirez barä, din yik’an dowde sadaq, därno ence betäsi ukrun, micxirnoƛin.
+Gloss: so IV-exist-CND.CVB-QUOT say-PST.UNW mullah-GEN2 wife-ERG me-and II-go-FUT.DEF you-APUD.ESS with me-LAT-and a.little III-want-RES.PRT silver-and money-and-QUOT
+Translation: "If that is the case," said the mullah's wife, "I will also go with you, because I also want silver and money."

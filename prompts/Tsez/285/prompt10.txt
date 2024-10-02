@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ax in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ax: 
+
+Exact Matches
+Sentence: Xanez užä zey ax roqace bišerno.
+Gloss: khan-GEN2 son-ERG bear belly IV-happen-TERM III-eat-CAUS-PFV.CVB
+Translation: The khan's son fed down the bear.
+Sentence: Täƛru łinaƛ’no razin oqinč’ey, t’omceni žek’a žigon esirno bišʷa, yiłaq dey ax roqinč’uƛin.
+Gloss: give-PST.PRT what.OBL-SUPER.ESS-TOP accept-TOP become-NEG.PST.CVB span-EQU1-DEF man-ERG again.now ask-PST.UNW food DEM2.IISG.OBL-POSS.ESS me-GEN1 belly IV-become-NEG.PST.WIT-QUOT
+Translation: Not having accepted what he was given, the span-sized man asked again for food: "I won't get my fill from that."
+Sentence: Howži yołi yizide sadaq xannonan ax roqace išno.
+Gloss: now however DEM2.IPL.OBL-APUD.ESS together khan-and-INT belly IV-become-TERM eat-PST.UNW
+Translation: Now, however, even the king ate together with them until his belly was full.
+
+Approximate Matches:

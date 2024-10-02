@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣˤanazaq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣˤanazaq: 
+
+Exact Matches
+Sentence: Sidaɣ lalašin łi räk’iza mečoƛ’, xanes kid teł yałruni k’emot’ ɣˤanazaq yiqin.
+Gloss: in.one.place spread-PFV.CVB water IV-go-LCV.CVB place-SUPER.ESS khan-GEN1 daughter inside be-PST.PRT-DEF wooden.case woman-POSS.ESS II-get-PST.UNW
+Translation: In one place, where the river spread out, the wooden chest with the princess inside got to a woman.
+Sentence: Žedu bigtow q’ʷaridno boqno bičäsi boqzaƛ’, eɣeni esiya neł ečruni ɣˤanazaq esirno, žedu šida nece q’ʷaridno boqno bičäsiƛin.
+Gloss: DEM1.IPL III-much-EMPH sadness-TOP I.PL-become-PFV.CVB I.PL-be-RES.PRT I.PL-become-CSL.CVB young-DEF brother-ERG DEM1.IISG.OBL old-DEF woman-POSS.ESS ask-PST.UNW DEM1.IPL why so.much sadness-TOP I.PL-become-PFV.CVB I.PL-be-RES.PRT-QUOT
+Translation: Because they were very sad, the younger brother asked that old woman: "Why are they so sad?"
+Sentence: Ismaʕilä eƛin, där moƛał yukayru kid yiqizaƛ’or, di ɣˤanazaq reƛ’a atixosi anuƛin.
+Gloss: Ismail-ERG say-PST.UNW me-LAT dream-CONT.ESS II-see-PST.PRT girl II-get-POST.CVB me woman-POSS.ESS hand touch-PRS.PRT be.NEG-QUOT
+Translation: Ismail said: "Until I get the girl that I saw in my dream, I will not lay hand on any woman."
+
+Approximate Matches:
+Sentence: Xanä madaxozoniqor eƛin, mesedyos q’ˤuri užiƛer teƛ, micxiryos - kidbeƛer, pakmos - ƛirbaqor, qacis q’ˤuri imyoqor yicin zawruni ɣˤanazaqor teƛƛin.
+Gloss: khan-ERG gate-AD.ESS-ATTR.OBL-DEF-POSS.LAT say-PST.UNW gold-GEN1 chair boy-SUB.LAT give silver-GEN1 - girl-SUB.LAT copper-GEN1 - guest-POSS.LAT wood-GEN1 chair pole-POSS.LAT II-tie-PFV.CVB be.NPRS-PST.PRT-DEF woman-POSS.LAT give-QUOT
+Translation: The king said to the guard: "Give the golden chair to the boy, the silver one to the girl, the copper one to the guest and the wooden one give to the woman who was tied to the pole."

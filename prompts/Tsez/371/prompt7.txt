@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word horoƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word horoƛin: 
+
+Exact Matches
+Sentence: Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.
+Gloss: so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT
+Translation: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.
+Sentence: Bik’i hudu cin cedin horoƛin” - eƛin zeyä.
+Gloss: III-go so name-TOP name-PST.UNW come.IMPR-QUOT - say-PST.UNW bear-ERG
+Translation: "So go, give him a name and come back!", said the fox.
+Sentence: Haq’udär yik’anix xedyoqay izmu esirnosi, nesägon łˤora becän yičin, hulon rexurno horoƛin yegirno.
+Gloss: family-APUD.VERS II-go-MSD-AD.ESS husband-POSS.ABL permission ask-ANT.CVB DEM1.ISG.OBL-ERG-CNTR three.OBL month-IN.ESS-TOP II-be-PFV.CVB miss-CND IV-kill-PFV.CVB come.IMPR-QUOT II-let-PST.UNW
+Translation: When she asked her husband for permission to go to her family, he let her go with the words: "You may stay three months, then, after [you killed the boredom(?)] come back!"
+
+Approximate Matches:
+Sentence: Horoƛin, eƛix xizyo Ražbadinä halmaɣłiqor, Huläɣor eli łinar bik’an, howt’aytow bˤeƛ’no rok’ek’no xizor butin rigu anaƛin.
+Gloss: come.IMPR-QUOT say-IPFV.CVB afterwards Razhbadin-ERG friendship-POSS.LAT Georgia-IN.VERS we why I.PL-go-FUT.DEF from.here-EMPH sheep-TOP III.PL-steal.from-PFV.CVB back III-return-PFV.CVB IV-good be.NEG-Q-QUOT
+Translation: "Come", said Razhbadin to his friends afterwards, "why shouldn't it be better for us to go back to Georgia, steal some from the flock and then return?"

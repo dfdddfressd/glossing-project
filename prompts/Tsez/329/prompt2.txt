@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣunoqay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣunoqay: 
+
+Exact Matches
+Sentence: Elay mekoyx yałru yisä bet’urno neł ɣunoqay c’udani heneš bac’nosi, nesiłäy ɣun roqno.
+Gloss: there-IN.ABL be.hungry-IPFV.CVB be-PST.PRT DEM2.ISG.OBL-ERG III-pull.out-PFV.CVB DEM1.IISG.OBL tree-POSS.ABL red-DEF apple III-eat-ANT.CVB DEM1.ISG.OBL-CONT.ABL tree IV-become-PST.UNW
+Translation: Then, he - being hungry - plucked a red apple from that tree and ate it, he became a tree.
+Sentence: Xizyogon zira eƛin, walla, howža di eƛix zowali łiłiroƛ’ozoni ɣunoqay yaqˤułer ƛˤebno yok’ek’no.
+Gloss: then fox-ERG say-PST.UNW wallah DEM4.SG me say-IPFV.CVB be.NPRS-ATTR ditch-SUPER.ESS-GEN2-DEF tree-POSS.ABL today-LAT leaf-TOP II-steal-PST.UNW
+Translation: Then the fox said: "By God, someone stole the leaf from the tree on that ditch I talked about.
+Sentence: Kidbazä esin, eli babiwde sadaq saparyox roqäsi zows, babiwn gugin howt’o ƛexasi yoł, ela debez ɣunoqay dahaw henešno but’in bac’siƛin.
+Gloss: girl-PL-ERG tell-PST.UNW we father-APUD.ESS together journey-AD.ESS II.PL-become-RES.PRT be.NPRS-PST.WIT father-TOP escape-PFV.CVB here remain-RES.PRT be we(II-ERG you-GEN2 tree-POSS.ABL a.little apple-TOP III-rip.out-PFV.CVB III-eat-PST.WIT-QUOT
+Translation: The girls said: "We were travelling together with our father, and he ran away and we were staying here; and we picked some apples from your tree and ate them."
+
+Approximate Matches:
+Sentence: Hoboy yedu däƛ’or nexxoƛin, zeygon ɣunoqayn bˤoƛ’un, q’ˤidayn bizin zebu yoɣno boxin.
+Gloss: now DEM2.IISG me-SUPER.LAT come-PRS-QUOT bear-CNTR tree-POSS.ABL-and III-fall-PFV.CVB down-IN.ABL-and III-get-PFV.CVB running II-take.away-PFV.CVB III-run.away-PST.UNW
+Translation: "Now he's coming to me!", the bear fell off the tree, got down and ran away quickly.
+Sentence: Ža nesä äƛirun, bet’un k’oƛin ɣunoqayn boqno babiwz koyär nexno.
+Gloss: DEM1.SG DEM1.ISG.OBL-ERG say-PST.PRT-TOP III-jump-PFV.CVB run-PFV.CVB tree-POSS.ABL-TOP III-become-PFV.CVB father-GEN2 hand-IN.LAT come-PST.UNW
+Translation: After he had said this, it jumped up and ran [flew] off the tree and came into the father's hand.

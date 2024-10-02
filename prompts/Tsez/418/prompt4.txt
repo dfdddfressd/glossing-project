@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yiził in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yiził: 
+
+Exact Matches
+Sentence: Yizi bukayrun, aždaħä zudäy roɣno ixiw riris ɣun yiził adäzar rayrno kurno.
+Gloss: DEM2.IPL I.PL-see-IMM.ANT.CVB dragon-ERG root-IN.ABL IV-take.away-PFV.CVB big alder-GEN1 tree DEM2.IPL.OBL-CONT.ESS before-IN.LAT IV-bring-PFV.CVB throw-PST.UNW
+Translation: When he saw them, the dragon tore out an alder tree from its roots and threw it before them.
+Sentence: Xizyo yiził adäza biša erno.
+Gloss: afterwards DEM2.IPL.OBL-CONT.ESS before food put-PST.UNW
+Translation: Afterwards food was served before them.
+Sentence: Enda užin, baħarawn sidä sidde puħon bičirno, yiził roƛƛo ciqqay reč’no rown hečk’er ɣunno eqerno, ža ɣun ładäɣor rutix, nesix yedu baħarayn yegira yayƛin.
+Gloss: DEM3b.SG boy-and fiancé-and one.OBL-ERG one.OBL-APUD.ESS side-AD.ESS-TOP I.PL-remain-CAUS-PFV.CVB DEM2.IPL.OBL-CONT.ESS IV-middle forest-POSS.ABL IV-cut-PFV.CVB IV-bring-PFV.CVB upright tree-TOP put-PFV.CVB DEM1.SG tree who.OBL-APUD.VERS IV-turn-IPFV.CVB DEM1.ISG.OBL-AD.ESS DEM2.IISG fiancée-TOP II-send-INF II-must-QUOT
+Translation: That boy and the groom we let stand side to side, and in their middle we'll put upright a tree that we cut from the forest and brought here, to whomever the tree falls, he must be married to the bride.
+
+Approximate Matches:
+Sentence: Sasaqosi moƛaxay yizinosi, Bilq’isdä Allahqo harizi rodin, eli q’ˤanon debi laɣbi deber betixozołäysi besunäy, howt’otow elus ruħ boɣoƛin.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-ANT.CVB Bilqisdi-ERG God-POSS.ESS request IV-do-PST.UNW we two-TOP you-GEN1 slave-PL you-LAT I.PL-love-IPFV.CVB-ATTR.OBL-CONT.ABL-ATTR I.PL-appear-CND.CVB here-EMPH we(I).OBL-GEN1 soul III-take.away-IMPR-QUOT
+Translation: In the morning, when she got up from her sleep, Bilqisdi prayed to Allah: "If we two are not among the slaves you love, then take our souls right here!"
+Sentence: Yexoriłƛin eƛinosigon, ele yexoriłinč’aƛin hečk’erno yizin.
+Gloss: II-become.longer-QUOT say-ANT.CVB-CNTR here II-become.longer-NEG.PST.WIT-Q-QUOT upright-TOP II-get.up-PST.UNW
+Translation: And when he said "Get longer!", she said "Here, am I not getting longer?" and got up upright again.
+Sentence: Qˤišdäy sodersi zaman baynosi, yizirabi rešt’izi boqanix sidaɣ sanaʕataw mečoƛ’or bayn.
+Gloss: at.noon.APUD.ABL after-ATTR time III-come-ANT.CVB DEM2.PL take.a.rest I.PL-become-MSD-AD.ESS in.one.place comfortable place-SUPER.LAT I.PL-come-PST.UNW
+Translation: When the afternoon had come, they came to a comfortable place to take a rest.

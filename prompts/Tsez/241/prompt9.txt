@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eluqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eluqor: 
+
+Exact Matches
+Sentence: Elor baynosi, yizä žas ɣˤutkun resurno, idurno, bik’in eƛin, mi eli baƛ’irno, elus ħumukulibin, žedaƛ’ ƛ’iri zawru q’ayn elus eluqor xizor butirno neƛƛin.
+Gloss: there-LAT I.PL-come-ANT.CVB DEM2.IPL-ERG boy-GEN1 house-TOP IV-find-PFV.CVB home-LAT-TOP I.PL-go-PFV.CVB say-PFV.CVB you we I.PL-cheat-PFV.CVB we(I).OBL-GEN1 camel-PL-TOP DEM1.IIPL.OBL-SUPER.ESS on be.NPRS-PST.PRT article-TOP we(I).OBL-GEN1 we(I).OBL-POSS.LAT back III-give.back-PFV.CVB give-QUOT
+Translation: When they arrived there, they found the boy's house, went inside and said: "You tricked us, give us back our camels and the goods that were on them!"
+
+Approximate Matches:
+Sentence: Alay-bulayƛin eƛixozo guluqorno qˤaƛin, ʕoƛira putce yoq’ˤiw kedonno yisno, ža Ismaʕilƛ’or yoqno.
+Gloss: Alay~bulay-QUOT say-PRS.PRT.OBL horse-POSS.LAT-TOP shout-PFV.CVB seven.OBL pood-EQU1 II-heavy sledgehammer-TOP II-take-PFV.CVB DEM1.SG Ismail-SUPER.LAT II-become-PST.UNW
+Translation: She shouted after her horse names Alay-bulay, took a 7-pood heavy sledgehammer and went to Ismail.
+Sentence: Neła äƛiruxor, xanez užä ač’urqor gulun bicin, k’ulä bäsuru ahlimoqor salamno teƛno eƛin, däqor meža maxsar boyłin, yiła guluqor badinoƛin.
+Gloss: DEM1.IISG.OBL-ERG say-PST.PRT-AD.LAT khan-GEN2 son-ERG handle-POSS.LAT horse-TOP III-tie-PFV.CVB side.street-IN.ESS I.PL-find-PST.PRT people-POSS.LAT greeting-TOP give-PFV.CVB say-PST.UNW me-POSS.LAT you(I).PL.OBL-ERG joke III-do-CNC.CVB DEM2.IISG.OBL horse-POSS.LAT III-do-PROHIB-QUOT
+Translation: According to what she said, the prince tied the horse to the handle gave a greeting to the people he found in the side street and said: "Although you can make jokes about me, do not make jokes about this horse!"

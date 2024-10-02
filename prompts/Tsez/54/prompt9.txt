@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bayanƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bayanƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bayanƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žeda yeda ader egirno eli xizaz bayanƛin.
+Gloss: DEM1.IPL.OBL-ERG DEM2.ISG forward send-PFV.CVB we behind I.PL-come-FUT.DEF-QUOT
+Translation: They sent him ahead, [saying]: "We'll come behind."
+Sentence: Xexbi roda netiey zaman bayanƛin, xanä ɣudbi t’et’erxo ičäsi zown.
+Gloss: children III.PL-do-INF when-DUB time III-come-FUT.DEF-QUOT khan-ERG day-PL count-IPFV.CVB wait-RES.PRT be.NPRS-PST.UNW
+Translation: The king waited and counted the days until the time when the children would be born.
+
+Approximate Matches:
+Sentence: Ža maxsarno bacin, łox äƛiru hunix Zeyes Aħya bˤałayn risno oč’ino q’ˤim yołali aždaħno bexurno xalq’imoƛ’ay yedu ɣudi roɣanƛintow ik’in.
+Gloss: DEM1.SG joke-TOP III-bother-PFV.CVB thrice say-PST.PRT way-AD.ESS bear-GEN1 ear dagger-TOP IV-take-PFV.CVB nine head be-ATTR dragon-TOP III-kill-PFV.CVB people-SUPER.ABL DEM2.IISG day IV-take.away-FUT.CVB-QUOT-EMPH go-PST.UNW
+Translation: Being bothered by this mockery, Bear Ear took his dagger and went to kill the dragon with the nine heads and to take this burden off the people.
+Sentence: Yedu t’akan łu t’or yayräƛin nesä bayan bisnosi, oƛixno k’oƛin nesistow wazirä di yowsƛin eƛin.
+Gloss: DEM2.IISG glass who.ERG here-LAT II-bring-PST.WIT.INT-QUOT DEM1.ISG.OBL-ERG information III-take-ANT.CVB appear-PFV.CVB run-PFV.CVB DEM1.ISG.OBL-GEN1-EMPH vizier-ERG me II-bring-PST.WIT-QUOT say-PST.UNW
+Translation: When he wanted to know: "Who brought this glass here?", his vizier came running and said: "I brought it!"
+Sentence: Elon eɣeni esiya žedur sis ħilla urɣizi bodin, araq’is bic’äsi q’urec’nin bižin ik’in, xanes nukarbin ħalik’no, elay eženi esiws cudi bok’ek’anƛin.
+Gloss: there-TOP young-DEF brother-ERG DEM1.IPL.OBL-LAT one trickery thinking III-do-PST.UNW vodka-GEN1 III-fill-RES.PRT mule-TOP III-lead-PFV.CVB go-PFV.CVB khan-GEN1 henchman-PL-TOP water-PFV.CVB there-IN.ABL old-DEF brother-GEN1 corpse III-steal-FUT.DEF-QUOT
+Translation: There the younger brother thought of playing a trickery on them: he would lead a mule packed with vodka and would "water" the king's henchmen and then would steal his older brother's corpse from there.

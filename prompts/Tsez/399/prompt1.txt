@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Zownƛax in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Zownƛax: 
+
+Exact Matches
+Sentence: Nesis zownƛax sistow sis uži.
+Gloss: DEM1.ISG.OBL-GEN1 be.NPRS-PST.UNW-QUOT one-EMPH one son
+Translation: He had just one single son.
+Sentence: Nełasgon łinasnokin hunar anusi kid zownƛax.
+Gloss: DEM1.IISG.OBL-GEN1-CNTR what.OBL-GEN1-TOP-even talent be.NEG-ATTR daughter be.NPRS-PST.UNW-QUOT
+Translation: She had a daughter with no talent whatsoever.
+Sentence: Esin šebi, xecin šebi zownƛax zown anuƛax sis žek’u.
+Gloss: tell-PFV.CVB what leave-PFV.CVB what be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB be.NEG-QUOT one man
+Translation: Once upon a time there was a man.
+
+Approximate Matches:
+Sentence: Zownƛax, zown anuƛax sis bełiqu.
+Gloss: be.NPRS-PST.UNW-QUOT be.NPRS-PST.UNW be.NEG-QUOT one hunter
+Translation: Once upon a time there was a hunter.
+Sentence: Zownƛax zownanuƛax Mamali-Maħamaƛin ci yołäsi habihan.
+Gloss: be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB-NEG-QUOT Mamali~Magomed-QUOT name be-RES.PRT miller
+Translation: Once upon a time there was a miller named Mamali-Magomed.
+Sentence: Zownƛax zown anuƛax onočun, mamalayn.
+Gloss: be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB be.NEG-QUOT hen-and rooster-and
+Translation: Once upon a time there was a hen and a rooster.

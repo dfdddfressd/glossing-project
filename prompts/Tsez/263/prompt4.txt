@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word c’eruc’as in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word c’eruc’as: 
+
+Exact Matches
+Sentence: Žedun razi roqno, kurno yisä c’eruc’as hil.
+Gloss: DEM1.IIPL-TOP agree II.PL-become-PFV.CVB shoot.from-PST.UNW DEM2.ISG.OBL-ERG bow-GEN1 arrow
+Translation: They agreed and he shot the arrow.
+Sentence: Ħon-bahadurä kurno c’eruc’as hil, aždaħzo yoƛƛo hut’-mˤalä c’oxno.
+Gloss: Mountain~Hero-ERG shoot.from-PFV.CVB bow-GEN1 arrow dragon-GEN2 II-middle front.part.of.the.face-IN.ESS hit-PST.UNW
+Translation: Mountain~Hero shot an arrow from his bow and hit the dragon in the middle of its face.
+Sentence: Nełqazay Ħasaner riyn c’eruc’as hilno q’ˤiryoł caƛin, Ħusen guluzał xizay ʕaƛaɣor nexno zawrułin, nesirgon hunix aždaħno keze boqno, neła axʷaɣor ägirułin.
+Gloss: DEM1.IISG.OBL-POSS.ABL.DIST Hassan-LAT IV-know-PFV.CVB bow-GEN1 arrow-TOP floor-CONT.ESS stick-PFV.CVB Hussein horse-PL-CONT.ESS behind village-IN.VERS come-PFV.CVB be.NPRS-PST.PRT-NMLZ-and DEM1.ISG.OBL-LAT-CNTR way-AD.ESS dragon-TOP meet III-become-PFV.CVB DEM1.IISG.OBL-ERG belly-IN.VERS swallow-PST.PRT-NMLZ-and
+Translation: From her he knew that Hussein sticked his bow's arrow into the floor and went to the village for horses, and that he met a dragon on the way, which swallowed him into his belly.
+
+Approximate Matches:
+Sentence: Eɣeni esiws c’eruc’a resatow resux zownanu.
+Gloss: young-DEF brother-GEN1 bow IV-find-INF-EMPH IV-find-IPFV.CVB be.NPRS-PST.UNW-NEG
+Translation: The younger brother's bow didn't find anything at all.
+Sentence: ʕAliqiličä nełaz c’eruc’a caƛin.
+Gloss: Aliqilich-ERG DEM1.IISG.OBL-GEN2 bow throw-PST.UNW
+Translation: Aliqilich shot with his bow.
+Sentence: Ay, di ik’ix, nesiƛ’ adäz di exuƛƛin, aceł c’eruc’an caƛin, bˤaƛoyn gulun, et’un k’oƛin nełaƛ’no zown Ħusen hunix oqno.
+Gloss: must me go-PRS DEM1.ISG.OBL-SUPER.ESS before me die-OPT-QUOT door-CONT.ESS bow-TOP shoot.with-PFV.CVB III-harness-PFV.CVB horse-TOP jump-PFV.CVB run-PFV.CVB DEM1.IISG.OBL-SUPER.ESS-TOP ride-PFV.CVB Hussein way-AD.ESS become-PST.UNW
+Translation: "No, I am going, may I die before him!", Hussein [said and] shot at the door with his bow, harnessed the horse, and quickly rode on his way on it.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eɣeni.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eɣeni
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eɣeni:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełde idur baynosi, šakno oqno eɣeni esiya kidbeq ħaƛanix łi esiro.
+Gloss: DEM1.IISG.OBL-APUD.ESS home-LAT I.PL-come-ANT.CVB suspicion-TOP become-PFV.CVB young-DEF brother-ERG girl-POSS.ESS drink-MSD-AD.ESS water ask-IMPR
+Translation: When they came to the house where she was, the youngest brother became suspicious and asked the girl if she wanted to drink some water.
+Sentence: Howži ža ɣamasno hokomƛ’o erno, eɣeni esiw xanes kid yałruni qalamxaɣor ik’in.
+Gloss: now DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB young-DEF brother khan-GEN1 daughter be-PST.PRT-DEF fortress-AD.VERS go-PST.UNW
+Translation: Now they put the box onto a carriage and the young brother went to the fortress where the king's daughter was.
+Sentence: Baq’ˤu mix bik’izaƛ’ortow, eɣeni esiwr teqxo xabar, yisiz eženi esiws cudi nukarza c’unzi bodix sida qunyox yołƛin.
+Gloss: III-much time III-go-POST.CVB-EMPH young-DEF brother-LAT hear-PRS story DEM2.ISG.OBL-GEN2 old-DEF brother-GEN1 corpse henchman-PL-ERG guard I.PL-do-IPFV.CVB one.OBL farmstead-AD.ESS be-QUOT
+Translation: Before much time has passed, the younger brother was hearing the story that his older brother's corpse was at a farmstead being guarded by henchman.
+
+Approximate Matches:
+Sentence: Sasaqosi moƛaxayn bizin, aždaħä yeɣeni kidbeqorƛin eƛin, Maryam där bišan riso, ič’an eɣeni užiz iyos q’ut’un bic’o mečołxor raƛin.
+Gloss: in.the.morning sleep-AD.ABL-TOP III-get.up-PFV.CVB dragon-ERG II-young-DEF daughter-POSS.LAT-QUOT say-PST.UNW Maryam me-LAT food-TOP IV-take-IMPR most-TOP young-DEF boy-GEN2 blood-GEN1 earthen.jug-TOP III-fill-IMPR field-CONT.VERS IV-bring-QUOT
+Translation: In the morning, after getting up from his sleep, the dragon said to - what he supposed was - his youngest daughter: "Maryam, take the food to me and fill the earthen jug with the youngest boy's blood and bring them to the field!"
+Sentence: Łäs tungin bic’no nexxo yedu yukayrun, yeda nełqay oxin ik’iƛ’oräy, mi ži daqäy ok’ła moči anuƛin, tungin q’ˤidar kurno yeɣeni esiw xizay k’oƛin.
+Gloss: water-GEN1 copper.jug-TOP III-fill-PFV.CVB come-IPFV.CVB DEM2.IISG II-see-IMM.ANT.CVB DEM2.ISG DEM1.IISG.OBL-POSS.ABL run.away-PFV.CVB go-SIM.CVB you now me-POSS.ABL escape-INF place be.NEG-QUOT copper.jug-TOP down-LAT throw-PFV.CVB II-young-DEF sister behind run-PST.UNW
+Translation: When he saw his younger sister coming back with a copper jug filled with water, he ran away from her, while she said: "Now there's no place you could escape from me [to]!", threw the jug down and ran behind him.
+Sentence: Łˤonon žedu rukaynosi, yeɣeni kid yezun ƛexun, yizigon nazay t’or keze roqäƛin.
+Gloss: three-TOP DEM1.IPL II.PL-see-ANT.CVB II-young-DEF girl II-look-PFV.CVB remain-PFV.CVB DEM2.IPL-CNTR from.where here-LAT meet II.PL-become-PST.WIT.INT-QUOT
+Translation: When the young girl saw the three of them, it remained looking [surprised] and asked, where they had come from.

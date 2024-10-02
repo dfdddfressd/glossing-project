@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ričin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ričin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ričin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemece rigu ɣˤutkun ričin, łinaq mi q’ʷarid oqxoƛin, esirno eženä.
+Gloss: such IV-pretty house-TOP IV-be-PFV.CVB what.OBL-POSS.ESS you sadness become-PRS-QUOT ask-PST.UNW old-DEF-ERG
+Translation: "That is such a pretty house, what are you so sad about?", asked the old one.
+Sentence: Bełiƛ’ esnabi bäk’äsi yałzay, eɣeni esiwz bara k’orin boyn nazon q’ˤidan ričin bac’ƛ’oräy, Umukusez haqa bašiqˤoy šišin, k’ori boyƛ’orey eɣeni esiwz baruqay rˤaƛ’uruni.
+Gloss: hunting-SUPER.ESS brother-PL I.PL-go-ATTR be-SIM.CVB young-DEF brother-GEN2 wife-ERG oatmeal-TOP III-do-PFV.CVB everyone.OBL-TOP down-TOP II.PL-sit-PFV.CVB III-eat-SIM.CVB Umukus-GEN2 mouth-IN.ESS ring get.stuck-PST.UNW oatmeal III-do-SIM.CVB young-DEF brother-GEN2 wife-POSS.ABL IV-fall-PST.PRT-DEF
+Translation: When the brothers were going hunting, the youngest brother's wife made an oatmeal and when everyone sat down and ate, a ring that fell off the youngest brother's wife when she made the oatmeal, got stuck in Umukus' mouth.
+Sentence: Elo teł yexasi esiw yesunosi, yedu šebin šebi t’o idu roqxoƛin baruzaq esirzaƛ’, elar riyxosi šebin anuƛin, inkar bisno ričin.
+Gloss: there inside II-die-RES.PRT sister II-find-ANT.CVB DEM2.IISG thing what here home IV-happen-PRS-QUOT wife-PL-POSS.ESS ask-CSL.CVB here-IN.LAT IV-know-PRS.PRT thing be.NEG-QUOT rejection III-take-PFV.CVB II.PL-be-PST.UNW
+Translation: When they found their dead sister inside, and asked their wives: "What happened here at home?", they rejected: "We don't know anything about this here."
+
+Approximate Matches:
+Sentence: Esnabi, muši kuracekin ričinč’ey, aždaħqay raqruce maqˤir roxin rik’anił ričix zown.
+Gloss: sister-PL breath throw-TERM-even II.PL-be-NEG.PST.CVB dragon-POSS.ABL IV-become-PST.PRT-TERM far.away-LAT II.PL-run.away-PFV.CVB II.PL-go-MSD-CONT.ESS II.PL-be-IPFV.CVB be.NPRS-PST.UNW
+Translation: The sisters, not even waiting a single breath, were running away from the dragon to get far away from it.
+Sentence: Elo babiya kidbazaqor eƛin, meži däqor rezun howt’o ričinčey, di ezu-ʕaƛ’a ik’an sasaqor ɣudi qˤaširanix elur t’ozoƛ’ay bigu moči yołäƛin.
+Gloss: there father-ERG daughter-PL-POSS.LAT say-PST.UNW you.PL me-POSS.LAT II.PL-look-PFV.CVB here II.PL-wait-PFV.CVB-INTS me examine-INF go-FUT.CVB in.the.morning-POSS.LAT day dawn-MSD-AD.ESS we(I).OBL-LAT here-ATTR.OBL-SUPER.ABL I.PL-good place be-Q-QUOT
+Translation: There the father told them: "Wait for me here, I will go and have a look around if there is a better place to spend the night than this one here."

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word his in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word his: 
+
+Exact Matches
+Sentence: Sidä his xuxix zown, sis ek’anił c’oxno, ɣoq’ˤot’aniza butnin, xaličabin rodin.
+Gloss: one.OBL-ERG spring.wool comb-IPFV.CVB be.NPRS-PFV.CVB one spin-MSD-CONT.ESS hit-PFV.CVB other-DISTR-DEF-PL-ERG burka-and mat-PL-and IV-do-PST.UNW
+Translation: One was combing the wool, one was hitting it to spin, the others made the burka and mats.
+Sentence: Tabanaw manzilno xecin ik’inosi, yisir his xuxix yeže ɣˤanabi yesun.
+Gloss: long distance-TOP leave-PFV.CVB go-ANT.CVB DEM2.ISG.OBL-LAT spring.wool comb-IPFV.CVB II-old woman II-find-PST.UNW
+Translation: After having gone a long distance, he found a woman combing wool.
+Sentence: Žeda esirno, nay yedu deber nece raq’ˤu his riqäƛin.
+Gloss: DEM1.IPL-ERG ask-PST.UNW from.where DEM2.IISG you-LAT so.much IV-much spring.wool IV-get-PST.WIT.INT-QUOT
+Translation: They asked: "Where did you get so much wool from?"
+
+Approximate Matches:

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esirno: 
+
+Exact Matches
+Sentence: Maħor boqnosi, bara xediwq esirno, yedu q’urec’nibin, žedaƛ’ ƛ’irisi q’ayn łasey besanƛin.
+Gloss: outside I.PL-become-ANT.CVB wife-ERG husband-POSS.ESS ask-PST.UNW DEM2.IISG mule-PL-and DEM1.IIPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT
+Translation: When they went outside, the wife asked her husband: "Whose might those mules and the wares on them be?"
+Sentence: Ɣˤutkun, ƛen rodin łiyzaƛ’, žoyä eniw k’ox äƛirugon kidno esirno xander yegirno.
+Gloss: house-and bridge-and III.PL-do-PFV.CVB end-CSL.CVB boy-ERG mother twice ORD-CNTR girl-TOP ask-PFV.CVB khan-APUD.LAT II-send-PST.UNW
+Translation: When the house and the bridge were finished, the boy sent his mother to the king a second time to ask for the girl.
+Sentence: Ox̌oyoƛin łu eƛäƛin, esirno yisi žek’a yiziq.
+Gloss: Ohoyo-QUOT who.ERG say-PST.WIT.INT-QUOT ask-PST.UNW DEM2.ISG.OBL man-ERG DEM2.IPL-POSS.ESS
+Translation: "Who said Ohoyo?", that man asked him.
+
+Approximate Matches:
+Sentence: Elus esiw na yołƛin neła esirnosi, q’ˤuya šaharyaɣor ik’äsiƛin, yaƛ’irno nesä ža.
+Gloss: we(I).OBL-GEN1 brother where be-QUOT DEM1.IISG.OBL-ERG ask-ANT.CVB other city-IN.VERS go-RES.PRT-QUOT II-cheat-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG
+Translation: When she asked: "Where is our brother?", he lied to her: "He has gone to another city."
+Sentence: Šebi deber roqäƛin, yisä esirnosi, nesä esin, ʕažaibaw maxšel, hunar yołäsi uži zows dey.
+Gloss: what you-LAT IV-happen-PST.WIT.INT-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB DEM1.ISG.OBL-ERG tell-PST.UNW amazing skill talent be-RES.PRT son be.NPRS-PST.WIT me-GEN1
+Translation: "What happened to you?", he [the son] asked, and he [the father] said: "I had a talented son with amazing skills.
+Sentence: Bayn bełiqanza bišʷa esirnosi, nesän žeduq raqru šebin esin, hemedurtow mamalayƛ’no zown t’omceni žek’un ayn, nasintow bišʷa rac’a ža oqnosi elay ža oɣƛ’oräy, mešok’lałäy musno boɣno nesä di ɣunoqor icisƛin mus bukarno.
+Gloss: I.PL-come-PFV.CVB hunter-PL-ERG food ask-ANT.CVB DEM1.ISG.OBL-ERG-TOP DEM1.IPL.OBL-POSS.ESS IV-happen-PST.PRT thing tell-PST.UNW so-EMPH rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB span-EQU1-DEF man-TOP come-PFV.CVB all-EMPH food IV-eat-INF DEM1.SG begin-ANT.CVB there-IN.ABL DEM1.SG take.away-SIM.CVB moustache-CONT.ABL hair-TOP III-take.away-PFV.CVB DEM1.ISG.OBL-ERG me tree-POSS.LAT tie-PST.WIT-QUOT hair III-show-PST.UNW
+Translation: When the hunters came and asked for food, he also told them what had happened: "So a span-sized man came riding on a rooster, and when he began to eat up all the food and I wanted to take him away from there, he took a hair out of his moustache and tied me to a tree." and he showed them the hair.

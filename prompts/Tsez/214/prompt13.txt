@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: izin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": izin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word izin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ɣˤaɣˤun izin nesä ža butni bazaryay bisno bižin.
+Gloss: be.happy-and get.up-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG burka bazar-IN.ABL III-buy-PFV.CVB III-carry-PST.UNW
+Translation: He got happy and bought the burka from the market.
+Sentence: Sasaqtow izin žoyä ros bič’anix bašla bodin.
+Gloss: in.the.morning-EMPH get.up-PFV.CVB boy-ERG base III-dig-MSD-AD.ESS begin III-do-PST.UNW
+Translation: In the morning the boy got up and began to dig the base.
+Sentence: Užä izin, miƛ’in bexayn, ƛäxuruni at’es magalun boyn.
+Gloss: son-ERG get.up-PFV.CVB ram-TOP III-slaughter-PFV.CVB remain-PST.PRT-DEF wheat-GEN1 bread-TOP III-do-PST.UNW
+Translation: The son got up, slaughtered the ram and made a bread from the remaining wheat.
+
+Approximate Matches:

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word aq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word aq: 
+
+Exact Matches
+Sentence: Nesä xanqor eƛin, zam-zames łi ħaƛunay, saɣ oqno ciqqosi bełi iłe aq miƛin.
+Gloss: DEM1.ISG.OBL-ERG khan-POSS.LAT say-PST.UNW Zam-Zam-GEN1 water drink-CND.CVB cure become-PFV.CVB forest-POSS.ESS-ATTR deer as become you-QUOT
+Translation: He said to the king: "If you drink the holy water, you will get cured and become [as healthy] as a forest deer!"
+Sentence: Žubi bac’näy, debi ʕumru bexoräł, č’aɣˤir ašuƛ ricinäy, mi q’uwataw aq, däz lagiłäy boƛäxru zok’ice iyo lagiq biħinäy, mi łarnokin ukayxanusi aq.
+Gloss: liver III-eat-CND.CVB you-GEN1 life III-become.longer bowel waist-SUB.ESS IV-tie-CND.CVB you strong become me-GEN2 body-CONT.ABL III-appear-PST.PRT mug-EQU1 blood body-POSS.ESS III-smear-CND.CVB you who.OBL-LAT-TOP-even see-NEG.PRS.PRT become
+Translation: When you eat my liver, your life will become longer; if you tie my bowel around your waist, you will become strong; and when you smear blood from my body from the mug on your body, nobody will see you.
+Sentence: Žubi bac’näy, debi ʕumru bexoräł, č’aɣˤir ašuƛ ricinäy, mi q’uwataw aq, däz lagiłäy boƛäxru zok’ice iyo lagiq biħinäy, mi łarnokin ukayxanusi aq.
+Gloss: liver III-eat-CND.CVB you-GEN1 life III-become.longer bowel waist-SUB.ESS IV-tie-CND.CVB you strong become me-GEN2 body-CONT.ABL III-appear-PST.PRT mug-EQU1 blood body-POSS.ESS III-smear-CND.CVB you who.OBL-LAT-TOP-even see-NEG.PRS.PRT become
+Translation: When you eat my liver, your life will become longer; if you tie my bowel around your waist, you will become strong; and when you smear blood from my body from the mug on your body, nobody will see you.
+
+Approximate Matches:

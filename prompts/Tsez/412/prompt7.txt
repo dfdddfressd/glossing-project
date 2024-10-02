@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word madazaħ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word madazaħ: 
+
+Exact Matches
+Sentence: Aždaħƛ’or batiruni bikori nexxo yoł, madazaħ räsuru šinaw šebin neła rac’xosi yołƛin!”
+Gloss: dragon-SUPER.LAT III-turn.back-PST.PRT-DEF snake come-IPFV.CVB be outside-PL-AD.ESS IV-find-PST.PRT every thing DEM1.IISG.OBL-ERG IV-eat-PRS.PRT be-QUOT
+Translation: A snake that turned into a dragon is coming and it will eat up everything it finds!"
+
+Approximate Matches:
+Sentence: Sasiłace yaħna-yik’ix madazaħno yičin, xizor yutin idur yaynosi, žeda kidbazaqor yiła eƛin, howžär di mežar užiłun zows, amma di kid yołƛin.
+Gloss: get.dark-TERM II-walk.for.a.while-IPFV.CVB outside-PL-AD.ESS-TOP II-be-PFV.CVB back II-return-PFV.CVB home-LAT II-come-ANT.CVB DEM1.IIPL.OBL girl-PL-POSS.LAT DEM2.IISG.OBL-ERG say-PST.UNW now-IN.LAT me you(II-LAT boy-LHUN be.NPRS-PST.WIT but me girl be-QUOT
+Translation: Until it got dark she was outside walking around, and after she came back home, she said to those girls: "Until now I was a boy for you, but I am a girl."

@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kaɣatyoƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kaɣatyoƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kaɣatyoƛ:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Kaɣatyoƛ’ rukaräsi zown Tawadä, däz žade sadaq Tiblisä t’et’erxo zawru halmaɣbin bayxosi yołƛin.
+Gloss: letter-SUPER.ESS IV-show-RES.PRT be.NPRS-PFV.CVB Tavadi-ERG me-GEN2 son-APUD.ESS together Tbilisi-IN.ESS learn-IPFV.CVB be.NPRS-PST.PRT friend-PL-TOP I.PL-come-PRS.PRT be-QUOT
+Translation: In the letter it was also pointed out that some friends who were studying together with the son in Tbilisi were coming.

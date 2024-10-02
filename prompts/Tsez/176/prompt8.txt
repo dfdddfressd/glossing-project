@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ˤimes.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ˤimes
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ˤimes:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zamanałäy q’ˤimes idusi žek’u iłe oqxo yisis Ražbadin.
+Gloss: time-CONT.ABL oneself-GEN1 home-ATTR man as become-PRS DEM2.ISG.OBL-GEN1 Razhbadin
+Translation: After a while Razhbadin became like a member of his own family.
+Sentence: Eƛ’isi riƛu žek’us žiƛbosi q’ˤimes ričixosiƛin.
+Gloss: last.year-ATTR field man-GEN1 this.year-ATTR oneself-GEN1 IV-be-PRS.PRT-QUOT
+Translation: "Last year's field was someone else's, this year's field is his own."
+Sentence: Xanno, barun q’ˤimes ɣˤutka bičin, mezarno kidberno ec’no ɣˤutku rodin, Beqez ʕUneyzatä radiruni ɣˤutka žan, xediwn bičin.
+Gloss: khan-and wife-and oneself-GEN1 house-IN.ESS I.PL-live-PFV.CVB son~in~law-LAT-and daughter-LAT-and new house IV-do-PFV.CVB sun-GEN2 Uneyzat-ERG IV-do-PST.PRT-DEF house-IN.ESS DEM1.SG-and husband-and I.PL-live-PST.UNW
+Translation: The king and his wife lived in their own house, for the son-in-law and the daughter they built a new house and in the house that Sun's Uneyzat built lived she herself and her husband.
+
+Approximate Matches:
+Sentence: Yedagon et’un k’oƛin guluƛ’orno izin, xizazagon ħurženyabin ricin, q’ˤimƛ’ogon k’ukno erno elay bitor oxin.
+Gloss: DEM2.ISG-CNTR jump-PFV.CVB jump-PFV.CVB horse-SUPER.LAT-TOP get.up-PFV.CVB behind-IN.ESS-CNTR bag-PL-and III.PL-tie-PFV.CVB head-SUPER.ESS-CNTR cap-TOP put-PFV.CVB there-IN.ABL thither run.away-PST.UNW
+Translation: He, however, jumped onto the horse, tied the bags onto it, put the cap onto his head and rode away from there.
+Sentence: Yisägon roɣno mač’an tełäza aždaħno t’it’i-beč’no, axaza egin maħorno oqno nełas q’ˤim ret’urno kurno.
+Gloss: DEM2.ISG.OBL-ERG-CNTR IV-take.away-PFV.CVB dagger-TOP inside-IN.VERS.DIST dragon-TOP cut.into.pieces-PFV.CVB belly-IN.VERS.DIST break.apart-PFV.CVB outside-TOP become-PFV.CVB DEM1.IISG.OBL-GEN1 head IV-hack-PFV.CVB throw-PST.UNW
+Translation: He took out his dagger and cut the dragon into pieces from inside, broke him apart from out of the belly, got outside and chopped off its head.
+Sentence: Šebitow di žigon rodanƛin, uži wˤałer q’ˤimno rˤoƛ’urno oqno iduɣor ik’in.
+Gloss: what-EMPH me again.now IV-do-FUT.DEF-QUOT boy downward-LAT head-TOP IV-fall-CAUS-PFV.CVB become-PFV.CVB home-IN.ALL go-PST.UNW
+Translation: "And what shall I do now?", the boy hang his head and went home.

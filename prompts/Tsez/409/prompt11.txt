@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word sabanił in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word sabanił: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Buħima halizi bodinosi, idurno bik’in sabaniƛ’or boƛ’ˤun.
+Gloss: heat-ERG excite III-do-ANT.CVB home-LAT-TOP III-go-PFV.CVB blanket-SUPER.LAT III-fall-PST.UNW
+Translation: When the heat excited him [the dragon], he went home and fell onto the blanket.
+Sentence: C’iɣruk’ägon ža sabanin risno oxin ik’in elay.
+Gloss: Tsighruk-ERG-CNTR DEM1.SG blanket-TOP IV-take-PFV.CVB run.away-PFV.CVB go-PST.UNW there-IN.ABL
+Translation: And Tsighruk took the blanket and ran away from there.
+Sentence: C’iɣruk’ä xizyogon ħukmu bodix aždaħes mesedyos teł ric’alini sabani rok’ek’a.
+Gloss: Tsighruk-ERG then decision III-do-PRS dragon-GEN1 gold-GEN1 inside IV-fill-ATTR-DEF blanket IV-steal-INF
+Translation: Tsighruk then decided to steal the blanket filled with the dragon's gold.

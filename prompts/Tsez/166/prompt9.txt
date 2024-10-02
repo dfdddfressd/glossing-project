@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: deber.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": deber
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word deber:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hudun ži ɣˤuruš neƛnäy sisgon bodan deber di ʕaq’luƛin razi oqno eženi.
+Gloss: nevertheless now ruble give-CND.CVB one-CNTR III-do-FUT.DEF you-LAT me advice-QUOT agree become-PST.UNW old-DEF
+Translation: "Nevertheless, if you give me a ruble, I'll give you another advice.", agreed the old man.
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.
+
+Approximate Matches:
+Sentence: Xanä urɣizikin oqxo ičinč’ey nesir žawab teƛno, boƛƛik’u dey ric’q’i neƛa yoł deberƛin.
+Gloss: khan-ERG thinking-even become-IPFV.CVB be-NEG.PST.CVB DEM1.ISG.OBL-LAT answer give-PFV.CVB III-half me-GEN1 wealth give-INF be you-LAT-QUOT
+Translation: The king wasn't thinking and answered him: "I will give you half of my wealth!"
+Sentence: Bazarganbi mešizaxozo aħoderno bayn esirno nesiq, howt’aza bitor łeno ħumukulin bižin ik’ix žek’u ukaynč’a deberƛin.
+Gloss: merchant-PL bull.calf-PL-AD.ESS-ATTR.OBL shepherd-APUD.LAT-TOP I.PL-come-PFV.CVB ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS there-IN.VERS.DIST thither five camel-TOP III-lead-PFV.CVB go-IPFV.CVB man see-NEG.PST.WIT-PST.WIT.INT you-LAT-QUOT
+Translation: The merchants came to the shepherd with the calves and asked him: "Have you seen a man leading five camels going there?"
+Sentence: Elay bitor nesir roda rayxosi šebin debertow räyƛin.
+Gloss: there-IN.ABL thither DEM1.ISG.OBL-LAT IV-do-INF IV-must-PRS.PRT thing you-LAT-EMPH IV-know-QUOT
+Translation: And what you have to do to him from then on, you know yourself."

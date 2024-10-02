@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ceyez.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ceyez
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ceyez:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizaɣor asoƛxor bezunosi, yizir yeda ceyez gugyoƛ’no zown, asoł teł ʕuqłäsi ukayn.
+Gloss: finally sky-SUB.LAT I.PL-look-ANT.CVB DEM2.IPL.OBL-LAT DEM2.ISG eagle-GEN2 back-SUPER.ESS-TOP ride-PFV.CVB sky-CONT.ESS inside hide-RES.PRT see-PST.UNW
+Translation: Finally, when they looked into the sky, they saw him hiding in the sky, riding on the eagle's back.
+Sentence: Bizin ʕAliqiličzo raƛ’mar bayanix oc’ino gali ƛäxurun ceyez gugyoƛ’ erno zawruni šebin łiyn.
+Gloss: III-get.up-PFV.CVB Aliqilich-GEN2 land-LAT III-come-MSD-AD.ESS ten step remain-IMM.ANT.CVB eagle-GEN2 back-SUPER.ESS put-PFV.CVB be.NPRS-PST.PRT-DEF thing end-PST.UNW
+Translation: They flew upwards and just ten steps before coming up to Aliqilich's country, the things that were on the eagle's back ended.
+Sentence: Užä nesä nesis oˤɣqay reč’no reƛ łeɣirsiƛax ceyez k’onč’aq.
+Gloss: boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 thigh-POSS.ABL IV-cut-PFV.CVB meat glue-PST.WIT-QUOT eagle-GEN2 leg-POSS.ESS
+Translation: The boy cut flesh from his own thigh and glued it to the eagle's leg.
+
+Approximate Matches:
+Sentence: Howlotow yisä ceyes lel yik’urno.
+Gloss: there-EMPH DEM2.ISG.OBL-ERG eagle-GEN1 feather II-burn-CAUS-PST.UNW
+Translation: There he burned the eagle's feather.
+Sentence: Bikoride igaɣor ayƛ’oräy, neła ceyes xexoy biqirƛ’orey, roɣno mač’an bikorzo rok’no.
+Gloss: snake-APUD.ESS near-IN.VERS come-SIM.CVB DEM1.IISG.OBL-ERG eagle-GEN1 young.animal III-take.away-SIM.CVB IV-take.away-PFV.CVB saber-and snake-ATTR.OBL IV-hit-PST.UNW
+Translation: When he came closer to the snake as it was taking away the eagle's chick, he took the saber and hit the snake.
+Sentence: Ža łi ƛ’iri riħinosi, siskin raqinč’iru riłe užisno, ceyesno raqˤyabi ixin.
+Gloss: DEM1.SG water above IV-smear-ANT.CVB anything IV-happen-NEG.FUT.CVB-PST.PRT IV-as boy-GEN1-and eagle-GEN1-and wound-PL heal-PST.UNW
+Translation: He smeared the water on it and the boy's and the eagle's wounds healed like nothing had happened.

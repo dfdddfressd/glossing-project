@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’uwatyo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’uwatyo: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neside sadaqosin nesä łiboƛ’ beɣurxo zown, hemediw q’uwataw uži oqxo zown ža.
+Gloss: DEM1.ISG.OBL-APUD.ESS with-ATTR-TOP DEM1.ISG.OBL-ERG wrestling-SUPER.ESS I.PL-be.defeated-CAUS-IPFV.CVB be.NPRS-PFV.CVB such.a strong boy become-IPFV.CVB be.NPRS-PST.UNW DEM1.SG
+Translation: He defeated all his peers in wrestling, and became such a strong boy.
+Sentence: Žubi bac’näy, debi ʕumru bexoräł, č’aɣˤir ašuƛ ricinäy, mi q’uwataw aq, däz lagiłäy boƛäxru zok’ice iyo lagiq biħinäy, mi łarnokin ukayxanusi aq.
+Gloss: liver III-eat-CND.CVB you-GEN1 life III-become.longer bowel waist-SUB.ESS IV-tie-CND.CVB you strong become me-GEN2 body-CONT.ABL III-appear-PST.PRT mug-EQU1 blood body-POSS.ESS III-smear-CND.CVB you who.OBL-LAT-TOP-even see-NEG.PRS.PRT become
+Translation: When you eat my liver, your life will become longer; if you tie my bowel around your waist, you will become strong; and when you smear blood from my body from the mug on your body, nobody will see you.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Nesis.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Nesis
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Nesis:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sosi yisä ħumukulis bet’erhanno goƛ’in nesis murad esirnosi, nesä eƛin:
+Gloss: at.first DEM2.ISG.OBL-ERG camel-GEN1 master-TOP call-PFV.CVB DEM1.ISG.OBL-GEN1 wish ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: At first he called the owner of the camel and asked what he desired, the owner said:
+Sentence: T’omceni žek’us bełiqaner nasin ric’q’in ƛexun, barułungon nesis kidno yown, maʕišat bodix howlotow žan ičin.
+Gloss: span-EQU1-DEF man-GEN1 hunter-LAT all wealth-TOP remain-PFV.CVB wifehood-TOP-CNTR DEM1.ISG.OBL-GEN1 daughter-TOP II-marry-PFV.CVB fortune III-do-IPFV.CVB there-EMPH DEM1.SG-TOP live-PST.UNW
+Translation: All the span-sized man's wealth remained for the hunter, he married his daughter, and lived there making a great fortune.
+Sentence: ʕIyayx yedun xecin C’irduxno, nesis esnabin elaygon bitor bik’in.
+Gloss: cry-IPFV.CVB DEM2.IISG-TOP leave-PFV.CVB Tsirdukh-and DEM1.ISG.OBL-GEN1 brother-PL-and there-IN.ABL-CNTR thither I.PL-go-PST.UNW
+Translation: Tsirdukh and his brothers left her crying and went away from there.
+
+Approximate Matches:
+Sentence: Kidbä eƛin, xanes łiboqan nesistow kid yołƛin, nełde łiboƛ’ izanix mitow oqa ayƛin.
+Gloss: girl-ERG say-PST.UNW khan-GEN1 wrestler DEM1.ISG.OBL-GEN1-EMPH daughter be-QUOT DEM1.IISG.OBL-APUD.ESS wrestling-SUPER.ESS get.up-MSD-AD.ESS you-EMPH become-INF must-QUOT
+Translation: The girl said: "The king's wrestler is his daughter. You have to get into a wrestling fight with her.
+Sentence: Zamanałäy neła ɣˤanazas xediwn, nesisgon užin ozno bižin ƛˤoreł bik’inosi, nełar retäsi zown best’alawni kid elo iday yok’ek’anix.
+Gloss: time-CONT.ABL DEM1.IISG.OBL woman-GEN1 husband-and DEM1.ISG.OBL-GEN1-CNTR son-and army-and I.PL-lead-PFV.CVB war-CONT.ESS I.PL-go-ANT.CVB DEM1.IISG.OBL-LAT IV-want-RES.PRT be.NPRS-PFV.CVB step-DEF daughter there home-IN.ABL II-remove-MSD-AD.ESS
+Translation: After some time, after the woman's husband, his son and the army went to war, she wanted to remove the step-daughter from their home.
+Sentence: Paxrudinno zown, nesisno kinawtow bˤeƛ’ rexun räsuƛin.
+Gloss: Pakhrudin-TOP be.NPRS-PST.UNW DEM1.ISG.OBL-GEN1-and entire-EMPH sheep III.PL-die-PFV.CVB IV-find-QUOT
+Translation: Pakhrudin thought that also all of his sheep must have died.

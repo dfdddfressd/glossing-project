@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qułtow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qułtow: 
+
+Exact Matches
+Sentence: Idur ayza qułtow, neširu kʷat’izi baqru mixƛ’o, iday maħorno oqno, ɣˤutkoł adäzarno ik’in, yisä k’emot’ yaɣˤirun, elo ixiw ɣˤutku roqno.
+Gloss: home-LAT come-ZA day-CONT.ESS-EMPH at.night be.late III-become-PST.PRT late.at.night home-IN.ABL outside-TOP become-PFV.CVB house-CONT.ESS before-IN.LAT-TOP go-PFV.CVB DEM2.ISG.OBL-ERG wooden.case II-open-IMM.ANT.CVB there big house IV-become-PST.UNW
+Translation: On the day when he came home, when it has become late at night, he got outside his home, went in front of his house and right when he opened the box, a big house came into being there.
+Sentence: Hemeła qułtow mogolxo elo aɣˤuxor zeyn, zirun, boc’in rayn.
+Gloss: then day-CONT.ESS-EMPH granary-AD.ESS there mill-AD.LAT bear-and fox-and wolf-and IV.PL-come-PST.UNW
+Translation: The next day, a bear, a fox and a wolf came there to the mill at the granary.
+Sentence: Neła qułtow neširu užä q’ˤida ħiƛ’oqun raħno, eƛin, eliz madaxay bečedawni maduhalzo madaxor mesedyos qˤiƛurabi rodoƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS-EMPH evening boy-ERG down handkerchief-TOP IV-lay-PFV.CVB say-PST.UNW we.SPEC.GEN1 door-AD.ABL wealthy-DEF neighbor-GEN2 door-AD.LAT gold-GEN1 step-PL IV.PL-do-IMPR-QUOT
+Translation: On that day in the evening, the boy laid down the handkerchief and said: "Build golden stairs from our door to the wealthy neighbor's door!"
+
+Approximate Matches:
+Sentence: Nełqułtow žedus berten bodin.
+Gloss: on.that.day-EMPH DEM1.IPL.OBL-GEN1 marriage III-do-PST.UNW
+Translation: They married on the same day.
+Sentence: Hemełaqułtow ža uži ayrno nesider.
+Gloss: that.day-CONT.ESS-EMPH DEM1.SG boy bring-PST.UNW DEM1.ISG.OBL-APUD.LAT
+Translation: On this very day, the boy was brought to him.

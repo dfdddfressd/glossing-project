@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xediw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xediw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xediw:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ozzałer č’uran rayrerno, yiła xediw howlotow ičirno.
+Gloss: eye-PL-CONT.LAT light-TOP IV-bring-CAUS-PFV.CVB DEM2.IISG.OBL-ERG husband there-EMPH wait-CAUS-PST.UNW
+Translation: She brought the light back to his eyes but let her husband wait there.
+Sentence: Dey xediw nexxoƛin, yiła yeda sida yeže ɣamasya tełxor uqˤno.
+Gloss: me-GEN1 husband come-PRS-QUOT DEM2.IISG.OBL-ERG DEM2.ISG one.OBL II-big box-IN.ESS inside-AD.LAT hide-PST.UNW
+Translation: "My husband is coming!", she [said and] hid him inside a large box.
+Sentence: Dey xediw nexxoƛin yiła yeda nuci teƛxosi bazargan nesi žade puräza ɣamasya teł uqˤno.
+Gloss: me-GEN1 husband come-PRS-QUOT DEM2.IISG.OBL-ERG DEM2.ISG honey sell-PRS.PRT merchant DEM1.ISG.OBL boy-APUD.ESS side-IN.VERS.DIST box-IN.ESS inside hide-PST.UNW
+Translation: "My husband is coming!", she [said and] hid that honey-selling merchant in the box next to the boy.
+
+Approximate Matches:
+Sentence: Zamanałäy neła ɣˤanazas xediwn, nesisgon užin ozno bižin ƛˤoreł bik’inosi, nełar retäsi zown best’alawni kid elo iday yok’ek’anix.
+Gloss: time-CONT.ABL DEM1.IISG.OBL woman-GEN1 husband-and DEM1.ISG.OBL-GEN1-CNTR son-and army-and I.PL-lead-PFV.CVB war-CONT.ESS I.PL-go-ANT.CVB DEM1.IISG.OBL-LAT IV-want-RES.PRT be.NPRS-PFV.CVB step-DEF daughter there home-IN.ABL II-remove-MSD-AD.ESS
+Translation: After some time, after the woman's husband, his son and the army went to war, she wanted to remove the step-daughter from their home.
+Sentence: Suƛƛisi oƛixno k’oƛin ɣamasyayn uži oxin maħor ok’ełno, ža iqiranixƛin nesił xizaygon č’ariƛ’ zawruni xediwn k’oƛin.
+Gloss: suddenly-ATTR appear-PFV.CVB jump-PFV.CVB box-IN.ABL-TOP boy run.away-PFV.CVB outside escape-PFV.CVB DEM1.SG catch-MSD-AD.ESS-QUOT DEM1.ISG.OBL-CONT.ESS behind-CNTR wakeness-SUPER.ESS be.NPRS-PST.PRT-DEF husband-TOP run-PST.UNW
+Translation: Suddenly the boy jumped out of the box, ran outside and escaped; and in order to catch him ran the husband behind him, who was awake.
+Sentence: Yeženä Beqes ʕUneyzatno, xediwn mˤaliz qˤodreza tełäy maħor begirno, howži mežus req’el boqsiƛin.
+Gloss: II-old-DEF-ERG sun-GEN1 Uneyzat-and husband-and nose-GEN2 hole-PL-IN.ESS inside-IN.ABL outside I.PL-let-PFV.CVB now you(I).PL.OBL-GEN1 peace I.PL-become-ATTR-QUOT
+Translation: The old woman let Sun's Uneyzat and her husband out of her nostril [and said]: "Now you're at peace."

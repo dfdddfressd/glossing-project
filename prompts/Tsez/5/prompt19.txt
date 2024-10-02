@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: šet’ur using Leipzig glossing symbols. The sentence this word is drawn from means: "One day the young man brought the turkeys [home] in the evening, took the glass out of his pocke and said: "May here on the field be a house and inside a good table and chairs around it!"".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": šet’ur
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word šet’ur:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hunix ik’iƛ’oräy, neła ħalaq’awni gula nesiqor eƛin, aždaħ kecäsi yałzay, buq bayäsi bičixosi, q’ˤiday bizinosi ža bičixozoni gogaƛ’ ɣedu boqxosi, elo nełaqgon šet’ur k’ešonayx xexoybi ričixosiƛin.
+Gloss: way-AD.ESS go-SIM.CVB DEM1.IISG.OBL thin-DEF horse-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW dragon sleep-RES.PRT be-SIM.CVB sun III-come-RES.PRT III-be-IPFV.CVB-ATTR down-IN.ABL III-get.up-ANT.CVB DEM1.SG III-be-PRS.PRT.OBL-DEF meadow-SUPER.ESS shade III-happen-PRS.PRT there DEM1.IISG.OBL-POSS.ESS-CNTR around play-IPFV.CVB young.animal-PL III.PL-be-PRS.PRT-QUOT
+Translation: While he went on his way, that thin horse said to him: "While the dragon sleeps, the sun goes up, and after he gets up a shadow appears on the meadow, there around it the youngs are playing.
+Sentence: Eɣeni esiw šet’ur ezu-ʕoƛ’ux, xal bodix ik’ix zown.
+Gloss: young-DEF brother around examine-IPFV.CVB examination III-do-IPFV.CVB go-IPFV.CVB be.NPRS-PST.UNW
+Translation: The young brother went examining and looking around.
+Sentence: Ža xabar šet’ur ʕaƛozałno bik’in.
+Gloss: DEM1.SG story around village-PL-CONT.ESS-TOP III-go-PST.UNW
+Translation: This story went through all the villages around.
+
+Approximate Matches:
+Sentence: Nełałäy bäk’iru iya šet’urtow oreznabi rodin, howlortow aždaħno bexun.
+Gloss: DEM1.IISG.OBL-CONT.ABL III-go-PST.PRT blood-ERG around-EMPH pond-PL IV.PL-do-PFV.CVB there-LAT-EMPH dragon-TOP III-die-PST.UNW
+Translation: The blood that came out of it, formed ponds all around, and there the dragon died.
+Sentence: Neširuxay maħor ža yaqrun, sadaq šet’urtow gʷanɣizi roqxo zown.
+Gloss: evening-AD.ABL outside DEM1.SG II-become-IMM.ANT.CVB all around-EMPH illuminate IV-become-IPFV.CVB be.NPRS-PST.UNW
+Translation: Right after she had gone outside in the evening, everything around was getting bright.
+Sentence: Žeduł teł yałru hič’č’a bexorani bˤeliz ɣunä eƛix teqno, šet’urtow yałru ažomzas ʕadlu däq boqxo, sistow sis yałru barus ʕadlun boqinč’ey, yeda ʕabdal ħonƛ’aɣor ik’ix, nesä nesił xizay rexada šebin rowanixƛin.
+Gloss: DEM1.IIPL.OBL-CONT.ESS inside be-PST.PRT the.most lengthy-DEF poplar-GEN2 tree-ERG say-IPFV.CVB hear-PST.UNW around-EMPH be-PST.PRT tree-PL-GEN1 order me-POSS.ESS III-become-PRS one-EMPH one be-PST.PRT wife-GEN1 order-TOP III-become-NEG.PST.CVB DEM2.ISG fool mountain-SUPER.VERS go-IPFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-CONT.ESS behind IV-slaughter-INF thing IV-bring-MSD-AD.ESS-QUOT
+Translation: And he heard the highest poplar trees saying among themselves: "I can control the trees that are around me, but this fool cannot even control the single wife that he has, and he is going onto the mountain to bring something to slaughter after himself."

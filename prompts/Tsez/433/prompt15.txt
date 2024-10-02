@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word badin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word badin: 
+
+Exact Matches
+Sentence: Mi däƛ’ ʕayibno badin, di dowder harizi oqno aysƛin.
+Gloss: you me-SUPER.ESS fault-TOP III-do-PROHIB me you-APUD.LAT request become-PFV.CVB come-PST.WIT-QUOT
+Translation: Don't blame me [that] I came to ask you.
+
+Approximate Matches:
+Sentence: Bužzi odin yisä Ražbadin.
+Gloss: trust do-PST.UNW DEM2.ISG.OBL-ERG Razhbadin
+Translation: He trusted Razhbadin.
+Sentence: Ražbadinä eƛix, dey halmaɣ, di nexäsi yoł debez kidbes reƛ’an esirnoƛin.
+Gloss: Razhbadin-ERG say-PRS me-GEN1 friend me come-RES.PRT be you-GEN2 daughter-GEN1 hand-TOP ask-PST.UNW-QUOT
+Translation: Razhbadin said: "My friend, I've come to ask for your daughters hand."
+Sentence: Rigutow riguƛin rok’ƛ’orno rayn, maħorno yoqno yiła guluzaƛ’ay q’ayn boɣno pikru bodin, Ražbadinqo iłäsi iłewa yeda där iyäƛin.
+Gloss: IV-good-EMPH IV-good-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB outside-TOP II-become-PFV.CVB DEM2.IISG.OBL-ERG horse-PL-SUPER.ABL article-TOP III-take.away-PFV.CVB idea III-do-PFV.CVB Razhbadin-POSS.ESS resemble-RES.PRT as-Q DEM2.ISG me-LAT know-Q-QUOT
+Translation: "Very good", she thought, came outside and took the articles off the horse and thought: "He looks like Razhbadin."

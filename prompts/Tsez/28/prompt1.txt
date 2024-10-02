@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Užir.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Užir
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Užir:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xexłiƛ’ k’oƛin babiwderno yik’in, hemesi tusnaq’äzo užir teƛxa mi izmu guluƛ’ zowanirƛin, nełaq eƛin rok’äłrun, xan kid žek’anixƛin iza oqno.
+Gloss: quickness-SUPER.ESS run-PFV.CVB father-APUD.LAT-TOP II-go-PFV.CVB DEM4.ISG.OBL prison-IN.ESS-ATTR.OBL boy-LAT give-IPFV.CVB-Q you permission horse-SUPER.ESS ride-MSD-LAT-QUOT DEM1.IISG.OBL-POSS.ESS say-PFV.CVB IV-escape-IMM.ANT.CVB khan daughter beat-MSD-AD.ESS-QUOT get.up-INF begin-PST.UNW
+Translation: She quickly ran to her father, and when the words "Do you give the permission that the boy in prison can ride the horse?" broke out of her, the king got up to slap his daughter.
+Sentence: Wˤałzoni dunyalƛ’or aynosi, užir elo Okus bercinaw kid yesun.
+Gloss: downward-GEN2-DEF world-SUPER.LAT come-ANT.CVB boy-LAT there Oku-GEN1 beautiful daughter II-find-PST.UNW
+Translation: When he came into the underworld, the boy found Oku's beautiful daughter there.
+Sentence: Igorno ik’in babiya č’arik’nosi, užir retinanu, dahawgon šida di moƛał xecinč’uƛin.
+Gloss: near-LAT-TOP go-PFV.CVB father-ERG wake.up-ANT.CVB son-LAT IV-like-PFV.CVB-NEG a.little-CNTR why me dream-CONT.ESS leave-NEG.PST.WIT-QUOT
+Translation: The father came closer and after waking him up, the son didn't like it [and said]: "Why didn't you let me sleep a little more?"
+
+Approximate Matches:

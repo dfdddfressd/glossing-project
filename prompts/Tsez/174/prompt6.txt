@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: qˤašizaƛ’ortow.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": qˤašizaƛ’ortow
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word qˤašizaƛ’ortow:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sasaq qˤašizaƛ’or yiłzaqay rok’łinč’inäy, aždaħä meži rac’ƛin.
+Gloss: in.the.morning set.in-POST.CVB DEM2.IISG.OBL-ZA-POSS.ABL II.PL-escape-NEG.FUT-CND.CVB dragon-ERG you.PL II.PL-eat-QUOT
+Translation: When you don't leave this place before dawn, a dragon will eat you."
+Sentence: Idur ayruntow yexurno k’eneč’ žedu q’ˤunzontow ozzaq yiħinosi, sider sis bukayłin, ɣudi qˤašizaƛ’orkin žedu bužzi boqno anu, ozzałer kanłi baysƛin, hemece ɣˤaɣˤu bizizaq.
+Gloss: home-LAT come-IMM.ANT.CVB-EMPH II-kill-PFV.CVB egg DEM1.IPL.OBL two.OBL-ATTR.OBL-TOP-EMPH eye-PL-POSS.ESS II-smear-ANT.CVB one.OBL-LAT one I.PL-see-CNC.CVB day dawn-POST.CVB-even DEM1.IPL trust I.PL-become-PST.UNW be.NEG eye-PL-CONT.LAT light III-come-PST.WIT-QUOT as.many be.happy I.PL-get.up-CSL.CVB
+Translation: After he came home, he crushed an egg, smeared it on each of their eyes, and although they could see each other again, they couldn't believe it when it got dawn, and were even more happy when the light came into their eyes.

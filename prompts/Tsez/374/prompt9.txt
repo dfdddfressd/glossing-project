@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word geres in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word geres: 
+
+Exact Matches
+Sentence: Howt’ay yäk’irun, där moƛał rukaysƛin babiwqor eƛo mi, soderno kurno ƛ’ˤiyor nexƛ’oräy, geres hibos boq’ˤugani pu wˤałxor butin nexno raƛ’moƛxorgon šäšiƛin.
+Gloss: from.here II-go-IMM.ANT.CVB me-LAT dream-CONT.ESS IV-see-PST.WIT-QUOT father-POSS.LAT say-IMPR you upward-TOP throw-PFV.CVB downward come-SIM.CVB iron-GEN1 stick-GEN1 III-heavy-ATTR-DEF side downward-AD.LAT III-turn-PFV.CVB come-PFV.CVB earth-SUB.LAT-CNTR get.stuck-QUOT
+Translation: "When you go again, tell your father that you have seen it in a dream: He shall throw it upward and when it comes down again, the iron stick's heavier side will turn downward and get stuck in the earth."
+Sentence: Sida zamanał, maduhalłiqozo ħukmatyoz xanä yisiƛ’or begirno geres hibo bayrno naza boq’ˤiw, naza kikiw yałru biyrƛin.
+Gloss: one.OBL time-CONT.ESS neighbourhood-POSS.ESS-ATTR.OBL country-GEN2 khan-ERG DEM2.ISG.OBL-SUPER.LAT III-send-PFV.CVB iron-GEN1 stick III-bring-PFV.CVB where-IN.VERS.DIST III-heavy where-IN.VERS.DIST light be-PST.PRT III-find.out-QUOT
+Translation: At one point in time, the king of a neighboring country sent to him an iron stick [with the message]: "Find out where it's heavy and where's it's light."
+Sentence: C’ik’iw yizi kecnosi, neł aždaħä c’in erno ɣoɣoru ʕamołno eqerno geres hibo ɣoɣorik’a boqno.
+Gloss: all DEM2.IPL sleep-ANT.CVB DEM1.IISG.OBL dragon-ERG fire-TOP put-PFV.CVB hot coal-CONT.ESS-TOP put-PFV.CVB iron-GEN1 stick make.red.hot-INF III-begin-PST.UNW
+Translation: When all of them slept, the dragon made a fire, put an iron staff onto the coals and began to make it red-hot.
+
+Approximate Matches:
+Sentence: Xizyogon howžatow geresni hibo aždaħä ɣoɣorik’ƛ’orey, C’iɣruk’ä ħamori kurno.
+Gloss: again DEM4.SG-EMPH iron-GEN1-DEF stick dragon-ERG make.red.hot-SIM.CVB Tsighruk-ERG cough exhale-PST.UNW
+Translation: Again, when the dragon heated that iron staff, Tsighruk coughed.

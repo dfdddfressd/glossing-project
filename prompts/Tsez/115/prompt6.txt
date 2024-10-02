@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: deber.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": deber
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word deber:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hudun ži ɣˤuruš neƛnäy sisgon bodan deber di ʕaq’luƛin razi oqno eženi.
+Gloss: nevertheless now ruble give-CND.CVB one-CNTR III-do-FUT.DEF you-LAT me advice-QUOT agree become-PST.UNW old-DEF
+Translation: "Nevertheless, if you give me a ruble, I'll give you another advice.", agreed the old man.
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.
+
+Approximate Matches:
+Sentence: Elay bitor nesir roda rayxosi šebin debertow räyƛin.
+Gloss: there-IN.ABL thither DEM1.ISG.OBL-LAT IV-do-INF IV-must-PRS.PRT thing you-LAT-EMPH IV-know-QUOT
+Translation: And what you have to do to him from then on, you know yourself."
+Sentence: Šida yałru debertow räyƛin, kidbä uži ezuranix bitazoni ɣˤutkaɣor ižin.
+Gloss: why be-PST.PRT you-LAT-EMPH IV-know-QUOT girl-ERG boy show-MSD-AD.ESS next-DEF room-IN.VERS lead-PST.UNW
+Translation: "You will know why", the girl [said and] lead the boy into the next room to show him.
+Sentence: Nedur resunäy, hi hudu deberƛin mač’an exuran exurno, taxeƛ žan eqerno idu akäza yezun yičin.
+Gloss: so IV-exist-CND.CVB take.IMP so you-LAT-QUOT dagger-TOP kill-FUT.CVB kill-PFV.CVB ottoman-SUB.ESS DEM1.SG-TOP put-PFV.CVB home window-IN.VERS.DIST II-look-PFV.CVB II-wait-PST.UNW
+Translation: "If that's the case, take [this]!", and a dagger killed him; she put him under the ottoman and waited looking out of the window at her home.

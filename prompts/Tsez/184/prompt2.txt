@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yiza.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yiza
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yiza:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: C’irduxƛ’o ozuri c’axrun, sis qˤaƛun rok’no Qartay ɣunoq yiza c’oxno, žaqˤułgon narey mi däqay ok’łanƛin.
+Gloss: Tsirdukh-SUPER.ESS eye meet-IMM.ANT.CVB one shout-TOP IV-beat-PFV.CVB Qartay tree-POSS.ESS DEM2.IIPL.OBL pounce-PFV.CVB today-CNTR where-DUB you me-POSS.ABL escape-FUT.DEF-QUOT
+Translation: Just when Qartay discovered Tsirdukh, she gave out a shout, pounced to/up the tree, [saying]: "Where will you escape to from me today?"
+Sentence: Howlaytow yiza aħi begirno elo igo yałru ʕaƛołer.
+Gloss: from.there-EMPH DEM2.IPL.OBL-ERG alarm III-send-PST.UNW there near be-PST.PRT village-CONT.LAT
+Translation: From there they alarmed the nearby village.
+
+Approximate Matches:

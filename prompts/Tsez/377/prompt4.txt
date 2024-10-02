@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xedyoq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xedyoq: 
+
+Exact Matches
+Sentence: Acno yaɣˤin tełer aqruntow, suƛƛi dandir nexno bara xedyoq ałni bic’no.
+Gloss: door-TOP II-open-PFV.CVB to.the.inside become-IMM.ANT.CVB-EMPH immediately towards come-PFV.CVB wife-ERG husband-POSS.ESS hug III-hug-PST.UNW
+Translation: As soon as he opened the door and stepped inside, his wife came toward him and hugged him.
+Sentence: Łox äƛirugon esirno bara xedyoq, šida mi q’ʷaridƛin.
+Gloss: thrice ORD-CNTR ask-PST.UNW wife-ERG husband-POSS.ESS why you sadness-QUOT
+Translation: For the third time, the wife asked his husband: "Why are you sad?"
+Sentence: Beɣe xexzas guru teqnosi, zer rok’un regin, aɣˤʷa tełxorno yoxin, xedyoq esin.
+Gloss: I.PL-young children-GEN1 crying hear-ANT.CVB shuddering heart-TOP IV-go.into-PFV.CVB mill-IN.ESS inside-AD.LAT-TOP II-run.away-PFV.CVB husband-POSS.ESS tell-PST.UNW
+Translation: When she heard the crying of the small children, her heart shuddered, she ran into the mill and told her husband.
+
+Approximate Matches:
+Sentence: Xizyo nesi eženä boƛik’no xedyoqor q’ˤano heneš teƛno, sis nesir, sideni baruq bac’roƛinno eƛin, ozƛäy gugin.
+Gloss: afterwards DEM1.ISG.OBL old-DEF-ERG III-pull.out-PFV.CVB husband-POSS.LAT two apple give-PFV.CVB one DEM1.ISG.OBL-LAT the.other.one wife-POSS.ESS III-eat-CAUS-IMPR-QUOT-TOP say-PST.UNW eye-SUB.ABL escape-PST.UNW
+Translation: Then that old man pulled out two apples and gave them to the husband, one for him; "Give your wife the other one to eat!", he said and disappeared from his eyes.
+Sentence: Däzoq’aw ɣˤutkun rodoƛin, xanä eƛin kidbez xedyoqor, maday madargon mesedyos ƛen eroƛin.
+Gloss: me-ATTR.OBL-EQU2 house-TOP IV-do-IMPR-QUOT khan-ERG say-PFV.CVB daughter-GEN2 husband-POSS.LAT door-APUD.ABL door-APUD.VERS-CNTR gold-GEN1 bridge-TOP put-IMPR-QUOT
+Translation: "Build a house like mine", said the king to his daughter's husband, "and construct a golden bridge from door to door!"
+Sentence: Haq’udär yik’anix xedyoqay izmu esirnosi, nesägon łˤora becän yičin, hulon rexurno horoƛin yegirno.
+Gloss: family-APUD.VERS II-go-MSD-AD.ESS husband-POSS.ABL permission ask-ANT.CVB DEM1.ISG.OBL-ERG-CNTR three.OBL month-IN.ESS-TOP II-be-PFV.CVB miss-CND IV-kill-PFV.CVB come.IMPR-QUOT II-let-PST.UNW
+Translation: When she asked her husband for permission to go to her family, he let her go with the words: "You may stay three months, then, after [you killed the boredom(?)] come back!"

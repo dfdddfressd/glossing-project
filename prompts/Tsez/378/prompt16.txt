@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word aɣ-ač’iwnan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word aɣ-ač’iwnan: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Mamalayä nełar t’ok’ow bik’ač’inƛin rexuxanusi rožin teƛno, nece bayn čerayzaƛ’ onoča ža idur begirno.
+Gloss: rooster-ERG DEM1.IISG.OBL-LAT anymore III-go-NEG.FUT.DEF-QUOT IV-die-NEG.PRS.PRT word-TOP give-PFV.CVB so.much III-come-PFV.CVB beg-CSL.CVB hen-ERG DEM1.SG home-LAT III-let-PST.UNW
+Translation: The rooster gave his word, that he would not go to her anymore, and since he begged so much, the hen let him home.
+Sentence: Di mi žeduq ukarač’inƛin, eƛin zira.
+Gloss: me you DEM1.IPL-POSS.ESS show-NEG.FUT.DEF-QUOT say-PFV.CVB fox-ERG
+Translation: "I will not show you," the fox said.
+Sentence: Ela nełar naʕanan bodač’in, nocun caƛač’in, ža sadaq anusi eli debez ɣˤutka tełxorkin buyn baqinč’iƛin, Beqes ʕUneyzat yičin.
+Gloss: we(I).OBL-ERG DEM1.IISG.OBL-LAT curse-and III-do-NEG.FUT.DEF saliva-and shoot.with-NEG.FUT.DEF DEM1.SG together be.NEG-ATTR we you-GEN2 house-IN.ESS inside-AD.LAT-even I.PL-indeed-TOP I.PL-become-NEG.FUT-QUOT sun-GEN1 Uneyzat II-remain-PST.UNW
+Translation: "We will neither curse her, nor spit on her, and we will not even get into your house without her!", Sun's Uneyzat insisted.

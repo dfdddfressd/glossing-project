@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: karnoƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": karnoƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word karnoƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elor aynosi, ža uži qˤaƛanada oqno, were meža di aħinyoqorno icin iħułer kuro, qaciz ruk’uqorno icin karnoƛin.
+Gloss: there-LAT come-ANT.CVB DEM1.SG boy yell-INF begin-PFV.CVB well you(I).PL.OBL-ERG me rock-POSS.LAT-TOP tie-PFV.CVB river-CONT.LAT throw-IMPR firewood-GEN2 bundle-POSS.LAT-TOP tie-PFV.CVB throw-PROHIB-QUOT
+Translation: When he arrived there, the boy started to yell: "Well, tie me to a rock and throw me into the river, but don't tie me to a bundle of wood and throw me in!"
+
+Approximate Matches:
+Sentence: Yeženi kidbä, din yegir yiłde sadaq hunin regirnoƛin, eniwq esirnosi, yegirzaƛ’ šida yik’inč’uƛin bixzin yoqno eƛin.
+Gloss: II-old-DEF daughter-ERG me-TOP II-let DEM2.IISG.OBL-APUD.ESS together way-TOP IV-send-PFV.CVB-QUOT mother-POSS.ESS ask-ANT.CVB II-let-CSL.CVB why II-go-NEG.PST.WIT-QUOT angry-TOP II-become-PFV.CVB say-PST.UNW
+Translation: When the eldest daughter asked her mother: "Let me go with her together so I can see her off!", and the mother angrily said: "Why didn't you go when I let you?"
+Sentence: T’ok’ow heresi mec esanix rok’ƛ’or rayärnoƛin.”
+Gloss: anymore false language tell-MSD-AD.ESS heart-SUPER.LAT IV-bring-PROHIB-QUOT
+Translation: Don't come up with the idea of telling lies again.
+Sentence: Xanes wazir č’ariłno puħo t’akan yukaynosi, nesis cim bizin, łu yedu mesedyos t’akan t’or yayrnoƛin.
+Gloss: khan-GEN1 vizier wake.up-PFV.CVB next.to glass II-see-ANT.CVB DEM1.ISG.OBL-GEN1 malice III-get.up-PFV.CVB who.ERG DEM2.IISG gold-GEN1 glass here-LAT II-bring-PST.UNW-QUOT
+Translation: When the king's vizier woke up and saw the glass at his side, he became angry[ and asked]: "Who brought this golden glass here?"

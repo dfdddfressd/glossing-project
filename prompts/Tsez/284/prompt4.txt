@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kik in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kik: 
+
+Exact Matches
+Sentence: Žamaʕatyor riyx zows yołi žeduz ʕaƛoł boƛƛo sida ixiw aħinyoƛ teł kik yałrułi, elur ža dawla biqa zownč’uƛin.
+Gloss: population-LAT IV-know-IPFV.CVB be.NPRS-PST.WIT if DEM1.IPL.OBL-GEN2 village-CONT.ESS III-middle one.OBL big rock-SUB.ESS inside spring be-MSD we(I).OBL-LAT DEM1.SG prey III-get-INF be.NPRS-NEG.PST.WIT-QUOT
+Translation: If the population knew that in the middle of their village under a rock there is a spring, we would not get the prey."
+Sentence: Yisä yisiz madax łäs bic’äsi q’ut’u biħurnosi, zam-zames łäs kik boƛixno.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-GEN2 yard-AD.ESS water-GEN1 III-fill-RES.PRT earthen.jug III-pour-ANT.CVB Zam-Zam-GEN1 water-GEN1 spring III-appear-PST.UNW
+Translation: After he poured out the water-filled jug in his yard, a spring of holy water appeared.
+Sentence: Q’orola nełqor eƛin, łäxor mi yik’iƛ’oräy yok’ek’anix ʕoloqbi urɣizi boqxo, hudu mi esiwqor eƛo, zam-zames łi et’näy, madaxtow nełas kik boƛixxosi, nełał xizay ik’iƛƛin.
+Gloss: widow-ERG DEM1.IISG.OBL-POSS.LAT say-PST.UNW water-AD.LAT you II-go-SIM.CVB II-steal-MSD-AD.ESS young.person-PL thinking I.PL-become-PRS so you brother-POSS.LAT say-IMPR Zam-Zam-GEN1 water pour-CND.CVB outside-AD.ESS-EMPH DEM1.IISG.OBL-GEN1 spring III-appear-PRS.PRT DEM1.IISG.OBL-CONT.ESS behind go-OPT-QUOT
+Translation: The widow said to her: "Some young men are thinking about kidnapping you when you go to get water, so tell your brother that if he pours out holy water, then outside a spring of it will appear, behind which he should go."
+
+Approximate Matches:

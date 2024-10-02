@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šet’ur in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šet’ur: 
+
+Exact Matches
+Sentence: Hunix ik’iƛ’oräy, neła ħalaq’awni gula nesiqor eƛin, aždaħ kecäsi yałzay, buq bayäsi bičixosi, q’ˤiday bizinosi ža bičixozoni gogaƛ’ ɣedu boqxosi, elo nełaqgon šet’ur k’ešonayx xexoybi ričixosiƛin.
+Gloss: way-AD.ESS go-SIM.CVB DEM1.IISG.OBL thin-DEF horse-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW dragon sleep-RES.PRT be-SIM.CVB sun III-come-RES.PRT III-be-IPFV.CVB-ATTR down-IN.ABL III-get.up-ANT.CVB DEM1.SG III-be-PRS.PRT.OBL-DEF meadow-SUPER.ESS shade III-happen-PRS.PRT there DEM1.IISG.OBL-POSS.ESS-CNTR around play-IPFV.CVB young.animal-PL III.PL-be-PRS.PRT-QUOT
+Translation: While he went on his way, that thin horse said to him: "While the dragon sleeps, the sun goes up, and after he gets up a shadow appears on the meadow, there around it the youngs are playing.
+Sentence: Eɣeni esiw šet’ur ezu-ʕoƛ’ux, xal bodix ik’ix zown.
+Gloss: young-DEF brother around examine-IPFV.CVB examination III-do-IPFV.CVB go-IPFV.CVB be.NPRS-PST.UNW
+Translation: The young brother went examining and looking around.
+Sentence: Ža xabar šet’ur ʕaƛozałno bik’in.
+Gloss: DEM1.SG story around village-PL-CONT.ESS-TOP III-go-PST.UNW
+Translation: This story went through all the villages around.
+
+Approximate Matches:
+Sentence: Žeduł teł yałru hič’č’a bexorani bˤeliz ɣunä eƛix teqno, šet’urtow yałru ažomzas ʕadlu däq boqxo, sistow sis yałru barus ʕadlun boqinč’ey, yeda ʕabdal ħonƛ’aɣor ik’ix, nesä nesił xizay rexada šebin rowanixƛin.
+Gloss: DEM1.IIPL.OBL-CONT.ESS inside be-PST.PRT the.most lengthy-DEF poplar-GEN2 tree-ERG say-IPFV.CVB hear-PST.UNW around-EMPH be-PST.PRT tree-PL-GEN1 order me-POSS.ESS III-become-PRS one-EMPH one be-PST.PRT wife-GEN1 order-TOP III-become-NEG.PST.CVB DEM2.ISG fool mountain-SUPER.VERS go-IPFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-CONT.ESS behind IV-slaughter-INF thing IV-bring-MSD-AD.ESS-QUOT
+Translation: And he heard the highest poplar trees saying among themselves: "I can control the trees that are around me, but this fool cannot even control the single wife that he has, and he is going onto the mountain to bring something to slaughter after himself."
+Sentence: Neširuxay maħor ža yaqrun, sadaq šet’urtow gʷanɣizi roqxo zown.
+Gloss: evening-AD.ABL outside DEM1.SG II-become-IMM.ANT.CVB all around-EMPH illuminate IV-become-IPFV.CVB be.NPRS-PST.UNW
+Translation: Right after she had gone outside in the evening, everything around was getting bright.
+Sentence: ʕUraw q’ʷarid oqno ža, šet’ursi dunyaltow qˤabir butin nesir nece yetixozo baruƛ’ay bat’a oqzaƛ’.
+Gloss: very sadness become-PFV.CVB DEM1.SG around-LAT-ATTR world-EMPH black-LAT III-turn-PFV.CVB DEM1.ISG.OBL-LAT so.much II-love-PRS.PRT.OBL wife-SUPER.ABL seperation become-CSL.CVB
+Translation: He became very sad, the world around him turned black because he got seperated from the wife he loved so much.

@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ʕalamałi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ʕalamałi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ʕalamałi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ele howda ʕalamałi yoł nełas.
+Gloss: there DEM3.SG feature be DEM1.IISG.OBL-GEN1
+Translation: This is the reason.
+Sentence: Yedu šebi ʕalamałi riča rayxƛin yeda bazaryar ik’inosi, elon siskin besun anu:
+Gloss: DEM2.IISG what miracle IV-be-INF IV-must-PRS-QUOT DEM2.ISG bazar-IN.LAT go-ANT.CVB there-TOP anything III-find-PFV.CVB be.NEG
+Translation: "What wonder could this be?"; when he went to the market, he didn't find anything there:
+
+Approximate Matches:
+Sentence: Assalama ʕalaykumƛin eƛin, salamno teƛno, uži ɣˤutka tełxor oqno.
+Gloss: the.peace. ...be.with.you-QUOT say-PFV.CVB greeting-TOP give-PFV.CVB boy house-IN.ESS inside-AD.LAT become-PST.UNW
+Translation: "As-salam alaykum!" said the boy, greeted him and got into the house.
+Sentence: Xizyo xan qˤaƛanada oqno, eleley, yedu didiw karamałi, debez buɣa däz buɣaz axʷay mo yac’xoƛin.
+Gloss: afterwards khan yell-INF begin-PFV.CVB behold DEM2.IISG which miracle you-GEN2 stock.bull-ERG me-GEN2 stock.bull-GEN2 belly-IN.ABL fat II-eat-PRS-QUOT
+Translation: Then the king began to yell: "Behold, what miracle is that, your bull is eating the fat out of my bull's belly!"
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.

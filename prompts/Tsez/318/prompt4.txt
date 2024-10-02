@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yałzay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yałzay: 
+
+Exact Matches
+Sentence: Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.
+Gloss: so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT
+Translation: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Di žeduqƛin, žawab teƛno nesä, där bˤeƛ’xo yałzay yukayru moƛu esinč’uƛin.
+Gloss: me DEM1.IPL-POSS.ESS-QUOT answer give-PST.UNW DEM1.ISG.OBL-ERG me-LAT sheep-AD.ESS be-SIM.CVB II-see-PST.PRT dream tell-NEG.PST.WIT-QUOT
+Translation: He answered "I didn't tell them what I dreamed of while herding the sheep."
+
+Approximate Matches:
+Sentence: Beɣet’a yizi yałzaytow yizis eniwn yexun, babiya baru yownƛax.
+Gloss: I.PL-young-DISTR DEM2.IPL be-SIM.CVB-EMPH DEM2.IPL.OBL-GEN1 mother-TOP II-die-PFV.CVB dad-ERG wife II-marry-PST.UNW-QUOT
+Translation: It is said that when they both were young, their mother died and their father married a[nother] wife.

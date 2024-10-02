@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yaqˤułno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yaqˤułno: 
+
+Exact Matches
+Sentence: Onoču sosisi begirxanuƛin inkarno boyn bičäsi zown, yaqˤułno łoħrodär bik’iƛin.
+Gloss: hen at.first-ATTR III-let-IPFV.CVB-NEG-QUOT rejection-TOP III-do-PFV.CVB III-be-RES.PRT be.NPRS-PFV.CVB today-TOP frog-APUD.VERS III-go-QUOT
+Translation: "I won't let you in", the hen rejected at first, "Go to the frog again, today!"
+
+Approximate Matches:
+Sentence: Ža eženi ečuy Ħasan žaqˤułno ʕaƛox yołƛax ʕUmares xexbin šet’u butirno žeduq kesubi esix.
+Gloss: DEM1.SG old-DEF grandfather Hassan today-TOP village-AD.ESS be-QUOT Umar-GEN1 children-TOP around I.PL-gather-PFV.CVB DEM1.IPL.OBL-POSS.ESS tale-PL tell-PRS
+Translation: They say that the old grandfather Hassan is still living in the the village and, surrounded by Umar's children, tells them tales.
+Sentence: Žaqˤułno esix žedu elo yołƛin.
+Gloss: today-TOP tell-IPFV.CVB DEM1.IPL there be-QUOT
+Translation: It is said that they are still there today.
+Sentence: Yaqˤułno yołƛax Bac’ali aderzoxortow čanyabi kikix, sasaq roxirno, neširaɣor žedar žedu rayn.
+Gloss: today-TOP be-QUOT Batsali forward-ATTR.OBL-AD.LAT-EMPH she.goat-PL feed-IPFV.CVB in.the.morning III.PL-chase-PFV.CVB evening-IN.VERS DEM1.IIPL.OBL-LAT DEM1.IIPL III.PL-come-PST.UNW
+Translation: Today, it's said, Batsali is living just as before feeding the goats, chased the in the morning and they came back towards the evening by themselves.

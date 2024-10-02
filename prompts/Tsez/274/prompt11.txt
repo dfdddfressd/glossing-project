@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word egirƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word egirƛin: 
+
+Exact Matches
+Sentence: Yizi esnazaqor Ismaʕilä eƛin, howži mežin xizoxno sisxoli di žedude dandir egirƛin.
+Gloss: DEM2.IPL.OBL brother-PL-POSS.LAT Ismail-ERG say-PST.UNW now you.PL-TOP withdraw-PFV.CVB alone me DEM1.IPL.OBL-APUD.ESS towards let-QUOT
+Translation: Ismail said to those brothers: "Now withdraw and let me go against them alone!"
+Sentence: Ža goƛ’anix xizay žek’u egirƛin.
+Gloss: DEM1.SG invite-MSD-AD.ESS from.behind man send-QUOT
+Translation: Send someone to invite him!"
+Sentence: Xexłi bodin däł xizay uži egirƛin, eženi žek’u nesä nesiz hunix ik’in.
+Gloss: quickness III-do-PFV.CVB me-CONT.ESS behind son send-QUOT old-DEF man DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 way-AD.ESS go-PST.UNW
+Translation: "Quickly, send your son after me!", [said] the old man and went on his way.
+
+Approximate Matches:
+Sentence: C’urun-c’aranƛin” eƛin yayxosi k’emot’ mi yiqir, ža hoq’ˤoni reƛ’a atinč’ey q’ˤidar yegirƛin.
+Gloss: tsurun-tsaran-QUOT say-PFV.CVB II-come-PRS.PRT wooden.case you II-take.away DEM1.SG other-DEF hand touch.with-NEG.PST.CVB down-LAT II-let-QUOT
+Translation: Take away the crate that came down when you said 'Tsurun-tsaran!', let the other one down without touching it with the hand!"
+Sentence: Neł ʕaƛos xalq’i besun yisir asaɣor reƛ’ibin kurno, qema regirƛin Allahqo harizi boqxo.
+Gloss: DEM1.IISG.OBL village-GEN1 people III-find-PST.UNW DEM2.ISG.OBL-LAT sky-IN.VERS hand-PL-TOP spread.out-PFV.CVB rain IV-send-QUOT God-POSS.ESS request III-become-IPFV.CVB
+Translation: He found the people of the village spreading out their hands into the sky pleading God: "Send us rain!"
+Sentence: ʕOmoyqor cek’ä eƛin, din iduɣor begirƛin.
+Gloss: donkey-POSS.LAT goat.kid-ERG say-PST.UNW me-TOP home-IN.ALL III-let-QUOT
+Translation: The goat kid said to the donkey: "Let me into the home!"

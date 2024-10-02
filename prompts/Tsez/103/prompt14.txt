@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bic’no.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bic’no
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bic’no:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Acno yaɣˤin tełer aqruntow, suƛƛi dandir nexno bara xedyoq ałni bic’no.
+Gloss: door-TOP II-open-PFV.CVB to.the.inside become-IMM.ANT.CVB-EMPH immediately towards come-PFV.CVB wife-ERG husband-POSS.ESS hug III-hug-PST.UNW
+Translation: As soon as he opened the door and stepped inside, his wife came toward him and hugged him.
+Sentence: Xizyo yiła idäy rätiru łinasno hokon bic’no, wazirzaqorgon eƛin, hokomƛ’aɣor xan izirƛin.
+Gloss: afterwards DEM2.IISG.OBL-ERG home-IN.ABL IV-want-PST.PRT what.OBL-GEN1-TOP carriage-TOP III-fill-PFV.CVB vizier-PL-POSS.LAT-CNTR say-PST.UNW carriage-SUPER.VERS khan lift-QUOT
+Translation: Afterwards, she filled a carriage with what she wanted and said to the vizier: "Lift the king onto the carriage!"
+Sentence: Łäs tungin bic’no nexxo yedu yukayrun, yeda nełqay oxin ik’iƛ’oräy, mi ži daqäy ok’ła moči anuƛin, tungin q’ˤidar kurno yeɣeni esiw xizay k’oƛin.
+Gloss: water-GEN1 copper.jug-TOP III-fill-PFV.CVB come-IPFV.CVB DEM2.IISG II-see-IMM.ANT.CVB DEM2.ISG DEM1.IISG.OBL-POSS.ABL run.away-PFV.CVB go-SIM.CVB you now me-POSS.ABL escape-INF place be.NEG-QUOT copper.jug-TOP down-LAT throw-PFV.CVB II-young-DEF sister behind run-PST.UNW
+Translation: When he saw his younger sister coming back with a copper jug filled with water, he ran away from her, while she said: "Now there's no place you could escape from me [to]!", threw the jug down and ran behind him.
+
+Approximate Matches:
+Sentence: Xizyo ʕArabuzanä qot ric’no micxir teƛno nełaqor enłaƛ elur retixosi šebin risoƛin.
+Gloss: afterwards Arabuzan-ERG handfull IV-fill-PFV.CVB money give-PFV.CVB DEM1.IISG.OBL-POSS.LAT DEM3b.IISG.OBL-SUB.ESS we(I).OBL-LAT IV-want-PRS.PRT thing IV-buy-IMPR-QUOT
+Translation: Then Arabuzan gave her a handfull of money: "Buy the things we want with it!"
+Sentence: Hobolaytow idurno bik’in žedu esnabi, žeda žedus posun rexayn, nełas reƛno rac’no, xizor ƛäxuru ƛuzazas ixinabin ric’no bazaryaɣor bik’in.
+Gloss: there-IN.ABL-EMPH home-LAT-TOP I.PL-go-PFV.CVB DEM1.IPL brother-PL DEM1.IPL.OBL-ERG DEM1.IPL.OBL-GEN1 cattle-TOP IV-slaughter-PFV.CVB DEM1.IISG.OBL-GEN1 meat-TOP IV-eat-PFV.CVB back remain-PST.PRT bone-PL-GEN1 bag-PL-TOP IV.PL-fill-PFV.CVB bazar-IN.VERS I.PL-go-PST.UNW
+Translation: From there the brothers went home, slaughtered their cattle, ate its mean and filled bags with the remaining bones and went to the market.
+Sentence: Elay bik’in cek’ä iħäy łäs yic’no mušno yown nexƛ’oräy, nełał xizay k’oƛin zey nexxo zown.
+Gloss: there-IN.ABL III-go-PFV.CVB goat.kid-ERG river-IN.ABL water-GEN1 II-fill-PFV.CVB pot-TOP II-bring-PFV.CVB come-SIM.CVB DEM1.IISG.OBL-CONT.ESS behind run-PFV.CVB bear come-IPFV.CVB be.NPRS-PST.UNW
+Translation: The goat kid went away from there, brought a pot filled with water from the river and when it came back, a bear was running behind it.

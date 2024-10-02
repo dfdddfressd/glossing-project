@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"
+Sentence: Neł zamanał bełiqanä eƛin, howła purqay ħalkiłiƛ’aɣor ok’łace sabru bodin bičiƛin.
+Gloss: DEM1.IISG.OBL time-CONT.ESS hunter-ERG say-PST.UNW DEM3.IISG.OBL field-POSS.ABL relaxation-SUPER.VERS go.away-TERM patience III-do-PFV.CVB III-wait-QUOT
+Translation: That time the hunter said: "Wait in patience until I go away to relax from that field."
+Sentence: Sosi yisä ħumukulis bet’erhanno goƛ’in nesis murad esirnosi, nesä eƛin:
+Gloss: at.first DEM2.ISG.OBL-ERG camel-GEN1 master-TOP call-PFV.CVB DEM1.ISG.OBL-GEN1 wish ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: At first he called the owner of the camel and asked what he desired, the owner said:
+
+Approximate Matches:

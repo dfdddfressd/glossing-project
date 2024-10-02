@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bodinosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bodinosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bodinosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Tawadä bigza ħalał xal bodinosi, elo nesir sosi ozuri c’oxno yätiruni kid yukaynanu.
+Gloss: Tavadi-ERG III-much-ZA strength-CONT.ESS examination III-do-ANT.CVB there DEM1.ISG.OBL-LAT at.first eye meet-PFV.CVB II-love-PST.PRT-DEF girl II-see-PFV.CVB-NEG
+Translation: When Tavadi looked intently, he didn't see a girl that he fell in love with at first sight.
+Sentence: Yizä xal bodinosi, bazarganzo čanta teł iyos ric’äsi, raɣˤäsitow t’aqˤ resunosi dandi yizi bužzi boqno.
+Gloss: DEM2.IPL.OBL-ERG examination III-do-ANT.CVB merchant-GEN2 pocket-IN.ESS inside blood-GEN1 IV-fill-RES.PRT IV-open-RES.PRT-EMPH knife IV-find-ANT.CVB now DEM2.IPL believe I.PL-become-PST.UNW
+Translation: They did an examination, found the blood-stained, open knife in the merchant's pocket and now believed them.
+Sentence: Qˤaƛin haraƛ’ bodinosi, raładyołäy howžatow ɣˤanabi yoƛixno.
+Gloss: shout-PFV.CVB voice III-do-ANT.CVB sea-CONT.ABL DEM4.SG-EMPH woman II-appear-PST.UNW
+Translation: He shouted and out of the sea came that woman.
+
+Approximate Matches:
+Sentence: ƛ’iri bičin onoča muhubin rut’in, siskin t’ok’ow muhu xecinč’uƛin rok’u č’odinosi, onoču akäza maħorno k’oƛin boržizin boqno bik’in.
+Gloss: above III-be-PFV.CVB hen-ERG granule-PL-TOP III.PL-collect-PFV.CVB any anymore granule leave-NEG.PST.WIT-QUOT heart get.tight-ANT.CVB hen window-IN.VERS.DIST outside-TOP jump-PFV.CVB fly-TOP III-become-PFV.CVB III-go-PST.UNW
+Translation: The hen tried hard and pecked up all grains, and after making sure that it didn't left out any grain, the hen jumped out of the window and flew away.
+Sentence: Di äƛiru rodinosi, mežiz mada zam-zames kikno boƛixsi.
+Gloss: me say-PST.PRT IV-do-ANT.CVB you.PL-GEN2 yard-IN.ESS Zam-Zam-GEN1 spring-TOP III-appear-PST.WIT
+Translation: After you did what I said, a holy spring appeared in your yard.
+Sentence: Di deber łˤora ɣudi ƛirbałi rodinosi, xabaryada yoł dowqor.
+Gloss: me you-LAT three.OBL day hospitality IV-do-ANT.CVB story-COND be you-POSS.LAT
+Translation: After I have been your host for three days, I will talk to you.

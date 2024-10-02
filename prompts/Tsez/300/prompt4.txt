@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħažin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħažin: 
+
+Exact Matches
+Sentence: Neła yisiqor eƛin, mi di q’ˤuya guluƛno ħažin, din xecin q’ˤuya guluƛ’no mi zawnoƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT say-PST.UNW you me other horse-SUB.ESS-TOP exchange-PROHIB me-TOP leave-PFV.CVB other horse-SUPER.ESS-TOP you ride-PROHIB-QUOT
+Translation: It said to him: "Do not change me for another horse, and do not leave me and ride on another horse!"
+Sentence: Bazarganzar k’ukyoƛ tupin ħažin, žedudetow sadaq xizor utin nexxo zown ža.
+Gloss: merchant-PL-LAT cap-SUB.ESS rifle-TOP exchange-PFV.CVB DEM1.IPL.OBL-APUD.ESS-EMPH with back return-PFV.CVB come-IPFV.CVB be.NPRS-PST.UNW DEM1.SG
+Translation: Having exchanged the rifle for a cap with the merchants, he returned with them.
+Sentence: ƛ’iri roži anusi Ħon-Bahadurä eženir gulu ħažin.
+Gloss: above word be.NEG-ATTR Mountain~Hero-ERG old-DEF-LAT horse exchange-PST.UNW
+Translation: Without saying another word, Mountain~Hero exchanged the horse with the old man.
+
+Approximate Matches:
+Sentence: Xedya esin, sosi di bełiqur tupiƛ ziya ħažis, xizyo ža tupin teƛno bazarganzaqay k’uk bissi, ža k’ukgon iħay łi ħaƛaƛin wˤałer užinosi, q’ˤimƛ’ay bˤoƛ’un bik’in łiya boɣno bižisƛin.
+Gloss: husband-ERG tell-PST.UNW at.first me hunter-LAT rifle-SUB.ESS cow exchange-PST.WIT afterwards DEM1.SG rifle-TOP sell-PFV.CVB merchant-PL-POSS.ABL cap III-buy-PST.WIT DEM1.SG cap-CNTR river-IN.ABL water drink-INF-QUOT downward-LAT bow.down-ANT.CVB head-SUPER.ABL III-fall-PFV.CVB III-go-PFV.CVB water-ERG III-take.away-PFV.CVB III-carry-PST.WIT-QUOT
+Translation: The husband told: "At first I exchanged the cow for a rifle with a hunter, then I sold the rifle and boughta cap from some merchants, this cap fell down from my head while I was about to drink from the river and the water carried it away."

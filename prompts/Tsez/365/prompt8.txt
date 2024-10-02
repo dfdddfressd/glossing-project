@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕoloqant’a in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕoloqant’a: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Howt’ay yäk’irun mi babiwqor där moƛał rukaysƛin eƛo, łˤora ɣudi žedu gulubi rišerłin, łi ħaƛurinč’eyn xecin, iħä łäƛ’or žedu rižinosi, ʕoloqanawni gulu łi ħaƛa boƛƛäɣor bäk’i, ečrunä lilyoxaytow ħaƛuƛin.
+Gloss: from.here II-go-IMM.ANT.CVB you father-POSS.LAT me-LAT dream-CONT.ESS IV-see-PST.WIT-QUOT say-IMPR three.OBL day DEM1.IPL horse-PL IV-eat-CAUS-CNC.CVB water drink-CAUS-NEG.PST.CVB-and leave-PFV.CVB river-IN.ESS water-SUPER.LAT DEM1.IPL III.PL-lead-ANT.CVB young-DEF horse water drink-INF III-middle-IN.VERS III-go old-DEF-ERG river.bank-AD.ABL-EMPH drink-QUOT
+Translation: "When you go, say to your father that I saw it in a dream: Although you feed those horses for three days, you don't give them water to drink, then you lead them over the water into a river; the young horse will go to the middle to drink water, the old one will drink from the riverbank instead."
+Sentence: Idur aynosi, Maħama nesistow ʕoloqanawni kidbeqor eƛin, žaqˤuł ʕaƛaɣor nexƛ’oräy, där Aħmad keze oqsi.
+Gloss: home-LAT come-ANT.CVB Magomed-ERG DEM1.ISG.OBL-GEN1-EMPH young-DEF daughter-POSS.LAT say-PST.UNW today village-IN.VERS come-SIM.CVB me-LAT Akhmed meet become-PST.WIT
+Translation: When he came home, Magomed said to his young daughter: "Today, when I came into the village, I met Akhmed.
+Sentence: Eɣeni uži aq’ˤiłno, ʕoloqan oqa isäsi zown.
+Gloss: young-DEF boy grow.up-PFV.CVB young become-INF take-RES.PRT be.NPRS-PST.UNW
+Translation: The small boy grew up, and soon he became a young man.

@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šudaƛ’orno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šudaƛ’orno: 
+
+Exact Matches
+Sentence: Exa adäza babiya užizaqor wasi bodin, were, dey xexbi, di exunosi, šibaw ruzman ɣudƛ’o däz šudaƛ’orno nexno meža q’ulhut’a t’et’roƛin.
+Gloss: die-INF before dad-ERG son-PL-POSS.LAT testament III-do-PST.UNW well me-GEN1 children me die-ANT.CVB every Friday day-SUPER.ESS me-GEN2 graveyard-SUPER.LAT-TOP come-PFV.CVB you(I).PL.OBL-ERG funeral.prayer-DISTR read-IMPR-QUOT
+Translation: Before he died, the father did his testament: "Well, my children, after I have died, come to my grave every Friday and read a funeral prayer each time."
+Sentence: Šebey roqsiƛin, q’orolayä šudaƛ’orno yik’in mamalayz k’onč’azaqay šeƛ’u roɣxo zown.
+Gloss: what-DUB IV-happen-PST.WIT-QUOT widow-ERG graveyard-SUPER.LAT-TOP II-go-PFV.CVB rooster-GEN2 foot-PL-POSS.ABL clothing IV-take.away-IPFV.CVB be.NPRS-PST.UNW
+Translation: "What happened?", the widow said and went to the grave and took the clothings from the rooster's feet.
+
+Approximate Matches:
+Sentence: ʕAƛos ahli ziyaratyoƛ’t’a xizyo bik’ix zown žeduz šudaƛ’or.
+Gloss: village-GEN1 people visit-SUPER.ESS-DISTR after I.PL-go-IPFV.CVB be.NPRS-PST.UNW DEM1.IPL.OBL-GEN2 graveyard-SUPER.LAT
+Translation: And the people of the village were coming to visit their grave.
+Sentence: Nełƛ’ay soder babiwz šudaƛ’or siskin baynanu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after father-GEN2 graveyard-SUPER.LAT anyone I.PL-come-PFV.CVB-NEG
+Translation: After that, no one came to the father's graveyard anymore.
+Sentence: Nazon žeda sidaƛ’orno rutin ixiw ɣˤutku rodin.
+Gloss: all.OBL-TOP DEM1.IIPL.OBL-ERG one.OBL-SUPER.LAT-TOP III.PL-turn-PFV.CVB big house IV-do-PST.UNW
+Translation: They all came together and built a big house.

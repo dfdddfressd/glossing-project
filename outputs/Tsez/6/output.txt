@@ -1,0 +1,64 @@
+{
+  "word": "Yisä",
+  "glosses": [
+    "DEM2.ISG.OBL-ERG",
+    "DEM2.ISG.OBL",
+    "3SG.OBL"
+  ]
+}
+{
+  "word": "yeda",
+  "glosses": [
+    "lead",
+    "take",
+    "show"
+  ]
+}
+{
+  "word": "uži",
+  "glosses": [
+    "one-EMPH",
+    "one single",
+    "one"
+  ]
+}
+{
+  "word": "suƛƛitow",
+  "glosses": [
+    "immediately-EMPH",
+    "lead-PST",
+    "upper room-INESS"
+  ]
+}
+{
+  "word": "ƛ’irizoni",
+  "glosses": [
+    "above-ATTR.OBL-DEF room-IN.VERS show-INF lead-PFV.CVB",
+    "above-ATTR.OBL-DEF room-IN.ESS into show-INF let-NEG.PST.WIT-QUOT",
+    "above-ATTR.OBL-DEF room-IN.ESS into show-INF lead-PFV.CVB-NEG"
+  ]
+}
+{
+  "word": "ɣˤutkaɣor",
+  "glosses": [
+    "room-IN.VERS-DEF",
+    "II-show-INF",
+    "II-lead-PST.UNW"
+  ]
+}
+{
+  "word": "ezuranix",
+  "glosses": [
+    "lead-PST.UNW",
+    "show-MSD-AD.ESS",
+    "into"
+  ]
+}
+{
+  "word": "ižin",
+  "glosses": [
+    "lead-PFV.CVB",
+    "carry-PFV.CVB",
+    "take-PFV.CVB"
+  ]
+}

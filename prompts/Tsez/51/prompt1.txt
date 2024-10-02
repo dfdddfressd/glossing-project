@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Alimaħamaz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Alimaħamaz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Alimaħamaz:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Alimaħama maduhalłiqozoni ʕaƛar ayn.
+Gloss: Alimagomed neighbourhood-POSS.ESS-ATTR.OBL-DEF village-IN.LAT come-PST.UNW
+Translation: Alimagomed came into a neighboring village.
+Sentence: Nełƛ’ay soder, dicegon Alimaħama qoqoƛiłin, šida mi qoqoƛixƛin, bara esirno anu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after how.much-CNTR Alimagomed laugh-CNC.CVB why you laugh-PRS-QUOT wife-ERG ask-PST.UNW be.NEG
+Translation: After that, no matter how often Alimagomed laughed, his wife didn't ask "Why are you laughing?" ever again.
+Sentence: Howžiƛa rˤałay roda zaman bayxƛin Alimaħama ciqaɣor ik’in, isʷaqor reƛ’u rodanix c’araʕyor qaca rowanixƛin.
+Gloss: now-INDEF threshing.floor IV-do-INF time III-come-PRS-QUOT Alimagomed-ERG forest-IN.VERS go-PST.UNW bull-PL-POSS.LAT yoke IV-do-MSD-AD.ESS building.material-LAT firewood IV-bring-MSD-AD.ESS-QUOT
+Translation: "Now it's time to do the threshing.", Alimagomed thought and went into the forest to bring wood for building the yoke for the bulls.

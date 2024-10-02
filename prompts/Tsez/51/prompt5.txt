@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xizay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xizay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xizay:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yisä eƛin, mi barułun yižanix debeł xizay nexäsi yoł diƛin.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW you wife-LHUN II-take.out-MSD-AD.ESS you-CONT.ESS behind come-RES.PRT be me-QUOT
+Translation: He said: "I came to you in order to take you as a wife."
+Sentence: Neła quł sasaqtow moƛaxayn bizin, ixinno risno, q’ˤanon gagalazał xizay ħonƛ’aɣor boqno.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH sleep-AD.ABL-TOP I.PL-get.up-PFV.CVB bag-TOP IV-take-PFV.CVB two-TOP flower-PL-CONT.ESS behind mountain-SUPER.VERS I.PL-become-PST.UNW
+Translation: The next morning, the two of them got up from their sleep, took a back and went to the mountain for flowers.
+Sentence: Bertenyoł šeƛ’anix baħarčis šeƛ’ureł xizay yiłagon q’orolay yegirno, neła nełas šeƛ’un nełar xecin.
+Gloss: marriage-CONT.ESS put.on-MSD-AD.ESS brave.young.man-GEN1 clothing-CONT.ESS behind DEM2.IISG.OBL-ERG-CNTR widow II-let-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 put.on-PST.UNW DEM1.IISG.OBL-LAT leave-PST.UNW
+Translation: In order to dress up for the marriage, she let the widow look after young men's clothings and left her own clothes with her.
+
+Approximate Matches:
+Sentence: Užä eƛin, di c’eruc’as hil kuran, meži nełał xizayn k’oƛin, adäza hilno yayrno xizor butin bayrur di ziru neƛanƛin.
+Gloss: boy-ERG say-PST.UNW me bow-GEN1 arrow shoot.from-FUT.DEF you.PL DEM1.IISG.OBL-CONT.ESS behind-TOP run-PFV.CVB ahead arrow-TOP II-bring-PFV.CVB back III-return-PFV.CVB III-come-PST.PRT-LAT me fox give-FUT.DEF-QUOT
+Translation: The boy said, "I will shoot an arrow from my bow and you will run behind it; to the one who first brings it back to me, I will give the fox."
+Sentence: T’umzałäy xabar täqruntow, akäłru iłen oqno Ħon-Bahadurä eƛin, di žedał xizaynč’e oqäsiƛin.
+Gloss: pigeon-PL-CONT.ABL story hear-IMM.ANT.CVB-EMPH get.tired-PST.PRT as-TOP become-PFV.CVB Mountain~Hero-ERG say-PST.UNW me DEM1.IIPL.OBL-CONT.ESS behind-TOP-INTS become-RES.PRT-QUOT
+Translation: When Mountain~Hero heard the story about the pigeons, he wasn't tired anymore and said: "I will search for them!"
+Sentence: Oka eƛin, däde sadaq egirno xec yeda debi uži, xizyo ƛˤebaq ƛˤeb ħišiłnosi, hobołatow mečoƛ’or horo mi yisił xizayƛin.
+Gloss: Oku-ERG say-PST.UNW me-APUD.ESS together send-PFV.CVB leave DEM2.ISG you-GEN1 son afterwards year-POSS.ESS year be.over-ANT.CVB this-DUB-EMPH field-SUPER.LAT come.IMPR you DEM2.ISG.OBL-CONT.ESS behind-QUOT
+Translation: Oku said: "Send your son together with me, and when the year after next year is over, come to this very field and follow him."

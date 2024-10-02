@@ -1,0 +1,36 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: riqin using Leipzig glossing symbols. The sentence this word is drawn from means: "The guest's boy who invited her for dancing, took it.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": riqin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word riqin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yisiq qu ƛˤeb yaynosi, riynč’ey reƛił ƛuza riqin.
+Gloss: DEM2.ISG.OBL-POSS.ESS twenty year II-come-ANT.CVB IV-know-NEG.PST.CVB meat-CONT.ESS bone IV-get-PST.UNW
+Translation: When he became twenty years old, he found bones in his meat.
+Sentence: Yisi doxturqor taliħƛin sis q’ˤir koyiƛer riqin, nełaq t’it’aħinno ičin karačelyoza yeda lilyoxaɣor kurno.
+Gloss: DEM2.ISG.OBL doctor-POSS.LAT fortune-QUOT one board hand-SUB.LAT IV-get-PFV.CVB DEM1.IISG.OBL-POSS.ESS clutch-PFV.CVB-TOP remain-PFV.CVB wave.OBL-PL-ERG DEM2.ISG river.bank-AD.VERS throw-PFV.CVB
+Translation: Luckily, the doctor got to clutch the board and waves threw him on shore.
+
+Approximate Matches:
+Sentence: Q’ʷaridno boqno ɣʷˤadä eƛin, wallahi, šomon ħon xecin bik’is di, hudun šebintow riqinč’ey nexƛ’oräy, sidaɣ simildis muhu besun howdagon boqłin bižanƛin bowƛ’oräy, adäzar osiw ħonno keze yoqno soder biziƛ’oräy biynč’ey bigin bok’ełsi.
+Gloss: sadness-TOP III-become-PFV.CVB crow-ERG say-PST.UNW by.God how.many-TOP mountain leave-PFV.CVB III-go-PST.WIT me nevertheless thing-EMPH IV-get-NEG.PST.CVB come-SIM.CVB in.one.place maize-GEN1 granule III-find-PFV.CVB DEM3.SG-CNTR III-become-CNC.CVB III-take.out-FUT.DEF-QUOT III-bring-SIM.CVB ahead-IN.LAT high mountain-TOP meet II-become-PFV.CVB upward III-get.up-SIM.CVB III-know-NEG.PST.CVB III-swallow-PFV.CVB III-lose-PST.WIT
+Translation: The crow became sad and said: "By God, I passed so many mountains; nevertheless while I didn't get anything, I found a grain of maize somewhere and [thinking:] "I will take it anyway!", so while I carried it here anyway, I encountered a high mountain, and while flying higher, I accidentally swallowed and [thus] lost it.
+Sentence: Xanłi koyär riqinosi, Kusa žedu łˤonon esnabi nesä neside ust’arbiłun xecin, žedus eɣeni esiw hič’č’a adäsi nesis ʕaq’lus žek’ułun odin.
+Gloss: khanship hand-IN.LAT IV-get-ANT.CVB Kusa-ERG DEM1.IPL three-TOP brother-PL DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.ESS master-PL-LHUN leave-PFV.CVB DEM1.IPL.OBL-GEN1 young-DEF brother the.most in.front-RES.PRT DEM1.ISG.OBL-GEN1 advice-GEN1 man-LHUN do-PST.UNW
+Translation: When Kusa had the kingship in his hands, he named the three brothers masters for himself and named the youngest brother his foremost advisor.
+Sentence: Di debeq riyrno xecix, hemeł reƛiłäy encekin šebin žek’ur riqinäy, daru baqinč’iƛin.
+Gloss: me you-POSS.ESS IV-explain-PFV.CVB leave-IPFV.CVB DEM4.IISG.OBL meat-CONT.ABL a.little-even thing man-LAT IV-get-CND.CVB medicine III-happen-NEG.FUT-QUOT
+Translation: I warn you; if anyone else will get even a little piece of that meat, the medicine won't work.

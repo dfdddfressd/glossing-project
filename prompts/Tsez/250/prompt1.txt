@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Bik’i in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Bik’i: 
+
+Exact Matches
+Sentence: Nedur resunäy bik’i huduƛin” - eƛin zeyä.
+Gloss: so IV-exist-CND.CVB III-go so-QUOT - say-PST.UNW bear-ERG
+Translation: "If that's the case, then go!", said the bear.
+Sentence: Nesä eƛin, were meži dahaw wˤałer bik’i, bertenyołäy xalq’i maħor roxira rayxosi anu.
+Gloss: DEM1.ISG.OBL-ERG say-PST.UNW well you.PL a.little downward-LAT I.PL-go marriage-CONT.ABL people outside III.PL-chase-INF IV-must-PRS.PRT be.NEG
+Translation: He said: "Well, calm down a little, one must not chase away people from a marriage."
+Sentence: Nesi užä mežus ʕumru xʷasar bodäsi boqzaƛ’, nesiłno, Beqes ʕUneyzatełno esnałin risno žeduz bertenyołxor bik’i, ent’aytow ħaƛu-bišanix šebinon rižin.
+Gloss: DEM1.ISG.OBL boy-ERG you(I).PL.OBL-GEN1 life rescue III-do-RES.PRT III-become-CSL.CVB DEM1.ISG.OBL-CONT.ESS-and sun-GEN1 Uneyzat-CONT.ESS-and brother IV-take-PFV.CVB DEM1.IPL.OBL-GEN2 marriage-CONT.VERS I.PL-go from.here-IN.ABL-EMPH eat.and.drink-MSD-AD.ESS something IV-take.out-PFV.CVB
+Translation: Because that boy saved your life, you should fraternize with him and Sun's Uneyzat and go to their marriage after taking something to eat and drink with you."
+
+Approximate Matches:
+Sentence: Nełaƛ’ zown yizi bik’in sida šaharyar bayn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS ride-PFV.CVB DEM2.IPL I.PL-go-PFV.CVB one.OBL city-IN.LAT I.PL-come-PST.UNW
+Translation: Riding on it, they went on and came to a city.
+Sentence: Nełƛ’ay soder halmaɣza sida sidƛ’or kaɣatyabin caxnoanu, sidä sidderno bik’inanu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after friend-PL-ERG one.OBL-ERG one.OBL-SUPER.LAT letter-PL-TOP write-PFV.CVB-NEG one.OBL-ERG one.OBL-APUD.LAT-TOP I.PL-go-PFV.CVB-NEG
+Translation: After that, the friends didn't write any letters to each other and didn't visit each other anymore.
+Sentence: Nedurä mi dey wasi t’ubazi bodix zownƛin, elayn bizin ziru xanes kidbederno bik’in esin nełaq ža ɣˤutkun, maʕišatno ɣˤʷays yałrułin, žatown habihan yołƛinno.
+Gloss: so-Q you me-GEN1 testament fulfill III-do-IPFV.CVB be.NPRS-PST.UNW-QUOT there-IN.ABL-TOP III-get.up-PFV.CVB fox khan-GEN1 daughter-APUD.LAT-TOP III-go-PFV.CVB tell-PFV.CVB DEM1.IISG.OBL-POSS.ESS DEM1.SG house-and fortune-and dog-GEN1 be-PST.PRT-NMLZ-and DEM1.SG-EMPH-and miller be-QUOT-TOP
+Translation: "So you have fulfilled my wish?", [said] the fox[,] got up from there, went to the king's daughter and told her that the house and the fortune all belong to the dog and that he is just a miller.

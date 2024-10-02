@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣˤaɣˤu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣˤaɣˤu: 
+
+Exact Matches
+Sentence: Asoqtow bitin žedu ɣˤaɣˤu bizizaq, qiƛ’orok’uƛ’äy ƛ’irir best’alawni uži ayzaƛ’.
+Gloss: sky-POSS.ESS-EMPH III-touch-PFV.CVB DEM1.IPL be.happy I.PL-get.up-CSL.CVB by.chance above-LAT step-DEF son come-CSL.CVB
+Translation: They were happy sky-high, when their step-son happened to come.
+Sentence: Idur ayruntow yexurno k’eneč’ žedu q’ˤunzontow ozzaq yiħinosi, sider sis bukayłin, ɣudi qˤašizaƛ’orkin žedu bužzi boqno anu, ozzałer kanłi baysƛin, hemece ɣˤaɣˤu bizizaq.
+Gloss: home-LAT come-IMM.ANT.CVB-EMPH II-kill-PFV.CVB egg DEM1.IPL.OBL two.OBL-ATTR.OBL-TOP-EMPH eye-PL-POSS.ESS II-smear-ANT.CVB one.OBL-LAT one I.PL-see-CNC.CVB day dawn-POST.CVB-even DEM1.IPL trust I.PL-become-PST.UNW be.NEG eye-PL-CONT.LAT light III-come-PST.WIT-QUOT as.many be.happy I.PL-get.up-CSL.CVB
+Translation: After he came home, he crushed an egg, smeared it on each of their eyes, and although they could see each other again, they couldn't believe it when it got dawn, and were even more happy when the light came into their eyes.
+Sentence: Xanes kidbabin ʕuraw ɣˤaɣˤu rizin.
+Gloss: khan-GEN1 daughter-PL-TOP very be.happy IV-get-PST.UNW
+Translation: Also the king's daughters got very happy.
+
+Approximate Matches:
+Sentence: Di elor ayzaƛ’, ža ʕuraw ɣˤaɣˤun izin, nełquł sasaqtow nesä di eženi wazirłun xecis.
+Gloss: me there-LAT come-CSL.CVB DEM1.SG much be.happy-TOP get-PFV.CVB on.that.day in.the.morning-EMPH DEM1.ISG.OBL-ERG me big-DEF vizier-LHUN leave-PST.WIT
+Translation: Because I came, he got very happy and the next morning he made me the grand vizier.
+Sentence: Ža nesä eƛizaƛ’, yeda xan ʕuraw ɣˤaɣˤun izin, xalq’in žaƛ’ razi boqno.
+Gloss: DEM1.SG DEM1.ISG.OBL-ERG say-CSL.CVB DEM2.ISG khan much be.happy-TOP get-PFV.CVB people-TOP boy-SUPER.ESS agree I.PL-become-PST.UNW
+Translation: When he said that, the king got very glad, and the people were okay with the boy.
+Sentence: Babiwqay kidbes rožin riqirno ɣˤaɣˤun izin Ražbadin iduɣor ik’iƛ’oräy, dandir keze aqru esiwq babiw razi oqsiƛin esin.
+Gloss: father-POSS.ABL daughter-GEN1 word-TOP IV-take.away-PFV.CVB be.happy-TOP get.up-PFV.CVB Razhbadin home-IN.ALL go-SIM.CVB together meet become-PST.PRT brother-POSS.ESS father agree become-PST.WIT-QUOT tell-PST.UNW
+Translation: Razhbadin took the girl's word from the father, got happy and while he went home, he told his brother whom he met, that the father agreed.

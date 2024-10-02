@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’in: 
+
+Exact Matches
+Sentence: Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.
+Gloss: one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW
+Translation: One day Bear Ear went to the spring the dragon was covering to get water.
+Sentence: Ik’in, ik’in babiwƛ’or kaɣat yegirno zawruni ečruni žek’uder ayn.
+Gloss: go-PFV.CVB go-PFV.CVB father-SUPER.LAT letter II-send-PFV.CVB be.NPRS-PST.PRT-DEF old-DEF man-APUD.LAT come-PST.UNW
+Translation: He went and went and came to the old man who had sent the letter to his father.
+Sentence: Howži ža ɣamasno hokomƛ’o erno, eɣeni esiw xanes kid yałruni qalamxaɣor ik’in.
+Gloss: now DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB young-DEF brother khan-GEN1 daughter be-PST.PRT-DEF fortress-AD.VERS go-PST.UNW
+Translation: Now they put the box onto a carriage and the young brother went to the fortress where the king's daughter was.
+
+Approximate Matches:
+Sentence: Musaqilično, ʕIsaqilično babiwz šudaxaɣor bik’ixƛin sida q’orol ɣˤanazaz ƛ’emiƛxorno bik’in kecnot’a bičix zown.
+Gloss: Musaqilich-and Isaqilich-and father-GEN2 graveyard-AD.VERS I.PL-go-IPFV.CVB-QUOT one.OBL widowed woman-GEN2 hayloft-SUB.LAT-TOP I.PL-go-PFV.CVB sleep-PFV.CVB-DISTR I.PL-be-IPFV.CVB be.NPRS-PST.UNW
+Translation: Musaqilich and Isaqilich pretended to go to their father's grave, and went to a widow's hayloft to sleep there.
+Sentence: Howlotow kidno xecin bełiqubi žeda žeduz hunix bik’in.
+Gloss: there-EMPH girl-TOP leave-PFV.CVB hunter-PL DEM1.IPL-ERG DEM1.IPL.OBL-GEN2 way-AD.ESS I.PL-go-PST.UNW
+Translation: Leaving the girl there, the hunters went on their own way.
+Sentence: Sasaqay neširur bik’in yizi sida oreznixor bayn.
+Gloss: in.the.morning-IN.ABL evening-LAT I.PL-go-PFV.CVB DEM2.IPL one.OBL pond-AD.LAT I.PL-come-PST.UNW
+Translation: They went from the morning to the evening and came to a pond.

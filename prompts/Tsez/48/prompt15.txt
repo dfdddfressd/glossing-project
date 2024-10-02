@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: č’imix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": č’imix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word č’imix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕAƛoz č’imix yisił xanes nukar c’oxno.
+Gloss: village-GEN2 edge-AD.ESS DEM2.ISG.OBL-CONT.ESS khan-GEN1 henchman meet-PST.UNW
+Translation: On the village's edge he met the king's henchman.
+Sentence: ƛ’ˤaz č’imix yedu yałzay, qurun-qaranƛin” qˤaƛix ƛ’iräy ƛ’iyor sis k’emot’ yayn.
+Gloss: roof-GEN2 edge-AD.ESS DEM2.IISG be-SIM.CVB kurun-karan-QUOT shout-IPFV.CVB from.above downwards one wooden.case II-come-PST.UNW
+Translation: When she was on the roof's edge and was shouting: "Kurun-karan!", one crate came down from above.
+
+Approximate Matches:
+Sentence: Neł maydanzo č’imä nesir łˤono t’ala yołäsi ɣˤutku rukayn.
+Gloss: DEM1.IISG.OBL clearance-GEN2 corner-IN.ESS DEM1.ISG.OBL-LAT three floor be-RES.PRT house IV-see-PST.UNW
+Translation: In a corner of that clearance, he saw a house with three floors.
+Sentence: Nesis ɣˤutku ʕaƛoz č’imäza zown.
+Gloss: DEM1.ISG.OBL-GEN1 house village-GEN2 corner-IN.VERS.DIST be.NPRS-PST.UNW
+Translation: His house was located in the suburb of a village.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bayx.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bayx
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bayx:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elaɣor yizi gamiƛ’no zown, raładno boɣno bik’a bayx zown.
+Gloss: here-IN.VERS DEM2.IPL boat-SUPER.ESS-TOP ride-PFV.CVB sea-TOP III-cross-PFV.CVB I.PL-go-INF I.PL-come-IPFV.CVB be.NPRS-PST.UNW
+Translation: They came back in a boat to cross the sea.
+Sentence: Dandir aždaħ c’oxnosi, Ħuseneł biłetow yiła yisiłno q’ut’i boyx, łox ɣˤul caƛin sosikin nełaz c’oxnäy, yisä ža boƛƛi begira bayx, sosikin c’oxinč’inäy, aždaħä ža igix.
+Gloss: towards dragon meet-ANT.CVB Hussein-CONT.ESS III-as-EMPH DEM2.IISG.OBL-ERG DEM2.ISG.OBL-CONT.ESS-TOP agreement III-do-IPFV.CVB thrice stone throw-PFV.CVB once-even DEM1.IISG.OBL-GEN2 hit-CND.CVB DEM2.ISG.OBL-ERG DEM1.SG III-middle III-break.apart-CAUS-INF III-must-IPFV.CVB once-even hit-NEG.FUT.CVB-CND.CVB dragon-ERG DEM1.SG swallow-PRS
+Translation: When he came to the dragon, he was making the same agreement as with Hussein with him, that if he throws a stone three times and hits him at least once, he must break him apart in the middle, if he doesn't hit him at least once, the dragon would be swallowing him.
+Sentence: Idur xediw ayrun baru daʕba boda c’oxno, ɣudi adäy eluq mešori bexada bayx, šidaƛin eƛiłiri nełqay didiwnkin mumpaʕat anu, ʕadada käkirułi gurow.
+Gloss: home-LAT husband come-IMM.ANT.CVB wife dispute III-do-INF meet-PFV.CVB day earlier we(I).OBL-POSS.ESS heifer III-slaughter-INF III-must-IPFV.CVB why-QUOT say-CND.CVB.IRR DEM1.IISG.OBL-POSS.ABL which-TOP-even benefit be.NEG to.no.purpose feed-MSD except
+Translation: As soon as the husband had come home, the wife started to insist: "Soon this day we have to slaughter the heifer, because there's no benefit whatsoever from it except for feeding [it] in vain."
+
+Approximate Matches:

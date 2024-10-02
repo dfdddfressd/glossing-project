@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yeč’oƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yeč’oƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yeč’oƛin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Mi nesiqor eƛo, sosi mitow reč’oƛin.
+Gloss: you DEM1.ISG.OBL-POSS.LAT say-IMPR at.first you-EMPH IV-cut-IMPR-QUOT
+Translation: Say to him: 'You chop first!'
+Sentence: Łaymoƛ’or aynosi, Ismaʕil izin ʕArabuzande igorno ik’in xanqor eƛin, horo hoboy yiłas meč’ beč’oƛin.
+Gloss: mind-SUPER.LAT come-ANT.CVB Ismail get.up-PFV.CVB Arabuzan-APUD.ESS near-LAT-TOP go-PFV.CVB khan-POSS.LAT say-PST.UNW come.IMPR now DEM2.IISG.OBL-GEN1 neck III-cut-IMPR-QUOT
+Translation: After he came to, Ismail got up and went to Arabuzan and said to the king: "Come now, cut off her neck!"
+Sentence: Xizyo q’ˤidayn izin di dowderno nexno babiwqor eƛan, horo howži yiłas meč’ beč’oƛin.
+Gloss: afterwards down-IN.ABL-TOP get.up-PFV.CVB me you-APUD.LAT-TOP come-PFV.CVB father-POSS.LAT say-FUT.DEF come.IMPR now DEM2.IISG.OBL-GEN1 neck III-cut-IMPR-QUOT
+Translation: Then, when I got up, I will come to you and say to my father: 'Come now, cut off her neck!'

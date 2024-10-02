@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bisno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bisno: 
+
+Exact Matches
+Sentence: Bazarganbi guluzaxozo aħozider baynosi, nesiqayn hemedurtow bayan bisno, t’aza ħumukulibin roc’no ik’ix debełi sis uži c’oxinč’aƛin.
+Gloss: merchant-PL horse-PL-AD.ESS-ATTR.OBL shepherd-APUD.LAT I.PL-come-ANT.CVB DEM1.ISG.OBL-POSS.ABL-TOP so-EMPH information III-take-PFV.CVB from.here camel-PL-TOP III.PL-drive-PFV.CVB go-IPFV.CVB you-NMLZ one boy meet-NEG.PST.WIT-PST.WIT.INT-QUOT
+Translation: When the merchants came to the shepherd with the horses, they wanted to take his information, if
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Ɣˤaɣˤun izin nesä ža butni bazaryay bisno bižin.
+Gloss: be.happy-and get.up-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG burka bazar-IN.ABL III-buy-PFV.CVB III-carry-PST.UNW
+Translation: He got happy and bought the burka from the market.
+
+Approximate Matches:
+Sentence: C’ik’iw moƛa bisnosi, geres ħosno bisno Qartayä ɣoɣorik’anix pečma teł ʕamoƛ’ erno.
+Gloss: all sleep I.PL-take-ANT.CVB iron-GEN1 stick-TOP III-take-PFV.CVB Qartay-ERG make.red.hot-MSD-AD.ESS oven-IN.ESS inside coal-SUPER.ESS put-PST.UNW
+Translation: After everyone went to sleep, Qartay took an iron stick and put it on some coals inside the oven to make it red-hot.
+Sentence: Łox äƛirugon nełatow c’enno uži ʕiyayn, žigon šebi nesir retäƛin, eniya bayan bisnosi, yeženi esiya eƛin:
+Gloss: thrice ORD-CNTR DEM1.IISG.OBL-ERG-EMPH pinch-PFV.CVB boy cry-PFV.CVB again.now what DEM1.ISG.OBL-LAT IV-want-Q-QUOT mother-ERG III-must-FUT.DEF III-take-ANT.CVB II-old-DEF sister-ERG say-PST.UNW
+Translation: When she pinched the boy for the third time and he cried, again, his mother asked, what he wanted again now, so the eldest sister said:
+Sentence: Žigon šebi roqnoƛin, užä bayan bisnosi, neła kinaw raqru šebin esin.
+Gloss: again.now what IV-happen-PST.UNW-QUOT boy-ERG information III-take-ANT.CVB DEM1.IISG.OBL-ERG entire IV-happen-PST.PRT thing tell-PST.UNW
+Translation: When the boy asked: "What happened?" again, she told all the things that happened.

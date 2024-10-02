@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: zaħmataw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": zaħmataw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word zaħmataw:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Užä eƛin, baba, elur caxinč’iru šebin riqa zaħmataw ričixosi yoł.
+Gloss: boy-ERG say-PST.UNW daddy we(I).OBL-LAT write-NEG.FUT.CVB-PST.PRT thing IV-get-INF difficult IV-be-PRS.PRT be
+Translation: The boy said: "Father, it is difficult to get a thing that is not destined for us."
+Sentence: Xediya eƛin, babiya däł adäza zaħmataw masala ersi.
+Gloss: husband-ERG say-PST.UNW dad-ERG me-CONT.ESS before difficult task put-PST.WIT
+Translation: The husband said: "My father has put a difficult task before me.
+
+Approximate Matches:
+Sentence: Sis nełarno kurno siskin där ƛexandaƛin, aɣzo rok’ƛ’orno rayn, dicego rok’er zaħmat roqłin, zirur sis xexoy kurno.
+Gloss: one DEM1.IISG.OBL-LAT-TOP throw-PFV.CVB anything me-LAT remain-FUT.DEF-COND-QUOT bird-ATTR.OBL heart-SUPER.LAT-TOP IV-come-PFV.CVB how.much-COND heart-LAT trouble IV-become-CNC.CVB fox-LAT one young.animal throw-PST.UNW
+Translation: "Throwing one down, there will still remain one for me.", thought the bird and although it was difficult, it threw one nestling to the fox.
+Sentence: Sis xexoy yiłar kurnäy, q’ˤano där ƛäxuƛin, rok’ƛ’or pikrun bayn, dicego zaħmat roqłin, yiła zirur xexoy kurno.
+Gloss: one young.animal DEM2.IISG.OBL-LAT throw-CND.CVB two me-LAT remain-QUOT heart-SUPER.LAT idea-TOP III-come-PFV.CVB how.much-COND trouble IV-become-CNC.CVB DEM2.IISG.OBL-ERG fox-LAT young.animal throw-PST.UNW
+Translation: "If I throw him down one nestling, I will still keep two", thought the bird and although it was quite difficult, it threw a nestling to the fox...

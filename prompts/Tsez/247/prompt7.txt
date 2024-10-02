@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bertenno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bertenno: 
+
+Exact Matches
+Sentence: Kʷaxatow bertenno boyn yedu kid nesi žoyä yižin.
+Gloss: soon-EMPH marriage-TOP III-do-PFV.CVB DEM2.IISG girl DEM1.ISG.OBL boy-ERG II-lead-PST.UNW
+Translation: Soon they celebrated their wedding and the boy took the girl with him.
+Sentence: Yisä yisir łˤora ɣudi bertenno erno, bercinawƛ’ay bercinawt’a kidbabin rukarno, howt’aytow barun yižoƛin harizin rodin, roƛik’u xanłin riso howt’otow uyn iči, mi iłe baħarči naynkin t’ok’ow elur äqinč’iƛin.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-LAT three.OBL day marriage-and put-PFV.CVB beautiful-SUPER.ABL beautiful-DISTR girl-PL-and II.PL-show-PFV.CVB from.here-EMPH wife-TOP II-take.out-IMPR-QUOT request-TOP IV-do-PFV.CVB IV-half khanate-TOP IV-take-IMPR here-EMPH just-TOP be you as brave.young.man from.nowhere anymore we(I).OBL-LAT get-NEG.FUT-QUOT
+Translation: He arranged a 3-day lasting marriage for him, presented girls that were prettier than pretty, "Choose a wife from here!", he begged, "Settle down here and take half of the kingdom, from nowhere will we ever get such a brave young man as you, anymore!"
+Sentence: Hudayzikotow bertenno bodin, miskinaw oqłin ʕaq’ilawni žax nesi žek’a äƛiruxor, kidno yegirno.
+Gloss: the.next.day-EMPH marriage-TOP III-do-PFV.CVB poor become-CNC.CVB intelligent-DEF boy-AD.ESS DEM1.ISG.OBL man-ERG ORD-AD.LAT girl-TOP II-send-PST.UNW
+Translation: The next day the wedding was arranged and the girl was - as this man had told - married off to the intelligent though poor boy.
+
+Approximate Matches:
+Sentence: Yeženi ɣˤanaza eƛin, mi berten łiyace yičinč’ey xexłiƛ’ idurno nexno, hisona teł šeƛ’un eqro, min nexno idu yičiƛin.
+Gloss: II-old-DEF woman-ERG say-PST.UNW you marriage end-TERM II-wait-NEG.PST.CVB quickness-SUPER.ESS home-LAT-TOP come-PFV.CVB trough-IN.ESS inside clothing-TOP put-IMPR you-TOP come-PFV.CVB home II-wait-QUOT
+Translation: The old woman said: "Before the marriage ends, come home quickly, put the clothes into the trough, get home and wait."
+Sentence: Hudun meža di berten bodinč’ey xecinč’u.
+Gloss: nevertheless you(I).PL.OBL-ERG me marriage III-do-NEG.PST.CVB leave-NEG.PST.WIT
+Translation: "Nevertheless you all didn't let me *not* have a marriage.
+Sentence: Nesä eƛin, were meži dahaw wˤałer bik’i, bertenyołäy xalq’i maħor roxira rayxosi anu.
+Gloss: DEM1.ISG.OBL-ERG say-PST.UNW well you.PL a.little downward-LAT I.PL-go marriage-CONT.ABL people outside III.PL-chase-INF IV-must-PRS.PRT be.NEG
+Translation: He said: "Well, calm down a little, one must not chase away people from a marriage."

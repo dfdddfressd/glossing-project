@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word caƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word caƛin: 
+
+Exact Matches
+Sentence: Hudun žeda diduräyƛa gulun k’irik’no, ƛoħo rutirno caƛin.
+Gloss: nevertheless DEM1.IPL.OBL-ERG how-IN.ABL-INDEF horse-TOP frighten-PFV.CVB pan IV-turn-PFV.CVB throw-PST.UNW
+Translation: Nevertheless they frightened the horse somehow and it turned the pan and threw it to them.
+Sentence: Neła ža beƛ’q’ˤu bac’anix łet’ix yałrułi nesir čuqˤnosi, c’eruc’a caƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG sheep III-eat-MSD-AD.ESS pick-IPFV.CVB be-MSD DEM1.ISG.OBL-LAT notice-ANT.CVB bow shoot.with-PST.UNW
+Translation: When he noticed that she was picking that sheep in order to eat it, he shot with his bow.
+Sentence: Ħusen ukayrun aždaħä eƛin, dowqo däz enda ɣˤul łox caƛin č’aq’ˤinäy, mi di boƛi begir, c’oxinč’inäy mi di ac’a yołƛin.
+Gloss: Hussein see-IMM.ANT.CVB dragon-ERG say-PST.UNW you-POSS.ESS me-GEN2 DEM3b.SG stone thrice throw-PFV.CVB hit-CND.CVB you me III-half III-break.apart-CAUS hit-NEG.FUT.CVB-CND.CVB you me eat-INF be-QUOT
+Translation: Right after he saw Hussein, the dragon said: "If you throw and hit me with this stone within three attempts, break me apart in the middle! If you don't hit me, I am going to eat you."
+
+Approximate Matches:
+Sentence: Way dey užiƛin, regin babiwq, howži deber žukkin roqinč’inäy, di eƛix zownč’a dowqor neła aɣis tupi caƛinƛin.
+Gloss: o.dear me-GEN1 son-QUOT IV-be.emitted-PFV.CVB father-POSS.ESS now you-LAT worse-even IV-become-NEG.FUT.CVB-CND.CVB me say-IPFV.CVB be.NPRS-NEG.PST.WIT-PST.WIT.INT you-POSS.LAT DEM1.IISG.OBL bird-GEN1 rifle shoot.with-PROHIB-QUOT
+Translation: "Oh dear, my son!", said the father, "Have I not warned you that it would become bad for you now, if you shoot that bird with your rifle?"
+Sentence: Hunix bik’iƛ’oräy, zira reƛiƛ’ sis haqu caƛinanu.
+Gloss: way-AD.ESS III-go-SIM.CVB fox-ERG meat-SUPER.ESS one mouth throw-PFV.CVB-NEG
+Translation: While going on his way, the fox didn't put his mouth on the meat.
+Sentence: Xizyo eɣeni esiya nełaz c’eruc’a caƛinosi, sis nełas lel ɣunoƛer yoƛ’ˤun yayn, t’awusno hawaƛ’ k’oƛin boxin bik’in.
+Gloss: afterwards young-DEF brother-ERG DEM1.IISG.OBL-GEN2 bow shoot.with-ANT.CVB one DEM1.IISG.OBL-GEN1 feather tree-SUB.LAT II-fall-PFV.CVB II-come-PFV.CVB peacock-TOP air-SUPER.ESS jump-PFV.CVB III-run.away-PFV.CVB III-go-PFV.CVB
+Translation: Then the youngest brother shot with the bow and the peacock flew away, but one feather fell down under the tree.

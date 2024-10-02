@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕArabuzanä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕArabuzanä: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Łi rowa ik’iƛin babiwqorno eƛin, Ismaʕilä bišadyoƛ’ ƛ’iri ʕArabuzanä teƛno zawruni bašiqˤoy łox šet’u rutirno.
+Gloss: water IV-bring-INF go-QUOT father-POSS.LAT-TOP say-PFV.CVB Ismail-ERG food-SUPER.ESS above Arabuzan-ERG give-PFV.CVB be.NPRS-PST.PRT-DEF ring thrice around IV-turn-PST.UNW
+Translation: "Go and bring some water!", Ismail said to his father and turned the ring that Arabuzan had given to him over the food three times.
+Sentence: Sasaq qˤašinosi, Ismaʕil hunixor oqanix ħadur oqxo ukaynosi, ʕArabuzanä gulu bˤaƛoyn, din dowde sadaq yik’ixƛin.
+Gloss: in.the.morning get.up-ANT.CVB Ismail way-AD.LAT become-MSD-AD.ESS prepare become-IPFV.CVB see-ANT.CVB Arabuzan-ERG horse III-harness-PFV.CVB me-and you-APUD.ESS together II-go-PRS-QUOT
+Translation: After she got up in the morning and saw that Ismail was preparing to get on his way, Arabuzan harnessed her horse: "I am going with you."
+Sentence: Hudun ʕArabuzanä žedu igorkin nexa begirno anu.
+Gloss: nevertheless Arabuzan-ERG DEM1.IIPL near-LAT-even come-INF I.PL-let-PST.UNW be.NEG
+Translation: Nevertheless, Arabuzan didn't even let them come close.

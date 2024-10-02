@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łˤoran.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łˤoran
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łˤoran:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: Ža kaɣat t’et’erno łiynosi, łˤoran xexza nesiqor eƛin, eli łˤonon bik’a yoł debez halmaɣ Tawadidäɣor.
+Gloss: DEM1.SG letter read-PFV.CVB end-ANT.CVB three.OBL-TOP children DEM1.ISG.OBL-POSS.LAT say-PST.UNW we three-TOP I.PL-go-INF be you-GEN2 friend Tavadi-APUD.VERS
+Translation: When he finished reading the letter, his three children said to him: "We three will go to your friend Tavadi.
+Sentence: Guħƛ’orno bizin, łˤoran esnaza kurno c’eruc’a.
+Gloss: hill-SUPER.LAT-TOP I.PL-get.up-PFV.CVB three.OBL-TOP brother-PL-ERG throw-PST.UNW bow
+Translation: The three brothers climbed up the hill and shot with their bows.
+
+Approximate Matches:
+Sentence: Hič’č’a adäz eženi esiwr bazarya łˤora ɣˤurušyoƛ teƛxo q’ut’u bukaynosi, nesä bazarganqo esirno:
+Gloss: the.most ahead old-DEF brother-LAT bazar-IN.ESS three.OBL ruble-SUB.ESS sell-IPFV.CVB earthen.jug III-see-ANT.CVB DEM1.ISG.OBL-ERG merchant-POSS.ESS ask-PST.UNW
+Translation: First of all, the eldest brother saw a jug on the market for three rubles, and asked the merchant:
+Sentence: Yiła eƛin, eloš neła łˤora t’alamezni ɣˤutka deber retinäy, łˤora ƛˤeba mi elo doxturłin roynäy, deber di kumak boyxosi ɣˤanabiłun yičanƛin.
+Gloss: DEM2.IISG.OBL-ERG say-PFV.CVB over.there DEM1.IISG.OBL-IN.ESS three.OBL floor-GEN2-DEF house-ERG you-LAT IV-want-CND.CVB three.OBL year-IN.ESS you there doctor-CNC.CVB IV-do-CND.CVB you-LAT me help III-do-PRS.PRT woman-LHUN II-remain-FUT.DEF-QUOT
+Translation: She said, "If you want to live in this three-floored house and work as a doctor for three years, I will help you."
+Sentence: Nece xira, łˤora ɣˤurušyoƛ, yedu q’ut’u teƛxo boqzaƛ’, yiłas hunarno eso mi däqƛin?”.
+Gloss: so.much expensive three.OBL ruble-SUB.ESS DEM2.IISG earthen.jug sell-IPFV.CVB III-happen-CSL.CVB DEM2.IISG.OBL-GEN1 talent-TOP tell-IMPR you me-POSS.ESS-QUOT
+Translation: "So expensive, you're selling this jug for three rubles, tell me about its ability!"

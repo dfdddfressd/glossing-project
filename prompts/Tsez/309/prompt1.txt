@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Halmaɣzaz in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Halmaɣzaz: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hemełƛ’ay soder q’orolaz užis raħataw, paraxataw ʕumru zown, ħalikatawt’ani halmaɣzaqay bat’an oqno.
+Gloss: DEM4.IISG.OBL-SUPER.ABL after widow-GEN2 son-GEN1 serene quiet life be.NPRS-PFV.CVB mean-DISTR-DEF friend-PL-POSS.ABL seperation-TOP become-PST.UNW
+Translation: After that, the widow's son lead a serene, quiet life, bereft of mean friends.
+Sentence: Nełƛ’ay soder halmaɣza sida sidƛ’or kaɣatyabin caxnoanu, sidä sidderno bik’inanu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after friend-PL-ERG one.OBL-ERG one.OBL-SUPER.LAT letter-PL-TOP write-PFV.CVB-NEG one.OBL-ERG one.OBL-APUD.LAT-TOP I.PL-go-PFV.CVB-NEG
+Translation: After that, the friends didn't write any letters to each other and didn't visit each other anymore.
+Sentence: Ražbadinä reƛ’ibin risno, Tawadisno nesiz halmaɣzasno hunin regirno, xizor iduɣor utin.
+Gloss: Razhbadin-ERG hand-PL-TOP IV.PL-take-PFV.CVB Tavadi-GEN1-and DEM1.ISG.OBL-GEN2 friend-PL-GEN1-and way-TOP IV-send-PFV.CVB back home-IN.ALL return-PST.UNW
+Translation: Razhbadin took the hands of Tavadi and his friends, sent them on their way and returned home.

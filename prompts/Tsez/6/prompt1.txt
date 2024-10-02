@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Yisä using Leipzig glossing symbols. The sentence this word is drawn from means: "He immediately led the boy into the upper room to show it to him.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Yisä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Yisä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sosi yisä ħumukulis bet’erhanno goƛ’in nesis murad esirnosi, nesä eƛin:
+Gloss: at.first DEM2.ISG.OBL-ERG camel-GEN1 master-TOP call-PFV.CVB DEM1.ISG.OBL-GEN1 wish ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: At first he called the owner of the camel and asked what he desired, the owner said:
+Sentence: Ža xabar yisä aħyaxorkin begirnoanu, baru yowač’inƛin di hedizi oqäsiƛin, t’ok’ow ža xabar meža haqazay maħor baɣnoƛin.
+Gloss: DEM1.SG story DEM2.ISG.OBL-ERG ear-AD.LAT-even III-let-PFV.CVB-NEG wife II-marry-NEG.FUT.DEF-QUOT me swear become-RES.PRT-QUOT anymore DEM1.SG story you(I).PL.OBL-ERG mouth-IN.ABL.DIST outside III-take.away-PROHIB-QUOT
+Translation: These words he didn't let to his ears, "I won't marry another wife!"... "I swear!"... "Don't say that anymore!",
+Sentence: Elay mekoyx yałru yisä bet’urno neł ɣunoqay c’udani heneš bac’nosi, nesiłäy ɣun roqno.
+Gloss: there-IN.ABL be.hungry-IPFV.CVB be-PST.PRT DEM2.ISG.OBL-ERG III-pull.out-PFV.CVB DEM1.IISG.OBL tree-POSS.ABL red-DEF apple III-eat-ANT.CVB DEM1.ISG.OBL-CONT.ABL tree IV-become-PST.UNW
+Translation: Then, he - being hungry - plucked a red apple from that tree and ate it, he became a tree.
+
+Approximate Matches:

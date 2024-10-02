@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šebin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šebin: 
+
+Exact Matches
+Sentence: Siryos bet’erhanä q’ʷaridno oqno sadaq šebin ik’in ec’noni xanzo baruq esin.
+Gloss: mare-GEN1 master-ERG sadness-TOP become-PFV.CVB all thing go-PFV.CVB new-DEF khan-ATTR.OBL wife-POSS.ESS tell-PST.UNW
+Translation: The mare's master became sad and told the king's new wife how all the things happened.
+Sentence: Sis gut’ riłe šebin rukayxƛin, eƛin bełiqanä.
+Gloss: one smoke IV-as thing IV-see-PRS-QUOT say-PST.UNW hunter-ERG
+Translation: "I see something like smoke.", said the hunter.
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+
+Approximate Matches:
+Sentence: Neła kidbä täƛruni łˤorat’a ɣˤurušyozaƛ bazaryay risxosi šebinabin risno, esnabi urɣizi boqno ʕaƛaɣor bik’a.
+Gloss: DEM1.IISG.OBL girl-ERG give-PST.PRT-DEF three.OBL-DISTR ruble-PL-SUB.ESS bazar-IN.ABL IV.PL-buy-PRS.PRT thing-PL-TOP IV.PL-buy-PFV.CVB brother-PL thinking III-become-PST.UNW village-IN.VERS III-go-INF
+Translation: Having bought the things for the 3 roubles each, that the girl gave to them, they thought about going (back?) to the village.
+Sentence: Ražbadinä, yisä royxosi šebinno bič’zi roqinč’ey, esirno yisiq, ya žax baruwa yowxanu mi, ya xedyox kidwa yegirxanu.
+Gloss: Razhbadin-ERG DEM2.ISG.OBL-ERG IV-do-PRS.PRT thing-TOP understand IV-become-NEG.PST.CVB ask-PST.UNW DEM2.ISG.OBL-POSS.ESS neither son-AD.ESS wife-Q II-marry-IPFV.CVB-NEG you neither husband-AD.ESS daughter-Q II-send-IPFV.CVB-NEG
+Translation: Razhbadin, who did not understand what he [Tavadi] was doing, asked him: "You neither mary off your son, nor your daughter.
+Sentence: Eƛa šebinon koƛ’inč’ey haqa ogun heresi mec esixosini ƛexasi yałzay, buyxor mec esixosini ħalarno oƛixno eƛin:
+Gloss: say-INF something understand.to-NEG.PST.CVB mouth-IN.ESS gape-PFV.CVB false language tell-PRS.PRT-DEF remain-RES.PRT be-SIM.CVB III-true-AD.LAT language tell-PRS.PRT-DEF strength-IN.LAT-TOP appear-PFV.CVB say-PST.UNW
+Translation: While the liar stood there with an open mouth not knowing what to say, and the one who always said the truth came to help and said:

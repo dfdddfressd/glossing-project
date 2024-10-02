@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Hemełƛ’ay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Hemełƛ’ay: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hemełƛ’ay soder dey užin na eƛakin iynč’u.
+Gloss: DEM4.IISG.OBL-SUPER.ABL after me-GEN1 son-TOP where say-INF-even know-NEG.PST.WIT
+Translation: I don't even know where my son went to, after that.
+Sentence: Hemełƛ’ay soder bˤeƛ’ ocät’a ričirxo zown.
+Gloss: DEM4.IISG.OBL-SUPER.ABL after sheep threshing.floor-IN.ESS-DISTR III.PL-be-CAUS-IPFV.CVB be.NPRS-PST.UNW
+Translation: Afterwards he brought the sheep to the threshing floor.
+Sentence: Hemełƛ’ay soder q’orolaz užis raħataw, paraxataw ʕumru zown, ħalikatawt’ani halmaɣzaqay bat’an oqno.
+Gloss: DEM4.IISG.OBL-SUPER.ABL after widow-GEN2 son-GEN1 serene quiet life be.NPRS-PFV.CVB mean-DISTR-DEF friend-PL-POSS.ABL seperation-TOP become-PST.UNW
+Translation: After that, the widow's son lead a serene, quiet life, bereft of mean friends.

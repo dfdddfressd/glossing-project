@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bizizaq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bizizaq: 
+
+Exact Matches
+Sentence: Asoqtow bitin žedu ɣˤaɣˤu bizizaq, qiƛ’orok’uƛ’äy ƛ’irir best’alawni uži ayzaƛ’.
+Gloss: sky-POSS.ESS-EMPH III-touch-PFV.CVB DEM1.IPL be.happy I.PL-get.up-CSL.CVB by.chance above-LAT step-DEF son come-CSL.CVB
+Translation: They were happy sky-high, when their step-son happened to come.
+Sentence: Idur ayruntow yexurno k’eneč’ žedu q’ˤunzontow ozzaq yiħinosi, sider sis bukayłin, ɣudi qˤašizaƛ’orkin žedu bužzi boqno anu, ozzałer kanłi baysƛin, hemece ɣˤaɣˤu bizizaq.
+Gloss: home-LAT come-IMM.ANT.CVB-EMPH II-kill-PFV.CVB egg DEM1.IPL.OBL two.OBL-ATTR.OBL-TOP-EMPH eye-PL-POSS.ESS II-smear-ANT.CVB one.OBL-LAT one I.PL-see-CNC.CVB day dawn-POST.CVB-even DEM1.IPL trust I.PL-become-PST.UNW be.NEG eye-PL-CONT.LAT light III-come-PST.WIT-QUOT as.many be.happy I.PL-get.up-CSL.CVB
+Translation: After he came home, he crushed an egg, smeared it on each of their eyes, and although they could see each other again, they couldn't believe it when it got dawn, and were even more happy when the light came into their eyes.
+Sentence: Žamaʕatyo ɣˤaɣˤu bizizaq nesir baq’ˤu mesedno teƛno, reže suħmatno rodin hunix egirno.
+Gloss: population-ERG be.happy III-get-CSL.CVB DEM1.ISG.OBL-LAT III-much gold-TOP give-PFV.CVB IV-big celebration-TOP IV-do-PFV.CVB way-AD.ESS let-PST.UNW
+Translation: Because the population got happy, they gave him much gold, organized a big party and let him go on his way.
+
+Approximate Matches:
+Sentence: Sasaq moƛaxay izizaƛ’or mesedyos qˤiƛurabi resuzaƛ’, bečedawni žek’a kidno yegirno nesi žax, neła qˤiƛurazaƛ’aza baħarayn iduɣor yižin, nasin ʕaƛos xalq’in goƛ’in bertenno bodin.
+Gloss: in.the.morning sleep-AD.ABL get.up-POST.CVB gold-GEN1 step-PL IV.PL-find-CSL.CVB wealthy-DEF man-ERG daughter-TOP II-send-PFV.CVB DEM1.ISG.OBL boy-AD.ESS DEM1.IISG.OBL step-PL-SUPER.VERS.DIST fiancée-TOP home-IN.ALL II-lead-PFV.CVB all village-GEN1 people-TOP invite-PFV.CVB marriage-TOP III-do-PST.UNW
+Translation: The neex morning, before the wealthy man got up from his sleep, he sent his daughter to that boy, because he found the golden steps; [NELHA] lead his fiancée over the steps to his home, they invited all people of the village and married.
+Sentence: Sasaqosi moƛaxay yizizaƛ’or kidber ɣamas yexasi yesun.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-POST.CVB girl-LAT box II-die-RES.PRT II-find-PST.UNW
+Translation: When the girl got up in the morning, she found that the box was broken.
+Sentence: Sosi moƛaxay uži č’ariłno - tamaša oqno ƛexun yeda, xanzoƛ’aygon rigu ɣˤutku moƛaxay izizaƛ’or elo resuzaƛ’.
+Gloss: at.first sleep-AD.ABL boy wake.up-PST.UNW - be.surprised become-PFV.CVB remain-PFV.CVB DEM2.ISG khan-GEN2-SUPER.ABL-CNTR IV-pretty house sleep-AD.ABL get.up-POST.CVB there IV-find-CSL.CVB
+Translation: At first, the boy woke up from his sleep - he was surprised because he found the house to be prettier than even the king's one, when he got up.

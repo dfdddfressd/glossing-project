@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yutirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yutirno: 
+
+Exact Matches
+Sentence: Däzoq riłäsi mada ɣun roƛik’oƛƛin, xanä eniw sosigon madaƛäytow xizor yutirno.
+Gloss: me-ATTR.OBL-POSS.ESS IV-resemble-RES.PRT yard-IN.ESS tree IV-let.appear-OPT-QUOT khan-ERG mother again-CNTR yard-SUB.ABL-EMPH back II-give.back-PST.UNW
+Translation: "May there appear a tree in my yard that resembles mine!", the king sent the mother back from his court again.
+
+Approximate Matches:
+Sentence: Sida quł roƛa yutirnosi, eniya kidbeqor eƛin, mi babiwqor eƛo, nagaħ di yexunäy hoboda bašiqˤoy c’oxxosi taraw nesä ɣˤanabi yawnoƛƛin.
+Gloss: one.OBL day-CONT.ESS IV-hurt-INF II-begin-ANT.CVB mother-ERG daughter-POSS.LAT say-PFV.CVB you father-POSS.LAT say-IMPR suddenly me II-die-CND.CVB that ring match-PRS.PRT except.for DEM1.ISG.OBL-ERG woman II-marry-PROHIB-OPT-QUOT
+Translation: One day, when the mother started to feel pain, she told her daughter: "Tell your father that when I suddenly die, he may only marry a woman who matches this ring!"

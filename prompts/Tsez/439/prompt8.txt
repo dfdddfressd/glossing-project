@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roƛik’ƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roƛik’ƛin: 
+
+Exact Matches
+Sentence: Idur aynosi, yisir ciqaɣor erno bišʷan łiyn eniwn nan mekoyx yesuzaƛ’ žoyä meɣyoqor eƛin, wele meɣu deberno, därno, eniwrno ʕeziyaw bišʷa roƛik’ƛin.
+Gloss: home-LAT come-ANT.CVB DEM2.ISG.OBL-LAT forest-IN.VERS put-PFV.CVB food-and end-PFV.CVB mother-and even be.hungry-IPFV.CVB II-find-CSL.CVB boy-ERG udder-POSS.LAT say-PFV.CVB look.out.IMP udder you-LAT-and me-LAT-and mother-LAT-and much food IV-let.appear-QUOT
+Translation: When he came home, he found the food put for [the way into] the forest finished and his mother being hungry, so the boy said to the udder: "Look out, udder, let appear much food for you, me and the mother!"
+
+Approximate Matches:
+Sentence: Hemedurtow meɣyoqorno eƛin, xanzoq riłäsi mada ɣun roƛik’no.
+Gloss: so-EMPH udder-POSS.LAT-TOP say-PFV.CVB khan-GEN2-POSS.ESS IV-resemble-RES.PRT yard-IN.ESS tree IV-let.appear-PFV.CVB
+Translation: So he said to the udder, and let a tree appear in the yard that resembled the king's one.
+Sentence: Neła quł hudayziko sasaqasi zaman baynosi, žedur bišanix retin, hudun Q’arumä nesiqosini biša ader roƛik’noanu.
+Gloss: DEM1.IISG.OBL day-CONT.ESS the.next.day in.the.morning-ATTR time III-come-ANT.CVB DEM1.IPL.OBL-LAT I.PL-eat-MSD-AD.ESS IV-want-PFV.CVB nevertheless Qarum-ERG DEM1.ISG.OBL-POSS.ESS-ATTR-DEF food forward IV-pull.out-PFV.CVB-NEG
+Translation: A day later, when the morning time came, they wanted to eat, but Qarum didn't take out the food that he had.
+Sentence: Debertow yätiru sis barun yižo mi t’ay, roƛik’u xanłin riso daqäy, howt’otow ičiƛin”.
+Gloss: you-LAT-EMPH II-love-PST.PRT one wife-and II-take.out-IMPR you from.here IV-half khanate-TOP IV-take-IMPR me-POSS.ABL here-EMPH be-QUOT
+Translation: "Take the wife you love with you, take half of the kingdom from me, but stay here!"

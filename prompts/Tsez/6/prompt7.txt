@@ -1,0 +1,33 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ezuranix using Leipzig glossing symbols. The sentence this word is drawn from means: "He immediately led the boy into the upper room to show it to him.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ezuranix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ezuranix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Šida yałru debertow räyƛin, kidbä uži ezuranix bitazoni ɣˤutkaɣor ižin.
+Gloss: why be-PST.PRT you-LAT-EMPH IV-know-QUOT girl-ERG boy show-MSD-AD.ESS next-DEF room-IN.VERS lead-PST.UNW
+Translation: "You will know why", the girl [said and] lead the boy into the next room to show him.
+
+Approximate Matches:
+Sentence: Ža bexuranixƛin yisä c’eruc’a rutirnosi, ceyä eƛin, mi di bexarno, deber di sis bercinaw pardagi neƛanƛin.
+Gloss: DEM1.SG III-kill-INF-PURP.CVB-QUOT DEM2.ISG.OBL-ERG bow IV-turn-ANT.CVB eagle-ERG say-PFV.CVB you me III-kill-PFV.CVB you-LAT me one beautiful scarf give-FUT.DEF-QUOT
+Translation: As he directed his bow to kill the eagle, the latter said, "Don't kill me, I will give you one beautiful scarf."
+Sentence: Yeženi esiya eƛin, hisos ric’no urgu däqor neƛnäy, nazon debez nukarzaz guluzaƛ’ ƛ’iri kuranix xaličabi rišan diƛin.
+Gloss: II-old-DEF sister-ERG say-PST.UNW spring.wool-GEN1 IV-fill-PFV.CVB sack me-POSS.LAT give-CND.CVB all.OBL-TOP you-GEN2 henchman-PL-GEN2 horse-PL-SUPER.ESS on spread.out-MSD-AD.ESS mat-PL IV.PL-weave-FUT.DEF me-QUOT
+Translation: The oldest sister said: "If you fill a sack with wool and give it to me, I will weave mats to put on all the horses of your henchmen."
+Sentence: Sida quł esnazas barubi urɣizi roqno sisxolisini žedaz xedyozas esiy zeroqozo cugumäɣor kuranix.
+Gloss: one.OBL day-CONT.ESS brother-PL-GEN1 wife-PL thinking II.PL-become-PFV.CVB lonely-DEF DEM1.IIPL.OBL-IN.ESS.DIST husband-PL-GEN1 sister bouza-POSS.ESS-ATTR.OBL barrel-IN.VERS throw-MSD-AD.ESS
+Translation: One day, the brothers' wives planned to throw their husbands' lonely sister into a barrel of bouza.

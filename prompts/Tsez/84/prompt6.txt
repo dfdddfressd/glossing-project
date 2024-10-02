@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: puƛ’aza.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": puƛ’aza
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word puƛ’aza:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ħumukuliƛ’ kut’yoƛ’aza puƛ’aza nucos sik zowwäƛin?”
+Gloss: camel-SUPER.ESS right.side-SUPER.VERS.DIST side-SUPER.VERS.DIST honey-GEN1 waterskin be.NPRS-PST.WIT.Q-QUOT
+Translation: "Was there a waterskin with honey on the camel's right side?"
+Sentence: Kut’yoƛ’aza puƛ’aza nełaƛ’ nucos sik zown”.
+Gloss: right.side-SUPER.VERS.DIST side-SUPER.VERS.DIST DEM1.IISG.OBL-SUPER.ESS honey-GEN1 waterskin be.NPRS-PST.UNW
+Translation: On its right side there was a waterskin with honey.
+Sentence: Elo roqno sis ixiw bercinaw ɣˤutkun, sidadäza puƛ’aza bik’ixƛax ɣˤays iħu, sidadäzagon łäs iħu.
+Gloss: there IV-become-PFV.CVB one big beautiful house-TOP one.OBL-APUD.VERS.DIST side-SUPER.VERS.DIST III-go-PRS-QUOT milk-GEN1 river one.OBL-APUD.VERS.DIST-CNTR water-GEN1 river
+Translation: There came a big beautiful house into being, with a milk river flowing on the one side and a water river on the other.
+
+Approximate Matches:
+Sentence: Buq bätuza puƛ’azay guluƛ’no zown yisir eže žek’u nexxo ukayn.
+Gloss: sun III-set-LCV.CVB side-SUPER.ABL.DIST horse-SUPER.ESS-TOP ride-PFV.CVB DEM2.ISG.OBL-LAT old man come-IPFV.CVB see-PST.UNW
+Translation: In the south he saw an old man riding on a horse coming towards him.
+Sentence: Elus xan exursiƛin, ozno, xalq’in roxin rik’iƛ’oräy, sidaɣaza puƛ’azar Ismaʕil k’oƛin, sidaɣazar ʕArabuzan yoqno nasin ahli dandirno butirno, xanłun ʕArabuzanno xecin, Ismaʕilgon wizirłunno ičin.
+Gloss: we(I).OBL-GEN1 khan kill-PST.WIT-QUOT army-and people-and III.PL-run.away-PFV.CVB III.PL-go-SIM.CVB in.one.place-IN.VERS.DIST side-SUPER.LAT.DIST Ismail run-PFV.CVB in.one.place-IN.LAT.DIST Arabuzan II-become-PFV.CVB all people together-TOP III-gather-PFV.CVB khan-LHUN Arabuzan-TOP leave-PFV.CVB Ismail-CNTR vizier-LHUN-TOP be-PST.UNW
+Translation: "They killed our king!", the army and the people ran away and at the same time, Ismail ran to one side, and Arabuzan ran to the other side, and they gathered all the people together and Arabuzan was elected king/queen and Ismail became vizier.

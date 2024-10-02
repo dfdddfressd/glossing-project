@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: debeł.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": debeł
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word debeł:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yisä eƛin, mi barułun yižanix debeł xizay nexäsi yoł diƛin.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW you wife-LHUN II-take.out-MSD-AD.ESS you-CONT.ESS behind come-RES.PRT be me-QUOT
+Translation: He said: "I came to you in order to take you as a wife."
+Sentence: Tawadä Ražbadin bužzi odin, nediw ħalikataw šebin debeł teł roda dey pikrukin zownč’u, rodäsin anuƛin.
+Gloss: Tavadi-ERG Razhbadin convince do-PFV.CVB such mean thing you-CONT.ESS inside IV-do-INF me-GEN1 idea-even be.NPRS-NEG.PST.WIT IV-do-RES.PRT-TOP be.NEG-QUOT
+Translation: Tavadi convinced Razhbadin: "I would not have he idea to do such a mean thing to you, I haven't done anything."
+Sentence: Habihan ziru ƛ’iräy boɣa ik’in, t’ok’ow debeł teł di nediw šebin ʕumruł rodač’inƛin.
+Gloss: miller fox from.above III-take.away-INF go-PFV.CVB anymore you-CONT.ESS inside me such thing life-CONT.ESS IV-do-NEG.FUT.DEF-QUOT
+Translation: The miller went to apologize to the fox: "I won't do such a thing to you in my life anymore."
+
+Approximate Matches:
+Sentence: Bazarganbi guluzaxozo aħozider baynosi, nesiqayn hemedurtow bayan bisno, t’aza ħumukulibin roc’no ik’ix debełi sis uži c’oxinč’aƛin.
+Gloss: merchant-PL horse-PL-AD.ESS-ATTR.OBL shepherd-APUD.LAT I.PL-come-ANT.CVB DEM1.ISG.OBL-POSS.ABL-TOP so-EMPH information III-take-PFV.CVB from.here camel-PL-TOP III.PL-drive-PFV.CVB go-IPFV.CVB you-NMLZ one boy meet-NEG.PST.WIT-PST.WIT.INT-QUOT
+Translation: When the merchants came to the shepherd with the horses, they wanted to take his information, if

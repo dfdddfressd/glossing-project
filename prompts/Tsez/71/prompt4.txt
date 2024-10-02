@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: babiwq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": babiwq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word babiwq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Way dey užiƛin, regin babiwq, howži deber žukkin roqinč’inäy, di eƛix zownč’a dowqor neła aɣis tupi caƛinƛin.
+Gloss: o.dear me-GEN1 son-QUOT IV-be.emitted-PFV.CVB father-POSS.ESS now you-LAT worse-even IV-become-NEG.FUT.CVB-CND.CVB me say-IPFV.CVB be.NPRS-NEG.PST.WIT-PST.WIT.INT you-POSS.LAT DEM1.IISG.OBL bird-GEN1 rifle shoot.with-PROHIB-QUOT
+Translation: "Oh dear, my son!", said the father, "Have I not warned you that it would become bad for you now, if you shoot that bird with your rifle?"
+Sentence: Xizyo Ħon-Bahadurä babiwq nesir yukayru moƛałäy esin, howža moƛał yukayru kidbeł xizay ik’a retinƛin.
+Gloss: afterwards Mountain~Hero-ERG father-POSS.ESS DEM1.ISG.OBL-LAT II-see-PST.PRT dream-CONT.ABL tell-PST.UNW DEM4.SG dream-CONT.ESS II-see-PST.PRT girl-CONT.ESS behind go-INF IV-want-PST.UNW-QUOT
+Translation: Then Mountain~Hero told his father about the dream he had seen: "I want to go after the girl that I had seen in that dream."
+Sentence: Žoyä babiwq raqru šebin esin:
+Gloss: boy-ERG father-POSS.ESS IV-happen-PST.PRT thing tell-PST.UNW
+Translation: The boy told the father what had happened:
+
+Approximate Matches:
+Sentence: Howt’ay yäk’irun mi babiwqor där moƛał rukaysƛin eƛo, łˤora ɣudi žedu gulubi rišerłin, łi ħaƛurinč’eyn xecin, iħä łäƛ’or žedu rižinosi, ʕoloqanawni gulu łi ħaƛa boƛƛäɣor bäk’i, ečrunä lilyoxaytow ħaƛuƛin.
+Gloss: from.here II-go-IMM.ANT.CVB you father-POSS.LAT me-LAT dream-CONT.ESS IV-see-PST.WIT-QUOT say-IMPR three.OBL day DEM1.IPL horse-PL IV-eat-CAUS-CNC.CVB water drink-CAUS-NEG.PST.CVB-and leave-PFV.CVB river-IN.ESS water-SUPER.LAT DEM1.IPL III.PL-lead-ANT.CVB young-DEF horse water drink-INF III-middle-IN.VERS III-go old-DEF-ERG river.bank-AD.ABL-EMPH drink-QUOT
+Translation: "When you go, say to your father that I saw it in a dream: Although you feed those horses for three days, you don't give them water to drink, then you lead them over the water into a river; the young horse will go to the middle to drink water, the old one will drink from the riverbank instead."
+Sentence: Neła babiwqor eƛin, howža best’alawni esiw yexura yay, ža č’agun yičin dey dunyalƛ’o netikin taliħ boqa anuƛin.
+Gloss: DEM1.IISG.OBL-ERG father-POSS.LAT say-PST.UNW DEM4.SG step-DEF sister II-kill-INF II-must DEM1.SG alive-TOP II-be-TOP me-GEN1 world-SUPER.ESS when-even happiness III-become-INF be.NEG-QUOT
+Translation: She said to her father: "You must kill this stepsister, when she is alive, I will not get happy again ever in my world."
+Sentence: Łi rowa ik’iƛin babiwqorno eƛin, Ismaʕilä bišadyoƛ’ ƛ’iri ʕArabuzanä teƛno zawruni bašiqˤoy łox šet’u rutirno.
+Gloss: water IV-bring-INF go-QUOT father-POSS.LAT-TOP say-PFV.CVB Ismail-ERG food-SUPER.ESS above Arabuzan-ERG give-PFV.CVB be.NPRS-PST.PRT-DEF ring thrice around IV-turn-PST.UNW
+Translation: "Go and bring some water!", Ismail said to his father and turned the ring that Arabuzan had given to him over the food three times.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: k’et’u.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": k’et’u
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word k’et’u:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sosisi zirusno, qˤaysno ʕuraw zer rok’u regin, xizyo ža k’et’u yałru biynosi łˤonon žedu reƛ raħira rik’in.
+Gloss: at.first-ATTR fox-GEN1-and hare-GEN1-and very shuddering heart IV-loosen-PFV.CVB after DEM1.SG cat be-PST.PRT III-know-ANT.CVB three-TOP DEM1.IPL.OBL meat IV-cook-CAUS-INF III.PL-go-PST.UNW
+Translation: At first, the fox's and the hare's hearts where shuddering, but after they knew it was the cat, the three of them went to cook the meat.
+Sentence: Łox äƛiru rayäru bišadyoł zahru anuru biyn yizir, elay bet’urno magalu kurnosi k’et’u bexunč’izaƛ’.
+Gloss: thrice ORD IV-bring-PST.PRT food-CONT.ESS poison be.NEG-PST.PRT III-know-PST.UNW DEM2.IPL.OBL-LAT there-IN.ABL III-pull.out-PFV.CVB bread throw-ANT.CVB cat III-die-NEG.FUT.CVB-CSL.CVB
+Translation: The third time they knew that there was no poison in the food they brought, because the cat for which a [piece of] bread was pulled out and thrown to, wouldn't die.
+Sentence: Žedu sis ečru k’et’u zown.
+Gloss: DEM1.IPL.OBL one old cat be.NPRS-PST.UNW
+Translation: They had an old cat.
+
+Approximate Matches:
+Sentence: Elaygon bitor žeda žedude sadaq hunix k’et’un boɣno.
+Gloss: there-IN.ABL-CNTR thither DEM1.IIPL.OBL-ERG DEM1.IPL.OBL-APUD.ESS together way-AD.ESS cat-TOP III-take.away-PST.UNW
+Translation: From there they took the cat with them further on their way.
+Sentence: ʕOƛiran ɣudi baɣʷˤacet’a rac’ace ʕeze roqno k’et’ur boc’esno, zirusno nełar ƛäxuruni dawla.
+Gloss: seven.OBL-TOP day III-be.full-TERM-DISTR IV-eat-TERM be.enough IV-become-PFV.CVB cat-LAT wolf-GEN1-and fox-GEN1-and DEM1.IISG.OBL-LAT remain-PST.PRT-DEF prey
+Translation: And for seven days, there was enough of the prey that remained from the wolf and the fox, left for the cat to get sated.
+Sentence: Sis k’ucin, k’et’us xexoyn ałux ruqˤno žedun rižin q’orolay xanez barudäɣor yik’in.
+Gloss: one puppy-and cat-GEN1 young.animal-and skirt-AD.ESS III.PL-hide-PFV.CVB DEM1.IIPL-and III.PL-carry-PFV.CVB widow khan-GEN2 wife-APUD.VERS II-go-PST.UNW
+Translation: The widow hid a puppy and a kitten under her skirt and carried them to the king's wife.

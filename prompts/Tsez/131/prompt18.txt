@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bišan.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bišan
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bišan:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Rigu bišan rodin, sida quł neširu babiya Ismaʕil iduɣor goƛ’in.
+Gloss: IV-good food-TOP IV-do-PFV.CVB one.OBL day-CONT.ESS evening father-ERG Ismail home-IN.ALL invite-PST.UNW
+Translation: The father prepared good food and one day in the evening he invited Ismail into his house.
+Sentence: Elay ža oxirƛ’oräy, t’omceni žek’a mešok’lałäy boɣno musno, bełiqan imyoqorno icin, kinaw bišan rac’no, et’un k’oƛin mamalayƛ’no zown, oqno ik’in.
+Gloss: there-IN.ABL DEM1.SG chase-SIM.CVB span-EQU1-DEF man-ERG moustache-CONT.ABL III-take.away-PFV.CVB hair-TOP hunter pole-POSS.LAT-TOP tie-PFV.CVB entire food-TOP IV-eat-PFV.CVB jump-PFV.CVB jump-PFV.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB become-PFV.CVB go-PST.UNW
+Translation: When he chased him away from there, the span-sized man took a hair out of his moustache, tied the hunter to a pole, ate up the entire food, jumped on his rooster and rode away.
+Sentence: Bazarganä roƛik’no eƛuk’yazay bišan, axbin rodin, kʷaxatow hunix boqno.
+Gloss: merchant-ERG IV-pull.out-PFV.CVB leather.sack-IN.ABL.DIST food-and belly-PL-TOP IV.PL-do-PFV.CVB soon-EMPH way-AD.ESS I.PL-become-PST.UNW
+Translation: The merchant pulled out food from a leather sack, they stuffed their tummies and soon went on their way.
+
+Approximate Matches:
+Sentence: Aždaħä bišanix baybik bodin.
+Gloss: dragon-ERG III-eat-MSD-AD.ESS begin III-do-PST.UNW
+Translation: The dragon began to eat.
+Sentence: Qˤišodgon yizi bišanix elor baynosi, hemedurtow siskin šebin rac’inč’ey, q’ˤunan reƛ’izad q’ˤimno riqirno esun Kusa esnazar.
+Gloss: at.noon-CNTR DEM2.IPL I.PL-eat-MSD-AD.ESS there-LAT I.PL-come-ANT.CVB so-EMPH any thing IV-eat-NEG.PST.CVB two.OBL-TOP hand-PL-INSTR head-TOP IV-stop-PFV.CVB find-PST.UNW Kusa brother-PL-LAT
+Translation: When they came there to eat dinner, the three brothers found Kusa there without eating anything and with his two hands supporting his head.
+Sentence: Neła quł hudayziko sasaqasi zaman baynosi, žedur bišanix retin, hudun Q’arumä nesiqosini biša ader roƛik’noanu.
+Gloss: DEM1.IISG.OBL day-CONT.ESS the.next.day in.the.morning-ATTR time III-come-ANT.CVB DEM1.IPL.OBL-LAT I.PL-eat-MSD-AD.ESS IV-want-PFV.CVB nevertheless Qarum-ERG DEM1.ISG.OBL-POSS.ESS-ATTR-DEF food forward IV-pull.out-PFV.CVB-NEG
+Translation: A day later, when the morning time came, they wanted to eat, but Qarum didn't take out the food that he had.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: babiw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": babiw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word babiw:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Sidaɣ maqˤir ciqaɣorno yisä yedu yižin, hemedurtow gondun yič’in, ƛ’irigon zozis ƛ’ˤun bodin howlo žan xecin babiw xizor utin nexno.
+Gloss: in.one.place far.away-LAT forest-IN.VERS-TOP DEM2.ISG.OBL-ERG DEM2.IISG II-lead-PFV.CVB so-EMPH big.hole-TOP II-dig-PFV.CVB above-CNTR moss-GEN1 roof-TOP III-do-PFV.CVB there DEM1.SG-TOP leave-PFV.CVB father back return-PFV.CVB come-PST.UNW
+Translation: The father led her to a place far away in the forest, likewise dug a hole and built a roof of moss ontop, left her there and returned.
+Sentence: Hudayziko qˤaħłiqtow babiw kidbabi saparyox boqno.
+Gloss: the.next.day dawn-POSS.ESS-EMPH father daughter-PL journey-AD.ESS I.PL-become-PST.UNW
+Translation: The next day at dawn the father (and) the daughters went on their journey.
+
+Approximate Matches:
+Sentence: Kidbazä esin, eli babiwde sadaq saparyox roqäsi zows, babiwn gugin howt’o ƛexasi yoł, ela debez ɣunoqay dahaw henešno but’in bac’siƛin.
+Gloss: girl-PL-ERG tell-PST.UNW we father-APUD.ESS together journey-AD.ESS II.PL-become-RES.PRT be.NPRS-PST.WIT father-TOP escape-PFV.CVB here remain-RES.PRT be we(II-ERG you-GEN2 tree-POSS.ABL a.little apple-TOP III-rip.out-PFV.CVB III-eat-PST.WIT-QUOT
+Translation: The girls said: "We were travelling together with our father, and he ran away and we were staying here; and we picked some apples from your tree and ate them."
+Sentence: Šida ɣuro kamiräƛin, babiya dahaw ʕedeʕizi oynosi, moƛa iqirno ƛexun diƛin, babiwq heresi mec yesa bayn.
+Gloss: why cows lose-PST.WIT.INT-QUOT father-ERG a.little hurrying do-ANT.CVB sleep-IN.ESS take.away-PFV.CVB remain-PST.UNW me-QUOT father-POSS.ESS false language II-tell-INF III-must-PST.UNW
+Translation: "Why have you lost the cows?", the father scolded a little, so he had to tell his father the lie the he had fallen asleep.
+Sentence: Assalamu ʕalaykumƛin salamno teƛno, babiwderno, žaderno dandirno nexno nesä esirno, meža sapar naɣor bicäsi yołƛin.
+Gloss: peace. ...be.with.you-QUOT greeting-TOP give-PFV.CVB father-APUD.LAT-and son-APUD.LAT-and together-TOP come-PFV.CVB DEM1.ISG.OBL-ERG ask-PST.UNW you(I).PL.OBL-ERG journey where-IN.VERS I.PL-follow-RES.PRT be-QUOT
+Translation: "Peace be with you!", he greeted and came with the father and his son and asked: "Where are you heading?"

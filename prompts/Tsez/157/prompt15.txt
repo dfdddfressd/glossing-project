@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: egirno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": egirno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word egirno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howži nesi žek’a ža uži debez mi hunix ik’iƛin egirno.
+Gloss: now DEM1.ISG.OBL man-ERG DEM1.SG boy you-GEN2 you way-AD.ESS go-QUOT let-PST.UNW
+Translation: Now the man let the boy go: "Go on your way!"
+Sentence: Bet’erhanes kidno ħamimyołxor yegirno, nełałtow xizaygon dibirno egirno, micxir neƛanƛin.
+Gloss: master-GEN1 daughter-TOP hot.springs-CONT.VERS II-send-PFV.CVB DEM1.IISG.OBL-CONT.ESS-EMPH behind-CNTR imam-TOP send-PFV.CVB money give-FUT.DEF-QUOT
+Translation: She sent the master's daughter to the hot springs and sent the imam behind her, "I'll give you money."
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+
+Approximate Matches:
+Sentence: Gulu bišan begirno puƛ’or ʕoƛ’unosi, yeda moƛa iqirxo.
+Gloss: horse III-eat-FUT.CVB III-let-PFV.CVB side-SUPER.LAT fall-ANT.CVB DEM2.ISG sleep-ERG take.away-PRS
+Translation: He let the horse eat, fell onto the side and the sleep took him away.
+Sentence: Nełƛ’ay soder raq’ˤu saɣyatyabi nesä xanez kidber regirno.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after III.PL-many present-PL DEM1.ISG.OBL-ERG khan-GEN2 daughter-LAT III.PL-send-PST.UNW
+Translation: After that he sent many presents to the king's daughter.
+Sentence: Gulu begirno bayäru xanä ʕAwdunasireł adäz masala erno: neł guluƛ’no zown nesider ayru žek’ur xanłi teƛa yołƛin, amma guluƛ’no zown egirno xanä žek’u ayrinč’inäy, nesis kid q’ˤuyza xanzo žaxno yegirno, raƛ’no roɣno xanłiƛ’aygon žan kura yołƛin.
+Gloss: horse III-send-PFV.CVB III-lead-PST.PRT khan-ERG Awdunasir-CONT.ESS ahead task put-PST.UNW DEM1.IISG.OBL horse-SUPER.ESS-TOP be.NPRS-PFV.CVB DEM1.ISG.OBL-APUD.LAT come-PST.PRT man-LAT khanate give-INF be-QUOT but horse-SUPER.ESS-TOP be.NPRS-PFV.CVB send-PFV.CVB khan-ERG man bring-NEG.FUT-CND.CVB DEM1.ISG.OBL-GEN1 daughter other-PL-ERG khan-ATTR.OBL son-AD.ESS-TOP II-send-PFV.CVB land-TOP IV-take.away-PFV.CVB throne-SUPER.ABL-CNTR DEM1.SG-TOP throw-INF be-QUOT
+Translation: The king who had sent the horse assigned Awdunasir a task: He would give the kingdom to the man who came to him riding that horse, but if it does not bring a man, then he would send his daughter to another king's son, take away his land and throw him off the throne.

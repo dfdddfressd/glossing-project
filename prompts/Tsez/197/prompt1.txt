@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Bikori.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Bikori
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Bikori:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Užä žeduqor eƛin, ža bikori sida ħala xec meža, neła mežur royxosi žukłi šebiƛin.
+Gloss: boy-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW DEM1.SG snake one.OBL condition-IN.ESS leave you(I).PL.OBL-ERG DEM1.IISG.OBL-ERG you(I).PL.OBL-LAT IV-do-PRS.PRT evil what-QUOT
+Translation: The boy said to them: "Let go of the snake, what's the evil thing it has done to you?!"
+Sentence: Nełƛ’osi ɣudbi rik’inosi, sida quł iħuz lilyox yisir bikori besun.
+Gloss: of.that.time day-PL IV.PL-go-ANT.CVB one.OBL day-CONT.ESS river-GEN2 river.bank-AD.ESS DEM2.ISG.OBL-LAT snake III-find-PST.UNW
+Translation: From then on the days went by, and one day he found a snake at the river bank.
+Sentence: Zamanałäy yizi sidaɣ q’ˤunader huni č’ˤaƛäłza mečoƛ’or baynosi, sidaɣaza hunä kid yegirno, sidaɣaza bikori bik’in.
+Gloss: time-CONT.ABL DEM2.IPL.OBL in.one.place two.OBL-APUD.LAT way be.cut-LCV.CVB place-SUPER.LAT III-come-ANT.CVB in.one.place-IN.VERS.DIST way-ERG girl II-send-PFV.CVB in.one.place-IN.VERS.DIST snake III-go-PST.UNW
+Translation: When, after a while, they came to a point where the road forked, the snake sent the girl the one way and itself went the other one.
+
+Approximate Matches:
+Sentence: Mi näƛru ʕaq’ˤlun rok’ƛ’or bayn, bikorin xʷasar bodin nexƛ’oräy, däłtow xizayn bayn neła esirsi, nazosnotow tušman šida mi bexura begirno xecinč’uƛin.
+Gloss: you give-PST.PRT advice-TOP heart-SUPER.LAT III-come-PFV.CVB snake-TOP rescue III-do-PFV.CVB come-SIM.CVB me-CONT.ESS-EMPH behind-TOP III-come-PFV.CVB DEM1.IISG.OBL-ERG ask-PST.WIT everyone.OBL-GEN1-TOP-EMPH enemy why you III-kill-INF III-let-PFV.CVB leave-NEG.PST.WIT-QUOT
+Translation: "I remembered the advice you gave me and rescued the snake, and when I came back, it came behind me and asked: 'Why didn't you let them kill the enemy of everyone?'"
+Sentence: Howlaytow bitor adäz bikorin, xizaz kidno hunix boqno bikorzo iduɣorƛin bik’in.
+Gloss: from.there-EMPH thither ahead snake-TOP from.behind daughter-TOP way-AD.ESS III-become-PFV.CVB snake-ATTR.OBL home-IN.ALL-QUOT III-go-PST.UNW
+Translation: From then on, the snake went ahead with the daughter following it, until it came to the snake's house.
+Sentence: Netin t’ut’ƛ’orkin reƛ’a rizärinč’iru, yedu šebi där yaqˤuł roqäƛin, bikorin bexurno yisiz rok’uƛ’ nexełno.
+Gloss: always fly-SUPER.LAT-even hand IV-lift-NEG.FUT.CVB-PST.PRT DEM2.IISG what me-LAT today IV-happen-PST.WIT.INT-QUOT snake-TOP III-kill-PFV.CVB DEM2.ISG.OBL-GEN2 heart-SUPER.ESS come-POT-PST.UNW
+Translation: "I never even lifted my hand to a fly, what has happened to me today?!", he realized that he killed the snake.

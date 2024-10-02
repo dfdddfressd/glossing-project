@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’orolay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’orolay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’orolay:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bertenyoł šeƛ’anix baħarčis šeƛ’ureł xizay yiłagon q’orolay yegirno, neła nełas šeƛ’un nełar xecin.
+Gloss: marriage-CONT.ESS put.on-MSD-AD.ESS brave.young.man-GEN1 clothing-CONT.ESS behind DEM2.IISG.OBL-ERG-CNTR widow II-let-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 put.on-PST.UNW DEM1.IISG.OBL-LAT leave-PST.UNW
+Translation: In order to dress up for the marriage, she let the widow look after young men's clothings and left her own clothes with her.
+Sentence: Xizyogon žeda q’orolay yegirno, žedu xexzar rek’ bodanix.
+Gloss: then DEM1.IPL-ERG widow II-send-PST.UNW DEM1.IPL.OBL children-LAT trick III-do-MSD-AD.ESS
+Translation: Then they sent the widow to play a trick on the children.
+Sentence: Elo q’orolay dandir c’oxnosi, nełaq esirno, debi uži ukayxanuwa na ža yołƛin.
+Gloss: there widow towards meet-ANT.CVB DEM1.IISG.OBL-POSS.ESS ask-PST.UNW you-GEN1 son see-IPFV.CVB-NEG-Q where DEM1.SG be-QUOT
+Translation: When they met the widow there, they asked her: "We can't see your son, where is he?"
+
+Approximate Matches:
+Sentence: Nełƛ’osi yayn sida q’orolayä eƛin, ʕoƛira ɣudi uži meža sida ħala xec.
+Gloss: of.that.time II-come-PFV.CVB one.OBL widow-ERG say-PST.UNW seven.OBL day boy you(I).PL.OBL-ERG one.OBL condition-IN.ESS leave
+Translation: At that time came a widow and said: "Leave the boy alone for seven days!
+Sentence: Elor ža q’orolayn yayn.
+Gloss: there-LAT DEM1.SG widow-TOP II-come-PST.UNW
+Translation: And the widow came to there.
+Sentence: Iduɣor ayƛ’oräy, ačqˤaq quqix kikoƛ’osi xexbin risno sida q’orolayä yoƛixno esirno:
+Gloss: home-IN.ALL come-SIM.CVB thirst-POSS.ESS dry.out-IPFV.CVB breast-SUPER.ESS-ATTR child-TOP III.PL-take-PFV.CVB one.OBL widow-ERG II-appear-PFV.CVB ask-PST.UNW
+Translation: When coming home, he saw the widow with her child (at her breast), which almost died of thirst, and asked:

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: teqno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": teqno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word teqno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.
+Sentence: Bˤeƛ’no adäz roc’no neširur iduɣor ik’iƛ’oräy, Alimaħamar teqno bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: sheep-TOP ahead III.PL-drive-PFV.CVB evening-LAT home-IN.ALL go-SIM.CVB Alimagomed-LAT hear-PST.UNW sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: When he drove the sheep home in the evening, Alimagomed heard them talking to each other.
+Sentence: Yeda hunix ik’iƛ’oräy, yisir qˤaƛu teqno, mi nesi žek’uł xizay äk’ino, nesä mi exarƛin.
+Gloss: DEM2.ISG way-AD.ESS go-SIM.CVB DEM2.ISG.OBL-LAT shout hear-PST.UNW you DEM1.ISG.OBL man-CONT.ESS behind go-PROHIB DEM1.ISG.OBL-ERG you kill-QUOT
+Translation: While he was going on the way, he heard a shout: "Don't you go behind that man, he will kill you!"
+
+Approximate Matches:
+Sentence: Eniwn, užin hemedur big yołƛin teqnosi, hemesi bečedawni maduhalä neširu rečuƛäy ža gulun bižin, nełaz meča q’ˤuya gulu bicin.
+Gloss: mother-TOP son-TOP so III-good be-QUOT hear-ANT.CVB DEM4.ISG.OBL wealthy-DEF neighbor-ERG evening cattleshed-SUB.ABL DEM1.SG horse-TOP III-take.out-PFV.CVB DEM1.IISG.OBL-GEN2 instead.of other horse III-tie-PFV.CVB
+Translation: That wealthy neighbor heard about good life of that mother and her son and took away that horse out of cattle shed in the evening and tied instead of it another one.
+Sentence: Nesä ža ɣamas hokomƛ’on erno iħuxaɣor yižiƛ’oräy, łas haraƛ’ teqnosigon, nełaq roč’uganitow qˤaƛu regin.
+Gloss: DEM1.ISG.OBL-ERG DEM1.SG box carriage-SUPER.ESS-CND put-PFV.CVB river-AD.VERS II-carry-SIM.CVB water-GEN1 voice hear-ANT.CVB-CNTR DEM1.IISG.OBL-POSS.ESS frost-ATTR-DEF-EMPH shout IV-emit-PST.UNW
+Translation: He put the box onto a carriage and while carrying it to a river, but when he heared the water's voice, it emitted a frosty shout.
+Sentence: Beɣe xexzas guru teqnosi, zer rok’un regin, aɣˤʷa tełxorno yoxin, xedyoq esin.
+Gloss: I.PL-young children-GEN1 crying hear-ANT.CVB shuddering heart-TOP IV-go.into-PFV.CVB mill-IN.ESS inside-AD.LAT-TOP II-run.away-PFV.CVB husband-POSS.ESS tell-PST.UNW
+Translation: When she heard the crying of the small children, her heart shuddered, she ran into the mill and told her husband.

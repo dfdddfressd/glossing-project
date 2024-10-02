@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nełaz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nełaz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nełaz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Kidbägon elayn bisno neła nełaz pardagix bicin.
+Gloss: girl-ERG-CNTR there-IN.ABL-PFV.CVB III-take-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 scarf-AD.ESS III-tie-PST.UNW
+Translation: The girl then went and took it and tied it to her own scarf.
+Sentence: Ħumukulin bisno yizä, tełäy axorekasin roɣno, nełaz axä tełxor q’ebedes uži egirno.
+Gloss: camel-TOP III-buy-PFV.CVB DEM2.IPL.OBL-ERG inside-IN.ABL giblets-TOP IV-take.away-PFV.CVB DEM1.IISG.OBL-GEN2 belly-IN.ESS inside-AD.LAT smith-GEN1 son let-PST.UNW
+Translation: They bought a camel, removed its giblets and let the smith's son inside its belly.
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.
+
+Approximate Matches:
+Sentence: ʕArabuzanno qalamäy maħor yoqno, Alay-bulayƛin eƛixozoni nełaznitow guluƛ’no zown.
+Gloss: Arabuzan-TOP fortress-IN.ABL outside II-become-PST.UNW Alay~bulay-QUOT say-PRS.PRT.OBL-DEF DEM1.IISG.OBL-GEN2-DEF-EMPH horse-SUPER.ESS-TOP ride-PFV.CVB
+Translation: And Arabuzan came out of the fortress, riding on her horse named Alay-Bulay.

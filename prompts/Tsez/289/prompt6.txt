@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word wˤałer in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word wˤałer: 
+
+Exact Matches
+Sentence: Didurgon, šebigon resułin xal bodanix elor ɣˤanabi yegira yay, yałi - ela badiru ħukmu meq’aw bäčiƛin, diwan boyxozo xalq’imo xan wˤałer ezurerno.
+Gloss: how-CNTR what-CNTR IV-find-CNC.CVB examination III-do-MSD-AD.ESS there-LAT woman II-send-INF II-must else - we(I).OBL-ERG III-do-PST.PRT decision wrong III-be-QUOT judgement III-do-PRS.PRT.OBL people-ERG khan downward-LAT show-CAUS-PST.UNW
+Translation: "How- and whatever it is, we must send a woman there to make an examination, or else the decision we make will be wrong.", the judges said and calmed down the king.
+Sentence: C’aq’ bit’araw eƛisƛin, dibirän eƛin, q’ˤimbin wˤałer rˤoq’urno bazarganbin bik’in, žar q’aymos ric’äsi ħumukulibin xecin.
+Gloss: very true say-PST.WIT-QUOT imam-ERG-TOP say-PFV.CVB head-PL-TOP downward-LAT IV.PL-lower-PFV.CVB merchant-PL-TOP I.PL-go-PFV.CVB boy-LAT article-GEN1 IV-fill-RES.PRT camel-PL-TOP leave-PST.UNW
+Translation: "Very well said," said the imam and the merchants hung their hads and went away, leaving the camels with the goods to the boy.
+Sentence: Boƛƛäɣor bayzaƛ’ortow, gulun, nełaƛ’gon ƛ’irisini ža č’uħarawni žek’un ɣˤuɣˤuruni neł iħä butirno caƛin, boɣno bižin ƛ’iräy wˤałer.
+Gloss: III-middle-IN.VERS I.PL-come-POST.CVB-EMPH horse-and DEM1.IISG.OBL-SUPER.ESS-CNTR on-ATTR-DEF DEM1.SG proud-DEF man-and muddy-DEF DEM1.IISG.OBL river-IN.ESS I.PL-turn-PFV.CVB stick-PFV.CVB I.PL-take.away-PFV.CVB I.PL-take.out-PFV.CVB from.above downward-LAT
+Translation: Before they reached the middle, the horse and the proud man on it got stuck in that muddy river, and it pulled them downward.
+
+Approximate Matches:
+Sentence: Dicegon ža soder bizanƛin hunƛ’izi boqłin, pˤaƛirno bižin yałza wˤałertow bayx zown.
+Gloss: how.much-CNTR DEM1.SG upward III-get.up-FUT.CVB-QUOT trying III-become-CNC.CVB glide.off-PFV.CVB III-carry-PFV.CVB be-LCV.CVB downward-LAT-EMPH III-come-IPFV.CVB be.NPRS-PST.UNW
+Translation: But how much it tried to get upwards, it always glided off and came down where it was.
+Sentence: Osaxor hawaƛ’orno bizin, tupäsi hil biłe wˤałerno nexno bik’in ɣunoq c’oxno.
+Gloss: height-AD.LAT air-SUPER.LAT-TOP III-get.up-PFV.CVB rifle-IN.ESS-ATTR bullet III-as downward-LAT-TOP come-PFV.CVB III-go-PFV.CVB tree-POSS.ESS pounce-PST.UNW
+Translation: It got up into the height through the air, and came down like a gun's bullet again and pounced on the tree.

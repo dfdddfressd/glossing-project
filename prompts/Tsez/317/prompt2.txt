@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word baynosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word baynosi: 
+
+Exact Matches
+Sentence: Bazarganbi guluzaxozo aħozider baynosi, nesiqayn hemedurtow bayan bisno, t’aza ħumukulibin roc’no ik’ix debełi sis uži c’oxinč’aƛin.
+Gloss: merchant-PL horse-PL-AD.ESS-ATTR.OBL shepherd-APUD.LAT I.PL-come-ANT.CVB DEM1.ISG.OBL-POSS.ABL-TOP so-EMPH information III-take-PFV.CVB from.here camel-PL-TOP III.PL-drive-PFV.CVB go-IPFV.CVB you-NMLZ one boy meet-NEG.PST.WIT-PST.WIT.INT-QUOT
+Translation: When the merchants came to the shepherd with the horses, they wanted to take his information, if
+Sentence: Nełde idur baynosi, šakno oqno eɣeni esiya kidbeq ħaƛanix łi esiro.
+Gloss: DEM1.IISG.OBL-APUD.ESS home-LAT I.PL-come-ANT.CVB suspicion-TOP become-PFV.CVB young-DEF brother-ERG girl-POSS.ESS drink-MSD-AD.ESS water ask-IMPR
+Translation: When they came to the house where she was, the youngest brother became suspicious and asked the girl if she wanted to drink some water.
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+
+Approximate Matches:
+Sentence: Idur baynosigon elon žeda ixiw berten bodin.
+Gloss: home-LAT I.PL-come-ANT.CVB-CNTR there-TOP DEM1.IPL.OBL-ERG big marriage III-do-PST.UNW
+Translation: After they came home, they also celebrated a big wedding there.
+Sentence: Sadaq bik’in idur baynosigon, howła ƛexeƛ bok’ali kiciresgon sis maʕna bäsuƛin, bara rok’uƛ’ esurno ža.
+Gloss: together I.PL-go-PFV.CVB home-LAT I.PL-come-ANT.CVB-CNTR DEM3.IISG.OBL ceiling-SUB.ESS III-hit-ATTR hook-GEN1-CNTR one sense III-exist-QUOT wife-ERG heart-SUPER.ESS find-PFV.CVB DEM1.SG
+Translation: When they went home together, his wife reminded him: "There might be a sense to this hook under the ceiling."
+Sentence: Qˤišodes zaman baynosin hemedurtow ičin Q’arum.
+Gloss: dinner-GEN1 time III-come-ANT.CVB-TOP so-EMPH be-PST.UNW Qarum
+Translation: And when the time for dinner came, Qarum was likewise.

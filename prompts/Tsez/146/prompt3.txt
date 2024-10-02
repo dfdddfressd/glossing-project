@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: izinosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": izinosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word izinosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bełiqu eže izinosi, ozzas č’uran łiyn, koyär tupi risa ħalno zown anu.
+Gloss: hunter old get-ANT.CVB eye-PL-GEN1 light-TOP end-PFV.CVB hand-IN.LAT rifle IV-take-INF strength-TOP be.NPRS-PST.UNW be.NEG
+Translation: When the hunter got old, he lost his eyesight and he didn't have the strength to take up the rifle into his hand anymore.
+Sentence: Moƛaxay izinosi, xan ħayran oqno ƛexun puħo t’akan yukaynosi.
+Gloss: sleep-AD.ABL get-ANT.CVB khan be.astonished become-PFV.CVB remain-PST.UNW next.to glass II-see-ANT.CVB
+Translation: When the king got up from sleeping, he was surprised when he saw the glass at his side.
+
+Approximate Matches:
+Sentence: Hunix ik’iƛ’oräy, neła ħalaq’awni gula nesiqor eƛin, aždaħ kecäsi yałzay, buq bayäsi bičixosi, q’ˤiday bizinosi ža bičixozoni gogaƛ’ ɣedu boqxosi, elo nełaqgon šet’ur k’ešonayx xexoybi ričixosiƛin.
+Gloss: way-AD.ESS go-SIM.CVB DEM1.IISG.OBL thin-DEF horse-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW dragon sleep-RES.PRT be-SIM.CVB sun III-come-RES.PRT III-be-IPFV.CVB-ATTR down-IN.ABL III-get.up-ANT.CVB DEM1.SG III-be-PRS.PRT.OBL-DEF meadow-SUPER.ESS shade III-happen-PRS.PRT there DEM1.IISG.OBL-POSS.ESS-CNTR around play-IPFV.CVB young.animal-PL III.PL-be-PRS.PRT-QUOT
+Translation: While he went on his way, that thin horse said to him: "While the dragon sleeps, the sun goes up, and after he gets up a shadow appears on the meadow, there around it the youngs are playing.
+Sentence: Biš-butin bizinosi, zeyä yisiq esirno, łinał xizay, šebin retin mi maħor oqäsiƛin.
+Gloss: III-eat-PFV.CVB III-get.up-ANT.CVB bear-ERG DEM2.ISG.OBL-POSS.ESS ask-PFV.CVB what.OBL-CONT.ESS behind thing IV-want-PFV.CVB you outside become-RES.PRT-QUOT
+Translation: After the bear has eaten, he got up and asked, "What are you looking for in your trip?"
+Sentence: Neširu mežaɣor bizinosi, Ismaʕila q’ˤunełno roƛƛo bˤałayn erno eƛin nełqor, howłaq ged yitirłi debi meč’, dey bˤałayƛin.
+Gloss: evening mattress-IN.VERS I.PL-get-ANT.CVB Ismail-ERG two.OBL-CONT.ESS-TOP IV-middle dagger-TOP put-PFV.CVB say-PST.UNW DEM1.IISG.OBL-POSS.LAT DEM3.IISG.OBL-POSS.ESS shirt II-touch-CND.CVB.IRR you-GEN1 neck me-GEN1 dagger-QUOT
+Translation: In the evening, when they got onto the bed, Ismail put a dagger in the middle between the two and said to her: "If your shirt touches it, so will my dagger [touch] your neck."

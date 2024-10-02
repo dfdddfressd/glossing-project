@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: qˤaƛanada.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": qˤaƛanada
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word qˤaƛanada:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyo xan qˤaƛanada oqno, eleley, yedu didiw karamałi, debez buɣa däz buɣaz axʷay mo yac’xoƛin.
+Gloss: afterwards khan yell-INF begin-PFV.CVB behold DEM2.IISG which miracle you-GEN2 stock.bull-ERG me-GEN2 stock.bull-GEN2 belly-IN.ABL fat II-eat-PRS-QUOT
+Translation: Then the king began to yell: "Behold, what miracle is that, your bull is eating the fat out of my bull's belly!"
+Sentence: Yigza ħalał barun qˤaƛanada yegirno xecin, xiszi rožin rodin, xediya eƛin, di ent’o yoł, šebi deber retinƛin.
+Gloss: II-good-ZA strength-CONT.ESS wife-TOP yell-INF II-let-PFV.CVB leave-PFV.CVB change word-TOP IV-do-PFV.CVB husband-ERG say-PST.UNW me here be what you-LAT IV-want-PST.UNW-QUOT
+Translation: Letting his wife shout out quite loudly, the husband changed his voice and said: "I am here, what do you want?"
+Sentence: Neła qaciz ruk’uqorno icin iħułxor kurxosi yałrułin čuqˤno, ža qˤaƛanada oqno, di ža uži anu, di bˤeƛ’xosi aħo yołƛin.
+Gloss: DEM1.IISG.OBL firewood-GEN2 bundle-POSS.LAT-TOP tie-PFV.CVB river-CONT.VERS throw-PRS.PRT be-PST.PRT-NMLZ-and notice-PFV.CVB DEM1.SG yell-INF begin-PST.UNW me DEM1.SG boy be.NEG me sheep-AD.ESS-ATTR shepherd be-QUOT
+Translation: They tied him to that bundle of wood and when he noticed that they were about to throw him into the river, he started yelling: "I am not the boy, I am a shepherd with a flock of sheep!"
+
+Approximate Matches:
+Sentence: Howlay äk’inoƛin qˤaƛanayx yeženi ɣˤanabin xecin ʕAliqilič k’oƛin ik’in.
+Gloss: from.there go-PROHIB-QUOT yell-IPFV.CVB II-old-DEF woman-TOP leave-PFV.CVB Aliqilich run-PFV.CVB go-PST.UNW
+Translation: Yelling "Don't go away!", Aliqilich left the old woman and ran.
+Sentence: Łox äƛirugon boc’ä rečuƛxor qˤaƛin, qˤaƛanayxosi, di tełxor begirƛin.
+Gloss: thrice ORD-CNTR wolf-ERG cattleshed-SUB.LAT shout-PST.UNW yell-PRS.PRT me inside-AD.LAT III-let-QUOT
+Translation: For the third time, the wolf shouted into the cattleshed: "Shout, let me inside!"
+Sentence: Łˤora äƛiru ʕomoyä žawab teƛno, di qˤaƛanayru mixƛ’o, deber roqxosi šebin rukay hoboyƛin.
+Gloss: three.OBL say-PST.PRT donkey-ERG answer give-PST.UNW me yell-PST.PRT late.at.night you-LAT IV-happen-PRS.PRT thing IV-see now-QUOT
+Translation: The third donkey answered: "When I cry late at night, you'll see what happens then!"

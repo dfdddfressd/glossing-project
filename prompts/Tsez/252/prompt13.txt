@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kumakyor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kumakyor: 
+
+Exact Matches
+Sentence: Idurno ik’in, kidno yukarno užä eniwqor eƛin, eni, deber kumakyor di kid yowsƛin.
+Gloss: home-LAT-TOP go-PFV.CVB girl-TOP II-show-PFV.CVB boy-ERG mother-POSS.LAT say-PFV.CVB mother you-LAT help-LAT me girl II-bring-PST.WIT-QUOT
+Translation: When he went home, he showed the girl to his mother and saying: "Mother, I brought this girl for helping you."
+Sentence: Baħarčiƛin yizä yedu žeda žeduz kumakyor xecin.
+Gloss: brave.young.man-QUOT DEM2.IIPL.OBL-ERG DEM2.IISG DEM1.IPL-ERG DEM1.IPL.OBL-GEN2 help-LAT leave-PST.UNW
+Translation: Taking her for a young man, they let her help themselves.
+Sentence: Žedude sadaq kumakyor xalq’in zown.
+Gloss: DEM1.IPL-APUD.ESS together help-LAT people-TOP be.NPRS-PST.UNW
+Translation: And they had people with them for help.
+
+Approximate Matches:
+Sentence: Debez tawakalyoƛ’aza riqäsi bečełi yoł yeduƛin, xediw q’urec’niƛ’ay q’ay boɣaniłer oqno, ža iduɣor bižanix kumakyorgon barun yizin.
+Gloss: you-GEN2 patience-SUPER.VERS.DIST IV-get-RES.PRT riches be DEM2.IISG-QUOT husband mule-SUPER.ABL article III-take.away-MSD-CONT.LAT begin-PFV.CVB DEM1.SG home-IN.ALL III-carry-MSD-AD.ESS help-LAT-CNTR wife-TOP II-get.up-PST.UNW
+Translation: "Thanks to your patience we got such a wealth!" and the husband began to unload the articles from the mules and his wife helped to carry them home.
+Sentence: Boc’ägon neła nełde sadaq kumakyorƛin zirun bižin.
+Gloss: wolf-ERG-CNTR DEM1.IISG.OBL-ERG DEM1.IISG.OBL-APUD.ESS together help-LAT-QUOT fox-TOP III-carry-PST.UNW
+Translation: The wolf took the fox with him for help.
+Sentence: Hunixor yisä łäs q’ˤano sikno eqerno, bišʷan erno, kumakyorgon, ħaƛirxo ik’anix, xizay k’oƛin yayn bara hibon teƛno.
+Gloss: way-AD.LAT DEM2.ISG.OBL-ERG water-ERG-GEN1 two waterskin-TOP put-PFV.CVB food-TOP put-PFV.CVB help-LAT-CNTR put-IPFV.CVB go-MSD-AD.ESS behind run-PFV.CVB II-come-PFV.CVB wife-ERG stick-TOP give-PST.UNW
+Translation: He put two waterskins onto the way, packed some food, and came running behind in order to go put(?), when his wife came running behind him and gave him a stick to go with, which he should put down for help.

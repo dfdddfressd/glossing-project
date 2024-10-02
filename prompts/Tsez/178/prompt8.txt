@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: c’ok’inayn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": c’ok’inayn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word c’ok’inayn:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howlo lilyoxtow yedan xecin, xanderno bik’in ziru c’ok’inayn:
+Gloss: there river.bank-AD.ESS-EMPH DEM2.ISG-and leave-PFV.CVB khan-APUD.LAT-and I.PL-go-PFV.CVB fox scold-PST.UNW
+Translation: When they left the river bank there and went to the king, the fox scolded:
+Sentence: Šida mi elo nece mixƛ’or yičäƛin, xanes kid c’ok’inayn nełqor.
+Gloss: why you there so.much time-SUPER.LAT II-wait-QUOT khan-GEN1 daughter scold-PST.UNW DEM1.IISG.OBL-POSS.LAT
+Translation: "Why did it take you so much time?", the princess scolded her.
+Sentence: Elay Ražbadin Tawadiƛ’ ƛ’irir ik’in, nesiqor c’ok’inayn, yedu šebi šebin mi där rodä bertenyołerno goƛ’inƛin.
+Gloss: there-IN.ABL Razhbadin Tavadi-SUPER.ESS on-LAT go-PFV.CVB DEM1.ISG.OBL-POSS.LAT scold-PST.UNW DEM2.IISG what thing you me-LAT IV-do-INF marriage-CONT.LAT-TOP invite-PST.UNW-QUOT
+Translation: From there, Razhbadin went up to Tavadi and scolded him: "What is that thing you did to me, inviting me to a marriage?!"
+
+Approximate Matches:
+Sentence: Šida mi yaqˤułgon at’iw qaca rayräƛin onoču c’ok’inayzaƛ’, mamalayä di kecno ƛexunƛint’a žawab teƛxo zown.
+Gloss: why you today-CNTR wet firewood IV-bring-PST.WIT.INT-QUOT hen scold-CSL.CVB rooster-ERG me sleep-PFV.CVB remain-PFV.CVB-QUOT-DISTR answer give-IPFV.CVB be.NPRS-PST.UNW
+Translation: When the hen scolded: "Why have you brought wet firewood again, today?", the rooster answered that he slept in.

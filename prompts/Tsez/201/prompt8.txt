@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nełdäɣor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nełdäɣor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nełdäɣor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mix bik’äsi zamanno boqzaƛ’, yiła ɣˤanaza yeda neła nełdäɣor ƛirbałix ižix.
+Gloss: time III-go-RES.PRT time-TOP III-become-CSL.CVB DEM2.IISG.OBL woman-ERG DEM2.ISG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-APUD.VERS hospitality-AD.ESS lead-PRS
+Translation: Because some time had passed, that woman let him be her guest.
+Sentence: Zeyä ža neła nełdäɣor yižin.
+Gloss: bear-ERG DEM1.SG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-APUD.VERS II-lead-PST.UNW
+Translation: The bear led her to himself.
+
+Approximate Matches:
+Sentence: C’ik’iwtow humerno, šeƛ’un xiszi rodin, nełdäɣorno ik’in esirno, ɣamas yodixosi žek’u etinaƛin.
+Gloss: entire-EMPH face-and clothing-and change IV-do-PFV.CVB DEM1.IISG.OBL-APUD.VERS-TOP go-PFV.CVB ask-PST.UNW box II-do-PRS.PRT man want-PST.UNW-Q-QUOT
+Translation: He changed his entire face and his clothes, went to him [the dragon] and asked if he wanted a man that makes boxes.
+Sentence: Kusa eƛin, baq’ˤu micxir boqnäyƛa, qalamäɣorno izin, ik’an di nełdäɣorƛin.
+Gloss: Kusa-ERG say-PST.UNW III-much money III-become-CND.CVB-INDEF fortress-IN.VERS-TOP get.up-PFV.CVB go-FUT.DEF me DEM1.IISG.OBL-APUD.VERS-QUOT
+Translation: Kusa said: "If I had a lot of money, I would go up into the fortress to her."

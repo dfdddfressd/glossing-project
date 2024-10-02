@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boqxo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boqxo: 
+
+Exact Matches
+Sentence: Neširur ža aderzotow sida šušuliłäsi aɣˤuxor aynosi, sasaqor howlotow ičanix ħukmu boqxo.
+Gloss: evening-LAT DEM1.SG forward-GEN2-EMPH one.OBL demolish-POT-RES.PRT mill-AD.LAT come-ANT.CVB in.the.morning-POSS.LAT there-EMPH wait-MSD-AD.ESS decision III-become-PRS
+Translation: By the evening he came to a demolished mill and decided to wait there until morning.
+Sentence: Xizyo žoyä eƛin, eni, eli beynodäsi boqzaƛ’, elur boƛik’ut’a ħak’o keze boqxo yaqˤuł, yił kidber siskin šebin keze roqxanu.
+Gloss: afterwards boy-ERG say-PFV.CVB mother we III-work-RES.PRT I.PL-begin-CSL.CVB we(I).OBL-LAT half-DISTR khinkali meet I.PL-become-IPFV.CVB today DEM2.IISG.OBL girl-LAT anything thing meet IV-become-IPFV.CVB-NEG
+Translation: Afterwards the boy said: "Mother, we will get half of the khinkali each today, that girl will get nothing, because she hasn't done a thing."
+Sentence: Neł ʕaƛos xalq’i besun yisir asaɣor reƛ’ibin kurno, qema regirƛin Allahqo harizi boqxo.
+Gloss: DEM1.IISG.OBL village-GEN1 people III-find-PST.UNW DEM2.ISG.OBL-LAT sky-IN.VERS hand-PL-TOP spread.out-PFV.CVB rain IV-send-QUOT God-POSS.ESS request III-become-IPFV.CVB
+Translation: He found the people of the village spreading out their hands into the sky pleading God: "Send us rain!"
+
+Approximate Matches:
+Sentence: Žoyä eƛin, däz baɣma mesedyos heneš boqxosi sis ɣun yoł.
+Gloss: boy-ERG say-PFV.CVB me-GEN2 garden gold-GEN1 apple III-happen-PRS-ATTR one tree be
+Translation: The boy said, "There is a tree with golden apples in my garden.
+Sentence: Elo teł mesedyos heneš boqxosi sis ɣun zown.
+Gloss: there inside gold-GEN1 apple III-become-PRS.PRT one tree be.NPRS-PFV.CVB
+Translation: There was one tree, which had golden apples.
+Sentence: Šebi roqäƛin esirnosi, neła esin, där žukłi rodanix xalq’i urɣizi boqxoƛax, mi bełiƛ’ ik’inosi, di t’o sisxoli yuƛ’ˤxo.
+Gloss: what IV-happen-PST.WIT.INT-QUOT ask-ANT.CVB DEM1.IISG.OBL-ERG tell-PST.UNW me-LAT evil IV-do-MSD-AD.ESS people thinking III-become-PRS-QUOT you hunting-SUPER.ESS go-ANT.CVB me here alone II-be.afraid-PRS
+Translation: After he asked: "What happened?", she told: "Some people are apparently planning to harm me; after you went hunting, I was afraid here alone.

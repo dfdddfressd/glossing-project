@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roɣłinč’ey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roɣłinč’ey: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Soder iziłinč’ey hemedur yeda yałzay, aki riłe moči nesir elo besun.
+Gloss: upward get-POT-NEG.PST.CVB so DEM2.ISG be-SIM.CVB window IV-as place DEM1.ISG.OBL-LAT there III-find-PST.UNW
+Translation: While he wasn't able to get upwards like this, he found a place there that looked like a window.
+Sentence: Žedu q’ˤunesno daʕba boqno, elo tełsi mesed boƛi-bok’łinč’ey.
+Gloss: DEM1.IPL two.OBL-GEN1-TOP dispute III-become-PFV.CVB there inside-ATTR gold III-divide-CNC.CVB-NEG.PST.UNW
+Translation: These two disputed because they could not divide the gold equally.
+Sentence: T’ok’ow k’ek’-bik’łinč’ey howlortow bexun ža - iłno q’ˤim yołali aždaħ.
+Gloss: anymore move-POT-NEG.PST.CVB there-LAT-EMPH III-die-PFV.CVB DEM1.SG - six head be-ATTR dragon
+Translation: The dragon with the six heads couldn't move anymore and died there.

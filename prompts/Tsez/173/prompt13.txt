@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ričixosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ričixosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ričixosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Užä eƛin, baba, elur caxinč’iru šebin riqa zaħmataw ričixosi yoł.
+Gloss: boy-ERG say-PST.UNW daddy we(I).OBL-LAT write-NEG.FUT.CVB-PST.PRT thing IV-get-INF difficult IV-be-PRS.PRT be
+Translation: The boy said: "Father, it is difficult to get a thing that is not destined for us."
+Sentence: Elo qoqä teł miƛ’iryoz ɣunoƛ’ ƛ’iri raq’ˤu aɣbi ričixosi, t’awus hič’č’a bittaza deber bäsu.
+Gloss: there cliff-IN.ESS inside peach.OBL-GEN2 tree-SUPER.ESS above IV-sit bird-PL IV-be-PRS.PRT peacock the.most distance-IN.VERS.DIST you-LAT III-find
+Translation: There inside the cliff there are many birds above on the peach tree, but you will find the peacock over other side.
+
+Approximate Matches:
+Sentence: Eƛ’isi riƛu žek’us žiƛbosi q’ˤimes ričixosiƛin.
+Gloss: last.year-ATTR field man-GEN1 this.year-ATTR oneself-GEN1 IV-be-PRS.PRT-QUOT
+Translation: "Last year's field was someone else's, this year's field is his own."
+Sentence: Hunix ik’iƛ’oräy, neła ħalaq’awni gula nesiqor eƛin, aždaħ kecäsi yałzay, buq bayäsi bičixosi, q’ˤiday bizinosi ža bičixozoni gogaƛ’ ɣedu boqxosi, elo nełaqgon šet’ur k’ešonayx xexoybi ričixosiƛin.
+Gloss: way-AD.ESS go-SIM.CVB DEM1.IISG.OBL thin-DEF horse-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW dragon sleep-RES.PRT be-SIM.CVB sun III-come-RES.PRT III-be-IPFV.CVB-ATTR down-IN.ABL III-get.up-ANT.CVB DEM1.SG III-be-PRS.PRT.OBL-DEF meadow-SUPER.ESS shade III-happen-PRS.PRT there DEM1.IISG.OBL-POSS.ESS-CNTR around play-IPFV.CVB young.animal-PL III.PL-be-PRS.PRT-QUOT
+Translation: While he went on his way, that thin horse said to him: "While the dragon sleeps, the sun goes up, and after he gets up a shadow appears on the meadow, there around it the youngs are playing.

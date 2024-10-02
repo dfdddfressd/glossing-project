@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word biyrno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word biyrno: 
+
+Exact Matches
+Sentence: Q’ˤanoqu nukar xanä egirno elo qunyoxor c’ohores ʕagarłi biyrno biqiraniƛäy.
+Gloss: forty henchman khan-ERG send-PST.UNW there farmstead-AD.LAT thief-GEN1 relatives III-find.out-PFV.CVB III-catch-MSD-SUB.ABL
+Translation: The king sent forty henchmen to that farmstead in order to find out and catch the thief's relatives.
+Sentence: Hudun, xizaɣor aħozä biyrno čanya bik’ixosi moči.
+Gloss: nevertheless finally shepherd-ERG III-recognize-PFV.CVB she.goat III-go-PRS.PRT place
+Translation: Nevertheless the shepherd finally found out the place where the goat went to.
+
+Approximate Matches:
+Sentence: Di debeq riyrno xecix, hemeł reƛiłäy encekin šebin žek’ur riqinäy, daru baqinč’iƛin.
+Gloss: me you-POSS.ESS IV-explain-PFV.CVB leave-IPFV.CVB DEM4.IISG.OBL meat-CONT.ABL a.little-even thing man-LAT IV-get-CND.CVB medicine III-happen-NEG.FUT-QUOT
+Translation: I warn you; if anyone else will get even a little piece of that meat, the medicine won't work.
+Sentence: Xizyo diwanbegä ħukmun beč’no, žeduq riyrno, Bilq’isdin hečker yičirno, ža cucixace eč’ibi kuro nełaƛ’orƛin.
+Gloss: afterwards judge-ERG decision-TOP III-cut-PFV.CVB DEM1.IPL.OBL-POSS.ESS IV-explain-PST.UNW Bilqisdi-TOP upright II-be-CAUS-PFV.CVB DEM1.SG be.buried-TERM pebble-PL throw-IMPR DEM1.IISG.OBL-SUPER.LAT-QUOT
+Translation: Then the judge made a decision and explained to them: "Let her stand up and throw pebbles onto her until she is burried under them."
+Sentence: ʕEze roqace łin rixerno, xizor butin nexƛ’oräy, nukarza hunixtow ħaƛun łiyrno ža łi.
+Gloss: be.enough IV-become-TERM water-TOP IV-take-PFV.CVB back I.PL-return-PFV.CVB come-SIM.CVB henchman-PL-ERG way-AD.ESS-EMPH drink-PFV.CVB finish-PST.UNW DEM1.SG water
+Translation: They took as much water as would be enough, and when they were going back, the henchmen drank up the water on their way.

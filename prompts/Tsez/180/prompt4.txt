@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: baƛ’ärułi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": baƛ’ärułi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word baƛ’ärułi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hoboy q’orolaz užä yizi baƛ’ärułi riynosi, ʕoƛiran esnaza q’ut’i bodin ža exuranixƛin.
+Gloss: now widow-GEN2 son-ERG DEM2.IPL I.PL-cheat-MSD IV-know-ANT.CVB seven.OBL-TOP brother-PL-ERG agreement III-do-PFV.CVB DEM1.SG kill-MSD-AD.ESS-QUOT
+Translation: Now, after the seven brothers knew that the widow's son had cheated them, they agreed to kill him.
+
+Approximate Matches:
+Sentence: Žigoƛ’aygon mi eli baƛ’ärinč’iƛin, esnaza aħo qaciz ruk’uzaqorno icin iħuq egirno.
+Gloss: again-SUPER.ABL-CNTR you we I.PL-cheat-NEG.FUT-QUOT brother-PL-ERG shepherd firewood-GEN2 bundle-PL-POSS.LAT-TOP tie-PFV.CVB river-POSS.ESS let-PST.UNW
+Translation: "You're not going to cheat us again!", the brothers [said,] tied the shepherd to the bundles of wood and let him into the river.

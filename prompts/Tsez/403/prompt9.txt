@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word howlortow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word howlortow: 
+
+Exact Matches
+Sentence: T’ok’ow k’ek’-bik’łinč’ey howlortow bexun ža - iłno q’ˤim yołali aždaħ.
+Gloss: anymore move-POT-NEG.PST.CVB there-LAT-EMPH III-die-PFV.CVB DEM1.SG - six head be-ATTR dragon
+Translation: The dragon with the six heads couldn't move anymore and died there.
+Sentence: Qiƛ’orok’uƛ’ay yeɣeni esiw yukaynosi, yiła nełar radiru kinaw šebinon roƛixno adäz ričin, howlortow rok’un ret’un žan yexun.
+Gloss: by.accident II-young-DEF sister II-see-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL-LAT IV-do-PST.PRT entire something IV-appear-PFV.CVB ahead IV-be-PFV.CVB there-LAT-EMPH heart-TOP IV-jump-IMPR-PFV.CVB DEM1.SG-TOP II-die-PST.UNW
+Translation: When she happened to see her younger sister, everthing appeared in front of her(?), she got a heart-attack and died.
+Sentence: Nełałäy bäk’iru iya šet’urtow oreznabi rodin, howlortow aždaħno bexun.
+Gloss: DEM1.IISG.OBL-CONT.ABL III-go-PST.PRT blood-ERG around-EMPH pond-PL IV.PL-do-PFV.CVB there-LAT-EMPH dragon-TOP III-die-PST.UNW
+Translation: The blood that came out of it, formed ponds all around, and there the dragon died.
+
+Approximate Matches:
+Sentence: Sis žek’un ayn howlor hemecetow ƛ’iri utizaƛ’, moƛ’oqˤoyn sadaq däq teƛno rok’ełsi.
+Gloss: one man-TOP come-PFV.CVB there-LAT such-EMPH above turn-CSL.CVB bridle-TOP together me-POSS.ESS sell-PFV.CVB IV-lose-PST.WIT
+Translation: And there came a man and because he insisted so much, I sold also the bridle and lost it.

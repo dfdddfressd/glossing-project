@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kosyar.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kosyar
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kosyar:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Boc’i maħla ɣˤunoqay räšruni ƛˤebrezał buqˤełno, zey hemełtow ažomzo kosyar bizin.
+Gloss: wolf court-IN.ESS hornless.goat-POSS.ABL IV-fall-PST.PRT-DEF leaf-PL-CONT.ESS III-hide-PFV.CVB bear DEM4.IISG.OBL-EMPH tree-ATTR.OBL peak-LAT III-get.up-PST.UNW
+Translation: The wolf who ate from the goat hide in the garden between the leaves, the bear climbed up on the crest of a tree.
+
+Approximate Matches:

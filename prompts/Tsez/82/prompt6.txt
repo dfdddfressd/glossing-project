@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: aɣˤux.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": aɣˤux
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word aɣˤux:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yoɣno kurno yičäruni aɣˤux elus xabaryabin teqerno siskin buyn bäčinč’i, hudu t’o ela sidä sidqo kesubi esix sasaqor bičan.
+Gloss: II-take.away-PFV.CVB throw-PFV.CVB II-be-PST.PRT-DEF mill-AD.ESS we(I).OBL-GEN1 story-PL-TOP listen.to-PFV.CVB anyone III-indeed-TOP III-be-NEG.FUT.CVB so here we(I).OBL-ERG one.OBL-ERG one.OBL-POSS.ESS secret-PL tell-IPFV.CVB in.the.morning-POSS.LAT I.PL-wait-FUT.DEF
+Translation: In this abandoned mill no one will hear what we say, so we will wait here until the morning telling each other secrets.
+
+Approximate Matches:
+Sentence: Neširur ža aderzotow sida šušuliłäsi aɣˤuxor aynosi, sasaqor howlotow ičanix ħukmu boqxo.
+Gloss: evening-LAT DEM1.SG forward-GEN2-EMPH one.OBL demolish-POT-RES.PRT mill-AD.LAT come-ANT.CVB in.the.morning-POSS.LAT there-EMPH wait-MSD-AD.ESS decision III-become-PRS
+Translation: By the evening he came to a demolished mill and decided to wait there until morning.
+Sentence: Hemeła qułtow mogolxo elo aɣˤuxor zeyn, zirun, boc’in rayn.
+Gloss: then day-CONT.ESS-EMPH granary-AD.ESS there mill-AD.LAT bear-and fox-and wolf-and IV.PL-come-PST.UNW
+Translation: The next day, a bear, a fox and a wolf came there to the mill at the granary.
+Sentence: Yizi nasin sidaɣ aɣˤuxor rayn.
+Gloss: DEM2.IPL all in.one.place mill-AD.LAT III.PL-come-PST.UNW
+Translation: They all came to a mill.

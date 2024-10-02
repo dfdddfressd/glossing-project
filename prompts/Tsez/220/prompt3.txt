@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word koyärno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word koyärno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža lel yoƛ’ˤun ƛ’iräzay nesis koyär yayn.
+Gloss: DEM1.SG feather II-fall-PFV.CVB above-IN.ABL.DIST DEM1.ISG.OBL-GEN1 hand-IN.LAT II-come-PST.UNW
+Translation: The feather fell down and into his hand.
+Sentence: T’ok’ow heresi mec esanix rok’ƛ’or rayärnoƛin.”
+Gloss: anymore false language tell-MSD-AD.ESS heart-SUPER.LAT IV-bring-PROHIB-QUOT
+Translation: Don't come up with the idea of telling lies again.
+Sentence: Kaɣat koyär yäsruntow, babiya uži egirno, debi mi esiwn yexurno, nełas rok’u däq rukaranix raƛin.
+Gloss: letter hand-IN.LAT II-take-IMM.ANT.CVB-EMPH dad-ERG son send-PST.UNW you-GEN1 you sister-TOP II-kill-PFV.CVB DEM1.IISG.OBL-GEN1 heart me-POSS.ESS IV-show-MSD-AD.ESS IV-bring-QUOT
+Translation: As soon as the father took the letter in his hand, he said to his son: "Kill your sister, and bring me her heart to show it to me!"

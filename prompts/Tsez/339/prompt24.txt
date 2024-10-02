@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łˤoran in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łˤoran: 
+
+Exact Matches
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: Ža kaɣat t’et’erno łiynosi, łˤoran xexza nesiqor eƛin, eli łˤonon bik’a yoł debez halmaɣ Tawadidäɣor.
+Gloss: DEM1.SG letter read-PFV.CVB end-ANT.CVB three.OBL-TOP children DEM1.ISG.OBL-POSS.LAT say-PST.UNW we three-TOP I.PL-go-INF be you-GEN2 friend Tavadi-APUD.VERS
+Translation: When he finished reading the letter, his three children said to him: "We three will go to your friend Tavadi.
+Sentence: Guħƛ’orno bizin, łˤoran esnaza kurno c’eruc’a.
+Gloss: hill-SUPER.LAT-TOP I.PL-get.up-PFV.CVB three.OBL-TOP brother-PL-ERG throw-PST.UNW bow
+Translation: The three brothers climbed up the hill and shot with their bows.
+
+Approximate Matches:
+Sentence: Haq’udär yik’anix xedyoqay izmu esirnosi, nesägon łˤora becän yičin, hulon rexurno horoƛin yegirno.
+Gloss: family-APUD.VERS II-go-MSD-AD.ESS husband-POSS.ABL permission ask-ANT.CVB DEM1.ISG.OBL-ERG-CNTR three.OBL month-IN.ESS-TOP II-be-PFV.CVB miss-CND IV-kill-PFV.CVB come.IMPR-QUOT II-let-PST.UNW
+Translation: When she asked her husband for permission to go to her family, he let her go with the words: "You may stay three months, then, after [you killed the boredom(?)] come back!"
+Sentence: Łˤoran ƛˤeba na mi zowäƛin, esirno gula nesiq.
+Gloss: three.OBL-TOP year-IN.ESS where you be.NPRS-PST.WIT.INT-QUOT ask-PST.UNW horse-ERG DEM1.ISG.OBL-POSS.ESS
+Translation: "Where have you been these three years?", asked him the horse.
+Sentence: Čanno suƛƛi boƛixno sis hil karun, bˤulamzałäy aħyałerno c’oxno łˤora k’onč’aƛ’or boxin bik’isƛin”, - žawab teƛno heresi mec esixoza.
+Gloss: deer-TOP suddenly III-appear-PFV.CVB one bullet throw-IMM.ANT.CVB hoof-PL-CONT.ABL ear-CONT.LAT-TOP hit-PFV.CVB three.OBL leg-SUPER.LAT III-run.away-PFV.CVB III-go-PST.WIT-QUOT - answer give-PST.UNW false language tell-PRS.PRT.OBL-ERG
+Translation: "A deer suddenly appeared and the bullet that was shot, hit it through the legs and pierced the ear, so it ran away on its three legs", answered the liar.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qˤaƛo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qˤaƛo: 
+
+Exact Matches
+Sentence: Yeženä eƛin, hemeła pulanaw mečoƛ’ yoł ža, elor ayrun, kakno rodo, łox nełas ci qˤaƛo.
+Gloss: II-old-DEF-ERG say-PST.UNW DEM4.IISG.OBL a.certain place-SUPER.ESS be DEM1.SG there-LAT come-IMM.ANT.CVB prayer-TOP IV-do-IMPR thrice DEM1.IISG.OBL-GEN1 name shout-IMPR
+Translation: The old woman said: "She lives at that certain place, when you arrive there, say a prayer and shout her name three times!"
+Sentence: Sasaq nexno maħlay xanqor qˤaƛo mi, c’ik’iw raładyołäy besurobin roqno, žeda debi räƛiru šebin rac’noƛin.
+Gloss: tomorrow come-PFV.CVB court-IN.ABL khan-POSS.LAT shout-IMPR you all sea-CONT.ABL fish-PL-TOP III.PL-become-PFV.CVB DEM1.IPL-ERG you-GEN1 IV-plant-PST.PRT thing IV.PL-eat-PST.UNW-QUOT
+Translation: "Come tomorrow and shout from the court tomorrow, that all the fish got out of the sea and ate what you planted."
+
+Approximate Matches:
+Sentence: Bertenyoł, keč’ qˤaƛoƛin, boc’ä ʕomoyq harizi rodin.
+Gloss: marriage-CONT.ESS song sing-IMPR-QUOT wolf.PL-ERG donkey-POSS.ESS request III.PL-do-PST.UNW
+Translation: On the marriage, the wolves asked the donkey: "Sing a song!"

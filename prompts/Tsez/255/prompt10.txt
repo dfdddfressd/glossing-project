@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iħuƛ’ozoni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iħuƛ’ozoni: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyogon zira eƛin, walla, howža di eƛix zowali łiłiroƛ’ozoni ɣunoqay yaqˤułer ƛˤebno yok’ek’no.
+Gloss: then fox-ERG say-PST.UNW wallah DEM4.SG me say-IPFV.CVB be.NPRS-ATTR ditch-SUPER.ESS-GEN2-DEF tree-POSS.ABL today-LAT leaf-TOP II-steal-PST.UNW
+Translation: Then the fox said: "By God, someone stole the leaf from the tree on that ditch I talked about.
+Sentence: Xizyo nesä tukamƛ’ozoni žek’uq esirno, mi ozurabin roɣno ƛexun zowali žek’u anaƛin.
+Gloss: afterwards DEM1.ISG.OBL-ERG shop-SUPER.ESS-GEN2-DEF man-POSS.ESS ask-PST.UNW you eye-PL-TOP IV.PL-take.away-PFV.CVB remain-PFV.CVB be.NPRS-ATTR man be.NEG-PST.WIT.INT-QUOT
+Translation: Afterwards, he asked the man in the shop: "Weren't you the man whom I took the eyes away from?"
+Sentence: Sosisi esinč’eyn bičin, xizaɣor esin, sis bercinaw ɣˤanabi ela gamiƛ’ozoni žek’ur teƛsiƛin.
+Gloss: at.first-ATTR tell-NEG.PST.CVB-and I.PL-remain-PFV.CVB finally tell-PST.UNW one beautiful woman we(I).OBL-ERG boat-SUPER.ESS-GEN2-DEF man-LAT sell-PST.WIT-QUOT
+Translation: At first they didn't tell, but finally they told: "We sold a beautiful woman to a sailor."

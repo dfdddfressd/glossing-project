@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bełiƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bełiƛ: 
+
+Exact Matches
+Sentence: Yeda bełiƛ’ ik’a aqzay soder xanez nukarzaskin bełis bax bexun.
+Gloss: DEM2.ISG hunting-SUPER.ESS go-INF begin-SIM.CVB after khan-GEN2 henchman-PL-GEN1-even hunting-GEN1 success III-die-PST.UNW
+Translation: After he began to go hunting, even the king's henchmen's hunting luck deteriorated.
+Sentence: Žan šušin q’ulhu bet’unosi, žedus xabar boqno bełiƛ’ bik’anƛin.
+Gloss: DEM1.SG-TOP bury-PFV.CVB funeral.feast III-stay.behind-ANT.CVB DEM1.IPL.OBL-GEN1 story III-become-PFV.CVB hunting-SUPER.ESS I.PL-go-FUT.DEF-QUOT
+Translation: After they burried him and the funeral feast was over, their plan was: "We'll go hunting."
+Sentence: Hudayzikon uži bełiƛ’ ik’in, qˤayn č’aq’ˤirno xizor utin ayn.
+Gloss: the.next.day-TOP son hunting-SUPER.ESS go-PFV.CVB hare-TOP hit-CAUS-PFV.CVB back turn.back-PFV.CVB come-PFV.CVB
+Translation: Next day the son went hunting and came back with the hare.
+
+Approximate Matches:
+Sentence: Žedu esnabi ɣudes bełiƛ’t’a bik’ix zown.
+Gloss: DEM1.IPL.OBL brother-PL daily hunting-SUPER.ESS-DISTR I.PL-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: Every day the brothers went hunting.
+Sentence: Yisä yeda onočaƛ’or, ƛelƛ’or, cek’ƛ’or bełiƛ’or, beƛ’q’ˤuƛ’or, ziyƛ’or, isƛ’or utanix ruhun odin.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG hen-SUPER.LAT lamb-SUPER.LAT goat.kid-SUPER.LAT deer-SUPER.LAT sheep-SUPER.LAT cow-SUPER.LAT bull-SUPER.LAT turn-MSD-AD.ESS teach do-PST.UNW
+Translation: He taught him how to turn into a hen, a lamb, a goat kid, a deer, a sheep, a cow and a bull.

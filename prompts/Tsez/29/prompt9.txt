@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: äsu.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": äsu
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word äsu:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elay bitorgon ik’iƛ’orey, deber sis žek’u äsu kʷayä zamzames łi roqłin ža ħaƛa roqinč’ey ƛexasi.
+Gloss: there-IN.ABL thither-CNTR go-SIM.CVB you-LAT one man find hand-IN.ESS sacred-GEN1 water IV-become-CNC.CVB DEM1.SG drink-INF IV-begin-NEG.PST.CVB remain-RES.PRT
+Translation: And when you go further from there, you will find a man with holy water in his hands, but he won't drink it.
+Sentence: Debi łˤono uži yoł, dey siskin anuru deberno iyx äsu.
+Gloss: you-GEN1 three son be me-GEN1 anyone be.NEG-PST.PRT you-LAT-TOP know-IPFV.CVB exist
+Translation: You have three sons and should know that I don't have anyone.
+Sentence: Neła žaqor eƛin, t’ay ik’iƛ’orey, deber bˤeƛ’xo aħo äsu.
+Gloss: DEM1.IISG.OBL boy-POSS.LAT say-PST.UNW from.here go-SIM.CVB you-LAT sheep-AD.ESS shepherd find
+Translation: She said to the boy: "When you go away from here, you will find a shepherd with a flock of sheep.
+
+Approximate Matches:

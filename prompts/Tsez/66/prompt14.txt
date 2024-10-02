@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kidbabi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kidbabi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kidbabi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hudayziko qˤaħłiqtow babiw kidbabi saparyox boqno.
+Gloss: the.next.day dawn-POSS.ESS-EMPH father daughter-PL journey-AD.ESS I.PL-become-PST.UNW
+Translation: The next day at dawn the father (and) the daughters went on their journey.
+Sentence: Elo Ražbadinä ʕoloqzaqor eƛix, pulanaw mečoƛ’or ʕaƛa yałru kidbabi rutirƛin.
+Gloss: there Razhbadin-ERG young.person-PL-POSS.LAT say-PRS some place-SUPER.LAT village-IN.ESS be-PST.PRT girl-PL II.PL-gather-QUOT
+Translation: There, Razhbadin said to the young people: "Gather the girls from the village on some place!
+Sentence: Anu, xan, deyno, debin kidbabi nełar howži ħaram roqsi, šidaƛin eƛiłi ža aždaħ bexursiƛin”, - esin q’orola.
+Gloss: be.NEG khan me-GEN1-and you-GEN1-and daughter-PL DEM1.IISG.OBL-LAT now prohibition IV-become-PST.WIT why-QUOT say-CND.CVB.IRR DEM1.SG dragon III-kill-PST.WIT-QUOT - tell-PST.UNW widow-ERG
+Translation: "No, king, he won't get my and your daughters, because he was killed", said the widow.
+
+Approximate Matches:
+Sentence: Žan eƛin, babiw gogaƛ’ay oqno bitor ik’in, kidbabin babiw ayaniqor rezun howlotow ričäsi zown.
+Gloss: DEM1.SG-TOP say-PFV.CVB father meadow-SUPER.ABL become-PFV.CVB thither go-PFV.CVB girl-PL-TOP father come-MSD-POSS.LAT II.PL-look-PFV.CVB there-EMPH II.PL-wait-RES.PRT be.NPRS-PST.UNW
+Translation: Having said that, the father left the meadow and went away, and the girls waited there for their father to return.
+Sentence: Yisä yisir łˤora ɣudi bertenno erno, bercinawƛ’ay bercinawt’a kidbabin rukarno, howt’aytow barun yižoƛin harizin rodin, roƛik’u xanłin riso howt’otow uyn iči, mi iłe baħarči naynkin t’ok’ow elur äqinč’iƛin.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-LAT three.OBL day marriage-and put-PFV.CVB beautiful-SUPER.ABL beautiful-DISTR girl-PL-and II.PL-show-PFV.CVB from.here-EMPH wife-TOP II-take.out-IMPR-QUOT request-TOP IV-do-PFV.CVB IV-half khanate-TOP IV-take-IMPR here-EMPH just-TOP be you as brave.young.man from.nowhere anymore we(I).OBL-LAT get-NEG.FUT-QUOT
+Translation: He arranged a 3-day lasting marriage for him, presented girls that were prettier than pretty, "Choose a wife from here!", he begged, "Settle down here and take half of the kingdom, from nowhere will we ever get such a brave young man as you, anymore!"
+Sentence: Xanes kidbabin ʕuraw ɣˤaɣˤu rizin.
+Gloss: khan-GEN1 daughter-PL-TOP very be.happy IV-get-PST.UNW
+Translation: Also the king's daughters got very happy.

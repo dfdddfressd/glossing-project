@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esirnosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esirnosi: 
+
+Exact Matches
+Sentence: Sosi yisä ħumukulis bet’erhanno goƛ’in nesis murad esirnosi, nesä eƛin:
+Gloss: at.first DEM2.ISG.OBL-ERG camel-GEN1 master-TOP call-PFV.CVB DEM1.ISG.OBL-GEN1 wish ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: At first he called the owner of the camel and asked what he desired, the owner said:
+Sentence: Xizyogon zira šebi ža debez ħiroƛ’ƛin esirnosi, k’et’a tupi yołƛin eƛin.
+Gloss: then fox-ERG what DEM1.SG you-GEN2 shoulder-SUPER.ESS-QUOT ask-ANT.CVB cat-ERG rifle be-QUOT say-PST.UNW
+Translation: When the fox asked: "What is that on your shoulder?", the cat said: "It's a rifle."
+Sentence: ʕAƛaza ec’no xabar šebiƛin yisä esirnosi, sida maduhalä esin, xanez yeɣeni kidbeƛäy bitor sidä sis esnabi bexursiƛin.
+Gloss: village-IN.VERS.DIST new story what-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB one.OBL neighbor-ERG tell-PST.UNW khan-GEN2 II-young-DEF daughter-SUB.ABL because.of one.OBL-Q one brother-PL I.PL-kill-PST.WIT-QUOT
+Translation: When he asked: "What's new in the village?", a neighbor told: "The brothers killed each other because of the king's youngest daughter."
+
+Approximate Matches:
+Sentence: Waħ, šebi nesir roqnoƛin, Qartayä esirno.
+Gloss: whoa who DEM1.ISG.OBL-LAT IV-happen-PST.UNW-QUOT Qartay-ERG ask-PST.UNW
+Translation: "Oh, what happened with it?", said Qartay.
+Sentence: Xizyo iguni halmaɣƛ’o mekʷan c’oxno, žukaniq bišʷan esirno, sosigon bišno žedu.
+Gloss: afterwards good-DEF friend-SUPER.ESS hunger-TOP meet-PFV.CVB worse-MSD-POSS.ESS food-TOP ask-PFV.CVB at.first-CNTR I.PL-eat-PFV.CVB DEM1.IPL
+Translation: Afterwards, the good friend got hungry and asked the bad one for food, and they ate first.
+Sentence: Biš-butin bizinosi, zeyä yisiq esirno, łinał xizay, šebin retin mi maħor oqäsiƛin.
+Gloss: III-eat-PFV.CVB III-get.up-ANT.CVB bear-ERG DEM2.ISG.OBL-POSS.ESS ask-PFV.CVB what.OBL-CONT.ESS behind thing IV-want-PFV.CVB you outside become-RES.PRT-QUOT
+Translation: After the bear has eaten, he got up and asked, "What are you looking for in your trip?"

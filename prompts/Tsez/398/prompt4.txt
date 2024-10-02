@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qˤaƛinosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qˤaƛinosi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyo eɣeni esiya nełaz c’eruc’a caƛinosi, sis nełas lel ɣunoƛer yoƛ’ˤun yayn, t’awusno hawaƛ’ k’oƛin boxin bik’in.
+Gloss: afterwards young-DEF brother-ERG DEM1.IISG.OBL-GEN2 bow shoot.with-ANT.CVB one DEM1.IISG.OBL-GEN1 feather tree-SUB.LAT II-fall-PFV.CVB II-come-PFV.CVB peacock-TOP air-SUPER.ESS jump-PFV.CVB III-run.away-PFV.CVB III-go-PFV.CVB
+Translation: Then the youngest brother shot with the bow and the peacock flew away, but one feather fell down under the tree.
+Sentence: Zira iqäru žoyä ceyz tupi caƛinosi, igo yałru ariƛ’no c’oxno, cey k’ek’-bik’noanu.
+Gloss: fox-ERG find-PST.PRT boy-ERG eagle-GEN2 rifle shoot.with-ANT.CVB near be-PST.PRT branch-SUPER.ESS-TOP hit-PFV.CVB eagle move-PFV.CVB-NEG
+Translation: The boy that the fox had found, shot the eagle with his rifle and hit a branch that was near, the eagle didn't move.

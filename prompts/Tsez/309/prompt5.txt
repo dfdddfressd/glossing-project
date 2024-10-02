@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zeyes in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zeyes: 
+
+Exact Matches
+Sentence: Łox äƛirugon yeda ʕuqła ik’inosi, bełiquz užä zeyes mus bik’urno.
+Gloss: thrice ORD-CNTR DEM2.ISG hide-INF go-ANT.CVB hunter-GEN2 boy-ERG bear-GEN1 hair III-burn-CAUS-PST.UNW
+Translation: After the hunter's son went hiding for the third time, he burnt the bear's hair.
+
+Approximate Matches:

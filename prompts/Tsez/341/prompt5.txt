@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word madaxozoni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word madaxozoni: 
+
+Exact Matches
+Sentence: Bilq’isdiƛ’or šakno bižirerno xanes nesi madaxozoni žek’ä, xizyo yeda qˤirič’ k’edaniłer oqno.
+Gloss: Bilqisdi-SUPER.LAT suspicion-TOP III-carry-CAUS-CAUS-PFV.CVB khan-GEN1 DEM1.ISG.OBL gate-AD.ESS-ATTR.OBL-DEF man-ERG afterwards DEM2.ISG scissors search-MSD-CONT.LAT begin-PST.UNW
+Translation: The guard let the king suspect Bilqisdi and then he began to search for the scissors.
+
+Approximate Matches:
+Sentence: Xanä madaxozoniqor eƛin, mesedyos q’ˤuri užiƛer teƛ, micxiryos - kidbeƛer, pakmos - ƛirbaqor, qacis q’ˤuri imyoqor yicin zawruni ɣˤanazaqor teƛƛin.
+Gloss: khan-ERG gate-AD.ESS-ATTR.OBL-DEF-POSS.LAT say-PST.UNW gold-GEN1 chair boy-SUB.LAT give silver-GEN1 - girl-SUB.LAT copper-GEN1 - guest-POSS.LAT wood-GEN1 chair pole-POSS.LAT II-tie-PFV.CVB be.NPRS-PST.PRT-DEF woman-POSS.LAT give-QUOT
+Translation: The king said to the guard: "Give the golden chair to the boy, the silver one to the girl, the copper one to the guest and the wooden one give to the woman who was tied to the pole."

@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word däder in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word däder: 
+
+Exact Matches
+Sentence: Xanä wazirzaqor amru bodin, ʕAt’id xexłiƛ’ däder ayroƛin.
+Gloss: khan-ERG vizier-PL-POSS.LAT command III-do-PFV.CVB Atid quickness-SUPER.ESS me-APUD.LAT bring-IMPR-QUOT
+Translation: The king commanded his viziers: "Bring Atid to me quickly!"
+Sentence: Nełaz rok’ƛ’or rayn, yeda däder igu žek’u aynč’uƛin.
+Gloss: DEM1.IISG.OBL-GEN2 heart-SUPER.LAT IV-come-PST.UNW DEM2.ISG me-APUD.LAT good man come-NEG.PST.WIT-QUOT
+Translation: She thought: "He didn't come to me as a good man."
+Sentence: Xizyo mi däder horo debertown aq’ˤlu betin besunäyƛin, bełiqa xandäɣor uži egirno.
+Gloss: afterwards you me-APUD.LAT come.IMPR you-LAT-EMPH-TOP advice III-want-PFV.CVB III-appear-CND.CVB-QUOT hunter-ERG khan-APUD.VERS son send-PST.UNW
+Translation: Then come to me, in case you want some advice," and the hunter sent his son to the king.
+
+Approximate Matches:
+Sentence: Din siħrus ʕilmu mołixosi yoł, retinäy dädertow egirƛin, eƛin Ox̌oyä.
+Gloss: me-TOP slyness-GEN1 science teach-PRS.PRT be IV-want-CND.CVB me-APUD.LAT-EMPH send-QUOT say-PST.UNW Ohoyo-ERG
+Translation: "I am also teaching the science of slyness; if you want, send him to me!", said Ohoyo.
+Sentence: Šebi ža nediw baħarči oƛixa, owo ža ent’o däderƛin”, - amru bodin xanä neła q’orolaqor.
+Gloss: what DEM1.SG such brave.young.man half-INT bring-IMPR DEM1.SG here me-APUD.LAT-QUOT - command III-do-PST.UNW khan-ERG DEM1.IISG.OBL widow-POSS.LAT
+Translation: "Who is this brave young man? Bring him here to me!", ordered the king the widow.

@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: elurno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": elurno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word elurno:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xecač’inƛin inkar bodin žeda, bexurinč’ey xeca betinäy, łˤono ɣuruš neƛ elurƛin boqno bičin yizi.
+Gloss: leave-NEG.FUT.DEF-QUOT rejection I.PL-do-PFV.CVB DEM1.IPL.OBL-ERG III-kill-NEG.PST.UNW leave-INF III-want-CND.CVB three ruble give we(I).OBL-LAT-QUOT I.PL-become-PFV.CVB I.PL-be-PFV.CVB DEM2.IPL
+Translation: "We won't leave it.", they rejected, "If you want us not to kill it, give us three rubles!".
+Sentence: Neširu Alimaħama sadaq yałru hudulzaqor eƛin, sasaq ħonqaɣor bˤeƛ’ rižinäy elurtow rigu räčiƛin.
+Gloss: evening Alimagomed-ERG together be-PST.PRT friend-PL-POSS.LAT say-PST.UNW tomorrow mountain-POSS.VERS sheep IV-lead-CND.CVB we(I).OBL-LAT-EMPH IV-good IV-be-QUOT
+Translation: In the evening Alimagomed said to the friends who were with him: "If we lead the sheep to the mountain tomorrow, it'll be better for us."

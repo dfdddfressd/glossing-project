@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eƛa using Leipzig glossing symbols. The sentence this word is drawn from means: "And a black man riding on a black horse who came out of who-knows-where stole the princess' clothes, carried them away and sat down under a tree.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eƛa
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eƛa:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: K’ox eƛa yawruni barur best’al kid yetix zownanu, neła nełar urɣizi boda ħilla xecix zownanu, nełdäy yet’u-t’it’iran yetin.
+Gloss: twice say-INF II-marry-PST.PRT-DEF wife-LAT step daughter II-like-IPFV.CVB be.NPRS-PFV.CVB-NEG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-LAT thinking III-do-INF trickery leave-IPFV.CVB be.NPRS-PFV.CVB-NEG DEM1.IISG.OBL-APUD.ABL II-get.rid-FUT.CVB II-want-PST.UNW
+Translation: His second wife didn't like her step-daughter, she didn't leave out any tricks to think about and wanted to get rid of her.
+Sentence: Nesis ozuri roƛa rutirzaƛ’, ʕaƛaɣor žamaʕatyoƛ’or xabar begirno, däz ozäɣor räk’iru šebi eƛa räynč’iru šebin roɣʷa horoƛin.
+Gloss: DEM1.ISG.OBL-GEN1 eye IV-be.sick-INF IV-turn-CSL.CVB village-IN.VERS population-SUPER.LAT story III-send-PFV.CVB me-GEN2 eye-IN.VERS IV-go-PST.PRT what say-INF IV-know-NEG.FUT-PST.PRT thing IV-take.away-INF come.IMPR-QUOT
+Translation: Because his eye got hurt, he told it to the people in the village, "Something I don't know came into my eye; come and take it out!"
+Sentence: Sida zamanał, neširuxayt’a šebi eƛa riyxanuzo łinan c’iɣaƛ’ ƛ’iri yałru ʕaƛ k’ek’-bik’erxot’a zown.
+Gloss: one.OBL time-CONT.ESS at.night-AD.ABL-DISTR what say-INF IV-know-NEG.PRS.PRT.OBL water-INT shoulder.blade-SUPER.ESS above be-PST.PRT village move-CAUS-IPFV.CVB-DISTR be.NPRS-PST.UNW
+Translation: One time, at night the village on the shoulder.blade was moved by something unknown.
+
+Approximate Matches:

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: užiƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": užiƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word užiƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Way dey užiƛin, regin babiwq, howži deber žukkin roqinč’inäy, di eƛix zownč’a dowqor neła aɣis tupi caƛinƛin.
+Gloss: o.dear me-GEN1 son-QUOT IV-be.emitted-PFV.CVB father-POSS.ESS now you-LAT worse-even IV-become-NEG.FUT.CVB-CND.CVB me say-IPFV.CVB be.NPRS-NEG.PST.WIT-PST.WIT.INT you-POSS.LAT DEM1.IISG.OBL bird-GEN1 rifle shoot.with-PROHIB-QUOT
+Translation: "Oh dear, my son!", said the father, "Have I not warned you that it would become bad for you now, if you shoot that bird with your rifle?"
+Sentence: Xizor utin yeda uži raładyoz raʕalłixor aynosi, yoƛixno łäłäzay neła ɣˤanaza esirno, šebi roqä däz esiws užiƛin.
+Gloss: back turn.back-PFV.CVB DEM2.ISG boy sea-GEN2 edge-AD.LAT come-ANT.CVB II-appear-PFV.CVB water-CONT.ABL.DIST DEM1.IISG.OBL woman-ERG ask-PST.UNW what IV-happen-PST.WIT.INT me-GEN2 sister-GEN1 boy-QUOT
+Translation: When the boy went back and came to the edge of the sea, that woman appeared out of the water again and asked: "What happened, my nephew?"
+Sentence: Nełan, dey užiƛin, žaq ałni bic’no.
+Gloss: DEM1.IISG.OBL-ERG-TOP me-GEN1 son-QUOT son-POSS.ESS hug III-hug-PST.UNW
+Translation: She also said: "My son!", and gave him a hug.
+
+Approximate Matches:
+Sentence: Yiła yiziqor eƛin, sis guluƛ’ zown, sideni q’ˤidan ik’in, buq betunosi xizyo žek’us ɣedun bown ent’or horo mežiƛin.
+Gloss: DEM2.IISG.OBL-ERG DEM2.IPL.OBL-POSS.LAT say-PST.UNW one horse-SUPER.ESS ride-PFV.CVB the.other.one down-TOP go-PFV.CVB sun III-set-ANT.CVB after man-GEN1 shade-TOP III-get-PFV.CVB here-LAT come.IMPR you.PL-QUOT
+Translation: She said to them: "One will ride on a horse and the other one will walk below; after the sun has set, get me a man's shadow and come here!"
+Sentence: Łas yałru esinäy, biša yołä mežiƛin, esirno habihanä.
+Gloss: who.OBL-GEN1 be-PST.PRT tell-CND.CVB I.PL-eat-INF be-Q you.PL-QUOT ask-PST.UNW miller-ERG
+Translation: "If I tell you whose you are, will you eat?", asked the miller.
+Sentence: Łox esirno dandir žawab biqinč’izaƛ’, yizirabi kecsi howžiƛin, ɣoɣoräk’ru ħos risno užizasƛin eƛin kidbazas meč’oƛ’no eqerno, yik’in kecno.
+Gloss: thrice ask-PFV.CVB together answer III-get-NEG.FUT-CSL.CVB DEM2.PL sleep-PST.WIT now-QUOT make.red.hot-PST.PRT stick IV-take-PFV.CVB boy-PL-GEN1-QUOT say-PFV.CVB girl-PL-GEN1 neck-SUPER.ESS-TOP put-PFV.CVB II-go-PFV.CVB sleep-PST.UNW
+Translation: Because she had asked three times without getting an answer, [saying] "Now they're sleeping", she took the red-hot stick and - thinking it were the boys - put it onto the necks of the girls and went to sleep.

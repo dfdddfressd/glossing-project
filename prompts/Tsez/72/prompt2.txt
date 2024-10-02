@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žawab.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žawab
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žawab:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+Sentence: Yeženi esiya žawab teƛno:
+Gloss: II-old-DEF sister-ERG answer give-PST.UNW
+Translation: The eldest sister answered:
+Sentence: Nełƛ’aza di aq’ˤu pikrazał ƛexux roda šebin koƛ’inč’eyƛin, žawab teƛno xedya.
+Gloss: DEM1.IISG.OBL-SUPER.VERS.DIST me much idea-PL-CONT.ESS remain-IPFV.CVB IV-do-INF thing understand.to-NEG.PST.UNW-QUOT answer give-PST.UNW husband-ERG
+Translation: Because of this, I - remaining very thoughtful - don't know what to do.", answered the husband.
+
+Approximate Matches:
+Sentence: Nełar žawabtow biqinč’izaƛ’ ƛexasi yoł di q’ʷariłiłerno egin.
+Gloss: DEM1.IISG.OBL-LAT answer-EMPH III-get-NEG.FUT.CVB-CSL.CVB remain-RES.PRT be me sadness-CONT.LAT-TOP go.into-PST.UNW
+Translation: Because I could not get an answer to this, I got so sad."
+Sentence: Ukrus bic’no q’ili neƛanƛin, - žawabno teƛno xanä esirno, - šebi aždaħer teƛanix kidä yowäƛin?”
+Gloss: silver-GEN1 III-fill-PFV.CVB qili give-FUT.DEF-QUOT - answer-TOP give-PFV.CVB khan-ERG ask-PST.UNW - what dragon-LAT give-MSD-AD.ESS daughter-ERG II-get-INF-QUOT
+Translation: "I will give you one qili of silver", answered the king and asked: "What did your daughter get to give to the dragon?"
+Sentence: Nełas kuckinwa bigu anu, łinar ža mi yowäƛin, nesir žawabyor, bixzi yoqno yiłetow, eƛin eniya.
+Gloss: DEM1.IISG.OBL-GEN1 form-even-Q III-pretty be.NEG why DEM1.SG you II-bring-PST.WIT.INT-QUOT DEM1.ISG.OBL-LAT answer-LAT angry II-become-PFV.CVB II-as-EMPH say-PST.UNW mother-ERG
+Translation: "She doesn't even look pretty, why did you bring her?", answered him the mother as if getting angry.

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħošin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħošin: 
+
+Exact Matches
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Sidaɣ žopono ciqa tełer yaynosi, yiła ħošin šeƛ’un, sida osiy ažoq soder yizin.
+Gloss: in.one.place dense forest-IN.ESS into II-come-ANT.CVB DEM2.IISG.OBL-ERG hide-TOP put.on-PFV.CVB one.OBL high tree-POSS.ESS upward II-get.up-PST.UNW
+Translation: After she came into the dense forest, she put on a hide and climbed up a high tree.
+Sentence: Elay bitor ok’ełnosi, boɣno ziyas ħošin kurno, oqno iduɣor ik’in.
+Gloss: there-IN.ABL thither escape-ANT.CVB III-take.away-PFV.CVB cow-GEN1 hide-TOP throw-PFV.CVB become-PFV.CVB home-IN.ALL go-PST.UNW
+Translation: When he had escaped from there, he threw the cow's hide away and went home.
+
+Approximate Matches:
+Sentence: Užä žeduqor eƛin, neła ziys ħošis režigon reɣet’a t’it’urbi roys yołi, bežigon baq’ˤu łemu där micxir bäqiƛin.
+Gloss: boy-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW DEM1.IISG.OBL cow-GEN1 hide-GEN1 IV-more-CNTR IV-small-DISTR piece-PL IV.PL-do-PST.WIT if III-more-CNTR III-much then.would me-LAT money III-get-QUOT
+Translation: The boy said to them: "If you had made even smaller pieces, then I would've gotten even more money."

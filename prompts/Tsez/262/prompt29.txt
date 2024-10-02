@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iziräł in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iziräł: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Eluqƛa iziräłinč’i mi elo ƛ’irir, hudunon eloš neła ceyqo harizi rodan elaƛin”, - eƛin xanä.
+Gloss: we(I).OBL-POSS.ESS-INDEF lift-POT-NEG.FUT you there above-LAT nevertheless-TOP over.there DEM1.IISG.OBL eagle-POSS.ESS request IV-do-FUT.DEF we(I).OBL-ERG-QUOT - say-PST.UNW khan-ERG
+Translation: "We cannot lift you up there, so we will beg that eagle over there", said the king.

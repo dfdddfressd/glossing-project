@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šebin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šebin: 
+
+Exact Matches
+Sentence: Siryos bet’erhanä q’ʷaridno oqno sadaq šebin ik’in ec’noni xanzo baruq esin.
+Gloss: mare-GEN1 master-ERG sadness-TOP become-PFV.CVB all thing go-PFV.CVB new-DEF khan-ATTR.OBL wife-POSS.ESS tell-PST.UNW
+Translation: The mare's master became sad and told the king's new wife how all the things happened.
+Sentence: Sis gut’ riłe šebin rukayxƛin, eƛin bełiqanä.
+Gloss: one smoke IV-as thing IV-see-PRS-QUOT say-PST.UNW hunter-ERG
+Translation: "I see something like smoke.", said the hunter.
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+
+Approximate Matches:
+Sentence: Howži yisi žoyä, t’ok’ow urɣel čučzi boda nesis igorsi žek’un oqinč’izaƛ’, yacʕalqo kinaw raqru šebinno esin, eƛin, yaqˤuł dey xizaɣorsi ɣudi yoł ƛexasi.
+Gloss: now DEM2.ISG.OBL boy-ERG more sorrow loosen III-do-INF DEM1.ISG.OBL-GEN1 near-LAT-ATTR man-TOP become-NEG.FUT.CVB-CSL.CVB female.cousin-POSS.ESS entire IV-happen-PST.PRT thing-TOP tell-PFV.CVB say-PST.UNW today me-GEN1 finally-ATTR day be remain-RES.PRT
+Translation: Now that boy, because there was no close person to him to relieve his sorrow a bit more, he told his cousin everything that has happened and said: "Today is my last day.
+Sentence: Kidbezgon rok’ƛ’or rayn, di moƛałtow yołƛin, yedu t’o roqxosi šebinon där moƛał rukayxƛin.
+Gloss: girl-GEN2-CNTR heart-SUPER.LAT IV-come-PST.UNW me dream-CONT.ESS-EMPH be-QUOT DEM2.IISG here IV-happen-IPFV.CVB-ATTR something me-LAT dream-CONT.ESS IV-see-PRS-QUOT
+Translation: The girl thought: "I am in a dream, and what is happening here I am dreaming."
+Sentence: Zamanaƛ’azay bak’arizin boqno ʕagarłisno, ʕaƛosno ʕoloqbin bayn, reƛ’ibin ricin bexuranixƛin bižiƛ’oräy užä eƛin, mežur šebintow riynč’ey šida eli bexura bižix.
+Gloss: time-SUPER.ABL.DIST gathering-TOP III-become-PFV.CVB relatives-GEN1-and village-GEN1-and young.person-PL-TOP III-come-PFV.CVB hand-PL-TOP IV.PL-tie-PFV.CVB I.PL-kill-MSD-AD.ESS-QUOT I.PL-take.out-SIM.CVB boy-ERG say-PST.UNW you(I).PL.OBL-LAT thing-EMPH IV-know-NEG.PST.CVB why we I.PL-kill-INF I.PL-take.out-PRS
+Translation: After some time, the young persons from the relatives and the village came together, bandaged their hands and while they took them out to kill them, the boy said: "Why are you taking us out to kill us without knowing anything?!

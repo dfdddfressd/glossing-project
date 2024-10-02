@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bik’a.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bik’a
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bik’a:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža kaɣat t’et’erno łiynosi, łˤoran xexza nesiqor eƛin, eli łˤonon bik’a yoł debez halmaɣ Tawadidäɣor.
+Gloss: DEM1.SG letter read-PFV.CVB end-ANT.CVB three.OBL-TOP children DEM1.ISG.OBL-POSS.LAT say-PST.UNW we three-TOP I.PL-go-INF be you-GEN2 friend Tavadi-APUD.VERS
+Translation: When he finished reading the letter, his three children said to him: "We three will go to your friend Tavadi.
+Sentence: Nedur resunäyƛin, - eƛin eženi esiya, - eli łˤonon xander bik’a bay - ele howlo räy łu mesed bäsrułiƛin”.
+Gloss: so IV-turn.up-CNDCVB-QUOT - say-PSTUNW old-DEF brother-ERG - we three-and khan-APUD.LAT I.PL-go-INF I.PL-must - there there IV-know.FUTIND who.ERG gold III-take-MSD-QUOT
+Translation: "If it turns out this way," said the eldest brother, "we three must go to the king -- there it will be known who has taken the gold."
+Sentence: Elaɣor yizi gamiƛ’no zown, raładno boɣno bik’a bayx zown.
+Gloss: here-IN.VERS DEM2.IPL boat-SUPER.ESS-TOP ride-PFV.CVB sea-TOP III-cross-PFV.CVB I.PL-go-INF I.PL-come-IPFV.CVB be.NPRS-PST.UNW
+Translation: They came back in a boat to cross the sea.
+
+Approximate Matches:
+Sentence: Mamalayä nełar t’ok’ow bik’ač’inƛin rexuxanusi rožin teƛno, nece bayn čerayzaƛ’ onoča ža idur begirno.
+Gloss: rooster-ERG DEM1.IISG.OBL-LAT anymore III-go-NEG.FUT.DEF-QUOT IV-die-NEG.PRS.PRT word-TOP give-PFV.CVB so.much III-come-PFV.CVB beg-CSL.CVB hen-ERG DEM1.SG home-LAT III-let-PST.UNW
+Translation: The rooster gave his word, that he would not go to her anymore, and since he begged so much, the hen let him home.
+Sentence: Žan šušin q’ulhu bet’unosi, žedus xabar boqno bełiƛ’ bik’anƛin.
+Gloss: DEM1.SG-TOP bury-PFV.CVB funeral.feast III-stay.behind-ANT.CVB DEM1.IPL.OBL-GEN1 story III-become-PFV.CVB hunting-SUPER.ESS I.PL-go-FUT.DEF-QUOT
+Translation: After they burried him and the funeral feast was over, their plan was: "We'll go hunting."
+Sentence: Xizyo neła eƛin, bik’anon bik’in debi mi mec bitir nesizoq, riya rodanixgon nesis hibon bisno däqor baƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG say-PST.UNW III-go-INF-TOP III-go-PFV.CVB you-GEN1 you tongue III-touch DEM1.ISG.OBL-ATTR.OBL-POSS.ESS IV-know-INF IV-do-MSD-AD.ESS-CNTR DEM1.ISG.OBL-GEN1 stick-TOP III-take-PFV.CVB me-POSS.LAT III-bring.IMP-QUOT
+Translation: Then she said: "Go, go, and touch his tongue with yours, and take his stick and bring it to me so I can mark it."

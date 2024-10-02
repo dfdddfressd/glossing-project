@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word moƛa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word moƛa: 
+
+Exact Matches
+Sentence: C’ik’iw moƛa bisnosi, geres ħosno bisno Qartayä ɣoɣorik’anix pečma teł ʕamoƛ’ erno.
+Gloss: all sleep I.PL-take-ANT.CVB iron-GEN1 stick-TOP III-take-PFV.CVB Qartay-ERG make.red.hot-MSD-AD.ESS oven-IN.ESS inside coal-SUPER.ESS put-PST.UNW
+Translation: After everyone went to sleep, Qartay took an iron stick and put it on some coals inside the oven to make it red-hot.
+Sentence: Gulu bišan begirno puƛ’or ʕoƛ’unosi, yeda moƛa iqirxo.
+Gloss: horse III-eat-FUT.CVB III-let-PFV.CVB side-SUPER.LAT fall-ANT.CVB DEM2.ISG sleep-ERG take.away-PRS
+Translation: He let the horse eat, fell onto the side and the sleep took him away.
+Sentence: Elorgon yeda moƛa iqirno.
+Gloss: there-LAT-CNTR DEM2.ISG sleep-ERG take.away-PST.UNW
+Translation: There the sleep took him away.
+
+Approximate Matches:

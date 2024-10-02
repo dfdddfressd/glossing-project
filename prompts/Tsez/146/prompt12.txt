@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: besun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": besun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word besun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.
+Sentence: Eloza bezu-bˤoƛ’unosi, zirur boƛik’u bac’äsi ƛeles q’ulaʕi besun.
+Gloss: there-ZA III-examine-ANT.CVB fox-LAT half III-eat-RES.PRT lamb-GEN1 carcass III-find-PST.UNW
+Translation: When he looked around there, he found the carcass of a half-eaten lamb.
+
+Approximate Matches:
+Sentence: Xizyo žeda eƛin, nesä elo č’ʷadma čanya bicäsi zown besunäy, ela isʷa ricanƛin.
+Gloss: after DEM1.IPL-ERG say-PFV.CVB DEM1.ISG.OBL-ERG there ruin-IN.ESS she.goat III-follow-RES.PRT be.NPRS-PFV.CVB III-find-CND.CVB we(I).OBL-ERG bull-ERG IV-tie-FUT.DEF-QUOT
+Translation: Then they said that if he tied the she.goat to the family's house, we will tie a bull to it.
+Sentence: Xizyo mi däder horo debertown aq’ˤlu betin besunäyƛin, bełiqa xandäɣor uži egirno.
+Gloss: afterwards you me-APUD.LAT come.IMPR you-LAT-EMPH-TOP advice III-want-PFV.CVB III-appear-CND.CVB-QUOT hunter-ERG khan-APUD.VERS son send-PST.UNW
+Translation: Then come to me, in case you want some advice," and the hunter sent his son to the king.
+Sentence: Sasaqosi moƛaxay yizinosi, Bilq’isdä Allahqo harizi rodin, eli q’ˤanon debi laɣbi deber betixozołäysi besunäy, howt’otow elus ruħ boɣoƛin.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-ANT.CVB Bilqisdi-ERG God-POSS.ESS request IV-do-PST.UNW we two-TOP you-GEN1 slave-PL you-LAT I.PL-love-IPFV.CVB-ATTR.OBL-CONT.ABL-ATTR I.PL-appear-CND.CVB here-EMPH we(I).OBL-GEN1 soul III-take.away-IMPR-QUOT
+Translation: In the morning, when she got up from her sleep, Bilqisdi prayed to Allah: "If we two are not among the slaves you love, then take our souls right here!"

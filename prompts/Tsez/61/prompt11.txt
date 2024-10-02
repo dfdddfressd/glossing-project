@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: šebinƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": šebinƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word šebinƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yedu šebi nece bercinaw šebinƛin, yeda rešambi riqiranix c’oxno.
+Gloss: DEM2.IISG what so.much beautiful thing-QUOT DEM2.ISG ray-PL IV.PL-catch-MSD-AD.ESS hit-PST.UNW
+Translation: "What beautiful thing is this?!", he tried to catch the rays.
+Sentence: Užä guluq esirno, yedu šebi šebinƛin.
+Gloss: boy-ERG horse-POSS.ESS ask-PST.UNW DEM2.IISG what thing-QUOT
+Translation: The boy asked the horse: "What thing is that?!"
+
+Approximate Matches:
+Sentence: Šebi roqä yaqˤuł bełisno, debinƛin?”
+Gloss: what IV-happen-PST.WIT.INT today deer-GEN1-and you-GEN1-and-QUOT
+Translation: "What happened to the deer and you, today?"

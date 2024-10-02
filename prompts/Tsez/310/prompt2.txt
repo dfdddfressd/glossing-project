@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ragin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ragin: 
+
+Exact Matches
+Sentence: Zira hemedurtow idurno bik’in sadaq q’ut’uma yałru rił ragin łiyrno.
+Gloss: fox-ERG so-EMPH home-LAT-TOP III-go-PFV.CVB all earthen.jug-ERG be-PST.PRT butter IV-lick-PFV.CVB finish-PST.UNW
+Translation: So the fox went home and licked up all the butter that was in the earthen jug.
+Sentence: Užä ža ragin łiyrxo rukaynosi, bazarganä yeda xizor oxirno.
+Gloss: boy-ERG DEM1.SG IV-lick-PFV.CVB finish-IPFV.CVB IV-see-ANT.CVB merchant-ERG DEM2.ISG back chase-PST.UNW
+Translation: When he saw that the boy was eating it up, the merchant chased him.
+
+Approximate Matches:
+Sentence: Nesä hut’bi ragi-rac’xotow išanixno oqno ʕAt’idzo čanta yałru kinaw šebin łiyrno.
+Gloss: DEM1.ISG.OBL-ERG lip-PL IV-lick.up-IPFV.CVB-EMPH eat-MSD-AD.ESS-TOP begin-PFV.CVB Atid-GEN2 pocket-IN.ESS be-PST.PRT entire thing finish-PST.UNW
+Translation: Licking his lips, he began to eat and finished everything that was in Atid's pocket.
+Sentence: Din zows elo, nucin ragis, zerun ħaƛus, ruy mešok’labi taraw at’iłinč’u.
+Gloss: me-TOP be.NPRS-PST.WIT there honey-TOP IV-lick-PST.WIT bouza-TOP drink-PST.WIT IV-indeed moustache-PL except.for become.wet-NEG.PST.WIT
+Translation: I was there as well, I ate honey, I drank booze, and indeed only the moustaches got wet!
+Sentence: Kecnosi zira riłiqosi hut’-mˤali ragi-rac’ƛ’oräy, zeyä esirno:
+Gloss: sleep-ANT.CVB fox-ERG butter-POSS.ESS-ATTR front.part.of.the.face IV-lick.up-eat-SIM.CVB bear-ERG ask-PST.UNW
+Translation: After they went to sleep, the fox licked up butter from his face, and the bear asked:

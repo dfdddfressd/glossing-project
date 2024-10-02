@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yedugon.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yedugon
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yedugon:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yedugon łinarey bˤoƛ’us?
+Gloss: DEM2.IISG-CNTR why-DUB III-fall-PST.WIT
+Translation: "And why the heck has this fallen down?!
+Sentence: Yedugon łinarey rˤoƛ’us?
+Gloss: DEM2.IISG-CNTR why-DUB IV-fall-PST.WIT
+Translation: And why the heck has this fallen down?
+Sentence: Yedugon łinarey bˤoƛ’usƛin? - eƛin žoyä - ži bičas babiwz wasimoƛ’ req’unƛin”.
+Gloss: DEM2.IISG-CNTR why-DUB III-fall-PST.WIT-QUOT - say-PST.UNW boy-ERG - now III-be-FUT2 father-GEN2 testament-SUPER.ESS in.accordance.with-QUOT
+Translation: "Why the heck has this fallen down?", said the boy, "Now my father's will will be fulfilled."

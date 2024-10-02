@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bok’ełno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bok’ełno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bok’ełno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕOƛno ħonno xecin yizi bitaɣor bok’ełno.
+Gloss: seven mountain-TOP go.up-PFV.CVB DEM2.IPL distance-IN.VERS I.PL-escape-PST.UNW
+Translation: They went over seven mountains and escaped into the distance.
+Sentence: Dandi yizi huniƛxor k’oƛin bok’ełno, žedu zawza mečoƛ’ ža ɣunno rik’in c’oxno.
+Gloss: only DEM2.IPL way-SUB.LAT run-PFV.CVB I.PL-escape-PFV.CVB DEM1.IPL be.NPRS-LCV.CVB place-SUPER.ESS DEM1.SG tree-TOP IV-go-PFV.CVB hit-PST.UNW
+Translation: They had just gotten out of the way, and that tree hit the place where they had been.
+Sentence: Eɣenigon esiw ža biqiranƛin oqno, hemedurtow nesiqayn boxin bok’ełno.
+Gloss: young-DEF-CNTR brother DEM1.SG III-catch-FUT.CVB-QUOT begin-PFV.CVB so-EMPH DEM1.ISG.OBL-POSS.ABL-TOP III-run.away-PFV.CVB III-escape-PST.UNW
+Translation: The young brother tryed to catch it, and just as before it escaped and ran away from him.
+
+Approximate Matches:
+Sentence: Encetow bitaɣor bok’ełnosi, maħiq micxir t’aħiruni ɣˤʷayä yeda ƛ’irizoni dunyalƛ’aɣor izirno.
+Gloss: a.little-EMPH distance-IN.VERS I.PL-escape-ANT.CVB tail-POSS.ESS money tie-PST.PRT-DEF dog-ERG DEM2.ISG above-ATTR.OBL-DEF world-SUPER.VERS lift-PST.UNW
+Translation: After they had escaped into a little distance, the dog with the money tied to its tail lifted him into the upper world.
+Sentence: Wallaƛin, eƛin boc’ä, howža xanez bˤeƛ’eł zawru biƛurox aluk’ani bˤeƛ’q’ˤu yaqˤułer narƛa bok’ełnoƛin.
+Gloss: wallah-QUOT say-PFV.CVB wolf-ERG DEM4.SG khan-GEN2 sheep-CONT.ESS be.NPRS-PST.PRT belly-AD.ESS white-DEF sheep today-LAT where-INDEF III-escape-PST.UNW-QUOT
+Translation: "I swear," said the wolf, "the sheep with the white belly which was among the flock of sheep of that king there escaped somewhere today."

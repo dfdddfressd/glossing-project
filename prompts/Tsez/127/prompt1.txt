@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Eženi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Eženi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Eženi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"
+Sentence: Hudun ži ɣˤuruš neƛnäy sisgon bodan deber di ʕaq’luƛin razi oqno eženi.
+Gloss: nevertheless now ruble give-CND.CVB one-CNTR III-do-FUT.DEF you-LAT me advice-QUOT agree become-PST.UNW old-DEF
+Translation: "Nevertheless, if you give me a ruble, I'll give you another advice.", agreed the old man.
+Sentence: Eniya äƛiru rožbin rok’er ʕeze roqinč’ey, eženi užä eniwq q’ˤano magalun hunixor ererno, iday maħor oqno.
+Gloss: mother-ERG say-PST.PRT word-PL-TOP heart-LAT be.enough IV.PL-become-NEG.PST.CVB old-DEF son-ERG mother-POSS.ESS two bread-TOP way-AD.LAT put-CAUS-PFV.CVB home-IN.ABL outside become-PST.UNW
+Translation: The words that the mother had spoken didn't please his heart enough, so the oldest son let the mother give two breads to him for the way and left the home.
+
+Approximate Matches:
+Sentence: Žigoƛ’aygon xanes yeženi kidno yok’ek’no, xizor utin idur bežet’ani esnazaƛ’ay ader ayn.
+Gloss: now-SUPER.ABL-CNTR khan-GEN1 II-old-DEF daughter-TOP II-steal-PFV.CVB back return-PFV.CVB home-LAT I.PL-old-DISTR-DEF brother-PL-SUPER.ABL before come-PST.UNW
+Translation: And now he stole the king's oldest daughter and returned home before his older brothers.
+Sentence: Ozuri buqin bˤaɣˤizaƛ’or žedu neł kidbederno baynosi, yeženi esiyagon nesä bisno zawruni č’edosni q’ut’un łäs bic’no, kidbez haqan et’no, ža saɣ yodin.
+Gloss: eye III-close-PFV.CVB III-open-POST.CVB DEM1.IPL.OBL DEM1.IISG.OBL girl-APUD.LAT-TOP I.PL-come-ANT.CVB II-old-DEF brother-ERG-CNTR DEM1.ISG.OBL-ERG III-buy-PFV.CVB be.NPRS-PST.PRT-DEF clay-GEN1-DEF earthen.jug-and water-GEN1 III-fill-PFV.CVB girl-GEN2 mouth-IN.ESS-and pour-PFV.CVB DEM1.SG cure II-do-PST.UNW
+Translation: Before the wink of an eye, they arrived at the girl's; the elder brother filled the clay jug he bought with water, poured it into her mouth and cured her.
+Sentence: Howži yeda ža yičixozoni ʕaƛaɣorno ik’in, elo rukayru hič’č’a reženi ɣˤutkos ac yaɣˤiƛ’oräy, xan oƛixno maħor k’oƛin.
+Gloss: now DEM2.ISG DEM1.SG II-be-PRS-ATTR.OBL-DEF village-IN.VERS-TOP go-PFV.CVB there IV-see-PST.PRT the.most IV-big-DEF house-GEN1 door II-open-SIM.CVB khan appear-PFV.CVB outside run-PFV.CVB
+Translation: He dropped into the village, where that girl lived, and saw the big house. As he wanted to open the door, the khan appeared outside.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eluq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eluq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eluq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žedu nasin maħor boqnosi, reɣeni xaličan, beɣeni magalun bäqiruni nukarä xizyo yałruxor esin, anƛ’ima baħna-bik’inkin räqinč’iru eluq reƛ, hemesi dowzoniƛ’aygon rigu ɣˤutku yałruni užä neƛsi, debi xexbikin besač’iney žeduƛin.
+Gloss: DEM1.IPL all outside I.PL-become-ANT.CVB IV-small-DEF mat-and III-small-DEF bread-and I.PL-get-PST.PRT-DEF henchman-ERG afterwards be-PST.PRT-AD.LAT tell-PFV.CVB week-IN.ESS I.PL-walk.for.a.while-PFV.CVB-even IV-get-NEG.FUT.CVB-PST.PRT we(I).OBL-POSS.ESS meat DEM4.ISG.OBL you-GEN2-DEF-SUPER.ABL-CNTR IV-pretty house be-PST.PRT-DEF boy-ERG give-PST.WIT you-GEN1 children-even I.PL-exist-NEG.FUT.DEF-DUB DEM1.IPL-QUOT
+Translation: After they all went outside, the henchman who got the small mat and the small bread afterwards told him: "We were walking for a week and this boy with the house even prettier than yours gave us the meat that we didn't get; they even might be your children."
+Sentence: Idur xediw ayrun baru daʕba boda c’oxno, ɣudi adäy eluq mešori bexada bayx, šidaƛin eƛiłiri nełqay didiwnkin mumpaʕat anu, ʕadada käkirułi gurow.
+Gloss: home-LAT husband come-IMM.ANT.CVB wife dispute III-do-INF meet-PFV.CVB day earlier we(I).OBL-POSS.ESS heifer III-slaughter-INF III-must-IPFV.CVB why-QUOT say-CND.CVB.IRR DEM1.IISG.OBL-POSS.ABL which-TOP-even benefit be.NEG to.no.purpose feed-MSD except
+Translation: As soon as the husband had come home, the wife started to insist: "Soon this day we have to slaughter the heifer, because there's no benefit whatsoever from it except for feeding [it] in vain."
+Sentence: Ɣedu biqiranƛin bik’inƛax žedu, mark’ač’uxar xizor butin bayn, eluq ɣedu biqinč’uƛin.
+Gloss: shade III-take.away-FUT.DEF-QUOT I.PL-go-PFV.CVB-QUOT DEM1.IPL twilight-AD.VERS back I.PL-turn.back-PFV.CVB I.PL-come-PFV.CVB we(I).OBL-POSS.ESS shade III-get-NEG.PST.WIT-QUOT
+Translation: "We will take the shadow", and they went on and came back in the twilight: "We didn't get the shadow."
+
+Approximate Matches:

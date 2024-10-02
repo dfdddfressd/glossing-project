@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bodin using Leipzig glossing symbols. The sentence this word is drawn from means: "The boy gave the shepherds who had found him a big present and sent them back.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bodin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bodin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neł zamanał bełiqanä eƛin, howła purqay ħalkiłiƛ’aɣor ok’łace sabru bodin bičiƛin.
+Gloss: DEM1.IISG.OBL time-CONT.ESS hunter-ERG say-PST.UNW DEM3.IISG.OBL field-POSS.ABL relaxation-SUPER.VERS go.away-TERM patience III-do-PFV.CVB III-wait-QUOT
+Translation: That time the hunter said: "Wait in patience until I go away to relax from that field."
+Sentence: Aħozä c’aq’ xal bodin zown, nar ža čanya gugixƛin.
+Gloss: shepherd-ERG much examination III-do-PFV.CVB be.NPRS-PST.UNW where DEM1.SG she.goat escape-PRS-QUOT
+Translation: The shepherd examined closely, where this goat escaped to.
+Sentence: Sasaqtow izin žoyä ros bič’anix bašla bodin.
+Gloss: in.the.morning-EMPH get.up-PFV.CVB boy-ERG base III-dig-MSD-AD.ESS begin III-do-PST.UNW
+Translation: In the morning the boy got up and began to dig the base.
+
+Approximate Matches:
+Sentence: Hudun meža di berten bodinč’ey xecinč’u.
+Gloss: nevertheless you(I).PL.OBL-ERG me marriage III-do-NEG.PST.CVB leave-NEG.PST.WIT
+Translation: "Nevertheless you all didn't let me *not* have a marriage.
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"
+Sentence: Howži yizi esnaza ħukmu bodin, yisi užä elur kumak bodinč’us yołi, yiła ƛˤoreł eli beɣa zows, horo ela yisix elus esiy yegiranƛin.
+Gloss: now DEM2.IPL.OBL brother-PL-ERG decision III-do-PST.UNW DEM2.ISG.OBL boy-ERG we(I).OBL-LAT help III-do-NEG.PST.WIT-ATTR if DEM2.IISG.OBL war-CONT.ESS we I.PL-be.defeated-INF be.NPRS-PST.WIT come.IMPR we(I).OBL-ERG DEM2.ISG.OBL-AD.ESS we(I).OBL-GEN1 sister II-send-FUT.DEF-QUOT
+Translation: Now those brothers came to a decision: "If that boy hadn't helped us, we would have been defeated in that war; so come, let's marry off our sister to him!"

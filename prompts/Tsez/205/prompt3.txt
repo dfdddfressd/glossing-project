@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: c’idaɣor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": c’idaɣor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word c’idaɣor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ele hoboda debi mi eɣʷedin et’no biqiräsi micxir boqzaƛ’, c’idaɣor kura baynč’iƛin, eƛin babiya, užä nesä nesir micxir boda oqsiƛin rok’u č’eze roqnosi.
+Gloss: there that you-GEN1 you sweat-TOP pour-PFV.CVB III-win-RES.PRT money III-become-CSL.CVB fire-APUD.VERS throw-INF III-must-NEG.FUT-QUOT say-PFV.CVB dad-ERG boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT money III-do-INF begin-PST.WIT-QUOT heart convinced[?] IV-become-ANT.CVB
+Translation: "There, because it's the money you earned with your own sweat, I don't have to throw it into the fire.", said the father, and was convinced that his son earned money for himself.
+Sentence: Xizaɣor, hudun nełar riyx babiya užiqay bisxot’a micxir c’idaɣor kurxosi yałrułi.
+Gloss: finally nevertheless DEM1.IISG.OBL-LAT IV-know-PRS dad-ERG boy-POSS.ABL III-take-IPFV.CVB-DISTR money fire-APUD.VERS throw-PRS.PRT be-MSD
+Translation: Nevertheless she finally found out that the father was throwing the money that the boy earned into the fire.
+Sentence: Babiyagon nesiqayn bisno, ža micxir c’idaɣor kurno.
+Gloss: dad-ERG-CNTR DEM1.ISG.OBL-POSS.ABL-TOP III-take-PFV.CVB DEM1.SG money fire-APUD.VERS throw-PST.UNW
+Translation: The father than took the money from him and threw it into the fire.
+
+Approximate Matches:
+Sentence: Neširu xanä elo nasin sidaɣor butirnosi, xanä eƛin, di łi ħaƛuxosi t’akan sasaqor howt’or yayäru žek’ux kid yegira yołƛin.
+Gloss: evening khan-ERG there all one.OBL-IN.VERS I.PL-gather-ANT.CVB khan-ERG say-PFV.CVB me water drink-PRS.PRT glass tomorrow-POSS.LAT here-LAT II-bring-PST.PRT man-AD.ESS daughter II-send-INF be-QUOT
+Translation: In the evening the king gather everyone together and said: "I will marry my daughter off to the man who can bring my water-drinking-glass here tomorrow!"
+Sentence: Elo ƛirbałix sida ɣˤanazader keze oqnosi, yisir neł ʕaƛnos xalq’i sidaɣor butäsi bukayn.
+Gloss: there hospitality-AD.ESS one.OBL woman-APUD.LAT meet become-ANT.CVB DEM2.ISG.OBL-LAT DEM1.IISG.OBL village-and-GEN1 people one.OBL-IN.VERS III-turn-RES.PRT III-see-PST.UNW
+Translation: When he became the guest of a woman there, he saw the people of the village gathering in some place.
+Sentence: Sidaquł yisä nesiz xanłiƛ’osi nasin ʕoloqbi sidaɣor butirno, yołä mežuł teł yiła guluƛ’ zowanix bažari yołäsi žek’uƛin esirnosi, nasin p’es anusi wˤałer q’ˤimbin kurno bičin.
+Gloss: one.day DEM2.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 khanate-SUPER.ESS-ATTR all young.person-PL one.OBL-IN.VERS I.PL-gather-PFV.CVB be-Q you(I).PL.OBL-CONT.ESS inside DEM2.IISG.OBL horse-SUPER.ESS ride-MSD-AD.ESS skill be-RES.PRT man-QUOT ask-ANT.CVB all sound be.NEG-ATTR downward-LAT head-PL-TOP throw-PFV.CVB I.PL-be-PST.UNW
+Translation: One day he let all young men of his own kingdom come together and asked who among them would be the one that had the skill to ride that horse, all were silent and kept their heads down.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣˤanaza.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣˤanaza
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣˤanaza:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕAƛoz ɣˤanaza nediw šebin radinč’iƛin, eƛin xanä.
+Gloss: village-GEN2 woman-ERG such thing IV-do-NEG.FUT-QUOT say-PST.UNW khan-ERG
+Translation: "The village's woman wouldn't do such a thing," said the king.
+Sentence: Mix bik’äsi zamanno boqzaƛ’, yiła ɣˤanaza yeda neła nełdäɣor ƛirbałix ižix.
+Gloss: time III-go-RES.PRT time-TOP III-become-CSL.CVB DEM2.IISG.OBL woman-ERG DEM2.ISG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-APUD.VERS hospitality-AD.ESS lead-PRS
+Translation: Because some time had passed, that woman let him be her guest.
+Sentence: Xizor utin yeda uži raładyoz raʕalłixor aynosi, yoƛixno łäłäzay neła ɣˤanaza esirno, šebi roqä däz esiws užiƛin.
+Gloss: back turn.back-PFV.CVB DEM2.ISG boy sea-GEN2 edge-AD.LAT come-ANT.CVB II-appear-PFV.CVB water-CONT.ABL.DIST DEM1.IISG.OBL woman-ERG ask-PST.UNW what IV-happen-PST.WIT.INT me-GEN2 sister-GEN1 boy-QUOT
+Translation: When the boy went back and came to the edge of the sea, that woman appeared out of the water again and asked: "What happened, my nephew?"
+
+Approximate Matches:
+Sentence: Neł ɣˤanazar uži odin.
+Gloss: DEM1.IISG.OBL woman-LAT son do-PST.UNW
+Translation: A son was born to the woman.
+Sentence: Ismaʕilä eƛin, där moƛał yukayru kid yiqizaƛ’or, di ɣˤanazaq reƛ’a atixosi anuƛin.
+Gloss: Ismail-ERG say-PST.UNW me-LAT dream-CONT.ESS II-see-PST.PRT girl II-get-POST.CVB me woman-POSS.ESS hand touch-PRS.PRT be.NEG-QUOT
+Translation: Ismail said: "Until I get the girl that I saw in my dream, I will not lay hand on any woman."
+Sentence: Lamusyoq esinč’eyn ičin, xizyo nesän esin, sida bercinaw ɣˤanazar di rek’ bodäsi zows, däx horoƛin di eƛinosi, dey xediw yołƛin neła där roži neƛinč’izaƛ’.
+Gloss: shame-POSS.ESS tell-NEG.PST.CVB-and be-PFV.CVB afterwards DEM1.ISG.OBL-ERG-TOP tell-PST.UNW one.OBL beautiful woman-LAT me trick III-do-RES.PRT be.NPRS-PST.WIT me-AD.ESS come.IMPR-QUOT me say-ANT.CVB me-GEN1 husband be-QUOT DEM1.IISG.OBL-ERG me-LAT word give-NEG.FUT.CVB-CSL.CVB
+Translation: He was too ashamed to tell, but then he told: "I played a trick on one beautiful woman, because she said she already had a husband and didn't give me her word when I asked her to marry me.

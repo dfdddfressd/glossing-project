@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mołix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mołix: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Din siħrus ʕilmu mołixosi yoł, retinäy dädertow egirƛin, eƛin Ox̌oyä.
+Gloss: me-TOP slyness-GEN1 science teach-PRS.PRT be IV-want-CND.CVB me-APUD.LAT-EMPH send-QUOT say-PST.UNW Ohoyo-ERG
+Translation: "I am also teaching the science of slyness; if you want, send him to me!", said Ohoyo.
+Sentence: Yeda ʕaq’lu mołixozo ečruni žek’uder aynosi, ža zikru eƛix esun.
+Gloss: DEM2.ISG advice teach-PRS.PRT.OBL old-DEF man-APUD.LAT come-ANT.CVB DEM1.SG religious.recitation say-IPFV.CVB find-PST.UNW
+Translation: When he came to the old man who was to teach the advice, he found him reciting religious chants.

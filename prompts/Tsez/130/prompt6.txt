@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yukaynč’uƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yukaynč’uƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yukaynč’uƛin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Žan hemedurtow kecnon ičin, sasaqosi babiwderno nexno eƛin, där c’ohor ukaynč’uƛin.
+Gloss: DEM1.SG-TOP so-EMPH sleep-PFV.CVB-TOP remain-PFV.CVB in.the.morning father-APUD.LAT-TOP come-PFV.CVB say-PFV.CVB me-LAT thief see-NEG.PST.WIT-QUOT
+Translation: He also fell asleep and came in the morning to his father and said, "I did not see the thief."
+Sentence: Xizyo sasaqosi babiwderno ayn eƛin, där siskin šebin rukaynč’uƛin.
+Gloss: afterwards in.the.morning father-APUD.LAT-TOP come-PFV.CVB say-PFV.CVB me-LAT any thing IV-see-NEG.PST.WIT-QUOT
+Translation: Then in the morning he came back to his father and said that he did not see anything.
+Sentence: Dey ħumukuli bukaynč’uƛinno eƛix meža, nełas c’ik’iw sipatno esix.
+Gloss: me-GEN1 camel III-see-NEG.PST.WIT-QUOT-TOP say-IPFV.CVB you(I).PL.OBL-ERG DEM1.IISG.OBL-GEN1 entire appearance-TOP tell-PRS
+Translation: "You say that you haven't seen my camel, and you tell me its entire appearance.

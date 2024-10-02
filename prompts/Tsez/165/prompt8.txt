@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ʕAliqiličä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ʕAliqiličä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ʕAliqiličä:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ʕAliqiličä nełaz c’eruc’a caƛin.
+Gloss: Aliqilich-ERG DEM1.IISG.OBL-GEN2 bow throw-PST.UNW
+Translation: Aliqilich shot with his bow.
+Sentence: Howži yisi ʕAliqiličä yiziqor eƛin:
+Gloss: now DEM2.ISG.OBL Aliqilich-ERG DEM2.IPL.OBL-POSS.LAT say-PST.UNW
+Translation: Now Aliqilich said to them:
+Sentence: Izin äk’iru ʕAliqiličä yołi aħyan rˤołun, bašiqno rixintow aždaħes q’ˤim rayrno.
+Gloss: get.up-PFV.CVB go-PST.PRT Aliqilich-ERG however ear-and drill-PFV.CVB finger-POSS.ESS-and IV-hang-PFV.CVB-EMPH dragon-GEN1 head IV-bring-PST.UNW
+Translation: Aliqilich, who got up and came, pierced its ear, and brought the dragon's head on one finger.

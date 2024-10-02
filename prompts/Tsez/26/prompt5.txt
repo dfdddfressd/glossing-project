@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: t’ayƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": t’ayƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word t’ayƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyo neła esirno, ya heneš, yagi geni bet’uriyä mi t’ayƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG ask-PST.UNW either apple or pear III-pull.out-PST.WIT.Q you from.here-QUOT
+Translation: Afterwards she asked: "Have you plucked an apple or a pear from here?"
+Sentence: Xaner šebi yałru iyač’iniƛäy mi dey q’ˤimno reč’o, iyos orezni boqnosi min ok’äł t’ayƛin, xizyo nesiqor amanat bodin, mi dey q’ˤimno ruqˤo, yeɣeni esiwqno rukarno, nagaħ dey laga debeq biqinäy, q’ˤimde sadaq buyn šušoƛin.
+Gloss: khan-LAT who be-PST.PRT know-INF-NEG.FUT-PURP.CVB you me-GEN1 head-TOP IV-cut-IMPR blood-GEN1 pond III-become-ANT.CVB you-TOP escape from.here-QUOT afterwards DEM1.ISG.OBL-POSS.LAT order III-do-PFV.CVB you me-GEN1 head-TOP IV-hide-IMPR II-young-DEF sister-POSS.ESS-TOP IV-show-PROHIB suppose me-GEN1 body you-POSS.ESS III-get-CND.CVB head-APUD.ESS together III-indeed-TOP bury-IMPR-QUOT
+Translation: For the king won't know who it was, cut off my head and escape from there after there is a large pool of blood!"; then he gave him the order: "And hide my head, don't show it to our little sister, if you can get my body, bury it together with my head."
+
+Approximate Matches:
+Sentence: Tełerno ik’in babiwqno, kidbeqno esirno yisä, mežur di ukayyä žigoƛ’ayƛin.
+Gloss: into-TOP go-PFV.CVB father-POSS.ESS-TOP daughter-POSS.ESS-TOP ask-PFV.CVB DEM2.ISG.OBL-ERG you(I).PL.OBL-LAT me see-Q again-SUPER.ABL-QUOT
+Translation: He went into the house and asked the father and the daughter, " Did you see me again?"

@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yegirxo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yegirxo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yegirxo:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanä ža maħortow yegirxo zownanu.
+Gloss: khan-ERG DEM1.SG outside-EMPH II-let-IPFV.CVB be.NPRS-PST.UNW-NEG
+Translation: The king didn't let her go outside.
+Sentence: Yizä yedu iday maħortow yegirxo zown anu.
+Gloss: DEM2.IPL.OBL-ERG DEM2.IISG home-IN.ABL outside-EMPH II-let-IPFV.CVB be.NPRS-PFV.CVB be.NEG
+Translation: They didn't let her out of the house.
+
+Approximate Matches:
+Sentence: Hemeła zamanał ʕaƛa xabar boƛixno, qalamez ƛ’ˤuƛ’or gulun bizirno, elay kid yok’ek’a k’ʷeze yaqru žek’ux xanä ža yegirxoƛin.
+Gloss: DEM4.IISG.OBL time-CONT.ESS village-IN.ESS story III-appear-PST.UNW fortress-GEN2 roof-SUPER.LAT horse-TOP III-lift-PFV.CVB there-IN.ABL daughter II-remove-INF can II-become-PST.PRT man-AD.ESS khan-ERG DEM1.SG II-send-PRS-QUOT
+Translation: At some time, a rumor appeared in the village: The king would marry off his daughter to the man who is able to lift a horse onto the roof of his fortress and to steal his daughter from there.
+Sentence: Di dowdäɣor nexƛ’oräy, madazax zawruni ʕoloqza žeda žeduqor eƛix, Ražbadinłäy baħarčiƛinä eƛan, nesä nesix yižixosi baħaray šebi eƛa äynč’iru qazaqxo yegirxoƛin.
+Gloss: me you-APUD.VERS come-SIM.CVB yard-PL-AD.ESS be.NPRS-PST.PRT-DEF young.person-PL-ERG DEM1.IPL.OBL-ERG DEM1.IPL.OBL-POSS.LAT say-PRS Razhbadin-CONT.ABL brave.young.man-QUOT-Q say-FUT.DEF DEM1.ISG.OBL-ERG DEM1.ISG.OBL-AD.ESS II-lead-PRS.PRT fiancée what say-INF know-NEG.FUT.CVB-PST.PRT Georgian-AD.ESS II-send-PRS-QUOT
+Translation: When I came to you, the young people who were in their yards, were saying to each other: "Razhbadin is a brave young man, to send the bride he was to marry to an unknown Georgian."
+Sentence: Xizyo yisä eƛin, yedu dey baħaray meža šida xedyox yegirxoƛin.
+Gloss: afterwards DEM2.ISG.OBL-ERG say-PST.UNW DEM2.IISG me-GEN1 fiancée you(I).PL.OBL-ERG why husband-AD.ESS II-send-PRS-QUOT
+Translation: Afterwards he said: "Why do you marry off my fiancee to another husband?"

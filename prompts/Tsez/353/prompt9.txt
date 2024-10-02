@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hemediw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hemediw: 
+
+Exact Matches
+Sentence: Idur aynosi yisä esin, hemediw šebin roqno di kid xäciza mečoƛ’ƛin.
+Gloss: home-LAT come-ANT.CVB DEM2.ISG.OBL-ERG tell-PST.UNW such.a thing IV-happen-PFV.CVB me daughter leave-LCV place-SUPER.ESS-QUOT
+Translation: When he came home, he told: "Such a thing has happened on the place where I left my daughter."
+Sentence: Howlaytow yizi q’orolader k’oƛin, hemediw xabar elur teqsiƛin esanix.
+Gloss: then-EMPH DEM2.IPL widow-APUD.LAT run-PST.UNW such.a story we(I).OBL-LAT hear-PST.WIT-QUOT tell-MSD-AD.ESS
+Translation: Right then they ran to the widow to tell her: "We have heard such a story."
+Sentence: Neside sadaqosin nesä łiboƛ’ beɣurxo zown, hemediw q’uwataw uži oqxo zown ža.
+Gloss: DEM1.ISG.OBL-APUD.ESS with-ATTR-TOP DEM1.ISG.OBL-ERG wrestling-SUPER.ESS I.PL-be.defeated-CAUS-IPFV.CVB be.NPRS-PFV.CVB such.a strong boy become-IPFV.CVB be.NPRS-PST.UNW DEM1.SG
+Translation: He defeated all his peers in wrestling, and became such a strong boy.
+
+Approximate Matches:
+Sentence: Xizyogon hemediwtow roži yołäsi qˤaƛu teqno yisir, eženiz mada reže ɣun yoł, nesä mi ža ɣun reč’anix egär.
+Gloss: then such.a-EMPH word be-RES.PRT shout hear-PFV.CVB DEM2.ISG.OBL-LAT old-DEF-GEN2 yard-IN.ESS IV-big tree be DEM1.ISG.OBL-ERG you DEM1.SG tree IV-cut-MSD-AD.ESS send
+Translation: Then he heard a shout from the same voice: "In the old man's yard is a big tree, he will send you to chop that tree down.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word exursi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word exursi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elus xan exursiƛin, ozno, xalq’in roxin rik’iƛ’oräy, sidaɣaza puƛ’azar Ismaʕil k’oƛin, sidaɣazar ʕArabuzan yoqno nasin ahli dandirno butirno, xanłun ʕArabuzanno xecin, Ismaʕilgon wizirłunno ičin.
+Gloss: we(I).OBL-GEN1 khan kill-PST.WIT-QUOT army-and people-and III.PL-run.away-PFV.CVB III.PL-go-SIM.CVB in.one.place-IN.VERS.DIST side-SUPER.LAT.DIST Ismail run-PFV.CVB in.one.place-IN.LAT.DIST Arabuzan II-become-PFV.CVB all people together-TOP III-gather-PFV.CVB khan-LHUN Arabuzan-TOP leave-PFV.CVB Ismail-CNTR vizier-LHUN-TOP be-PST.UNW
+Translation: "They killed our king!", the army and the people ran away and at the same time, Ismail ran to one side, and Arabuzan ran to the other side, and they gathered all the people together and Arabuzan was elected king/queen and Ismail became vizier.
+Sentence: Bik’anon bik’in, xexoyä eniwq esin, yaqˤuł sida aħozä elus tušman bexursiƛin.
+Gloss: III-go-INF-TOP III-go-PFV.CVB young.animal-ERG mother-POSS.ESS tell-PST.UNW today one.OBL shepherd-ERG we(I).OBL-GEN1 enemy III-kill-PST.WIT-QUOT
+Translation: The rabbit's young went and told its mother: "Today a shepherd has killed our enemy."
+Sentence: ʕAƛaza ec’no xabar šebiƛin yisä esirnosi, sida maduhalä esin, xanez yeɣeni kidbeƛäy bitor sidä sis esnabi bexursiƛin.
+Gloss: village-IN.VERS.DIST new story what-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB one.OBL neighbor-ERG tell-PST.UNW khan-GEN2 II-young-DEF daughter-SUB.ABL because.of one.OBL-Q one brother-PL I.PL-kill-PST.WIT-QUOT
+Translation: When he asked: "What's new in the village?", a neighbor told: "The brothers killed each other because of the king's youngest daughter."

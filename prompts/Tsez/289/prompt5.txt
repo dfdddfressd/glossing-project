@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word izixozosno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word izixozosno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: "Deyn hemesi pulanaw etixozosno q’ut’i boqäsi zowsƛin:
+Gloss: me-GEN1-and DEM4.ISG.OBL some lover-GEN1-and agreement III-become-RES.PRT be.NPRS-PST.WIT-QUOT
+Translation: 'I have a lover's agreement, which went like this:

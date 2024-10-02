@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boc’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boc’in: 
+
+Exact Matches
+Sentence: Hemedur hunix ik’iƛ’orey, boxin bik’ixosi ziru yisił c’oxno, nełałgon xizay k’oƛin nexxo łˤono boc’in yołƛax.
+Gloss: so way-AD.ESS go-SIM.CVB III-run.away-PFV.CVB III-go-PRS.PRT fox DEM2.ISG.OBL-CONT.ESS hit-PFV.CVB DEM1.IISG.OBL-CONT.ESS-CNTR behind run-PFV.CVB come-IPFV.CVB three wolf-TOP be-QUOT
+Translation: While he was on his way like that, he met a fox who was fleeing and behind it three wolves came running.
+Sentence: Zeyn, zirun, boc’in elo sasaqorno ričin, qˤašiƛ’aɣor roqno rik’in.
+Gloss: bear-and fox-and wolf-and there in.the.morning-POSS.LAT-TOP III.PL-wait-PFV.CVB dawn-SUPER.VERS III.PL-become-PFV.CVB III.PL-go-PST.UNW
+Translation: The bear, the fox and the wolf waited there until the morning and when it got dawn, they went away.
+Sentence: Hemeła qułtow mogolxo elo aɣˤuxor zeyn, zirun, boc’in rayn.
+Gloss: then day-CONT.ESS-EMPH granary-AD.ESS there mill-AD.LAT bear-and fox-and wolf-and IV.PL-come-PST.UNW
+Translation: The next day, a bear, a fox and a wolf came there to the mill at the granary.
+
+Approximate Matches:
+Sentence: Zewnoƛax oc’ino halmaɣ, ceyn, ɣʷˤadin, cek’eryon, elbon, onočun, mat’in, ʕomoyn, mešin, cek’in, ƛelin.
+Gloss: be.NPRS-PST.UNW-QUOT ten friend eagle-and crow-and sparrow-and pigeon-and hen-and duck-and donkey-and bull.calf-and goat.kid-and lamb-and
+Translation: Once there were ten friends: An eagle, a crow, a sparrow, a pigeon, a hen, a duck, a donkey, a bull calf, goat kid and a lamb.
+Sentence: Hemedur yeda zawzay, pandurya tełäzay q’ˤanoquno oc’ino łelaw, q’ˤanoquno oc’ino guluƛ’no zown saldatbi boƛixno.
+Gloss: so DEM2.ISG be.NPRS-SIM.CVB lute inside-IN.ABL.DIST forty-TOP ten by.foot forty-TOP ten horse-SUPER.ESS-TOP be.NPRS-PFV.CVB soldier-PL I.PL-appear-PST.UNW
+Translation: When he was like this, 50 soldiers by foot and 50 soldiers on horses appeared out of the lute.
+Sentence: Elo ɣeduƛ q’ˤida ičäsi yałzay, yisir taqˤaza oc’ino ħumukulin bown hemeł buħima nexxo oc’ino žek’u ukayn.
+Gloss: there shade-SUB.ESS under sit-RES.PRT be-SIM.CVB DEM2.ISG.OBL-LAT over.there-IN.VERS.DIST ten camel-TOP III-bring-PFV.CVB DEM4.IISG.OBL heat-IN.ESS come-IPFV.CVB ten man see-PST.UNW
+Translation: While he was sitting in the shade, he saw ten men with ten camels coming in the heat.

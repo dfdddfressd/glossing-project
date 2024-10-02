@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: aždaħä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": aždaħä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word aždaħä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sasaq qˤašizaƛ’or yiłzaqay rok’łinč’inäy, aždaħä meži rac’ƛin.
+Gloss: in.the.morning set.in-POST.CVB DEM2.IISG.OBL-ZA-POSS.ABL II.PL-escape-NEG.FUT-CND.CVB dragon-ERG you.PL II.PL-eat-QUOT
+Translation: When you don't leave this place before dawn, a dragon will eat you."
+Sentence: Ħusen ukayrun aždaħä eƛin, dowqo däz enda ɣˤul łox caƛin č’aq’ˤinäy, mi di boƛi begir, c’oxinč’inäy mi di ac’a yołƛin.
+Gloss: Hussein see-IMM.ANT.CVB dragon-ERG say-PST.UNW you-POSS.ESS me-GEN2 DEM3b.SG stone thrice throw-PFV.CVB hit-CND.CVB you me III-half III-break.apart-CAUS hit-NEG.FUT.CVB-CND.CVB you me eat-INF be-QUOT
+Translation: Right after he saw Hussein, the dragon said: "If you throw and hit me with this stone within three attempts, break me apart in the middle! If you don't hit me, I am going to eat you."
+Sentence: Yizi bukayrun, aždaħä zudäy roɣno ixiw riris ɣun yiził adäzar rayrno kurno.
+Gloss: DEM2.IPL I.PL-see-IMM.ANT.CVB dragon-ERG root-IN.ABL IV-take.away-PFV.CVB big alder-GEN1 tree DEM2.IPL.OBL-CONT.ESS before-IN.LAT IV-bring-PFV.CVB throw-PST.UNW
+Translation: When he saw them, the dragon tore out an alder tree from its roots and threw it before them.
+
+Approximate Matches:
+Sentence: Elus t’o raq’ˤu kidbabi łiyrsi yiła aždaħäƛin, - esin yiła.
+Gloss: we(I).OBL-GEN1 here II.PL-much daughter-PL finish-PST.WIT DEM2.IISG.OBL dragon-ERG-QUOT - tell-PST.UNW DEM2.IISG.OBL-ERG
+Translation: That dragon ate up many of our daughters", she said.

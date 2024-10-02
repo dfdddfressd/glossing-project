@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eqerno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eqerno: 
+
+Exact Matches
+Sentence: Yiłagon q’ˤanon xanes xexbi - užin, kidno k’emot’ya tełno eqerno, iħułxor kurno.
+Gloss: DEM2.IISG.OBL-CNTR two-TOP khan-GEN1 children - son-and daughter-and wooden.case-IN.ESS inside-TOP put-PFV.CVB river-CONT.VERS throw-PST.UNW
+Translation: But those two children of the king - the son and the daughter - she put into a wooden case and threw them into the river.
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.
+Sentence: Hunixor yisä łäs q’ˤano sikno eqerno, bišʷan erno, kumakyorgon, ħaƛirxo ik’anix, xizay k’oƛin yayn bara hibon teƛno.
+Gloss: way-AD.LAT DEM2.ISG.OBL-ERG water-ERG-GEN1 two waterskin-TOP put-PFV.CVB food-TOP put-PFV.CVB help-LAT-CNTR put-IPFV.CVB go-MSD-AD.ESS behind run-PFV.CVB II-come-PFV.CVB wife-ERG stick-TOP give-PST.UNW
+Translation: He put two waterskins onto the way, packed some food, and came running behind in order to go put(?), when his wife came running behind him and gave him a stick to go with, which he should put down for help.
+
+Approximate Matches:
+Sentence: Esnabi zawruni ɣˤutkoz madaxor xanä wazir egirno, žeda elo teł badiru xabarno teqerno xizyo nesiq esanix.
+Gloss: brother-PL be.NPRS-PST.PRT-DEF room-GEN2 gate-AD.LAT khan-ERG vizier send-PFV.CVB DEM1.IPL.OBL-ERG there inside I.PL-do-PST.PRT story-TOP aloud after DEM1.ISG.OBL-POSS.ESS tell-MSD-AD.ESS
+Translation: The king sent a vizier to the door of the room where the brothers were, to overhear their conversation and to tell him about it afterwards.
+Sentence: Nedur resunäy di raziyaw yołƛin, nesä esace teqerno ičin.
+Gloss: so IV-exist-CND.CVB me ready be-QUOT DEM1.ISG.OBL-ERG tell-TERM listen.to-PFV.CVB be-PST.UNW
+Translation: "If that's the case, I am ready.", and he listened until he told him.
+Sentence: Neła ža yižin idu eqernosi, acno serun nełde puħorno ik’in, royxosi šebinon royn, mi tełerno oqno ɣamas yexar, xizyo žeda ža q’ač’azi yodanixƛin elay xizor yegärƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG II-carry-PFV.CVB home put-ANT.CVB door-TOP unlock-PFV.CVB DEM1.IISG.OBL-APUD.ESS side-AD.LAT-TOP go-PFV.CVB IV-do-IPFV.CVB-ATTR something IV-do-PFV.CVB you to.the.inside-TOP become-PFV.CVB box II-kill afterwards DEM1.IPL.OBL-ERG DEM1.SG get.ready II-do-MSD-AD.ESS-QUOT there-IN.ABL back II-send-QUOT
+Translation: After she carried you inside, unlock the door, and go to her side, do what is to be done, go back inside and destroy the box; afterwards they will send it back to be repaired.

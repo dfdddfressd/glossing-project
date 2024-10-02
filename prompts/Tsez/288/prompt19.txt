@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qartayä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qartayä: 
+
+Exact Matches
+Sentence: Däq hemedur eƛin rok’łinč’us yołiƛin, eƛin qartayä, di mi aħirno, ešayn ac’a zowsƛin.
+Gloss: me-POSS.ESS so say-PST.UNW heart-NMLZ-NEG.PST.WIT-ATTR if-QUOT say-PST.UNW witch-ERG me you cook-CAUS-PFV.CVB bake-PFV.CVB eat-INF be.NPRS-PST.WIT-QUOT
+Translation: "If I hadn't said so," the with said, "I would've cooked, baked and eaten you!"
+
+Approximate Matches:
+Sentence: C’ik’iw moƛa bisnosi, geres ħosno bisno Qartayä ɣoɣorik’anix pečma teł ʕamoƛ’ erno.
+Gloss: all sleep I.PL-take-ANT.CVB iron-GEN1 stick-TOP III-take-PFV.CVB Qartay-ERG make.red.hot-MSD-AD.ESS oven-IN.ESS inside coal-SUPER.ESS put-PST.UNW
+Translation: After everyone went to sleep, Qartay took an iron stick and put it on some coals inside the oven to make it red-hot.
+Sentence: Waħ, šebi nesir roqnoƛin, Qartayä esirno.
+Gloss: whoa who DEM1.ISG.OBL-LAT IV-happen-PST.UNW-QUOT Qartay-ERG ask-PST.UNW
+Translation: "Oh, what happened with it?", said Qartay.
+Sentence: Elo q’ebedes užin xecin xizyo qartay ħadur yoqno yik’anix.
+Gloss: there smith-GEN1 son-TOP leave-PFV.CVB afterwards witch prepare II-become-PFV.CVB II-go-MSD-AD.ESS
+Translation: And the witch prepared to go away, leaving the smith's son there.

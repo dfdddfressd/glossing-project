@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word risinč’izaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word risinč’izaƛ: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Bara yisir ičin močitown xecinč’izaƛ’, xizyo yisä eƛin, ža esinäy, di äxuƛin.
+Gloss: wife-ERG DEM2.ISG.OBL-LAT be-PFV.CVB place-EMPH-TOP leave-NEG.FUT.CVB-CSL.CVB afterwards DEM2.ISG.OBL-ERG say-PST.UNW DEM1.SG tell-CND.CVB me die-QUOT
+Translation: Because the wife didn't leave him in peace, he then said: "If I tell you, you will die."
+Sentence: Nełaƛ’ razi oqinč’izaƛ’, tamiħyorƛin žeda howt’o iħuz lilyoxor kuräsiƛin, rok’u rexałxor iłe xabaryayn yeda.
+Gloss: DEM1.IISG.OBL-SUPER.ESS agree become-NEG.FUT.CVB-CSL.CVB punishment-LAT-QUOT DEM1.IPL.OBL-ERG here river-GEN2 river.bank-AD.LAT throw-RES.PRT-QUOT heart IV-die-INF-CONT.VERS as talk-PFV.CVB DEM2.ISG
+Translation: Because we couldn't come to an agreement, they throw me here onto the river bank as a punishment.", he talked to evoke sympathy.
+Sentence: Łoxnon łox nesä nełaz ɣˤul caƛin, sosikin c’oxinč’izaƛ’, aždaħä Ħusen gulunnantow sadaq igin kurno.
+Gloss: thrice-INT thrice DEM1.ISG.OBL-ERG DEM1.IISG.OBL-GEN2 stone throw-PFV.CVB at.first-even hit-NEG.FUT.CVB-CSL.CVB dragon-ERG Hussein horse-TOP-INT-EMPH together swallow-PFV.CVB throw-PST.UNW
+Translation: Three times in a row he threw the stone at it and because he didn't hit it, the dragon swallowed Hussein along with his horse.

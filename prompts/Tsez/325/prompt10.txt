@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roqinč’inäyƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roqinč’inäyƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Way dey užiƛin, regin babiwq, howži deber žukkin roqinč’inäy, di eƛix zownč’a dowqor neła aɣis tupi caƛinƛin.
+Gloss: o.dear me-GEN1 son-QUOT IV-be.emitted-PFV.CVB father-POSS.ESS now you-LAT worse-even IV-become-NEG.FUT.CVB-CND.CVB me say-IPFV.CVB be.NPRS-NEG.PST.WIT-PST.WIT.INT you-POSS.LAT DEM1.IISG.OBL bird-GEN1 rifle shoot.with-PROHIB-QUOT
+Translation: "Oh dear, my son!", said the father, "Have I not warned you that it would become bad for you now, if you shoot that bird with your rifle?"

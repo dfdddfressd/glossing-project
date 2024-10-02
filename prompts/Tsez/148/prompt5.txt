@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nesän.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nesän
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nesän:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yisisgon šeƛ’u nesän šeƛ’un, aħon iħuz lilyox ičin.
+Gloss: DEM2.ISG.OBL-GEN1-CNTR clothing DEM1.ISG.OBL-ERG-TOP put.on-PFV.CVB shepherd-TOP river-GEN2 river.bank-AD.ESS wait-PST.UNW
+Translation: And the shepherd put on his clothings and waited at the river bank.
+Sentence: Xizyo xedya esin bazarganzan nesän roƛo räsrułäy.
+Gloss: afterwards husband-ERG tell-PST.UNW merchant-PL-ERG-and DEM1.ISG.OBL-ERG-and IV-middle IV-take-PST.PRT-CONT.ABL
+Translation: Then the husband told of what was between the merchants and himself.
+Sentence: Lamusyoq esinč’eyn ičin, xizyo nesän esin, sida bercinaw ɣˤanazar di rek’ bodäsi zows, däx horoƛin di eƛinosi, dey xediw yołƛin neła där roži neƛinč’izaƛ’.
+Gloss: shame-POSS.ESS tell-NEG.PST.CVB-and be-PFV.CVB afterwards DEM1.ISG.OBL-ERG-TOP tell-PST.UNW one.OBL beautiful woman-LAT me trick III-do-RES.PRT be.NPRS-PST.WIT me-AD.ESS come.IMPR-QUOT me say-ANT.CVB me-GEN1 husband be-QUOT DEM1.IISG.OBL-ERG me-LAT word give-NEG.FUT.CVB-CSL.CVB
+Translation: He was too ashamed to tell, but then he told: "I played a trick on one beautiful woman, because she said she already had a husband and didn't give me her word when I asked her to marry me.
+
+Approximate Matches:
+Sentence: Xizyo nesä kinaw raqru šebinon esin, xaner nesäq nesä łi ħaƛuxosini t’akan yetinƛin esirno.
+Gloss: afterwards DEM1.ISG.OBL-ERG entire IV-happen-PST.PRT something tell-PFV.CVB khan-LAT DEM1.ISG.OBL-ERG-POSS.ESS DEM1.ISG.OBL-ERG water drink-PRS.PRT-DEF glass II-want-PFV.CVB-QUOT ask-PST.UNW
+Translation: Afterwards, he told everything that happened and the king asked for the water-drinking-glass that he wanted.
+Sentence: Łi teƛƛ’oräy, kidbez bašił nesir nesätow barur sayɣat radiruni bašiqˤoy rukayn.
+Gloss: water give-SIM.CVB girl-GEN2 finger-CONT.ESS DEM1.ISG.OBL-LAT DEM1.ISG.OBL-ERG-EMPH wife-LAT present IV-do-PST.PRT-DEF ring IV-see-PST.UNW
+Translation: When he gave her the water, he saw on the girl's finger the ring that he himself had given to his wife as a present.
+Sentence: Haq’udär yik’anix xedyoqay izmu esirnosi, nesägon łˤora becän yičin, hulon rexurno horoƛin yegirno.
+Gloss: family-APUD.VERS II-go-MSD-AD.ESS husband-POSS.ABL permission ask-ANT.CVB DEM1.ISG.OBL-ERG-CNTR three.OBL month-IN.ESS-TOP II-be-PFV.CVB miss-CND IV-kill-PFV.CVB come.IMPR-QUOT II-let-PST.UNW
+Translation: When she asked her husband for permission to go to her family, he let her go with the words: "You may stay three months, then, after [you killed the boredom(?)] come back!"

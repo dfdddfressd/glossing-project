@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rayrno using Leipzig glossing symbols. The sentence this word is drawn from means: "One day the young man brought the turkeys [home] in the evening, took the glass out of his pocke and said: "May here on the field be a house and inside a good table and chairs around it!"".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rayrno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rayrno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neširur mamalay howožatow at’iw qacan rayrno xizor butin baynosi, onoča esirno:
+Gloss: at.night-LAT rooster DEM4.SG-EMPH wet firewood-TOP IV-bring-PFV.CVB back III-turn.back-PFV.CVB III-come-ANT.CVB hen-ERG ask-PST.UNW
+Translation: At night, when the rooster came back bringing this wet firewood again, the hen asked:
+Sentence: Ciqqay qacan t’it’in, ruk’un rayrno esnabi bayn.
+Gloss: forest-POSS.ABL firewood-TOP fell-PFV.CVB bundle-TOP IV-bring-PFV.CVB brother-PL I.PL-come-PST.UNW
+Translation: From the forest the brothers came, having chopped wood, with the bundle.
+Sentence: Q’ˤunƛ’orno ƛ’irir č’edon rayrno, žedun šušin, iduɣor xediwn nexno.
+Gloss: two.OBL-SUPER.LAT-TOP on-LAT earth-TOP IV-bring-PFV.CVB DEM1.IPL-TOP bury-PFV.CVB home-IN.ALL husband-TOP come-PST.UNW
+Translation: The husband put earth onto the two, burried them and came home.
+
+Approximate Matches:
+Sentence: Iduɣor yizi boqnosi, zeyä yeda žeduz ɣˤutkoxor ayrno.
+Gloss: home-IN.ALL DEM2.IPL III-happen-ANT.CVB bear-ERG DEM2.ISG DEM1.IPL-GEN2 house-AD.LAT bring-PFV.CVB
+Translation: They went into the house and the bear brought him to their house.
+Sentence: Sida zamanał, maduhalłiqozo ħukmatyoz xanä yisiƛ’or begirno geres hibo bayrno naza boq’ˤiw, naza kikiw yałru biyrƛin.
+Gloss: one.OBL time-CONT.ESS neighbourhood-POSS.ESS-ATTR.OBL country-GEN2 khan-ERG DEM2.ISG.OBL-SUPER.LAT III-send-PFV.CVB iron-GEN1 stick III-bring-PFV.CVB where-IN.VERS.DIST III-heavy where-IN.VERS.DIST light be-PST.PRT III-find.out-QUOT
+Translation: At one point in time, the king of a neighboring country sent to him an iron stick [with the message]: "Find out where it's heavy and where's it's light."
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bašiqˤoy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bašiqˤoy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bašiqˤoy:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Užä eƛin, anƛ’imarsi där hunixor qˤašo ero, mesedyos bašiqˤoy yałruni kid k’eda di ik’ix.
+Gloss: boy-ERG say-PFV.CVB week-LAT-ATTR me-LAT way-AD.LAT get.up-IMPR put-IMPR gold-GEN1 ring be-PST.PRT-DEF girl search-INF me go-PRS
+Translation: The boy answered: "Pack provisions for me for a way of one week, I'm going to search the girl with the golden ring."
+Sentence: Bełiƛ’ esnabi bäk’äsi yałzay, eɣeni esiwz bara k’orin boyn nazon q’ˤidan ričin bac’ƛ’oräy, Umukusez haqa bašiqˤoy šišin, k’ori boyƛ’orey eɣeni esiwz baruqay rˤaƛ’uruni.
+Gloss: hunting-SUPER.ESS brother-PL I.PL-go-ATTR be-SIM.CVB young-DEF brother-GEN2 wife-ERG oatmeal-TOP III-do-PFV.CVB everyone.OBL-TOP down-TOP II.PL-sit-PFV.CVB III-eat-SIM.CVB Umukus-GEN2 mouth-IN.ESS ring get.stuck-PST.UNW oatmeal III-do-SIM.CVB young-DEF brother-GEN2 wife-POSS.ABL IV-fall-PST.PRT-DEF
+Translation: When the brothers were going hunting, the youngest brother's wife made an oatmeal and when everyone sat down and ate, a ring that fell off the youngest brother's wife when she made the oatmeal, got stuck in Umukus' mouth.
+Sentence: Bertenyołäy ža bašiqˤoy yałruni kid guginosi, yisi žas tatun bexun, xexłiƛ’ idurno ik’in, mežä pun bok’no ičin.
+Gloss: marriage-CONT.ABL DEM1.SG ring be-PST.PRT-DEF girl escape-ANT.CVB DEM2.ISG.OBL boy-GEN1 cheerfulness-TOP III-die-PFV.CVB quickness-SUPER.ESS home-LAT-TOP go-PFV.CVB mattress-IN.ESS side-TOP III-hit-PFV.CVB be-PST.UNW
+Translation: When the girl with the ring had disappeared from the marriage, the boy lost his cheerfulness and quickly went home and to bed.
+
+Approximate Matches:
+Sentence: Bažarizi raq, šida däq roqxanuƛin, yeženä bašiqˤoyn risno yizin xanzo madazaxaɣor yik’in.
+Gloss: able IV-become why me-POSS.ESS IV-become-PRS-NEG-QUOT II-old-DEF-ERG ring-TOP IV-take-PFV.CVB II-get.up-PFV.CVB khan-GEN2 yard-PL-AD.VERS II-go-PST.UNW
+Translation: "I can, why not?", the old woman took the ring, got up and went to the king's yards.
+Sentence: Neła quł sasaqtow ža ɣˤanabi bašiqˤoyn koyär risno rukarxo bazarya yäčizay, ayn sida užä nełas baha šebiƛin esirnosi, neła debeq yiłas baha bäzinč’iƛin eƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH DEM1.SG woman ring-TOP hand-IN.LAT IV-take-PFV.CVB IV-show-IPFV.CVB bazar-IN.ESS II-be-SIM.CVB come-PFV.CVB one.OBL boy-ERG DEM1.IISG.OBL-GEN1 price what-QUOT ask-ANT.CVB DEM1.IISG.OBL-ERG you-POSS.ESS DEM2.IISG.OBL-GEN1 price III-get-NEG.FUT-QUOT say-PST.UNW
+Translation: The next day in the morning, the woman was showing around the ring on her hand, and while being on the market, a boy came and asked: "What's its price?"; she said: "You won't afford its price."
+Sentence: Best’al eniya nełaƛ’ rayrxosi ɣudin q’urƛ’or rizin, kidbä ħukmu boyn, eniwsni bašiqˤoyn nełqay riqirno, yoxanixƛin.
+Gloss: step mother-ERG DEM1.IISG.OBL-SUPER.ESS IV-bring-PRS.PRT day-TOP throat-SUPER.LAT IV-get-PFV.CVB girl-ERG decision III-do-PFV.CVB mother-GEN1-DEF ring-TOP DEM1.IISG.OBL-POSS.ABL IV-take.away-PFV.CVB II-run.away-MSD-AD.ESS-QUOT
+Translation: The fact that the stepmother bothered her so much went on her nerves and she decided to take her mother's ring away from her in order to run away.

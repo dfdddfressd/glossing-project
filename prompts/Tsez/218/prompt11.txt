@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word req’ezin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word req’ezin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neła t’umiqay bˤaƛ’uru ħuli babiwz k’ukyoł boqun, miƛ’iłäy räšruni mesedyosnigon his ħamarno čˤaƛin esirno, baba, req’ezi roqxaƛin.
+Gloss: DEM1.IISG.OBL pigeon-POSS.ABL III-fall-PST.PRT feather father-GEN2 cap-CONT.ESS III-stick-PFV.CVB ram-CONT.ABL IV-fall-PST.PRT-DEF gold-GEN1-DEF-CNTR spring.wool chest-IN.LAT-TOP throw-PFV.CVB ask-PFV.CVB daddy approach IV-become-PRS-Q-QUOT
+Translation: She put the feather that fell from that pigeon onto her father's hat, and threw the golden whool that fell from the ram onto the chest and asked: "Daddy, does it fit?"
+Sentence: C’aq’ req’ezi roqxo, dey kidƛin, babiyan žawab teƛno.
+Gloss: much approach IV-become-PRS me-GEN1 daughter-QUOT father-ERG-TOP answer give-PST.UNW
+Translation: "It fits very well, my daughter", answered the father.

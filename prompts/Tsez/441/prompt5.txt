@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word siħirawni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word siħirawni: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neła q’orolays zownƛax sis nełƛ’aygon siħiraw yacʕal.
+Gloss: DEM1.IISG.OBL widow-GEN1 be.NPRS-PST.UNW-QUOT one DEM1.IISG.OBL-SUPER.ABL-CNTR cunning female.cousin
+Translation: That widow, so it's said, had a (female) cousin who was more cunning than her.

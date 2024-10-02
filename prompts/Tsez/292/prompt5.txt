@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eso in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eso: 
+
+Exact Matches
+Sentence: T’ogon žade puħorno yik’in, ƛ’iri yutin eniw, eso däq, šebi deber moƛał rukayx zowäƛin.
+Gloss: there-CNTR son-APUD.ESS side-AD.LAT-TOP II-go-PFV.CVB above II-turn-PFV.CVB mother tell-IMPR me-POSS.ESS what you-LAT dream-CONT.ESS IV-see-IPFV.CVB be.NPRS-PST.WIT.INT-QUOT
+Translation: There, the mother went beside him and insisted: "Tell me, what did you see in your dream?"
+Sentence: Neła eƛin, beže taliħ boqsi debi, yaqˤułäy soder mi dey uži yoł, howži debi mi murad eso däqƛin.
+Gloss: DEM1.IISG.OBL-ERG say-PST.UNW III-big fortune III-happen-PST.WIT you-GEN1 today-IN.ABL after you me-GEN1 son be now you-GEN1 you wish tell-IMPR me-POSS.ESS-QUOT
+Translation: She said: "You have good luck, as of today you are my son; now tell me your wish!"
+Sentence: Šebi zowä deber, nełƛ’asi eso miƛin, eƛin ečruni žek’a.
+Gloss: what be.NPRS-INF you-LAT DEM1.IISG.OBL-SUPER.ESS-ATTR tell-IMPR you-QUOT say-PST.UNW old-DEF man-ERG
+Translation: So tell me what you have to tell!", said the old man.
+
+Approximate Matches:

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rodin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rodin: 
+
+Exact Matches
+Sentence: Sidä his xuxix zown, sis ek’anił c’oxno, ɣoq’ˤot’aniza butnin, xaličabin rodin.
+Gloss: one.OBL-ERG spring.wool comb-IPFV.CVB be.NPRS-PFV.CVB one spin-MSD-CONT.ESS hit-PFV.CVB other-DISTR-DEF-PL-ERG burka-and mat-PL-and IV-do-PST.UNW
+Translation: One was combing the wool, one was hitting it to spin, the others made the burka and mats.
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Ɣˤutkun, ƛen rodin łiyzaƛ’, žoyä eniw k’ox äƛirugon kidno esirno xander yegirno.
+Gloss: house-and bridge-and III.PL-do-PFV.CVB end-CSL.CVB boy-ERG mother twice ORD-CNTR girl-TOP ask-PFV.CVB khan-APUD.LAT II-send-PST.UNW
+Translation: When the house and the bridge were finished, the boy sent his mother to the king a second time to ask for the girl.
+
+Approximate Matches:
+Sentence: Di deber łˤora ɣudi ƛirbałi rodinosi, xabaryada yoł dowqor.
+Gloss: me you-LAT three.OBL day hospitality IV-do-ANT.CVB story-COND be you-POSS.LAT
+Translation: After I have been your host for three days, I will talk to you.
+Sentence: Idurno yik’in užin č’arik’no eniya eƛin, eliz mada łuƛa ixiw ɣˤutku rodinƛin.
+Gloss: home-LAT-TOP II-go-PFV.CVB boy-TOP wake.up-PFV.CVB mother-ERG say-PST.UNW we-GEN2 outside-IN.ESS who.OBL-INDEF big house IV-do-PST.UNW-QUOT
+Translation: The mother went home, woke up the boy and said: "Someone built a big house outside of ours."
+Sentence: Mi äƛiru roži t’ubazi rodinč’uƛin, xanä yeženi esiw xizor yoxirno.
+Gloss: you say-PST.PRT word fulfill IV-do-NEG.PST.WIT-QUOT khan-ERG II-old-DEF sister back II-chase-PST.UNW
+Translation: "You didn't keep your word!" said the king and chased the oldest sister back.

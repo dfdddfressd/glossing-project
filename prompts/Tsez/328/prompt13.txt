@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word beynoyn in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word beynoyn: 
+
+Exact Matches
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: Sida saʕatyacegon mečołno beynoyn zira im-m-m-m, im-m-m-mƛin eƛin.
+Gloss: one.OBL hour-TERM-CNTR field-CONT.ESS-TOP III-work-PFV.CVB fox-ERG mhmhmh mhmhmh-QUOT say-PST.UNW
+Translation: And after working on the field for one hour, the fox said "Mhmhmh, mhmhmh!"
+
+Approximate Matches:
+Sentence: Mamalay ɣudes ciqaɣor qaciƛ’or bik’ix zown, onoču iduza beynoyx, iduzasi royx bičix zown.
+Gloss: rooster daily forest-IN.VERS firewood-SUPER.LAT III-go-IPFV.CVB be.NPRS-PFV.CVB hen home-ZA III-work-IPFV.CVB home-ZA-ATTR IV-do-PRS III-be-PRS be.NPRS-PST.UNW
+Translation: Every day the rooster went into the forest for firewood, and the hen was at home doing the housework.
+Sentence: Xizaɣor ʕomoyn mešin gurow reynoynanu.
+Gloss: finally donkey-and bull.calf-and except III.PL-work-PFV.CVB-NEG
+Translation: Finally, only the donkey and the calf were working.
+Sentence: Eɣeni esiw siskin eynoynč’u.
+Gloss: young-DEF brother any work-NEG.PST.WIT
+Translation: "Our younger brother didn't work at all.

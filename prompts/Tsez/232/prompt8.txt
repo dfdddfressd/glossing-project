@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šeƛ’un in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šeƛ’un: 
+
+Exact Matches
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Bertenyoł šeƛ’anix baħarčis šeƛ’ureł xizay yiłagon q’orolay yegirno, neła nełas šeƛ’un nełar xecin.
+Gloss: marriage-CONT.ESS put.on-MSD-AD.ESS brave.young.man-GEN1 clothing-CONT.ESS behind DEM2.IISG.OBL-ERG-CNTR widow II-let-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 put.on-PST.UNW DEM1.IISG.OBL-LAT leave-PST.UNW
+Translation: In order to dress up for the marriage, she let the widow look after young men's clothings and left her own clothes with her.
+
+Approximate Matches:
+Sentence: Sasiłzaƛ’or xan idurno ik’inanu, č’uħaraw šeƛ’un šeƛ’unanu.
+Gloss: get.dark-POST.CVB khan home-LAT-and go-PFV.CVB-NEG gorgeous clothing-and put.on-PST.UNW-NEG
+Translation: Until it got dark, the king neither went home nor put on gorgeous clothing.

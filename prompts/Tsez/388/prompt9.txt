@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yaynč’a in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yaynč’a: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Bazarganbi mešizaxozo aħoderno bayn esirno nesiq, howt’aza bitor łeno ħumukulin bižin ik’ix žek’u ukaynč’a deberƛin.
+Gloss: merchant-PL bull.calf-PL-AD.ESS-ATTR.OBL shepherd-APUD.LAT-TOP I.PL-come-PFV.CVB ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS there-IN.VERS.DIST thither five camel-TOP III-lead-PFV.CVB go-IPFV.CVB man see-NEG.PST.WIT-PST.WIT.INT you-LAT-QUOT
+Translation: The merchants came to the shepherd with the calves and asked him: "Have you seen a man leading five camels going there?"
+Sentence: ƛ’irir baynosi, bazarganza esirno nesiq, łeno ħumukulin boc’no howt’aza ik’ix deber uži ukaynč’aƛin.
+Gloss: above-LAT I.PL-come-ANT.CVB merchant-PL-ERG ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS five camel-TOP III-drive-PFV.CVB there-IN.VERS.DIST go-IPFV.CVB you-LAT boy see-NEG.PST.WIT-PST.WIT.INT-QUOT
+Translation: When they had come closer, the merchants asked him: "Have you seen a boy going in this direction driving five camels?"
+Sentence: Howži yiła eƛin, didur di hoboy łaƛ’or yik’iƛ’oräy esiws žanaza bukaynosi, ʕiyaynč’ey yik’anƛin.
+Gloss: now DEM2.IISG.OBL-ERG say-PST.UNW how me now water-SUPER.LAT II-go-SIM.CVB brother-GEN1 corpse III-see-ANT.CVB cry-NEG.PST.CVB II-go-FUT.DEF-QUOT
+Translation: Now she said: "How, while I'm going to fetch water, am I going to go without crying when I see my brother's corpse?"

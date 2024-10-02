@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ħalaƛ’or.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ħalaƛ’or
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ħalaƛ’or:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Baq’ˤu zaman bik’izaƛ’ortow nesi bečedawni žek’a q’ˤuya baru yižisƛax.
+Gloss: III-much time III-go-POST.CVB-EMPH DEM1.ISG.OBL wealthy-DEF man-ERG other wife II-lead-PST.WIT-QUOT
+Translation: After much time had passed, the rich man took another wife.
+Sentence: Maħor boqno łiyzaƛ’ortow, nesä žedu tełxorno biħurno žigon oqno ik’in xanez kidbeq pandur bukaranix.
+Gloss: outside I.PL-become-PFV.CVB end-POST.CVB-EMPH DEM1.ISG.OBL-ERG DEM1.IPL inside-AD.LAT-TOP I.PL-come.to-CAUS-PFV.CVB again.now become-PFV.CVB go-PST.UNW khan-GEN2 daughter-POSS.ESS lute III-show-MSD-AD.ESS
+Translation: Before all of them could get outside, he instructed them to go back inside and once again went to the princess to show her the lute.
+Sentence: Bara eƛin, žedu č’agu boynäy, dowƛ’orno, däƛ’ornotow žeda sis balah bayär, xec žedu sida ħalaƛin.
+Gloss: wife-ERG say-PST.UNW DEM1.IPL alive I.PL-do-CND.CVB you-SUPER.LAT-and me-SUPER.LAT-and-EMPH DEM1.IPL.OBL-ERG one misfortune III-bring leave DEM1.IPL one.OBL condition-IN.ESS-QUOT
+Translation: The wife said: "If we revive them, they will bring misfortune unto both you and me; leave them in their condition!"

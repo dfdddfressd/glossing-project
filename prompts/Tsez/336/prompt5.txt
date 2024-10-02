@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word babiwn in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word babiwn: 
+
+Exact Matches
+Sentence: Boƛƛo baq’ˤu zaman bik’izaƛ’ortow, babiwn exun, ža uži sisxoli ƛexun.
+Gloss: III-middle III-much time III-go-POST.CVB-EMPH father-TOP die-PFV.CVB DEM1.SG son alone remain-PST.UNW
+Translation: Before much time has passed, the father died and the son remained alone.
+Sentence: Neła quł sasaqozoxgon ɣurox žade sadaq babiwn ik’in.
+Gloss: DEM1.IISG.OBL day-CONT.ESS early.morning-CNTR cows-AD.ESS boy-APUD.ESS together father-TOP go-PST.UNW
+Translation: The next day in the early morning, the father went together with the boy to pasture the cows.
+Sentence: Elo ɣˤutka teł babiwn, kidno besun.
+Gloss: there house-IN.ESS inside father-and daughter-and I.PL-find-PST.UNW
+Translation: There in the house he found father and daughter.
+
+Approximate Matches:
+Sentence: Łˤono äƛiru ɣudełno, babiws ħal bayrinč’ey, besurozaƛ’or užitow ik’in.
+Gloss: three ORD day-CONT.ESS-TOP father-GEN1 strength III-bring-NEG.PST.UNW fish-PL-SUPER.LAT boy-EMPH go-PST.UNW
+Translation: And on the third day, although the father was against it, the boy went fishing nonetheless.
+Sentence: Hemełƛ’o xizyo babiwz ozzałer č’uran rayn, ža nesis uži yałrułin iyn.
+Gloss: DEM4.IISG.OBL-SUPER.ESS after father-GEN2 eye-PL-CONT.LAT light-TOP IV-come-PFV.CVB DEM1.SG DEM1.ISG.OBL-GEN1 son be-PST.PRT-NMLZ-and know-PST.UNW
+Translation: After that, the father's eyesight came back and he knew it was his son.
+Sentence: Sidaƛ’or rutirno žan babiw ʕaƛaɣor ik’in.
+Gloss: one.OBL-SUPER.LAT IV.PL-gather-PFV.CVB DEM1.SG-TOP father village-IN.VERS go-PST.UNW
+Translation: The father gathered everything together and went into the village.

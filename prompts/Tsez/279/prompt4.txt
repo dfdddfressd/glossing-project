@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word howlotow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word howlotow: 
+
+Exact Matches
+Sentence: Ozzałer č’uran rayrerno, yiła xediw howlotow ičirno.
+Gloss: eye-PL-CONT.LAT light-TOP IV-bring-CAUS-PFV.CVB DEM2.IISG.OBL-ERG husband there-EMPH wait-CAUS-PST.UNW
+Translation: She brought the light back to his eyes but let her husband wait there.
+Sentence: T’omceni žek’us bełiqaner nasin ric’q’in ƛexun, barułungon nesis kidno yown, maʕišat bodix howlotow žan ičin.
+Gloss: span-EQU1-DEF man-GEN1 hunter-LAT all wealth-TOP remain-PFV.CVB wifehood-TOP-CNTR DEM1.ISG.OBL-GEN1 daughter-TOP II-marry-PFV.CVB fortune III-do-IPFV.CVB there-EMPH DEM1.SG-TOP live-PST.UNW
+Translation: All the span-sized man's wealth remained for the hunter, he married his daughter, and lived there making a great fortune.
+Sentence: Neširur ža aderzotow sida šušuliłäsi aɣˤuxor aynosi, sasaqor howlotow ičanix ħukmu boqxo.
+Gloss: evening-LAT DEM1.SG forward-GEN2-EMPH one.OBL demolish-POT-RES.PRT mill-AD.LAT come-ANT.CVB in.the.morning-POSS.LAT there-EMPH wait-MSD-AD.ESS decision III-become-PRS
+Translation: By the evening he came to a demolished mill and decided to wait there until morning.
+
+Approximate Matches:
+Sentence: Allahes q’adar nediw boqzaƛ’, žedu q’ˤanon sadaq, Bilq’isdin xediwn, howlotown bexun.
+Gloss: God-GEN1 fate such III-happen-CSL.CVB DEM1.IPL two-TOP together Bilqisdi-and husband-and there-EMPH-TOP I.PL-die-PST.UNW
+Translation: And because Allah's fate was such that the two of them, Bilqisdi and her husband, died there together.

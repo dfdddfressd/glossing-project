@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: gugyoƛ’gon.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": gugyoƛ’gon
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word gugyoƛ’gon:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ʕOmoyä łinax riyx yedu elur ħažat boqaniƛin, halmaɣłiqorno eƛin, neła nełaz gugyoƛ’orno bizirerno, elay bitor bižin.
+Gloss: donkey-ERG how IV-know-PRS DEM2.IISG we-LAT necessity III-become-MSD-QUOT friendship-POSS.LAT-TOP say-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-IN.ESS.DIST back-SUPER.LAT-TOP III-lift-CAUS-PFV.CVB there-IN.ABL thither III-carry-PST.UNW
+Translation: The donkey said to his friends: "How does one know [how] it can become useful for us.", had [the wolf] lifted on his back and carried it further.
+Sentence: Yisiz gugyoƛ’or bˤaƛ’un butni bayn.
+Gloss: DEM2.ISG.OBL-GEN2 back-SUPER.LAT III-fall-PFV.CVB burka III-come-PST.UNW
+Translation: And a burka fell over his back.
+Sentence: Neła yeda gugyoƛ’no zowerno soder asaɣor izirno.
+Gloss: DEM1.IISG.OBL-ERG DEM2.ISG back-SUPER.ESS-TOP seat-PFV.CVB upward sky-IN.VERS lift-PST.UNW
+Translation: It seated him on its back and brought him up into the sky.

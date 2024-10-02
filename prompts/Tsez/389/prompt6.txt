@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žek’u in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žek’u: 
+
+Exact Matches
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Hag oqno ƛexun ečruni žek’u.
+Gloss: amazingly become-PFV.CVB remain-PFV.CVB old-DEF man
+Translation: The old man was amazed.
+
+Approximate Matches:
+Sentence: Q’orolayz xabaryoƛ’ay yiłar riyn neł ʕaƛa teł nasin sida bečedaw žek’uz bertenyołer boqxosi yałrułi.
+Gloss: widow-GEN2 story-SUPER.ABL DEM2.IISG.OBL-LAT IV-know-PFV.CVB DEM1.IISG.OBL village-IN.ESS inside all one.OBL wealthy man-GEN2 marriage-CONT.LAT I.PL-become-PRS.PRT be-MSD
+Translation: From the widow's telling, she knew that everyone in this village was going to the wedding of a rich man.
+Sentence: Xizyogon ža uži butnoƛ’ pun bok’no äčiru žek’uder ayn.
+Gloss: again DEM1.SG boy burka-SUPER.ESS side-TOP III-hit-PFV.CVB be-PST.PRT man-APUD.LAT come-PST.UNW
+Translation: Then the boy came to a man who was lying on his burka.
+Sentence: Sis elus ħon xecin nesä, q’ˤano žek’us ħon xecin, sis kero boɣno, q’ˤano kero boɣno xizaɣor xanes uži sida yeže gogaƛ’or ayn.
+Gloss: one we(I).OBL-GEN1 mountain leave-PFV.CVB DEM1.ISG.OBL-ERG two man-GEN1 mountain leave-PFV.CVB one ravine III-cross-PFV.CVB two ravine III-cross-PFV.CVB finally khan-GEN1 son one.OBL II-big meadow-SUPER.LAT come-PST.UNW
+Translation: He left our one mountain behind, left two other mountains behind, crossed one ravine, crossed two ravines and finally the prince came onto a big meadow.

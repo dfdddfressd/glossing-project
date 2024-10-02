@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nełas in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nełas: 
+
+Exact Matches
+Sentence: Bertenyoł šeƛ’anix baħarčis šeƛ’ureł xizay yiłagon q’orolay yegirno, neła nełas šeƛ’un nełar xecin.
+Gloss: marriage-CONT.ESS put.on-MSD-AD.ESS brave.young.man-GEN1 clothing-CONT.ESS behind DEM2.IISG.OBL-ERG-CNTR widow II-let-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 put.on-PST.UNW DEM1.IISG.OBL-LAT leave-PST.UNW
+Translation: In order to dress up for the marriage, she let the widow look after young men's clothings and left her own clothes with her.
+Sentence: Neła mixƛ’o yisä k’oƛin nełas kodi biqirno.
+Gloss: DEM1.IISG.OBL-ERG time-SUPER.ESS DEM2.ISG.OBL-ERG run-PFV.CVB DEM1.IISG.OBL-GEN1 hair III-take.away-PST.UNW
+Translation: At that time, he ran and took her by her hair.
+Sentence: Aždaħes yaqru nˤoƛun łacqo yižirno, nełas zawru šinaw xazina mesedno bižin, Baxumesedun guluƛ’ zowrno Kidiro Žabulawder ik’in.
+Gloss: dragon-GEN1 II-become-PST.PRT ashes-TOP wind-POSS.ESS II-carry-CAUS-PFV.CVB DEM1.IISG.OBL-GEN1 be.NPRS-PST.PRT every treasure gold-and III-carry-PFV.CVB Bakhumesed-and horse-SUPER.ESS seat-PFV.CVB Kidero Jabulaw-APUD.LAT go-PST.UNW
+Translation: He let the wind carry away ashes of the dragon, took all the gold from its treasures, seated Bakhumesed on a horse, and went to Jabulaw in Kidero.
+
+Approximate Matches:
+Sentence: Sida quł neła nełasno, eniwsno sidaƛ’or šeƛ’un rutirno, žan rižin ciqaɣor yoxin.
+Gloss: one.OBL day-CONT.ESS DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1-and mother-GEN1-and one.OBL-SUPER.LAT clothing-TOP IV-gather-PFV.CVB DEM1.SG-TOP IV-carry-PFV.CVB forest-IN.VERS II-run.away-PST.UNW
+Translation: One day she collected the clothes of herself and her mother and carrying them escaped into the forest.
+Sentence: Mamalay qaciqorno, yił- nełqorno bezux bičinč’ey durimoƛ’ bik’in onočaƛ’ biħanayn nełasno łoħros yiłetown k’onč’un yecurno, nełdäy hozur boqno, neła nełaz ɣˤutkaɣor bik’in.
+Gloss: rooster firewood-POSS.LAT-and DEM2.IISG.OBL DEM1.IISG.OBL-POSS.LAT-and III-look-IPFV.CVB III-be-NEG.PST.CVB running III-go-PFV.CVB hen-SUPER.ESS III-fight-PFV.CVB DEM1.IISG.OBL-GEN1-and frog-GEN1 II-as-EMPH-PFV.CVB leg-and II-break-CAUS-PFV.CVB DEM1.IISG.OBL-APUD.ABL separately III-become-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 house-IN.VERS III-go-PST.UNW
+Translation: Without looking for firewood or any other things, he ran off to the hen, had a fight [with her] and broke her leg just like the frog's, seperated from her and went to his own house.
+Sentence: Wizirä xanqor eƛin, hemeła qalamä teł sis aɣi yoł, nełasgo bik boqnäy, debez bokor ʕeze baqƛin.
+Gloss: vizier-ERG khan-POSS.LAT say-PST.UNW DEM4.IISG.OBL fortress-IN.ESS inside one bird be DEM1.IISG.OBL-GEN1-COND hide III-become-CND.CVB you-GEN2 fur.coat-LAT be.enough III-become-QUOT
+Translation: The vizier said to the king, "In that fortress there is a bird, if you can get its hide, it will be enough for your coat."

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ruħ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ruħ: 
+
+Exact Matches
+Sentence: Sasaqosi moƛaxay yizinosi, Bilq’isdä Allahqo harizi rodin, eli q’ˤanon debi laɣbi deber betixozołäysi besunäy, howt’otow elus ruħ boɣoƛin.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-ANT.CVB Bilqisdi-ERG God-POSS.ESS request IV-do-PST.UNW we two-TOP you-GEN1 slave-PL you-LAT I.PL-love-IPFV.CVB-ATTR.OBL-CONT.ABL-ATTR I.PL-appear-CND.CVB here-EMPH we(I).OBL-GEN1 soul III-take.away-IMPR-QUOT
+Translation: In the morning, when she got up from her sleep, Bilqisdi prayed to Allah: "If we two are not among the slaves you love, then take our souls right here!"
+Sentence: Mi ža bazaryaɣorno bižin łera ʕazara ɣˤurušyoƛ teƛ, moƛ’oqˤoy yołi łeno bišom ɣˤuruš neƛłikin täƛno, dey ruħ nełał bičixosi yoł, nagaħ mi ža teƛnäy, di exuxosi yołƛin.
+Gloss: you DEM1.SG bazar-IN.VERS-TOP III-lead-PFV.CVB five.OBL thousand ruble-SUB.ESS sell bridle however five hundred ruble give-CND.CVB.IRR-even sell-PROHIB me-GEN1 soul DEM1.IISG.OBL-CONT.ESS III-be-PRS.PRT be suppose you DEM1.SG sell-CND.CVB me die-PRS.PRT be-QUOT
+Translation: Lead it to the market and sell it for 5,000 rubles, the bridle however don't sell even if you were given 500 rubles, my soul will be inside; if you sell it, I will die."
+Sentence: Ža maħor oqƛ’oräy, nesiłtow xizay yoƛixno Baxumesedagon ʕAliqiličqor č’ikay teƛno, reč’no nełas q’ˤim č’ikayä rezurinč’inäy, nełas ruħ baɣinč’iƛin.
+Gloss: DEM1.SG outside become-SIM.CVB DEM1.ISG.OBL-CONT.ESS-EMPH from.behind II-appear-PST.UNW Bakhumesed-ERG-CNTR Aliqilich-POSS.LAT mirror give-PFV.CVB IV-cut-PFV.CVB DEM1.IISG.OBL-GEN1 head mirror-IN.ESS IV-look-CAUS-NEG.FUT-CND.CVB DEM1.IISG.OBL-GEN1 power III-take.away-NEG.FUT-QUOT
+Translation: When Aliqilich got outside, Bakhumesedo appeared behind him and gave him a mirror, saying: "When you cut his head off and don't show it to himself in the mirror, you won't take away his power."
+
+Approximate Matches:

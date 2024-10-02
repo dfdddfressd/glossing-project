@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word regiƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word regiƛ: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ič’an yeɣenägon eƛin, digon qema regirinč’ey asno riqirno yičäsi zows.
+Gloss: most-TOP II-young-DEF-ERG-CNTR say-PST.UNW me-CNTR rain IV-let-NEG.PST.CVB sky-TOP IV-catch-PFV.CVB II-be-RES.PRT be.NPRS-PST.WIT
+Translation: And then the youngest one said: "And I was catching the sky and didn't let it rain.
+Sentence: Beɣe xexzas guru teqnosi, zer rok’un regin, aɣˤʷa tełxorno yoxin, xedyoq esin.
+Gloss: I.PL-young children-GEN1 crying hear-ANT.CVB shuddering heart-TOP IV-go.into-PFV.CVB mill-IN.ESS inside-AD.LAT-TOP II-run.away-PFV.CVB husband-POSS.ESS tell-PST.UNW
+Translation: When she heard the crying of the small children, her heart shuddered, she ran into the mill and told her husband.
+Sentence: Yisä eƛin, eloš neła guħxaza regin däł xizay bikorbi nexxoƛin.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW over.there DEM1.IISG.OBL hill-AD.VERS.DIST III.PL-be.emitted-PFV.CVB me-CONT.ESS behind snake-PL come-PRS-QUOT
+Translation: He said: "Over there, behind that hill, snakes are coming behind me."

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łˤorałäyn in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łˤorałäyn: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nełƛ’ay soder łˤoran paraxat, rok’uɣʷeymoł ʕumru bižix zown.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after three.OBL-TOP calmly fun-CONT.ESS life III-lead-IPFV.CVB be.NPRS-PST.UNW
+Translation: After that, the three of them lived together happily and calmly.
+Sentence: Ruyxor mi esinč’inäy deber daru buyxor c’axinč’iƛin yiła eƛinosi, esin yisä yiłałno nesiłno raqru łinałäyn.
+Gloss: IV-true-AD.LAT you tell-NEG.FUT.CVB-CND.CVB you-LAT medicine III-true-AD.LAT match-NEG.FUT.CVB-QUOT DEM2.IISG.OBL-ERG say-ANT.CVB tell-PST.UNW DEM2.ISG.OBL-ERG DEM2.IISG.OBL-CONT.ESS-TOP DEM1.ISG.OBL-CONT.ESS-TOP IV-happen-PST.PRT what.OBL-CONT.ABL-TOP
+Translation: When she said that the medicine won't have an effect if he doesn't tell the truth, he told her what had happened to him.
+Sentence: Čanno suƛƛi boƛixno sis hil karun, bˤulamzałäy aħyałerno c’oxno łˤora k’onč’aƛ’or boxin bik’isƛin”, - žawab teƛno heresi mec esixoza.
+Gloss: deer-TOP suddenly III-appear-PFV.CVB one bullet throw-IMM.ANT.CVB hoof-PL-CONT.ABL ear-CONT.LAT-TOP hit-PFV.CVB three.OBL leg-SUPER.LAT III-run.away-PFV.CVB III-go-PST.WIT-QUOT - answer give-PST.UNW false language tell-PRS.PRT.OBL-ERG
+Translation: "A deer suddenly appeared and the bullet that was shot, hit it through the legs and pierced the ear, so it ran away on its three legs", answered the liar.

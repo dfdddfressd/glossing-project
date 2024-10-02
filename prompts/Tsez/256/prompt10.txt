@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’anƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’anƛin: 
+
+Exact Matches
+Sentence: Yisi užä yedu kid idurno yižin, sasaqozox nasin moƛaxay bizinosi, eƛin, eni, mi hek’uyax eč’uri roda yik’inäy, yiła iduzasi radi, di ciqaɣor ik’anƛin.
+Gloss: DEM2.ISG.OBL boy-ERG DEM2.IISG girl home-LAT-TOP II-lead-PFV.CVB early.morning all sleep-AD.ABL III-get.up-ANT.CVB say-PFV.CVB mother you potatoe-AD.ESS weeding IV-do-INF II-go-CND.CVB DEM2.IISG.OBL-ERG home-PL-ATTR IV-do me forest-IN.VERS go-FUT.DEF-QUOT
+Translation: The boy took the girl home and in the early morning, when everyone got up from their sleeps, he said: "Mother, if you go to weed the potatoes, she will do the housework and I will go into the forest."
+Sentence: Xander ik’a adäza, babiya užiqor eƛin, howži roda šebin anu, dey uži, mi eƛo xanqor mesedyos bic’no q’ili neƛnäy, guluzaz reqenyołäy sis bigu gulu łet’an egirnäy, di neła kidbeł xizay ik’anƛin.
+Gloss: khan-APUD.LAT go-INF before father-ERG son-POSS.LAT say-PST.UNW now IV-do-INF thing be.NEG me-GEN1 son you say-IMPR khan-POSS.LAT gold-GEN1 III-fill-PFV.CVB qili give-CND.CVB horse-PL-GEN2 herd-CONT.ABL one III-good horse pick-FUT.CVB let-CND.CVB me DEM1.IISG.OBL girl-CONT.ESS behind go-FUT.DEF-QUOT
+Translation: Before going to the king, the father said to the son, "Now there's nothing one can do, my son, say to the king, 'If you give me a qili filled with gold and if you let me pick a good horse from the herd, I will go behind that girl'!"
+Sentence: Užä ʕon rok’no bikorin bexurno boɣno kurno ik’anƛin aqru yeda, xexoyza eč’erno žedas eniw yayace t’o ičiƛin.
+Gloss: boy-ERG ax-TOP IV-hit-PFV.CVB snake-TOP III-kill-PFV.CVB III-take.away-PFV.CVB throw-PFV.CVB go-FUT.CVB-QUOT become-PST.PRT DEM2.ISG young.animal-PL-ERG stop-PFV.CVB DEM1.IIPL.OBL-GEN1 mother II-come-TERM there wait-QUOT
+Translation: The boy struck his ax, killed the snake, took it and threw it away and thought of going, but the chicks stopped him until their mother would come.
+
+Approximate Matches:
+Sentence: Bik’ixanu - däz guluƛ’ bik’anƛin yedan ičin.
+Gloss: I.PL-go-PRS-NEG - me-GEN2 horse-SUPER.ESS I.PL-go-FUT.DEF-QUOT DEM2.ISG-TOP remain-PST.UNW
+Translation: "We're not going - we will ride on my horse," he insisted.
+Sentence: Baq’ˤu q’ʷarid boqno ɣʷˤadi howži, didurtow di ziruł adäzar bik’anƛin.
+Gloss: III-much sadness III-become-PFV.CVB crow now how-EMPH me fox-CONT.ESS before-IN.LAT III-go-FUT.DEF-QUOT
+Translation: The crow became very sad, [thinking]: "Now, how will I go before the fox?"
+Sentence: Howži yiła eƛin, didur di hoboy łaƛ’or yik’iƛ’oräy esiws žanaza bukaynosi, ʕiyaynč’ey yik’anƛin.
+Gloss: now DEM2.IISG.OBL-ERG say-PST.UNW how me now water-SUPER.LAT II-go-SIM.CVB brother-GEN1 corpse III-see-ANT.CVB cry-NEG.PST.CVB II-go-FUT.DEF-QUOT
+Translation: Now she said: "How, while I'm going to fetch water, am I going to go without crying when I see my brother's corpse?"

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Hemedur in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Hemedur: 
+
+Exact Matches
+Sentence: Nesi žaz babiya sidaquł q’orol ɣˤanabin yiqirno nełaq esin, hemedur ɣudƛ’ay ɣudƛ’or dey uži ħalaq’ oqxo ik’ixƛin.
+Gloss: DEM1.ISG.OBL boy-GEN2 father-ERG one.day widowed woman-TOP II-find-PFV.CVB DEM1.IISG.OBL-POSS.ESS tell-PST.UNW so day-SUPER.ABL day-SUPER.LAT me-GEN1 boy meager become-IPFV.CVB go-PRS-QUOT
+Translation: One day the boy's father found a widow and told her that his boy is becoming meager day by day.
+Sentence: Bišƛ’oräytow nesä kidbez babiwqor xabar boƛik’no, hemedur sis beže q’ʷariʕelno dowqor keze boqno, mi ža t’ubazi badiƛin debeƛ’ rok’un rayn nexäsi yoł di dowderƛin.
+Gloss: I.PL-eat-SIM.CVB-EMPH DEM1.ISG.OBL-ERG girl-GEN2 father-POSS.LAT story III-push.out-PFV.CVB so one III-big necessity-TOP you-POSS.LAT meet III-become-PFV.CVB you DEM1.SG fulfill III-do-QUOT you-SUPER.ESS heart-TOP IV-come-PFV.CVB come-RES.PRT be me you-APUD.LAT-QUOT
+Translation: While they were eating, he started a conversation with the girl's father: "So there is a big necessity you have to do, and I have come to you and am convinced you can fulfill it."
+Sentence: Däq hemedur eƛin rok’łinč’us yołiƛin, eƛin qartayä, di mi aħirno, ešayn ac’a zowsƛin.
+Gloss: me-POSS.ESS so say-PST.UNW heart-NMLZ-NEG.PST.WIT-ATTR if-QUOT say-PST.UNW witch-ERG me you cook-CAUS-PFV.CVB bake-PFV.CVB eat-INF be.NPRS-PST.WIT-QUOT
+Translation: "If I hadn't said so," the with said, "I would've cooked, baked and eaten you!"
+
+Approximate Matches:
+Sentence: Xizyogon hemedurtow yeženi esiya ža uži c’enno ʕiyayrno.
+Gloss: again so-EMPH II-old-DEF sister-ERG DEM1.SG boy pinch-PFV.CVB cry-CAUS-PST.UNW
+Translation: Then the eldest sister pinched the boy again and made him cry.
+Sentence: Xizyogon, hemedurtow dice ixiw ʕaq’lu yisä där žigoƛ’äygon bodäƛin nesiz rok’ƛ’or rayn.
+Gloss: again so-EMPH how.much big advice DEM2.ISG.OBL-ERG me-LAT once.again-CNTR III-do-PST.WIT.INT-QUOT DEM1.ISG.OBL-GEN2 heart-SUPER.LAT IV-come-PST.UNW
+Translation: Again, he thought: "What a similarly big advice did he give me once again?!"
+Sentence: Ža šinaw šebin eniwq esinosi, ħiƛ’oqus ħal biyranix hemedurtow užä q’ˤida kurno.
+Gloss: DEM1.SG every thing mother-POSS.ESS tell-ANT.CVB handkerchief-GEN1 condition III-explain-MSD-AD.ESS so-EMPH boy-ERG down spread.out-PST.UNW
+Translation: After he had told his mother everything, in order to show the handkerchief's condition, the boy spread it out.

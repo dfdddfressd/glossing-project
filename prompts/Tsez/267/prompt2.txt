@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word maʕdinłiƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word maʕdinłiƛ: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Aɣi bukayruntow nełaz maʕdinłiƛ’no ezun xan haqa ogun ƛexun.
+Gloss: bird III-see-IMM.ANT.CVB-EMPH DEM1.IISG.OBL-GEN2 beauty-SUPER.ESS-TOP look-PFV.CVB khan mouth-IN.ESS gape-PFV.CVB remain-PST.UNW
+Translation: When the king saw the bird, he stood there gaping about its beauty.

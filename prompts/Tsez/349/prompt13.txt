@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zowäsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zowäsi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Di yoł yiła eluz wilayatzo naib Žabulawes aždaħä yok’ek’no yowäsi kidƛin, - esin yiła, - däƛ’ Baxumesedoƛin cin yoł.
+Gloss: me be DEM2.IISG.OBL we(I).OBL-GEN2 province-ATTR.OBL governor Jabulaw-GEN1 dragon-ERG II-steal-PFV.CVB II-bring-RES.PRT daughter-QUOT - tell-PST.UNW DEM2.IISG.OBL-ERG - me-SUPER.ESS Bakhumesed-QUOT name-TOP be
+Translation: "I am the daughter of our province's governor Jabulaw, who got stolen by a dragon." she said, "my name is Bakhumesedo.
+Sentence: Howži sida quł yiła yisiq esirno, mi baru yowäsi yołäƛin.
+Gloss: now one.OBL day-CONT.ESS DEM2.IISG.OBL-ERG DEM2.ISG.OBL-POSS.ESS ask-PFV.CVB you wife II-get-RES.PRT be-Q-QUOT
+Translation: However one day she asked him, "Do you have a wife?"
+Sentence: Žäd di baru yowäsi anuƛin, doxturä žawab teƛno.
+Gloss: still me wife II-bring-RES.PRT be.NEG-QUOT doctor-ERG answer give-PFV.CVB
+Translation: "I am still unmarried," the doctor gave an answer.

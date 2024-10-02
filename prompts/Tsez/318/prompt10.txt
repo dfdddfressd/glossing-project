@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kidbes in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kidbes: 
+
+Exact Matches
+Sentence: Sida quł neła kidbes eniw qˤišoder sis mučarin rižin ħonƛ’aɣor yik’ix zown.
+Gloss: one.OBL day-CONT.ESS DEM1.IISG.OBL girl-GEN1 mother at.noon one cumin-TOP IV-carry-PFV.CVB mountain-SUPER.VERS II-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: One day that girl's mother went to the mountain with a cumin cake.
+Sentence: Xanez kidbes eniw yoł di, där ža xedyox yik’izaƛ’or yukada retinƛin, yiła ader xot’o boɣno.
+Gloss: khan-GEN2 daughter-GEN1 mother be me me-LAT DEM1.SG husband-AD.ESS II-go-POST.CVB II-see-INF IV-want-PST.UNW-QUOT DEM2.IISG.OBL-ERG forward foot III-take.away-PST.UNW
+Translation: "I am the king's daughter's mother, I wanted to see her before she'd go to that husband.", and she put her foot forward.
+Sentence: Howlotow xanez kidbes nesiqor roƛ’i boqno.
+Gloss: there-EMPH khan-GEN2 daughter-GEN1 DEM1.ISG.OBL-POSS.LAT love III-become-PST.UNW
+Translation: Then the princess fell in love with him.
+
+Approximate Matches:
+Sentence: Žedu łˤorän esnaza sida kidbeƛ’ reƛ’a eräsi zown.
+Gloss: DEM1.IPL.OBL three.OBL-ERG-TOP brother-PL-ERG one.OBL girl-SUPER.ESS hand put-RES.PRT be.NPRS-PST.UNW
+Translation: Those three brothers were proposed to the same girl.
+Sentence: Idur Ražbadin aynosi, kidbez babiya nesił adäza bišʷa ħaƛin.
+Gloss: home-LAT Razhbadin come-ANT.CVB girl-GEN2 dad-ERG DEM1.ISG.OBL-CONT.ESS before food organize-PST.UNW
+Translation: When Razhbadin went to the home, the girl's father put food before him.
+Sentence: Neła kidbeqor eƛin, ele žigoƛ’aygon deber däƛ’aza aždaħes xexoyn biqis, howži mi esiwqor eƛo, deber halmaɣłun yičaniƛäyn, nesirgon barułun yičaniƛäyn Beqes ʕUneyzat yowanix ik’iƛƛin.
+Gloss: DEM1.IISG.OBL-ERG girl-POSS.LAT say-PST.UNW here again-SUPER.ABL-CNTR you-LAT me-SUPER.VERS.DIST dragon-GEN1 young.animal-TOP III-get-PST.WIT now you brother-POSS.LAT say-IMPR you-LAT friend-LHUN II-be-MSD-SUB.ABL-and DEM1.ISG.OBL-LAT-CNTR wife-LHUN II-be-MSD-SUB.ABL-and sun-GEN1 Uneyzat II-marry-MSD-AD.ESS go-OPT-QUOT
+Translation: She said to the girl: "Again now because of me you got hold of a dragon's young, now say to your brother that he go and mary the Sun's Uneyzat, so she may become a friend to you and a wife to him."

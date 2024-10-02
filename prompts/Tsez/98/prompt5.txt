@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: haraƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": haraƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word haraƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesä ža ɣamas hokomƛ’on erno iħuxaɣor yižiƛ’oräy, łas haraƛ’ teqnosigon, nełaq roč’uganitow qˤaƛu regin.
+Gloss: DEM1.ISG.OBL-ERG DEM1.SG box carriage-SUPER.ESS-CND put-PFV.CVB river-AD.VERS II-carry-SIM.CVB water-GEN1 voice hear-ANT.CVB-CNTR DEM1.IISG.OBL-POSS.ESS frost-ATTR-DEF-EMPH shout IV-emit-PST.UNW
+Translation: He put the box onto a carriage and while carrying it to a river, but when he heared the water's voice, it emitted a frosty shout.
+Sentence: Baq’ˤu urɣizi boqxo bičinč’ey, ɣʷˤadä q’ˤʷa-q’ˤʷa-q’ˤʷaƛin haraƛ’ bayrun, haqoƛäy reƛ q’ˤidar rˤaƛ’un.
+Gloss: III-much thinking III-become-IPFV.CVB III-be-NEG.PST.CVB crow-ERG crah-crah-crah-QUOT voice I.PL-do-IMM.ANT.CVB mouth-SUB.ABL meat down-LAT IV-fall-PST.UNW
+Translation: Without thinking much, the crow let its voice caw and the piece of meat fell down out of his mouth.
+Sentence: Där sis debi haraƛ’ teqra bäti, behizi roqnäyƛin”.
+Gloss: me-LAT one you-GEN1 voice listen.to-INF III-want permit IV-become-CND.CVB-QUOT
+Translation: I want to hear your voice, if I may!"
+
+Approximate Matches:
+Sentence: Sidä sidqo rak’ru kedonyozaz haraƛ’yo, akiłno (kodin bitin) q’ˤanontow q’ˤidar bˤoƛ’un.
+Gloss: one.OBL-ERG one.OBL-POSS.ESS II.PL-hit-PST.PRT sledgehammer-PL-GEN2 noise-ERG get.tired-PFV.CVB hair-TOP III-touch-PFV.CVB two-TOP-EMPH down-LAT I.PL-fall-PST.UNW
+Translation: The noise of the sledgehammers, when they hit one another, made the two of them loose conscience and fall down.
+Sentence: Žan eƛin, ʕomoyä baqruce haraƛ’no boyn ħoʕoƛin.
+Gloss: DEM1.SG-TOP say-PST.UNW donkey-ERG III-become-PST.PRT-TERM voice-TOP III-do-PFV.CVB shout-PST.UNW
+Translation: The donkey said that, and shouted as loud as he could.

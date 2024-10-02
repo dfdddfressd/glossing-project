@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word caxno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word caxno: 
+
+Exact Matches
+Sentence: Ža kid dicegon bac’ałiƛ’ yoqłin, neła xediwƛ’or kaɣat caxno, debi kid neširuxayt’a q’ʷat’azaq yaħna-yik’ix yičixƛin.
+Gloss: DEM1.SG daughter how.much-CNTR cleanness-SUPER.ESS II-become-CNC.CVB DEM1.IISG.OBL-ERG husband-SUPER.LAT letter write-PST.UNW you-GEN1 daughter at.night-AD.ABL-DISTR street-PL-POSS.ESS II-walk.for.a.while-IPFV.CVB II-be-PRS-QUOT
+Translation: Although the daughter was very cleanly, she wrote a letter to her husband: "Your daughter is being wandering through the streets at night."
+Sentence: Xizyo xanä naysinän xabaryabin regirno, kaɣatyabin caxno doxturbi goƛ’in.
+Gloss: afterwards khan-ERG where-IN.ABL-ATTR-INT story-PL-and III.PL-send-PFV.CVB letter-PL-and write-PFV.CVB doctor-PL invite-PST.UNW
+Translation: After that, the king sent the news and wrote letters everywhere and invited doctors.
+Sentence: Ɣˤutkaɣor bäk’izaz puƛ’aza q’ˤano rut’ugan rixoƛ ƛ’irin caxno, sidaƛ’ sisxoli xanes kid yayoƛƛin”, sideniƛ’gon nasin xalq’i bayoƛƛin”.
+Gloss: house-IN.VERS III-go-LOC.ORIG side-SUPER.VERS.DIST two carpet-TOP IV-hang-OPT above-TOP write-PFV.CVB one.OBL-SUPER.ESS alone khan-GEN1 daughter II-come-OPT-QUOT the.other.one-SUPER.ESS-CNTR all people III-come-OPT-QUOT
+Translation: And over the entrance to the house, let there hang two carpets on which shall be written on the one side: "May the princess come alone!" and on the other one: "May all people come!"!
+
+Approximate Matches:
+Sentence: Nełƛ’ay soder halmaɣza sida sidƛ’or kaɣatyabin caxnoanu, sidä sidderno bik’inanu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after friend-PL-ERG one.OBL-ERG one.OBL-SUPER.LAT letter-PL-TOP write-PFV.CVB-NEG one.OBL-ERG one.OBL-APUD.LAT-TOP I.PL-go-PFV.CVB-NEG
+Translation: After that, the friends didn't write any letters to each other and didn't visit each other anymore.
+Sentence: Ražbadines xexbi bexuranis mečʷa, Tawadä žedu nesis uži zawza Tiblisäɣor t’et’ranixno begirno, riyrxo žeduq, dey izmu anusi eni- babiwƛ’or kaɣat caxnoƛin.
+Gloss: Razhbadin-GEN1 children I.PL-kill-MSD-GEN1 instead.of Tavadi-ERG DEM1.IPL DEM1.ISG.OBL-GEN1 son be.NPRS-LCV Tbilisi-IN.VERS learn-MSD-AD.ESS-TOP I.PL-send-PFV.CVB IV-explain-PRS DEM1.IPL.OBL-POSS.ESS me-GEN1 permission be.NEG-ATTR mother father-SUPER.LAT letter write-PROHIB-QUOT
+Translation: Instead of killing Razhbadin's children, Tavadi sent them to study in Tbilisi where his son was, and explained to them: "Don't write a letter to your parents without my permission!"

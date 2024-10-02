@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word biynč’ey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word biynč’ey: 
+
+Exact Matches
+Sentence: Elayn izin imyoq ħobo bok’nosi, nazay eƛa biynč’ey t’as bˤoƛ’un bayn.
+Gloss: here-IN.ABL-and get.up-PFV.CVB pole-POSS.ESS leg III-beat-ANT.CVB from.where say-INF III-know-NEG.PST.CVB washbowl III-fall-PFV.CVB III-come-PST.UNW
+Translation: So he got up from there and kicked the pole, and out of who-knows-where a bowl fell down.
+Sentence: Xizyo xanä sis siħiray q’orolayn goƛ’in nesä nesidäɣor, nełaq esin, däz iday micxir nar eƛa biynč’ey gugix, łu bok’ek’xosi yałrułin didurnokin riyxanuƛin.
+Gloss: afterwards khan-ERG one cunning.II widow-TOP invite-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.VERS DEM1.IISG.OBL-POSS.ESS tell-PST.UNW me-GEN2 home-IN.ABL money where say-INF III-know-NEG.PST.CVB escape-IPFV.CVB who.ERG III-steal-PRS.PRT be-PST.PRT-NMLZ-and how-and-even IV-know-PRS-NEG-QUOT
+Translation: Then the king invited a cunning widow to himself and he told her: "Money has vanished from my home to who-knows-where, I don't know whatsoever who might have stolen."
+Sentence: ʕUraw ɣˤaɣˤu bizin habihanno, barun, xexbi anusi žedur nazay eƛa biynč’ey žedu kurzaƛ’.
+Gloss: very be.happy I.PL-get-PFV.CVB miller-and wife-and children be.NEG-ATTR DEM1.IPL.OBL-LAT from.where say-INF I.PL-know-NEG.PST.CVB DEM1.IPL throw-CSL.CVB
+Translation: The miller and his wife, not having children themselves, got very happy because they were thrown to them from who-knows-where.
+
+Approximate Matches:
+Sentence: Walla xan, di ša bodanix k’udi q’uq’iƛ’orey, elo šet’u butäsi hadambi boqzaƛ’, aqˤu kuča maħorno oqa iynč’ey howlo tełer kučis.
+Gloss: wallah khan me wine III-do-MSD-AD.ESS vine press.out-SIM.CVB there around III-turn.back-RES.PRT people III-happen-CSL.CVB urine defecate-INF outside-TOP become-INF know-NEG.PST.UNW there into defecate-PST.WIT
+Translation: "By God, o king, while I was pressing out the grapes to make the wine, there were people who were walking around there and without me knowing took a piss in there."
+Sentence: Ik’in nełaq reƛ’iqoy rukarnosi, didiw ža yałru sosisi riynč’ey neła eƛin:
+Gloss: go-PFV.CVB DEM1.IISG.OBL-POSS.ESS glove IV-show-ANT.CVB which DEM1.SG be-PST.PRT at.first-ATTR IV-know-NEG.PST.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: He went and showed her the glove, and at first, when she didn't know what kind of glove this was, she said:
+Sentence: Zamanaƛ’azay bak’arizin boqno ʕagarłisno, ʕaƛosno ʕoloqbin bayn, reƛ’ibin ricin bexuranixƛin bižiƛ’oräy užä eƛin, mežur šebintow riynč’ey šida eli bexura bižix.
+Gloss: time-SUPER.ABL.DIST gathering-TOP III-become-PFV.CVB relatives-GEN1-and village-GEN1-and young.person-PL-TOP III-come-PFV.CVB hand-PL-TOP IV.PL-tie-PFV.CVB I.PL-kill-MSD-AD.ESS-QUOT I.PL-take.out-SIM.CVB boy-ERG say-PST.UNW you(I).PL.OBL-LAT thing-EMPH IV-know-NEG.PST.CVB why we I.PL-kill-INF I.PL-take.out-PRS
+Translation: After some time, the young persons from the relatives and the village came together, bandaged their hands and while they took them out to kill them, the boy said: "Why are you taking us out to kill us without knowing anything?!

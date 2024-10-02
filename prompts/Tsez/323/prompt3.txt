@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bik’inosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bik’inosi: 
+
+Exact Matches
+Sentence: Sida quł bet’erhanno bet’erhanes užin ƛˤoreł bik’inosi, yiła neł ʕaƛos dibir iduɣor goƛ’in.
+Gloss: one.OBL day-CONT.ESS master-and master-GEN1 son-and war-CONT.ESS I.PL-go-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL village-GEN1 imam home-IN.ALL invite-PST.UNW
+Translation: One day, when the master and the master's son went to war, she invited the village's imam to their home.
+Sentence: Elayn boqno dahawtow bitaɣor bik’inosi, yisi žoyä žeduqor eƛin, di ža kid yowanix ik’ix, däz ža c’aq’ rok’äwa yisäƛin.
+Gloss: there-IN.ABL-TOP I.PL-become-PFV.CVB a.little-EMPH distance-IN.VERS I.PL-go-ANT.CVB DEM2.ISG.OBL boy-ERG DEM1.IPL.OBL-POSS.LAT say-PFV.CVB me DEM1.SG girl II-marry-MSD-AD.ESS go-PRS me-GEN2 DEM1.SG much heart-IN.ESS-Q II-take-PST.WIT.INT-QUOT
+Translation: When they had gone just a little further, that boy said to them: "I am going to marry this girl; did she really take me into her heart?"
+Sentence: Boƛƛogon zaman bik’inosi, hemedurtow sosigon neła esirno.
+Gloss: III-middle-CNTR time III-go-ANT.CVB so-EMPH again-CNTR DEM1.IISG.OBL-ERG ask-PST.UNW
+Translation: After a while, she asked it again.
+
+Approximate Matches:
+Sentence: ƛˤeb yik’inosigon, užił xizay xan ayn.
+Gloss: year II-go-ANT.CVB-CNTR son-CONT.ESS behind khan come-PFV.CVB
+Translation: One year later the khan came to pick up his son.
+Sentence: Neła quł sasaqosi, qˤašacekin ičinč’ey, č’ʷadma bäciru ƛeli bowa ik’inosi, eɣeni esiwr ƛuzabi gurow resun anu.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning get.up-TERM-even be-NEG.PST.CVB ruin-IN.ESS III-tie-PST.PRT lamb III-get-INF go-ANT.CVB young-DEF brother-LAT bone-PL except IV-find-PST.UNW be.NEG
+Translation: The next day, even before it got morning, he went to get the lamb which was tied to the ruin, and the young brother found nothing but bones.
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.

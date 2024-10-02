@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word retinäy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word retinäy: 
+
+Exact Matches
+Sentence: Retinäy debex mi yižo, retinäy q’ˤuyzix yegir.
+Gloss: IV-want-CND.CVB you-AD.ESS you II-lead-IMPR IV-want-CND.CVB other-ATTR.OBL-AD.ESS II-send
+Translation: If you want, marry her yourself, or if you want, send her to someone else.
+Sentence: Beynoda retinäy däde mežur ħalt’in yoł, deytow iłno kidno yoł mežux regiranixƛin, eƛin yiła yizirabi iduɣor bižin.
+Gloss: I.PL-work-INF IV-want-CND.CVB me-APUD.ESS you(I).PL.OBL-LAT work-and be me-GEN1-EMPH six daughter-and be you(I).PL.OBL-AD.ESS IV.PL-let-MSD-AD.ESS-QUOT say-PST.UNW DEM2.IISG.OBL-ERG DEM2.PL home-IN.ALL I.PL-lead-PST.UNW
+Translation: If you want to work, there's work for you at my place, and also my six daughters to be sent to you." she said and let them into her home.
+Sentence: Där retinäy di guluƛ’no zawƛin, eƛin žeduqor guluzaxoza.
+Gloss: me-LAT IV-want-CND.CVB me horse-SUPER.ESS-TOP ride-QUOT say-PST.UNW DEM1.IPL-POSS.LAT horse-PL-AD.ESS-ATTR.OBL-ERG
+Translation: "I will ride on a horse whenever I want," said the horseman.
+
+Approximate Matches:
+Sentence: Retinäy debex mi yižo, retinäy q’ˤuyzix yegir.
+Gloss: IV-want-CND.CVB you-AD.ESS you II-lead-IMPR IV-want-CND.CVB other-ATTR.OBL-AD.ESS II-send
+Translation: If you want, marry her yourself, or if you want, send her to someone else.
+Sentence: Xecač’inƛin inkar bodin žeda, bexurinč’ey xeca betinäy, łˤono ɣuruš neƛ elurƛin boqno bičin yizi.
+Gloss: leave-NEG.FUT.DEF-QUOT rejection I.PL-do-PFV.CVB DEM1.IPL.OBL-ERG III-kill-NEG.PST.UNW leave-INF III-want-CND.CVB three ruble give we(I).OBL-LAT-QUOT I.PL-become-PFV.CVB I.PL-be-PFV.CVB DEM2.IPL
+Translation: "We won't leave it.", they rejected, "If you want us not to kill it, give us three rubles!".

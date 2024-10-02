@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word raʕalłixorno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word raʕalłixorno: 
+
+Exact Matches
+Sentence: Raładyoz raʕalłixorno ik’in eɣeni žoyä qˤaƛu rak’run, yoƛixno k’oƛin sis ɣˤanabi.
+Gloss: sea-GEN2 edge-AD.LAT-TOP go-PFV.CVB young-DEF boy-ERG shout IV-beat-IMM.ANT.CVB II-appear-PFV.CVB jump-PST.UNW one woman
+Translation: And when the young boy went to the edge of the sea and shouted, a woman appeared and jumped out.
+
+Approximate Matches:
+Sentence: Hemedurtow, łox äƛirugon egirno xediw raładyoz raʕalłixor.
+Gloss: so-EMPH thrice ORD-CNTR send-PST.UNW husband sea-GEN2 edge-AD.LAT
+Translation: And so, for the third time, she sent her husband to the edge of the sea.
+Sentence: ʕAƛoz raʕalłixorgon baynosiƛin, eƛin babiya, elude dandir šuša žek’u ižin bik’ixozo xalq’imoqgon Aħmadä esirsi, eƛ’iyä yeda žek’u exasi, yagi žiƛboyäƛin.
+Gloss: village-GEN2 edge-AD.LAT-CNTR I.PL-come-ANT.CVB-QUOT say-PST.UNW dad-ERG we(I).OBL-APUD.ESS towards bury-INF man carry-PFV.CVB I.PL-go-PRS.PRT.OBL people-POSS.ESS-CNTR Akhmed-ERG ask-PST.WIT last.year-Q DEM2.ISG man die-RES.PRT or this.year-Q-QUOT
+Translation: "When we came to the edge of the village," said the father, "Akhmed asked the people that were coming towards us carrying a man to bury him: 'Has this man died last year or this year?'."
+Sentence: Q’ˤano äƛirugon ɣudƛ’o eɣeni esiw raładyoz raʕalłixor ik’in.
+Gloss: two ORD-CNTR day-SUPER.ESS young-DEF brother sea-GEN2 edge-AD.LAT go-PST.UNW
+Translation: On the second day, the younger brother went to the edge of the sea.

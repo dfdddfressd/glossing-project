@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣˤit’an.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣˤit’an
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣˤit’an:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yisi doxturqor taliħƛin sis q’ˤir koyiƛer riqin, nełaq t’it’aħinno ičin karačelyoza yeda lilyoxaɣor kurno.
+Gloss: DEM2.ISG.OBL doctor-POSS.LAT fortune-QUOT one board hand-SUB.LAT IV-get-PFV.CVB DEM1.IISG.OBL-POSS.ESS clutch-PFV.CVB-TOP remain-PFV.CVB wave.OBL-PL-ERG DEM2.ISG river.bank-AD.VERS throw-PFV.CVB
+Translation: Luckily, the doctor got to clutch the board and waves threw him on shore.
+Sentence: Žan nesis bit’araw yołƛin, eƛin kidbä, dowqor beč’no bigu hibo neƛsiyołi, nełan ʕuraw bigu kumak badiƛin.
+Gloss: DEM1.SG-TOP DEM1.ISG.OBL-GEN1 true be-QUOT say-PST.UNW daughter-ERG you-POSS.LAT III-cut-PFV.CVB III-good stick give-PST.WIT-COND.IRR DEM1.IISG.OBL-ERG-TOP very III-good help III-do-QUOT
+Translation: "That of him is true," said the girl, "if he carved a good cane and gave it to you, it would have been a good help."
+Sentence: Adäz elor bit’araw mec esixosini ayn.
+Gloss: ahead there-LAT true language tell-PRS.PRT-DEF come-PST.UNW
+Translation: The one who always said the truth went ahead.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Bazarganä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Bazarganä: 
+
+Exact Matches
+Sentence: Bisno bazarganä yisił adäza raħiräsi reƛis ħit’u eqerno.
+Gloss: III-take-PFV.CVB merchant-ERG DEM2.ISG.OBL-CONT.ESS before IV-cook-CAUS-RES.PRT meat-GEN1 pan put-PST.UNW
+Translation: The merchant took a pan of cooked meat and put it before him.
+Sentence: Xizaɣor bazarganä uži muk’urno oyn, nesä nesiz ƛirbadäɣor bik’inosi, elo sisxoli ɣˤanabi yesun.
+Gloss: finally merchant-ERG boy persuade-TOP do-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 comrade-APUD.VERS I.PL-go-ANT.CVB there alone woman II-find-PST.UNW
+Translation: Finally the merchant persuaded the boy and when they went to his own comrade, they found a single woman.
+Sentence: Užä ħit’ures iƛ’u nec’irxotow yižix yukaynosi, reƛ teƛxozoni bazarganä ža xizor oxirno.
+Gloss: boy-ERG pan-GEN1 bottom empty-IPFV.CVB-EMPH II-take.out-IPFV.CVB II-see-ANT.CVB meat sell-PRS.PRT.OBL-DEF merchant-ERG DEM1.SG back chase-PST.UNW
+Translation: When he saw that the boy was emptying the bottom of the pan, the meat-selling merchant chased him.
+
+Approximate Matches:
+Sentence: Buqbetaxor yizi sida iħuz lilyoxor baynosi, muši begiranix bazarganbin, yedan q’ˤida bičin.
+Gloss: sunset-AD.LAT DEM2.IPL one.OBL river-GEN2 river.bank-AD.LAT I.PL-come-ANT.CVB breath III-let-MSD-AD.ESS merchant-PL-and DEM2.ISG-and down I.PL-sit-PST.UNW
+Translation: Toward sunset, when they came to a river bank, the merchants and he sat down to take a break.
+Sentence: Q’ˤanosi bazargan žeda žeduz hunixno bik’in, sideni ħumukuliƛ’ zowrno uži ʕaƛar ayra nexno.
+Gloss: two-ATTR merchant DEM1.IPL-ERG DEM1.IPL.OBL-GEN2 way-AD.ESS-TOP III-go-PFV.CVB the.other.one camel-SUPER.ESS seat-PFV.CVB boy village-IN.LAT bring-INF come-PST.UNW
+Translation: Two merchants went on their way, the other one seated the boy onto the camel and brought him into the village.
+Sentence: Xedya esin, sosi di bełiqur tupiƛ ziya ħažis, xizyo ža tupin teƛno bazarganzaqay k’uk bissi, ža k’ukgon iħay łi ħaƛaƛin wˤałer užinosi, q’ˤimƛ’ay bˤoƛ’un bik’in łiya boɣno bižisƛin.
+Gloss: husband-ERG tell-PST.UNW at.first me hunter-LAT rifle-SUB.ESS cow exchange-PST.WIT afterwards DEM1.SG rifle-TOP sell-PFV.CVB merchant-PL-POSS.ABL cap III-buy-PST.WIT DEM1.SG cap-CNTR river-IN.ABL water drink-INF-QUOT downward-LAT bow.down-ANT.CVB head-SUPER.ABL III-fall-PFV.CVB III-go-PFV.CVB water-ERG III-take.away-PFV.CVB III-carry-PST.WIT-QUOT
+Translation: The husband told: "At first I exchanged the cow for a rifle with a hunter, then I sold the rifle and boughta cap from some merchants, this cap fell down from my head while I was about to drink from the river and the water carried it away."

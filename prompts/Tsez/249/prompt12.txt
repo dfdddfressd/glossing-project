@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yeɣenigon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yeɣenigon: 
+
+Exact Matches
+Sentence: Hič’č’a yeɣenigon hardizi oqa oqno, däx horoƛin.
+Gloss: the.most II-young-DEF-CNTR request become-INF begin-PST.UNW me-AD.ESS come.IMPR-QUOT
+Translation: Then the youngest one began to request: "Come to me!"
+
+Approximate Matches:
+Sentence: Sida quł neširu aħna-ik’anix maħor oqnosi, reɣeni xaličan, beɣenigon magalun bäqiruni xanzo nukarer q’orolaz idäzay beɣe xexzas guru teqno.
+Gloss: one.OBL day-CONT.ESS evening walk.for.a.while-MSD-AD.ESS outside become-ANT.CVB IV-small-DEF mat-and III-small-DEF-CNTR bread-and III-get-PST.PRT-DEF khan-GEN2 henchman-LAT widow-GEN2 home-IN.ABL.DIST I.PL-young children-GEN1 crying hear-PST.UNW
+Translation: One day, in the evening, one of the king's henchmen who went outside to walk for a while and got a small mat and a small bread heard the crying of young children from the home of the widow.

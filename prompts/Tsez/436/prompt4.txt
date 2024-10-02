@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hunäsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hunäsi: 
+
+Exact Matches
+Sentence: Tabanaw hunäsi hunä yik’in yedu sidaɣ ɣˤutkoxor yaynosi, tełxor yoqno.
+Gloss: long way-IN.ESS-ATTR way-IN.ESS II-go-PFV.CVB DEM2.IISG in.one.place house-AD.LAT II-come-ANT.CVB inside-AD.LAT II-become-PST.UNW
+Translation: When she came to a house somewhere on the long way she was going on, she went inside.
+
+Approximate Matches:
+Sentence: Yizi nexxo bukayrun, žas babiw žedus hunärƛin nexƛ’oräy, užä xexłiƛ’ ħumukuliƛ’ay q’ayn boɣno bazargan xizor utirno.
+Gloss: DEM2.IPL come-IPFV.CVB I.PL-see-IMM.ANT.CVB boy-GEN1 father DEM1.IPL-GEN1 way-IN.LAT-QUOT come-SIM.CVB boy-ERG quickness-SUPER.ESS camel-SUPER.ABL article-TOP III-take.away-PFV.CVB merchant back turn-PST.UNW
+Translation: When the boy's father came on their way as he saw them coming, the boy quickly took the goods off the camel and the merchant went back.
+Sentence: Neširugon žedu baħnayx zawrunitow hunäza q’ˤanon esnabi micxir bok’ek’anix bayn.
+Gloss: at.night-CNTR DEM1.IPL I.PL-walk.around-IPFV.CVB be.NPRS-PST.PRT-DEF-EMPH way-IN.VERS.DIST two-TOP brother-PL money III-steal-MSD-AD.ESS I.PL-come-PST.UNW
+Translation: At night, then, the two brothers came on the same way they had been walking on, to steal the money.

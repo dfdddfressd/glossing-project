@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žek’u.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žek’u
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žek’u:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Hag oqno ƛexun ečruni žek’u.
+Gloss: amazingly become-PFV.CVB remain-PFV.CVB old-DEF man
+Translation: The old man was amazed.
+
+Approximate Matches:
+Sentence: Bilq’isdis duʕan q’abul bodin, ozzataw oqno xediwn, xedyos esiwn, ža xanez madaxosini žek’un, eženis łˤonon užin, yedu teƛno zawruni gamiƛ’osi žek’un.
+Gloss: Bilqisdi-GEN1 prayer-TOP receive III-do-PFV.CVB eye-PL-without become-PFV.CVB husband-and husband-GEN1 brother-and DEM1.SG khan-GEN2 gate-AD.ESS-ATTR-DEF man-and old-DEF-GEN1 three-TOP son-and DEM2.IISG sell-PFV.CVB be.NPRS-PST.PRT-DEF boat-SUPER.ESS-ATTR man-and
+Translation: Bilqisdis prayer was received, the husband, the husband's brother, that king's guard, the three sons of the old man and the sailor to whom they sold her got blind.
+Sentence: Xizyogon esirno nesä, nesi t’omceni žek’ur roqäsi šebintow yołä, łuq’zinan oqäsi zowä žaƛin.
+Gloss: then ask-PST.UNW DEM1.ISG.OBL-ERG DEM1.ISG.OBL span-EQU1-DEF man-LAT IV-happen-RES.PRT thing-EMPH be-PST.WIT.INT hurt-INT become-RES.PRT be.NPRS-PST.WIT.INT DEM1.SG-QUOT
+Translation: Then he asked: "Did anything happen to the span-sized man, was he hurt?"
+Sentence: Ħayran boqno yizä sidä sidqor eƛin, eloš nesi žek’uł adäza anusi šebinonwa anu, hudun nesiq łinaƛ’orkin reƛ’a regirełxanuwaƛin.
+Gloss: be.astonished I.PL-become-PFV.CVB DEM2.IPL-ERG one.OBL-ERG one.OBL-POSS.LAT say-PST.UNW over.there DEM1.ISG.OBL man-CONT.ESS before be.NEG-ATTR something-Q be.NEG nevertheless DEM1.ISG.OBL-POSS.ESS what.OBL-SUPER.LAT-even hand IV-let-POT-PRS-NEG-Q-QUOT
+Translation: They were surprised and talked among each other: "Isn't there everything possible on the table, but he nevertheless can't let his hand to any of it?"

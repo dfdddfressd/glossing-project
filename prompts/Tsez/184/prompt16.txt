@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ʕAliqilično.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ʕAliqilično
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ʕAliqilično:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Howži elorno ik’in, žedu miƛ’bi roƛixace ʕAliqilič ezun ičin.
+Gloss: now there-LAT-TOP go-PFV.CVB DEM1.IPL.OBL ram-PL III.PL-appear-TERM Aliqilich look-PFV.CVB be-PST.UNW
+Translation: So now Aliqilich went there and looked for the rams to appear.
+Sentence: ʕAliqiličä nełaz c’eruc’a caƛin.
+Gloss: Aliqilich-ERG DEM1.IISG.OBL-GEN2 bow throw-PST.UNW
+Translation: Aliqilich shot with his bow.
+Sentence: Sida ɣudi ik’in, q’ˤuna ɣudi ik’in, łˤora äƛiza quł ʕAliqilič sida maydanƛ’or ayn.
+Gloss: one.OBL day go-PFV.CVB two.OBL day go-PFV.CVB three.OBL ORD-ATTR.OBL-IN.ESS day-CONT.ESS Aliqilich one.OBL clearance-SUPER.LAT come-PST.UNW
+Translation: He went one day, two days, and on the third day Aliqilich came to a clearance.

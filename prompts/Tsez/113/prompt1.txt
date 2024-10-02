@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Howžigoƛ’ay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Howžigoƛ’ay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Howžigoƛ’ay:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Howžigoƛ’aygon c’odorawnä esirno dibirqo, debez baruq šilabi zowwäƛin.
+Gloss: now-COND-SUPER.ABL-CNTR clever-DEF-ERG ask-PST.UNW mullah-POSS.ESS you-GEN2 wife-POSS.ESS horn-PL be.NPRS-PST.WIT.Q-QUOT
+Translation: This time the clever one asked the mullah: "Did your wife have horns?"

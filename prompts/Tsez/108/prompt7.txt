@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: dädäɣor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": dädäɣor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word dädäɣor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Horo dädäɣor.
+Gloss: come.IMPR me-APUD.VERS
+Translation: "Come to me!
+
+Approximate Matches:
+Sentence: Xizyo mi däder horo debertown aq’ˤlu betin besunäyƛin, bełiqa xandäɣor uži egirno.
+Gloss: afterwards you me-APUD.LAT come.IMPR you-LAT-EMPH-TOP advice III-want-PFV.CVB III-appear-CND.CVB-QUOT hunter-ERG khan-APUD.VERS son send-PST.UNW
+Translation: Then come to me, in case you want some advice," and the hunter sent his son to the king.
+Sentence: Neširur ħalt’in łiyrno, ečruni žek’a näƛruni łˤono ɣurušno eqerno, uži eniwdäɣor iduɣor ik’ix zown.
+Gloss: at.night-LAT work-TOP finish-PFV.CVB old-DEF man-ERG give-PST.PRT-DEF three ruble-TOP put-PFV.CVB boy mother-APUD.VERS home-IN.ALL go-IPFV.CVB be.NPRS-PST.UNW
+Translation: The boy finished his work late at night, took the three rubles that the old man gave him, and went home to his mother.
+Sentence: Deber rätiru šebinon risno debez mi eni- obiydäɣor yik’iƛin”.
+Gloss: you-LAT IV-want-PST.PRT something IV-take-PFV.CVB you-GEN2 you mother father-APUD.VERS II-go-QUOT
+Translation: Take whatever you want, then go to your parents.

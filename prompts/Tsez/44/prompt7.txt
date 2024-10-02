@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xandäɣor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xandäɣor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xandäɣor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyo yeda neła šaharyoz xandäɣor ik’in.
+Gloss: afterwards DEM2.ISG DEM1.IISG.OBL city-GEN2 khan-APUD.VERS go-PST.UNW
+Translation: Afterwards he went to that city's king.
+Sentence: Xizyo mi däder horo debertown aq’ˤlu betin besunäyƛin, bełiqa xandäɣor uži egirno.
+Gloss: afterwards you me-APUD.LAT come.IMPR you-LAT-EMPH-TOP advice III-want-PFV.CVB III-appear-CND.CVB-QUOT hunter-ERG khan-APUD.VERS son send-PST.UNW
+Translation: Then come to me, in case you want some advice," and the hunter sent his son to the king.
+Sentence: Zira bik’in, xanä täƛruni, Goqiq šeƛ’un šeƛ’urno, guluƛ’no zowerno xandäɣor hunix boqno.
+Gloss: fox-ERG III-go-PFV.CVB khan-ERG give-PST.PRT-DEF Goqi-POSS.ESS clothing-and put.on-CAUS-PFV.CVB horse-SUPER.ESS-and seat-PFV.CVB khan-APUD.VERS way-AD.ESS I.PL-become-PST.UNW
+Translation: The fox left, let Goqi put on the clothes and get on the horse given by the king and so they went on their way to the king.
+
+Approximate Matches:
+Sentence: Kʷaxatow xanes kid habihandäɣor nexno.
+Gloss: soon-EMPH khan-GEN1 daughter miller-APUD.VERS come-PST.UNW
+Translation: Soon the king's daughter returned to the miller.

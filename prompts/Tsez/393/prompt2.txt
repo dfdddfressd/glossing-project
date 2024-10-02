@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word sidxor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word sidxor: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hudun žedu nełaƛ’ ƛ’iri butin ɣudi rayrno, elułäy sidxokin mi nexinč’inäy, bazaryarno yižin teƛa yołƛin.
+Gloss: nevertheless DEM1.IPL DEM1.IISG.OBL-SUPER.ESS on I.PL-turn-PFV.CVB day IV-bring-PFV.CVB we(I).OBL-CONT.ABL one.OBL-AD.ESS-even you come-NEG.FUT.CVB-CND.CVB bazar-IN.LAT-TOP II-lead-PFV.CVB sell-INF be-QUOT
+Translation: Nevertheless, they tortured her again: "If you don't marry any of us, we will take you to the market and sell you!"
+Sentence: Didurnokin yiła žedu sidxokin yik’anix roži teƛno anu, dey xediw yołƛin.
+Gloss: how-TOP-even DEM2.IISG.OBL-ERG DEM1.IPL.OBL one.OBL-ADV-even II-go-MSD-AD.ESS word give-PFV.CVB be.NEG me-GEN1 husband be-QUOT
+Translation: However she did not agree to go to anyone of them: "I have a husband."

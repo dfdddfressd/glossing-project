@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qˤirič’no in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qˤirič’no: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Naysinan ža qˤirič’ k’edixozos riłen rodin, xizaɣor Bilq’isdiz mežiƛäzay risno xanqor teƛno, ele debez gulus maħi räč’runi qˤirič’ƛin.
+Gloss: everywhere DEM1.SG scissors search-PRS.PRT.OBL-GEN1 IV-as-TOP IV-do-PFV.CVB finally Bilqisdi-GEN2 mattress-SUB.ABL.DIST IV-take-PFV.CVB khan-POSS.LAT give-PFV.CVB here you-GEN2 horse-GEN1 tail IV-cut-PST.PRT-DEF scissors-QUOT
+Translation: He pretended to search for the scissors everywhere and finally took it from under Bilqisdi's mattress and gave it to the king: "Here, the scissors which cut off your horses tail."

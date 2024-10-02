@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xanqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xanqor: 
+
+Exact Matches
+Sentence: Nesä xanqor eƛin, zam-zames łi ħaƛunay, saɣ oqno ciqqosi bełi iłe aq miƛin.
+Gloss: DEM1.ISG.OBL-ERG khan-POSS.LAT say-PST.UNW Zam-Zam-GEN1 water drink-CND.CVB cure become-PFV.CVB forest-POSS.ESS-ATTR deer as become you-QUOT
+Translation: He said to the king: "If you drink the holy water, you will get cured and become [as healthy] as a forest deer!"
+Sentence: Xizyo nesi nukarä xanqor eƛin, howža bełiqus uži egirčey neła aɣił xizay, nesä biqär žaƛin.
+Gloss: afterwards DEM1.ISG.OBL henchman-ERG khan-POSS.LAT say-PST.UNW DEM4.SG hunter-GEN1 son send-INTS DEM1.IISG.OBL bird-CONT.ESS behind DEM1.ISG.OBL-ERG III-catch DEM1.SG-QUOT
+Translation: Then the henchman said to the king, "Send that hunter's son after the bird, he will catch it."
+Sentence: Xizyogon nukarä xanqor eƛin, raładno boɣno bitaz puƛ’aza yołƛin teqxo bokobin, k’ukyabin raqˤuxosi kidƛin, nełał xizaygon elor egiranix bełiquz užiƛ’ay mustaħiq’aw žek’un anuƛin.
+Gloss: again henchman-ERG khan-POSS.LAT say-PST.UNW sea-TOP III-cross-PFV.CVB distance-IN.ESS.DIST side-SUPER.VERS.DIST be-QUOT hear-PRS fur.coat-PL-and cap-PL-and III.PL-sew-PRS.PRT girl-QUOT DEM1.IISG.OBL-CONT.ESS behind-CNTR there-LAT send-MSD-AD.ESS hunter-GEN2 son-SUPER.ABL suitable man-TOP be.NEG-QUOT
+Translation: Again the henchman said to the king, "On the other side of the sea, as I have heard, lives girl wo sews coats and caps; there is no man more suitable than the hunter's son to be sent there after her."
+
+Approximate Matches:
+Sentence: Ya yexun yäsu ža, ya č’agu yäsuƛin xanqorno eƛin, yedu režet’ani esnazadäɣor yik’in, xanesno yiłasno baqru xabaryołäy esanix.
+Gloss: either II-die-PFV.CVB II-exist DEM1.SG either alive II-exist-QUOT khan-POSS.LAT-TOP say-PFV.CVB DEM2.IISG IV-old-DISTR-DEF sister-PL-APUD.VERS II-go-PFV.CVB khan-GEN1-and DEM2.IISG.OBL-GEN1-and III-happen-PST.PRT story-CONT.ABL tell-MSD-AD.ESS
+Translation: Maybe she is dead, or maybe she is alive." she said to the king, went to the older sister and told that story that happened to her and the king.

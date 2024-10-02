@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’ˤanon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’ˤanon: 
+
+Exact Matches
+Sentence: Yiłagon q’ˤanon xanes xexbi - užin, kidno k’emot’ya tełno eqerno, iħułxor kurno.
+Gloss: DEM2.IISG.OBL-CNTR two-TOP khan-GEN1 children - son-and daughter-and wooden.case-IN.ESS inside-TOP put-PFV.CVB river-CONT.VERS throw-PST.UNW
+Translation: But those two children of the king - the son and the daughter - she put into a wooden case and threw them into the river.
+Sentence: Neła quł sasaqtow moƛaxayn bizin, ixinno risno, q’ˤanon gagalazał xizay ħonƛ’aɣor boqno.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH sleep-AD.ABL-TOP I.PL-get.up-PFV.CVB bag-TOP IV-take-PFV.CVB two-TOP flower-PL-CONT.ESS behind mountain-SUPER.VERS I.PL-become-PST.UNW
+Translation: The next morning, the two of them got up from their sleep, took a back and went to the mountain for flowers.
+Sentence: Elo yizi sidä sidƛ’o łeɣin, q’ˤanon akiłace biħanayn.
+Gloss: there DEM2.IPL one.OBL-ERG one.OBL-SUPER.ESS grasp-PFV.CVB two-TOP get.tired-TERM I.PL-fight-PST.UNW
+Translation: There they grasped each other and fought until the two of them got tired.
+
+Approximate Matches:
+Sentence: Sidä sidqo rak’ru kedonyozaz haraƛ’yo, akiłno (kodin bitin) q’ˤanontow q’ˤidar bˤoƛ’un.
+Gloss: one.OBL-ERG one.OBL-POSS.ESS II.PL-hit-PST.PRT sledgehammer-PL-GEN2 noise-ERG get.tired-PFV.CVB hair-TOP III-touch-PFV.CVB two-TOP-EMPH down-LAT I.PL-fall-PST.UNW
+Translation: The noise of the sledgehammers, when they hit one another, made the two of them loose conscience and fall down.
+Sentence: Bečedawni žek’a nesi žaq q’ˤanontow ganbi regirno.
+Gloss: wealthy-DEF man-ERG DEM1.ISG.OBL boy-POSS.ESS two-TOP-EMPH bull.calf-PL III.PL-send-PST.UNW
+Translation: And the rich man sent the two bulls to this boy.

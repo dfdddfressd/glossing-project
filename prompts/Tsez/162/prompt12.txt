@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bäžiru.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bäžiru
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bäžiru:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Doxturza nesiqor eƛin, budalazaqor (łarašaw ɣˤanazas axʷay bäžiru xexbi) bexada bäqinč’iru bełis reƛ rac’näy, mi saɣ aqƛin.
+Gloss: doctor-PL-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW budalay-PL-POSS.LAT pregnant woman-GEN1 belly-IN.ABL III-take.out-PST.PRT child III-slaughter-INF III-get-NEG.FUT.CVB-PST.PRT deer-GEN1 meat III.PL-eat-CND.CVB you cure become-QUOT
+Translation: The doctors said to him: "If you eat meat of a deer which did not get slaughtered for the budalays, you will get cured."
+
+Approximate Matches:
+Sentence: ƛ’irir yayru žaz eniya eƛin, xexzas žirbabi recurxo ičinč’ey, yok’ek’no yäžiruni debez mi esiws ʕadlu šida boyxanuƛin.
+Gloss: above-LAT II-come-PST.PRT boy-GEN2 mother-ERG say-PST.UNW child-GEN1 rib-PL IV.PL-break-IPFV.CVB be-NEG.PST.CVB II-steal-PFV.CVB II-carry-PST.PRT-DEF you-GEN2 you sister-GEN1 order why III-do-IPFV.CVB-NEG-QUOT
+Translation: The boy's mother came and said: "There child's ribs were not broken, why don't you fulfill your stolen sister's orders?"

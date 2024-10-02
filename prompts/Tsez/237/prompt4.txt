@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yik’inč’eytow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yik’inč’eytow: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hudu xedyox yik’inč’ey, nece yeže yizace šida yičäsiƛin bełiqanä esirnosi, neła esin nesiq, t’omceni žek’ur yegira retixanuƛin.
+Gloss: so husband-AD.ESS II-go-NEG.PST.CVB so.much II-old II-get-TERM why II-wait-RES.PRT-QUOT hunter-ERG ask-ANT.CVB DEM1.IISG.OBL-ERG tell-PST.UNW DEM1.ISG.OBL-POSS.ESS span-EQU1-DEF man-LAT II-let-INF IV-want-IPFV.CVB-NEG-QUOT
+Translation: When the hunter asked: "So why don't you go to a husband but wait until you get old?", she said to him: "The span-sized man doesn't want to let me [go]."

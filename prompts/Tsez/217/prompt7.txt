@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣˤulno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣˤulno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣˤulno:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Aluk’ani ɣˤulader aynosi, žan sidaɣar yiq’ˤirno imxaɣor oqno ik’inosi, žar eniw yesun.
+Gloss: white-DEF stone-APUD.LAT come-ANT.CVB DEM1.SG-TOP in.one.place-IN.LAT II-move.aside-PFV.CVB cave-IN.VERS become-PFV.CVB go-ANT.CVB boy-LAT mother II-find-PST.UNW
+Translation: After he arrived at the white stone, he moved it aside and got into the cave and then he found his mother.
+Sentence: Łinasnokin pikru boynč’ey, esnabi ɣˤulabi caƛix qidobi kuša boqno.
+Gloss: what.OBL-GEN1-TOP-even idea III-do-NEG.PST.CVB brother-PL stone-PL throw-IPFV.CVB wall-PL demolish-INF I.PL-begin-PST.UNW
+Translation: Without thinking, the brothers began demolishing the wall by throwing stones.
+Sentence: Ža gagirun, suƛi gula neł iħay ɣˤay ħaƛurun, gulun, užintown ɣˤuler butix.
+Gloss: DEM1.SG escape-IMM.ANT.CVB suddenly horse-ERG DEM1.IISG.OBL river-IN.ABL milk drink-IMM.ANT.CVB horse-and boy-and-EMPH-TOP stone-LAT I.PL-turn-PRS
+Translation: Right after it had escaped, the horse suddenly drank the milk from that river and the horse and the boy turned to stone.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mešori in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mešori: 
+
+Exact Matches
+Sentence: Idur xediw ayrun baru daʕba boda c’oxno, ɣudi adäy eluq mešori bexada bayx, šidaƛin eƛiłiri nełqay didiwnkin mumpaʕat anu, ʕadada käkirułi gurow.
+Gloss: home-LAT husband come-IMM.ANT.CVB wife dispute III-do-INF meet-PFV.CVB day earlier we(I).OBL-POSS.ESS heifer III-slaughter-INF III-must-IPFV.CVB why-QUOT say-CND.CVB.IRR DEM1.IISG.OBL-POSS.ABL which-TOP-even benefit be.NEG to.no.purpose feed-MSD except
+Translation: As soon as the husband had come home, the wife started to insist: "Soon this day we have to slaughter the heifer, because there's no benefit whatsoever from it except for feeding [it] in vain."
+Sentence: Xizaɣor, ƛ’iri baru yutizaƛ’, xediw mešori bexada razi oqno.
+Gloss: finally above wife II-turn-CSL.CVB husband heifer III-slaughter-INF agree become-PST.UNW
+Translation: Finally, because the wife convinced him, the husband agreed to slaughter the heifer.
+
+Approximate Matches:
+Sentence: Howži deber retinäy bexad, retinč’inäy bexaynƛin, eƛin riynoxa mešorłäy.
+Gloss: now you-LAT IV-want-CND.CVB III-slaughter IV-want-NEG.FUT-CND.CVB III-slaughter-PROHIB-QUOT say-PST.UNW sheikh-ERG heifer-CONT.ABL
+Translation: Now if you want to, then slaughter it, and if you don't want to, don't slaughter it!", said the sheikh about the heifer.

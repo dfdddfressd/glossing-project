@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word neƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word neƛ: 
+
+Exact Matches
+Sentence: Howži žedu nesiƛ’or butin, neƛ elur araq’iƛin.
+Gloss: now DEM1.IPL DEM1.ISG.OBL-SUPER.LAT I.PL-turn-PFV.CVB give we(I).OBL-LAT vodka-QUOT
+Translation: Now they turned on him: "Give us the vodka!"
+Sentence: Nesä užiqor eƛin, ža aɣi däqor neƛ xaner bižanixƛin.
+Gloss: DEM1.ISG.OBL-ERG boy-POSS.LAT say-PST.UNW DEM1.SG bird me-POSS.LAT give khan-LAT III-carry-MSD-AD.ESS-QUOT
+Translation: He said to the boy, "Give me that bird, so I can carry it to the king."
+Sentence: Neła eƛin, darno rac’anix šebin neƛ, dowƛ’or ɣudi rayza quł, nagon boqłin din bäsu debez ħalarƛin.
+Gloss: DEM1.IISG.OBL say-PFV.CVB me-LAT-TOP IV-eat-MSD-PRS thing give you-SUPER.LAT day IV-come-LCV.CVB day-CONT.ESS where-CNTR III-happen-CNC.CVB me-TOP III-find you-GEN2 trouble-IN.LAT-QUOT
+Translation: The bear said, "Give me something to eat, one day I will find you, if you will be in trouble."
+
+Approximate Matches:

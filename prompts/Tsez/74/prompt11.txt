@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bic’a.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bic’a
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bic’a:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ƛ’iri ayäsi ƛirba oqzaƛ’ aždaħa p’estow anusi kikxay łäs q’ut’u bic’a begirno.
+Gloss: above come-RES.PRT guest become-CSL.CVB dragon-ERG voice-EMPH be.NEG-ATTR spring-AD.ABL water-GEN1 earthen.jug III-fill-INF III-let-PST.UNW
+Translation: Because it was a guest who was coming, the dragon let him fill his jug with water from the spring without saying anything.
+Sentence: Łox äƛirugon mač’an risno ik’in ža kikxaɣor q’ut’u bic’a.
+Gloss: thrice ORD-CNTR dagger-TOP IV-take-PFV.CVB go-PST.UNW DEM1.SG spring-AD.VERS earthen.jug III-fill-INF
+Translation: The third time he took a dagger and went to the spring to fill the jug with water.
+Sentence: Deberno p’es anusi bičinäy, rigu räčiƛin, - eƛin yeda tungi bic’a iħun.
+Gloss: you-LAT-TOP sound be.NEG-ATTR III-be-CND.CVB IV-good IV-be-QUOT - say-PFV.CVB DEM2.ISG copper.jug III-fill-INF begin-PST.UNW
+Translation: It will be good also for you to be quiet", he said and came to fill the jug.
+
+Approximate Matches:
+Sentence: Xizyo yiła nesiƛ’or qˤaradamu łäs bic’asi t’asno biħurno, ža mežärsi odin.
+Gloss: afterwards DEM2.IISG.OBL-ERG DEM1.ISG.OBL-SUPER.LAT boiling water-GEN1 III-fill-RES.PRT washbowl-TOP III-pour-PFV.CVB DEM1.SG mattress-IN.LAT-ATTR do-PST.UNW
+Translation: Afterwards, she poured a washbowl filled with boiling water over him, and made him bed-ridden.
+Sentence: Hemełƛ’o xizyo nucos bic’alini q’ilimay yeda maħorno oqno, eženi esiws q’ˤimno risno iduɣor oxin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS after honey-GEN1 III-fill-ATTR-DEF qili-IN.ABL DEM2.ISG outside-TOP become-PFV.CVB old-DEF brother-GEN1 head-TOP IV-take-PFV.CVB home-IN.ALL run.away-PST.UNW
+Translation: After that, he got out of the honey-filled pot, took the older brother's head and ran home.

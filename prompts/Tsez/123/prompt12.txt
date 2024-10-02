@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žoyä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žoyä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žoyä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ɣˤutkun, ƛen rodin łiyzaƛ’, žoyä eniw k’ox äƛirugon kidno esirno xander yegirno.
+Gloss: house-and bridge-and III.PL-do-PFV.CVB end-CSL.CVB boy-ERG mother twice ORD-CNTR girl-TOP ask-PFV.CVB khan-APUD.LAT II-send-PST.UNW
+Translation: When the house and the bridge were finished, the boy sent his mother to the king a second time to ask for the girl.
+Sentence: Kʷaxatow bertenno boyn yedu kid nesi žoyä yižin.
+Gloss: soon-EMPH marriage-TOP III-do-PFV.CVB DEM2.IISG girl DEM1.ISG.OBL boy-ERG II-lead-PST.UNW
+Translation: Soon they celebrated their wedding and the boy took the girl with him.
+Sentence: Sasaqtow izin žoyä ros bič’anix bašla bodin.
+Gloss: in.the.morning-EMPH get.up-PFV.CVB boy-ERG base III-dig-MSD-AD.ESS begin III-do-PST.UNW
+Translation: In the morning the boy got up and began to dig the base.
+
+Approximate Matches:

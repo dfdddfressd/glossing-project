@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łˤonoqu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łˤonoqu: 
+
+Exact Matches
+Sentence: Neła reƛił xizay bełiƛ’ xanes łˤonoqu nukar oqno.
+Gloss: DEM1.IISG.OBL meat-CONT.ESS behind hunting-SUPER.ESS khan-GEN1 sixty henchman become-PST.UNW
+Translation: Sixty of the king's henchmen went behind that meat.
+Sentence: Łˤono äƛiru ɣudƛ’ogon xanä łˤonoqu nukar egirno ayrno, q’ˤanon esnabin, Beqes ʕUneyzatno sadaq yowanixƛin.
+Gloss: three ORD day-SUPER.ESS-CNTR khan-ERG sixty henchman send-PFV.CVB call-PST.UNW two-TOP brother-PL-and sun-GEN1 Uneyzat-and together II-bring-MSD-AD.ESS-QUOT
+Translation: On the third day, the king sent sixty henchmen and let them bring the two siblings and Sun's Uneyzat.
+Sentence: Qˤašizaƛ’or rišin neła rut’ugabi, łˤonoqu äƛiru rut’ugar dahaw moxon ʕeze boqinč’ey, q’ˤuyaniƛ’ay ža q’ˤuna bašice k’ot’ono roqno.
+Gloss: dawn-POST.CVB IV.PL-weave-PFV.CVB DEM1.IISG.OBL-ERG carpet-PL sixty ORD carpet-LAT a.little fat-AD.ESS-TOP be.enough III-become-NEG.PST.CVB other-DEF-SUPER.ABL DEM1.SG two.OBL finger-EQU1 short IV-become-PST.UNW
+Translation: Until dawn she weaved carpets, but the thread was a little too short for the sixtieth carpet, so it became two fingers shorter than the others.
+
+Approximate Matches:
+Sentence: Łˤonoqu nukar egirno xanä zam-zames łäł xizay.
+Gloss: sixty henchman send-PST.UNW khan-ERG Zam-Zam-GEN1 water-CONT.ESS behind
+Translation: The king sent sixty henchmen behind the holy water.

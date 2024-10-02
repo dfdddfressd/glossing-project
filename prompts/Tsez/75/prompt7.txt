@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: howžin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": howžin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word howžin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Di yoł debi xexbin rexurno, howži mi bexuranix nexʷasi žek’uƛin”, - eƛin ʕAliqiličä.
+Gloss: me be you-GEN1 children-TOP III.PL-kill-PFV.CVB now you III-kill-MSD-AD.ESS come-RES.PRT man-QUOT - say-PST.UNW Aliqilich-ERG
+Translation: "I am a man who killed your children, and now came to kill you", said Aliqilich.
+Sentence: Zira yisiqor eƛin, dice di boc’aq bˤuƛ’äsi zowä, žedaƛ’aygon di debeq bˤuƛ’äsi zows, šida mi di howži begirno xecäƛin.
+Gloss: fox-ERG DEM2.ISG.OBL-POSS.LAT say-PST.UNW how.much me wolf.PL-POSS.ESS III-be.afraid-RES.PRT be.NPRS-PST.WIT.INT DEM1.IIPL.OBL-SUPER.ABL-CNTR me you-POSS.ESS III-be.afraid-RES.PRT be.NPRS-PST.WIT why you me now III-send-PFV.CVB leave-PST.WIT.INT-QUOT
+Translation: The fox said to him, "I was so afraid of the wolves, and even more afraid of you than of them; why did you leave me here now?"
+Sentence: Zozis ƛ’ˤu yołäsi qoš zawru, howži elo rigu bercinaw ɣˤutku yołƛax.
+Gloss: moss-GEN1 roof be-RES.PRT shelter be.NPRS-PST.PRT now there IV-good beautiful house be-QUOT
+Translation: Where the shelter with the moss roof used to be, there was now a good, beautiful house.

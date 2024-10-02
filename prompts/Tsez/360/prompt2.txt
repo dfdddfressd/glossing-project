@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yezanixƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yezanixƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža xabarno teqno obiwn, užin bezanixƛin bik’inosi, yisir suƛƛi yukayruntow yiyn yedu yisis baru yałru.
+Gloss: DEM1.SG story-TOP hear-PFV.CVB father-and son-and I.PL-look-MSD-AD.ESS-QUOT I.PL-go-ANT.CVB DEM2.ISG.OBL-LAT immediately II-see-IMM.ANT.CVB-EMPH II-know-PFV.CVB DEM2.IISG DEM2.ISG.OBL-GEN1 wife be-PST.PRT
+Translation: Having heard of this story, the father and his son went to have a look and he immediately knew when seeing her, that it was his wife.
+Sentence: Nesiƛ’ bezanixƛin bayru ahlimor žoyä bˤeƛ’es šebint’a teƛxo zown.
+Gloss: DEM1.ISG.OBL-SUPER.ESS I.PL-look-MSD-AD.ESS-QUOT I.PL-come-PST.PRT people-LAT son-ERG sheep-GEN1 thing-DISTR give-IPFV.CVB be.NPRS-PST.UNW
+Translation: The son gave out one sheep each for every person who came to look after him.

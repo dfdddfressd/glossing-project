@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žeduq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žeduq: 
+
+Exact Matches
+Sentence: Neširaɣor bełiqanbi baynosi, žeduq raqru šebin esin.
+Gloss: evening-IN.VERS hunter-PL I.PL-come-ANT.CVB DEM1.IPL.OBL-POSS.ESS IV-happen-PST.PRT thing tell-PST.UNW
+Translation: In the evening, when the hunters came, they told them what had happened.
+Sentence: Di mi žeduq ukarač’inƛin, eƛin zira.
+Gloss: me you DEM1.IPL-POSS.ESS show-NEG.FUT.DEF-QUOT say-PFV.CVB fox-ERG
+Translation: "I will not show you," the fox said.
+Sentence: K’oƛin bik’in yizirabi sist’a c’oxłin, q’ˤanot’a c’oxłin, c’ik’iwtow c’oxłin aždaħes q’ˤim žeduq q’ˤiday k’ek’-rik’no anu.
+Gloss: run-PFV.CVB I.PL-go-PFV.CVB DEM2.PL one.at.a.time meet-CNC.CVB two.at.a.time meet-CNC.CVB all-EMPH meet-CNC.CVB dragon-GEN1 head DEM1.IPL.OBL-POSS.ESS down-IN.ABL IV-move-PST.UNW be.NEG
+Translation: Although running around, they came together one at a time, two at a time, and then all together, but couldn't lift the dragon's head up to them.
+
+Approximate Matches:
+Sentence: Užä žeduqor eƛin, ža bikori sida ħala xec meža, neła mežur royxosi žukłi šebiƛin.
+Gloss: boy-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW DEM1.SG snake one.OBL condition-IN.ESS leave you(I).PL.OBL-ERG DEM1.IISG.OBL-ERG you(I).PL.OBL-LAT IV-do-PRS.PRT evil what-QUOT
+Translation: The boy said to them: "Let go of the snake, what's the evil thing it has done to you?!"
+Sentence: Boɣno žeduqay bigu gulun, nełaƛ’no zown buq boƛäxza puƛ’aɣor ik’in.
+Gloss: III-take.away-PFV.CVB DEM1.IPL.OBL-POSS.ABL III-good horse-and DEM1.IISG.OBL-SUPER.ESS-TOP be.NPRS-PFV.CVB sun III-appear-LCV side-SUPER.VERS go-PST.UNW
+Translation: He took the good horse from them, and rode on it towards the sunrise.
+Sentence: Xizyo nesä žeduqor eƛin, howt’o ʕaƛa di łi roƛik’näy, šebi meža där baha boyxƛin.
+Gloss: afterwards DEM1.ISG.OBL-ERG DEM1.IPL-POSS.LAT say-PST.UNW here village-IN.ESS me water IV-pull.out-CND.CVB what you(I).PL.OBL-ERG me-LAT price III-do-PRS-QUOT
+Translation: Afterwards he said to them: "If I pull out water here in the village, what price do you pay me?"

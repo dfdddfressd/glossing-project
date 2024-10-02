@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bertenno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bertenno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bertenno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Kʷaxatow bertenno boyn yedu kid nesi žoyä yižin.
+Gloss: soon-EMPH marriage-TOP III-do-PFV.CVB DEM2.IISG girl DEM1.ISG.OBL boy-ERG II-lead-PST.UNW
+Translation: Soon they celebrated their wedding and the boy took the girl with him.
+Sentence: Yisä yisir łˤora ɣudi bertenno erno, bercinawƛ’ay bercinawt’a kidbabin rukarno, howt’aytow barun yižoƛin harizin rodin, roƛik’u xanłin riso howt’otow uyn iči, mi iłe baħarči naynkin t’ok’ow elur äqinč’iƛin.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-LAT three.OBL day marriage-and put-PFV.CVB beautiful-SUPER.ABL beautiful-DISTR girl-PL-and II.PL-show-PFV.CVB from.here-EMPH wife-TOP II-take.out-IMPR-QUOT request-TOP IV-do-PFV.CVB IV-half khanate-TOP IV-take-IMPR here-EMPH just-TOP be you as brave.young.man from.nowhere anymore we(I).OBL-LAT get-NEG.FUT-QUOT
+Translation: He arranged a 3-day lasting marriage for him, presented girls that were prettier than pretty, "Choose a wife from here!", he begged, "Settle down here and take half of the kingdom, from nowhere will we ever get such a brave young man as you, anymore!"
+Sentence: Hudayzikotow bertenno bodin, miskinaw oqłin ʕaq’ilawni žax nesi žek’a äƛiruxor, kidno yegirno.
+Gloss: the.next.day-EMPH marriage-TOP III-do-PFV.CVB poor become-CNC.CVB intelligent-DEF boy-AD.ESS DEM1.ISG.OBL man-ERG ORD-AD.LAT girl-TOP II-send-PST.UNW
+Translation: The next day the wedding was arranged and the girl was - as this man had told - married off to the intelligent though poor boy.
+
+Approximate Matches:
+Sentence: Sida quł, kidno howlotow xecin, eniwn, užin ʕaƛa bik’ixozo sida bertenyołxor bik’in.
+Gloss: one.OBL day-CONT.ESS girl-TOP there-EMPH leave-PFV.CVB mother-and son-and village-IN.ESS I.PL-go-PRS.PRT.OBL one.OBL marriage-CONT.VERS I.PL-go-PST.UNW
+Translation: One day, they left the girl there like this again and mother and son went to a marriage in the village.
+Sentence: Boƛƛo tabanaw mix bik’inosi, Ražbadinƛ’or Tawadis kaɣat yayx, ec’noni barun yown pulanaw ɣudƛ’or Telawär horo, Tiblisä t’et’erno łiyn ayru užis berten boyxosiƛin.
+Gloss: III-middle long time III-go-ANT.CVB Razhbadin-SUPER.LAT Tavadi-GEN1 letter II-come-IPFV.CVB new-DEF wife-TOP II-bring-PFV.CVB a.certain day-SUPER.LAT Telavi-IN.LAT come.IMPR Tbilisi-IN.ESS learn-PFV.CVB end-PFV.CVB come-PST.PRT son-GEN1 marriage III-do-PRS.PRT-QUOT
+Translation: After quite a long time has passed, a letter from Tavadi came to Razhbadin: "Come to Telavi on a certain day and bring your new wife; we are preparing the marriage of my son who came from finishing his studies in Tbilisi."
+Sentence: Elay Ražbadin Tawadiƛ’ ƛ’irir ik’in, nesiqor c’ok’inayn, yedu šebi šebin mi där rodä bertenyołerno goƛ’inƛin.
+Gloss: there-IN.ABL Razhbadin Tavadi-SUPER.ESS on-LAT go-PFV.CVB DEM1.ISG.OBL-POSS.LAT scold-PST.UNW DEM2.IISG what thing you me-LAT IV-do-INF marriage-CONT.LAT-TOP invite-PST.UNW-QUOT
+Translation: From there, Razhbadin went up to Tavadi and scolded him: "What is that thing you did to me, inviting me to a marriage?!"

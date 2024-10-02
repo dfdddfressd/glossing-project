@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Neł in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Neł: 
+
+Exact Matches
+Sentence: Nełƛ’ay soder didiwnkin mišayat boyx zownanu neł ʕaƛoz žamaʕatyor, ya posu t’ok’ow narnokin rok’ełnoanu, ya räƛiru qˤiči łukin rexurnoanu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after which-TOP-even obstacle III-do-IPFV.CVB be.NPRS-PFV.CVB-NEG DEM1.IISG.OBL village-GEN2 population-LAT neither cattle anymore where-TOP-even IV-escape-PFV.CVB-NEG neither IV-plant-PST.PRT harvest who.ERG-even IV-kill-PFV.CVB-NEG
+Translation: After that no obstacle occured to the village's population anymore; neither did any cattle escape, nor did anyone kill the planted harvest.
+Sentence: Ža gagirun, suƛi gula neł iħay ɣˤay ħaƛurun, gulun, užintown ɣˤuler butix.
+Gloss: DEM1.SG escape-IMM.ANT.CVB suddenly horse-ERG DEM1.IISG.OBL river-IN.ABL milk drink-IMM.ANT.CVB horse-and boy-and-EMPH-TOP stone-LAT I.PL-turn-PRS
+Translation: Right after it had escaped, the horse suddenly drank the milk from that river and the horse and the boy turned to stone.
+Sentence: Sida quł bet’erhanno bet’erhanes užin ƛˤoreł bik’inosi, yiła neł ʕaƛos dibir iduɣor goƛ’in.
+Gloss: one.OBL day-CONT.ESS master-and master-GEN1 son-and war-CONT.ESS I.PL-go-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL village-GEN1 imam home-IN.ALL invite-PST.UNW
+Translation: One day, when the master and the master's son went to war, she invited the village's imam to their home.
+
+Approximate Matches:

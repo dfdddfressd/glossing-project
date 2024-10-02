@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’in: 
+
+Exact Matches
+Sentence: Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.
+Gloss: one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW
+Translation: One day Bear Ear went to the spring the dragon was covering to get water.
+Sentence: Ik’in, ik’in babiwƛ’or kaɣat yegirno zawruni ečruni žek’uder ayn.
+Gloss: go-PFV.CVB go-PFV.CVB father-SUPER.LAT letter II-send-PFV.CVB be.NPRS-PST.PRT-DEF old-DEF man-APUD.LAT come-PST.UNW
+Translation: He went and went and came to the old man who had sent the letter to his father.
+Sentence: Howži ža ɣamasno hokomƛ’o erno, eɣeni esiw xanes kid yałruni qalamxaɣor ik’in.
+Gloss: now DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB young-DEF brother khan-GEN1 daughter be-PST.PRT-DEF fortress-AD.VERS go-PST.UNW
+Translation: Now they put the box onto a carriage and the young brother went to the fortress where the king's daughter was.
+
+Approximate Matches:
+Sentence: Ɣˤalu seranix indowrizaxosi aħo goƛ’anix xanä wazirbi begirno baynosi, k’oƛin yik’in kidbätow serun.
+Gloss: saddle unlock-MSD-AD.ESS turkey-PL-AD.ESS-ATTR shepherd call-MSD-AD.ESS khan-ERG vizier-PL I.PL-let-PFV.CVB I.PL-come-ANT.CVB run-PFV.CVB II-go-PFV.CVB daughter-ERG-EMPH unlock-PST.UNW
+Translation: He sent his viziers to call the turkey herder to open the saddle, but his daughter came running and opened it.
+Sentence: Howda lel yaƛ’ˤuru aɣi eliz baɣmart’a bayx zownƛin, žimäy yoɣno ža lel babiwq yukarnosi, ɣˤutkutow č’urno rik’in.
+Gloss: DEM3.SG feather II-fall-PST.PRT bird we.SPEC.GEN2 garden-IN.LAT-DISTR III-come-PRS be.NPRS-PFV.CVB-QUOT pocket-IN.ABL II-take.away-PFV.CVB DEM1.SG feather father-POSS.ESS II-show-ANT.CVB house-EMPH illuminate-PFV.CVB IV-go-PFV.CVB
+Translation: "This feather has fallen from the bird, which comes to our garden," and as he took the feather from the pocket and showed it to his father the feather illuminated the whole house.
+Sentence: Sida ɣudi bik’in, q’ˤuna ɣudi bik’in łˤora äƛiza ɣudiƛ’o yizirabi sidaɣ qunyoxor bayn.
+Gloss: one.OBL day I.PL-go-PFV.CVB two.OBL day I.PL-go-PFV.CVB three.OBL say-LCV day-SUPER.ESS DEM2.IIPL in.one.place farmstead-AD.LAT III-come-PST.UNW
+Translation: They went one day, they went two days, and on the third day they came to a farmstead somewhere.

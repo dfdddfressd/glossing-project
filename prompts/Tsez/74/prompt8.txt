@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ik’inosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ik’inosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ik’inosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hudayzikotow Bac’ali žedu k’eda ik’inosi, zeyn keze boqno nełaq esirno, meža dey čanyabi rac’iyäƛin.
+Gloss: the.next.day-EMPH Batsali DEM1.IIPL search-INF go-ANT.CVB bear-TOP meet III-become-PFV.CVB DEM1.IISG.OBL-POSS.ESS ask-PFV.CVB you(II-ERG me-GEN1 she.goat-PL III.PL-eat-PST.WIT.Q-QUOT
+Translation: The next day, when Batsali went to search them, he met a bear and asked him: "Have y'all eaten my goats?"
+Sentence: ʕOƛno ħonno, ʕoƛno iħun xecin ik’inosi, sida ʕaƛar ayn.
+Gloss: seven mountain-and seven river-and leave-PFV.CVB go-ANT.CVB one.OBL village-IN.LAT come-PST.UNW
+Translation: After he walked past seven mountains and seven rivers, he came into a village.
+Sentence: Žan bitor yiq’ˤirno waħaz egin ik’inosi, deber elo ixiw gondu yukay, elogon tełxor oqnosi, q’ˤida yičäsi eniw yäsu.
+Gloss: DEM1.SG-TOP thither II-move.aside-PFV.CVB below-IN.ESS.DIST go.into-PFV.CVB go-ANT.CVB you-LAT there big big.hole II-see there-CNTR inside-AD.LAT become-ANT.CVB down II-sit-RES.PRT mother II-find
+Translation: After you have moved it aside and went below it, you will see a big hole, and inside you will see your mother sitting there.
+
+Approximate Matches:
+Sentence: ƛˤeb yik’inosigon, užił xizay xan ayn.
+Gloss: year II-go-ANT.CVB-CNTR son-CONT.ESS behind khan come-PFV.CVB
+Translation: One year later the khan came to pick up his son.
+Sentence: Boƛƛo tabanaw mix bik’inosi, Ražbadinƛ’or Tawadis kaɣat yayx, ec’noni barun yown pulanaw ɣudƛ’or Telawär horo, Tiblisä t’et’erno łiyn ayru užis berten boyxosiƛin.
+Gloss: III-middle long time III-go-ANT.CVB Razhbadin-SUPER.LAT Tavadi-GEN1 letter II-come-IPFV.CVB new-DEF wife-TOP II-bring-PFV.CVB a.certain day-SUPER.LAT Telavi-IN.LAT come.IMPR Tbilisi-IN.ESS learn-PFV.CVB end-PFV.CVB come-PST.PRT son-GEN1 marriage III-do-PRS.PRT-QUOT
+Translation: After quite a long time has passed, a letter from Tavadi came to Razhbadin: "Come to Telavi on a certain day and bring your new wife; we are preparing the marriage of my son who came from finishing his studies in Tbilisi."
+Sentence: Nełƛ’osi ɣudbi rik’inosi, sida quł iħuz lilyox yisir bikori besun.
+Gloss: of.that.time day-PL IV.PL-go-ANT.CVB one.OBL day-CONT.ESS river-GEN2 river.bank-AD.ESS DEM2.ISG.OBL-LAT snake III-find-PST.UNW
+Translation: From then on the days went by, and one day he found a snake at the river bank.

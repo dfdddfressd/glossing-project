@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rodo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rodo: 
+
+Exact Matches
+Sentence: Yeženä eƛin, hemeła pulanaw mečoƛ’ yoł ža, elor ayrun, kakno rodo, łox nełas ci qˤaƛo.
+Gloss: II-old-DEF-ERG say-PST.UNW DEM4.IISG.OBL a.certain place-SUPER.ESS be DEM1.SG there-LAT come-IMM.ANT.CVB prayer-TOP IV-do-IMPR thrice DEM1.IISG.OBL-GEN1 name shout-IMPR
+Translation: The old woman said: "She lives at that certain place, when you arrive there, say a prayer and shout her name three times!"
+Sentence: Ečriłno exʷa zaman baynosi, nesä žaqor wasi bodin, di exunosi deber rätiza ɣˤutkun rodo, yexoriłxosin, k’ot’oniłxosin, aluk’an, qˤaban yoqxosi gurow barun yawno.
+Gloss: get.old-PFV.CVB die-INF time III-come-ANT.CVB DEM1.ISG.OBL-ERG son-POSS.LAT testament III-do-PST.UNW me die-ANT.CVB you-LAT IV-want-LCV house-TOP IV-do-IMPR II-become.longer-PRS.PRT-and become.shorter-PRS.PRT-and white-and black-and II-become-PRS.PRT except wife-TOP II-mouse-TOP
+Translation: He got older and when the time has come to die, he gave his testament to the son: "When I have died, you build a house where you want, but don't marry a woman except for one being black and white, be she long or short.
+Sentence: Xediya äƛiru rodo miƛin, yeda baruƛ’ ƛ’iri utin.
+Gloss: husband-ERG say-PST.PRT IV-do-IMPR you-QUOT DEM2.ISG wife-SUPER.ESS on return-PST.UNW
+Translation: "Do what your husband said!", he insisted on his wife.
+
+Approximate Matches:

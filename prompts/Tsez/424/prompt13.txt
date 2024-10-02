@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yik’anix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yik’anix: 
+
+Exact Matches
+Sentence: Haq’udär yik’anix xedyoqay izmu esirnosi, nesägon łˤora becän yičin, hulon rexurno horoƛin yegirno.
+Gloss: family-APUD.VERS II-go-MSD-AD.ESS husband-POSS.ABL permission ask-ANT.CVB DEM1.ISG.OBL-ERG-CNTR three.OBL month-IN.ESS-TOP II-be-PFV.CVB miss-CND IV-kill-PFV.CVB come.IMPR-QUOT II-let-PST.UNW
+Translation: When she asked her husband for permission to go to her family, he let her go with the words: "You may stay three months, then, after [you killed the boredom(?)] come back!"
+Sentence: Sidakin kidbä nesix yik’anix roži teƛxo zownanu.
+Gloss: one.OBL-even girl-ERG DEM1.ISG.OBL-AD.ESS II-go-MSD-AD.ESS word give-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: Not even one girl promised to marry him.
+Sentence: Mesed biqinosi, xanez kidbä nesix yik’anix razi yoqinč’ey žan oxirno.
+Gloss: gold III-get-ANT.CVB khan-GEN2 daughter-ERG DEM1.ISG.OBL-AD.ESS II-go-MSD-AD.ESS agree II-become-NEG.PST.CVB DEM1.SG-TOP chase-PST.UNW
+Translation: After getting the gold, the princess didn't agree and chased him away.
+
+Approximate Matches:
+Sentence: Kidbazade sadaq di baɣmaɣor yoqan yaħna-yik’anix, elay di yok’ek’anix nesis hunar ʕeze boqnäy, nesis murad t’ubazi baqƛin.
+Gloss: girl-PL-APUD.ESS together me garden-IN.ALL II-become-FUT.DEF II-walk.for.a.while-MSD-AD.ESS there-IN.ABL me II-steal-MSD-AD.ESS DEM1.ISG.OBL-GEN1 talent be.enough III-become-CND.CVB DEM1.ISG.OBL-GEN1 wish fulfill III-become-QUOT
+Translation: "I will go out into the garden together with the girls to take a walk, if his talent is enough to steal me from there, his wish will be fulfilled."

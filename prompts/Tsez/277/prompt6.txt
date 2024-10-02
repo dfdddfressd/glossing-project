@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łi: 
+
+Exact Matches
+Sentence: Neširu xanä elo nasin sidaɣor butirnosi, xanä eƛin, di łi ħaƛuxosi t’akan sasaqor howt’or yayäru žek’ux kid yegira yołƛin.
+Gloss: evening khan-ERG there all one.OBL-IN.VERS I.PL-gather-ANT.CVB khan-ERG say-PFV.CVB me water drink-PRS.PRT glass tomorrow-POSS.LAT here-LAT II-bring-PST.PRT man-AD.ESS daughter II-send-INF be-QUOT
+Translation: In the evening the king gather everyone together and said: "I will marry my daughter off to the man who can bring my water-drinking-glass here tomorrow!"
+Sentence: Nełde idur baynosi, šakno oqno eɣeni esiya kidbeq ħaƛanix łi esiro.
+Gloss: DEM1.IISG.OBL-APUD.ESS home-LAT I.PL-come-ANT.CVB suspicion-TOP become-PFV.CVB young-DEF brother-ERG girl-POSS.ESS drink-MSD-AD.ESS water ask-IMPR
+Translation: When they came to the house where she was, the youngest brother became suspicious and asked the girl if she wanted to drink some water.
+Sentence: Nesä xanqor eƛin, zam-zames łi ħaƛunay, saɣ oqno ciqqosi bełi iłe aq miƛin.
+Gloss: DEM1.ISG.OBL-ERG khan-POSS.LAT say-PST.UNW Zam-Zam-GEN1 water drink-CND.CVB cure become-PFV.CVB forest-POSS.ESS-ATTR deer as become you-QUOT
+Translation: He said to the king: "If you drink the holy water, you will get cured and become [as healthy] as a forest deer!"
+
+Approximate Matches:

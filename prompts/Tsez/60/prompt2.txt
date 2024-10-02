@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: oqnosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": oqnosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word oqnosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Išno oqnosi yisir siskin roqinč’uƛax.
+Gloss: eat-PFV.CVB become-ANT.CVB DEM2.ISG.OBL-LAT anything IV-happen-NEG.PST.WIT-QUOT
+Translation: After he ate, nothing happened to him.
+Sentence: Žan bitor yiq’ˤirno waħaz egin ik’inosi, deber elo ixiw gondu yukay, elogon tełxor oqnosi, q’ˤida yičäsi eniw yäsu.
+Gloss: DEM1.SG-TOP thither II-move.aside-PFV.CVB below-IN.ESS.DIST go.into-PFV.CVB go-ANT.CVB you-LAT there big big.hole II-see there-CNTR inside-AD.LAT become-ANT.CVB down II-sit-RES.PRT mother II-find
+Translation: After you have moved it aside and went below it, you will see a big hole, and inside you will see your mother sitting there.
+Sentence: Ža hunix oqnosi xalq’imo eč’erxo zown, äk’ino elaɣor min ok’äk’ƛin.
+Gloss: DEM1.SG way-AD.ESS become-ANT.CVB people-ERG stop-IPFV.CVB be.NPRS-PFV.CVB go-PROHIB here-IN.VERS you-and steal.from-QUOT
+Translation: When he got on his way, the people were stopping him: "Don't go here, you will be stolen as well!"
+
+Approximate Matches:
+Sentence: Ele hoboda debi mi eɣʷedin et’no biqiräsi micxir boqzaƛ’, c’idaɣor kura baynč’iƛin, eƛin babiya, užä nesä nesir micxir boda oqsiƛin rok’u č’eze roqnosi.
+Gloss: there that you-GEN1 you sweat-TOP pour-PFV.CVB III-win-RES.PRT money III-become-CSL.CVB fire-APUD.VERS throw-INF III-must-NEG.FUT-QUOT say-PFV.CVB dad-ERG boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT money III-do-INF begin-PST.WIT-QUOT heart convinced[?] IV-become-ANT.CVB
+Translation: "There, because it's the money you earned with your own sweat, I don't have to throw it into the fire.", said the father, and was convinced that his son earned money for himself.
+Sentence: Ħažataw q’ʷarʕaraw q’ayn sidaƛ’or butirno, maħor boqanix ħadur boqnosi, Beqes ʕUneyzatä eƛin, däz guluƛ’ zown bik’anƛin.
+Gloss: necessary necessary article-TOP one.OBL-SUPER.LAT III-gather-PFV.CVB outside I.PL-become-MSD-AD.ESS prepare I.PL-become-ANT.CVB sun-GEN1 Uneyzat-ERG say-PST.UNW me-GEN2 horse-SUPER.ESS ride-PFV.CVB I.PL-go-FUT.DEF-QUOT
+Translation: They gathered all necessary articles together, and when they prepared to go outside, Sun's Uneyzat said: "We will ride on my horse."
+Sentence: Neła quł sasaqosigon esnabi madaħor boqnosi, eɣeni esiw qˤabani guluƛ’no zown, q’ˤuya šeƛ’un šeƛ’un, yaraɣno lagiqor kurno ik’in.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-CNTR brother-PL outside I.PL-become-ANT.CVB young-DEF brother black-DEF horse-SUPER.ESS-TOP ride-PFV.CVB other put.on-PFV.CVB put.on-PFV.CVB weapon-TOP body-POSS.LAT throw-PFV.CVB go-PST.UNW
+Translation: The next morning when the brothers went outside, the young brother rode the black horse, put on different clothes, threw a weapon around his body and rode off.

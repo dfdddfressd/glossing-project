@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣˤaɣˤun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣˤaɣˤun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣˤaɣˤun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža nesä eƛizaƛ’, yeda xan ʕuraw ɣˤaɣˤun izin, xalq’in žaƛ’ razi boqno.
+Gloss: DEM1.SG DEM1.ISG.OBL-ERG say-CSL.CVB DEM2.ISG khan much be.happy-TOP get-PFV.CVB people-TOP boy-SUPER.ESS agree I.PL-become-PST.UNW
+Translation: When he said that, the king got very glad, and the people were okay with the boy.
+Sentence: Igtow ɣˤaɣˤun izin Tawadä nesis roƛ’i baqruni kid Ražbadinqo yukarno.
+Gloss: much-EMPH be.happy-TOP get.up-PFV.CVB Tavadi-ERG DEM1.ISG.OBL-GEN1 love III-become-PST.PRT-DEF girl Razhbadin-POSS.ESS II-show-PST.UNW
+Translation: Tavadi became very happy and showed Razhbadin the girl that became his love.
+Sentence: Bežet’anibi ʕurawtow ɣˤaɣˤun bizin, nesiƛ’ Tabuldiƛin cin erno.
+Gloss: I.PL-old-DISTR-DEF-PL much-EMPH be.happy-TOP I.PL-get.up-PFV.CVB DEM1.ISG.OBL-SUPER.ESS Tabuldi-QUOT name-TOP put-PST.UNW
+Translation: The oldest ones were very glad and gave him the name Tabuldi.
+
+Approximate Matches:
+Sentence: Kusa ʕuraw ɣˤaɣˤu izin, nece beže maxšel yołäsi žek’u kumakyor iqizaƛ’ƛin.
+Gloss: Kusa very be.happy get-PST.UNW so.much III-big skill be-RES.PRT man help-LAT get-CSL.CVB-QUOT
+Translation: Kusa got very happy because he got such a skilled man for help.
+Sentence: Žedu ʕuraw ɣˤaɣˤu rizin ƛirbabi bayzaƛ’.
+Gloss: DEM1.IIPL much be.happy III.PL-get.up-PST.UNW guest-PL I.PL-come-CSL.CVB
+Translation: They got very happy, when guests came.
+Sentence: Ɣˤaɣˤun izin nesä ža butni bazaryay bisno bižin.
+Gloss: be.happy-and get.up-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG burka bazar-IN.ABL III-buy-PFV.CVB III-carry-PST.UNW
+Translation: He got happy and bought the burka from the market.

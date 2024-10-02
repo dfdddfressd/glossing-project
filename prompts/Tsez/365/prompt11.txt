@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word biłäsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word biłäsi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Eženä eƛin, debi xabar Ismaʕilzoq biłäsiwa yołƛin.
+Gloss: old-DEF-ERG say-PST.UNW you-GEN1 story Ismail-ATTR.OBL-POSS.ESS III-resemble-RES.PRT-Q be-QUOT
+Translation: The old man said: "Doesn't your way of speaking resemble Ismail's?"

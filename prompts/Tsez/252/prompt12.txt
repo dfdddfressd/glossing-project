@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boqłin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boqłin: 
+
+Exact Matches
+Sentence: Neła eƛin, darno rac’anix šebin neƛ, dowƛ’or ɣudi rayza quł, nagon boqłin din bäsu debez ħalarƛin.
+Gloss: DEM1.IISG.OBL say-PFV.CVB me-LAT-TOP IV-eat-MSD-PRS thing give you-SUPER.LAT day IV-come-LCV.CVB day-CONT.ESS where-CNTR III-happen-CNC.CVB me-TOP III-find you-GEN2 trouble-IN.LAT-QUOT
+Translation: The bear said, "Give me something to eat, one day I will find you, if you will be in trouble."
+Sentence: Xizyo ečruni ɣˤanabi ʕaƛos xalq’i batizarno yik’in eƛin, däde idur sis uži ayäsi yoł, šebigo boqłin hunar boqinč’inäy ža t’orkin keze aqinč’iƛin.
+Gloss: afterwards old-DEF woman village-GEN1 people III-turn-LCV-LAT-TOP II-go-PFV.CVB say-PST.UNW me-APUD.ESS home-LAT one boy come-RES.PRT be what-COND III-become-CNC.CVB talent III-become-NEG.FUT-CND.CVB DEM1.SG here-LAT-even meet become-NEG.FUT-QUOT
+Translation: Afterwards, the old woman went to where the village's people gathered and said: "A boy has come to my home, if he had no talent, he wouldn't have come here."
+Sentence: Ceyä eƛin, mi di bexarno, xizyo di nagon boqłin debez rigzar bäsu, mežustow kici yoł, radiru rigłi šuƛ’ixosi anuƛin.
+Gloss: eagle-ERG say-PST.UNW you me III-kill-PROHIB afterwards me where-CNTR III-become-CNC.CVB you-GEN2 IV-good-ZA-LAT III-exist you(I).PL.OBL-GEN1-EMPH proverb be IV-do-PST.PRT IV-good-NMLZ forget-PRS.PRT be.NEG-QUOT
+Translation: The eagle said: "Don't kill me! I'll will be a help for you somewhere; you have a proverb: 'A done good is not forgotten'."
+
+Approximate Matches:
+Sentence: Ža kid dicegon bac’ałiƛ’ yoqłin, neła xediwƛ’or kaɣat caxno, debi kid neširuxayt’a q’ʷat’azaq yaħna-yik’ix yičixƛin.
+Gloss: DEM1.SG daughter how.much-CNTR cleanness-SUPER.ESS II-become-CNC.CVB DEM1.IISG.OBL-ERG husband-SUPER.LAT letter write-PST.UNW you-GEN1 daughter at.night-AD.ABL-DISTR street-PL-POSS.ESS II-walk.for.a.while-IPFV.CVB II-be-PRS-QUOT
+Translation: Although the daughter was very cleanly, she wrote a letter to her husband: "Your daughter is being wandering through the streets at night."
+Sentence: Nesä eƛin, wallahi, xedyor mi dunyalƛ’ay yaq’ˤun yetix, šebi roqłin nesä mi bat’a yadinč’iƛin.
+Gloss: DEM1.ISG.OBL-ERG say-PST.UNW by.God husband-LAT you world-SUPER.ABL II-much-TOP II-love-IPFV.CVB what IV-happen-CNC.CVB DEM1.ISG.OBL-ERG you seperation II-do-NEG.FUT-QUOT
+Translation: He said: "By God, your husband loves you more than the world; no matter what happens, he won't leave you."
+Sentence: Nełaq dicegon raq’ˤu biša roqłin, ɣˤʷayr neła magalas sis t’it’ukin kurnoanu.
+Gloss: DEM1.IISG.OBL-POSS.ESS how.much-CNTR IV-much food IV-become-CNC.CVB dog-LAT DEM1.IISG.OBL bread-FUT2 one piece-even throw-PFV.CVB-NEG
+Translation: But no matter how much food she had, she didn't throw even one piece of the bread to the dog.

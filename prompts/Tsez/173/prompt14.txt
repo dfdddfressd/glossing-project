@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: awadanłiƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": awadanłiƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word awadanłiƛ:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža c’aq’ bercinaw, ʕadanłi yołäsi, Allahä hari q’abul boyxosi ɣˤanabi zown.
+Gloss: DEM1.SG very beautiful respect be-RES.PRT God-ERG request receive III-do-PRS.PRT woman be.NPRS-PST.UNW
+Translation: She was a very beautiful and respectful woman whose prayers Allah received.

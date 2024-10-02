@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħalt’ołxor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħalt’ołxor: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Maduhalłiq yałru xande ħalt’oł ža zown: nesis azbarno c’unzi rodin.
+Gloss: neighbourhood-POSS.ESS be-PST.PRT khan-APUD.ESS work-CONT.ESS DEM1.SG be.NPRS-PST.UNW DEM1.ISG.OBL-GEN1 palace-TOP guard IV-do-PST.UNW
+Translation: He was working at the neighbouring king: He guarded his palace.

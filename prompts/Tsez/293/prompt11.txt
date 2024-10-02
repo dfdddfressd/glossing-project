@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word teqzaƛ’ortow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word teqzaƛ’ortow: 
+
+Exact Matches
+Sentence: ʕAƛar aynƛin teqzaƛ’ortow Ražbadin yizzoxor oƛixzaƛ’, kidbez babiya bigtow tamašan bodin, yisiz ħurmatyoxay rigu bišʷan rodin.
+Gloss: village-IN.LAT come-PFV.CVB-QUOT hear-POST.CVB-EMPH Razhbadin DEM2.IPL.OBL-ATTR.OBL-AD.LAT appear-CSL.CVB girl-GEN2 dad-ERG III-much-EMPH astonished-TOP III-do-PFV.CVB DEM2.ISG.OBL-GEN2 respect-AD.ABL IV-good food-TOP IV-do-PST.UNW
+Translation: Because Razhbadin appeared at their place before he heard that he had come to the village, the girl's dad was very surprised and out of respect for him he prepared a good meal.
+
+Approximate Matches:
+Sentence: Boƛƛo baq’ˤu zaman bik’izaƛ’ortow žedur q’ˤanon užibi bodin.
+Gloss: III-middle III-much time III-go-POST.CVB-EMPH DEM1.IPL.OBL-LAT two-TOP son-PL I.PL-do-PST.UNW
+Translation: After some time has passed, two sons were born to them.
+Sentence: Ič’č’an yeɣeni esiya sasiłzaƛ’ortown, xexłiƛ’ iduɣor ƛaƛin daʕba bičirłin, nełqor žedu ʕenekizi roqnoanu.
+Gloss: the.most-TOP II-young-DEF sister-ERG get.dark-POST.CVB-EMPH-TOP quickness-SUPER.ESS home-IN.ALL go.IMPR-QUOT dispute III-be-CAUS-CNC.CVB DEM1.IISG.OBL-POSS.LAT DEM1.IPL listen II.PL-become-PFV.CVB-NEG
+Translation: Although the youngest sister argued: "We have to go home quick before it gets dark!", the didn't listen to her.
+Sentence: Baq’ˤu zaman bik’izaƛ’ortow nesi bečedawni žek’a q’ˤuya baru yižisƛax.
+Gloss: III-much time III-go-POST.CVB-EMPH DEM1.ISG.OBL wealthy-DEF man-ERG other wife II-lead-PST.WIT-QUOT
+Translation: After much time had passed, the rich man took another wife.

@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ƛ’iräy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ƛ’iräy: 
+
+Exact Matches
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Didurgo šebigo roqsi eƛin ži ƛ’iräy din oqsi min oq.
+Gloss: how-COND what-COND IV-happen-PST.WIT say-PFV.CVB now from.above me-TOP become-ATTR you-TOP become
+Translation: Whatever and however it happened, [said?], I forgave you now, so forgive me too.
+Sentence: Boƛƛäɣor bayzaƛ’ortow, gulun, nełaƛ’gon ƛ’irisini ža č’uħarawni žek’un ɣˤuɣˤuruni neł iħä butirno caƛin, boɣno bižin ƛ’iräy wˤałer.
+Gloss: III-middle-IN.VERS I.PL-come-POST.CVB-EMPH horse-and DEM1.IISG.OBL-SUPER.ESS-CNTR on-ATTR-DEF DEM1.SG proud-DEF man-and muddy-DEF DEM1.IISG.OBL river-IN.ESS I.PL-turn-PFV.CVB stick-PFV.CVB I.PL-take.away-PFV.CVB I.PL-take.out-PFV.CVB from.above downward-LAT
+Translation: Before they reached the middle, the horse and the proud man on it got stuck in that muddy river, and it pulled them downward.
+
+Approximate Matches:
+Sentence: Habihanƛ’osi q’ʷariłin bukayn, ziru ƛ’iräyn boqno, xanzo kidbederno bik’in eƛin, ƛ’iräy yoq, mi di yaƛ’irsi.
+Gloss: miller-SUPER.ESS-ATTR sadness-TOP III-see-PST.UNW fox from.above-TOP III-become-PFV.CVB khan-GEN2 daughter-APUD.LAT-TOP III-go-PFV.CVB say-PST.UNW from.above II-become you me II-cheat-PST.WIT
+Translation: The fox saw the sadness that was upon the miller, forgave [him], went to the king's daughter and said: "Forgive [me], I cheated you."
+Sentence: Neła karu rok’xayzo mušimo ħalaq’awni gulus maħi ƛ’iräytow ret’urno roɣno.
+Gloss: DEM1.IISG.OBL exhale-PST.PRT heart-AD.ABL-ATTR.OBL breath-ERG thin-DEF horse-GEN1 tail from.above-EMPH IV-pull.out-PFV.CVB IV-take.away-PST.UNW
+Translation: Its breath, exhaled from the heart, pulled out the tail from the thin horse.

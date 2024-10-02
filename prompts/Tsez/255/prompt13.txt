@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boqƛ’oräy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boqƛ’oräy: 
+
+Exact Matches
+Sentence: Iħuƛ’ boqƛ’oräy, ƛen bˤoƛ’un dahaw šebin ƛexus Goqi łiyä ižanir.
+Gloss: river-SUPER.ESS I.PL-become-SIM.CVB bridge-and III-fall-PFV.CVB a.little thing remain-PST.WIT Goqi water-ERG carry-MSD-LAT
+Translation: When we wanted to cross the river, the bridge broke apart and Goqi was almost carried away by the water.
+
+Approximate Matches:
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Elo xediwn xecin maħor oqƛ’oräy, Bilq’isdä nesiqor eƛin, deber rac’anixno, ħaƛnixno t’o ʕeziyaw šebin yoł, di yayace t’ay äk’inƛin.
+Gloss: there husband-TOP leave-PFV.CVB outside become-SIM.CVB Bilqisdi-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW you-LAT IV-eat-MSD-AD.ESS-TOP drink-DEF-AD.ESS-TOP here many thing be me II-come-TERM from.here go-PROHIB-QUOT
+Translation: She left the husband there and while she went outside, Bilqisdi said to him: "There is a lot to eat and drink for you here, do not go away until I come back!"
+Sentence: Ža soder iziƛ’oräy, qoqoƛix izix zown, wˤałer oqƛ’oräy ʕiyayx oqxo zown.
+Gloss: DEM1.SG after get.up-SIM.CVB laugh-IPFV.CVB get.up-IPFV.CVB be.NPRS-PFV.CVB downward-LAT become-SIM.CVB cry-IPFV.CVB become-IPFV.CVB be.NPRS-PST.UNW
+Translation: While he was going up, he laughed, and while he was going down, he cryed.

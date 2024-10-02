@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łinasnotow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łinasnotow: 
+
+Exact Matches
+Sentence: Barus yołi kid łinasnotow hunarno, maxšelno, bažarin anusi zown.
+Gloss: wife-GEN1 however daughter what.OBL-GEN1-TOP-EMPH talent-and skill-and skill-and be.NEG-ATTR be.NPRS-PST.UNW
+Translation: The wife's daughter however had no talent or skill whatsoever.
+Sentence: Užir łinasnotow čaran bexun, ži ik’ix di dunyalqoƛin, eƛin oqno ik’in elay sida baydanƛ’or ayn.
+Gloss: boy-LAT what.OBL-GEN1-TOP-EMPH possibility-TOP III-die-PFV.CVB now go-PRS me world-POSS.ESS-QUOT say-PFV.CVB begin-PFV.CVB go-PFV.CVB there-IN.ABL one.OBL field-SUPER.LAT come-PST.UNW
+Translation: Now that all the possibilities are gone for the boy, he said "I shall wander through the world now", and began to go away until he came to a field.
+Sentence: Kʷaxatow žax bertenno bodin eniwn, užin, barun nełƛ’ay soder łinasnotow q’ʷariłi anusi bičix zown.
+Gloss: soon-EMPH boy-AD.ESS marriage-TOP III-do-PFV.CVB mother-TOP boy-and wife-and DEM1.IISG.OBL-SUPER.ABL after what.OBL-GEN1-TOP-EMPH sadness be.absent-ATTR I.PL-live-IPFV.CVB be.NPRS-PST.UNW
+Translation: Soon the mother arranged a marriage for the boy and the boy and his wife henceforward were living without any sadness whatsoever.
+
+Approximate Matches:
+Sentence: Ixiw qˤaƛun rok’no, łinasnotown čaran bexun, aždaħ xizor butin.
+Gloss: big shout-TOP IV-beat-PFV.CVB what.OBL-GEN1-TOP-EMPH-TOP possibility-TOP III-die-PFV.CVB dragon back III-return-PST.UNW
+Translation: The dragon emitted a loud shout, he had no possibilities and returned.

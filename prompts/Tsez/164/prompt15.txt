@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ʕoƛ’no.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ʕoƛ’no
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ʕoƛ’no:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: T’ok’ow roda šebinon koƛ’inč’ey, hisno, hiƛun, ʕoƛ’no, nucosgon bankan bisno, yedu kid beqaɣor yoqno.
+Gloss: anymore IV-do-INF something understand.to-NEG.PST.CVB spring.wool-and comb-and spindle-and honey-GEN1-CNTR jar-and III-take-PFV.CVB DEM2.IISG girl sun-IN.VERS II-become-PST.UNW
+Translation: Not knowing what to do anymore, the girl took the wool, the comb, the spindle and a jar of honey and went into the sun.
+
+Approximate Matches:
+Sentence: Hawaƛ’no, raładyołno, raƛ’moƛ’no žeda di esursi, ana debi q’ˤuya ħilla- makruƛin, esirno užä.
+Gloss: air-SUPER.ESS-TOP sea-CONT.ESS-TOP earth-SUPER.ESS-TOP DEM1.IPL-ERG me find-PST.WIT be.NEG-Q you-GEN1 other trickery ruse-QUOT ask-PFV.CVB boy-ERG
+Translation: "They have found me in the air, in the sea and on the earth, do you have another trick?" the boy asked.
+Sentence: Žeda ža hemece etizaq ƛ’at’umoƛ’no egirno siskin nesir q’ʷariłi bukara begirinč’ey q’ˤida äčizar kikix zowno.
+Gloss: DEM1.IIPL.OBL-ERG DEM1.SG such love-CSL.CVB caprice-SUPER.ESS-TOP let-PFV.CVB anything DEM1.ISG.OBL-LAT sadness III-show-INF III-let-NEG.PST.CVB down sit-LCV-LAT feed-IPFV.CVB be.NPRS-PST.UNW
+Translation: Because they loved him so much, they let him be capricious, had him sit down and fed him, without showing him anything sad.
+Sentence: Bet’un k’oƛin łˤonon esnabi butnoƛ’no zown nełqor eƛin:
+Gloss: I.PL-jump-PFV.CVB jump-PFV.CVB three-TOP brother-PL burka-SUPER.ESS-TOP be.NPRS-PFV.CVB DEM1.IISG.OBL-POSS.LAT say-PST.UNW
+Translation: The three brothers jumped onto the burka and said to it:

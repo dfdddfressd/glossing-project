@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yešnayƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yešnayƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yešnayƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ħusen igtow ƛ’irin utin ža xizor utiranix eƛin, dowƛ’osi q’ʷariłi bisanir di ik’ix mi xizorno uti, di aceł caƛäsi c’eruc’a yoł, nagaħ där sis šebin roqnäy, nełas iyo boƛäx, c’ik’iw šebin ruyxor rik’inäy ɣˤay yešnayƛin.
+Gloss: Hussein well-EMPH above-TOP turn-PFV.CVB DEM1.SG back turn-MSD-AD.ESS say-PST.UNW you-SUPER.ESS-ATTR sadness III-take-MSD-LAT me go-PRS you back-TOP return me door-CONT.ESS shoot.with-RES.PRT bow be suppose me-LAT one thing IV-happen-CND.CVB DEM1.IISG.OBL-GEN1 blood III-appear entire thing IV-alright IV-go-CND.CVB milk II-drip-QUOT
+Translation: Hussein insisted and said to make him turn back: "I am coming to take away the sadness on you, go back! I have shot with the bow at the door; suppose something will happen to me, it's [the arrow's] blood will appear, and if everything will go alright, then milk will drip out."
+
+Approximate Matches:
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"
+Sentence: Qura ƛˤebaƛ’aza oƛixno k’oƛin ža ečruni žek’u, sis uži där neƛa ayƛin.
+Gloss: twenty.OBL year-SUPER.VERS.DIST appear-PFV.CVB jump-PFV.CVB DEM1.SG old-DEF man one son me-LAT give-INF must-QUOT
+Translation: Twenty years later, the old man appeared [and said]: "One sone has to be given to me!"
+Sentence: Xizyogon oƛƛosini uži łic’oxno, debi baru yoł, yedu di yowa yayƛin.
+Gloss: then middle-ATTR-DEF son intervene-PST.UNW you-GEN1 wife be DEM2.IISG me II-marry-INF II-must-QUOT
+Translation: Then the middle son intevened: "You have a wife, I have to marry her!"

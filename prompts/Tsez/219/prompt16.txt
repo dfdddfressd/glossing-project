@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word regirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word regirno: 
+
+Exact Matches
+Sentence: Sida ħiƛ’oquqno rutirno xanƛ’or regirno, ele enda ħaramaw reƛ yołƛin.
+Gloss: one.OBL handkerchief-POSS.ESS-TOP IV-gather-PFV.CVB khan-SUPER.LAT IV-send-PST.UNW there DEM3b.SG prohibited meat be-QUOT
+Translation: They gathered it in one handkerchief and sent it to the king: "There is the prohibited meat."
+Sentence: Ražbadinä reƛ’ibin risno, Tawadisno nesiz halmaɣzasno hunin regirno, xizor iduɣor utin.
+Gloss: Razhbadin-ERG hand-PL-TOP IV.PL-take-PFV.CVB Tavadi-GEN1-and DEM1.ISG.OBL-GEN2 friend-PL-GEN1-and way-TOP IV-send-PFV.CVB back home-IN.ALL return-PST.UNW
+Translation: Razhbadin took the hands of Tavadi and his friends, sent them on their way and returned home.
+Sentence: Nesi xanzo raƛ’mar aynosi, ʕAt’idä naysinan xabaryabi regirno, di boƛ’araw unti saɣ boyxosi yołƛin.
+Gloss: DEM1.ISG.OBL khan-GEN2 land-LAT come-ANT.CVB Atid-ERG everywhere story-PL IV-send-PST.UNW me any illness cure III-do-PRS.PRT be-QUOT
+Translation: When coming onto the king's land, Atid spread the story everywhere: "I can cure any illness!"
+
+Approximate Matches:
+Sentence: Yeženi kidbä, din yegir yiłde sadaq hunin regirnoƛin, eniwq esirnosi, yegirzaƛ’ šida yik’inč’uƛin bixzin yoqno eƛin.
+Gloss: II-old-DEF daughter-ERG me-TOP II-let DEM2.IISG.OBL-APUD.ESS together way-TOP IV-send-PFV.CVB-QUOT mother-POSS.ESS ask-ANT.CVB II-let-CSL.CVB why II-go-NEG.PST.WIT-QUOT angry-TOP II-become-PFV.CVB say-PST.UNW
+Translation: When the eldest daughter asked her mother: "Let me go with her together so I can see her off!", and the mother angrily said: "Why didn't you go when I let you?"
+Sentence: Magalu boɣanixƛin eženi žek’a ħoyäɣor reƛ’a regirnosi, Ħusenä yeda q’ˤiƛin tełxor kurno.
+Gloss: bread III-take.away-MSD-AD.ESS-QUOT old-DEF man-ERG oven-IN.VERS hand IV-let-ANT.CVB Hussein-ERG DEM2.ISG push-PFV.CVB inside-AD.LAT throw-PST.UNW
+Translation: When the old man let his hand into the oven in order to pull out the bread, Hussein pushed him inside.
+Sentence: Qema regirnosi, Bac’alägon harizi rodin, Allah, kuro däz ħirozaqor butniƛin.
+Gloss: rain IV-let-ANT.CVB Batsali-ERG-CNTR request IV-do-PST.UNW God throw-IMPR me-GEN2 shoulder-PL-POSS.LAT burka-QUOT
+Translation: When it had started to rain, Batsali requested: "God, throw a burka over my shoulders!"

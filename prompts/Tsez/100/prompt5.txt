@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ik’ix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ik’ix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ik’ix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bazarganbi guluzaxozo aħozider baynosi, nesiqayn hemedurtow bayan bisno, t’aza ħumukulibin roc’no ik’ix debełi sis uži c’oxinč’aƛin.
+Gloss: merchant-PL horse-PL-AD.ESS-ATTR.OBL shepherd-APUD.LAT I.PL-come-ANT.CVB DEM1.ISG.OBL-POSS.ABL-TOP so-EMPH information III-take-PFV.CVB from.here camel-PL-TOP III.PL-drive-PFV.CVB go-IPFV.CVB you-NMLZ one boy meet-NEG.PST.WIT-PST.WIT.INT-QUOT
+Translation: When the merchants came to the shepherd with the horses, they wanted to take his information, if
+Sentence: Užä eƛin, anƛ’imarsi där hunixor qˤašo ero, mesedyos bašiqˤoy yałruni kid k’eda di ik’ix.
+Gloss: boy-ERG say-PFV.CVB week-LAT-ATTR me-LAT way-AD.LAT get.up-IMPR put-IMPR gold-GEN1 ring be-PST.PRT-DEF girl search-INF me go-PRS
+Translation: The boy answered: "Pack provisions for me for a way of one week, I'm going to search the girl with the golden ring."
+Sentence: Elayn boqno dahawtow bitaɣor bik’inosi, yisi žoyä žeduqor eƛin, di ža kid yowanix ik’ix, däz ža c’aq’ rok’äwa yisäƛin.
+Gloss: there-IN.ABL-TOP I.PL-become-PFV.CVB a.little-EMPH distance-IN.VERS I.PL-go-ANT.CVB DEM2.ISG.OBL boy-ERG DEM1.IPL.OBL-POSS.LAT say-PFV.CVB me DEM1.SG girl II-marry-MSD-AD.ESS go-PRS me-GEN2 DEM1.SG much heart-IN.ESS-Q II-take-PST.WIT.INT-QUOT
+Translation: When they had gone just a little further, that boy said to them: "I am going to marry this girl; did she really take me into her heart?"
+
+Approximate Matches:
+Sentence: Yedu kidgon Ražbadinqor baqru ʕišq’ud, netey yedu berten bodixƛin, iduɣor yik’ixosi hunin šuƛ’in qˤilo yok’ełxo.
+Gloss: DEM2.IISG girl-CNTR Razhbadin-POSS.LAT III-become-PST.PRT love-INSTR when-DUB DEM2.IISG marriage III-do-PRS-QUOT home-IN.ALL II-go-PRS.PRT way-TOP forget-PFV.CVB erroneously II-go.away-PRS
+Translation: The girl was so in love with Razhbadin, and because she prepared that marriage, she forgot the way home and got lost.
+Sentence: Uži mažgityaɣor keca ik’ixƛin oqnosi, yedu ƛ’iri yutin ƛirba kecanix mažgityaɣor egiranix elude lamusaw šebin yołƛin.
+Gloss: boy mosque-IN.VERS sleep-INF go-PRS-QUOT become-ANT.CVB DEM2.IISG above II-turn-PFV.CVB comrade sleep-MSD-AD.ESS mosque-IN.VERS let-MSD-AD.ESS we(I).OBL-APUD.ESS shameful thing be-QUOT
+Translation: When the boy was about to go to the mosque to sleep, she insisted: "It is a shame for us to send a comrade to the mosque for him to sleep!"
+Sentence: Yayn sida yeže ɣˤanaza yiłaq esirno, mi šida bertenyołxor yik’ixanuƛin.
+Gloss: II-come-PFV.CVB one.OBL II-old woman-ERG DEM2.IISG.OBL-POSS.ESS ask-PST.UNW you why marriage-CONT.VERS II-go-IPFV.CVB-NEG-QUOT
+Translation: An old woman came along and asked her: "Why don't you go to the marriage?"

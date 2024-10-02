@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rižanix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rižanix: 
+
+Exact Matches
+Sentence: Žädgon oc’ino łenokin ɣudi yoł bˤeƛ’ ħonqaɣor rižanix zaman baya, eli edeʕizi boqa baynč’iƛin, eƛin žeda.
+Gloss: still-CNTR ten five-even day be sheep mountain-POSS.VERS III.PL-lead-MSD-AD.ESS time III-come-INF we hurry I.PL-become-INF I.PL-must-NEG.FUT-QUOT say-PST.UNW DEM1.IIPL.OBL-ERG
+Translation: "There are still fifteen days left to lead the sheep to the mountain, we don't need to hurry.", they said.
+Sentence: Elus q’ut’i zownč’a där rätiru šebin sadaq rižanix regira, din där rätiru šebin hokomƛ’o ersiƛin.
+Gloss: we(I).OBL-GEN1 agreement be.NPRS-NEG.PST.WIT-PST.WIT.INT me-LAT IV-want-PST.PRT thing all IV-carry-MSD-AD.ESS IV-let-INF me-TOP me-LAT IV-want-PST.PRT thing carriage-SUPER.ESS put-PST.WIT-QUOT
+Translation: "Didn't we have an agreement so you let me carry all the things I wanted? I put the things I wanted onto the carriage."
+
+Approximate Matches:
+Sentence: Debez tawakalyoƛ’aza riqäsi bečełi yoł yeduƛin, xediw q’urec’niƛ’ay q’ay boɣaniłer oqno, ža iduɣor bižanix kumakyorgon barun yizin.
+Gloss: you-GEN2 patience-SUPER.VERS.DIST IV-get-RES.PRT riches be DEM2.IISG-QUOT husband mule-SUPER.ABL article III-take.away-MSD-CONT.LAT begin-PFV.CVB DEM1.SG home-IN.ALL III-carry-MSD-AD.ESS help-LAT-CNTR wife-TOP II-get.up-PST.UNW
+Translation: "Thanks to your patience we got such a wealth!" and the husband began to unload the articles from the mules and his wife helped to carry them home.
+Sentence: Sasaqosigon yizi ʕoƛnon esiw yałruni kidbedäɣor bizin bik’in, sadaq žan yižanix.
+Gloss: in.the.morning-CNTR DEM2.IPL seven-TOP brother be-PST.PRT-DEF girl-APUD.VERS I.PL-get.up-PFV.CVB I.PL-go-PST.UNW together DEM1.SG-TOP II-lead-MSD-AD.ESS
+Translation: The next morning, they set out and went to the girl who had the seven brothers to take her with them.
+Sentence: Yisä eƛin, mi barułun yižanix debeł xizay nexäsi yoł diƛin.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW you wife-LHUN II-take.out-MSD-AD.ESS you-CONT.ESS behind come-RES.PRT be me-QUOT
+Translation: He said: "I came to you in order to take you as a wife."

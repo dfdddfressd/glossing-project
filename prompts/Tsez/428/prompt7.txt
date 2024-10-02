@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word sadaq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word sadaq: 
+
+Exact Matches
+Sentence: Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.
+Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW
+Translation: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"
+
+Approximate Matches:
+Sentence: Eniwn, užin, barun bečełiƛ’ zown, miskin xalq’imor sadaq’a teƛxo žeda ʕaƛos žamaʕattown bečed bodin.
+Gloss: mother-and son-and wife-and riches-SUPER.ESS be.NPRS-PFV.CVB poor people-LAT alms give-IPFV.CVB DEM1.IPL.OBL-ERG village-GEN1 population-EMPH-TOP wealthy.man III-do-PST.UNW
+Translation: The mother, her son and his wife lived wealthily, and by giving alms to the poor people, they enriched the population of the village.
+Sentence: Eniyagon reže sadaq’a rułirno:
+Gloss: mother-ERG-CNTR IV-big alms IV-share-PST.UNW
+Translation: And the mother shared large alms:
+Sentence: Exaniƛ’or aynosi, eženä žaqor wasi bodin, di exunosi łinaqnokin baraxšizi oqinč’ey sadaq’an rułir, buq boƛäxza puƛ’aɣor gurow saparno bäcinoƛin.
+Gloss: die-INF-DEF-SUPER.LAT come-ANT.CVB old-DEF-ERG son-POSS.LAT testament III-do-PST.UNW me die-ANT.CVB what.OBL-POSS.ESS-TOP-even pity become-NEG.PST.CVB alms-TOP IV-share sun III-appear-LCV.CVB side-SUPER.VERS except journey-TOP III-follow-PROHIB-QUOT
+Translation: When his dead came, the old one made a testament to his son: "After I have died, do not pity anything but share the alms and go on a journey only to the place where the sun goes up!"

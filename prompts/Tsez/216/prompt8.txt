@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boqno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boqno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boqno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Esnazał xizaz ixiw raład boqno.
+Gloss: sister-PL-CONT.ESS behind big sea III-become-PST.UNW
+Translation: And a big sea formed behind the sisters.
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Harizi boqno ža:
+Gloss: request III-become-TOP DEM1.SG
+Translation: The dragon begged:
+
+Approximate Matches:
+Sentence: Sida zamanałäy, xexbi bežet’a boqnosi henešyabi täƛruni eženi žek’us xabar bayn, sissi uži nesir egiroƛ, nesiqor ezun ža sida kikxo äčiƛin.
+Gloss: one.OBL time-CONT.ABL children I.PL-old-DISTR I.PL-become-ANT.CVB apple-PL give-PST.PRT-DEF old-DEF man-GEN1 story III-come-PFV.CVB one-ATTR boy DEM1.ISG.OBL-LAT send-OPT DEM1.ISG.OBL-POSS.LAT look-PFV.CVB DEM1.SG one.OBL spring-AD.ESS wait-QUOT
+Translation: At one time, when the children had become older, the story came [to them] of the old man who gave the apples, and one boy was to be sent to him and he would wait on a spring looking for him.
+Sentence: Iduɣor yizi boqnosi, zeyä yeda žeduz ɣˤutkoxor ayrno.
+Gloss: home-IN.ALL DEM2.IPL III-happen-ANT.CVB bear-ERG DEM2.ISG DEM1.IPL-GEN2 house-AD.LAT bring-PFV.CVB
+Translation: They went into the house and the bear brought him to their house.
+Sentence: ƛ’ˤu bešnada boqnosi, neła q’orolayä kidbeqor eƛin:
+Gloss: roof III-leak-INF III-begin-ANT.CVB DEM1.IISG.OBL widow-ERG daughter-POSS.LAT say-PST.UNW
+Translation: When the roof began to leak, the widow said to her daughter:

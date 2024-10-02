@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word däqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word däqor: 
+
+Exact Matches
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+Sentence: Nesä užiqor eƛin, ža aɣi däqor neƛ xaner bižanixƛin.
+Gloss: DEM1.ISG.OBL-ERG boy-POSS.LAT say-PST.UNW DEM1.SG bird me-POSS.LAT give khan-LAT III-carry-MSD-AD.ESS-QUOT
+Translation: He said to the boy, "Give me that bird, so I can carry it to the king."
+Sentence: Min däqor łˤora ɣudin q’adaraw roži äƛinƛin”.
+Gloss: you-TOP me-POSS.LAT three.OBL day-TOP bad word say-PROHIB-QUOT
+Translation: And don't you say a bad word in these three days!'
+
+Approximate Matches:
+Sentence: Bercinawni ɣˤanaza t’ok’ow ƛ’iri xabarkin boynč’ey, mi xiyantaw žek’u zownƛin däqorno eƛin, ceyqor amru boys, yeda žek’u yałzar ižin kuroƛin.
+Gloss: beautiful-DEF woman-ERG anymore above story-even III-do-NEG.PST.CVB you betraying man be.NPRS-PFV.CVB-QUOT me-POSS.LAT-TOP say-PFV.CVB eagle-POSS.LAT command III-do-PST.WIT DEM2.ISG man be-LCV.CVB-CAUS take.out-PFV.CVB throw-IMPR-QUOT
+Translation: The beautful woman, not having said anything; 'You were a traitor', she said to me, and ordered the eagle: 'Take this man to where he came from and throw him out!'
+Sentence: Becurinč’ey di täƛru biłetow däqorno meža hibo bayrsi yołi, din mežus mežuqor rutirno kinaw šebin neƛa zowsƛin.
+Gloss: III-break-NEG.PST.CVB me give-PST.PRT III-as-EMPH me-POSS.LAT-TOP you(I).PL.OBL-ERG stick III-bring-PST.WIT indeed me-TOP you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT IV-give.back-PFV.CVB entire thing give-INF be.NPRS-PST.WIT-QUOT
+Translation: "If you hadn't broken it, you could have brought me back one that were as the one I gave to you, then I would have given you back all your stuff."

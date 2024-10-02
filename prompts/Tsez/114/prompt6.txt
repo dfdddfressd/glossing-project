@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: pikrazałer.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": pikrazałer
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word pikrazałer:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nełƛ’aza di aq’ˤu pikrazał ƛexux roda šebin koƛ’inč’eyƛin, žawab teƛno xedya.
+Gloss: DEM1.IISG.OBL-SUPER.VERS.DIST me much idea-PL-CONT.ESS remain-IPFV.CVB IV-do-INF thing understand.to-NEG.PST.UNW-QUOT answer give-PST.UNW husband-ERG
+Translation: Because of this, I - remaining very thoughtful - don't know what to do.", answered the husband.

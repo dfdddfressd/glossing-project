@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xirersi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xirersi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xirersi:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sayɣat teƛanix ža uži tełxor aƛin eniya nełaq di goƛ’irersi.
+Gloss: present give-MSD-AD.ESS DEM1.SG boy inside-AD.LAT bring.IMP-QUOT mother-ERG DEM1.IISG.OBL-POSS.ESS me call-CAUS-CAUS-PST.WIT
+Translation: 'Bring the boy inside, in order to give him a present!', and the mother let her call me."

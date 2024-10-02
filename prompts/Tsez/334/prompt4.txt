@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word butnozaxarno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word butnozaxarno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sasaqosi k’uläɣor ganbi riħada rižinosi, ganƛ’or yutin zawru kid ɣalbac’ƛ’orno yutin, xanez ganzo axarno k’oƛin, mo yac’xo zown.
+Gloss: in.the.morning side.street-IN.VERS bull.calf-PL IV-fight-INF IV-lead-ANT.CVB bull.calf-SUPER.LAT II-turn-PFV.CVB be.NPRS-PST.PRT girl lion-SUPER.LAT-TOP II-turn-PFV.CVB khan-GEN2 bull.calf-GEN2 belly-IN.LAT-TOP run-PFV.CVB fat II-eat-IPFV.CVB be.NPRS-PST.UNW
+Translation: The next morning, he lead the young bull into the side street to fight, the girl who had turned into a bull turned into a lion then and ran into the belly of the king's bull and was eating its fat.
+Sentence: Mi nełas pikru bäsno, sasaq di ganƛ’orno yutin, xanez ganzo axarno k’oƛin, nełas mo yac’anƛin, eƛin kidbä uži ɣˤaɣˤu izirno.
+Gloss: you DEM1.IISG.OBL-GEN1 idea III-take-PROHIB tomorrow me bull.calf-SUPER.LAT-TOP II-turn-PFV.CVB khan-GEN2 bull.calf-GEN2 belly-IN.LAT-TOP run-PFV.CVB DEM1.IISG.OBL-GEN1 fat II-eat-FUT.DEF-QUOT say-PST.UNW girl-ERG boy be.happy lift-PST.UNW
+Translation: "Don't think about it; tomorrow I will turn into a young bull, run into the king's bull's belly and eat its fat.", said the girl and made the boy happy.

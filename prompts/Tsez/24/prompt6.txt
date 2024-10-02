@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: biqiranƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": biqiranƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word biqiranƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Eɣenigon esiw ža biqiranƛin oqno, hemedurtow nesiqayn boxin bok’ełno.
+Gloss: young-DEF-CNTR brother DEM1.SG III-catch-FUT.CVB-QUOT begin-PFV.CVB so-EMPH DEM1.ISG.OBL-POSS.ABL-TOP III-run.away-PFV.CVB III-escape-PST.UNW
+Translation: The young brother tryed to catch it, and just as before it escaped and ran away from him.
+Sentence: Ɣedu biqiranƛin bik’inƛax žedu, mark’ač’uxar xizor butin bayn, eluq ɣedu biqinč’uƛin.
+Gloss: shade III-take.away-FUT.DEF-QUOT I.PL-go-PFV.CVB-QUOT DEM1.IPL twilight-AD.VERS back I.PL-turn.back-PFV.CVB I.PL-come-PFV.CVB we(I).OBL-POSS.ESS shade III-get-NEG.PST.WIT-QUOT
+Translation: "We will take the shadow", and they went on and came back in the twilight: "We didn't get the shadow."
+
+Approximate Matches:
+Sentence: Yiła eƛin, mi razi oqnäy, dowxor di sis bercinaw kid yiqiranƛin.
+Gloss: DEM2.IISG.OBL-ERG say-PFV.CVB you agree become-CND.CVB you-AD.LAT me one beautiful girl II-find-FUT.DEF-QUOT
+Translation: "if you agree, I will find a beautiful girl for you," the woman said.
+Sentence: Ža yiqiranƛingon soder izin ƛ’irir aynosi, ža elo yesuxanu - hudu di qoqoƛix soder izixƛin.
+Gloss: DEM1.SG II-take.away-FUT.DEF-QUOT-CNTR upward get.up-PFV.CVB above-LAT come-ANT.CVB DEM1.SG there II-find-IPFV.CVB-NEG - so me laugh-IPFV.CVB after get.up-IPFV.CVB-QUOT
+Translation: I go upward to take her with me, but I can't find her -- so I am laughing, when I go up.

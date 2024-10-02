@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’in: 
+
+Exact Matches
+Sentence: Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.
+Gloss: one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW
+Translation: One day Bear Ear went to the spring the dragon was covering to get water.
+Sentence: Ik’in, ik’in babiwƛ’or kaɣat yegirno zawruni ečruni žek’uder ayn.
+Gloss: go-PFV.CVB go-PFV.CVB father-SUPER.LAT letter II-send-PFV.CVB be.NPRS-PST.PRT-DEF old-DEF man-APUD.LAT come-PST.UNW
+Translation: He went and went and came to the old man who had sent the letter to his father.
+Sentence: Howži ža ɣamasno hokomƛ’o erno, eɣeni esiw xanes kid yałruni qalamxaɣor ik’in.
+Gloss: now DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB young-DEF brother khan-GEN1 daughter be-PST.PRT-DEF fortress-AD.VERS go-PST.UNW
+Translation: Now they put the box onto a carriage and the young brother went to the fortress where the king's daughter was.
+
+Approximate Matches:
+Sentence: Neła quł sasaq, esiw bełiƛ’ ik’inosi, ža q’orolay žigon yayn k’oƛin idur.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning brother hunting-SUPER.ESS go-ANT.CVB DEM1.SG widow again.now II-come-PFV.CVB run-PST.UNW home-LAT
+Translation: The next morning when the brother had gone hunting, that widow ran back to their home once again.
+Sentence: Dibirä eƛin, mužmarƛ’o yik’in hemeła kikxay mi łi ħaƛunäy, deber kid yadiƛin.
+Gloss: imam-ERG say-PST.UNW Friday-SUPER.ESS II-go-PFV.CVB DEM4.IISG.OBL spring-AD.ABL you water drink-CND.CVB you-LAT daughter II-do-QUOT
+Translation: The imam said: "When you go on Friday and drink water out of that spring, you will have a daughter."
+Sentence: Yoƛo ƛˤeb yik’inosi, Tawadi ixiw suħmat roda iħux.
+Gloss: II-middle year II-go-ANT.CVB Tavadi big celebration IV-do-INF begin-PRS
+Translation: After a year had passed, Tavadi began to organize a big celbration.

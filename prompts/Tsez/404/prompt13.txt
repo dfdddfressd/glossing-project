@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕAliqilič in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕAliqilič: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža maħor oqƛ’oräy, nesiłtow xizay yoƛixno Baxumesedagon ʕAliqiličqor č’ikay teƛno, reč’no nełas q’ˤim č’ikayä rezurinč’inäy, nełas ruħ baɣinč’iƛin.
+Gloss: DEM1.SG outside become-SIM.CVB DEM1.ISG.OBL-CONT.ESS-EMPH from.behind II-appear-PST.UNW Bakhumesed-ERG-CNTR Aliqilich-POSS.LAT mirror give-PFV.CVB IV-cut-PFV.CVB DEM1.IISG.OBL-GEN1 head mirror-IN.ESS IV-look-CAUS-NEG.FUT-CND.CVB DEM1.IISG.OBL-GEN1 power III-take.away-NEG.FUT-QUOT
+Translation: When Aliqilich got outside, Bakhumesedo appeared behind him and gave him a mirror, saying: "When you cut his head off and don't show it to himself in the mirror, you won't take away his power."
+Sentence: Di yoł debi xexbin rexurno, howži mi bexuranix nexʷasi žek’uƛin”, - eƛin ʕAliqiličä.
+Gloss: me be you-GEN1 children-TOP III.PL-kill-PFV.CVB now you III-kill-MSD-AD.ESS come-RES.PRT man-QUOT - say-PST.UNW Aliqilich-ERG
+Translation: "I am a man who killed your children, and now came to kill you", said Aliqilich.
+Sentence: Sasaqosi ʕAliqilič nełaz ruɣuł xizay ik’in.
+Gloss: in.the.morning Aliqilich DEM1.IISG.OBL-GEN2 prints-CONT.ESS behind go-PST.UNW
+Translation: The next morning, Aliqilich followed its prints.

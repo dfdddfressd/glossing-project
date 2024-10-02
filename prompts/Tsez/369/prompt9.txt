@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iħułxor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iħułxor: 
+
+Exact Matches
+Sentence: Yiłagon q’ˤanon xanes xexbi - užin, kidno k’emot’ya tełno eqerno, iħułxor kurno.
+Gloss: DEM2.IISG.OBL-CNTR two-TOP khan-GEN1 children - son-and daughter-and wooden.case-IN.ESS inside-TOP put-PFV.CVB river-CONT.VERS throw-PST.UNW
+Translation: But those two children of the king - the son and the daughter - she put into a wooden case and threw them into the river.
+Sentence: Howži ʕoƛnon esnabi yisiq hardizi boqsiƛax, aħinyoqorno bicin eli iħułxor kuroƛin.
+Gloss: now seven-TOP brother-PL DEM2.ISG.OBL-POSS.ESS request I.PL-become-PST.WIT-QUOT rock-POSS.LAT-TOP I.PL-tie-PFV.CVB we river-CONT.VERS throw-IMPR-QUOT
+Translation: Now it's said that the seven brothers asked him: "Tie us to a rock and throw us into the river!"
+Sentence: Elaz egin oqanƛin zawru yeda iħułxor ʕoƛ’un ik’in besuroz haqar keze oqno.
+Gloss: there-IN.ESS.DIST go.into-PFV.CVB become-FUT.CVB-QUOT be.NPRS-PST.PRT DEM2.ISG river-CONT.VERS fall-PFV.CVB go-PFV.CVB fish-GEN2 mouth-IN.LAT meet become-PST.UNW
+Translation: He was about to go that way, but fell into the river and into the jaws of a fish.
+
+Approximate Matches:
+Sentence: Elor aynosi, ža uži qˤaƛanada oqno, were meža di aħinyoqorno icin iħułer kuro, qaciz ruk’uqorno icin karnoƛin.
+Gloss: there-LAT come-ANT.CVB DEM1.SG boy yell-INF begin-PFV.CVB well you(I).PL.OBL-ERG me rock-POSS.LAT-TOP tie-PFV.CVB river-CONT.LAT throw-IMPR firewood-GEN2 bundle-POSS.LAT-TOP tie-PFV.CVB throw-PROHIB-QUOT
+Translation: When he arrived there, the boy started to yell: "Well, tie me to a rock and throw me into the river, but don't tie me to a bundle of wood and throw me in!"
+Sentence: Migon nazay t’or yiħułäƛin, esirno yisä q’orolaq.
+Gloss: you-CNTR from.where here-LAT II-come.to-POT-PST.WIT.INT-QUOT ask-PST.UNW DEM2.ISG.OBL-ERG widow-POSS.ESS
+Translation: "Now where have you come from, here?", he asked the widow.

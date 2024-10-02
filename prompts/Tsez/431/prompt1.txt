@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Baɣma in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Baɣma: 
+
+Exact Matches
+Sentence: Žoyä eƛin, däz baɣma mesedyos heneš boqxosi sis ɣun yoł.
+Gloss: boy-ERG say-PFV.CVB me-GEN2 garden gold-GEN1 apple III-happen-PRS-ATTR one tree be
+Translation: The boy said, "There is a tree with golden apples in my garden.
+Sentence: Nełƛ’ay soder xanez baɣma ɣunoq boqxosini mesedyos heneš łukin bok’ek’xo zown anu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after khan-GEN2 garden tree-POSS.ESS III-happen-PRS.PRT-DEF gold-GEN1 apple who.ERG-even III-steal-PRS be.NPRS-PFV.CVB be.NEG
+Translation: After that nobody stole the golden apples growing in the khan's garden.
+
+Approximate Matches:
+Sentence: Kidbazade sadaq di baɣmaɣor yoqan yaħna-yik’anix, elay di yok’ek’anix nesis hunar ʕeze boqnäy, nesis murad t’ubazi baqƛin.
+Gloss: girl-PL-APUD.ESS together me garden-IN.ALL II-become-FUT.DEF II-walk.for.a.while-MSD-AD.ESS there-IN.ABL me II-steal-MSD-AD.ESS DEM1.ISG.OBL-GEN1 talent be.enough III-become-CND.CVB DEM1.ISG.OBL-GEN1 wish fulfill III-become-QUOT
+Translation: "I will go out into the garden together with the girls to take a walk, if his talent is enough to steal me from there, his wish will be fulfilled."
+Sentence: Xizyo baɣmaɣorno ik’in, ɣunoƛ waħo q’ˤida ičin zown ičäsi, Allahä sis sabaw yoynč’i diƛin.
+Gloss: afterwards garden.OBL-IN.VERS-TOP go-PFV.CVB tree-SUB.ESS below under sit-PFV.CVB be.NPRS-PFV.CVB be-RES.PRT God-ERG one amulet II-do-NEG.FUT me-QUOT
+Translation: Afterwards he went to the garden and sat down thinking under the tree , "The God will not disregard me."
+Sentence: Howda lel yaƛ’ˤuru aɣi eliz baɣmart’a bayx zownƛin, žimäy yoɣno ža lel babiwq yukarnosi, ɣˤutkutow č’urno rik’in.
+Gloss: DEM3.SG feather II-fall-PST.PRT bird we.SPEC.GEN2 garden-IN.LAT-DISTR III-come-PRS be.NPRS-PFV.CVB-QUOT pocket-IN.ABL II-take.away-PFV.CVB DEM1.SG feather father-POSS.ESS II-show-ANT.CVB house-EMPH illuminate-PFV.CVB IV-go-PFV.CVB
+Translation: "This feather has fallen from the bird, which comes to our garden," and as he took the feather from the pocket and showed it to his father the feather illuminated the whole house.

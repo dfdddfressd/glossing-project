@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word puħon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word puħon: 
+
+Exact Matches
+Sentence: Enda užin, baħarawn sidä sidde puħon bičirno, yiził roƛƛo ciqqay reč’no rown hečk’er ɣunno eqerno, ža ɣun ładäɣor rutix, nesix yedu baħarayn yegira yayƛin.
+Gloss: DEM3b.SG boy-and fiancé-and one.OBL-ERG one.OBL-APUD.ESS side-AD.ESS-TOP I.PL-remain-CAUS-PFV.CVB DEM2.IPL.OBL-CONT.ESS IV-middle forest-POSS.ABL IV-cut-PFV.CVB IV-bring-PFV.CVB upright tree-TOP put-PFV.CVB DEM1.SG tree who.OBL-APUD.VERS IV-turn-IPFV.CVB DEM1.ISG.OBL-AD.ESS DEM2.IISG fiancée-TOP II-send-INF II-must-QUOT
+Translation: That boy and the groom we let stand side to side, and in their middle we'll put upright a tree that we cut from the forest and brought here, to whomever the tree falls, he must be married to the bride.
+
+Approximate Matches:
+Sentence: Xanä eƛin, Ismaʕil äxuzay soder nesiz gulude puħor ik’iłxosi žek’u oqinč’u, min hemedurtow ik’äłinč’iƛin.
+Gloss: khan-ERG say-PST.UNW Ismail die-SIM.CVB after DEM1.ISG.OBL-GEN2 horse-APUD.ESS side-AD.LAT go-POT-PRS.PRT man become-NEG.PST.WIT you-and so-EMPH go-POT-NEG.FUT-QUOT
+Translation: The king said: "Ever since Ismail died, there was no man who could go near his horse; and you won't be able to do so either."
+Sentence: Neła ža yižin idu eqernosi, acno serun nełde puħorno ik’in, royxosi šebinon royn, mi tełerno oqno ɣamas yexar, xizyo žeda ža q’ač’azi yodanixƛin elay xizor yegärƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG II-carry-PFV.CVB home put-ANT.CVB door-TOP unlock-PFV.CVB DEM1.IISG.OBL-APUD.ESS side-AD.LAT-TOP go-PFV.CVB IV-do-IPFV.CVB-ATTR something IV-do-PFV.CVB you to.the.inside-TOP become-PFV.CVB box II-kill afterwards DEM1.IPL.OBL-ERG DEM1.SG get.ready II-do-MSD-AD.ESS-QUOT there-IN.ABL back II-send-QUOT
+Translation: After she carried you inside, unlock the door, and go to her side, do what is to be done, go back inside and destroy the box; afterwards they will send it back to be repaired.
+Sentence: Łaymoƛ’or aynosi, Ismaʕil nełde puħor k’oƛin.
+Gloss: mind-SUPER.LAT come-ANT.CVB Ismail DEM1.IISG.OBL-APUD.ESS side-AD.LAT run-PST.UNW
+Translation: When Ismail came to, he run to her side.

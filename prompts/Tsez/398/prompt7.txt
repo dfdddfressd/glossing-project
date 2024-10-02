@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reƛ: 
+
+Exact Matches
+Sentence: Sida ħiƛ’oquqno rutirno xanƛ’or regirno, ele enda ħaramaw reƛ yołƛin.
+Gloss: one.OBL handkerchief-POSS.ESS-TOP IV-gather-PFV.CVB khan-SUPER.LAT IV-send-PST.UNW there DEM3b.SG prohibited meat be-QUOT
+Translation: They gathered it in one handkerchief and sent it to the king: "There is the prohibited meat."
+Sentence: Nesiztow bˤeƛ’eł yałru biƛurox aluk’ani bˤeƛ’q’ˤus reƛ rac’näy, ža xan saɣ oqxosi yałrułin xalq’imor riyxanu.
+Gloss: DEM1.ISG.OBL-GEN2-EMPH sheep-CONT.ESS be-PST.PRT belly-AD.ESS white-DEF sheep-GEN1 meat IV-eat-CND.CVB DEM1.SG khan cure become-PRS.PRT be-PST.PRT-NMLZ-and people-LAT IV-know-IPFV.CVB-NEG
+Translation: When he eats the meat of a sheep from his flock, which is white on its belly, this king will be healed; but the people don't know this.
+Sentence: Žedu nasin maħor boqnosi, reɣeni xaličan, beɣeni magalun bäqiruni nukarä xizyo yałruxor esin, anƛ’ima baħna-bik’inkin räqinč’iru eluq reƛ, hemesi dowzoniƛ’aygon rigu ɣˤutku yałruni užä neƛsi, debi xexbikin besač’iney žeduƛin.
+Gloss: DEM1.IPL all outside I.PL-become-ANT.CVB IV-small-DEF mat-and III-small-DEF bread-and I.PL-get-PST.PRT-DEF henchman-ERG afterwards be-PST.PRT-AD.LAT tell-PFV.CVB week-IN.ESS I.PL-walk.for.a.while-PFV.CVB-even IV-get-NEG.FUT.CVB-PST.PRT we(I).OBL-POSS.ESS meat DEM4.ISG.OBL you-GEN2-DEF-SUPER.ABL-CNTR IV-pretty house be-PST.PRT-DEF boy-ERG give-PST.WIT you-GEN1 children-even I.PL-exist-NEG.FUT.DEF-DUB DEM1.IPL-QUOT
+Translation: After they all went outside, the henchman who got the small mat and the small bread afterwards told him: "We were walking for a week and this boy with the house even prettier than yours gave us the meat that we didn't get; they even might be your children."
+
+Approximate Matches:

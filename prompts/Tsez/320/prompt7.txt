@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eƛinosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eƛinosi: 
+
+Exact Matches
+Sentence: Xanä hemedurtow pakmos ʕabasin cuƛer kurno eƛinosi, Kusagon mesedyos ʕabasin cuƛer kurno eƛin, k’ešonad mi, mesedyos ʕabasi, dunyalƛ’o debeq roqxanusi šebintow anuƛin.
+Gloss: khan-ERG so-EMPH copper-GEN1 coin-TOP upward throw-PFV.CVB say-ANT.CVB Kusa-CNTR gold-GEN1 coin-TOP upward throw-PFV.CVB say-PST.UNW play you gold-GEN1 coin world-SUPER.ESS you-POSS.ESS IV-become-NEG.PRS.PRT thing-EMPH be.NEG-QUOT
+Translation: When the king threw the copper coin upward and said his phrase, Kusa threw up the golden coin up and said: "Play, golden coin, there is nothing in the world that you couldn't become!"
+Sentence: Idurno yayngon yiła, mi gulu bayrno zown anuwaƛin, esiwqor eƛinosi, nesir neła gulu bac’rułi čuqˤno.
+Gloss: home-LAT-TOP II-come-PFV.CVB-CNTR DEM2.IISG.OBL-ERG you horse III-bring-PFV.CVB be.NPRS-PFV.CVB be.NEG-Q-QUOT brother-POSS.LAT say-ANT.CVB DEM1.ISG.OBL-LAT DEM1.IISG.OBL-ERG horse III-eat-MSD notice-PST.UNW
+Translation: When she went back into the house and said to the brother: "Didn't you bring a horse along?", he noticed that she had eaten the horse.
+Sentence: Däq nełas baha bäziƛin užä eƛinosi, yiła yeda idur kidbeder ayrno.
+Gloss: me-POSS.ESS DEM1.IISG.OBL-GEN1 price III-get-QUOT boy-ERG say-ANT.CVB DEM2.IISG.OBL-ERG DEM2.ISG home-LAT girl-APUD.LAT lead-PST.UNW
+Translation: "I will be able to afford its price.", the boy said, and she led him home to the girl.
+
+Approximate Matches:
+Sentence: Yexoriłƛin eƛinosigon, ele yexoriłinč’aƛin hečk’erno yizin.
+Gloss: II-become.longer-QUOT say-ANT.CVB-CNTR here II-become.longer-NEG.PST.WIT-Q-QUOT upright-TOP II-get.up-PST.UNW
+Translation: And when he said "Get longer!", she said "Here, am I not getting longer?" and got up upright again.

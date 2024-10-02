@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kokoru.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kokoru
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kokoru:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Akiłno q’ˤida di ičinosi, nesä howt’o deber kokoru qˤiƛci riqixyołiƛin eƛis.
+Gloss: get.tired-PFV.CVB down me sit-ANT.CVB DEM1.ISG.OBL-ERG here you-LAT soft pillow IV-get-PRS-COND.IRR-QUOT say-PST.WIT
+Translation: When I got tired and sat down, he said: "If we only could get you a soft pillow to sit down here..."
+Sentence: Aħmadä ečruni žek’uqor eƛin, howt’o deber q’ˤida iča kokoru qˤiƛci riqixyołiƛin.
+Gloss: Akhmed-ERG old-DEF man-POSS.LAT say-PST.UNW here you-LAT down sit-INF soft pillow IV-get-PRS-COND.IRR-QUOT
+Translation: Akhmed said to the old man: "If we only could get you a soft pillow to sit down here..."
+Sentence: Sida quł ruzmanƛ’o xanä nazołno adäza sual erno, hič’č’an qˤaba hič’č’an kokoru, hič’č’an ʕedeʕaraw šebin šebiƛin.
+Gloss: one.OBL day-CONT.ESS Friday-SUPER.ESS khan-ERG everyone.OBL-CONT.ESS-TOP ahead question put-PST.UNW the.most-and black the.most-and soft the.most-and quick thing what-QUOT
+Translation: One Friday the king asked a question before everyone: "What is the blackest, softest and quickest thing?"
+
+Approximate Matches:
+Sentence: Sosisi yisä esinč’ey iča oqäsi zown, xizyo kidbä xecinč’izaƛ’ esin, hemedur xanä mužmareł sual neƛsi, hič’č’an qˤaban, hič’č’an kokorun, hič’č’an ʕedeʕaraw šebin šebiƛin.
+Gloss: at.first-ATTR DEM2.ISG.OBL-ERG tell-NEG.PST.CVB be-INF begin-RES.PRT be.NPRS-PFV.CVB afterwards daughter-ERG leave-NEG.FUT.CVB-CSL.CVB tell-PST.UNW so khan-ERG Friday-CONT.ESS question give-PST.WIT the.most-and black-and the.most-and soft-and the.most-and quick thing what-QUOT
+Translation: At first he didn't want to tell it, but then, because his daughter wouldn't leave him, he told: "The king asked a question this Friday: 'What is the blackest, softest and quickest thing?'

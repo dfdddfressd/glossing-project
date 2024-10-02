@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rizirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rizirno: 
+
+Exact Matches
+Sentence: Debeł halmaɣłin risno, łäƛ’ ƛ’iri xanłi rodaniƛäy anu di dowder iħada nexäsiƛin, eƛin rizirno yisä mač’a.
+Gloss: you-CONT.ESS friendship-TOP IV-take-PFV.CVB water-SUPER.ESS above khanship IV-do-MSD-SUB.ABL be.NEG me you-APUD.LAT fight-INF come-RES.PRT-QUOT say-PFV.CVB IV-lift-PST.UNW DEM2.ISG.OBL-ERG dagger
+Translation: "I won't accept your friendship with you and I won't rule over the water, I came to you in order to fight!", he said and lifted the dagger.
+Sentence: Neširutow bˤeƛä c’idoƛ’or ƛoħon rizirno, qˤay łäxay buta begirno.
+Gloss: at.night-EMPH pig-ERG fire-SUPER.LAT pan-TOP IV-lift-PFV.CVB hare water-AD.ABL III-return-INF III-send-PST.UNW
+Translation: At night, the pig put the pan on the fire and sent the hare for water again.
+Sentence: Ža kusaq eƛin łiyzaƛ’ortow, ʕomoyä ħoʕni rizirno.
+Gloss: DEM1.SG beardless.man-POSS.ESS say-PFV.CVB end-POST.CVB-EMPH donkey-ERG shout IV-lift-PST.UNW
+Translation: Even before the beardless man had finished saying this, the donkey gave out a shout.
+
+Approximate Matches:
+Sentence: Neširutow moƛaxayn bizirno, sosigon bišerno yiła yizi kecerno.
+Gloss: at.night-EMPH sleep-AD.ABL-TOP I.PL-get.up-CAUS-PFV.CVB again-CNTR I.PL-eat-CAUS-PFV.CVB DEM2.IISG.OBL-ERG DEM2.IPL sleep-CAUS-PST.UNW
+Translation: At night he woke them up from their sleep, fed them again and put them to bed.
+Sentence: Howlaygon yiła yeda izirno ok’no ʕAliqilič bečnazaxar raƛ’moƛxor cucik’no.
+Gloss: from.there-CNTR DEM2.IISG.OBL-ERG DEM2.ISG lift-PFV.CVB beat-PFV.CVB Aliqilich knee-PL-AD.VERS earth-SUB.LAT put-PST.UNW
+Translation: And from there the dragon lifted and beat Aliqilich into the earth up to his knees.
+Sentence: Tełxor egirno zamanaƛ’azay roč k’ek’-rik’ärun, yizä ža raƛ’moƛ’aɣor izirno.
+Gloss: inside-AD.LAT let-PFV.CVB time-SUPER.ABL.DIST rope move-CAUS-IMM.ANT.CVB DEM2.IPL.OBL-ERG DEM1.SG earth-SUPER.VERS lift-PST.UNW
+Translation: They let him inside, and just when after some time the rope was moved, they lifted him onto the earth.

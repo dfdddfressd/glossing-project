@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Ele in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Ele: 
+
+Exact Matches
+Sentence: Sida ħiƛ’oquqno rutirno xanƛ’or regirno, ele enda ħaramaw reƛ yołƛin.
+Gloss: one.OBL handkerchief-POSS.ESS-TOP IV-gather-PFV.CVB khan-SUPER.LAT IV-send-PST.UNW there DEM3b.SG prohibited meat be-QUOT
+Translation: They gathered it in one handkerchief and sent it to the king: "There is the prohibited meat."
+Sentence: Kidbä eƛin, ʕilmu yiyxosi nasin babiya bexurxosi, ele hemedurt’a bexaruzas ƛuzabi yoł yiziƛin.
+Gloss: girl-ERG say-PST.UNW science II-know-PRS.PRT all dad-ERG I.PL-kill-PRS.PRT here so-DISTR I.PL-kill-PST.PRT-PL-GEN1 bone-PL be DEM2.IPL-QUOT
+Translation: The girl said: "My father kills all who know about science, these here are the bones of the thus killed."
+Sentence: Nedur resunäyƛin, - eƛin eženi esiya, - eli łˤonon xander bik’a bay - ele howlo räy łu mesed bäsrułiƛin”.
+Gloss: so IV-turn.up-CNDCVB-QUOT - say-PSTUNW old-DEF brother-ERG - we three-and khan-APUD.LAT I.PL-go-INF I.PL-must - there there IV-know.FUTIND who.ERG gold III-take-MSD-QUOT
+Translation: "If it turns out this way," said the eldest brother, "we three must go to the king -- there it will be known who has taken the gold."
+
+Approximate Matches:

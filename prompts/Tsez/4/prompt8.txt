@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: egirno using Leipzig glossing symbols. The sentence this word is drawn from means: "The boy gave the shepherds who had found him a big present and sent them back.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": egirno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word egirno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howži nesi žek’a ža uži debez mi hunix ik’iƛin egirno.
+Gloss: now DEM1.ISG.OBL man-ERG DEM1.SG boy you-GEN2 you way-AD.ESS go-QUOT let-PST.UNW
+Translation: Now the man let the boy go: "Go on your way!"
+Sentence: Bet’erhanes kidno ħamimyołxor yegirno, nełałtow xizaygon dibirno egirno, micxir neƛanƛin.
+Gloss: master-GEN1 daughter-TOP hot.springs-CONT.VERS II-send-PFV.CVB DEM1.IISG.OBL-CONT.ESS-EMPH behind-CNTR imam-TOP send-PFV.CVB money give-FUT.DEF-QUOT
+Translation: She sent the master's daughter to the hot springs and sent the imam behind her, "I'll give you money."
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+
+Approximate Matches:
+Sentence: Xizyogon hemesitow bečedawni žek’a naysinan xabar begirno, dey kid yeynodaniƛ’or ruhun yayru žek’ux yegira yołƛin.
+Gloss: then DEM4.ISG.OBL-EMPH wealthy-DEF man-ERG everywhere story III-let-PFV.CVB me-GEN1 daughter II-work-MSD-SUPER.LAT teach II-do-PST.PRT man-AD.ESS II-send-INF be-QUOT
+Translation: Then that very same rich man spread the story everywhere, that he would marry his daughter off to the man who would teach her how to work.
+Sentence: Gulu bišan begirno puƛ’or ʕoƛ’unosi, yeda moƛa iqirxo.
+Gloss: horse III-eat-FUT.CVB III-let-PFV.CVB side-SUPER.LAT fall-ANT.CVB DEM2.ISG sleep-ERG take.away-PRS
+Translation: He let the horse eat, fell onto the side and the sleep took him away.
+Sentence: Yeženä Beqes ʕUneyzatno, xediwn mˤaliz qˤodreza tełäy maħor begirno, howži mežus req’el boqsiƛin.
+Gloss: II-old-DEF-ERG sun-GEN1 Uneyzat-and husband-and nose-GEN2 hole-PL-IN.ESS inside-IN.ABL outside I.PL-let-PFV.CVB now you(I).PL.OBL-GEN1 peace I.PL-become-ATTR-QUOT
+Translation: The old woman let Sun's Uneyzat and her husband out of her nostril [and said]: "Now you're at peace."

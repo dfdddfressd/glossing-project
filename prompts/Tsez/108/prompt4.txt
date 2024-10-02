@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bownč’ey.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bownč’ey
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bownč’ey:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nesir res boqnoanu ža kid yižinč’ey.
+Gloss: DEM1.ISG.OBL-LAT possibility III-become-PFV.CVB-NEG DEM1.SG girl II-lead-NEG.PST.CVB
+Translation: He had no choice not to marry her.
+Sentence: Esinč’ey ičäsi zown Muħamadä, xizyo, necetow ƛ’iri xan utizaƛ’, däz kidbä esisƛin eƛin.
+Gloss: tell-NEG.PST.CVB be-RES.PRT be.NPRS-PFV.CVB Muhammad-ERG afterwards so.much-EMPH above khan turn.back-CSL.CVB me-GEN2 daughter-ERG tell-PST.WIT-QUOT say-PST.UNW
+Translation: Muhammad wasn't telling it, but then, because the king insisted so much, he said: "My daughter told me."
+Sentence: Xizyo zeyä yisiq esirno, mi oƛixnosi di bežigon bˤuƛ’si, šida mi di bexurinč’ey xecäƛin.
+Gloss: afterwards bear-ERG DEM2.ISG.OBL-POSS.ESS ask-PST.UNW you appear-ANT.CVB me III-more-CNTR III-be.afraid-PST.WIT why you me III-kill-NEG.PST.CVB leave-PST.WIT.INT-QUOT
+Translation: Then the bear asked him, "After you appeared I was all the more afraid, why didn't you kill me?"

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esnaza in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esnaza: 
+
+Exact Matches
+Sentence: Guħƛ’orno bizin, łˤoran esnaza kurno c’eruc’a.
+Gloss: hill-SUPER.LAT-TOP I.PL-get.up-PFV.CVB three.OBL-TOP brother-PL-ERG throw-PST.UNW bow
+Translation: The three brothers climbed up the hill and shot with their bows.
+Sentence: Radiru rigłin riynč’ey, bežet’ani esnaza daʕba bodin, hič’č’a bercinaw kid deber šida yiča yayxƛin.
+Gloss: IV-do-PST.PRT IV-good-CNC.CVB IV-know-NEG.PST.CVB I.PL-old-DISTR-DEF brother-PL-ERG dispute III-do-PFV.CVB the.most beautiful girl you-LAT why II-be-INF II-must-PRS-QUOT
+Translation: The other brothers didn't know what good he had done, and began to argue: "Why must the most beautiful girl be for you?"
+Sentence: Howlay bik’in idur baynosi, bertenno bodin, esnaza žeda žedus esiw Ismaʕilxo yegirno.
+Gloss: from.there I.PL-go-PFV.CVB home-LAT I.PL-come-ANT.CVB marriage-TOP III-do-PFV.CVB brother-PL-ERG DEM1.IPL.OBL-ERG DEM1.IPL.OBL-GEN1 sister Ismail-AD.ESS II-send-PST.UNW
+Translation: From there they went home and arranged the marriage and the brothers married off their own sister to Ismail.
+
+Approximate Matches:
+Sentence: Qˤišodgon yizi bišanix elor baynosi, hemedurtow siskin šebin rac’inč’ey, q’ˤunan reƛ’izad q’ˤimno riqirno esun Kusa esnazar.
+Gloss: at.noon-CNTR DEM2.IPL I.PL-eat-MSD-AD.ESS there-LAT I.PL-come-ANT.CVB so-EMPH any thing IV-eat-NEG.PST.CVB two.OBL-TOP hand-PL-INSTR head-TOP IV-stop-PFV.CVB find-PST.UNW Kusa brother-PL-LAT
+Translation: When they came there to eat dinner, the three brothers found Kusa there without eating anything and with his two hands supporting his head.
+Sentence: Zamanałäy kidber eniwdäɣorno, esnazadäɣorno yik’anix rok’u k’oƛin.
+Gloss: time-CONT.ABL girl-LAT mother-APUD.VERS-and sister-PL-APUD.VERS-and II-go-MSD-AD.ESS heart jump-PST.UNW
+Translation: Afterwards, the girl wanted to go to her mother and her sisters.
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.

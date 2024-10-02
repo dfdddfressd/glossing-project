@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: siskin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": siskin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word siskin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sis nełarno kurno siskin där ƛexandaƛin, aɣzo rok’ƛ’orno rayn, dicego rok’er zaħmat roqłin, zirur sis xexoy kurno.
+Gloss: one DEM1.IISG.OBL-LAT-TOP throw-PFV.CVB anything me-LAT remain-FUT.DEF-COND-QUOT bird-ATTR.OBL heart-SUPER.LAT-TOP IV-come-PFV.CVB how.much-COND heart-LAT trouble IV-become-CNC.CVB fox-LAT one young.animal throw-PST.UNW
+Translation: "Throwing one down, there will still remain one for me.", thought the bird and although it was difficult, it threw one nestling to the fox.
+Sentence: Bišanon bišno, Kusaqor siskin xabar boynč’ey, łˤonon esnabi maħor boqno.
+Gloss: food-TOP III-eat-PFV.CVB Kusa-POSS.LAT any story III-do-NEG.PST.CVB three-TOP brother-PL outside I.PL-become-PST.UNW
+Translation: Having eaten their food, the three brothers went outside without having talked to Kusa.
+Sentence: Išno oqnosi yisir siskin roqinč’uƛax.
+Gloss: eat-PFV.CVB become-ANT.CVB DEM2.ISG.OBL-LAT anything IV-happen-NEG.PST.WIT-QUOT
+Translation: After he ate, nothing happened to him.
+
+Approximate Matches:
+Sentence: Zamanałäy yisider sid miskinaw haq’us užä ayn eƛin, däq regirnäy, žedu di reynodanix ruhun rodanƛin.
+Gloss: time-CONT.ABL DEM2.ISG.OBL-APUD.LAT one.OBL poor family-GEN1 boy-ERG come-PFV.CVB say-PFV.CVB me-POSS.ESS III.PL-send-CND.CVB DEM1.IPL me III.PL-work-MSD-AD.ESS teach III.PL-do-FUT.DEF-QUOT
+Translation: After a while, a boy from a poor family came to him and said: "If you send them to me, I'll teach them how to work."
+Sentence: Hudayzikotow bertenno bodin, miskinaw oqłin ʕaq’ilawni žax nesi žek’a äƛiruxor, kidno yegirno.
+Gloss: the.next.day-EMPH marriage-TOP III-do-PFV.CVB poor become-CNC.CVB intelligent-DEF boy-AD.ESS DEM1.ISG.OBL man-ERG ORD-AD.LAT girl-TOP II-send-PST.UNW
+Translation: The next day the wedding was arranged and the girl was - as this man had told - married off to the intelligent though poor boy.
+Sentence: Žedu c’aq’ miskinłiƛ’ zown.
+Gloss: DEM1.IPL very poor-NMLZ-SUPER.ESS be.NPRS-PST.UNW
+Translation: They lived in great poverty.

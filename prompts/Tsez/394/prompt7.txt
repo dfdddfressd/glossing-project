@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word haqa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word haqa: 
+
+Exact Matches
+Sentence: Aɣi bukayruntow nełaz maʕdinłiƛ’no ezun xan haqa ogun ƛexun.
+Gloss: bird III-see-IMM.ANT.CVB-EMPH DEM1.IISG.OBL-GEN2 beauty-SUPER.ESS-TOP look-PFV.CVB khan mouth-IN.ESS gape-PFV.CVB remain-PST.UNW
+Translation: When the king saw the bird, he stood there gaping about its beauty.
+Sentence: Bełiƛ’ esnabi bäk’äsi yałzay, eɣeni esiwz bara k’orin boyn nazon q’ˤidan ričin bac’ƛ’oräy, Umukusez haqa bašiqˤoy šišin, k’ori boyƛ’orey eɣeni esiwz baruqay rˤaƛ’uruni.
+Gloss: hunting-SUPER.ESS brother-PL I.PL-go-ATTR be-SIM.CVB young-DEF brother-GEN2 wife-ERG oatmeal-TOP III-do-PFV.CVB everyone.OBL-TOP down-TOP II.PL-sit-PFV.CVB III-eat-SIM.CVB Umukus-GEN2 mouth-IN.ESS ring get.stuck-PST.UNW oatmeal III-do-SIM.CVB young-DEF brother-GEN2 wife-POSS.ABL IV-fall-PST.PRT-DEF
+Translation: When the brothers were going hunting, the youngest brother's wife made an oatmeal and when everyone sat down and ate, a ring that fell off the youngest brother's wife when she made the oatmeal, got stuck in Umukus' mouth.
+Sentence: Yedu haqa yogun ƛexun, nece bercinawn, č’uħarawn šeƛ’u yiła best’alawni kidber naey riqisƛin.
+Gloss: DEM2.IISG mouth-IN.ESS II-gape-PFV.CVB remain-PST.UNW so.much beautiful-and gorgeous-and clothing DEM2.IISG.OBL step-DEF girl-LAT where-DUB IV-get-PST.WIT-QUOT
+Translation: She was gaping: "Where the heck did the 'stepgirl' get so beautiful and gorgeous clothes from?"
+
+Approximate Matches:

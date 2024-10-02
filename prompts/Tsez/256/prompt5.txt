@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word utinosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word utinosi: 
+
+Exact Matches
+Sentence: Igtow xan ƛ’iri utinosi, yisä roži teƛno.
+Gloss: much-EMPH khan above turn-ANT.CVB DEM2.ISG.OBL-ERG word give-PST.UNW
+Translation: After the king insisted so much, he gave his word.
+Sentence: Sisgon ʕaq’lu mołoƛin ƛ’iri uži utinosi, hunix ik’izaƛ’ deberno ħažat yaq ža xizor ƛäxuruni sisini ɣˤurušƛin, endurtow esin eženi žek’a ʕaq’lu, boƛ’araw royxozo łinałno cim xizor biq’ˤir, sabru ader adek’ƛin.
+Gloss: one-CNTR advice teach-IMPR-QUOT above boy turn.back-ANT.CVB way-AD.ESS go-CSL.CVB you-LAT-TOP necessary II-become DEM1.SG back remain-PST.PRT-DEF other-DEF ruble-QUOT that.way-EMPH tell-PFV.CVB old-DEF man-ERG advice any IV-do-PRS.PRT.OBL what.OBL-CONT.ESS-TOP malice back III-move.aside patience forward push.forward-QUOT
+Translation: When the boy insisted: "Give me another advice!", the old man said the advice that way: "When you go on your way, the remaining ruble will become necessary for you. Anything evil that might be done should be moved aside, and patience should be pushed forward."
+
+Approximate Matches:
+Sentence: Telawärno bik’in xizor eli butinosi, bertenno bodan.
+Gloss: Telavi-IN.LAT-TOP I.PL-go-PFV.CVB back we I.PL-return-ANT.CVB marriage-TOP III-do-FUT.DEF
+Translation: After we returned to Telavi, we will organize a marriage.
+Sentence: Neširu kinaw ħalt’imabin łiyrno nasin iduzaɣor butinosi, sida sidqo badiru ħalt’ozałäy esin.
+Gloss: evening entire work-PL-TOP finish-PFV.CVB all home-PL-IN.ALL III-return-ANT.CVB one.OBL-ERG one.OBL-POSS.ESS I.PL-do-PST.PRT work-PL-CONT.ABL tell-PST.UNW
+Translation: By the evening, when everyone has finished their works and returned home, they told each other about the work they did.
+Sentence: Nexanƛin yigtow yedu kid ƛ’iri yutinosi, žoyä pandur teƛno ičin yiłar.
+Gloss: come-FUT.DEF-QUOT II-much-EMPH DEM2.IISG daughter above II-return-ANT.CVB boy-ERG lute give-PFV.CVB be-PST.UNW DEM2.IISG.OBL-LAT
+Translation: "I will come", the girl insisted very much, and the boy gave her the lute.

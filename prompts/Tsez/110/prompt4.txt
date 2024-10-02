@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: miƛ’in.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": miƛ’in
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word miƛ’in:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.
+Sentence: Užä izin, miƛ’in bexayn, ƛäxuruni at’es magalun boyn.
+Gloss: son-ERG get.up-PFV.CVB ram-TOP III-slaughter-PFV.CVB remain-PST.PRT-DEF wheat-GEN1 bread-TOP III-do-PST.UNW
+Translation: The son got up, slaughtered the ram and made a bread from the remaining wheat.
+Sentence: Zamanaƛ’aza elor äƛiruxortow q’ˤano miƛ’in bayn, riħadanix riħun.
+Gloss: time-SUPER.VERS.DIST there-LAT say-PST.PRT-AD.LAT-EMPH two ram-TOP III-come-PFV.CVB III.PL-fight-MSD-AD.ESS III.PL-come.to-PST.UNW
+Translation: After some time, two said rams came there and started to fight.
+
+Approximate Matches:
+Sentence: Šibaw ɣudƛ’o šudaƛ’ay ciyo raganix sis ixiw miƛ’it’a bayx zown.
+Gloss: every day-SUPER.ESS graveyard-SUPER.ABL salt IV-lick-MSD-AD.ESS one big ram-DISTR III-come-IPFV.CVB be.NPRS-PST.UNW
+Translation: Every day a big ram was coming to lick the salt from the grave.
+Sentence: Sasaqgon miƛ’i šudaƛ’or ciyo raganix bayn.
+Gloss: tomorrow-CNTR ram graveyard-SUPER.LAT salt IV-lick-MSD-AD.ESS III-come-PST.UNW
+Translation: And on the next day, the ram came to the graveyard to lick the salt again.
+Sentence: Neła t’umiqay bˤaƛ’uru ħuli babiwz k’ukyoł boqun, miƛ’iłäy räšruni mesedyosnigon his ħamarno čˤaƛin esirno, baba, req’ezi roqxaƛin.
+Gloss: DEM1.IISG.OBL pigeon-POSS.ABL III-fall-PST.PRT feather father-GEN2 cap-CONT.ESS III-stick-PFV.CVB ram-CONT.ABL IV-fall-PST.PRT-DEF gold-GEN1-DEF-CNTR spring.wool chest-IN.LAT-TOP throw-PFV.CVB ask-PFV.CVB daddy approach IV-become-PRS-Q-QUOT
+Translation: She put the feather that fell from that pigeon onto her father's hat, and threw the golden whool that fell from the ram onto the chest and asked: "Daddy, does it fit?"

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rok’ek’anix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rok’ek’anix: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Q’orola nełqor eƛin, łäxor mi yik’iƛ’oräy yok’ek’anix ʕoloqbi urɣizi boqxo, hudu mi esiwqor eƛo, zam-zames łi et’näy, madaxtow nełas kik boƛixxosi, nełał xizay ik’iƛƛin.
+Gloss: widow-ERG DEM1.IISG.OBL-POSS.LAT say-PST.UNW water-AD.LAT you II-go-SIM.CVB II-steal-MSD-AD.ESS young.person-PL thinking I.PL-become-PRS so you brother-POSS.LAT say-IMPR Zam-Zam-GEN1 water pour-CND.CVB outside-AD.ESS-EMPH DEM1.IISG.OBL-GEN1 spring III-appear-PRS.PRT DEM1.IISG.OBL-CONT.ESS behind go-OPT-QUOT
+Translation: The widow said to her: "Some young men are thinking about kidnapping you when you go to get water, so tell your brother that if he pours out holy water, then outside a spring of it will appear, behind which he should go."
+Sentence: Žedu q’ˤunesno q’ut’i boqno šebi rodinon ža nesi xedyoxay yok’ek’anix.
+Gloss: DEM1.IPL two.OBL-GEN1-TOP agreement I.PL-become-PFV.CVB what IV-do-INT DEM1.SG DEM1.ISG.OBL husband-AD.ABL II-remove-MSD-AD.ESS
+Translation: The two of them agreed to remove her from that husband by all means.
+Sentence: Łˤono äƛiru ɣudƛ’ogon č’urqˤotown q’ˤanon bežet’ani esnabi hunix boqno, yaqˤułgon yiqixana eluq yok’ek’anix sistow sis ƛäxuruni xanes kidƛin.
+Gloss: three say-PST.PRT day-SUPER.ESS-CNTR in.the.morning-EMPH-TOP two-TOP I.PL-old-DISTR-DEF brother-PL way-AD.ESS I.PL-become-PFV.CVB today-CNTR II-get-IPFV.CVB-NEG-Q we(I).OBL-POSS.ESS II-steal-MSD-AD.ESS one-EMPH one remain-PST.PRT-DEF khan-GEN1 daughter-QUOT
+Translation: The third day then, in the morning, the two older brothers went on their way: "Today we might succeed in stealing the single remaining daughter from the king."

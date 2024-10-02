@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: maʕišatno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": maʕišatno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word maʕišatno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.
+Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW
+Translation: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.
+Sentence: Nedurä mi dey wasi t’ubazi bodix zownƛin, elayn bizin ziru xanes kidbederno bik’in esin nełaq ža ɣˤutkun, maʕišatno ɣˤʷays yałrułin, žatown habihan yołƛinno.
+Gloss: so-Q you me-GEN1 testament fulfill III-do-IPFV.CVB be.NPRS-PST.UNW-QUOT there-IN.ABL-TOP III-get.up-PFV.CVB fox khan-GEN1 daughter-APUD.LAT-TOP III-go-PFV.CVB tell-PFV.CVB DEM1.IISG.OBL-POSS.ESS DEM1.SG house-and fortune-and dog-GEN1 be-PST.PRT-NMLZ-and DEM1.SG-EMPH-and miller be-QUOT-TOP
+Translation: "So you have fulfilled my wish?", [said] the fox[,] got up from there, went to the king's daughter and told her that the house and the fortune all belong to the dog and that he is just a miller.
+Sentence: Xizaɣor ɣˤutkun, idusi maʕišatno, daruyabin teƛno micxiryosno, mesedyosno ħurženyabin ric’no, yeda saparyox oqno.
+Gloss: finally house-TOP home-ATTR fortune-TOP medicine-PL-TOP sell-PFV.CVB money-GEN1-TOP gold-GEN1-TOP bag-PL-TOP IV-fill-PFV.CVB DEM2.ISG journey-AD.ESS begin-PFV.CVB
+Translation: Finally, he sold his house, fortune, medicine and went on journey with the saddle bags filled with money and gold.
+
+Approximate Matches:
+Sentence: Mi aħyabin rˤoƛ’urno šida ičäsiƛin esirnosi, yisä eƛin, debex di esiw yegirłin, mi däq debi mi maʕišat bukarxanuƛin.
+Gloss: you ear-PL-TOP IV-let.fall-PFV.CVB why be-RES.PRT-QUOT ask-ANT.CVB DEM2.ISG.OBL-ERG say-PST.UNW you-AD.ESS me sister II-send-CNC.CVB you me-POSS.ESS you-GEN1 you fortune III-show-PRS-NEG-QUOT
+Translation: When in the morning he asked: "Why are you sitting there with your ears fallen down?", he answered: "Although I married off my sister to you, you don't show me your fortune."
+Sentence: Hemełƛ’o bečedawni žek’a eƛin, mi dey kid saɣ yodinäy, maharno erno debex ža di yegiran, retinäy boƛi bok’no dey maʕišat neƛanƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS wealthy-DEF man-ERG say-PFV.CVB you me-GEN1 daughter cure II-do-CND.CVB wedding-TOP set.up-PFV.CVB you-AD.ESS DEM1.SG me II-send-FUT.DEF IV-want-CND.CVB III-half III-hit-PFV.CVB me-GEN1 fortune give-FUT.DEF-QUOT
+Translation: Afterwards the rich man suggested, "If you cure my daughter, I will set up the wedding and if you want, I will give you one half of my fortune."
+Sentence: Elo ɣˤutkaɣorno boqno, žeda žedur maʕišat boyx bičin q’ˤanon esnabi.
+Gloss: there house-IN.VERS-TOP I.PL-become-PFV.CVB DEM1.IPL-ERG DEM1.IPL.OBL-LAT fortune III-do-IPFV.CVB III-live-PST.UNW two-TOP brother-PL
+Translation: Then moved into the house there, and lived there engaging in their household.

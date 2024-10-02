@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word c’udani in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word c’udani: 
+
+Exact Matches
+Sentence: Elay mekoyx yałru yisä bet’urno neł ɣunoqay c’udani heneš bac’nosi, nesiłäy ɣun roqno.
+Gloss: there-IN.ABL be.hungry-IPFV.CVB be-PST.PRT DEM2.ISG.OBL-ERG III-pull.out-PFV.CVB DEM1.IISG.OBL tree-POSS.ABL red-DEF apple III-eat-ANT.CVB DEM1.ISG.OBL-CONT.ABL tree IV-become-PST.UNW
+Translation: Then, he - being hungry - plucked a red apple from that tree and ate it, he became a tree.
+Sentence: Bisno žoyä c’udani heneš teƛno.
+Gloss: III-take-PFV.CVB boy-ERG red-DEF apple give-PST.UNW
+Translation: The boy took a red apple and gave it to her.
+Sentence: Ħalarno izin xedya eƛin, c’udani mamalays ħuli ozqo biħinäy, ozłer kanłi bayxƛin där teqäsi zows.
+Gloss: trouble-IN.LAT-TOP get.up-PFV.CVB husband-ERG say-PST.UNW red-DEF rooster-GEN1 feather eye-POSS.ESS III-smear-CND.CVB eye-CONT.LAT light III-come-IPFV.CVB-QUOT me-LAT hear-RES.PRT be.NPRS-PST.WIT
+Translation: The husband got up to help and said: "If one smears the red rooster's feather on the eye, the eyesight comes back... I've heard."
+
+Approximate Matches:
+Sentence: Rigutow rigu hoboyƛin, rok’ƛ’orno rayn žoyä ɣunoqosi aluk’anin, c’udanin henešno but’in oqno xanzo kidbedäɣor ik’in.
+Gloss: IV-good-EMPH IV-good now-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB boy-ERG tree-POSS.ESS-ATTR white-DEF-and red-DEF-and apple-TOP III-collect-PFV.CVB begin-PFV.CVB khan-GEN2 daughter-APUD.VERS go-PST.UNW
+Translation: "Very well, now.", thought the boy, plucked a white and a red apple from the tree and went to the princess.

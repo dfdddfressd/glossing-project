@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boynč’ey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boynč’ey: 
+
+Exact Matches
+Sentence: Bišanon bišno, Kusaqor siskin xabar boynč’ey, łˤonon esnabi maħor boqno.
+Gloss: food-TOP III-eat-PFV.CVB Kusa-POSS.LAT any story III-do-NEG.PST.CVB three-TOP brother-PL outside I.PL-become-PST.UNW
+Translation: Having eaten their food, the three brothers went outside without having talked to Kusa.
+Sentence: ƛ’iri xabarkin boynč’ey yeda razin oqno, hunixor eniya erno zowali žedu q’ˤunqorno sist’a magalabin teƛno.
+Gloss: above story-even III-do-NEG.PST.CVB DEM2.ISG agree-TOP become-PFV.CVB way-AD.LAT mother-ERG put-PFV.CVB be.NPRS-ATTR DEM1.IPL two.OBL-POSS.LAT-TOP one.at.a.time bread-PL-TOP give-PST.UNW
+Translation: Without further discussion he agreed and gave the breads that his mother made for the way to the two of them, one for each.
+Sentence: Bercinawni ɣˤanaza t’ok’ow ƛ’iri xabarkin boynč’ey, mi xiyantaw žek’u zownƛin däqorno eƛin, ceyqor amru boys, yeda žek’u yałzar ižin kuroƛin.
+Gloss: beautiful-DEF woman-ERG anymore above story-even III-do-NEG.PST.CVB you betraying man be.NPRS-PFV.CVB-QUOT me-POSS.LAT-TOP say-PFV.CVB eagle-POSS.LAT command III-do-PST.WIT DEM2.ISG man be-LCV.CVB-CAUS take.out-PFV.CVB throw-IMPR-QUOT
+Translation: The beautful woman, not having said anything; 'You were a traitor', she said to me, and ordered the eagle: 'Take this man to where he came from and throw him out!'
+
+Approximate Matches:
+Sentence: Nełaƛ’no kidbes babiw razin oqno, berten boynč’eytown xanxo Pat’imatno yegirno.
+Gloss: DEM1.IISG.OBL-SUPER.ESS-TOP girl-GEN1 father agree-PFV.CVB become-PFV.CVB marriage III-do-NEG.PST.CVB-EMPH-TOP khan-AD.ESS Fatima-TOP II-send-PST.UNW
+Translation: After that, the girl's father agreed and married Fatima off to the king without having a wedding.

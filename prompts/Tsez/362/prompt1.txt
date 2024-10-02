@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Zeyä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Zeyä: 
+
+Exact Matches
+Sentence: Nedur resunäy bik’i huduƛin” - eƛin zeyä.
+Gloss: so IV-exist-CND.CVB III-go so-QUOT - say-PST.UNW bear-ERG
+Translation: "If that's the case, then go!", said the bear.
+Sentence: Nedur resunäy, hi enda dowqor sis dey musno, debeƛ’ ɣudi rayza quł yedu mi bik’urƛin nesiqorno eƛin, zeyä ciqaɣor zebu yoɣno.
+Gloss: so IV-exist-CND.CVB take.IMP DEM3b.SG you-POSS.LAT one me-GEN1 hair-TOP you-SUPER.ESS day IV-come-LCV.CVB day-CONT.ESS DEM2.IISG you III-burn-CAUS-QUOT DEM1.ISG.OBL-POSS.LAT-TOP say-PFV.CVB bear-ERG forest-IN.VERS running II-take.away-PST.UNW
+Translation: "In that case, take this hair of me and when you're in big trouble one day, burn it!" it said to him and ran off to the forest.
+Sentence: Bik’i hudu cin cedin horoƛin” - eƛin zeyä.
+Gloss: III-go so name-TOP name-PST.UNW come.IMPR-QUOT - say-PST.UNW bear-ERG
+Translation: "So go, give him a name and come back!", said the fox.
+
+Approximate Matches:

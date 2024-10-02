@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nełƛ’ay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nełƛ’ay: 
+
+Exact Matches
+Sentence: Kʷaxatow žax bertenno bodin eniwn, užin, barun nełƛ’ay soder łinasnotow q’ʷariłi anusi bičix zown.
+Gloss: soon-EMPH boy-AD.ESS marriage-TOP III-do-PFV.CVB mother-TOP boy-and wife-and DEM1.IISG.OBL-SUPER.ABL after what.OBL-GEN1-TOP-EMPH sadness be.absent-ATTR I.PL-live-IPFV.CVB be.NPRS-PST.UNW
+Translation: Soon the mother arranged a marriage for the boy and the boy and his wife henceforward were living without any sadness whatsoever.
+Sentence: Xizyogon bara yizin xediwq ałni bic’no, nełƛ’ay žuka elur rukaynoƛ, eli saɣłiƛ’ boqnäy, dunyales ɣez bihayaw šebin yołƛin.
+Gloss: then wife-ERG II-get.up-PFV.CVB husband-POSS.ESS hug III-hug-PST.UNW DEM1.IISG.OBL-SUPER.ABL bad we(I).OBL-LAT IV-see-PROHIB-OPT we health-SUPER.ESS III-become-CND.CVB world-GEN1 dirt easy thing be-QUOT
+Translation: Then the wife got up and hugged her husband again: "May we not see something worse than this; as long as we are in health, it's an easy thing to find the world's "
+Sentence: Kidbä yik’in mat’izaxay oɣo žaƛin babiwqor eƛinosi, nesä inkar bodin, eläy oɣłin nełƛ’ay bigza mečoƛ’or di ža egärinč’iƛin.
+Gloss: girl-ERG II-go-PFV.CVB duck-PL-AD.ABL take.away-IMPR DEM1.SG-QUOT father-POSS.LAT say-ANT.CVB DEM1.ISG.OBL-ERG rejection III-do-PFV.CVB there-IN.ABL take.away-CNC.CVB DEM1.IISG.OBL-SUPER.ABL III-well-ZA place-SUPER.LAT me DEM1.SG let-NEG.FUT-QUOT
+Translation: When the daughter went and told her father: "Let him away from the ducks!", he rejected and said: "I won't let him to a place better than this one."
+
+Approximate Matches:
+Sentence: Neła q’orolays zownƛax sis nełƛ’aygon siħiraw yacʕal.
+Gloss: DEM1.IISG.OBL widow-GEN1 be.NPRS-PST.UNW-QUOT one DEM1.IISG.OBL-SUPER.ABL-CNTR cunning female.cousin
+Translation: That widow, so it's said, had a (female) cousin who was more cunning than her.
+Sentence: Deber di dice yetix, där mi nełƛ’aygon aq’ˤu etix.
+Gloss: you-LAT me how.much II-love-IPFV.CVB me-LAT you DEM1.IISG.OBL-SUPER.ABL-CNTR much love-PRS
+Translation: However much you love me, I love you even more than that.

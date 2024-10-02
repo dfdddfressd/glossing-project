@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word oqxo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word oqxo: 
+
+Exact Matches
+Sentence: Sasaq qˤašinosi, Ismaʕil hunixor oqanix ħadur oqxo ukaynosi, ʕArabuzanä gulu bˤaƛoyn, din dowde sadaq yik’ixƛin.
+Gloss: in.the.morning get.up-ANT.CVB Ismail way-AD.LAT become-MSD-AD.ESS prepare become-IPFV.CVB see-ANT.CVB Arabuzan-ERG horse III-harness-PFV.CVB me-and you-APUD.ESS together II-go-PRS-QUOT
+Translation: After she got up in the morning and saw that Ismail was preparing to get on his way, Arabuzan harnessed her horse: "I am going with you."
+Sentence: Nesi žaz babiya sidaquł q’orol ɣˤanabin yiqirno nełaq esin, hemedur ɣudƛ’ay ɣudƛ’or dey uži ħalaq’ oqxo ik’ixƛin.
+Gloss: DEM1.ISG.OBL boy-GEN2 father-ERG one.day widowed woman-TOP II-find-PFV.CVB DEM1.IISG.OBL-POSS.ESS tell-PST.UNW so day-SUPER.ABL day-SUPER.LAT me-GEN1 boy meager become-IPFV.CVB go-PRS-QUOT
+Translation: One day the boy's father found a widow and told her that his boy is becoming meager day by day.
+Sentence: Aq’ˤu urɣizi oqxo ičinč’ey izin Ražbadinä bˤałayn risno barude kecno äsuruni žek’us gič’orabi rodin kurno.
+Gloss: much thinking become-IPFV.CVB be-NEG.PST.CVB get.up-PFV.CVB Razhbadin-ERG dagger-TOP IV-take-PFV.CVB wife-APUD.ESS sleep-PFV.CVB find-PST.PRT-DEF man-GEN1 piece-PL IV-do-PFV.CVB throw-PST.UNW
+Translation: Without thinking too much, Razhbadin got up, took his dagger and cut the man whom he found sleeping with his wife to pieces.
+
+Approximate Matches:

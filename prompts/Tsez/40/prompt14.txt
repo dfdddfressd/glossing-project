@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: huinłin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": huinłin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word huinłin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hemedur Okä babiw mak’ur odin guludetow sadaq moƛ’oqˤoyn łera ʕazara łera bišomra ɣˤurušyoƛ teƛanix, dicegon užä moƛ’oqˤoy täƛnoƛin eƛinłin.
+Gloss: so Oku-ERG father persuade do-PFV.CVB horse-APUD.ESS-EMPH together bridle-TOP five.OBL thousand five.OBL hundred ruble-SUB.ESS sell-MSD-AD.ESS how.much-CNTR boy-ERG bridle sell-PROHIB-QUOT say-PST.UNW-CNC.CVB
+Translation: So Oku persuaded the father to sell him the horse together with the bridle for 5,500 rubles, no matter how much the boy told him not to sell the bridle.
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"

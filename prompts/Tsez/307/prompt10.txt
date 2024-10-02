@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žek’utow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žek’utow: 
+
+Exact Matches
+Sentence: Elo yisir siskin ukayza žek’utow esun anu.
+Gloss: there DEM2.ISG.OBL-LAT anything see-LCV.CVB man-EMPH find-PST.UNW be.NEG
+Translation: There he didn't find any person, wherever he looked.
+Sentence: Elaygon bitor žedu bik’inƛax, rigu hawan, bac’adaw łin, raqˤäsi bix yałzarno, žek’utow anuza mečoƛ’or baynƛax.
+Gloss: there-IN.ABL-CNTR thither DEM1.IPL I.PL-go-PFV.CVB-QUOT IV-good air-and clean water-and IV-accumulate-RES.PRT grass be-LCV.CVB-LAT-and man-EMPH be.absent-LCV.CVB place-SUPER.LAT I.PL-come-PST.UNW-QUOT
+Translation: From there they went on and came to a deserted place with good air, clean water and where the grass was thick.
+Sentence: Elo bertenyoł žedur imadu esa koƛ’ixosi žek’utow iqinanu.
+Gloss: there marriage-CONT.ESS DEM1.IPL.OBL-LAT tale tell-INF understand.to-PRS.PRT man-EMPH get-PFV.CVB-NEG
+Translation: They couldn't get a man there on the wedding, who could tell tales [to them?].
+
+Approximate Matches:
+Sentence: Xizyogon nukarä xanqor eƛin, raładno boɣno bitaz puƛ’aza yołƛin teqxo bokobin, k’ukyabin raqˤuxosi kidƛin, nełał xizaygon elor egiranix bełiquz užiƛ’ay mustaħiq’aw žek’un anuƛin.
+Gloss: again henchman-ERG khan-POSS.LAT say-PST.UNW sea-TOP III-cross-PFV.CVB distance-IN.ESS.DIST side-SUPER.VERS.DIST be-QUOT hear-PRS fur.coat-PL-and cap-PL-and III.PL-sew-PRS.PRT girl-QUOT DEM1.IISG.OBL-CONT.ESS behind-CNTR there-LAT send-MSD-AD.ESS hunter-GEN2 son-SUPER.ABL suitable man-TOP be.NEG-QUOT
+Translation: Again the henchman said to the king, "On the other side of the sea, as I have heard, lives girl wo sews coats and caps; there is no man more suitable than the hunter's son to be sent there after her."
+Sentence: Bilq’isdis duʕan q’abul bodin, ozzataw oqno xediwn, xedyos esiwn, ža xanez madaxosini žek’un, eženis łˤonon užin, yedu teƛno zawruni gamiƛ’osi žek’un.
+Gloss: Bilqisdi-GEN1 prayer-TOP receive III-do-PFV.CVB eye-PL-without become-PFV.CVB husband-and husband-GEN1 brother-and DEM1.SG khan-GEN2 gate-AD.ESS-ATTR-DEF man-and old-DEF-GEN1 three-TOP son-and DEM2.IISG sell-PFV.CVB be.NPRS-PST.PRT-DEF boat-SUPER.ESS-ATTR man-and
+Translation: Bilqisdis prayer was received, the husband, the husband's brother, that king's guard, the three sons of the old man and the sailor to whom they sold her got blind.
+Sentence: Yoƛƛozo kidbä eƛin, di bečedaw žek’us uži ok’ek’äsi zows, nesił xizayn ayn, däqay xot’oqosin roɣno axiru užix därno yik’a rätiƛin.
+Gloss: II-middle-ATTR.OBL girl-ERG say-PST.UNW me wealthy man-GEN1 son steal.from-RES.PRT be.NPRS-PST.WIT DEM1.ISG.OBL-CONT.ESS from.behind-TOP come-PFV.CVB me-POSS.ABL foot-POSS.ESS-ATTR-TOP IV-take.away-PFV.CVB run.away-PST.PRT boy-AD.ESS me-LAT-TOP II-go-INF IV-want-QUOT
+Translation: The middle girl said: "I'll also want to marry the boy who, when I stole the rich man's son, came after him, took my footwear from me and ran away."

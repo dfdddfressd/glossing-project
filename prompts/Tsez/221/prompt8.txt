@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eɣʷeniƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eɣʷeniƛ: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Eɣʷeni žoyä esin, łinas ħal yisiƛ’ yałrułi.
+Gloss: young-DEF boy-ERG tell-PST.UNW why trouble DEM2.ISG.OBL-SUPER.ESS be-MSD
+Translation: The young boy told why he was in trouble.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kodin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kodin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kodin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zamanałäy bet’un kodin nexno, begirno gaman xecin yedu kid raładyołxor yiħun.
+Gloss: time-CONT.ABL III-come.off-PFV.CVB hair-TOP come-PFV.CVB III-let-PFV.CVB boat-TOP leave-PFV.CVB DEM2.IISG girl sea-CONT.VERS II-come.to-PST.UNW
+Translation: After some time, the hair came off and the girl let go of the boat and went into the sea.
+Sentence: Nuʕłimorƛin yisä nełaz bašiłäyn roɣno bašiqˤoyn sadaq risno, žežułäy beč’no kodin bisno, gedmoqaygon yeč’no č’irno yisno.
+Gloss: proof-IN.LAT-QUOT DEM2.ISG.OBL-ERG DEM1.IISG.OBL-GEN2 finger-CONT.ABL-TOP IV-take.away-PFV.CVB ring-and together IV-take-PFV.CVB ponytail-CONT.ABL III-cut-PFV.CVB hair-and III-take-PFV.CVB shirt-POSS.ABL-CNTR II-cut-PFV.CVB ribbon-and II-take-PST.UNW
+Translation: As a proof he took a ring from her finger and took it with himself, he cut a hair from her ponytail and took it with himself, and he cut off a ribbon from her shirt and took it with himself as well.
+Sentence: Ič’an yeženä eƛix teqno, deygon hunar šebi, šeƛ’ures bic’äsi gama ƛisiƛ’orey, dey kodin bet’urno, daqay gama baɣruni užix yik’a räti darƛin.
+Gloss: most-TOP II-old-DEF-ERG say-IPFV.CVB hear-PST.UNW me-GEN1-CNTR talent what clothing-GEN1 III-fill-RES.PRT boat pull-SIM.CVB me-GEN1 hair-TOP III-pull.out-PFV.CVB me-POSS.ABL boat III-take.away-PST.PRT-DEF boy-AD.ESS II-go-INF IV-want me-LAT-QUOT
+Translation: He heard the oldest one say: "What talent do I have? I'll want to marry the boy who took the boat full of clothes away from me after he pulled out my hair, while I was pulling on the boat."
+
+Approximate Matches:

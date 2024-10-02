@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word izmu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word izmu: 
+
+Exact Matches
+Sentence: Xexłiƛ’ k’oƛin babiwderno yik’in, hemesi tusnaq’äzo užir teƛxa mi izmu guluƛ’ zowanirƛin, nełaq eƛin rok’äłrun, xan kid žek’anixƛin iza oqno.
+Gloss: quickness-SUPER.ESS run-PFV.CVB father-APUD.LAT-TOP II-go-PFV.CVB DEM4.ISG.OBL prison-IN.ESS-ATTR.OBL boy-LAT give-IPFV.CVB-Q you permission horse-SUPER.ESS ride-MSD-LAT-QUOT DEM1.IISG.OBL-POSS.ESS say-PFV.CVB IV-escape-IMM.ANT.CVB khan daughter beat-MSD-AD.ESS-QUOT get.up-INF begin-PST.UNW
+Translation: She quickly ran to her father, and when the words "Do you give the permission that the boy in prison can ride the horse?" broke out of her, the king got up to slap his daughter.
+Sentence: Haq’udär yik’anix xedyoqay izmu esirnosi, nesägon łˤora becän yičin, hulon rexurno horoƛin yegirno.
+Gloss: family-APUD.VERS II-go-MSD-AD.ESS husband-POSS.ABL permission ask-ANT.CVB DEM1.ISG.OBL-ERG-CNTR three.OBL month-IN.ESS-TOP II-be-PFV.CVB miss-CND IV-kill-PFV.CVB come.IMPR-QUOT II-let-PST.UNW
+Translation: When she asked her husband for permission to go to her family, he let her go with the words: "You may stay three months, then, after [you killed the boredom(?)] come back!"
+Sentence: Ražbadines xexbi bexuranis mečʷa, Tawadä žedu nesis uži zawza Tiblisäɣor t’et’ranixno begirno, riyrxo žeduq, dey izmu anusi eni- babiwƛ’or kaɣat caxnoƛin.
+Gloss: Razhbadin-GEN1 children I.PL-kill-MSD-GEN1 instead.of Tavadi-ERG DEM1.IPL DEM1.ISG.OBL-GEN1 son be.NPRS-LCV Tbilisi-IN.VERS learn-MSD-AD.ESS-TOP I.PL-send-PFV.CVB IV-explain-PRS DEM1.IPL.OBL-POSS.ESS me-GEN1 permission be.NEG-ATTR mother father-SUPER.LAT letter write-PROHIB-QUOT
+Translation: Instead of killing Razhbadin's children, Tavadi sent them to study in Tbilisi where his son was, and explained to them: "Don't write a letter to your parents without my permission!"
+
+Approximate Matches:

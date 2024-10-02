@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bik’in.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bik’in
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bik’in:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Howlo lilyoxtow yedan xecin, xanderno bik’in ziru c’ok’inayn:
+Gloss: there river.bank-AD.ESS-EMPH DEM2.ISG-and leave-PFV.CVB khan-APUD.LAT-and I.PL-go-PFV.CVB fox scold-PST.UNW
+Translation: When they left the river bank there and went to the king, the fox scolded:
+Sentence: Nełquł sasaq č’ˤurqotow bizin onoču qaciƛ’or bik’in.
+Gloss: on.that.day tomorrow in.the.morning-EMPH III-get.up-PFV.CVB hen firewood-SUPER.LAT III-go-PST.UNW
+Translation: The next day, in the early morning, the hen got up and went after firewood.
+
+Approximate Matches:
+Sentence: Žedu nasin maħor boqnosi, reɣeni xaličan, beɣeni magalun bäqiruni nukarä xizyo yałruxor esin, anƛ’ima baħna-bik’inkin räqinč’iru eluq reƛ, hemesi dowzoniƛ’aygon rigu ɣˤutku yałruni užä neƛsi, debi xexbikin besač’iney žeduƛin.
+Gloss: DEM1.IPL all outside I.PL-become-ANT.CVB IV-small-DEF mat-and III-small-DEF bread-and I.PL-get-PST.PRT-DEF henchman-ERG afterwards be-PST.PRT-AD.LAT tell-PFV.CVB week-IN.ESS I.PL-walk.for.a.while-PFV.CVB-even IV-get-NEG.FUT.CVB-PST.PRT we(I).OBL-POSS.ESS meat DEM4.ISG.OBL you-GEN2-DEF-SUPER.ABL-CNTR IV-pretty house be-PST.PRT-DEF boy-ERG give-PST.WIT you-GEN1 children-even I.PL-exist-NEG.FUT.DEF-DUB DEM1.IPL-QUOT
+Translation: After they all went outside, the henchman who got the small mat and the small bread afterwards told him: "We were walking for a week and this boy with the house even prettier than yours gave us the meat that we didn't get; they even might be your children."
+Sentence: Zamanałäy neła ɣˤanazas xediwn, nesisgon užin ozno bižin ƛˤoreł bik’inosi, nełar retäsi zown best’alawni kid elo iday yok’ek’anix.
+Gloss: time-CONT.ABL DEM1.IISG.OBL woman-GEN1 husband-and DEM1.ISG.OBL-GEN1-CNTR son-and army-and I.PL-lead-PFV.CVB war-CONT.ESS I.PL-go-ANT.CVB DEM1.IISG.OBL-LAT IV-want-RES.PRT be.NPRS-PFV.CVB step-DEF daughter there home-IN.ABL II-remove-MSD-AD.ESS
+Translation: After some time, after the woman's husband, his son and the army went to war, she wanted to remove the step-daughter from their home.
+Sentence: Ɣedu biqiranƛin bik’inƛax žedu, mark’ač’uxar xizor butin bayn, eluq ɣedu biqinč’uƛin.
+Gloss: shade III-take.away-FUT.DEF-QUOT I.PL-go-PFV.CVB-QUOT DEM1.IPL twilight-AD.VERS back I.PL-turn.back-PFV.CVB I.PL-come-PFV.CVB we(I).OBL-POSS.ESS shade III-get-NEG.PST.WIT-QUOT
+Translation: "We will take the shadow", and they went on and came back in the twilight: "We didn't get the shadow."

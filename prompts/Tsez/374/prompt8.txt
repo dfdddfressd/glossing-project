@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kidbabin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kidbabin: 
+
+Exact Matches
+Sentence: Yisä yisir łˤora ɣudi bertenno erno, bercinawƛ’ay bercinawt’a kidbabin rukarno, howt’aytow barun yižoƛin harizin rodin, roƛik’u xanłin riso howt’otow uyn iči, mi iłe baħarči naynkin t’ok’ow elur äqinč’iƛin.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-LAT three.OBL day marriage-and put-PFV.CVB beautiful-SUPER.ABL beautiful-DISTR girl-PL-and II.PL-show-PFV.CVB from.here-EMPH wife-TOP II-take.out-IMPR-QUOT request-TOP IV-do-PFV.CVB IV-half khanate-TOP IV-take-IMPR here-EMPH just-TOP be you as brave.young.man from.nowhere anymore we(I).OBL-LAT get-NEG.FUT-QUOT
+Translation: He arranged a 3-day lasting marriage for him, presented girls that were prettier than pretty, "Choose a wife from here!", he begged, "Settle down here and take half of the kingdom, from nowhere will we ever get such a brave young man as you, anymore!"
+Sentence: Xanes kidbabin ʕuraw ɣˤaɣˤu rizin.
+Gloss: khan-GEN1 daughter-PL-TOP very be.happy IV-get-PST.UNW
+Translation: Also the king's daughters got very happy.
+Sentence: Žan eƛin, babiw gogaƛ’ay oqno bitor ik’in, kidbabin babiw ayaniqor rezun howlotow ričäsi zown.
+Gloss: DEM1.SG-TOP say-PFV.CVB father meadow-SUPER.ABL become-PFV.CVB thither go-PFV.CVB girl-PL-TOP father come-MSD-POSS.LAT II.PL-look-PFV.CVB there-EMPH II.PL-wait-RES.PRT be.NPRS-PST.UNW
+Translation: Having said that, the father left the meadow and went away, and the girls waited there for their father to return.
+
+Approximate Matches:
+Sentence: Šomon ʕoloqan baħarči ik’ix zown žedun esirno, kidbabi didurnokin razi roqxo zownanu.
+Gloss: how.many-TOP young brave.young.man go-IPFV.CVB be.NPRS-PFV.CVB DEM1.IIPL-TOP ask-PFV.CVB girl-PL how-TOP-even accept II.PL-become-IPFV.CVB be.NPRS-PST.UNW-NEG
+Translation: So many brave young men were coming and asked them out, but the girls refused them.
+Sentence: Qartay maħor yäk’irun, C’irduxä izin užibi käczaɣor kidbabi, kidbabi käczaɣor užibin butirno, neła łi rayrace ičin.
+Gloss: Qartay outside II-go-IMM.ANT.CVB Tsirdukh-ERG get.up-PFV.CVB boy-PL sleep-LCV-IN.VERS girl-PL girl-PL sleep-LCV-IN.VERS boy-PL-TOP III-turn-PFV.CVB DEM1.IISG.OBL-ERG water IV-bring-TERM be-PST.UNW
+Translation: Right after Qartay went outside, Tsirdukh got up, put the girls to the place where the boys slept and the boys to the place where the girls slept, all before she brought the water.
+Sentence: Žedu bužzi boqnoanu, mi iłeni łaciraqa xanes kidbabi rawnč’i, nediwt’a gulubi yołi nay deber riqixƛin.
+Gloss: DEM1.IPL believe I.PL-become-PFV.CVB-NEG you as-DEF light.headed.person-ERG khan-GEN1 daughter-PL II.PL-bring-NEG.FUT such-DISTR horse-PL however from.where you-LAT IV-get-PRS-QUOT
+Translation: They didn't believe him: "A light-headed person like you wouldn't bring the king's daughters, however, where did you get such horses from?"

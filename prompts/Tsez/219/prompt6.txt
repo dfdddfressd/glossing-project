@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ciqez in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ciqez: 
+
+Exact Matches
+Sentence: Äzuru yisir ciqez raʕalłix yałruni sida ixiw ɣunoq soder bizix aždaħ-bikori bukayn.
+Gloss: look-PST.PRT DEM2.ISG.OBL-LAT forest-GEN2 edge-AD.ESS be-PST.PRT-DEF one.OBL big tree-POSS.ESS upward III-get.up-IPFV.CVB dragon~snake III-see-PST.UNW
+Translation: Looking around, he saw a dragon-snake climbing a tree that was standing at the edge of the forest.
+Sentence: Yedu mat’i di ciqez xaner bižix, sis miƛ’in bown min horoƛin”.
+Gloss: DEM2.IISG duck me forest-GEN2 khan-LAT III-carry-PRS one ram-TOP III-get-PFV.CVB you-TOP go.IMPR-QUOT
+Translation: "I am carrying this duck to the king of the forest, go get a ram!"
+Sentence: Yeda di ciqez xaner bižix, min nełar sis is baƛin”.
+Gloss: DEM2.ISG me forest-GEN2 khan-LAT III-carry-PRS you-TOP DEM1.IISG.OBL-LAT one bull III-bring.IMP-QUOT
+Translation: "I'm bringing this to the king of the forest, bring him a bull!"
+
+Approximate Matches:
+Sentence: Neł ciqeł teł ik’iƛ’oräy, yeda yoƛƛo ciqa teł yałru baydanƛ’or ayn.
+Gloss: DEM1.IISG.OBL forest-CONT.ESS inside go-SIM.CVB DEM2.ISG II-middle forest-IN.ESS inside be-PST.PRT plain-SUPER.LAT come-PST.UNW
+Translation: While going through the forest, he came to a clearance that was in the middle of the forest.
+Sentence: Neła quł yiził siskin ciqes šebin dandi keze roqno anu.
+Gloss: DEM1.IISG.OBL day-CONT.ESS DEM2.IPL.OBL-CONT.ESS anything forest-GEN1 thing only meet IV-become-PFV.CVB be.NEG
+Translation: That day, they didn't encounter anything at all in the forest.
+Sentence: Ixdax, isi yecinosi, nasin ciqes, posu yiła maħor regirno.
+Gloss: in.spring snow II-thaw-ANT.CVB all forest-GEN1 cattle DEM2.IISG.OBL outside IV-let-PST.UNW
+Translation: In spring, after the snow had thawed, she let all the wild animals out.

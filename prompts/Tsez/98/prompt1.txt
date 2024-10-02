@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Dowƛ’ay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Dowƛ’ay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Dowƛ’ay:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Užä žawab teƛno, šida mi di begirno xecixanu, dowƛ’aygon q’ʷariłiƛ’ din oqzaƛ’ƛin.
+Gloss: boy-ERG answer give-PST.UNW why you me III-send-PFV.CVB leave-PRS-NEG you-SUPER.ABL-CNTR sadness-SUPER.ESS me-TOP become-CSL.CVB-QUOT
+Translation: The boy answered, "Why would I not leave you, when I'm much more sad than you?"

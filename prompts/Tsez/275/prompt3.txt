@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word debez in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word debez: 
+
+Exact Matches
+Sentence: Howži nesi žek’a ža uži debez mi hunix ik’iƛin egirno.
+Gloss: now DEM1.ISG.OBL man-ERG DEM1.SG boy you-GEN2 you way-AD.ESS go-QUOT let-PST.UNW
+Translation: Now the man let the boy go: "Go on your way!"
+Sentence: Howžigoƛ’aygon c’odorawnä esirno dibirqo, debez baruq šilabi zowwäƛin.
+Gloss: now-COND-SUPER.ABL-CNTR clever-DEF-ERG ask-PST.UNW mullah-POSS.ESS you-GEN2 wife-POSS.ESS horn-PL be.NPRS-PST.WIT.Q-QUOT
+Translation: This time the clever one asked the mullah: "Did your wife have horns?"
+Sentence: Haq’uł q’ˤano buci boɣnosi, eniya daʕba bičirno yiłał, debez mi ɣˤutkoƛ’or yuti, xedyor rätinč’iƛin.
+Gloss: family-CONT.ESS two month III-spend.time-ANT.CVB mother-ERG dispute III-be-CAUS-PFV.CVB DEM2.IISG.OBL-CONT.ESS you-GEN2 you house-SUPER.LAT II-turn.back husband-LAT IV-love-NEG.FUT-QUOT
+Translation: After spending two months at her family's, the mother had up a dispute with her: "Go back to your house and your husband won't like it."
+
+Approximate Matches:
+Sentence: Xizyogon kidbezno, debezno, däzno čuret’no bok’no, ħolaq’awt’a ʕomoybin rodin, ža čuret’ nˤoƛał buqˤan łärnokin bäsunč’iza.
+Gloss: then daughter-GEN2-TOP you-GEN2-and me-GEN2-and whip-TOP III-beat-PFV.CVB thin-DISTR donkey-PL-TOP III.PL-do-PFV.CVB DEM1.SG whip ashes-CONT.ESS III-hide-FUT.DEF who.OBL-LAT-TOP-even III-find-NEG.FUT-LCV.CVB
+Translation: Then with the beats of our daughter's, your and my whip, we will turn into thin donkeys and hide the whip in the ashes where no one can find it.
+Sentence: Diƛa mi yowanƛin, - eƛin Musa, - debeztow babiya yegirnäy”.
+Gloss: me-INDEF you II-marry-FUT.DEF-QUOT - say-PST.UNW Musa-ERG - you-GEN2-EMPH father-ERG II-let-CND.CVB
+Translation: "I will marry you", said Musa, "if you father lets you go."
+Sentence: Neł mixƛ’o kidbä eƛin, debeztow žukzar ža mi qal c’idaɣor kursiƛin.
+Gloss: DEM1.IISG.OBL at.a.time girl-ERG say-PST.UNW you-GEN2-EMPH to.spite DEM1.SG you skin fire-APUD.VERS throw-PST.WIT-QUOT
+Translation: At that time the girl said: "You threw the skin into the oven to spite [me]!"

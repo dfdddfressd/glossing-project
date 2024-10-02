@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ensi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ensi: 
+
+Exact Matches
+Sentence: (Nełas xediw ensi žek’uq iłäsi zownƛin, neła nełas babiw ukarno).
+Gloss: DEM1.IISG.OBL-GEN1 husband this-ATTR man-POSS.ESS resemble-RES.PRT be.NPRS-PST.UNW-QUOT DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 father show-PST.UNW
+Translation: ("Her husband resembled this man", she pointed to her father.)
+Sentence: (Ža ensi žek’uq iłäsi zownƛin bašan boyn neła nełas esiw ukarno).
+Gloss: DEM1.SG this-ATTR man-POSS.ESS resemble-RES.PRT be.NPRS-PFV.CVB-QUOT finger-TOP III-do-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 brother show-PST.UNW
+Translation: ("He resembled this man.", she pointed her finger onto her brother.)
+Sentence: (Ža yołƛax ensi baħarčiq iłäsiƛin, neła nełas xediw ukarno).
+Gloss: DEM1.SG be-QUOT this-ATTR brave.young.man-POSS.ESS resemble-RES.PRT-QUOT DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 husband show-PST.UNW
+Translation: ("He resembled this young man", she pointed to her husband.)
+
+Approximate Matches:

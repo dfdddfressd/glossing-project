@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: baba.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": baba
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word baba:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła t’umiqay bˤaƛ’uru ħuli babiwz k’ukyoł boqun, miƛ’iłäy räšruni mesedyosnigon his ħamarno čˤaƛin esirno, baba, req’ezi roqxaƛin.
+Gloss: DEM1.IISG.OBL pigeon-POSS.ABL III-fall-PST.PRT feather father-GEN2 cap-CONT.ESS III-stick-PFV.CVB ram-CONT.ABL IV-fall-PST.PRT-DEF gold-GEN1-DEF-CNTR spring.wool chest-IN.LAT-TOP throw-PFV.CVB ask-PFV.CVB daddy approach IV-become-PRS-Q-QUOT
+Translation: She put the feather that fell from that pigeon onto her father's hat, and threw the golden whool that fell from the ram onto the chest and asked: "Daddy, does it fit?"
+Sentence: Užä eƛin, baba, elur caxinč’iru šebin riqa zaħmataw ričixosi yoł.
+Gloss: boy-ERG say-PST.UNW daddy we(I).OBL-LAT write-NEG.FUT.CVB-PST.PRT thing IV-get-INF difficult IV-be-PRS.PRT be
+Translation: The boy said: "Father, it is difficult to get a thing that is not destined for us."
+Sentence: Howlotow neła babiwqor maħor čˤaƛanix t’asno teƛno, eƛin, baba, yiła ɣˤutka eynoyxosi gurow žek’u išxosi anuƛin.
+Gloss: there-EMPH DEM1.IISG.OBL-ERG father-POSS.LAT outside pour.out-MSD-AD.ESS washbowl-TOP give-PFV.CVB say-PFV.CVB daddy DEM2.IISG.OBL house-IN.ESS work-PRS.PRT except man eat-PRS.PRT be.NEG-QUOT
+Translation: There she gave her father the bowl in order to pour it outside and said: "Daddy, in this house only someone who works, gets to eat!"
+
+Approximate Matches:

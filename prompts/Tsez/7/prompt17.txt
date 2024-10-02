@@ -1,0 +1,33 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣunoƛ using Leipzig glossing symbols. The sentence this word is drawn from means: "And a black man riding on a black horse who came out of who-knows-where stole the princess' clothes, carried them away and sat down under a tree.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣunoƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣunoƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Saparyox oqno, qˤašdes zaman baynosi, yeda sida ɣunoƛ rešt’izi oqno.
+Gloss: journey-AD.ESS become-PFV.CVB provisions-GEN1 time III-come-ANT.CVB DEM2.ISG one.OBL tree-SUB.ESS take.a.rest become-PST.UNW
+Translation: He went on the journey, and when it was time for lunch, he took a rest under a tree.
+Sentence: Bełiqan sodxorzoq iziƛ’orey, sidaɣ ħalkaraw mečoƛ’ ɣunoƛ q’ˤida ičäsi łˤonon žek’u esun.
+Gloss: hunter above-AD.LAT-ATTR.OBL-POSS.ESS get.up-SIM.CVB in.one.place even place-SUPER.ESS tree-SUB.ESS under sit-RES.PRT three-TOP man find-PST.UNW
+Translation: While the hunter went upwards, he found three men sitting under a tree on an even place somewhere.
+Sentence: Xizyo baɣmaɣorno ik’in, ɣunoƛ waħo q’ˤida ičin zown ičäsi, Allahä sis sabaw yoynč’i diƛin.
+Gloss: afterwards garden.OBL-IN.VERS-TOP go-PFV.CVB tree-SUB.ESS below under sit-PFV.CVB be.NPRS-PFV.CVB be-RES.PRT God-ERG one amulet II-do-NEG.FUT me-QUOT
+Translation: Afterwards he went to the garden and sat down thinking under the tree , "The God will not disregard me."
+
+Approximate Matches:
+Sentence: Xizyo eɣeni esiya nełaz c’eruc’a caƛinosi, sis nełas lel ɣunoƛer yoƛ’ˤun yayn, t’awusno hawaƛ’ k’oƛin boxin bik’in.
+Gloss: afterwards young-DEF brother-ERG DEM1.IISG.OBL-GEN2 bow shoot.with-ANT.CVB one DEM1.IISG.OBL-GEN1 feather tree-SUB.LAT II-fall-PFV.CVB II-come-PFV.CVB peacock-TOP air-SUPER.ESS jump-PFV.CVB III-run.away-PFV.CVB III-go-PFV.CVB
+Translation: Then the youngest brother shot with the bow and the peacock flew away, but one feather fell down under the tree.

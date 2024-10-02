@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: roƛiqur.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": roƛiqur
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word roƛiqur:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sidaquł neširu šudax yeda yałzay, roƛiquraɣor xizor šilabi yołäsi, ƛ’iri hisno raqˤäsi sis miƛ’i bayn.
+Gloss: one.day at.night graveyard-AD.ESS DEM2.ISG be-SIM.CVB at.midnight-IN.VERS back horn-PL be-RES.PRT above spring.wool-TOP IV-show.up-RES.PRT one ram I.PL-come-PST.UNW
+Translation: One night while they were at the grave, at mighnight came a ram that had its horns backwards and accumulated whool.

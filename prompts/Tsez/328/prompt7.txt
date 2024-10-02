@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word sides in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word sides: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Žigoƛ’aygon dunyalƛ’otow ci rik’äsi doxtur goƛ’in nesider.
+Gloss: now-SUPER.ABL-CNTR world-SUPER.ESS-EMPH name IV-go-RES.PRT doctor call-PST.UNW DEM1.ISG.OBL-APUD.LAT
+Translation: But this time he called the most famous doctor in the world to himself.
+Sentence: Sida quł neširu yisir moƛał rukayn: ħonzaq aħnayƛ’oräy, yisir łˤono gagali besuxƛax - sis mesedyos biłe ƛ’er yołäsi, sideni žawharyos biłe ƛ’er yołäsi, sidenigon yaq’utyos biłe ƛ’er yołäsi.
+Gloss: one.OBL day-CONT.ESS at.night DEM2.ISG.OBL-LAT dream-CONT.ESS IV-see-PST.UNW mountain-PL-POSS.ESS walk.around-SIM.CVB DEM2.ISG.OBL-LAT three flower III-find-PRS-QUOT - one gold-GEN1 III-as color be-RES.PRT the.other.one pearl-GEN1 III-as color be-RES.PRT the.other.one-CNTR ruby-GEN1 III-as color be-RES.PRT
+Translation: One night he had a dream: while walking around the mountains, he found three flowers - one in the color of gold, another one in the color of a pearl and yet another one in the color of ruby.
+Sentence: Baq’ˤu xalq’i nesider bayn, di ža c’ohor yołƛin.
+Gloss: III-many people DEM1.ISG.OBL-APUD.LAT III-come-PST.UNW me DEM1.SG thief be-QUOT
+Translation: Many people came to him: "I am that thief."

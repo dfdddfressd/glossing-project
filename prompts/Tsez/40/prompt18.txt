@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: dowzo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": dowzo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word dowzo:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Di dowzo Goqix kid egiran, amma där ža ukada ayƛin”.
+Gloss: me you-ATTR.OBL Goqi-AD.ESS daughter send-FUT.DEF but me-LAT DEM1.SG see-INF must-QUOT
+Translation: "I will send my daughter to your Goqi, but I have to see him."
+
+Approximate Matches:
+Sentence: Žedu nasin maħor boqnosi, reɣeni xaličan, beɣeni magalun bäqiruni nukarä xizyo yałruxor esin, anƛ’ima baħna-bik’inkin räqinč’iru eluq reƛ, hemesi dowzoniƛ’aygon rigu ɣˤutku yałruni užä neƛsi, debi xexbikin besač’iney žeduƛin.
+Gloss: DEM1.IPL all outside I.PL-become-ANT.CVB IV-small-DEF mat-and III-small-DEF bread-and I.PL-get-PST.PRT-DEF henchman-ERG afterwards be-PST.PRT-AD.LAT tell-PFV.CVB week-IN.ESS I.PL-walk.for.a.while-PFV.CVB-even IV-get-NEG.FUT.CVB-PST.PRT we(I).OBL-POSS.ESS meat DEM4.ISG.OBL you-GEN2-DEF-SUPER.ABL-CNTR IV-pretty house be-PST.PRT-DEF boy-ERG give-PST.WIT you-GEN1 children-even I.PL-exist-NEG.FUT.DEF-DUB DEM1.IPL-QUOT
+Translation: After they all went outside, the henchman who got the small mat and the small bread afterwards told him: "We were walking for a week and this boy with the house even prettier than yours gave us the meat that we didn't get; they even might be your children."

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word meɣu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word meɣu: 
+
+Exact Matches
+Sentence: Idur aynosi, yisir ciqaɣor erno bišʷan łiyn eniwn nan mekoyx yesuzaƛ’ žoyä meɣyoqor eƛin, wele meɣu deberno, därno, eniwrno ʕeziyaw bišʷa roƛik’ƛin.
+Gloss: home-LAT come-ANT.CVB DEM2.ISG.OBL-LAT forest-IN.VERS put-PFV.CVB food-and end-PFV.CVB mother-and even be.hungry-IPFV.CVB II-find-CSL.CVB boy-ERG udder-POSS.LAT say-PFV.CVB look.out.IMP udder you-LAT-and me-LAT-and mother-LAT-and much food IV-let.appear-QUOT
+Translation: When he came home, he found the food put for [the way into] the forest finished and his mother being hungry, so the boy said to the udder: "Look out, udder, let appear much food for you, me and the mother!"
+Sentence: Xizyo aɣä nesir meɣu teƛno.
+Gloss: afterwards bird-ERG DEM1.ISG.OBL-LAT udder give-PST.UNW
+Translation: Afterwards, the bird gave him an udder.
+Sentence: Boƛƛ’o zaman bik’izaƛ’ortow, meɣu xizor yutin yayn.
+Gloss: middle time III-go-POST.CVB-EMPH udder back II-turn-PFV.CVB II-come-PST.UNW
+Translation: Before much time had passed, the udder came back.
+
+Approximate Matches:

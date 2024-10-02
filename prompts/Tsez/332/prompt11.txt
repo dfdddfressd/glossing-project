@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kikxo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kikxo: 
+
+Exact Matches
+Sentence: Sidaɣ gogaƛ’ kikxo išanixƛin yeda q’ˤida ičinosi, ƛ’irir sis ƛ’oxono zey bayn.
+Gloss: in.one.place meadow-SUPER.ESS spring-AD.ESS eat-MSD-PRS-QUOT DEM2.ISG down sit-ANT.CVB above-LAT one huge bear III-come-PFV.CVB
+Translation: As he sat down to eat near the spring on the meadow, a bear came.
+Sentence: Sida zamanałäy, xexbi bežet’a boqnosi henešyabi täƛruni eženi žek’us xabar bayn, sissi uži nesir egiroƛ, nesiqor ezun ža sida kikxo äčiƛin.
+Gloss: one.OBL time-CONT.ABL children I.PL-old-DISTR I.PL-become-ANT.CVB apple-PL give-PST.PRT-DEF old-DEF man-GEN1 story III-come-PFV.CVB one-ATTR boy DEM1.ISG.OBL-LAT send-OPT DEM1.ISG.OBL-POSS.LAT look-PFV.CVB DEM1.SG one.OBL spring-AD.ESS wait-QUOT
+Translation: At one time, when the children had become older, the story came [to them] of the old man who gave the apples, and one boy was to be sent to him and he would wait on a spring looking for him.
+
+Approximate Matches:
+Sentence: K’ox äƛirugon uži kikxor łi ric’a ik’in.
+Gloss: twice ORD-CNTR boy spring-AD.LAT water IV-fill-INF go-PST.UNW
+Translation: A second time the boy went to the spring to fill it with water.
+Sentence: Eženi žek’a kid kikxor yegirno, elo deber biša räsuƛin.
+Gloss: old-DEF man-ERG girl spring-AD.LAT II-send-PST.UNW there you-LAT food IV-find-QUOT
+Translation: The old man sent the girl to the spring: "There you will find food."
+Sentence: Ayn žan eženi esiw ayruni kikxortow.
+Gloss: come-PST.UNW DEM1.SG-TOP old-DEF brother come-PST.PRT-DEF spring-AD.LAT-EMPH
+Translation: Also he came to the spring the older brother came to.

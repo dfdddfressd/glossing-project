@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kidbeqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kidbeqor: 
+
+Exact Matches
+Sentence: Xizyogon žoyä eƛin kidbeqor:
+Gloss: then boy-ERG say-PST.UNW girl-POSS.LAT
+Translation: Then the boy said to the girl:
+Sentence: Babiya k’eneč’yabi risno kidbeqor teƛno.
+Gloss: dad-ERG egg-PL II.PL-take-PFV.CVB daughter-POSS.LAT give-PST.UNW
+Translation: The father took the eggs and gave them to the daughter.
+Sentence: Ismaʕilä bašiqay roɣno bašiqˤoy teƛno yeženiqor, enda xanez kidbeqor teƛa bažarizi raqä debeqƛin.
+Gloss: Ismail-ERG finger-POSS.ABL IV-take.away-PFV.CVB ring give-PFV.CVB II-old-DEF-POSS.LAT DEM3b.SG khan-GEN2 daughter-POSS.LAT give-INF able IV-become-Q you-POSS.ESS-QUOT
+Translation: Ismail took a ring from his finger and gave it to the old woman: "Could you give it to the king's daughter?"
+
+Approximate Matches:
+Sentence: Sasaqosi moƛaxayn bizin, aždaħä yeɣeni kidbeqorƛin eƛin, Maryam där bišan riso, ič’an eɣeni užiz iyos q’ut’un bic’o mečołxor raƛin.
+Gloss: in.the.morning sleep-AD.ABL-TOP III-get.up-PFV.CVB dragon-ERG II-young-DEF daughter-POSS.LAT-QUOT say-PST.UNW Maryam me-LAT food-TOP IV-take-IMPR most-TOP young-DEF boy-GEN2 blood-GEN1 earthen.jug-TOP III-fill-IMPR field-CONT.VERS IV-bring-QUOT
+Translation: In the morning, after getting up from his sleep, the dragon said to - what he supposed was - his youngest daughter: "Maryam, take the food to me and fill the earthen jug with the youngest boy's blood and bring them to the field!"

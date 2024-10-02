@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xexoyqor using Leipzig glossing symbols. The sentence this word is drawn from means: ""May your mouth freeze for telling him that!", the rabbit scolded her young.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xexoyqor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xexoyqor:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Mi esiwq eso, sidaɣ mečoƛ’ sis aždaħno, nełasgon łˤono xexoyn yoł.
+Gloss: you brother-POSS.ESS tell-IMPR in.one.place place-SUPER.ESS one dragon-and DEM1.IISG.OBL-GEN1-CNTR three young.animal-and be
+Translation: Tell your brother that there is a dragon and its three youngs in some place.
+Sentence: Užä ʕon rok’no bikorin bexurno boɣno kurno ik’anƛin aqru yeda, xexoyza eč’erno žedas eniw yayace t’o ičiƛin.
+Gloss: boy-ERG ax-TOP IV-hit-PFV.CVB snake-TOP III-kill-PFV.CVB III-take.away-PFV.CVB throw-PFV.CVB go-FUT.CVB-QUOT become-PST.PRT DEM2.ISG young.animal-PL-ERG stop-PFV.CVB DEM1.IIPL.OBL-GEN1 mother II-come-TERM there wait-QUOT
+Translation: The boy struck his ax, killed the snake, took it and threw it away and thought of going, but the chicks stopped him until their mother would come.
+Sentence: Zira bigza ħalał ƛ’en bagin, zamanaƛ’azay xexoybin roɣno.
+Gloss: fox-ERG III-very-ZA condition-CONT.ESS malt-TOP III-lick-PFV.CVB time-SUPER.ABL.DIST young.animal-PL-TOP III.PL-hatch-PST.UNW
+Translation: The fox licked enough malt and after some time, it got youngs.

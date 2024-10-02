@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kidbeden.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kidbeden
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kidbeden:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyo Kusa xanez kidbeden kecno, qˤašiƛ’aɣor kid moƛaq yiqirnosi, elayn izin ɣamasya tełerno oqno, tełäzgon žan ħišin, maq’anyabi rižixosi pelun yexurno.
+Gloss: afterwards Kusa-ERG khan-GEN2 daughter-APUD.ESS-TOP sleep-PFV.CVB dawn-SUPER.VERS girl sleep-POSS.ESS II-stop-ANT.CVB there-IN.ABL-TOP get.up-PFV.CVB box-IN.ESS into-TOP become-PFV.CVB inside-IN.ESS.DIST-CNTR DEM1.SG-TOP lock-PFV.CVB melody-PL III.PL-carry-IPFV.CVB-ATTR pipe-TOP II-kill-PST.UNW
+Translation: Afterwards, when Kusa had slept with the king's daughter, and the girl had stopped sleeping, he got up from there and went into the box, locked it from inside and destroyed the pipes which played the melodies.
+
+Approximate Matches:
+Sentence: Däq nełas baha bäziƛin užä eƛinosi, yiła yeda idur kidbeder ayrno.
+Gloss: me-POSS.ESS DEM1.IISG.OBL-GEN1 price III-get-QUOT boy-ERG say-ANT.CVB DEM2.IISG.OBL-ERG DEM2.ISG home-LAT girl-APUD.LAT lead-PST.UNW
+Translation: "I will be able to afford its price.", the boy said, and she led him home to the girl.
+Sentence: Diwanyoƛ’or goƛ’inosi, Kusa eƛin, di xanez kidbede zows, nełar nuʕłi rodanix šebin däq yołƛin, yisä nełas bašiqˤoyn, žežuqay räč’ru musrabin, gedmoqay yeč’no zawruni č’irno yukarno.
+Gloss: judgement-SUPER.LAT invite-ANT.CVB Kusa-ERG say-PST.UNW me khan-GEN2 daughter-APUD.ESS be.NPRS-PST.WIT DEM1.IISG.OBL-LAT proof IV-do-MSD-AD.ESS thing me-POSS.ESS be-QUOT DEM2.ISG.OBL-ERG DEM1.IISG.OBL-GEN1 ring-and ponytail-POSS.ABL IV-cut-PST.PRT hair-PL-and shirt-POSS.ABL II-cut-PFV.CVB be.NPRS-PST.PRT-DEF ribbon-and II-show-PST.UNW
+Translation: After Kusa was invited to the court, he said: "I have been with the king's daughter, and I have things with me to prove that!"; he showed her ring, the hairs cut from her ponytail and the ribbon that he cut from her shirt.
+Sentence: Boƛƛo baq’ˤu zaman bik’izaƛ’ortow, elo best’alawni kidbede igor sis žek’un ayn nesä eƛin, aki raɣˤoƛin.
+Gloss: III-middle III-much time III-go-POST.CVB-EMPH there step-DEF daughter-APUD.ESS near-LAT one man-TOP come-PFV.CVB DEM1.ISG.OBL-ERG say-PST.UNW window IV-open-IMPR-QUOT
+Translation: Before much time had passed, a man came to the stepdaughter and he said: "Open the window!"

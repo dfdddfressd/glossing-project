@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣˤʷayn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣˤʷayn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣˤʷayn:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elaɣor bik’iƛ’oräy, zirude dandir ixiw bˤeƛ’es reqenno, žedał tełgon bik’ix ixiw ɣˤʷayn keze boqno.
+Gloss: there-IN.VERS I.PL-go-SIM.CVB fox-APUD.ESS together big sheep-GEN1 herd-and DEM1.IIPL.OBL-CONT.ESS inside-CNTR I.PL-go-IPFV.CVB big dog-and meet III-become-PST.UNW
+Translation: When they went there, the fox met a big flock of sheep and a large dog walking among them.
+Sentence: Tełtow ɣˤʷayn bik’un, kinaw ža bˤeƛ’es reqenno, ɣˤutkubin, maʕišatno zirurno, habihanerno ƛexun.
+Gloss: inside-EMPH dog-TOP III-burn-PFV.CVB entire DEM1.SG sheep-GEN1 herd-and house-PL-and fortune-and fox-LAT-and miller-LAT-and remain-PST.UNW
+Translation: The dog inside burned, and the entire flock of sheep, the house and the fortune all remained for the fox and the miller.
+Sentence: Xizyo žeduł xizay bik’ix zawru ɣˤʷayn bexurno, nełas rok’un rižin ik’in babiwder, di esiw yexursiƛin eƛanix.
+Gloss: afterwards DEM1.IPL.OBL-CONT.ESS behind III-go-IPFV.CVB be.NPRS-PST.PRT dog-TOP III-kill-PFV.CVB DEM1.IISG.OBL-GEN1 heart-TOP IV-take.out-PFV.CVB go-PFV.CVB father-APUD.LAT me sister II-kill-PST.WIT-QUOT say-MSD-AD.ESS
+Translation: Afterwards, he killed a dog that was following them, he took out its heart and went to his father to say: "I killed my sister."
+
+Approximate Matches:
+Sentence: Xexłiƛ’ eƛin ɣˤʷaygon yałru qaciz guluƛ’or butirno.
+Gloss: quickness-SUPER.ESS say-PFV.CVB dog-CNTR be-PST.PRT firewood-GEN2 horse-SUPER.LAT III-turn-PST.UNW
+Translation: He quickly said [something] and what has been a dog transformed back into the wooden horse.
+Sentence: Nełaq dicegon raq’ˤu biša roqłin, ɣˤʷayr neła magalas sis t’it’ukin kurnoanu.
+Gloss: DEM1.IISG.OBL-POSS.ESS how.much-CNTR IV-much food IV-become-CNC.CVB dog-LAT DEM1.IISG.OBL bread-FUT2 one piece-even throw-PFV.CVB-NEG
+Translation: But no matter how much food she had, she didn't throw even one piece of the bread to the dog.
+Sentence: Qacisni gulu ɣˤʷayƛ’orno butin, k’oƛin bik’in xanes kid xanno.
+Gloss: firewood-GEN1-DEF horse dog-SUPER.LAT-and III-turn.back-PFV.CVB run-PFV.CVB III-go-PFV.CVB khan-GEN1 daughter bite-PST.UNW
+Translation: The wooden horse turned into a dog, ran and bit the king's daughter.

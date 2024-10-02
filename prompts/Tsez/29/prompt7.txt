@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xecin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xecin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xecin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕOƛno ħonno xecin yizi bitaɣor bok’ełno.
+Gloss: seven mountain-TOP go.up-PFV.CVB DEM2.IPL distance-IN.VERS I.PL-escape-PST.UNW
+Translation: They went over seven mountains and escaped into the distance.
+Sentence: Esin šebi, xecin šebi zownƛax zown anuƛax sis žek’u.
+Gloss: tell-PFV.CVB what leave-PFV.CVB what be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB be.NEG-QUOT one man
+Translation: Once upon a time there was a man.
+Sentence: Howlo lilyoxtow yedan xecin, xanderno bik’in ziru c’ok’inayn:
+Gloss: there river.bank-AD.ESS-EMPH DEM2.ISG-and leave-PFV.CVB khan-APUD.LAT-and I.PL-go-PFV.CVB fox scold-PST.UNW
+Translation: When they left the river bank there and went to the king, the fox scolded:
+
+Approximate Matches:
+Sentence: Hudun eženi esiya xecinč’izaƛ’, nesä äƛiruxor rodin.
+Gloss: nevertheless old-DEF brother-ERG leave-NEG.FUT.CVB-CSL.CVB DEM1.ISG.OBL-ERG say-PST.PRT-AD.LAT IV-do-PST.UNW
+Translation: Nevertheless, because the older brother wouldn't leave it be, he did what he said.
+Sentence: Igorno ik’in babiya č’arik’nosi, užir retinanu, dahawgon šida di moƛał xecinč’uƛin.
+Gloss: near-LAT-TOP go-PFV.CVB father-ERG wake.up-ANT.CVB son-LAT IV-like-PFV.CVB-NEG a.little-CNTR why me dream-CONT.ESS leave-NEG.PST.WIT-QUOT
+Translation: The father came closer and after waking him up, the son didn't like it [and said]: "Why didn't you let me sleep a little more?"
+Sentence: Hudun meža di berten bodinč’ey xecinč’u.
+Gloss: nevertheless you(I).PL.OBL-ERG me marriage III-do-NEG.PST.CVB leave-NEG.PST.WIT
+Translation: "Nevertheless you all didn't let me *not* have a marriage.

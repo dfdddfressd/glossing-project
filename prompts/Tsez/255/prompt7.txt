@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’ixosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’ixosi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Mešizaxozo eƛin, buq bäturuntow muqno caƛin yizi mešibi ʕaƛaɣor rik’ixosiƛin.
+Gloss: bull.calf-PL-AD.ESS-ATTR.OBL say-PFV.CVB sun III-set-IMM.ANT.CVB-EMPH line-TOP draw-PFV.CVB DEM2.IPL bull.calf-PL village-IN.VERS III.PL-go-PRS.PRT-QUOT
+Translation: The one with the calves said: "Right after the sun sets, " ...
+Sentence: Yedu kidgon Ražbadinqor baqru ʕišq’ud, netey yedu berten bodixƛin, iduɣor yik’ixosi hunin šuƛ’in qˤilo yok’ełxo.
+Gloss: DEM2.IISG girl-CNTR Razhbadin-POSS.LAT III-become-PST.PRT love-INSTR when-DUB DEM2.IISG marriage III-do-PRS-QUOT home-IN.ALL II-go-PRS.PRT way-TOP forget-PFV.CVB erroneously II-go.away-PRS
+Translation: The girl was so in love with Razhbadin, and because she prepared that marriage, she forgot the way home and got lost.
+Sentence: Hemedur hunix ik’iƛ’orey, boxin bik’ixosi ziru yisił c’oxno, nełałgon xizay k’oƛin nexxo łˤono boc’in yołƛax.
+Gloss: so way-AD.ESS go-SIM.CVB III-run.away-PFV.CVB III-go-PRS.PRT fox DEM2.ISG.OBL-CONT.ESS hit-PFV.CVB DEM1.IISG.OBL-CONT.ESS-CNTR behind run-PFV.CVB come-IPFV.CVB three wolf-TOP be-QUOT
+Translation: While he was on his way like that, he met a fox who was fleeing and behind it three wolves came running.

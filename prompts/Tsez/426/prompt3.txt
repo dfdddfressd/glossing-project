@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reƛno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reƛno: 
+
+Exact Matches
+Sentence: Haqoƛer reƛno risno ažoƛ’ bayn ɣʷˤadi heqnosi, zira nełxor eƛin:
+Gloss: mouth-SUB.LAT meat-TOP IV-take-PFV.CVB tree-SUPER.ESS III-come-PFV.CVB crow sit.down-ANT.CVB fox-ERG DEM1.IISG.OBL-AD.LAT say-PST.UNW
+Translation: When a crow sat down onto the tree with a piece of meat in its beak, the fox said to him:
+Sentence: Neła ziys reƛno rac’no łiyrno, ħaħno ƛäxuru ƛuzazaq nesis raɣin ric’erno, ʕoƛnon esnabin boqno bik’in, yedan žeda žedudäy et’urno.
+Gloss: DEM1.IISG.OBL cow-GEN1 meat-TOP IV-eat-PFV.CVB finish-PFV.CVB gnaw-PFV.CVB remain-PST.PRT bone-PL-POSS.ESS DEM1.ISG.OBL-GEN1 veranda-TOP IV-fill-PFV.CVB handle-INT brother-PL-TOP I.PL-become-PFV.CVB I.PL-go-PFV.CVB DEM2.ISG-TOP DEM1.IPL.OBL-ERG DEM1.IPL.OBL-APUD.ABL pull.out-PST.UNW
+Translation: After they had eaten up that cow's meat, the brothers left his veranda filled with the gnawed bones and left him behind.
+Sentence: Sasiłacen ičin, iduɣorno bižin yisä yedu ħumukuli buyn bexayn, waħazoni ɣˤutka nełas reƛno ruqˤno.
+Gloss: get.dark-TERM-TOP wait-PFV.CVB home-IN.ALL-TOP III-lead-PFV.CVB DEM2.ISG.OBL-ERG DEM2.IISG camel III-indeed-TOP III-slaughter-PFV.CVB below-ATTR.OBL-DEF room-IN.ESS DEM1.IISG.OBL-GEN1 meat-TOP IV-hide-PST.UNW
+Translation: She waited until it got dark, lead that camel home and indeed slaughtered it and hid it's meat in the cellar.
+
+Approximate Matches:

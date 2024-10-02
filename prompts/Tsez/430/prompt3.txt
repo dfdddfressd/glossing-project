@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word guluƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word guluƛ: 
+
+Exact Matches
+Sentence: Aždaħes yaqru nˤoƛun łacqo yižirno, nełas zawru šinaw xazina mesedno bižin, Baxumesedun guluƛ’ zowrno Kidiro Žabulawder ik’in.
+Gloss: dragon-GEN1 II-become-PST.PRT ashes-TOP wind-POSS.ESS II-carry-CAUS-PFV.CVB DEM1.IISG.OBL-GEN1 be.NPRS-PST.PRT every treasure gold-and III-carry-PFV.CVB Bakhumesed-and horse-SUPER.ESS seat-PFV.CVB Kidero Jabulaw-APUD.LAT go-PST.UNW
+Translation: He let the wind carry away ashes of the dragon, took all the gold from its treasures, seated Bakhumesed on a horse, and went to Jabulaw in Kidero.
+Sentence: Xexłiƛ’ k’oƛin babiwderno yik’in, hemesi tusnaq’äzo užir teƛxa mi izmu guluƛ’ zowanirƛin, nełaq eƛin rok’äłrun, xan kid žek’anixƛin iza oqno.
+Gloss: quickness-SUPER.ESS run-PFV.CVB father-APUD.LAT-TOP II-go-PFV.CVB DEM4.ISG.OBL prison-IN.ESS-ATTR.OBL boy-LAT give-IPFV.CVB-Q you permission horse-SUPER.ESS ride-MSD-LAT-QUOT DEM1.IISG.OBL-POSS.ESS say-PFV.CVB IV-escape-IMM.ANT.CVB khan daughter beat-MSD-AD.ESS-QUOT get.up-INF begin-PST.UNW
+Translation: She quickly ran to her father, and when the words "Do you give the permission that the boy in prison can ride the horse?" broke out of her, the king got up to slap his daughter.
+Sentence: Di guluƛ’ zowan, mi däde sadaq zownäyƛin”.
+Gloss: me horse-SUPER.ESS be.NPRS-FUT.DEF you me-APUD.ESS together ride-CND.CVB-QUOT
+Translation: "I will ride that horse, if you ride together with me".
+
+Approximate Matches:
+Sentence: Nesiz guluƛ’no zown, bok’no yisä čuret’, ʕoƛno ħonno xecin raładyoz lilyoxor ayn yeda.
+Gloss: DEM1.ISG.OBL-GEN2 horse-SUPER.ESS-TOP ride-PFV.CVB III-beat-PFV.CVB DEM2.ISG.OBL-ERG whip seven mountain-TOP leave-PFV.CVB sea-GEN2 river.bank-AD.LAT come-PST.UNW DEM2.ISG
+Translation: He sat on the horse, beated the whip and having left seven mountains behind him, he came to the coast of the sea.
+Sentence: Hič’č’a adäza bäqiruni guluƛ’no zown, xanes uži hawaƛ’ k’oƛin ik’in t’awus bičixozoni qoqxor.
+Gloss: the.most ahead III-get-PST.PRT-DEF horse-SUPER.ESS-TOP ride-PFV.CVB khan-GEN1 son air-SUPER.ESS run-PFV.CVB go-PFV.CVB peacock III-be-PRS-ATTR.OBL-DEF cliff-AD.LAT
+Translation: He took the first horse and rode to the cliff where the peacock lives.
+Sentence: Hemedur iħuz raʕalłix yeda yałzay, guluƛ’no zown žek’u oƛixno.
+Gloss: so river-GEN2 edge-AD.ESS DEM2.ISG be-SIM.CVB horse-SUPER.ESS-TOP ride-PFV.CVB man appear-PST.UNW
+Translation: So while he was at the edge of the river, a man riding on a horse appeared.

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word isʷan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word isʷan: 
+
+Exact Matches
+Sentence: Roc’no isʷan, babiwz ʕaƛaɣorno yezun Pat’imatno yik’ix zown.
+Gloss: III.PL-drive-PFV.CVB bull-PL-TOP father-GEN2 village-IN.VERS-TOP II-look-PFV.CVB Fatima-TOP II-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: Fatima drove the bulls and went looking toward her father's village.
+
+Approximate Matches:
+Sentence: Howžiƛa rˤałay roda zaman bayxƛin Alimaħama ciqaɣor ik’in, isʷaqor reƛ’u rodanix c’araʕyor qaca rowanixƛin.
+Gloss: now-INDEF threshing.floor IV-do-INF time III-come-PRS-QUOT Alimagomed-ERG forest-IN.VERS go-PST.UNW bull-PL-POSS.LAT yoke IV-do-MSD-AD.ESS building.material-LAT firewood IV-bring-MSD-AD.ESS-QUOT
+Translation: "Now it's time to do the threshing.", Alimagomed thought and went into the forest to bring wood for building the yoke for the bulls.

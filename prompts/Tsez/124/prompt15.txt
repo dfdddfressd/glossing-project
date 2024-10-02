@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ˤidarno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ˤidarno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ˤidarno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Łˤonosi žiman eqerno iduɣor bowƛ’oräy, kak royxo Riħoxaz äčiru q’ˤidarno bˤoƛ’un t’ok’ow dicegon k’ediłin biqinč’u däq.
+Gloss: three-ATTR pocket-IN.ESS-TOP put-PFV.CVB home-IN.ALL III-bring-SIM.CVB prayer IV-do-IPFV.CVB Rixox-IN.ESS.DIST be-PST.PRT down-LAT-TOP III-fall-PFV.CVB anymore how.much-CNTR search-CNC.CVB III-get-NEG.PST.WIT me-POSS.ESS
+Translation: I put three (coins) in my pocket and when bringing them home, I did a prayer in Rikhokh and they fell down and I couldn't find them anymore no matter how much I searched.
+
+Approximate Matches:
+Sentence: Sidä muhubi ħolimoƛ’äytow rac’xo zown, sideni aɣä q’ˤidar räšru rut’ix zown.
+Gloss: one.OBL-ERG granule-PL mat-SUPER.ABL-EMPH IV-eat-IPFV.CVB be.NPRS-PST.UNW other bird-ERG down-LAT IV-fall-PST.PRT IV-collect-IPFV.CVB be.NPRS-PST.UNW
+Translation: One ate the granules directly from the mat, the other bird collected those that had fallen down.
+Sentence: Neširaɣor qacis muɣbin rown nexƛ’oräy, där muɣ boq’ˤiłxoƛin eniya eƛinosi, sis rečiwsi riłe qaca tełäy roɣno q’ˤidar kuroƛin, kidbaza eƛin.
+Gloss: at.night-IN.VERS firewood-GEN1 bundle-PL-TOP III.PL-bring-PFV.CVB come-SIM.CVB me-LAT bundle III-be.heavy-PRS-QUOT mother-ERG say-ANT.CVB one IV-thick-ATTR IV-as firewood inside-IN.ABL IV-take.away-PFV.CVB down-LAT throw-IMPR-QUOT daughter-PL say-PST.UNW
+Translation: When they were coming back with a bundle of firewood in the evening and the mother said: "The bundle is too heavy for me", the daughters said: "Take a thick bunch of firewood and throw it out."
+Sentence: Yeženigon esiya, šebin resun yisirƛin, bak’ima tełäyn begirno aɣi q’ˤidar kurnosi, nełłäy qˤirič’ roqno.
+Gloss: II-old-DEF-CNTR sister-ERG thing IV-find-PFV.CVB DEM2.ISG.OBL-LAT-QUOT enclosure-IN.ESS inside-IN.ABL-TOP III-let-PFV.CVB bird down-LAT throw-ANT.CVB DEM1.IISG.OBL-CONT.ABL scissors IV-become-PST.UNW
+Translation: The older sister said "He found something!", let the bird out of the coop and threw it on the ground, so he turned into a pair of scissors.

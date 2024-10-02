@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħalikataw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħalikataw: 
+
+Exact Matches
+Sentence: Tawadä Ražbadin bužzi odin, nediw ħalikataw šebin debeł teł roda dey pikrukin zownč’u, rodäsin anuƛin.
+Gloss: Tavadi-ERG Razhbadin convince do-PFV.CVB such mean thing you-CONT.ESS inside IV-do-INF me-GEN1 idea-even be.NPRS-NEG.PST.WIT IV-do-RES.PRT-TOP be.NEG-QUOT
+Translation: Tavadi convinced Razhbadin: "I would not have he idea to do such a mean thing to you, I haven't done anything."
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."
+Sentence: Xanes sis ħalikataw madaxosi žek’u zown.
+Gloss: khan-GEN1 one mean gate-AD.ESS-ATTR man be.NPRS-PST.UNW
+Translation: The king had a mean guard.
+
+Approximate Matches:
+Sentence: Hemełƛ’ay soder q’orolaz užis raħataw, paraxataw ʕumru zown, ħalikatawt’ani halmaɣzaqay bat’an oqno.
+Gloss: DEM4.IISG.OBL-SUPER.ABL after widow-GEN2 son-GEN1 serene quiet life be.NPRS-PFV.CVB mean-DISTR-DEF friend-PL-POSS.ABL seperation-TOP become-PST.UNW
+Translation: After that, the widow's son lead a serene, quiet life, bereft of mean friends.

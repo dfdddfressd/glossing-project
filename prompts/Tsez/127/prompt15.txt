@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xabaryaynč’iƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xabaryaynč’iƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xabaryaynč’iƛin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hudayzikogon ɣurox uži egirnosi, hemedurtow boƛixno aɣi užiqor xabaryayn:
+Gloss: the.next.day-CNTR cows-AD.ESS boy send-ANT.CVB so-EMPH III-appear-PST.UNW bird boy-POSS.LAT tell-PST.UNW
+Translation: The next day the boy was sent to pasture the cows, when the bird appeared again and told him:
+Sentence: Hemedur däł adäzarno bayn, insanzo mecreƛ’ xabaryayn aɣä di mi ɣurox egiranƛin odäsi zownč’u, ži roda šebin anuƛinno eƛin ozƛäy gugisƛin.
+Gloss: so me-CONT.ESS before-IN.LAT-TOP III-come-PFV.CVB human-ATTR.OBL language-SUPER.ESS tell-PFV.CVB bird-ERG me you cows-AD.ESS send-FUT.DEF-QUOT do-RES.PRT be.NPRS-NEG.PST.WIT now IV-do-INF thing be.NEG-QUOT-TOP say-PFV.CVB eye-SUB.ABL escape-PST.WIT-QUOT
+Translation: "So, a bird arrived in front of me and talked in human language, saying: 'I didn't give birth to you to have you pasture the cows. But now there's nothing to do.', and escaped out of sight.
+Sentence: Insanzo mecrexorno xabaryayn neła eƛin, mi di t’äy boxärno, däz maħiłäy łˤono musno bet’urno iduɣor ik’i, debeƛ’ ɣudi rayza quł žedu rik’urnosi, debez ħalarno nexno boqxosi kumak bodanƛin.
+Gloss: human-GEN2 language-AD.LAT-TOP talk-PFV.CVB DEM1.IISG.OBL-ERG say-PST.UNW you me from.here III-chase-PROHIB me-GEN2 tail-CONT.ABL three hair-TOP III-pull.out-PFV.CVB home-IN.ALL go you-SUPER.ESS day IV-come-LCV day-CONT.ESS DEM1.IIPL III.PL-burn-CAUS-ANT.CVB you-GEN2 strength-IN.LAT-TOP come-PFV.CVB III-begin-PRS.PRT help III-do-FUT.DEF-QUOT
+Translation: It talked in human language and said: "Don't chase me away from here; pull out three hairs from my tail and go home; on a day that you are in trouble, after you burned them, I  will help you to regain your strength."

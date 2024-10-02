@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Zamanałäygon.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Zamanałäygon
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Zamanałäygon:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howlotow eniwqor xabarno boƛik’no, žan razi yoyn, zamanałäygon kidbeqay rožin riqirno, nełƛ’osi kʷaxatow bertenno boyn, aħozä ža kidno yown.
+Gloss: there-EMPH mother-POSS.LAT story-TOP III-push.out-PFV.CVB DEM1.SG-TOP accept II-do-PFV.CVB time-CONT.ABL-CNTR girl-POSS.ABL word-TOP IV-take.away-PFV.CVB of.that.time soon-EMPH marriage-TOP III-do-PFV.CVB shepherd-ERG DEM1.SG girl-TOP II-marry-PST.UNW
+Translation: Right there he started talking to the mother, she accepted it, and after some time he took her word and soon after that they celebrated the wedding and the shepherd married that girl.
+
+Approximate Matches:
+Sentence: Zamanałäygon neside puħo, puräzagon t’asno eqerno, ža ɣˤanabin q’ˤida yičin.
+Gloss: time-CONT.ABL-CNTR DEM1.ISG.OBL-APUD.ESS side-AD.ESS side-IN.VERS.DIST-CNTR washbowl-TOP put-PFV.CVB DEM1.SG woman-TOP down II-sit-PST.UNW
+Translation: And after some time the woman sat down next to him and put a washbowl at his side.

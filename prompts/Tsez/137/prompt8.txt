@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: lagiłxor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": lagiłxor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word lagiłxor:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hemełƛ’o xizyo žoyä babiwq esin, ža miƛ’in di zows, gulun di zows, hemediw hunar yoł däz lagiłƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS after boy-ERG father-POSS.ESS tell-PST.UNW DEM1.SG ram-TOP me be.NPRS-PST.WIT horse-TOP me be.NPRS-PST.WIT such.a talent be me-GEN2 body-CONT.ESS-QUOT
+Translation: After that, the boy told his father: "That ram was me; and the horse was me; such a talent is in my body."
+Sentence: Žubi bac’näy, debi ʕumru bexoräł, č’aɣˤir ašuƛ ricinäy, mi q’uwataw aq, däz lagiłäy boƛäxru zok’ice iyo lagiq biħinäy, mi łarnokin ukayxanusi aq.
+Gloss: liver III-eat-CND.CVB you-GEN1 life III-become.longer bowel waist-SUB.ESS IV-tie-CND.CVB you strong become me-GEN2 body-CONT.ABL III-appear-PST.PRT mug-EQU1 blood body-POSS.ESS III-smear-CND.CVB you who.OBL-LAT-TOP-even see-NEG.PRS.PRT become
+Translation: When you eat my liver, your life will become longer; if you tie my bowel around your waist, you will become strong; and when you smear blood from my body from the mug on your body, nobody will see you.

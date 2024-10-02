@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ayrus in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ayrus: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elus šeƛ’ures bic’äsi gama raładyoł boƛor bayrułer tełxor biħusƛin, žawab teƛno žeda nesir.
+Gloss: we(I).OBL-GEN1 clothing-GEN1 III-fill-RES.PRT boat sea-CONT.ESS III-middle-LAT III-come-PST.PRT-CONT.LAT inside-AD.LAT III-come.to-PST.WIT-QUOT answer give-PFV.CVB DEM1.IPL.OBL-ERG DEM1.ISG.OBL-LAT
+Translation: "The boat filled with our clothes sank when it came to the middle of the sea.", they answered him.
+Sentence: Elor bayrun, muši begira Ħasan q’ˤida ičiƛ’oräy ox̌-x̌o-x̌oyƛin eƛin.
+Gloss: there-LAT I.PL-come-IMM.ANT.CVB breath I.PL-be.emitted-CAUS-INF Hassan down sit-SIM.CVB oh~ho~hoy-QUOT say-PST.UNW
+Translation: As soon as they arrived there, while Hassan sat down to take a breath, he said: "Oh-ho-hoy!"
+Sentence: Ža kaɣat yayrun, Ražbadinno, barun Telawäɣor halmaɣdäɣor bik’ix.
+Gloss: DEM1.SG letter II-come-IMM.ANT.CVB Razhbadin-and wife-and Telavi-IN.VERS friend-APUD.VERS I.PL-go-PRS
+Translation: Right after the letter arrived, Razhbadin and his wife went to Telavi to their friend.

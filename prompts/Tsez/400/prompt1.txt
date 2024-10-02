@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Aždaħeł in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Aždaħeł: 
+
+Exact Matches
+Sentence: Hudayziko esiw maħor oqno neła aždaħeł xizay.
+Gloss: the.next.day brother outside become-PST.UNW DEM1.IISG.OBL dragon-CONT.ESS behind
+Translation: The next day the brother went outside in search of the dragon.
+
+Approximate Matches:
+Sentence: Ħon-bahadurä sosi rak’ru mač’id łˤonon q’ˤim nełas reč’no roɣno, k’ox äƛiru rok’nosi hemedurtow łˤonosinigon q’ˤim reč’no roɣno, łox äƛirugon regirnosi, aždaħes oč’inon q’ˤim reč’no.
+Gloss: Mountain~Hero-ERG once IV-hit-PST.PRT dagger-INSTR three-TOP head DEM1.IISG.OBL-GEN1 IV-cut-PFV.CVB IV-take.away-PFV.CVB twice ORD IV-hit-ANT.CVB so-EMPH three-ATTR-DEF-CNTR head IV-cut-PFV.CVB IV-take.away-PFV.CVB thrice ORD-CNTR IV-let-ANT.CVB dragon-GEN1 nine-TOP head IV-cut-PST.UNW
+Translation: Mountain~Hero hit him once with the dagger and cut three heads off of him; when he hit him for the second time, he cut three of his heads off as well; and when he did it for the third time then, he cut off all the nine heads.
+Sentence: Mi t’or aždaħes xexoy ba di c’unzi yoda, howlo sidaɣ yołƛin teqsi där aždaħno, nełdegon sadaq łˤono xexoynƛin.
+Gloss: you here-LAT dragon-GEN1 young.animal III-bring.IMP me guard II-do-INF there in.one.place be-QUOT hear-ATTR me-LAT dragon-and DEM1.IISG.OBL-APUD.ESS-CNTR together three young.animal-and-QUOT
+Translation: Bring me a dragon's young to guard me; I heard somewhere there there is a dragon and beside it three youngs."
+Sentence: Zeyes Aħya bˤałay rok’xo aždaħes q’ˤim ret’urxo roɣxo zown, nełaz meča ʕoƛnot’a roƛixxo zown.
+Gloss: bear-GEN1 ear-ERG dagger IV-hit-IPFV.CVB dragon-GEN1 head IV-hack-IPFV.CVB IV-take.away-IPFV.CVB be.NPRS-PFV.CVB DEM1.IISG.OBL-GEN2 instead.of seven-DISTR IV-appear-IPFV.CVB be.NPRS-PST.UNW
+Translation: Bear Ear hit with his dagger and chopped off a head of the dragon, and instead of it, seven [more heads] were appearing.

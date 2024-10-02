@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Maħama.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Maħama
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Maħama:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ħak’omƛerce šebin riqiraniƛäy, eynodanix močin k’edin oqäsi yołƛin, esin Alimaħama.
+Gloss: khinkali-SUB.LAT-EQU1 thing IV-win-MSD-SUB.ABL work-MSD-AD.ESS place-TOP search-PFV.CVB become-RES.PRT be-QUOT tell-PST.UNW Alimagomed-ERG
+Translation: "I have come to search a place to work in order to earn some food."
+Sentence: Mi žek’anix ɣˤilya bowsƛin eƛin, Alimaħama baruz gugya ɣˤilya basada oqno.
+Gloss: you beat-MSD-AD.ESS stick III-bring-PST.WIT-QUOT say-PFV.CVB Alimagomed-ERG wife-GEN2 back-IN.ESS stick III-measure-INF begin-PST.UNW
+Translation: "I brought a stick to beat you!", said Alimagomed and began to hit his wife's back with the stick.
+Sentence: Sebixasi zaman baynosi, Paxrudinä Alimaħamaqor eƛin, ixdaxor ɣutanłäzay ħonqaɣor bˤeƛ’ rownosi, bˤeƛ’q’uł xizay kami anusi ƛeli bayrnäy, boƛik’u reqen deber xeca yołƛin.
+Gloss: autumn-AD.ESS-RES.PRT time III-come-ANT.CVB Pakhrudin-ERG Alimagomed-POSS.LAT say-PST.UNW spring-AD.LAT winter.pasture-CONT.ABL.DIST mountain-POSS.VERS sheep III.PL-bring-ANT.CVB sheep-CONT.ESS behind get.lost be.NEG-ATTR lamb III-lead-CND.CVB half herd you-LAT leave-INF be-QUOT
+Translation: When fall came, Pakhrudin said to Alimagomed: "Until spring, after your brought the sheep to the mountains onto the winter pastures, if you lead a lamb that doesn't get lost behind every sheep, then I'll leave you half of the herd."

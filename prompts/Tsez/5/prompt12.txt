@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mečoƛ using Leipzig glossing symbols. The sentence this word is drawn from means: "One day the young man brought the turkeys [home] in the evening, took the glass out of his pocke and said: "May here on the field be a house and inside a good table and chairs around it!"".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mečoƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mečoƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Dandi yizi huniƛxor k’oƛin bok’ełno, žedu zawza mečoƛ’ ža ɣunno rik’in c’oxno.
+Gloss: only DEM2.IPL way-SUB.LAT run-PFV.CVB I.PL-escape-PFV.CVB DEM1.IPL be.NPRS-LCV.CVB place-SUPER.ESS DEM1.SG tree-TOP IV-go-PFV.CVB hit-PST.UNW
+Translation: They had just gotten out of the way, and that tree hit the place where they had been.
+Sentence: Xizyo neła yisiqor mešok’lałäy bet’urno mus teƛno, debeƛ’ ɣudi rayza mečoƛ’ bik’ur mi yeduƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT moustache-CONT.ABL III-pull.out-PFV.CVB hair give-PFV.CVB you-SUPER.ESS day IV-come-LCV.CVB place-SUPER.ESS III-burn-CAUS you DEM2.IISG-QUOT
+Translation: Then it pulled out a hair from its whiskers and gave it to him, "When one day you are in trouble, burn it!"
+Sentence: Madaħ mečoƛ’ ža c’aq’ t’eq’erbašiƛ’or ičix zown.
+Gloss: outside place-SUPER.ESS DEM1.SG very cautiousness-SUPER.LAT be-IPFV.CVB be.NPRS-PST.UNW
+Translation: In places outside, he was very cautious.
+
+Approximate Matches:
+Sentence: Zamanałäy yizi yeda rešt’izi aqza mečoƛ’or ačqˤayx, mekoyxno bayn, salamno teƛno žaq ħaƛanir łi esirno, deber ela micxir neƛanƛin.
+Gloss: time-CONT.ABL DEM2.IPL DEM2.ISG take.a.rest become-LCV.CVB place-SUPER.LAT be.thirsty-IPFV.CVB be.hungry-IPFV.CVB-TOP I.PL-come-PFV.CVB greeting-TOP give-PFV.CVB boy-POSS.ESS drink-MSD-LAT water ask-PFV.CVB you-LAT we(I).OBL-ERG money give-FUT.DEF-QUOT
+Translation: After a while, they were thirsty and hungry and came to where he was resting, saluted him and asked the boy for some water to drink: "We will give you some money."
+Sentence: Ist’olowä äsuruni q’ebedzo užä eƛin, ɣudes ʕazart’a ɣuruš yiqixozo mečoƛ’or mi di egiranƛin.
+Gloss: dining.room-IN.ESS find-PST.PRT-DEF smith-GEN2 son-ERG say-PST.UNW daily thousand-DISTR ruble II-get-PRS.PRT.OBL place-SUPER.LAT you me let-FUT.DEF-QUOT
+Translation: The smith's son said to the one he found in the dining room: "I'll send you to a place where you can get thousand rubles a day."
+Sentence: Nasin yizi xan yałru mečoƛ’or bayn.
+Gloss: all DEM2.IPL.OBL khan be-PST.PRT field-SUPER.LAT I.PL-come-PST.UNW
+Translation: They all came to the place that belonged to the king.

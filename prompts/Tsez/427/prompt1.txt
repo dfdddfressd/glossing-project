@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Łˤoran in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Łˤoran: 
+
+Exact Matches
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: Ža kaɣat t’et’erno łiynosi, łˤoran xexza nesiqor eƛin, eli łˤonon bik’a yoł debez halmaɣ Tawadidäɣor.
+Gloss: DEM1.SG letter read-PFV.CVB end-ANT.CVB three.OBL-TOP children DEM1.ISG.OBL-POSS.LAT say-PST.UNW we three-TOP I.PL-go-INF be you-GEN2 friend Tavadi-APUD.VERS
+Translation: When he finished reading the letter, his three children said to him: "We three will go to your friend Tavadi.
+Sentence: Guħƛ’orno bizin, łˤoran esnaza kurno c’eruc’a.
+Gloss: hill-SUPER.LAT-TOP I.PL-get.up-PFV.CVB three.OBL-TOP brother-PL-ERG throw-PST.UNW bow
+Translation: The three brothers climbed up the hill and shot with their bows.
+
+Approximate Matches:
+Sentence: Min däqor łˤora ɣudin q’adaraw roži äƛinƛin”.
+Gloss: you-TOP me-POSS.LAT three.OBL day-TOP bad word say-PROHIB-QUOT
+Translation: And don't you say a bad word in these three days!'
+Sentence: Yiła eƛin, eloš neła łˤora t’alamezni ɣˤutka deber retinäy, łˤora ƛˤeba mi elo doxturłin roynäy, deber di kumak boyxosi ɣˤanabiłun yičanƛin.
+Gloss: DEM2.IISG.OBL-ERG say-PFV.CVB over.there DEM1.IISG.OBL-IN.ESS three.OBL floor-GEN2-DEF house-ERG you-LAT IV-want-CND.CVB three.OBL year-IN.ESS you there doctor-CNC.CVB IV-do-CND.CVB you-LAT me help III-do-PRS.PRT woman-LHUN II-remain-FUT.DEF-QUOT
+Translation: She said, "If you want to live in this three-floored house and work as a doctor for three years, I will help you."
+Sentence: Sida ɣudi ik’in, q’ˤuna ɣudi ik’in, łˤora äƛiza quł ʕAliqilič sida maydanƛ’or ayn.
+Gloss: one.OBL day go-PFV.CVB two.OBL day go-PFV.CVB three.OBL ORD-ATTR.OBL-IN.ESS day-CONT.ESS Aliqilich one.OBL clearance-SUPER.LAT come-PST.UNW
+Translation: He went one day, two days, and on the third day Aliqilich came to a clearance.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word anuƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word anuƛin: 
+
+Exact Matches
+Sentence: Xanä hemedurtow pakmos ʕabasin cuƛer kurno eƛinosi, Kusagon mesedyos ʕabasin cuƛer kurno eƛin, k’ešonad mi, mesedyos ʕabasi, dunyalƛ’o debeq roqxanusi šebintow anuƛin.
+Gloss: khan-ERG so-EMPH copper-GEN1 coin-TOP upward throw-PFV.CVB say-ANT.CVB Kusa-CNTR gold-GEN1 coin-TOP upward throw-PFV.CVB say-PST.UNW play you gold-GEN1 coin world-SUPER.ESS you-POSS.ESS IV-become-NEG.PRS.PRT thing-EMPH be.NEG-QUOT
+Translation: When the king threw the copper coin upward and said his phrase, Kusa threw up the golden coin up and said: "Play, golden coin, there is nothing in the world that you couldn't become!"
+Sentence: Tawadä Ražbadin bužzi odin, nediw ħalikataw šebin debeł teł roda dey pikrukin zownč’u, rodäsin anuƛin.
+Gloss: Tavadi-ERG Razhbadin convince do-PFV.CVB such mean thing you-CONT.ESS inside IV-do-INF me-GEN1 idea-even be.NPRS-NEG.PST.WIT IV-do-RES.PRT-TOP be.NEG-QUOT
+Translation: Tavadi convinced Razhbadin: "I would not have he idea to do such a mean thing to you, I haven't done anything."
+Sentence: Yisis rigu rok’ƛ’o anuƛin, nesiqay zebun yoɣno boc’i boxin.
+Gloss: DEM2.ISG.OBL-GEN1 IV-good heart-SUPER.ESS be.NEG-QUOT DEM1.ISG.OBL-POSS.ABL running-TOP II-take.away-PFV.CVB wolf III-run.away-PST.UNW
+Translation: "He's bad-tempered", [thought] the wolf [and] ran away from him.
+
+Approximate Matches:
+Sentence: T’ok’ow roda šebin koƛ’inč’ey, eniya sossi eženi kidbeq bikorxo yik’ixaƛin esirno, neła yik’ixanuƛin inkar boynosi yoƛƛozoqor eƛin, žan razi yoqno anu.
+Gloss: anymore IV-do-INF thing understand.to-NEG.PST.CVB mother-ERG first old-DEF daughter-POSS.ESS snake-AD.ESS II-go-IPFV.CVB-INF-QUOT ask-PFV.CVB DEM1.IISG.OBL-ERG II-go-IPFV.CVB-NEG-QUOT rejection III-do-ANT.CVB II-middle-ATTR.OBL-POSS.LAT say-PFV.CVB DEM1.SG-TOP agree II-become-PFV.CVB be.NEG
+Translation: Not knowing what to do anymore, the mother asked her eldest daughter first, if she would go to the snake; she rejected: "I won't go."; then she talked to the middle daughter, who also disagreed.
+Sentence: Babiw idu anunč’izay, igorno yayn, Okuz kidbä nesiqor eƛin, were mi dicegon yaq’ˤu ʕilmu deber yiqiłin, mi siskin šebin riyxanuƛin iča ay.
+Gloss: father home be.NEG-NEG.FUT.CVB-SIM.CVB near-LAT-TOP II-come-PFV.CVB Oku-GEN2 daughter-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW well you how.much-CNTR II-much science you-LAT II-get-CNC.CVB you any thing IV-know-IPFV.CVB-NEG-QUOT be-INF must
+Translation: While her father wasn't at home, Oku's daughter came nearer and said to him: "Well, no matter how much science you will get, you must say that you don't know anything!"
+Sentence: Elozo xalq’imor łi teƛxanuƛin exurno ža.
+Gloss: there-ATTR.OBL people-LAT water give-IPFV.CVB-NEG-QUOT kill-PST.UNW DEM1.SG
+Translation: He was killed because he didn't gave water to the people there.

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: raƛ’maɣor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": raƛ’maɣor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word raƛ’maɣor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ceyn neła nełaz raƛ’maɣor boržizin boqno bik’in, yedan iduɣor nexno.
+Gloss: eagle-TOP DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 land-IN.ALL fly-TOP III-become-PFV.CVB III-go-PFV.CVB DEM2.ISG-TOP home-IN.ALL come-PST.UNW
+Translation: When the eagle flew into his own country, also he returned home.
+
+Approximate Matches:
+Sentence: Nesä naysinan nesiz raƛ’ma xabar begirno, c’ohor däƛ’ay ežis, di nesił q’ˤim rok’siƛin.
+Gloss: DEM1.ISG.OBL-ERG everywhere DEM1.ISG.OBL-GEN2 land-IN.ESS story III-send-PFV.CVB thief me-SUPER.ABL win-PST.WIT me DEM1.ISG.OBL-CONT.ESS head IV-beat-PST.WIT-QUOT
+Translation: He spread the story everywhere that "The thief has won over me, I declare my defeat.
+Sentence: Žek’uz raƛ’ma xanłun ičizaƛ’or, däztow raƛ’ma laɣłun rigu, mežus res besunäy, di däztow raƛ’mar ayroƛin”, - harizi rodin yisä.
+Gloss: man-GEN2 land-IN.ESS khan-LHUN be-POST.CVB me-GEN2-EMPH land-IN.ESS slave-LHUN IV-good you(I).PL.OBL-GEN1 possibility III-have-CND.CVB me me-GEN2-EMPH land-LAT bring-IMPR-QUOT - request IV-do-PST.UNW he-ERG
+Translation: "Before getting the kingship over someone's country, it's better to be a slave in my own country; if you have the ability, bring me back to my country!", he begged.
+Sentence: Žek’uz raƛ’ma xanłun ičizaƛ’or, däztow raƛ’ma laɣłun rigu därƛin.
+Gloss: man-GEN2 land-IN.ESS khan-LHUN be-POST.CVB me-GEN2-EMPH land-IN.ESS slave-LHUN IV-good me-LAT-QUOT
+Translation: "Before I become king over a someone's land, I would rather be a slave in my land.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’iƛ’oräy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’iƛ’oräy: 
+
+Exact Matches
+Sentence: Bˤeƛ’no adäz roc’no neširur iduɣor ik’iƛ’oräy, Alimaħamar teqno bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: sheep-TOP ahead III.PL-drive-PFV.CVB evening-LAT home-IN.ALL go-SIM.CVB Alimagomed-LAT hear-PST.UNW sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: When he drove the sheep home in the evening, Alimagomed heard them talking to each other.
+Sentence: Hemedur oxin yeda ik’iƛ’oräy, yisił dandir q’ˤanon esnabi c’oxxo - sis c’odoraw, sideni - ʕantaw.
+Gloss: so run.away-PFV.CVB DEM2.ISG go-SIM.CVB DEM2.ISG.OBL-CONT.ESS towards two-TOP brother-PL meet-PRS - one clever the.other.one - stupid
+Translation: While he was running, he met two brothers - one was clever, the other one stupid.
+Sentence: Hunix ik’iƛ’oräy, neła ħalaq’awni gula nesiqor eƛin, aždaħ kecäsi yałzay, buq bayäsi bičixosi, q’ˤiday bizinosi ža bičixozoni gogaƛ’ ɣedu boqxosi, elo nełaqgon šet’ur k’ešonayx xexoybi ričixosiƛin.
+Gloss: way-AD.ESS go-SIM.CVB DEM1.IISG.OBL thin-DEF horse-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW dragon sleep-RES.PRT be-SIM.CVB sun III-come-RES.PRT III-be-IPFV.CVB-ATTR down-IN.ABL III-get.up-ANT.CVB DEM1.SG III-be-PRS.PRT.OBL-DEF meadow-SUPER.ESS shade III-happen-PRS.PRT there DEM1.IISG.OBL-POSS.ESS-CNTR around play-IPFV.CVB young.animal-PL III.PL-be-PRS.PRT-QUOT
+Translation: While he went on his way, that thin horse said to him: "While the dragon sleeps, the sun goes up, and after he gets up a shadow appears on the meadow, there around it the youngs are playing.
+
+Approximate Matches:
+Sentence: Di muši pˤaƛunosi, mi nociƛ’or ati, xizyo mi kidbez kočorał teł uqˤeł, ža iduɣor yik’iƛ’oräy, mi q’ˤidar k’oƛo, hemełƛ’o mi di nociƛ’ay užiƛ’or utiran.
+Gloss: me breath thrash-ANT.CVB you louse-SUPER.LAT turn afterwards you girl-GEN2 forelock-CONT.ESS inside hide DEM1.SG home-IN.ALL II-go-SIM.CVB you down-LAT jump-IMPR DEM4.IISG.OBL-SUPER.ESS you me louse-SUPER.ABL boy-SUPER.LAT turn-FUT.DEF
+Translation: "When I blow, you will turn into the louse. Afterwards you will hide youself inside the girl's forelock. Before she go home, jump down and I will turn you back to the boy."
+Sentence: Yeda ukayrun, šebiƛa sis kid yoxin yik’iƛ’oräy, nełał xizay k’oƛin yisä nełas xot’oqosi riqirno.
+Gloss: DEM2.ISG see-IMM.ANT.CVB who-INDEF one girl II-run.away-PFV.CVB II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS from.behind run-PFV.CVB DEM2.ISG.OBL-ERG DEM1.IISG.OBL-GEN1 foot-POSS.ESS-ATTR IV-take.away-PST.UNW
+Translation: And right when he saw that there was some girl who was trying to run away, he ran behind her and took what she had on her feet.
+Sentence: Eženi esiya esin, č’ikays tungin bisno łäħorno yik’i, kikxar yik’iƛ’oräy yaħno bodo, elazay tungin bic’no nexƛ’oräy, esiwz žanazaxor yaynosi, tungi q’ˤidar bˤoƛ’a begirno xec.
+Gloss: old-DEF brother-ERG tell-PST.UNW glass-GEN1 copper.jug-TOP III-take-PFV.CVB water-AD.LAT-TOP II-go spring-AD.VERS II-go-SIM.CVB patience-TOP III-do-IMPR there-IN.ABL.DIST copper.jug-TOP III-fill-PFV.CVB come-SIM.CVB brother-GEN2 corpse-AD.LAT II-come-ANT.CVB copper.jug down-LAT III-fall-INF III-let-PFV.CVB leave
+Translation: The older brother told: "Take a glass jug and go to the water; when you go to the spring, be patient and when you fill the jug there, come to your brother's corpse, let the jug fall down and leave.

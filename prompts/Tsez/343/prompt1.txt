@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Howžiƛa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Howžiƛa: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Łox esirno dandir žawab biqinč’izaƛ’, yizirabi kecsi howžiƛin, ɣoɣoräk’ru ħos risno užizasƛin eƛin kidbazas meč’oƛ’no eqerno, yik’in kecno.
+Gloss: thrice ask-PFV.CVB together answer III-get-NEG.FUT-CSL.CVB DEM2.PL sleep-PST.WIT now-QUOT make.red.hot-PST.PRT stick IV-take-PFV.CVB boy-PL-GEN1-QUOT say-PFV.CVB girl-PL-GEN1 neck-SUPER.ESS-TOP put-PFV.CVB II-go-PFV.CVB sleep-PST.UNW
+Translation: Because she had asked three times without getting an answer, [saying] "Now they're sleeping", she took the red-hot stick and - thinking it were the boys - put it onto the necks of the girls and went to sleep.
+Sentence: Howžiƛa rˤałay roda zaman bayxƛin Alimaħama ciqaɣor ik’in, isʷaqor reƛ’u rodanix c’araʕyor qaca rowanixƛin.
+Gloss: now-INDEF threshing.floor IV-do-INF time III-come-PRS-QUOT Alimagomed-ERG forest-IN.VERS go-PST.UNW bull-PL-POSS.LAT yoke IV-do-MSD-AD.ESS building.material-LAT firewood IV-bring-MSD-AD.ESS-QUOT
+Translation: "Now it's time to do the threshing.", Alimagomed thought and went into the forest to bring wood for building the yoke for the bulls.

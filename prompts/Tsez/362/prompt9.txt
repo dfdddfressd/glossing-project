@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šebiƛa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šebiƛa: 
+
+Exact Matches
+Sentence: Yeda ukayrun, šebiƛa sis kid yoxin yik’iƛ’oräy, nełał xizay k’oƛin yisä nełas xot’oqosi riqirno.
+Gloss: DEM2.ISG see-IMM.ANT.CVB who-INDEF one girl II-run.away-PFV.CVB II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS from.behind run-PFV.CVB DEM2.ISG.OBL-ERG DEM1.IISG.OBL-GEN1 foot-POSS.ESS-ATTR IV-take.away-PST.UNW
+Translation: And right when he saw that there was some girl who was trying to run away, he ran behind her and took what she had on her feet.
+
+Approximate Matches:
+Sentence: Šebiƛa žek’u t’o zown äsuƛin, žedus xabar boqnosi, zeyä eloza naysinan bezu-bˤoƛ’a ziru begirno.
+Gloss: who-INDEF man here be.NPRS-PFV.CVB find-QUOT DEM1.IPL-GEN1 story III-become-ANT.CVB bear-ERG there-ZA everywhere III-examine-INF fox III-send-PST.UNW
+Translation: After saying "Someone has to find the man here!", the bear sent the fox to look everywhere there.
+Sentence: Žagon šebiƛin, zira eƛin.
+Gloss: DEM1.SG-CNTR what-QUOT fox-ERG say-PST.UNW
+Translation: "How's that?", said the fox.
+Sentence: Užä žeduqor eƛin, ža bikori sida ħala xec meža, neła mežur royxosi žukłi šebiƛin.
+Gloss: boy-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW DEM1.SG snake one.OBL condition-IN.ESS leave you(I).PL.OBL-ERG DEM1.IISG.OBL-ERG you(I).PL.OBL-LAT IV-do-PRS.PRT evil what-QUOT
+Translation: The boy said to them: "Let go of the snake, what's the evil thing it has done to you?!"

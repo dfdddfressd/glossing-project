@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word č’ariłno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word č’ariłno: 
+
+Exact Matches
+Sentence: Sosi moƛaxay uži č’ariłno - tamaša oqno ƛexun yeda, xanzoƛ’aygon rigu ɣˤutku moƛaxay izizaƛ’or elo resuzaƛ’.
+Gloss: at.first sleep-AD.ABL boy wake.up-PST.UNW - be.surprised become-PFV.CVB remain-PFV.CVB DEM2.ISG khan-GEN2-SUPER.ABL-CNTR IV-pretty house sleep-AD.ABL get.up-POST.CVB there IV-find-CSL.CVB
+Translation: At first, the boy woke up from his sleep - he was surprised because he found the house to be prettier than even the king's one, when he got up.
+Sentence: Xanes wazir č’ariłno puħo t’akan yukaynosi, nesis cim bizin, łu yedu mesedyos t’akan t’or yayrnoƛin.
+Gloss: khan-GEN1 vizier wake.up-PFV.CVB next.to glass II-see-ANT.CVB DEM1.ISG.OBL-GEN1 malice III-get.up-PFV.CVB who.ERG DEM2.IISG gold-GEN1 glass here-LAT II-bring-PST.UNW-QUOT
+Translation: When the king's vizier woke up and saw the glass at his side, he became angry[ and asked]: "Who brought this golden glass here?"
+Sentence: Yeda zek’no egin č’ariłno.
+Gloss: DEM2.ISG jerk-TOP let.go-PFV.CVB wake.up-PST.UNW
+Translation: He shuddered and woke up.
+
+Approximate Matches:
+Sentence: Howlo xizyo yizi q’ˤanon esnabi akiłno moƛan biqirno, łerakin ɣudi č’ariłnoanu.
+Gloss: there afterwards DEM2.IPL two-TOP brother-PL get.tired-PFV.CVB sleep-TOP III-catch-PFV.CVB five.OBL-even day wake.up-PST.UNW-NEG
+Translation: Afterwards these two siblings got tired and caught some sleep, and didn't even woke up for five days.

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bayzaƛ’ortow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bayzaƛ’ortow: 
+
+Exact Matches
+Sentence: Boƛƛäɣor bayzaƛ’ortow, gulun, nełaƛ’gon ƛ’irisini ža č’uħarawni žek’un ɣˤuɣˤuruni neł iħä butirno caƛin, boɣno bižin ƛ’iräy wˤałer.
+Gloss: III-middle-IN.VERS I.PL-come-POST.CVB-EMPH horse-and DEM1.IISG.OBL-SUPER.ESS-CNTR on-ATTR-DEF DEM1.SG proud-DEF man-and muddy-DEF DEM1.IISG.OBL river-IN.ESS I.PL-turn-PFV.CVB stick-PFV.CVB I.PL-take.away-PFV.CVB I.PL-take.out-PFV.CVB from.above downward-LAT
+Translation: Before they reached the middle, the horse and the proud man on it got stuck in that muddy river, and it pulled them downward.
+
+Approximate Matches:
+Sentence: Allahzo ħalk’ołiƛ’aza ɣˤutkoxor ayzaƛ’ortow gamiƛ’ozoni žek’uz ozzałer č’ura rayn.
+Gloss: God-GEN2 might-SUPER.VERS.DIST house-AD.LAT come-POST.CVB-EMPH boat-SUPER.ESS-GEN2-DEF man-GEN2 eye-PL-CONT.LAT light IV-come-PST.UNW
+Translation: Through Allah's might, the light came back to the sailor's eyes even before he had come to his house.

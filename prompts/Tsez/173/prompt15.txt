@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: insan.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": insan
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word insan:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Di insan yołƛinno, eƛin, kid ažoqay q’ˤidar yoqno.
+Gloss: me human be-QUOT-TOP say-PFV.CVB girl tree-POSS.ABL down-LAT II-become-PST.UNW
+Translation: Saying "I am a human!", the girl got down from the tree.
+Sentence: Łˤono äƛiruni bełiqa qˤaƛin, insan esunäy roži roɣo, bełi besunäy ela c’eruc’a caƛixƛin.
+Gloss: three ORD-DEF hunter-ERG shout-PFV.CVB human find-CND.CVB word IV-take.away-IMPR deer III-find-CND.CVB we(I).OBL-ERG bow shoot.with-PRS-QUOT
+Translation: The third hunter shouted: "If you are a human, say something; if you are an animal, we will shoot you with the bow!"
+
+Approximate Matches:
+Sentence: Ħonƛ’orno izin, regirno bixiłer ɣuron muši begiranix yeda q’ˤida ičinosi, nazay eƛa biynč’ey sis aɣi boƛixno yisiqor insanzo mecreƛ’no xabaryayn eƛin:
+Gloss: mountain-SUPER.LAT-TOP get.up-PFV.CVB IV-send-PFV.CVB grass-CONT.LAT cows-TOP breath III-let-MSD-AD.ESS DEM2.ISG down sit-ANT.CVB from.where say-INF III-know-NEG.PST.CVB one bird III-appear-PFV.CVB DEM2.ISG.OBL-POSS.LAT human-ATTR.OBL language-SUPER.ESS-TOP talk-PFV.CVB say-PST.UNW
+Translation: He climbed up the mountain and sent the cows onto the grass, and when he sat down to take a breath, a bird appeared out of nowhere and told him in human language:
+Sentence: Ža abužahalno adäzay ok’ek’no, nesiz iduza ezu-ʕoƛ’uƛ’oräy, q’ˤidaza insanes ƛuzabi rukayn.
+Gloss: DEM1.SG devil-TOP in.front-IN.ABL.DIST steal.from-PFV.CVB DEM1.ISG.OBL-GEN2 home-ZA examine-SIM.CVB down-ZA human-GEN1 bone-PL IV.PL-see-PST.UNW
+Translation: [He] took away this devil, and while he was examining his home, he saw human bones down there.
+Sentence: Elo yisä godek’anya q’ˤida bäčiru ʕoloqzaq łi esirnosi, sidä izin zok’är aqˤun kučin teƛƛ’oräy, nesä eƛin, eleley, yedu šebi šebin, insanä aqˤuyä łäz meča ħaƛuƛin, nediw šebin behizi raqinč’iƛin.
+Gloss: there DEM2.ISG.OBL-ERG village.square-IN.ESS down III-sit-PST.PRT young.person-PL-POSS.ESS water ask-ANT.CVB one.OBL-ERG get.up-PFV.CVB mug-IN.LAT urine-TOP defecate-TOP give-SIM.CVB DEM1.ISG.OBL-ERG say-PST.UNW behold DEM2.IISG what thing human-ERG urine-Q water-GEN2 instead.of drink-QUOT such thing permit IV-become-NEG.FUT-QUOT
+Translation: There he asked a young person who sat at the village square for water, and one got up, pissed into a mug and gave it to him and he said: "Behold, what is this? A human is not allowed such a thing as to drink urine instead of water!"

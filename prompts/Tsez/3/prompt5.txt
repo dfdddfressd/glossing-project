@@ -1,0 +1,24 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: akäłru using Leipzig glossing symbols. The sentence this word is drawn from means: "When he had said this, she poked her tongue out like a tired hound.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": akäłru
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word akäłru:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: T’umzałäy xabar täqruntow, akäłru iłen oqno Ħon-Bahadurä eƛin, di žedał xizaynč’e oqäsiƛin.
+Gloss: pigeon-PL-CONT.ABL story hear-IMM.ANT.CVB-EMPH get.tired-PST.PRT as-TOP become-PFV.CVB Mountain~Hero-ERG say-PST.UNW me DEM1.IIPL.OBL-CONT.ESS behind-TOP-INTS become-RES.PRT-QUOT
+Translation: When Mountain~Hero heard the story about the pigeons, he wasn't tired anymore and said: "I will search for them!"
+
+Approximate Matches:

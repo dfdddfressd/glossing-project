@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rexorat’a.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rexorat’a
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rexorat’a:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neła kidbä täƛruni łˤorat’a ɣˤurušyozaƛ bazaryay risxosi šebinabin risno, esnabi urɣizi boqno ʕaƛaɣor bik’a.
+Gloss: DEM1.IISG.OBL girl-ERG give-PST.PRT-DEF three.OBL-DISTR ruble-PL-SUB.ESS bazar-IN.ABL IV.PL-buy-PRS.PRT thing-PL-TOP IV.PL-buy-PFV.CVB brother-PL thinking III-become-PST.UNW village-IN.VERS III-go-INF
+Translation: Having bought the things for the 3 roubles each, that the girl gave to them, they thought about going (back?) to the village.
+Sentence: Elo igoza bäsuru yizir ɣˤays oreznar k’oƛinosi, gulun saɣ boqno, adäzoƛ’aygon rigu rexora maħin roƛixno.
+Gloss: there near-ZA III-find-PST.PRT DEM2.IPL.OBL-LAT milk-GEN1 pond-IN.LAT jump-ANT.CVB horse-TOP cure III-become-PFV.CVB before-SUPER.ABL-CNTR IV-pretty IV-long tail-TOP IV-appear-PST.UNW
+Translation: There the jumped into a milky lake that they had found nearby, and the horse gut cured; its tail appeared, prettier and longer than before.
+Sentence: Ža bix yałza mečoƛ’or aynosi, rexorani bixiz ɣˤuč’ä eƛix teqno, yisi žek’us ʕantłi rukayxana mežur, barus ʕadlun boqinč’ey, nesä nesił xizaz rexʷadanix ħonƛ’ay bˤeƛ’no rown nexxoƛin.
+Gloss: DEM1.SG grass be-LCV.CVB place-SUPER.LAT come-ANT.CVB IV-long-DEF grass-GEN2 stick-ERG say-IPFV.CVB hear-PST.UNW DEM2.ISG.OBL man-GEN1 stupidity IV-see-IPFV.CVB-NEG-Q you(I).PL.OBL-LAT wife-GEN1 order-TOP III-become-NEG.PST.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-CONT.ESS behind III.PL-slaughter-MSD-AD.ESS mountain-SUPER.ABL sheep-TOP III.PL-bring-PFV.CVB come-PRS-QUOT
+Translation: When he came to the place where the grass was, he heard the longest blade of grass say: "Don't you see the ... of this man? He can't control his wife, but brings sheep down from the mountain to slaughter them after himself."

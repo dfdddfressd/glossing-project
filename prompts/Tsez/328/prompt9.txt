@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šebin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šebin: 
+
+Exact Matches
+Sentence: Siryos bet’erhanä q’ʷaridno oqno sadaq šebin ik’in ec’noni xanzo baruq esin.
+Gloss: mare-GEN1 master-ERG sadness-TOP become-PFV.CVB all thing go-PFV.CVB new-DEF khan-ATTR.OBL wife-POSS.ESS tell-PST.UNW
+Translation: The mare's master became sad and told the king's new wife how all the things happened.
+Sentence: Sis gut’ riłe šebin rukayxƛin, eƛin bełiqanä.
+Gloss: one smoke IV-as thing IV-see-PRS-QUOT say-PST.UNW hunter-ERG
+Translation: "I see something like smoke.", said the hunter.
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+
+Approximate Matches:
+Sentence: Kusa nesir žawab teƛno, mesedyoz ʕabasä royxanusi šebintow roqinč’izaƛ’ƛin.
+Gloss: Kusa DEM1.ISG.OBL-LAT answer give-PST.UNW gold-GEN2 coin-ERG IV-do-NEG.PRS.PRT thing-EMPH IV-become-NEG.FUT.CVB-CSL.CVB-QUOT
+Translation: Kusa answered him: "There is nothing that a gold coin couldn't do."
+Sentence: Roda šebinon koƛ’inč’ey yisä bečnaqay reč’no reƛ kurno, howlaytow ric’no iyos zok’in et’no haqa.
+Gloss: IV-do-INF something understand.to-NEG.PST.CVB DEM2.ISG.OBL-ERG knee-POSS.ABL IV-cut-PFV.CVB meat throw-PFV.CVB from.there-EMPH IV-fill-PFV.CVB blood-GEN1 mug-TOP pour-PST.UNW mouth-IN.ESS
+Translation: Not knowing what else to do, he cut meat off from his knee and threw it to the eagle, them he filled the blood into a mug and poured it into its mouth.
+Sentence: Kidbez eniya nesir ya micxir, ya mesed, ya q’ˤuya riguƛ’ay rigu šebinabi teƛxo zown, hudun užä žedu šebinabi risnoanu.
+Gloss: girl-GEN2 mother-ERG DEM1.ISG.OBL-LAT either money either gold either other IV-good-SUPER.ABL IV-good thing-PL give-IPFV.CVB be.NPRS-PFV.CVB nevertheless boy-ERG DEM1.IIPL thing-PL IV.PL-take-PFV.CVB-NEG
+Translation: The girl's mother was about to give him money or gold or other precious things, but the boy didn't take those things.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ƛexuna in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ƛexuna: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Howži bełiqanes ʕuraw rok’un raq’ˤiłno, roda šebinon koƛ’inč’ey ƛexun yeda.
+Gloss: now hunter-GEN1 very heart-TOP IV-increase-PFV.CVB IV-do-INF something understand.to-NEG.PST.CVB remain-PST.UNW DEM2.ISG
+Translation: Now the hunter got very upset and remained not knowing what to do.
+Sentence: Xizay ezun yedan ƛexun.
+Gloss: behind look-PFV.CVB DEM2.ISG-TOP remain-PST.UNW
+Translation: And he stood there looking behind it.
+Sentence: Eleley, dice bercinaw, rigu šeƛ’u rižixƛin, bezun nasin xalq’in ƛexun.
+Gloss: behold how.much beautiful IV-pretty clothing IV-carry-PRS-QUOT III-look-PFV.CVB all people-TOP remain-PST.UNW
+Translation: "Behold, what beautiful and pretty clothes are being carried away!", all the people remained looking.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Łˤonon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Łˤonon: 
+
+Exact Matches
+Sentence: Ža kaɣat t’et’erno łiynosi, łˤoran xexza nesiqor eƛin, eli łˤonon bik’a yoł debez halmaɣ Tawadidäɣor.
+Gloss: DEM1.SG letter read-PFV.CVB end-ANT.CVB three.OBL-TOP children DEM1.ISG.OBL-POSS.LAT say-PST.UNW we three-TOP I.PL-go-INF be you-GEN2 friend Tavadi-APUD.VERS
+Translation: When he finished reading the letter, his three children said to him: "We three will go to your friend Tavadi.
+Sentence: Dey xexbi, di exun xizyo t’ubazi odin łiynosi, meži łˤonon esnabi bitazoni ɣˤutkar bezu, elo mežur ʕuraw mesed yołƛin”.
+Gloss: me-GEN1 children me die-PFV.CVB after fulfill do-PST.UNW end-ANT.CVB you.PL three-TOP brother-PL next-DEF room-IN.LAT I.PL-look-IMPR there you(I).PL.OBL-LAT much gold be-QUOT
+Translation: "My children, when I have died and the funeral is done, you three brothers look into the next room, there is much gold for you."
+Sentence: Bišanon bišno, Kusaqor siskin xabar boynč’ey, łˤonon esnabi maħor boqno.
+Gloss: food-TOP III-eat-PFV.CVB Kusa-POSS.LAT any story III-do-NEG.PST.CVB three-TOP brother-PL outside I.PL-become-PST.UNW
+Translation: Having eaten their food, the three brothers went outside without having talked to Kusa.
+
+Approximate Matches:
+Sentence: Sida zamanałäy eɣeni esiya nasin žeda roƛäk’ru šebinabi yizas xot’ozaxor kurnosi, łˤonontow yisił adäzarno rayn esirno, šebi deber elaqay ħažat roqnoƛin.
+Gloss: one.OBL time-CONT.ABL young-DEF brother-ERG all DEM1.IIPL.OBL-ERG IV-appear-PST.PRT thing-PL DEM2.IIPL.OBL-GEN1 foot-PL-AD.LAT throw-ANT.CVB three-TOP-EMPH DEM2.ISG.OBL-CONT.ESS before-IN.LAT-TOP IV-come-PFV.CVB ask-PST.UNW what you-LAT we(II-POSS.ABL necessity IV-become-PST.UNW-QUOT
+Translation: After some time, the young brother threw the things that they listed to their feet, and they went before him and asked: "What do you need from us?"
+Sentence: Sida quł Mirza qaca rowanix łˤonontow ʕomoybin rižin ciqaɣor ik’in.
+Gloss: one.OBL day-CONT.ESS Mirza-ERG firewood IV-bring-MSD-AD.ESS three-TOP-EMPH donkey-PL-TOP III.PL-lead-PFV.CVB forest-IN.VERS go-PST.UNW
+Translation: One day, Mirza lead his three donkeys into the forest in order to bring firewood.
+Sentence: Meži łˤonontow esira däder nexłin, mežurno riyx ža, hudun di mežułäy sider gurow yäqinč’i.
+Gloss: you.PL three-TOP-EMPH ask-INF me-APUD.LAT come-CNC.CVB you(I).PL.OBL-LAT-TOP IV-know-PRS DEM1.SG nevertheless me you(I).PL.OBL-CONT.ABL one.OBL-LAT except II-get-NEG.FUT
+Translation: "You three have come to me in order to ask me out, you know that, and so I won't get to any of you except for one.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word sosigon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word sosigon: 
+
+Exact Matches
+Sentence: Boƛƛogon zaman bik’inosi, hemedurtow sosigon neła esirno.
+Gloss: III-middle-CNTR time III-go-ANT.CVB so-EMPH again-CNTR DEM1.IISG.OBL-ERG ask-PST.UNW
+Translation: After a while, she asked it again.
+Sentence: Guluƛ’no zown sosigon Musa čuret’ bok’nosi, reč’yałer yizirabi xanzo ɣˤutkox igor bayn.
+Gloss: horse-SUPER.ESS-TOP be.NPRS-PFV.CVB at.first-CNTR Musa-ERG whip III-beat-ANT.CVB quickness-CONT.LAT DEM2.PL khan-ATTR.OBL house-AD.ESS near-LAT I.PL-come-PST.UNW
+Translation: When he was on the horse, Musa first beated the whip, and in an instant they came to the king's house.
+Sentence: Elogon xanä wazirbin butirno, sosigon łu yedu dey mesedyosni t’akan yayräƛin esirnosi, oƛixno hemesitow wazirä eƛin, di yayrinč’a žaƛin.
+Gloss: there-CNTR khan-ERG vizier-PL-TOP I.PL-gather-PFV.CVB again-CNTR who.ERG DEM2.IISG me-GEN1 gold-GEN1-DEF glass II-bring-PST.WIT.INT-QUOT ask-ANT.CVB appear-PFV.CVB DEM4.ISG.OBL-EMPH vizier-ERG say-PFV.CVB me II-bring-NEG.PST.WIT-Q DEM1.SG-QUOT
+Translation: There, the king gathered his viziers, and when he asked: "Who again brought this golden glass of mine?", that vizier appeared and said: "Haven't I brought it?"
+
+Approximate Matches:
+Sentence: Kidbezno, baruzno, nesizno bok’nosigon, žedułäy ħalaq’awt’a ʕomoybi roqno.
+Gloss: daughter-GEN2-TOP wife-GEN2-and DEM1.ISG.OBL-GEN2-and III-beat-ANT.CVB-CNTR DEM1.IPL-CONT.ABL thin-DISTR donkey-PL III.PL-become-PST.UNW
+Translation: And after cracking also [for?] his daughter, his wife and himself, they became thin donkeys.
+Sentence: Sasaqosigon yizi ʕoƛnon esiw yałruni kidbedäɣor bizin bik’in, sadaq žan yižanix.
+Gloss: in.the.morning-CNTR DEM2.IPL seven-TOP brother be-PST.PRT-DEF girl-APUD.VERS I.PL-get.up-PFV.CVB I.PL-go-PST.UNW together DEM1.SG-TOP II-lead-MSD-AD.ESS
+Translation: The next morning, they set out and went to the girl who had the seven brothers to take her with them.
+Sentence: Nełƛ’osigon oƛƛosi esiw neł xanzo kidbeder, däx barułun horoƛin, esirno ik’in.
+Gloss: of.that.time-CNTR middle-ATTR brother DEM1.IISG.OBL khan-ATTR.OBL daughter-APUD.LAT me-AD.ESS wife-LHUN come.IMPR-QUOT ask-PFV.CVB go-PST.UNW
+Translation: Then the middle brother went to the princess, "Come and be my wife!"

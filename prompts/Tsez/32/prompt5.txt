@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: c’eruc’a.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": c’eruc’a
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word c’eruc’a:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła ža beƛ’q’ˤu bac’anix łet’ix yałrułi nesir čuqˤnosi, c’eruc’a caƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG sheep III-eat-MSD-AD.ESS pick-IPFV.CVB be-MSD DEM1.ISG.OBL-LAT notice-ANT.CVB bow shoot.with-PST.UNW
+Translation: When he noticed that she was picking that sheep in order to eat it, he shot with his bow.
+Sentence: Guħƛ’orno bizin, łˤoran esnaza kurno c’eruc’a.
+Gloss: hill-SUPER.LAT-TOP I.PL-get.up-PFV.CVB three.OBL-TOP brother-PL-ERG throw-PST.UNW bow
+Translation: The three brothers climbed up the hill and shot with their bows.
+Sentence: Xizyo eɣeni esiya nełaz c’eruc’a caƛinosi, sis nełas lel ɣunoƛer yoƛ’ˤun yayn, t’awusno hawaƛ’ k’oƛin boxin bik’in.
+Gloss: afterwards young-DEF brother-ERG DEM1.IISG.OBL-GEN2 bow shoot.with-ANT.CVB one DEM1.IISG.OBL-GEN1 feather tree-SUB.LAT II-fall-PFV.CVB II-come-PFV.CVB peacock-TOP air-SUPER.ESS jump-PFV.CVB III-run.away-PFV.CVB III-go-PFV.CVB
+Translation: Then the youngest brother shot with the bow and the peacock flew away, but one feather fell down under the tree.
+
+Approximate Matches:
+Sentence: Užä eƛin, di c’eruc’as hil kuran, meži nełał xizayn k’oƛin, adäza hilno yayrno xizor butin bayrur di ziru neƛanƛin.
+Gloss: boy-ERG say-PST.UNW me bow-GEN1 arrow shoot.from-FUT.DEF you.PL DEM1.IISG.OBL-CONT.ESS behind-TOP run-PFV.CVB ahead arrow-TOP II-bring-PFV.CVB back III-return-PFV.CVB III-come-PST.PRT-LAT me fox give-FUT.DEF-QUOT
+Translation: The boy said, "I will shoot an arrow from my bow and you will run behind it; to the one who first brings it back to me, I will give the fox."
+Sentence: Ay, di ik’ix, nesiƛ’ adäz di exuƛƛin, aceł c’eruc’an caƛin, bˤaƛoyn gulun, et’un k’oƛin nełaƛ’no zown Ħusen hunix oqno.
+Gloss: must me go-PRS DEM1.ISG.OBL-SUPER.ESS before me die-OPT-QUOT door-CONT.ESS bow-TOP shoot.with-PFV.CVB III-harness-PFV.CVB horse-TOP jump-PFV.CVB run-PFV.CVB DEM1.IISG.OBL-SUPER.ESS-TOP ride-PFV.CVB Hussein way-AD.ESS become-PST.UNW
+Translation: "No, I am going, may I die before him!", Hussein [said and] shot at the door with his bow, harnessed the horse, and quickly rode on his way on it.
+Sentence: Ħusenä elo q’ˤiryoł c’eruc’an riƛ’irno, nełqorno eƛin, di guluzał xizay ʕaƛaɣor ik’ix.
+Gloss: Hussein-ERG there floor-CONT.ESS bow-TOP IV-plunge-PFV.CVB DEM1.IISG.OBL-POSS.LAT-TOP say-PST.UNW me horse-PL-CONT.ESS behind village-IN.VERS go-PRS
+Translation: Hussein plunged the bow on the floor there and said to her: "I am going to the village for horses.

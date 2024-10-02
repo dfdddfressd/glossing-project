@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ħonno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ħonno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ħonno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕOƛno ħonno xecin yizi bitaɣor bok’ełno.
+Gloss: seven mountain-TOP go.up-PFV.CVB DEM2.IPL distance-IN.VERS I.PL-escape-PST.UNW
+Translation: They went over seven mountains and escaped into the distance.
+Sentence: Nesiz guluƛ’no zown, bok’no yisä čuret’, ʕoƛno ħonno xecin raładyoz lilyoxor ayn yeda.
+Gloss: DEM1.ISG.OBL-GEN2 horse-SUPER.ESS-TOP ride-PFV.CVB III-beat-PFV.CVB DEM2.ISG.OBL-ERG whip seven mountain-TOP leave-PFV.CVB sea-GEN2 river.bank-AD.LAT come-PST.UNW DEM2.ISG
+Translation: He sat on the horse, beated the whip and having left seven mountains behind him, he came to the coast of the sea.
+Sentence: ʕOƛno ħonno, ʕoƛno iħun xecin ik’inosi, sida ʕaƛar ayn.
+Gloss: seven mountain-and seven river-and leave-PFV.CVB go-ANT.CVB one.OBL village-IN.LAT come-PST.UNW
+Translation: After he walked past seven mountains and seven rivers, he came into a village.
+
+Approximate Matches:

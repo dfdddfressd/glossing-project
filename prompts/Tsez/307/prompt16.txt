@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word äƛirun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word äƛirun: 
+
+Exact Matches
+Sentence: Ža nesä äƛirun, bet’un k’oƛin ɣunoqayn boqno babiwz koyär nexno.
+Gloss: DEM1.SG DEM1.ISG.OBL-ERG say-PST.PRT-TOP III-jump-PFV.CVB run-PFV.CVB tree-POSS.ABL-TOP III-become-PFV.CVB father-GEN2 hand-IN.LAT come-PST.UNW
+Translation: After he had said this, it jumped up and ran [flew] off the tree and came into the father's hand.
+Sentence: Babiws wasi t’ubazi boqinč’izaƛ’, nesä äƛirun rodin, meč’oxor q’aq’at’un kurno exʷa ayx diƛin.
+Gloss: father-GEN1 testament fulfill III-become-NEG.FUT.CVB-CSL.CVB DEM1.ISG.OBL-ERG say-PST.PRT-TOP IV-do-PFV.CVB neck-AD.LAT noose-TOP throw-PFV.CVB die-INF must-PRS me-QUOT
+Translation: Because my father's testament won't get fulfilled, I must do what he said, put a noose around my neck and die."
+Sentence: Bero beca baqruntow t’ay eli boxin bok’ła bayƛin yiłä äƛirun, bet’un guluƛ’orno k’oƛin, čuret’ bak’runtow, ʕoƛno ħonno xecin bitaɣor bok’ełno.
+Gloss: ice III-thaw-INF III-begin-IMM.ANT.CVB-EMPH from.here we I.PL-run.away-PFV.CVB I.PL-escape-INF I.PL-must-QUOT DEM2.IISG.OBL-ERG say-IMM.ANT.CVB I.PL-jump-PFV.CVB horse-SUPER.LAT-TOP jump-PFV.CVB whip III-beat-IMM.ANT.CVB-EMPH seven mountain-TOP go.up-PFV.CVB distance-IN.VERS I.PL-escape-PST.UNW
+Translation: "Immediately after the ice has begun to thaw, we must run away and escape from here!", she said and right away they jumped onto the horse, cracked the whip and immediately crossed the seven mountains and escaped into the distance.
+
+Approximate Matches:
+Sentence: Q’ˤunan ozzar rukaynosi, aɣˤuxay bitor hunix oqno yeda zeyä äƛiruni hemeł ʕaƛaɣor.
+Gloss: two.OBL-TOP eye-PL-LAT IV-see-ANT.CVB mill-AD.ABL thither way-AD.ESS become-PFV.CVB DEM2.ISG bear-ERG say-PST.PRT-DEF DEM4.IISG.OBL village-IN.VERS
+Translation: When both of his eyes saw again, he got on his way away from the mill to the village that the bear had talked about.
+Sentence: Łˤono äƛiruni bełiqa qˤaƛin, insan esunäy roži roɣo, bełi besunäy ela c’eruc’a caƛixƛin.
+Gloss: three ORD-DEF hunter-ERG shout-PFV.CVB human find-CND.CVB word IV-take.away-IMPR deer III-find-CND.CVB we(I).OBL-ERG bow shoot.with-PRS-QUOT
+Translation: The third hunter shouted: "If you are a human, say something; if you are an animal, we will shoot you with the bow!"
+Sentence: K’oxäƛirun ʕaq’lus xalq’i butirnosi, xanä cuƛer ʕabasin kurno hemedurtow eƛin, k’ešonad mi, pakmos ʕabasi, łinarnotow hunarno anu debi, siskin šebinon deber roda koƛ’ixanuƛin.
+Gloss: twice-ORD-TOP advice-GEN1 people I.PL-gather-ANT.CVB khan-ERG upward coin-TOP throw-PFV.CVB so-EMPH say-PST.UNW play you copper-GEN1 coin what.OBL-LAT-TOP-EMPH talent-TOP be.NEG you-GEN1 any something you-LAT IV-do-INF understand.to-PRS-NEG-QUOT
+Translation: The second time the king gathered his advisors, he also threw a coin up and said likewise: "Play, copper coin, you have no talent to whatsoever, you don't know what to do!"

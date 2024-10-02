@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eniwn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eniwn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eniwn:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Där eniwn, esnabin bukada betinƛin.
+Gloss: me-LAT mother-and brother-PL-and I.PL-see-INF I.PL-want-PST.UNW-QUOT
+Translation: I wanted to see my mother and my brothers."
+Sentence: Nełaz ža q’aʕidaƛ’ žedun šušin, nesä nesir azbarno riqirno, barun yown, eniwn nesä nesidäɣor yižin.
+Gloss: DEM1.IISG.OBL-GEN2 DEM1.SG manner-SUPER.ESS DEM1.IPL-TOP bury-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT palace-TOP IV-take.away-PFV.CVB wife-TOP II-marry-PFV.CVB mother-TOP DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.VERS II-lead-PST.UNW
+Translation: He burried them in his own manner, took the palace for himself, married a wife and brought his mother to himself.
+Sentence: Kʷaxatow žax bertenno bodin eniwn, užin, barun nełƛ’ay soder łinasnotow q’ʷariłi anusi bičix zown.
+Gloss: soon-EMPH boy-AD.ESS marriage-TOP III-do-PFV.CVB mother-TOP boy-and wife-and DEM1.IISG.OBL-SUPER.ABL after what.OBL-GEN1-TOP-EMPH sadness be.absent-ATTR I.PL-live-IPFV.CVB be.NPRS-PST.UNW
+Translation: Soon the mother arranged a marriage for the boy and the boy and his wife henceforward were living without any sadness whatsoever.
+
+Approximate Matches:
+Sentence: Xizyogon nesä q’ˤuna äƛiru t’alamqosi eniwq madazartow rekan kurerno, acno serun, kidno iduɣor yegirno, yeda eniwdäɣor ik’in.
+Gloss: then DEM1.ISG.OBL-ERG two.OBL say-PST.PRT floor-POSS.ESS-ATTR mother-POSS.ESS outside-IN.LAT.DIST-EMPH key-TOP throw-CAUS-PFV.CVB door-TOP unlock-PFV.CVB girl-TOP home-IN.ALL II-let-PFV.CVB DEM2.ISG mother-APUD.VERS go-PST.UNW
+Translation: After that, he let his mother throw the keys to the second floor outside, unlocked the door, let the girl into his house and went to his mother.
+Sentence: Tełxor ižiƛ’oräy, kidbä nesi žaqor aq’ˤlu bodin, barkatawni ħiƛ’oqu gurow q’ˤuya šebin eniwqay risanix mi razi aqno.
+Gloss: inside-AD.LAT lead-SIM.CVB girl-ERG DEM1.ISG.OBL boy-POSS.LAT advice III-do-PFV.CVB blessed-DEF handkerchief except other thing mother-POSS.ABL IV-take-MSD-AD.ESS you agree become-PROHIB
+Translation: When she led him inside, the girl gave the boy an advice: 'Don't agree to take anything else from my mother than the blessed handkerchief!'
+Sentence: Howlay idurno ik’in, xanez užä eniwq esirno, dey aqiw esiw zowwäƛin.
+Gloss: from.there home-LAT-TOP go-PFV.CVB khan-GEN2 boy-ERG mother-POSS.ESS ask-PST.UNW me-GEN1 female sister be.NPRS-PST.WIT.Q-QUOT
+Translation: He went home and the prince asked his mother: "Did I have a sister?"

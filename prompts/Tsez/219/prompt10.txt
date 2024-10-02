@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word resuzaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word resuzaƛ: 
+
+Exact Matches
+Sentence: Sosi moƛaxay uži č’ariłno - tamaša oqno ƛexun yeda, xanzoƛ’aygon rigu ɣˤutku moƛaxay izizaƛ’or elo resuzaƛ’.
+Gloss: at.first sleep-AD.ABL boy wake.up-PST.UNW - be.surprised become-PFV.CVB remain-PFV.CVB DEM2.ISG khan-GEN2-SUPER.ABL-CNTR IV-pretty house sleep-AD.ABL get.up-POST.CVB there IV-find-CSL.CVB
+Translation: At first, the boy woke up from his sleep - he was surprised because he found the house to be prettier than even the king's one, when he got up.
+Sentence: Sasaq moƛaxay izizaƛ’or mesedyos qˤiƛurabi resuzaƛ’, bečedawni žek’a kidno yegirno nesi žax, neła qˤiƛurazaƛ’aza baħarayn iduɣor yižin, nasin ʕaƛos xalq’in goƛ’in bertenno bodin.
+Gloss: in.the.morning sleep-AD.ABL get.up-POST.CVB gold-GEN1 step-PL IV.PL-find-CSL.CVB wealthy-DEF man-ERG daughter-TOP II-send-PFV.CVB DEM1.ISG.OBL boy-AD.ESS DEM1.IISG.OBL step-PL-SUPER.VERS.DIST fiancée-TOP home-IN.ALL II-lead-PFV.CVB all village-GEN1 people-TOP invite-PFV.CVB marriage-TOP III-do-PST.UNW
+Translation: The neex morning, before the wealthy man got up from his sleep, he sent his daughter to that boy, because he found the golden steps; [NELHA] lead his fiancée over the steps to his home, they invited all people of the village and married.
+Sentence: Neł ʕaƛasi žamaʕattow yisir q’ʷariłiƛ’ bičäsi besun, ɣudes boc’ä, zeyza rexuräsit’a posu resuzaƛ’.
+Gloss: DEM1.IISG.OBL village-RES.PRT population-EMPH DEM2.ISG.OBL-LAT sadness-SUPER.ESS III-be-RES.PRT III-exist-PST.UNW daily wolf.PL-ERG bear-PL-ERG III.PL-kill-RES.PRT-DISTR cattle IV-find-CSL.CVB
+Translation: The population of the village was being sad because every day they found their cattle killed by wolves and bears.
+
+Approximate Matches:
+Sentence: Ac ħišäsi yesuzaƛ’, boc’ä qˤaƛin, ħišixosi, ac seroƛin.
+Gloss: door lock-RES.PRT II-exist-CSL.CVB wolf-ERG shout-PST.UNW lock-PRS.PRT door unlock-IMPR-QUOT
+Translation: Because the door was locked, the wolf shouted: "It's locked, unlock the door!"
+Sentence: Elo teł esiw esuzaƛ’, roda šebin łaħin ƛexun yeda.
+Gloss: there inside brother find-CSL.CVB IV-do-INF what-TOP forget-PFV.CVB remain-PST.UNW DEM2.ISG
+Translation: When he found his brother inside there, he didn't know what to do.
+Sentence: Idur aynosi, yisir ciqaɣor erno bišʷan łiyn eniwn nan mekoyx yesuzaƛ’ žoyä meɣyoqor eƛin, wele meɣu deberno, därno, eniwrno ʕeziyaw bišʷa roƛik’ƛin.
+Gloss: home-LAT come-ANT.CVB DEM2.ISG.OBL-LAT forest-IN.VERS put-PFV.CVB food-and end-PFV.CVB mother-and even be.hungry-IPFV.CVB II-find-CSL.CVB boy-ERG udder-POSS.LAT say-PFV.CVB look.out.IMP udder you-LAT-and me-LAT-and mother-LAT-and much food IV-let.appear-QUOT
+Translation: When he came home, he found the food put for [the way into] the forest finished and his mother being hungry, so the boy said to the udder: "Look out, udder, let appear much food for you, me and the mother!"

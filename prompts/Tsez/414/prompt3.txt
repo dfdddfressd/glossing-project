@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bukayrun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bukayrun: 
+
+Exact Matches
+Sentence: Yizi bukayrun, aždaħä zudäy roɣno ixiw riris ɣun yiził adäzar rayrno kurno.
+Gloss: DEM2.IPL I.PL-see-IMM.ANT.CVB dragon-ERG root-IN.ABL IV-take.away-PFV.CVB big alder-GEN1 tree DEM2.IPL.OBL-CONT.ESS before-IN.LAT IV-bring-PFV.CVB throw-PST.UNW
+Translation: When he saw them, the dragon tore out an alder tree from its roots and threw it before them.
+Sentence: Suƛƛi sider sis bukayrun yizis roƛ’i boqxo.
+Gloss: immediately one.OBL-LAT one I.PL-see-IMM.ANT.CVB DEM2.IPL.OBL-GEN1 love III-become-PRS
+Translation: Immediately when they saw each other, they fell in love.
+Sentence: Yizi nexxo bukayrun, žas babiw žedus hunärƛin nexƛ’oräy, užä xexłiƛ’ ħumukuliƛ’ay q’ayn boɣno bazargan xizor utirno.
+Gloss: DEM2.IPL come-IPFV.CVB I.PL-see-IMM.ANT.CVB boy-GEN1 father DEM1.IPL-GEN1 way-IN.LAT-QUOT come-SIM.CVB boy-ERG quickness-SUPER.ESS camel-SUPER.ABL article-TOP III-take.away-PFV.CVB merchant back turn-PST.UNW
+Translation: When the boy's father came on their way as he saw them coming, the boy quickly took the goods off the camel and the merchant went back.
+
+Approximate Matches:
+Sentence: Aɣi bukayruntow nełaz maʕdinłiƛ’no ezun xan haqa ogun ƛexun.
+Gloss: bird III-see-IMM.ANT.CVB-EMPH DEM1.IISG.OBL-GEN2 beauty-SUPER.ESS-TOP look-PFV.CVB khan mouth-IN.ESS gape-PFV.CVB remain-PST.UNW
+Translation: When the king saw the bird, he stood there gaping about its beauty.
+Sentence: Butnoƛ’ pun bok’no äčiru žek’ur bazarganbi igoxxo bukayruntow, q’ecno rutirno, nełaƛ’ ƛ’iri k’ukno eqerno, yizi bayace butnoƛ’ puƛ’orno c’oxno, k’ukyoƛ’or ezun ičin.
+Gloss: burka-SUPER.ESS side-TOP III-hit-PFV.CVB be-PST.PRT man-LAT merchant-PL approach-IPFV.CVB I.PL-see-IMM.ANT.CVB-EMPH dirt-TOP IV-gather-PFV.CVB DEM1.IISG.OBL-SUPER.ESS above cap-TOP put-PFV.CVB DEM2.IPL I.PL-come-TERM burka-SUPER.ESS side-SUPER.LAT-TOP hit-PFV.CVB cap-SUPER.LAT look-PFV.CVB wait-PST.UNW
+Translation: When the person lying on his burka saw the merchants approaching, he collected dirt, put a cap over it and lied down on the burka again until they came; then he waited watching his cap.

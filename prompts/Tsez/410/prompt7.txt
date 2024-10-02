@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word oɣoƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word oɣoƛin: 
+
+Exact Matches
+Sentence: Di t’ay oɣoƛin eženi qˤaƛanayłin, aħyakin kurinč’ey, nesä nesiz guluƛ’no zown, oqno iduɣor ik’in.
+Gloss: me from.here take.away-IMPR-QUOT old-DEF yell-CNC.CVB ear-even spread.out-NEG.PST.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 horse-SUPER.ESS-TOP ride-PFV.CVB become-PFV.CVB home-IN.ALL go-PST.UNW
+Translation: Although the old man yelled: "Take me out of here!", he didn't even listen, sat upon his own horse and went home.
+
+Approximate Matches:
+Sentence: Ħoyäy magalu boɣoƛin Ħusenqor eƛinosi, mi bukarƛin ičin Ħusen.
+Gloss: oven-IN.ABL bread III-take.away-IMPR-QUOT Hussein-POSS.LAT say-ANT.CVB you III-show-QUOT wait-PST.UNW Hussein
+Translation: When he said to Hussein: "Take the bread out of the oven!", Hussein waited [saying]: "You show me!"
+Sentence: Sida quł däder q’arza bˤeƛ’ roɣoƛin Allah ays.
+Gloss: one.OBL day-CONT.ESS me-APUD.LAT duty sheep III.PL-take.away-IMPR-QUOT God come-PST.WIT
+Translation: One day God came to me: "Take the duty for the sheep away!"
+Sentence: Sasaqosi moƛaxay yizinosi, Bilq’isdä Allahqo harizi rodin, eli q’ˤanon debi laɣbi deber betixozołäysi besunäy, howt’otow elus ruħ boɣoƛin.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-ANT.CVB Bilqisdi-ERG God-POSS.ESS request IV-do-PST.UNW we two-TOP you-GEN1 slave-PL you-LAT I.PL-love-IPFV.CVB-ATTR.OBL-CONT.ABL-ATTR I.PL-appear-CND.CVB here-EMPH we(I).OBL-GEN1 soul III-take.away-IMPR-QUOT
+Translation: In the morning, when she got up from her sleep, Bilqisdi prayed to Allah: "If we two are not among the slaves you love, then take our souls right here!"

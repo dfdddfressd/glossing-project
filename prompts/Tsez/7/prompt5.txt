@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: qˤaba using Leipzig glossing symbols. The sentence this word is drawn from means: "And a black man riding on a black horse who came out of who-knows-where stole the princess' clothes, carried them away and sat down under a tree.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": qˤaba
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word qˤaba:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida quł ruzmanƛ’o xanä nazołno adäza sual erno, hič’č’an qˤaba hič’č’an kokoru, hič’č’an ʕedeʕaraw šebin šebiƛin.
+Gloss: one.OBL day-CONT.ESS Friday-SUPER.ESS khan-ERG everyone.OBL-CONT.ESS-TOP ahead question put-PST.UNW the.most-and black the.most-and soft the.most-and quick thing what-QUOT
+Translation: One Friday the king asked a question before everyone: "What is the blackest, softest and quickest thing?"
+Sentence: Sisgon däqor babiya eƛin zowsƛin, esin žoyä, yexoriłxosin, k’ot’oniłxosin, qˤaba, aluk’a yoqxosin gurow baru yawnoƛin.
+Gloss: one-CNTR me-POSS.LAT dad-ERG say-PFV.CVB be.NPRS-PST.WIT-QUOT tell-PST.UNW boy-ERG II-become.longer-PRS.PRT-TOP become.shorter-PRS.PRT-and black white II-become-PRS.PRT-and except wife II-marry-PROHIB-QUOT
+Translation: "My father said another thing to me:", told the boy, "Don't marry a wife unless she's becoming longer and shorter and is black and white."
+Sentence: Ɣudes sasaqaza elorno rayn sis aluk’a sideni qˤaba miƛ’bi riħanayxosi yoł.
+Gloss: daily in.the.morning-IN.VERS.DIST there-LAT-and III.PL-come-PFV.CVB one white other black ram-PL III.PL-fight-PRS.PRT be
+Translation: Every day in the morning, one white and one black ram came and were fighting.
+
+Approximate Matches:
+Sentence: Ečriłno exʷa zaman baynosi, nesä žaqor wasi bodin, di exunosi deber rätiza ɣˤutkun rodo, yexoriłxosin, k’ot’oniłxosin, aluk’an, qˤaban yoqxosi gurow barun yawno.
+Gloss: get.old-PFV.CVB die-INF time III-come-ANT.CVB DEM1.ISG.OBL-ERG son-POSS.LAT testament III-do-PST.UNW me die-ANT.CVB you-LAT IV-want-LCV house-TOP IV-do-IMPR II-become.longer-PRS.PRT-and become.shorter-PRS.PRT-and white-and black-and II-become-PRS.PRT except wife-TOP II-mouse-TOP
+Translation: He got older and when the time has come to die, he gave his testament to the son: "When I have died, you build a house where you want, but don't marry a woman except for one being black and white, be she long or short.
+Sentence: Aluk’anin, qˤabanin q’ˤanon gulubi rečuƛ ruqˤno xecinƛax.
+Gloss: white-DEF-and black-DEF-and two-TOP horse-PL cattleshed-SUB.ESS III.PL-hide-PFV.CVB leave-PST.UNW-QUOT
+Translation: The white and the black horses he left hidden in the cattleshed.
+Sentence: Sosisi yisä esinč’ey iča oqäsi zown, xizyo kidbä xecinč’izaƛ’ esin, hemedur xanä mužmareł sual neƛsi, hič’č’an qˤaban, hič’č’an kokorun, hič’č’an ʕedeʕaraw šebin šebiƛin.
+Gloss: at.first-ATTR DEM2.ISG.OBL-ERG tell-NEG.PST.CVB be-INF begin-RES.PRT be.NPRS-PFV.CVB afterwards daughter-ERG leave-NEG.FUT.CVB-CSL.CVB tell-PST.UNW so khan-ERG Friday-CONT.ESS question give-PST.WIT the.most-and black-and the.most-and soft-and the.most-and quick thing what-QUOT
+Translation: At first he didn't want to tell it, but then, because his daughter wouldn't leave him, he told: "The king asked a question this Friday: 'What is the blackest, softest and quickest thing?'

@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kidbes using Leipzig glossing symbols. The sentence this word is drawn from means: "And a black man riding on a black horse who came out of who-knows-where stole the princess' clothes, carried them away and sat down under a tree.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kidbes
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kidbes:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida quł neła kidbes eniw qˤišoder sis mučarin rižin ħonƛ’aɣor yik’ix zown.
+Gloss: one.OBL day-CONT.ESS DEM1.IISG.OBL girl-GEN1 mother at.noon one cumin-TOP IV-carry-PFV.CVB mountain-SUPER.VERS II-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: One day that girl's mother went to the mountain with a cumin cake.
+Sentence: Xanez kidbes eniw yoł di, där ža xedyox yik’izaƛ’or yukada retinƛin, yiła ader xot’o boɣno.
+Gloss: khan-GEN2 daughter-GEN1 mother be me me-LAT DEM1.SG husband-AD.ESS II-go-POST.CVB II-see-INF IV-want-PST.UNW-QUOT DEM2.IISG.OBL-ERG forward foot III-take.away-PST.UNW
+Translation: "I am the king's daughter's mother, I wanted to see her before she'd go to that husband.", and she put her foot forward.
+Sentence: Howlotow xanez kidbes nesiqor roƛ’i boqno.
+Gloss: there-EMPH khan-GEN2 daughter-GEN1 DEM1.ISG.OBL-POSS.LAT love III-become-PST.UNW
+Translation: Then the princess fell in love with him.
+
+Approximate Matches:
+Sentence: Bik’in žedu mesedyos nak’ila yałruni kidbez eniwder bayn.
+Gloss: I.PL-go-PST.UNW DEM1.IPL.OBL gold-GEN1 little.finger be-PST.PRT-DEF girl-GEN2 mother-APUD.LAT I.PL-come-PST.UNW
+Translation: They went on and came to the mother of the girl with the golden pinky.
+Sentence: Diwanyoƛ’or goƛ’inosi, Kusa eƛin, di xanez kidbede zows, nełar nuʕłi rodanix šebin däq yołƛin, yisä nełas bašiqˤoyn, žežuqay räč’ru musrabin, gedmoqay yeč’no zawruni č’irno yukarno.
+Gloss: judgement-SUPER.LAT invite-ANT.CVB Kusa-ERG say-PST.UNW me khan-GEN2 daughter-APUD.ESS be.NPRS-PST.WIT DEM1.IISG.OBL-LAT proof IV-do-MSD-AD.ESS thing me-POSS.ESS be-QUOT DEM2.ISG.OBL-ERG DEM1.IISG.OBL-GEN1 ring-and ponytail-POSS.ABL IV-cut-PST.PRT hair-PL-and shirt-POSS.ABL II-cut-PFV.CVB be.NPRS-PST.PRT-DEF ribbon-and II-show-PST.UNW
+Translation: After Kusa was invited to the court, he said: "I have been with the king's daughter, and I have things with me to prove that!"; he showed her ring, the hairs cut from her ponytail and the ribbon that he cut from her shirt.
+Sentence: Xanä madaxozoniqor eƛin, mesedyos q’ˤuri užiƛer teƛ, micxiryos - kidbeƛer, pakmos - ƛirbaqor, qacis q’ˤuri imyoqor yicin zawruni ɣˤanazaqor teƛƛin.
+Gloss: khan-ERG gate-AD.ESS-ATTR.OBL-DEF-POSS.LAT say-PST.UNW gold-GEN1 chair boy-SUB.LAT give silver-GEN1 - girl-SUB.LAT copper-GEN1 - guest-POSS.LAT wood-GEN1 chair pole-POSS.LAT II-tie-PFV.CVB be.NPRS-PST.PRT-DEF woman-POSS.LAT give-QUOT
+Translation: The king said to the guard: "Give the golden chair to the boy, the silver one to the girl, the copper one to the guest and the wooden one give to the woman who was tied to the pole."

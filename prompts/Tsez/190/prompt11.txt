@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Ražbadin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Ražbadin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Ražbadin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža kaɣat kidbeqor teƛƛ’oräy Tawadä eƛin, di maqˤir ok’łacen yičin yedu kaɣat Ražbadinqor teƛ.
+Gloss: DEM1.SG letter girl-POSS.LAT give-SIM.CVB Tavadi-ERG say-PST.UNW me far.away-LAT go.away-TERM-TOP II-wait-PFV.CVB DEM2.IISG letter Razhbadin-POSS.LAT give
+Translation: While he gave the letter to the girl, Tavadi said: "Until I got far away, wait and give this letter to Razhbadin.
+Sentence: Ražbadinzo halmaɣza ʕaƛos kidbabi sidaɣ mečoƛ’orno rutirno pˤaƛux zurma, bok’xo q’ili, k’oƛix łočyaƛ’.
+Gloss: Razhbadin-GEN2 friend-PL-ERG village-GEN1 girl-PL in.one.place place-SUPER.LAT-TOP II.PL-gather-PFV.CVB thrash-IPFV.CVB zurna III-beat-IPFV.CVB drum jump-IPFV.CVB dance-SUPER.ESS
+Translation: Razhbadin's friends gathered the village's girls in one place somewhere, thrashed the zurna, beated the drum and danced.
+Sentence: Ražbadinzo pikruƛ’ esnabin c’aq’tow razi boqno.
+Gloss: Razhbadin-GEN2 idea-SUPER.ESS brother-PL-TOP much-EMPH agree I.PL-become-PST.UNW
+Translation: His brothers heavily agreed on Razhbadin's idea.

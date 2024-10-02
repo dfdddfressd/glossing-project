@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mecreq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mecreq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mecreq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howži qˤays yxexoy aħo xäciza mečoƛ’orno bik’in, nełaz mecreq yisis mecno bitirerno, riya rodanix aħozis hibon bisno, xizor butin eniwdäɣortown butin.
+Gloss: now hare-GEN1 II-young.animal shepherd leave-LCV.CVB place-SUPER.LAT-TOP III-go-PFV.CVB DEM1.IISG.OBL-GEN2 tongue-POSS.ESS DEM2.ISG.OBL-GEN1 tongue-TOP III-touch-CAUS-PFV.CVB IV-know-INF IV-do-MSD-AD.ESS shepherd-GEN1 stick-TOP III-take-PFV.CVB back III-return-PFV.CVB mother-APUD.VERS-EMPH-TOP III-return-PST.UNW
+Translation: Now the rabbit's young went to the place where it had left the shepherd, touched his tongue with its own tongue and took the shepherd's stick for marking it, and returned back to its mother.
+
+Approximate Matches:
+Sentence: Tełäzay teqxo där, šida mi dey kid yaqˤuł nece kʷat’izi yoqäƛin, insanzo mecrexor eƛix.
+Gloss: inside-IN.ABL.DIST hear-IPFV.CVB me-LAT why you me-GEN1 daughter today so.much be.late II-become-PST.WIT.INT-QUOT human-GEN2 language-AD.LAT say-PRS
+Translation: I was hearing from inside: "Why are you, my daughter, so late today?", said in a human voice.
+Sentence: Hemedur däł adäzarno bayn, insanzo mecreƛ’ xabaryayn aɣä di mi ɣurox egiranƛin odäsi zownč’u, ži roda šebin anuƛinno eƛin ozƛäy gugisƛin.
+Gloss: so me-CONT.ESS before-IN.LAT-TOP III-come-PFV.CVB human-ATTR.OBL language-SUPER.ESS tell-PFV.CVB bird-ERG me you cows-AD.ESS send-FUT.DEF-QUOT do-RES.PRT be.NPRS-NEG.PST.WIT now IV-do-INF thing be.NEG-QUOT-TOP say-PFV.CVB eye-SUB.ABL escape-PST.WIT-QUOT
+Translation: "So, a bird arrived in front of me and talked in human language, saying: 'I didn't give birth to you to have you pasture the cows. But now there's nothing to do.', and escaped out of sight.
+Sentence: Ħonƛ’orno izin, regirno bixiłer ɣuron muši begiranix yeda q’ˤida ičinosi, nazay eƛa biynč’ey sis aɣi boƛixno yisiqor insanzo mecreƛ’no xabaryayn eƛin:
+Gloss: mountain-SUPER.LAT-TOP get.up-PFV.CVB IV-send-PFV.CVB grass-CONT.LAT cows-TOP breath III-let-MSD-AD.ESS DEM2.ISG down sit-ANT.CVB from.where say-INF III-know-NEG.PST.CVB one bird III-appear-PFV.CVB DEM2.ISG.OBL-POSS.LAT human-ATTR.OBL language-SUPER.ESS-TOP talk-PFV.CVB say-PST.UNW
+Translation: He climbed up the mountain and sent the cows onto the grass, and when he sat down to take a breath, a bird appeared out of nowhere and told him in human language:

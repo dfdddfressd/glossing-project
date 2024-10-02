@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: t’et’räsi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": t’et’räsi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word t’et’räsi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zownƛax zownanuƛax ʕelmu t’et’räsi Maħamaƛin ci yołäsi sida ʕaƛa žek’u.
+Gloss: be.NPRS-PFV.CVB-QUOT be.NPRS-PFV.CVB-NEG-QUOT science learn-RES.PRT Magomed-QUOT name be-RES.PRT one.OBL village-IN.ESS man
+Translation: Once upon a time there was a man learned in sciences in a village, whose name was Magomed.
+
+Approximate Matches:
+Sentence: Enda dey ečuy t’et’ra ižixƛin, esin Ħasanä raqru šebin.
+Gloss: DEM3b.SG me-GEN1 grandchild learn-INF lead-IPFV.CVB-QUOT tell-PST.UNW Hassan-ERG IV-happen-PST.PRT thing
+Translation: "I am bringing my grandson here to school.", Hassan told what had happened.
+Sentence: Yisä pikru bodin, didiwgon boqłin sida maxšelyoƛ’or ečula ʕUmar ruhun oqanix t’et’ra ižanƛin.
+Gloss: DEM2.ISG.OBL-ERG idea III-do-PFV.CVB which-CNTR III-become-CNC.CVB one.OBL skill-SUPER.LAT grandchild Umar learn become-MSD-AD.ESS learn-INF lead-FUT.DEF-QUOT
+Translation: He thought: "I'll lead my grandson Umar to learn so he can learn at least one skill."
+Sentence: Qˤaƛin Q’urʔan t’et’ra oqno dibir.
+Gloss: loudly Qur'ân read-INF begin-PST.UNW imam
+Translation: The imam began to read out the Qur'ân loudly.

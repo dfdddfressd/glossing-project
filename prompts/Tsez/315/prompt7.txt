@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bišra in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bišra: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyogon xanä dey oz bišroƛin eƛinosi, žoyä meɣyoqorno eƛin žedun bišerno.
+Gloss: then khan-ERG me-GEN1 army III-eat-CAUS-IMPR-QUOT say-ANT.CVB boy-ERG udder-POSS.LAT-TOP say-PFV.CVB DEM1.IPL-TOP I.PL-eat-CAUS-PST.UNW
+Translation: Then, when the king said: "Let my army eat!", the boy said [it] to his udder and let them eat.

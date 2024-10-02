@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kamirno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kamirno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kamirno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła quł užä ɣuro kamirno.
+Gloss: DEM1.IISG.OBL day-CONT.ESS boy-ERG cows lose-PST.UNW
+Translation: On that day, the boy lost the cows.
+
+Approximate Matches:
+Sentence: Harihun xabaryayx baƛ’ix žedu bik’iƛ’oräy, nełał xizay qˤaƛanayx durimoƛ’ k’oƛin kid yayx yukayn, eni, howlo yiči, oč’ira däz mučariłäy sis kamiruni mučari miyä risäƛin.
+Gloss: slowly talk-IPFV.CVB I.PL-talk-IPFV.CVB DEM1.IPL I.PL-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS behind yell-IPFV.CVB running run-PFV.CVB daughter II-come-IPFV.CVB II-see-PFV.CVB mother there II-remain nine me-GEN2 cumin-CONT.ABL one get.lost-PST.PRT-DEF cumin you-Q IV-take-PST.WIT.INT-QUOT
+Translation: While they were going slowly and talking, they saw her daughter running and yelling behind them: "Mother, stay there, did you take the one cumin cake that got lost from my nine?"
+Sentence: Šida ɣuro kamiräƛin, babiya dahaw ʕedeʕizi oynosi, moƛa iqirno ƛexun diƛin, babiwq heresi mec yesa bayn.
+Gloss: why cows lose-PST.WIT.INT-QUOT father-ERG a.little hurrying do-ANT.CVB sleep-IN.ESS take.away-PFV.CVB remain-PST.UNW me-QUOT father-POSS.ESS false language II-tell-INF III-must-PST.UNW
+Translation: "Why have you lost the cows?", the father scolded a little, so he had to tell his father the lie the he had fallen asleep.
+Sentence: Buqbetaxar kidbä siskin ziya kamirinč’ey, posures reqenno ʕaƛar bayrno yayn.
+Gloss: sunset-AD.VERS girl-ERG any cow lose-NEG.PST.CVB cattle-GEN1 herd-TOP village-IN.LAT III-lead-PFV.CVB II-come-PST.UNW
+Translation: Toward sunset, the girl hadn't lost any cow and led the cattle's herd back to the village and came back.

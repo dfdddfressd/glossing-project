@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roži in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roži: 
+
+Exact Matches
+Sentence: Min däqor łˤora ɣudin q’adaraw roži äƛinƛin”.
+Gloss: you-TOP me-POSS.LAT three.OBL day-TOP bad word say-PROHIB-QUOT
+Translation: And don't you say a bad word in these three days!'
+Sentence: Igtow xan ƛ’iri utinosi, yisä roži teƛno.
+Gloss: much-EMPH khan above turn-ANT.CVB DEM2.ISG.OBL-ERG word give-PST.UNW
+Translation: After the king insisted so much, he gave his word.
+Sentence: Behizi raqƛin, roži nełan teƛno.
+Gloss: permit IV-become-QUOT word DEM1.IISG.OBL-ERG-TOP give-PST.UNW
+Translation: "I permit it.", she gave her word.
+
+Approximate Matches:

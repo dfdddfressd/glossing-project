@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word elay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word elay: 
+
+Exact Matches
+Sentence: T’ok’ow bäxuru onočas xexoycekin elay iziłno anu.
+Gloss: anymore III-die-PST.PRT hen-GEN1 young.animal-EQU1-even there-IN.ABL get.up-POT-PST.UNW be.NEG
+Translation: He couldn't get up anymore, just like the little chicks of a dead hen.
+Sentence: Łˤora ɣudi yaħ bodin nesä, elay soder yaħ boqnoanu nesiq.
+Gloss: three.OBL day conscience III-do-PFV.CVB DEM1.ISG.OBL-ERG there-IN.ABL upward conscience III-become-PFV.CVB-NEG DEM1.ISG.OBL-POSS.ESS
+Translation: Three days he had his conscience, then his conscience wasn't enough anymore.
+Sentence: Xizyogon urɣizi oqno xan, c’ohores q’ˤim anunč’uruni cudi sidaɣ qunyoxorno bayran, nesiz ʕagarłä ža šudał šušanix elay bižinč’ey xäcinč’i, hemełƛ’o där šebi ža c’ohor yałrun äyƛin.
+Gloss: then thinking become-PST.UNW khan thief-GEN1 head be.NEG-NEG.PST.WIT-PST.PRT-DEF corpse in.one.place farmstead-AD.LAT-TOP III-bring-FUT.CVB DEM1.ISG.OBL-GEN2 relatives-ERG DEM1.SG graveyard-CONT.ESS bury-MSD-AD.ESS there-IN.ABL III-carry-NEG.PST.CVB leave-NEG.FUT DEM4.IISG.OBL-SUPER.ESS me-LAT who DEM1.SG thief be-PST.PRT-TOP know-QUOT
+Translation: Then the king pondered: "I will bring the thief's headless corpse to the farmstead, his relatives won't leave without taking him from there to bury him on a graveyard."
+
+Approximate Matches:

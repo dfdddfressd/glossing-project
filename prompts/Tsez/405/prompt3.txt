@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word teƛno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word teƛno: 
+
+Exact Matches
+Sentence: Neła žaqor beɣetow hibo teƛno.
+Gloss: DEM1.IISG.OBL-ERG boy-POSS.LAT III-small-EMPH stick give-PFV.CVB
+Translation: The eagle gave a small stick to the boy.
+Sentence: Bišan ħadur rodin ičäsi yałzay, mamalayƛ’no zown, ruk’ice mešok’la yołäsi sis t’omce žek’u oƛixno k’oƛin salam teƛno, assalamu ʕalaykumƛin.
+Gloss: food-TOP preparation IV-do-PFV.CVB be-RES.PRT be-SIM.CVB rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT one span-EQU1 man appear-PFV.CVB jump-PFV.CVB greeting give-PST.UNW peace. ...be.with.you-QUOT
+Translation: While he was preparing the food, a man in the size of a span with a moustache in the length of one cubit came riding on a rooster, jumped off and greeted: "Peace be with you!"
+Sentence: Roƛik’u xanłin teƛno, xanä bisno ža.
+Gloss: IV-half khanate-TOP give-PFV.CVB khan-ERG III-buy-PST.UNW DEM1.SG
+Translation: The king gave him half the kingdom and bought the bird.
+
+Approximate Matches:
+Sentence: Yizi biħanayxozo mečoƛ’or ayn, yisä salam teƛnosi, ʕoƛiran esnaza yisis salam butirno, yiziƛ’ biħanada bayrut’anibi yołi täqinč’irus riłe royn bičin.
+Gloss: DEM2.IPL.OBL I.PL-fight-PRS.PRT.OBL place-SUPER.LAT come-PFV.CVB DEM2.ISG.OBL-ERG greeting give-ANT.CVB seven.OBL-TOP brother-PL-ERG DEM2.ISG.OBL-GEN1 greeting III-give.back-PFV.CVB DEM2.IPL.OBL-SUPER.ESS I.PL-fight-INF I.PL-come-PST.PRT-DISTR-DEF-PL however hear-NEG.FUT.CVB-PST.PRT-GEN1 IV-as IV-do-PFV.CVB I.PL-be-PST.UNW
+Translation: He went to the place where they were fighting, and when he greeted them, the seven brothers gave back the greeting, the ones they were fighting however pretended not to have heard anything.
+Sentence: Ziyan tupiƛ teƛno, yeda uži uyxor bazaryaɣor ik’in, žan teƛnogon šeƛ’u risanƛin.
+Gloss: cow-TOP rifle-SUB.ESS sell-PFV.CVB DEM2.ISG boy straight bazar-IN.VERS go-PST.UNW DEM1.SG-TOP sell-PFV.CVB-CNTR clothing IV-buy-FUT.DEF-QUOT
+Translation: The boy sold his cow for the rifle and went straight to the market with the intention of selling it and buying clothes.
+Sentence: Mekos nece ħal boqzaƛ’, roɣno ozuri teƛnosi dandi, žukani halmaɣä igunir rac’a biša teƛno.
+Gloss: hunger-GEN1 so.much strength III-become-CSL.CVB IV-take.away-PFV.CVB eye give-ANT.CVB now worse-MSD friend-ERG good-DEF-LAT IV-eat-INF food give-PST.UNW
+Translation: Because the hunger's strength got so big, he took away his eye and gave it to him, and the bad friend gave the good one food to eat, right away.

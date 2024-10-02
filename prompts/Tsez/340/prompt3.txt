@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word čeranayzaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word čeranayzaƛ: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Šida mi yaqˤułgon at’iw qaca rayräƛin onoču c’ok’inayzaƛ’, mamalayä di kecno ƛexunƛint’a žawab teƛxo zown.
+Gloss: why you today-CNTR wet firewood IV-bring-PST.WIT.INT-QUOT hen scold-CSL.CVB rooster-ERG me sleep-PFV.CVB remain-PFV.CVB-QUOT-DISTR answer give-IPFV.CVB be.NPRS-PST.UNW
+Translation: When the hen scolded: "Why have you brought wet firewood again, today?", the rooster answered that he slept in.

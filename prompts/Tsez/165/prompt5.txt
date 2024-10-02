@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ruyä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ruyä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ruyä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yaynosi eniya esirno nesiq, łinaq nece q’ʷarid oqno ičäsi, debi ruyä roƛxoƛin.
+Gloss: II-come-ANT.CVB mother-ERG ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS what.OBL-POSS.ESS so.much sadness become-PFV.CVB be-RES.PRT you-GEN1 IV-indeed-Q IV-be.sick-PRS-QUOT
+Translation: When the mother came home, she asked: "What are you so sad about, are you sick?"
+
+Approximate Matches:

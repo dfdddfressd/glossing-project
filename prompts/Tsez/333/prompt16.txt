@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word c’axrun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word c’axrun: 
+
+Exact Matches
+Sentence: C’irduxƛ’o ozuri c’axrun, sis qˤaƛun rok’no Qartay ɣunoq yiza c’oxno, žaqˤułgon narey mi däqay ok’łanƛin.
+Gloss: Tsirdukh-SUPER.ESS eye meet-IMM.ANT.CVB one shout-TOP IV-beat-PFV.CVB Qartay tree-POSS.ESS DEM2.IIPL.OBL pounce-PFV.CVB today-CNTR where-DUB you me-POSS.ABL escape-FUT.DEF-QUOT
+Translation: Just when Qartay discovered Tsirdukh, she gave out a shout, pounced to/up the tree, [saying]: "Where will you escape to from me today?"
+Sentence: Yisił dandir c’axrun eženä eƛin, horo ela gulubi ħažan, yiła sis čuret’ bok’näy ʕoƛno ħon xecixosi, ži di eže izäsi oqzaƛ’, yedu deber biča bayƛin.
+Gloss: DEM2.ISG.OBL-CONT.ESS towards meet-IMM.ANT.CVB old-DEF-ERG say-PST.UNW come.IMPR we(I).OBL-ERG horse-PL exchange-FUT.DEF DEM2.IISG.OBL-ERG one whip III-beat-CND.CVB seven mountain leave-PRS.PRT now me old get-RES.PRT become-CSL.CVB DEM2.IISG you-LAT III-be-INF III-must-QUOT
+Translation: Right when he came towards him, the old man said: "Come, let's exchange horses! When I beat the whip, he lets seven mountains behind him; because I have become old now, he shall be yours."
+Sentence: Ozuri c’axrun kidber riyn ža nełas bašiqˤoy yałrułi.
+Gloss: eye hit-IMM.ANT.CVB girl-LAT IV-know-PST.UNW DEM1.SG DEM1.IISG.OBL-GEN1 ring be-MSD
+Translation: When the girl saw it, she immediately knew that it was her ring.
+
+Approximate Matches:
+Sentence: Suƛƛi yeda Ismaʕil ozyoł łic’axrun, t’it’in bešerxotow bižix zown yisä xanes oz.
+Gloss: immediately DEM2.ISG Ismail army-CONT.ESS join-IMM.ANT.CVB fell-PFV.CVB I.PL-fall-CAUS-IPFV.CVB-EMPH I.PL-take.out-IPFV.CVB be.NPRS-PFV.CVB DEM2.ISG.OBL-ERG khan-GEN1 army
+Translation: And immediately that Ismail joined that army and fell, cut down and took out the king's army.

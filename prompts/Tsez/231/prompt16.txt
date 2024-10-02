@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šušis in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šušis: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yisä eƛin, yexuran yexurno di ža rečuƛ rekuyał šušisƛin, dibirä ʕantawni esiw ižin baru šaširuni moči bukarera.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW II-kill-FUT.CVB II-kill-PFV.CVB me DEM1.SG cattleshed-SUB.ESS manure-CONT.ESS bury-PST.WIT-QUOT mullah-ERG stupid-DEF brother lead-PST.UNW wife bury-PST.PRT-DEF place III-show-CAUS-INF
+Translation: He said: "I have indeed killed your wife and burried her in the manure in the shed.", and the mullah led the stupid brother to show him the place where he burried his wife.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Xanä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Xanä: 
+
+Exact Matches
+Sentence: Mi saɣ yayruni kid däz žax yaqˤuł yowxƛin, xanä madał adäzar boɣno berten.
+Gloss: you cure II-do-PST.PRT-DEF girl me-GEN2 son-AD.ESS today II-bring-PRS-QUOT khan-ERG yard-CONT.ESS before-IN.LAT III-take.away-PFV.CVB marriage
+Translation: "My son marry today that girl, you are cured," and khan moved the wedding into the yard.
+Sentence: Neširu xanä elo nasin sidaɣor butirnosi, xanä eƛin, di łi ħaƛuxosi t’akan sasaqor howt’or yayäru žek’ux kid yegira yołƛin.
+Gloss: evening khan-ERG there all one.OBL-IN.VERS I.PL-gather-ANT.CVB khan-ERG say-PFV.CVB me water drink-PRS.PRT glass tomorrow-POSS.LAT here-LAT II-bring-PST.PRT man-AD.ESS daughter II-send-INF be-QUOT
+Translation: In the evening the king gather everyone together and said: "I will marry my daughter off to the man who can bring my water-drinking-glass here tomorrow!"
+Sentence: Neširu xanä elo nasin sidaɣor butirnosi, xanä eƛin, di łi ħaƛuxosi t’akan sasaqor howt’or yayäru žek’ux kid yegira yołƛin.
+Gloss: evening khan-ERG there all one.OBL-IN.VERS I.PL-gather-ANT.CVB khan-ERG say-PFV.CVB me water drink-PRS.PRT glass tomorrow-POSS.LAT here-LAT II-bring-PST.PRT man-AD.ESS daughter II-send-INF be-QUOT
+Translation: In the evening the king gather everyone together and said: "I will marry my daughter off to the man who can bring my water-drinking-glass here tomorrow!"
+
+Approximate Matches:

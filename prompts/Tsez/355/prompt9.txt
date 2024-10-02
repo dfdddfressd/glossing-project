@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word biqisƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word biqisƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yedu haqa yogun ƛexun, nece bercinawn, č’uħarawn šeƛ’u yiła best’alawni kidber naey riqisƛin.
+Gloss: DEM2.IISG mouth-IN.ESS II-gape-PFV.CVB remain-PST.UNW so.much beautiful-and gorgeous-and clothing DEM2.IISG.OBL step-DEF girl-LAT where-DUB IV-get-PST.WIT-QUOT
+Translation: She was gaping: "Where the heck did the 'stepgirl' get so beautiful and gorgeous clothes from?"
+Sentence: Neła žedu esnabi iduɣor goƛ’in, där nešurur rac’anix šebin riqisƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.IPL brother-PL home-IN.ALL invite-PFV.CVB me-LAT evening-LAT IV-eat-MSD-AD.ESS thing IV-get-PST.WIT-QUOT
+Translation: He invited the brothers into his home: "I got something for dinner."

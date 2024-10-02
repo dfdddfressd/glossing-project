@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iħu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iħu: 
+
+Exact Matches
+Sentence: Waħħo gibu bukayn gurow, iħu taqˤor baɣnoƛinno, eƛin šeyxä, žaqay ɣˤurušno yoɣno.
+Gloss: below-AD.ESS sand III-see-PFV.CVB except river over.there-LAT III-cross-PROHIB-QUOT-TOP say-PFV.CVB sheikh-ERG boy-POSS.ABL ruble-TOP II-take.away-PST.UNW
+Translation: "Don't cross the river unless you see the sand below!", said the sheikh and took the ruble from the boy.
+Sentence: Elo roqno sis ixiw bercinaw ɣˤutkun, sidadäza puƛ’aza bik’ixƛax ɣˤays iħu, sidadäzagon łäs iħu.
+Gloss: there IV-become-PFV.CVB one big beautiful house-TOP one.OBL-APUD.VERS.DIST side-SUPER.VERS.DIST III-go-PRS-QUOT milk-GEN1 river one.OBL-APUD.VERS.DIST-CNTR water-GEN1 river
+Translation: There came a big beautiful house into being, with a milk river flowing on the one side and a water river on the other.
+Sentence: Elo roqno sis ixiw bercinaw ɣˤutkun, sidadäza puƛ’aza bik’ixƛax ɣˤays iħu, sidadäzagon łäs iħu.
+Gloss: there IV-become-PFV.CVB one big beautiful house-TOP one.OBL-APUD.VERS.DIST side-SUPER.VERS.DIST III-go-PRS-QUOT milk-GEN1 river one.OBL-APUD.VERS.DIST-CNTR water-GEN1 river
+Translation: There came a big beautiful house into being, with a milk river flowing on the one side and a water river on the other.
+
+Approximate Matches:

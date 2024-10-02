@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕiyayx in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕiyayx: 
+
+Exact Matches
+Sentence: Dowqosi ged där ħažan yetin ʕiyayx yedaƛin”.
+Gloss: you-POSS.ESS-ATTR shirt me-LAT exchange-FUT.DEF II-want-PFV.CVB cry-PRS DEM2.ISG-QUOT
+Translation: "He cries, because he wants that I exchange your dress with mine."
+Sentence: Way, mi exurno äsuƛin ʕiyayx zowsƛin”, - esin yizä.
+Gloss: o.dear you kill-PFV.CVB appear-QUOT cry-IPFV.CVB be.NPRS-PST.WIT-QUOT - tell-PST.UNW DEM2.IIPL.OBL-ERG
+Translation: "O dear, we were crying because we thought you had been killed!", they said.
+Sentence: Ža soder iziƛ’oräy, qoqoƛix izix zown, wˤałer oqƛ’oräy ʕiyayx oqxo zown.
+Gloss: DEM1.SG after get.up-SIM.CVB laugh-IPFV.CVB get.up-IPFV.CVB be.NPRS-PFV.CVB downward-LAT become-SIM.CVB cry-IPFV.CVB become-IPFV.CVB be.NPRS-PST.UNW
+Translation: While he was going up, he laughed, and while he was going down, he cryed.
+
+Approximate Matches:
+Sentence: Eloša raładyołsi aluk’ani gagalin betin yeda ʕiyayxƛin”.
+Gloss: there sea-CONT.ESS-ATTR white-DEF flower-TOP III-want-PFV.CVB DEM2.ISG cry-PRS-QUOT
+Translation: He is crying because he want's to have that white flower over there in the sea.
+Sentence: Di nesix ʕiyayxanu, enła bäxuruni tungix ʕiyayxƛin, žagon där iyxosi žek’ukin anuƛin.
+Gloss: me DEM1.ISG.OBL-AD.ESS cry-IPFV.CVB-NEG DEM3b.IISG.OBL-ERG III-die-PST.PRT-DEF copper.jug-AD.ESS cry-PRS-QUOT DEM1.SG-CNTR me-LAT know-PRS.PRT man-even be.NEG-QUOT
+Translation: "I am not crying for him, I'm crying for the broken jug. I don't know this man."
+Sentence: Nesä ƛirbaq esirno, yedu ɣˤanabi šida qˤaƛanayx ʕiyayxƛin.
+Gloss: DEM1.ISG.OBL-ERG guest-POSS.ESS ask-PST.UNW DEM2.IISG woman why yell-IPFV.CVB cry-PRS-QUOT
+Translation: He asked the guest: "Why is this woman yelling and crying?"

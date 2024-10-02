@@ -1,0 +1,21 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: esarus using Leipzig glossing symbols. The sentence this word is drawn from means: "The boy gave the shepherds who had found him a big present and sent them back.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": esarus
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word esarus:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:

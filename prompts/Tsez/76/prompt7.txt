@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: gulu.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": gulu
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word gulu:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ceyä yisir bigu gulu teƛno.
+Gloss: eagle-ERG DEM2.ISG.OBL-LAT III-good horse give-PFV.CVB
+Translation: The eagle gave him a good horse.
+Sentence: Sasaq qˤašinosi, Ismaʕil hunixor oqanix ħadur oqxo ukaynosi, ʕArabuzanä gulu bˤaƛoyn, din dowde sadaq yik’ixƛin.
+Gloss: in.the.morning get.up-ANT.CVB Ismail way-AD.LAT become-MSD-AD.ESS prepare become-IPFV.CVB see-ANT.CVB Arabuzan-ERG horse III-harness-PFV.CVB me-and you-APUD.ESS together II-go-PRS-QUOT
+Translation: After she got up in the morning and saw that Ismail was preparing to get on his way, Arabuzan harnessed her horse: "I am going with you."
+Sentence: Idurno yayngon yiła, mi gulu bayrno zown anuwaƛin, esiwqor eƛinosi, nesir neła gulu bac’rułi čuqˤno.
+Gloss: home-LAT-TOP II-come-PFV.CVB-CNTR DEM2.IISG.OBL-ERG you horse III-bring-PFV.CVB be.NPRS-PFV.CVB be.NEG-Q-QUOT brother-POSS.LAT say-ANT.CVB DEM1.ISG.OBL-LAT DEM1.IISG.OBL-ERG horse III-eat-MSD notice-PST.UNW
+Translation: When she went back into the house and said to the brother: "Didn't you bring a horse along?", he noticed that she had eaten the horse.
+
+Approximate Matches:

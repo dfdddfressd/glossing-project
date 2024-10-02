@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bukays.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bukays
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bukays:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ƛ’ˤuƛ’or bizin bezunosi, elo yizir gondu yesun, elo tełer bezunosi, aždaħ bukayn.
+Gloss: roof-SUPER.LAT I.PL-get.up-PST.UNW I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT big.hole II-find-PFV.CVB there into I.PL-look-ANT.CVB dragon III-see-PST.UNW
+Translation: They got up onto the roof, had a look and found a big hole; when they looked into it, they saw the dragon.
+Sentence: Sidaquł yiłar ciqqo Allahes ašuni bukayn.
+Gloss: one.day DEM2.IISG.OBL-LAT forest-POSS.ESS God-GEN1 belt III-see-PST.UNW
+Translation: One day she saw a rainbow in the forest.
+Sentence: Howži yiła eƛin, didur di hoboy łaƛ’or yik’iƛ’oräy esiws žanaza bukaynosi, ʕiyaynč’ey yik’anƛin.
+Gloss: now DEM2.IISG.OBL-ERG say-PST.UNW how me now water-SUPER.LAT II-go-SIM.CVB brother-GEN1 corpse III-see-ANT.CVB cry-NEG.PST.CVB II-go-FUT.DEF-QUOT
+Translation: Now she said: "How, while I'm going to fetch water, am I going to go without crying when I see my brother's corpse?"

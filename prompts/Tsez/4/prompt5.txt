@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ixiw using Leipzig glossing symbols. The sentence this word is drawn from means: "The boy gave the shepherds who had found him a big present and sent them back.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ixiw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ixiw:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Esnazał xizaz ixiw raład boqno.
+Gloss: sister-PL-CONT.ESS behind big sea III-become-PST.UNW
+Translation: And a big sea formed behind the sisters.
+Sentence: Äzuru yisir ciqez raʕalłix yałruni sida ixiw ɣunoq soder bizix aždaħ-bikori bukayn.
+Gloss: look-PST.PRT DEM2.ISG.OBL-LAT forest-GEN2 edge-AD.ESS be-PST.PRT-DEF one.OBL big tree-POSS.ESS upward III-get.up-IPFV.CVB dragon~snake III-see-PST.UNW
+Translation: Looking around, he saw a dragon-snake climbing a tree that was standing at the edge of the forest.
+Sentence: Howła imadał hič’č’a ixiw šebi yoł: isä, ceyä, t’ekayä, aħoyä, ziruyä, q’orol ɣˤanabiyä?
+Gloss: DEM3.IISG.OBL tale-CONT.ESS the.most big who be conceive eagle-Q he.goat-Q shepherd-Q fox-Q widowed woman-Q
+Translation: Who is the biggest one in this tale: The bull, the eagle, the goat, the shepherd, the fox or the widow?
+
+Approximate Matches:

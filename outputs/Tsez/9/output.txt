@@ -1,0 +1,72 @@
+{
+  "word": "Nesiq",
+  "glosses": [
+    "mouth",
+    "freeze",
+    "tell"
+  ]
+}
+{
+  "word": "ža",
+  "glosses": [
+    "2SG.POSS",
+    "MOUTH",
+    "FREEZE"
+  ]
+}
+{
+  "word": "esizaƛ",
+  "glosses": [
+    "III-freeze-PFV.CVB",
+    "III-mute-PFV.CVB",
+    "III-scold-PFV.CVB"
+  ]
+}
+{
+  "word": "debi",
+  "glosses": [
+    "II-scold-PST",
+    "II-scold-PRS",
+    "II-scold-IMP"
+  ]
+}
+{
+  "word": "haqo",
+  "glosses": [
+    "mouth",
+    "freeze",
+    "tell"
+  ]
+}
+{
+  "word": "azirodoƛƛin",
+  "glosses": [
+    "mouth-freeze.OPT-QUOT",
+    "tell-PST.PRT-GEN1",
+    "_______"
+  ]
+}
+{
+  "word": "c’ok’inayn",
+  "glosses": [
+    "scold-PST.UNW",
+    "scold-PST.UNW",
+    "scold-PST.UNW"
+  ]
+}
+{
+  "word": "qˤay",
+  "glosses": [
+    "3SG.FEM-ERG",
+    "mouth",
+    "freeze"
+  ]
+}
+{
+  "word": "xexoyqor",
+  "glosses": [
+    "young.animal-PL-GEN1",
+    "young",
+    "offspring"
+  ]
+}

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rutir in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rutir: 
+
+Exact Matches
+Sentence: Zira eƛin, nedur resunäy, hawaƛ’osi mi rutir, q’ˤidasi di rutiran.
+Gloss: fox-ERG say-PST.UNW so IV-exist-CND.CVB air-SUPER.ESS-ATTR you IV-gather down-ATTR me IV-gather-FUT.DEF
+Translation: The fox said: "If that's the case, collect what's in the air and I will collect what's on the ground.
+
+Approximate Matches:
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+Sentence: Bac’alä łi boc’i teł yałruni imxaɣor rutirno.
+Gloss: Batsali-ERG water wolf inside be-PST.PRT-DEF cave-IN.VERS IV-turn-PST.UNW
+Translation: Batsali turned the water into the cave which the wolf was inside.
+Sentence: Nesis ozuri roƛa rutirzaƛ’, ʕaƛaɣor žamaʕatyoƛ’or xabar begirno, däz ozäɣor räk’iru šebi eƛa räynč’iru šebin roɣʷa horoƛin.
+Gloss: DEM1.ISG.OBL-GEN1 eye IV-be.sick-INF IV-turn-CSL.CVB village-IN.VERS population-SUPER.LAT story III-send-PFV.CVB me-GEN2 eye-IN.VERS IV-go-PST.PRT what say-INF IV-know-NEG.FUT-PST.PRT thing IV-take.away-INF come.IMPR-QUOT
+Translation: Because his eye got hurt, he told it to the people in the village, "Something I don't know came into my eye; come and take it out!"

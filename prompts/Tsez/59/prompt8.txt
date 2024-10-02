@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bikori.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bikori
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bikori:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Užä žeduqor eƛin, ža bikori sida ħala xec meža, neła mežur royxosi žukłi šebiƛin.
+Gloss: boy-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW DEM1.SG snake one.OBL condition-IN.ESS leave you(I).PL.OBL-ERG DEM1.IISG.OBL-ERG you(I).PL.OBL-LAT IV-do-PRS.PRT evil what-QUOT
+Translation: The boy said to them: "Let go of the snake, what's the evil thing it has done to you?!"
+Sentence: Nełƛ’osi ɣudbi rik’inosi, sida quł iħuz lilyox yisir bikori besun.
+Gloss: of.that.time day-PL IV.PL-go-ANT.CVB one.OBL day-CONT.ESS river-GEN2 river.bank-AD.ESS DEM2.ISG.OBL-LAT snake III-find-PST.UNW
+Translation: From then on the days went by, and one day he found a snake at the river bank.
+Sentence: Zamanałäy yizi sidaɣ q’ˤunader huni č’ˤaƛäłza mečoƛ’or baynosi, sidaɣaza hunä kid yegirno, sidaɣaza bikori bik’in.
+Gloss: time-CONT.ABL DEM2.IPL.OBL in.one.place two.OBL-APUD.LAT way be.cut-LCV.CVB place-SUPER.LAT III-come-ANT.CVB in.one.place-IN.VERS.DIST way-ERG girl II-send-PFV.CVB in.one.place-IN.VERS.DIST snake III-go-PST.UNW
+Translation: When, after a while, they came to a point where the road forked, the snake sent the girl the one way and itself went the other one.
+
+Approximate Matches:
+Sentence: Q’ˤida muɣno hiƛirno, neła ža hič’č’a rečiwsi riqirno qaca q’ˤidar karun, nełłäy bikorin boqno, bet’unč’ey žedałtow xizay nexxo zown.
+Gloss: down bundle-TOP place.comfortably-PFV.CVB DEM1.IISG.OBL-ERG DEM1.SG the.most IV-thick-ATTR IV-take.away-PFV.CVB firewood down-LAT throw-IMM.ANT.CVB DEM1.IISG.OBL-CONT.ABL snake-TOP III-become-PFV.CVB III-stay.behind-NEG.PST.CVB DEM1.IIPL.OBL-CONT.ESS-EMPH behind come-IPFV.CVB be.NPRS-PST.UNW
+Translation: She put the bundle down, and the thickest piece of firewood that she threw down, turned into a snake, which didn't stay behind, but followed them.
+Sentence: Ħon-bahadurä rok’no mač’an łˤonon bikoris q’ˤim reč’no kurno.
+Gloss: Mountain~Hero-ERG IV-beat-PFV.CVB dagger-TOP three-TOP snake-GEN1 head IV.PL-cut-PFV.CVB throw-PST.UNW
+Translation: Mountain~Hero beated with his dagger and chopped off the tree heads of the snake.
+Sentence: Howlaytow bitor adäz bikorin, xizaz kidno hunix boqno bikorzo iduɣorƛin bik’in.
+Gloss: from.there-EMPH thither ahead snake-TOP from.behind daughter-TOP way-AD.ESS III-become-PFV.CVB snake-ATTR.OBL home-IN.ALL-QUOT III-go-PST.UNW
+Translation: From then on, the snake went ahead with the daughter following it, until it came to the snake's house.

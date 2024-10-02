@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: tutäsi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": tutäsi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word tutäsi:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elo ƛirbałix sida ɣˤanazader keze oqnosi, yisir neł ʕaƛnos xalq’i sidaɣor butäsi bukayn.
+Gloss: there hospitality-AD.ESS one.OBL woman-APUD.LAT meet become-ANT.CVB DEM2.ISG.OBL-LAT DEM1.IISG.OBL village-and-GEN1 people one.OBL-IN.VERS III-turn-RES.PRT III-see-PST.UNW
+Translation: When he became the guest of a woman there, he saw the people of the village gathering in some place.
+Sentence: Walla xan, di ša bodanix k’udi q’uq’iƛ’orey, elo šet’u butäsi hadambi boqzaƛ’, aqˤu kuča maħorno oqa iynč’ey howlo tełer kučis.
+Gloss: wallah khan me wine III-do-MSD-AD.ESS vine press.out-SIM.CVB there around III-turn.back-RES.PRT people III-happen-CSL.CVB urine defecate-INF outside-TOP become-INF know-NEG.PST.UNW there into defecate-PST.WIT
+Translation: "By God, o king, while I was pressing out the grapes to make the wine, there were people who were walking around there and without me knowing took a piss in there."

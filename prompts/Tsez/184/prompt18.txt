@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ƛ’irizo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ƛ’irizo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ƛ’irizo:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hemedur ƛ’irizoni dunyalƛ’or yedan ayrno, xizor butin ceyn bik’in.
+Gloss: so above-ATTR.OBL-DEF world-SUPER.LAT DEM2.ISG-TOP bring-PFV.CVB back III-return-PFV.CVB eagle-TOP III-go-PST.UNW
+Translation: So the eagle brought him into the world above and turned back.
+Sentence: Nełaƛ’no zowerno yeda ƛ’irizoni dunyalƛ’aɣor egirno.
+Gloss: DEM1.IISG.OBL-SUPER.ESS-TOP seat-PFV.CVB DEM2.ISG above-ATTR.OBL-DEF world-SUPER.VERS send-PST.UNW
+Translation: They seated him onto it and sent him to the world above.
+Sentence: Xanes uži yisä akiłno q’ˤidar ʕoƛ’ace naysinan kerozaq ezu-ʕaƛ’urno, amma ƛ’irizoni ɣˤutkaɣor ezura ižinanu yisä yeda.
+Gloss: khan-GEN1 son DEM2.ISG.OBL-ERG get.tired-PFV.CVB down-LAT fall-TERM everywhere ravine-PL-POSS.ESS examine-CAUS-PFV.CVB but above-ATTR.OBL-DEF room-IN.VERS show-INF lead-PFV.CVB-NEG DEM2.ISG.OBL-ERG DEM2.ISG
+Translation: He lead him through the ravines and showed him everything until he got tired and fell down, but he didn't lead him to show him the room above.

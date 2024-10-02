@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word dowƛ’ay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word dowƛ’ay: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Užä žawab teƛno, šida mi di begirno xecixanu, dowƛ’aygon q’ʷariłiƛ’ din oqzaƛ’ƛin.
+Gloss: boy-ERG answer give-PST.UNW why you me III-send-PFV.CVB leave-PRS-NEG you-SUPER.ABL-CNTR sadness-SUPER.ESS me-TOP become-CSL.CVB-QUOT
+Translation: The boy answered, "Why would I not leave you, when I'm much more sad than you?"

@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iłiran in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iłiran: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Howži hudu xanä nesiqor eƛin, nedur resunäy, hi, enda micxir beč’xosi kesun biso, iłira becider mi nełdär ezäɣor izinč’inäy, debi di meč’ beč’a yołƛin.
+Gloss: now then khan-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW so IV-find-CND.CVB take.IMP DEM3b.SG money III-cut-IPFV.CVB-ATTR form-TOP III-take-IMPR six.OBL month-APUD.LAT you DEM1.IISG.OBL-APUD.VERS fortress-IN.VERS get.up-NEG.FUT.CVB-CND.CVB you-GEN1 me neck III-cut-INF be-QUOT
+Translation: Then the king said to him: "If that's the case, here, take the coining form, and if you haven't gotten up the fortress to her within six months, I will cut off your neck."

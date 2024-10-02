@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: girimozaƛ’or.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": girimozaƛ’or
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word girimozaƛ’or:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Užä žawab teƛno, yaqˤuł di besurozaƛ’or ik’ixƛin.
+Gloss: son-ERG answer give-PFV.CVB today me fish-PL-SUPER.LAT go-PRS-QUOT
+Translation: The son replied: "Today I am going fishing."
+Sentence: Łˤono äƛiru ɣudełno, babiws ħal bayrinč’ey, besurozaƛ’or užitow ik’in.
+Gloss: three ORD day-CONT.ESS-TOP father-GEN1 strength III-bring-NEG.PST.UNW fish-PL-SUPER.LAT boy-EMPH go-PST.UNW
+Translation: And on the third day, although the father was against it, the boy went fishing nonetheless.
+Sentence: Hudayzikon uži besurozaƛ’or ik’in, hemedurtow biqinč’ey aynosi, babiw igza ħalał aƛ’in.
+Gloss: the.next.day-TOP boy fish-PL-SUPER.LAT go-PFV.CVB so-EMPH III-get-NEG.PST.CVB come-ANT.CVB father well-ZA with.difficulties scold-PST.UNW
+Translation: The next day when the boy went after fish again, didn't catch any either and came back, the father scolded him pretty much.

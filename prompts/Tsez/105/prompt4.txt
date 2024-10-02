@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žader.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žader
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žader:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: K’oƛin yik’in žader kid ixiwt’a muši kurxo yičin.
+Gloss: run-PFV.CVB II-go-PFV.CVB boy-APUD.LAT daughter big-DISTR air throw-IPFV.CVB II-be-PST.UNW
+Translation: His daughter came running and moaned heavily at the boy.
+Sentence: Hemeł zamanał žader yexora kot’u yołäsi sis ečru žek’u oƛixno k’oƛin žaq esirno, šida mi nece q’ʷarid ičäsiƛin.
+Gloss: DEM4.IISG.OBL time-CONT.ESS boy-APUD.LAT II-long beard be-RES.PRT one old man appear-PFV.CVB run-PFV.CVB boy-POSS.ESS ask-PST.UNW why you so.much sadness be-RES.PRT-QUOT
+Translation: Some time later an old man with a long beard came running and asked the boy: "Why are you so sad?"
+Sentence: Babiwƛ’ nediw ɣudi rukayzaƛ’, kid žigon yizin žader tusnaq’ärno yik’in akixor yaynosi, ixiw muši kurno.
+Gloss: father-SUPER.ESS such day IV-see-CSL.CVB girl again.now II-get.up-PFV.CVB boy-APUD.LAT prison-IN.LAT-TOP II-go-PFV.CVB window-AD.LAT II-come-ANT.CVB big air throw-PST.UNW
+Translation: When she saw the hazzle on her father, the girl got up again and went into the prison to the boy, and moaned, when she came to the window.
+
+Approximate Matches:
+Sentence: Assalamu ʕalaykumƛin salamno teƛno, babiwderno, žaderno dandirno nexno nesä esirno, meža sapar naɣor bicäsi yołƛin.
+Gloss: peace. ...be.with.you-QUOT greeting-TOP give-PFV.CVB father-APUD.LAT-and son-APUD.LAT-and together-TOP come-PFV.CVB DEM1.ISG.OBL-ERG ask-PST.UNW you(I).PL.OBL-ERG journey where-IN.VERS I.PL-follow-RES.PRT be-QUOT
+Translation: "Peace be with you!", he greeted and came with the father and his son and asked: "Where are you heading?"

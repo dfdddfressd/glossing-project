@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: äsiruxor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": äsiruxor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word äsiruxor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Q’orola äsiruxor rodin xanä.
+Gloss: widow-ERG tell-PST.PRT-AD.LAT IV-do-PST.UNW khan-ERG
+Translation: The king acted as the widow told.
+
+Approximate Matches:
+Sentence: Šet’urno bezu-bˤoƛ’un, neła nasin č’urambi rukayxosi močibi äsiruxorgon, nesä ok’bi paqˤƛirxo ik’ix zown.
+Gloss: around-TOP III-examine-PFV.CVB DEM1.IISG.OBL-ERG all light-PL IV.PL-see-PRS.PRT place-PL tell-PST.PRT-AD.LAT-CNTR DEM1.ISG.OBL-ERG nail-PL hit-IPFV.CVB go-IPFV.CVB be.NPRS-PST.UNW
+Translation: He [Tsighruk] struck in nails to where he [the dragon], looking around and seeing all the light, told.

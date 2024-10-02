@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: tełxor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": tełxor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word tełxor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ħumukulin bisno yizä, tełäy axorekasin roɣno, nełaz axä tełxor q’ebedes uži egirno.
+Gloss: camel-TOP III-buy-PFV.CVB DEM2.IPL.OBL-ERG inside-IN.ABL giblets-TOP IV-take.away-PFV.CVB DEM1.IISG.OBL-GEN2 belly-IN.ESS inside-AD.LAT smith-GEN1 son let-PST.UNW
+Translation: They bought a camel, removed its giblets and let the smith's son inside its belly.
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.
+Sentence: Dey xediw nexxoƛin, yiła yeda sida yeže ɣamasya tełxor uqˤno.
+Gloss: me-GEN1 husband come-PRS-QUOT DEM2.IISG.OBL-ERG DEM2.ISG one.OBL II-big box-IN.ESS inside-AD.LAT hide-PST.UNW
+Translation: "My husband is coming!", she [said and] hid him inside a large box.
+
+Approximate Matches:
+Sentence: Eli beɣusƛin, tełxorkin boqinč’ey, badiru q’ut’imoxor, łˤonon q’urec’nin, žedaƛ’ ƛ’iri yałru q’ayn howlotow xecin, bazarganbin xizor bik’in.
+Gloss: we I.PL-be.defeated-PST.WIT-QUOT inside-AD.LAT-even I.PL-become-NEG.PST.CVB III-fulfilled agreement-AD.LAT three-TOP mule-and DEM1.IIPL.OBL-SUPER.ESS on be-PST.PRT article-and there-EMPH leave-PFV.CVB merchant-PL-TOP back I.PL-go-PST.UNW
+Translation: "We have lost!"; without even going inside they left the three mules and the wares on them there, to fulfill the agreement, and went back.
+Sentence: Däz beženi ɣˤʷačulis madaxortow ɣˤʷačni teqzaƛ’ tełxorkin yik’inč’uƛin.
+Gloss: me-GEN2 III-old-DEF he.goat-GEN1 door-AD.LAT-EMPH chewing hear-CSL.CVB inside-AD.LAT-even II-go-NEG.PST.WIT-QUOT
+Translation: Because I heard the chewing of my old goat at the door, I didn't go inside.
+Sentence: Yizä izirinč’izaƛ’, bełiqan ƛ’iyor, gonda tełxortow, ik’in.
+Gloss: DEM2.IPL.OBL-ERG lift-NEG.FUT-CSL.CVB hunter downwards big.hole-IN.ESS inside-AD.LAT-EMPH go-PST.UNW
+Translation: Because they didn't lift him up, the hunter went downwards into the hole.

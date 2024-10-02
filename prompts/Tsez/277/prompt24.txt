@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ečru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ečru: 
+
+Exact Matches
+Sentence: Elo yiłar ʕuraw q’ʷariłiƛ’ sis ečru žek’u esun.
+Gloss: there DEM2.IISG.OBL-LAT much sadness-SUPER.ESS one old man find-PST.UNW
+Translation: There she found an old man in big sadness.
+Sentence: Hudayƛ’aygon maduhalłiqozoni xanä begirno q’ˤano gulu bayrno nasi yizałäy ʕoloqanaw, nasi ečru yałru bat’a boda koƛ’inč’inäy, di dowde dandir ƛˤori boda yołƛin.
+Gloss: on.the.next.day neighbourhood-POSS.ESS-ATTR.OBL-DEF khan-ERG III-let-PFV.CVB two horse III-bring-PFV.CVB which DEM2.IIPL.OBL-CONT.ABL young which old be-PST.PRT seperation III-do-INF understand.to-NEG.FUT-CND.CVB me you-APUD.ESS towards war III-do-INF be-QUOT
+Translation: On the next day, the neighboring king had two horses be brought to him, [saying:] "If you don't know how to find out which of them is young and which is old, I will make war on you!"
+Sentence: Hemeł zamanał žader yexora kot’u yołäsi sis ečru žek’u oƛixno k’oƛin žaq esirno, šida mi nece q’ʷarid ičäsiƛin.
+Gloss: DEM4.IISG.OBL time-CONT.ESS boy-APUD.LAT II-long beard be-RES.PRT one old man appear-PFV.CVB run-PFV.CVB boy-POSS.ESS ask-PST.UNW why you so.much sadness be-RES.PRT-QUOT
+Translation: Some time later an old man with a long beard came running and asked the boy: "Why are you so sad?"
+
+Approximate Matches:

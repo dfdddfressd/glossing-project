@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word riguni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word riguni: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xanä nesix ixiw bertenno boyn kidno yegirno, boƛik’u nesis ric’q’in, ɣˤutkun, posun teƛno, howlotow xande puräza iguni žek’un ičin.
+Gloss: khan-ERG DEM1.ISG.OBL-AD.ESS big marriage-TOP III-do-PFV.CVB daughter-TOP II-send-PFV.CVB half DEM1.ISG.OBL-GEN1 wealth-and house-and cattle-and give-PFV.CVB there-EMPH khan-APUD.ESS side-IN.VERS.DIST good-DEF man-TOP be-PST.UNW
+Translation: The king organized a big marriage and married off his daughter, gave half his wealth, his house and cattle to him and the good man was to the king's side.
+Sentence: Di saɣ oynäyƛin, eƛin nesi iguni žek’a, šebi baha mi där boyxƛin.
+Gloss: me cure do-CND.CVB-QUOT say-PST.UNW DEM1.ISG.OBL good-DEF man-ERG what price you me-LAT III-do-PRS-QUOT
+Translation: "When I cure you," said the good man, "what price do you give me?"
+Sentence: Azbaryoxor baynosi, xanes biguni ɣira erno Goqix kid yegiranir.
+Gloss: palace-AD.LAT I.PL-come-ANT.CVB khan-GEN1 III-good-DEF wish put-PFV.CVB Goqi-AD.ESS daughter II-send-MSD-LAT
+Translation: When they arrived at the palace, the king wished to send his daughter to Goqi.

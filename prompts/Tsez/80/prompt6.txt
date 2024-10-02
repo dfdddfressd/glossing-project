@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eženi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eženi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eženi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"
+Sentence: Hudun ži ɣˤuruš neƛnäy sisgon bodan deber di ʕaq’luƛin razi oqno eženi.
+Gloss: nevertheless now ruble give-CND.CVB one-CNTR III-do-FUT.DEF you-LAT me advice-QUOT agree become-PST.UNW old-DEF
+Translation: "Nevertheless, if you give me a ruble, I'll give you another advice.", agreed the old man.
+Sentence: Eniya äƛiru rožbin rok’er ʕeze roqinč’ey, eženi užä eniwq q’ˤano magalun hunixor ererno, iday maħor oqno.
+Gloss: mother-ERG say-PST.PRT word-PL-TOP heart-LAT be.enough IV.PL-become-NEG.PST.CVB old-DEF son-ERG mother-POSS.ESS two bread-TOP way-AD.LAT put-CAUS-PFV.CVB home-IN.ABL outside become-PST.UNW
+Translation: The words that the mother had spoken didn't please his heart enough, so the oldest son let the mother give two breads to him for the way and left the home.
+
+Approximate Matches:
+Sentence: Nedur resunäy, ža tełxor goƛ’oƛin, eƛin beženi esiya.
+Gloss: so IV-exist-CND.CVB DEM1.SG inside-AD.LAT invite-IMPR-QUOT say-PST.UNW III-old-DEF brother-ERG
+Translation: "If that's the case, invite him inside!", said the older brother.
+Sentence: Yeženi esiya eƛin, hisos ric’no urgu däqor neƛnäy, nazon debez nukarzaz guluzaƛ’ ƛ’iri kuranix xaličabi rišan diƛin.
+Gloss: II-old-DEF sister-ERG say-PST.UNW spring.wool-GEN1 IV-fill-PFV.CVB sack me-POSS.LAT give-CND.CVB all.OBL-TOP you-GEN2 henchman-PL-GEN2 horse-PL-SUPER.ESS on spread.out-MSD-AD.ESS mat-PL IV.PL-weave-FUT.DEF me-QUOT
+Translation: The oldest sister said: "If you fill a sack with wool and give it to me, I will weave mats to put on all the horses of your henchmen."
+Sentence: Xizaɣor Ħusen ežin, ža ik’inƛax nesi eženił xizay, yaraɣno bisno guluƛ’no zown.
+Gloss: finally Hussein win-PFV.CVB DEM1.SG go-PFV.CVB-QUOT DEM1.ISG.OBL old-DEF-CONT.ESS behind weapon-TOP III-take-PFV.CVB horse-SUPER.ESS-TOP ride-PST.UNW
+Translation: Finally Hussein won [he will go, it's said???], he took a weapon, sat on a horse and followed the old one.

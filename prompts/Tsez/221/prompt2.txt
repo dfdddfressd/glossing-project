@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eženi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eženi: 
+
+Exact Matches
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"
+Sentence: Hudun ži ɣˤuruš neƛnäy sisgon bodan deber di ʕaq’luƛin razi oqno eženi.
+Gloss: nevertheless now ruble give-CND.CVB one-CNTR III-do-FUT.DEF you-LAT me advice-QUOT agree become-PST.UNW old-DEF
+Translation: "Nevertheless, if you give me a ruble, I'll give you another advice.", agreed the old man.
+Sentence: Eniya äƛiru rožbin rok’er ʕeze roqinč’ey, eženi užä eniwq q’ˤano magalun hunixor ererno, iday maħor oqno.
+Gloss: mother-ERG say-PST.PRT word-PL-TOP heart-LAT be.enough IV.PL-become-NEG.PST.CVB old-DEF son-ERG mother-POSS.ESS two bread-TOP way-AD.LAT put-CAUS-PFV.CVB home-IN.ABL outside become-PST.UNW
+Translation: The words that the mother had spoken didn't please his heart enough, so the oldest son let the mother give two breads to him for the way and left the home.
+
+Approximate Matches:
+Sentence: Yeženi ɣˤanaza eƛin, mi berten łiyace yičinč’ey xexłiƛ’ idurno nexno, hisona teł šeƛ’un eqro, min nexno idu yičiƛin.
+Gloss: II-old-DEF woman-ERG say-PST.UNW you marriage end-TERM II-wait-NEG.PST.CVB quickness-SUPER.ESS home-LAT-TOP come-PFV.CVB trough-IN.ESS inside clothing-TOP put-IMPR you-TOP come-PFV.CVB home II-wait-QUOT
+Translation: The old woman said: "Before the marriage ends, come home quickly, put the clothes into the trough, get home and wait."
+Sentence: Šeƛ’ures k’emot’yar t’it’ubi rodäsi resunosi, yeženi esiya qˤirič’ roɣno maħor kurno.
+Gloss: clothing-GEN1 wooden.case-IN.LAT piece-PL III.PL-do-RES.PRT IV-find-ANT.CVB II-old-DEF sister-ERG scissors IV-take.away-PFV.CVB outside throw-PST.UNW
+Translation: The older sister found the clothings in the wooden case that were cut to pieces, took the scissors and threw them outside.
+Sentence: Howlay äk’inoƛin qˤaƛanayx yeženi ɣˤanabin xecin ʕAliqilič k’oƛin ik’in.
+Gloss: from.there go-PROHIB-QUOT yell-IPFV.CVB II-old-DEF woman-TOP leave-PFV.CVB Aliqilich run-PFV.CVB go-PST.UNW
+Translation: Yelling "Don't go away!", Aliqilich left the old woman and ran.

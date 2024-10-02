@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Hudu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Hudu: 
+
+Exact Matches
+Sentence: Mi nedurä hudu zownƛin, eƛin Ražbadinä, nedur resunäy, ela sosi debi berten boda yoł, xizyo di baru yowa yołƛin.
+Gloss: you so-Q though be.NPRS-PST.UNW-QUOT say-PST.UNW Razhbadin-ERG so IV-exist-CND.CVB we(I).OBL-ERG at.first you-GEN1 marriage III-do-INF be afterwards me wife II-marry-INF be-QUOT
+Translation: "So that way you are," said Razhbadin, "if that's the case, we will first prepare your wedding and afterwards I will marry my wife."
+Sentence: Bik’i hudu cin cedin horoƛin” - eƛin zeyä.
+Gloss: III-go so name-TOP name-PST.UNW come.IMPR-QUOT - say-PST.UNW bear-ERG
+Translation: "So go, give him a name and come back!", said the fox.
+Sentence: Ža yiqiranƛingon soder izin ƛ’irir aynosi, ža elo yesuxanu - hudu di qoqoƛix soder izixƛin.
+Gloss: DEM1.SG II-take.away-FUT.DEF-QUOT-CNTR upward get.up-PFV.CVB above-LAT come-ANT.CVB DEM1.SG there II-find-IPFV.CVB-NEG - so me laugh-IPFV.CVB after get.up-IPFV.CVB-QUOT
+Translation: I go upward to take her with me, but I can't find her -- so I am laughing, when I go up.
+
+Approximate Matches:

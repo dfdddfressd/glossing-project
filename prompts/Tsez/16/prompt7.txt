@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mesedno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mesedno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mesedno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Aždaħes yaqru nˤoƛun łacqo yižirno, nełas zawru šinaw xazina mesedno bižin, Baxumesedun guluƛ’ zowrno Kidiro Žabulawder ik’in.
+Gloss: dragon-GEN1 II-become-PST.PRT ashes-TOP wind-POSS.ESS II-carry-CAUS-PFV.CVB DEM1.IISG.OBL-GEN1 be.NPRS-PST.PRT every treasure gold-and III-carry-PFV.CVB Bakhumesed-and horse-SUPER.ESS seat-PFV.CVB Kidero Jabulaw-APUD.LAT go-PST.UNW
+Translation: He let the wind carry away ashes of the dragon, took all the gold from its treasures, seated Bakhumesed on a horse, and went to Jabulaw in Kidero.
+Sentence: Baq’ˤu mesedno besuroqur teƛno, yisä ža besuro nesiq raładyołxor begirerno.
+Gloss: III-much gold-TOP fisherman-LAT give-PFV.CVB DEM2.ISG.OBL-ERG DEM1.SG fish DEM1.ISG.OBL-POSS.ESS sea-CONT.VERS III-let-CAUS-PST.UNW
+Translation: He gave the fisherman a lot of gold and had him let the fish into the sea.
+Sentence: Yisä tupi teƛno anu, žedä äƛiru mesedno teƛno, yisä žeduqay zey xʷasar bodin.
+Gloss: DEM2.ISG.OBL-ERG rifle give-PFV.CVB be.NEG DEM1.IIPL.OBL-ERG say-PST.PRT gold-TOP give-PFV.CVB DEM2.ISG.OBL-ERG DEM1.IPL.OBL-POSS.ABL bear rescue III-do-PST.UNW
+Translation: He didn't give them the rifle, but gave them as much gold as they wanted and rescued the bear from them.
+
+Approximate Matches:
+Sentence: Nagaħ uži miskinłiƛ’or aynäy, babiyä kobora teł eqerno xecäsi micxiryosno, mesedyosno ric’äsi ixin zown.
+Gloss: suppose boy poverty-SUPER.LAT come-CND.CVB dad-ERG granary-IN.ESS inside put-PFV.CVB leave-RES.PRT money-GEN1-TOP gold-GEN1-TOP IV-fill-RES.PRT bag be.NPRS-PST.UNW
+Translation: In case the boy would hit poverty, there was a bag filled with money and gold left inside the granary, put there by the father.
+Sentence: Sasaqtow moƛaxay izizaƛ’or, nesä äƛiruxor rodäsi reže ɣˤutkun, nesiz maday kidbez madär kuräsi mesedyos ƛen bukayzaƛ’, xan haqan ogun ezun ƛexun.
+Gloss: in.the.morning-EMPH sleep-AD.ABL get.up-POST.CVB DEM1.ISG.OBL-ERG ORD-AD.LAT IV-do-RES.PRT IV-big house-TOP DEM1.ISG.OBL-GEN2 door-APUD.ABL daughter-GEN2 door-APUD.VERS erect-RES.PRT gold-GEN1 bridge-TOP III-see-CSL.CVB khan mouth-IN.ESS-TOP gape-PFV.CVB look-PFV.CVB remain-PST.UNW
+Translation: The next morning after getting up from sleeping, he built a big house as said, and when the king saw the golden bridge erected from his door to his daughter's door, he remained looking at it with an open mouth.
+Sentence: Ža mesedyos mač’an mi raqˤza yoł, mač’a meč’ beč’oƛ, tupi rok’eł č’aq’ˤiƛ, ašunä oƛi eč’oƛƛin eniya eƛisƛin.
+Gloss: DEM1.SG gold-GEN1 dagger-TOP you IV-hide-LCV be dagger neck III-cut-OPT rifle heart-CONT.ESS hit-OPT belt-ERG half cut-OPT-QUOT mother-ERG say-PST.WIT-QUOT
+Translation: Mother said, that golden dagger is where you hide it, may the dagger cut your neck, may the rifle hit your heart and may the belt cut you into halves."

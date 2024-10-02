@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bac’c’adaw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bac’c’adaw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bac’c’adaw:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elaygon bitor žedu bik’inƛax, rigu hawan, bac’adaw łin, raqˤäsi bix yałzarno, žek’utow anuza mečoƛ’or baynƛax.
+Gloss: there-IN.ABL-CNTR thither DEM1.IPL I.PL-go-PFV.CVB-QUOT IV-good air-and clean water-and IV-accumulate-RES.PRT grass be-LCV.CVB-LAT-and man-EMPH be.absent-LCV.CVB place-SUPER.LAT I.PL-come-PST.UNW-QUOT
+Translation: From there they went on and came to a deserted place with good air, clean water and where the grass was thick.

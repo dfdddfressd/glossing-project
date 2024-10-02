@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: barubi using Leipzig glossing symbols. The sentence this word is drawn from means: "Then one henchman saw the wives that the king's son had hidden inside the fortress.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": barubi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word barubi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Meža barubi raƛin”.
+Gloss: you(I).PL.OBL-ERG wife-PL II.PL-marry-QUOT
+Translation: Find wives to marry!"
+Sentence: Sida quł esnazas barubi urɣizi roqno sisxolisini žedaz xedyozas esiy zeroqozo cugumäɣor kuranix.
+Gloss: one.OBL day-CONT.ESS brother-PL-GEN1 wife-PL thinking II.PL-become-PFV.CVB lonely-DEF DEM1.IIPL.OBL-IN.ESS.DIST husband-PL-GEN1 sister bouza-POSS.ESS-ATTR.OBL barrel-IN.VERS throw-MSD-AD.ESS
+Translation: One day, the brothers' wives planned to throw their husbands' lonely sister into a barrel of bouza.
+Sentence: Howži hudu xan oqno Ismaʕiles barubi q’ˤuyzix regiranix.
+Gloss: now then khan begin-PST.UNW Ismail-GEN1 wife-PL other-ATTR.OBL-AD.ESS II.PL-send-MSD-AD.ESS
+Translation: Now the king began to send Ismail's wives to others.
+
+Approximate Matches:
+Sentence: Howži Ismaʕil ezunč’ey ʕaƛaɣor ik’in nesä nesis łonon barubin rižin.
+Gloss: now Ismail look-NEG.PST.CVB village-IN.VERS go-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 three-TOP wife-PL-TOP II.PL-lead-PST.UNW
+Translation: Now Ismail went into the village without looking and took his three wives with him.
+Sentence: Nełƛ’osi kʷaxatow ʕoƛiran esnaza bertenno bodin, barubin rown.
+Gloss: of.that.time quickly-EMPH seven.OBL-TOP brother-PL-ERG marriage-TOP I.PL-do-PFV.CVB wife-PL-TOP II.PL-marry-PST.UNW
+Translation: Shortly afterwards, the seven brothers organized a marriage and married.
+Sentence: Łˤonon barubin rown, Ismaʕilä nełqay ža łˤora ɣudi bertenno boyn.
+Gloss: three-TOP wife-PL-TOP II.PL-marry-PFV.CVB Ismail-ERG DEM1.IISG.OBL-POSS.ABL DEM1.SG three.OBL day marriage-TOP III-do-PST.UNW
+Translation: Ismail married the three wives and three days in a row celebrated his marriage.

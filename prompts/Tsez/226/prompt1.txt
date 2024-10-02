@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Łek’irełinč’uƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Łek’irełinč’uƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Žedun hemedurtow łek’irełinč’ey bayn.
+Gloss: DEM1.IPL.OBL-TOP so-EMPH stir-POT-NEG.PST.CVB I.PL-come-PST.UNW
+Translation: And so they also couldn't stir it and came back.

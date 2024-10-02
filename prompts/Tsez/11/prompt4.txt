@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ik’iƛ’oräy using Leipzig glossing symbols. The sentence this word is drawn from means: "While he was going away from there on his way, after a while the hunger hit him.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ik’iƛ’oräy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ik’iƛ’oräy:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bˤeƛ’no adäz roc’no neširur iduɣor ik’iƛ’oräy, Alimaħamar teqno bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: sheep-TOP ahead III.PL-drive-PFV.CVB evening-LAT home-IN.ALL go-SIM.CVB Alimagomed-LAT hear-PST.UNW sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: When he drove the sheep home in the evening, Alimagomed heard them talking to each other.
+Sentence: Hemedur oxin yeda ik’iƛ’oräy, yisił dandir q’ˤanon esnabi c’oxxo - sis c’odoraw, sideni - ʕantaw.
+Gloss: so run.away-PFV.CVB DEM2.ISG go-SIM.CVB DEM2.ISG.OBL-CONT.ESS towards two-TOP brother-PL meet-PRS - one clever the.other.one - stupid
+Translation: While he was running, he met two brothers - one was clever, the other one stupid.
+Sentence: Hunix ik’iƛ’oräy, neła ħalaq’awni gula nesiqor eƛin, aždaħ kecäsi yałzay, buq bayäsi bičixosi, q’ˤiday bizinosi ža bičixozoni gogaƛ’ ɣedu boqxosi, elo nełaqgon šet’ur k’ešonayx xexoybi ričixosiƛin.
+Gloss: way-AD.ESS go-SIM.CVB DEM1.IISG.OBL thin-DEF horse-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW dragon sleep-RES.PRT be-SIM.CVB sun III-come-RES.PRT III-be-IPFV.CVB-ATTR down-IN.ABL III-get.up-ANT.CVB DEM1.SG III-be-PRS.PRT.OBL-DEF meadow-SUPER.ESS shade III-happen-PRS.PRT there DEM1.IISG.OBL-POSS.ESS-CNTR around play-IPFV.CVB young.animal-PL III.PL-be-PRS.PRT-QUOT
+Translation: While he went on his way, that thin horse said to him: "While the dragon sleeps, the sun goes up, and after he gets up a shadow appears on the meadow, there around it the youngs are playing.
+
+Approximate Matches:
+Sentence: Q’orola nełqor eƛin, łäxor mi yik’iƛ’oräy yok’ek’anix ʕoloqbi urɣizi boqxo, hudu mi esiwqor eƛo, zam-zames łi et’näy, madaxtow nełas kik boƛixxosi, nełał xizay ik’iƛƛin.
+Gloss: widow-ERG DEM1.IISG.OBL-POSS.LAT say-PST.UNW water-AD.LAT you II-go-SIM.CVB II-steal-MSD-AD.ESS young.person-PL thinking I.PL-become-PRS so you brother-POSS.LAT say-IMPR Zam-Zam-GEN1 water pour-CND.CVB outside-AD.ESS-EMPH DEM1.IISG.OBL-GEN1 spring III-appear-PRS.PRT DEM1.IISG.OBL-CONT.ESS behind go-OPT-QUOT
+Translation: The widow said to her: "Some young men are thinking about kidnapping you when you go to get water, so tell your brother that if he pours out holy water, then outside a spring of it will appear, behind which he should go."
+Sentence: Elus xan exursiƛin, ozno, xalq’in roxin rik’iƛ’oräy, sidaɣaza puƛ’azar Ismaʕil k’oƛin, sidaɣazar ʕArabuzan yoqno nasin ahli dandirno butirno, xanłun ʕArabuzanno xecin, Ismaʕilgon wizirłunno ičin.
+Gloss: we(I).OBL-GEN1 khan kill-PST.WIT-QUOT army-and people-and III.PL-run.away-PFV.CVB III.PL-go-SIM.CVB in.one.place-IN.VERS.DIST side-SUPER.LAT.DIST Ismail run-PFV.CVB in.one.place-IN.LAT.DIST Arabuzan II-become-PFV.CVB all people together-TOP III-gather-PFV.CVB khan-LHUN Arabuzan-TOP leave-PFV.CVB Ismail-CNTR vizier-LHUN-TOP be-PST.UNW
+Translation: "They killed our king!", the army and the people ran away and at the same time, Ismail ran to one side, and Arabuzan ran to the other side, and they gathered all the people together and Arabuzan was elected king/queen and Ismail became vizier.
+Sentence: Guluzaƛ’ zown žedu bik’iƛ’oräy, yizi q’ˤuya ħukmatyołer bayn.
+Gloss: horse-PL-SUPER.ESS ride-PFV.CVB DEM1.IPL I.PL-go-SIM.CVB DEM2.IPL other country-CONT.LAT I.PL-come-PST.UNW
+Translation: While they rode on their horses, they came to another country.

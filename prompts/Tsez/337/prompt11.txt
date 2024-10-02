@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word teƛxo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word teƛxo: 
+
+Exact Matches
+Sentence: Oƛƛozo žar bazarya teƛxo butni besun.
+Gloss: middle-ATTR.OBL son-LAT bazar-IN.ESS sell-IPFV.CVB burka III-find-PST.UNW
+Translation: The middle son found a burka on sale on the market.
+Sentence: Eniwrno ʕuraw aq’ˤuba č’aguyaw mixƛ’o babiya teƛxo zown.
+Gloss: mother-LAT-TOP much torture living at.a.time dad-ERG give-IPFV.CVB be.NPRS-PST.UNW
+Translation: The mother was tortured very much as well by the father, when she was still alive.
+Sentence: Nesiƛ’ bezanixƛin bayru ahlimor žoyä bˤeƛ’es šebint’a teƛxo zown.
+Gloss: DEM1.ISG.OBL-SUPER.ESS I.PL-look-MSD-AD.ESS-QUOT I.PL-come-PST.PRT people-LAT son-ERG sheep-GEN1 thing-DISTR give-IPFV.CVB be.NPRS-PST.UNW
+Translation: The son gave out one sheep each for every person who came to look after him.
+
+Approximate Matches:
+Sentence: Dey xediw nexxoƛin yiła yeda nuci teƛxosi bazargan nesi žade puräza ɣamasya teł uqˤno.
+Gloss: me-GEN1 husband come-PRS-QUOT DEM2.IISG.OBL-ERG DEM2.ISG honey sell-PRS.PRT merchant DEM1.ISG.OBL boy-APUD.ESS side-IN.VERS.DIST box-IN.ESS inside hide-PST.UNW
+Translation: "My husband is coming!", she [said and] hid that honey-selling merchant in the box next to the boy.
+Sentence: Nesä eƛin, šida meža žar teƛxozo reƛił ƛuza xecäƛin.
+Gloss: DEM1.ISG.OBL-ERG say-PST.UNW why you(I).PL.OBL-ERG son-LAT give-PRS.PRT.OBL meat-CONT.ESS bone leave-PST.WIT.INT-QUOT
+Translation: He said: "Why did you leave a bone in the meat that you gave your son?"
+Sentence: Užä ħit’ures iƛ’u nec’irxotow yižix yukaynosi, reƛ teƛxozoni bazarganä ža xizor oxirno.
+Gloss: boy-ERG pan-GEN1 bottom empty-IPFV.CVB-EMPH II-take.out-IPFV.CVB II-see-ANT.CVB meat sell-PRS.PRT.OBL-DEF merchant-ERG DEM1.SG back chase-PST.UNW
+Translation: When he saw that the boy was emptying the bottom of the pan, the meat-selling merchant chased him.

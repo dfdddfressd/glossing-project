@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esun: 
+
+Exact Matches
+Sentence: Elo yiłar ʕuraw q’ʷariłiƛ’ sis ečru žek’u esun.
+Gloss: there DEM2.IISG.OBL-LAT much sadness-SUPER.ESS one old man find-PST.UNW
+Translation: There she found an old man in big sadness.
+Sentence: Qˤišodgon yizi bišanix elor baynosi, hemedurtow siskin šebin rac’inč’ey, q’ˤunan reƛ’izad q’ˤimno riqirno esun Kusa esnazar.
+Gloss: at.noon-CNTR DEM2.IPL I.PL-eat-MSD-AD.ESS there-LAT I.PL-come-ANT.CVB so-EMPH any thing IV-eat-NEG.PST.CVB two.OBL-TOP hand-PL-INSTR head-TOP IV-stop-PFV.CVB find-PST.UNW Kusa brother-PL-LAT
+Translation: When they came there to eat dinner, the three brothers found Kusa there without eating anything and with his two hands supporting his head.
+Sentence: Tełerno bik’in bezunosi, esnazar ža micxiryos šemno bodin t’et’erxo esun.
+Gloss: to.the.inside-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB brother-PL-LAT DEM1.SG money-GEN1 pile-TOP III-do-PFV.CVB count-IPFV.CVB find-PST.UNW
+Translation: When they went inside and looked, the brothers found him making piles of money and counting it.
+
+Approximate Matches:

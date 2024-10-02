@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: užiq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": užiq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word užiq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesä užiq esirno, yedu ziya teƛxanaƛin.
+Gloss: DEM1.ISG.OBL-ERG boy-POSS.ESS ask-PST.UNW DEM2.IISG cow sell-IPFV.CVB-NEG-Q-QUOT
+Translation: He asked the boy: "Don't you sell that cow?"
+Sentence: Yizä nesi užiq esirno, debeqkin ana xaner daruyarsi reƛ, nełas siskin t’it’u anusi xizor butanix bˤuƛ’xo eliƛin.
+Gloss: DEM2.IPL-ERG DEM1.ISG.OBL boy-POSS.ESS ask-PST.UNW you-POSS.ESS-even be.NEG-Q khan-LAT medicine-LAT-ATTR meat DEM1.IISG.OBL-GEN1 any piece be.NEG-ATTR back I.PL-return-MSD-AD.ESS I.PL-be.afraid-PRS we-QUOT
+Translation: They asked that boy: "Do you not have a meat for medicine for the king? We are afraid to return without any piece."
+Sentence: Neła quł užiq siskin besuron biqinanu, hudu haq’un quqa ƛexun.
+Gloss: DEM1.IISG.OBL day-CONT.ESS boy-POSS.ESS any fish-TOP III-get-PFV.CVB-NEG so family-TOP hungry remain-PST.UNW
+Translation: On that day, the boy didn't get any fish, so the family remained hungry.
+
+Approximate Matches:

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yay.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yay:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Didurgon, šebigon resułin xal bodanix elor ɣˤanabi yegira yay, yałi - ela badiru ħukmu meq’aw bäčiƛin, diwan boyxozo xalq’imo xan wˤałer ezurerno.
+Gloss: how-CNTR what-CNTR IV-find-CNC.CVB examination III-do-MSD-AD.ESS there-LAT woman II-send-INF II-must else - we(I).OBL-ERG III-do-PST.PRT decision wrong III-be-QUOT judgement III-do-PRS.PRT.OBL people-ERG khan downward-LAT show-CAUS-PST.UNW
+Translation: "How- and whatever it is, we must send a woman there to make an examination, or else the decision we make will be wrong.", the judges said and calmed down the king.
+Sentence: Sasaq idurno ik’in užä eniwq esin kidbełäy, bˤeƛ’ rac’xosi boc’i” idutow zown, gugira yay ža yiłzaqayƛin.
+Gloss: in.the.morning home-LAT-TOP go-PFV.CVB boy-ERG mother-POSS.ESS tell-PST.UNW girl-CONT.ABL sheep III.PL-eat-PRS.PRT wolf home-EMPH be.NPRS-PFV.CVB escape-CAUS-INF II-must DEM1.SG DEM2.IISG.OBL-PL-POSS.ABL-QUOT
+Translation: In the morning, the boy went home and told his mother of the girl: "The 'wolf' who eats the sheep was in our home, it has to be removed from this place."
+Sentence: Xizyogon eženi žek’a eƛin, howži deber sis iman yołäsi baru yiča yay, nełał xizay oqa deber zaman bayn.
+Gloss: then old-DEF man-ERG say-PST.UNW now you-LAT one faith be-RES.PRT wife II-be-INF II-must DEM1.IISG.OBL-CONT.ESS behind become-INF you-LAT time III-come-PST.UNW
+Translation: Then the old man said: "Now you need to have a faithful wife, the time has come to go after her!
+
+Approximate Matches:

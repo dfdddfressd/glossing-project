@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bihayawtow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bihayawtow: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyogon bara yizin xediwq ałni bic’no, nełƛ’ay žuka elur rukaynoƛ, eli saɣłiƛ’ boqnäy, dunyales ɣez bihayaw šebin yołƛin.
+Gloss: then wife-ERG II-get.up-PFV.CVB husband-POSS.ESS hug III-hug-PST.UNW DEM1.IISG.OBL-SUPER.ABL bad we(I).OBL-LAT IV-see-PROHIB-OPT we health-SUPER.ESS III-become-CND.CVB world-GEN1 dirt easy thing be-QUOT
+Translation: Then the wife got up and hugged her husband again: "May we not see something worse than this; as long as we are in health, it's an easy thing to find the world's "
+Sentence: Ža ažo ałni bayłxanuce yečiw, ƛ’iräz žek’u oqła bihayaw yiłe zown.
+Gloss: DEM1.SG tree hug III-do-POT-IPFV.CVB-NEG-TERM II-thick above-IN.ESS.DIST man become-DUB easy II-as be.NPRS-PST.UNW
+Translation: The tree was so thick that one couldn't give it a hug, and it was easy for a man to get inside from above.
+Sentence: Ža bihayaw šebin yołƛin, Bilq’isdä nełaq yałru micxir ečruni žek’uqor teƛno.
+Gloss: DEM1.SG easy thing be-QUOT Bilqisdi-ERG DEM1.IISG.OBL-POSS.ESS be-PST.PRT money old-DEF man-POSS.LAT give-PST.UNW
+Translation: "That's an easy thing.", said Bilqisdi and gave the old man all the money she had.

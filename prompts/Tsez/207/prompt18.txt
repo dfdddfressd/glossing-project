@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boc’ƛ’or.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boc’ƛ’or
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boc’ƛ’or:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyogon ʕUmar ƛelƛ’or utin, Ox̌oyo ziruƛ’or utin, cek’ƛ’or ʕUmar - yeda ceyƛ’or, beƛ’q’ˤuƛ’or yeda - boc’ƛ’or Ox̌oyo, ziyƛ’or ʕUmar utin - zeyƛ’or ža.
+Gloss: then Umar lamb-SUPER.LAT turn-PFV.CVB Ohoyo fox-SUPER.LAT turn-PFV.CVB goat.kid-SUPER.LAT Umar - DEM2.ISG eagle-SUPER.LAT sheep-SUPER.LAT DEM2.ISG - wolf-SUPER.LAT Ohoyo cow-SUPER.LAT Umar turn-PST.UNW - bear-SUPER.LAT DEM1.SG
+Translation: Then Umar turned into a lamb, Ohoyo turned into a fox, Umar into a goat kid - he into an eagle, he into a sheep - Ohoyo into a wolf, Umar turned into a cow - he into a bear.
+
+Approximate Matches:
+Sentence: Kecnosi zira riłiqosi hut’-mˤali ragi-rac’ƛ’oräy, zeyä esirno:
+Gloss: sleep-ANT.CVB fox-ERG butter-POSS.ESS-ATTR front.part.of.the.face IV-lick.up-eat-SIM.CVB bear-ERG ask-PST.UNW
+Translation: After they went to sleep, the fox licked up butter from his face, and the bear asked:
+Sentence: Bełiƛ’ esnabi bäk’äsi yałzay, eɣeni esiwz bara k’orin boyn nazon q’ˤidan ričin bac’ƛ’oräy, Umukusez haqa bašiqˤoy šišin, k’ori boyƛ’orey eɣeni esiwz baruqay rˤaƛ’uruni.
+Gloss: hunting-SUPER.ESS brother-PL I.PL-go-ATTR be-SIM.CVB young-DEF brother-GEN2 wife-ERG oatmeal-TOP III-do-PFV.CVB everyone.OBL-TOP down-TOP II.PL-sit-PFV.CVB III-eat-SIM.CVB Umukus-GEN2 mouth-IN.ESS ring get.stuck-PST.UNW oatmeal III-do-SIM.CVB young-DEF brother-GEN2 wife-POSS.ABL IV-fall-PST.PRT-DEF
+Translation: When the brothers were going hunting, the youngest brother's wife made an oatmeal and when everyone sat down and ate, a ring that fell off the youngest brother's wife when she made the oatmeal, got stuck in Umukus' mouth.
+Sentence: Sasaqosi k’uläɣor ganbi riħada rižinosi, ganƛ’or yutin zawru kid ɣalbac’ƛ’orno yutin, xanez ganzo axarno k’oƛin, mo yac’xo zown.
+Gloss: in.the.morning side.street-IN.VERS bull.calf-PL IV-fight-INF IV-lead-ANT.CVB bull.calf-SUPER.LAT II-turn-PFV.CVB be.NPRS-PST.PRT girl lion-SUPER.LAT-TOP II-turn-PFV.CVB khan-GEN2 bull.calf-GEN2 belly-IN.LAT-TOP run-PFV.CVB fat II-eat-IPFV.CVB be.NPRS-PST.UNW
+Translation: The next morning, he lead the young bull into the side street to fight, the girl who had turned into a bull turned into a lion then and ran into the belly of the king's bull and was eating its fat.

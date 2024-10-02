@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xabar in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xabar: 
+
+Exact Matches
+Sentence: Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.
+Gloss: so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT
+Translation: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.
+Sentence: ʕAƛar xabar bayn, hunix zigolun yegirno, raq’ˤu bˤeƛ’ rexunƛin.
+Gloss: village-IN.LAT story III-come-PST.UNW way-AD.ESS hail-TOP II-send-PFV.CVB III.PL-many sheep III.PL-die-PST.UNW-QUOT
+Translation: Into the village came the news that on the way it had hailed and many sheep had died.
+
+Approximate Matches:
+Sentence: Elor baynosi, č’ikin boqno c’aramäz begin iduɣorno bik’in, žedus xabarno teqerno bičin.
+Gloss: there-LAT III-come-ANT.CVB flea-TOP III-become-PFV.CVB crack-IN.ESS.DIST III-go.into-PFV.CVB home-IN.ALL-TOP I.PL-go-PFV.CVB DEM1.IPL-GEN1 story-TOP listen.to-PFV.CVB III-be-PST.UNW
+Translation: When it arrived there, it became a flea, went inside through a crack and listened to what they said.
+Sentence: Kidbä akrošaw magalun bižin, Aħmaddäɣorno yik’in, babiya äsiru xabarno nesiq esin.
+Gloss: daughter-ERG cheese-ATTR bread-TOP III-take.out-PFV.CVB Akhmed-APUD.VERS-TOP II-go-PFV.CVB dad-ERG tell-PST.PRT story-TOP DEM1.ISG.OBL-POSS.ESS tell-PST.UNW
+Translation: The daughter took the cheese bread, went to Akhmed and told him what her father told her.
+Sentence: Bˤeƛ’no adäz roc’no neširur iduɣor ik’iƛ’oräy, Alimaħamar teqno bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: sheep-TOP ahead III.PL-drive-PFV.CVB evening-LAT home-IN.ALL go-SIM.CVB Alimagomed-LAT hear-PST.UNW sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: When he drove the sheep home in the evening, Alimagomed heard them talking to each other.

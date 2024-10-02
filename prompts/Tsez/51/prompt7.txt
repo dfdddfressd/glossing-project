@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ƛeli.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ƛeli
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ƛeli:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sebixasi zaman baynosi, Paxrudinä Alimaħamaqor eƛin, ixdaxor ɣutanłäzay ħonqaɣor bˤeƛ’ rownosi, bˤeƛ’q’uł xizay kami anusi ƛeli bayrnäy, boƛik’u reqen deber xeca yołƛin.
+Gloss: autumn-AD.ESS-RES.PRT time III-come-ANT.CVB Pakhrudin-ERG Alimagomed-POSS.LAT say-PST.UNW spring-AD.LAT winter.pasture-CONT.ABL.DIST mountain-POSS.VERS sheep III.PL-bring-ANT.CVB sheep-CONT.ESS behind get.lost be.NEG-ATTR lamb III-lead-CND.CVB half herd you-LAT leave-INF be-QUOT
+Translation: When fall came, Pakhrudin said to Alimagomed: "Until spring, after your brought the sheep to the mountains onto the winter pastures, if you lead a lamb that doesn't get lost behind every sheep, then I'll leave you half of the herd."
+Sentence: Bara ƛeli bowwäƛin esirnosi, yisä nełaq raqru sadaq šebin esin.
+Gloss: wife-ERG lamb III-bring-PST.WIT.Q-QUOT ask-ANT.CVB DEM2.ISG.OBL-ERG DEM1.IISG.OBL-POSS.ESS IV-happen-PST.PRT all thing tell-PST.UNW
+Translation: His wife asked, if he brought the lamb, and he told her everything that had happened.
+Sentence: Ħonƛ’or baynosi, sida beƛ’q’ˤa sasaqor oc’ino ʕazar ƛeli bodin.
+Gloss: mountain-SUPER.LAT III-come-ANT.CVB one.OBL sheep-ERG in.the.morning-POSS.LAT ten thousand lamb III-do-PST.UNW
+Translation: When they arrived on the mountain, one sheep gave birth to ten thousand lambs in the morning.
+
+Approximate Matches:

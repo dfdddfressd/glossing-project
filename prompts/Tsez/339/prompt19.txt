@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣˤanabin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣˤanabin: 
+
+Exact Matches
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: Nesi žaz babiya sidaquł q’orol ɣˤanabin yiqirno nełaq esin, hemedur ɣudƛ’ay ɣudƛ’or dey uži ħalaq’ oqxo ik’ixƛin.
+Gloss: DEM1.ISG.OBL boy-GEN2 father-ERG one.day widowed woman-TOP II-find-PFV.CVB DEM1.IISG.OBL-POSS.ESS tell-PST.UNW so day-SUPER.ABL day-SUPER.LAT me-GEN1 boy meager become-IPFV.CVB go-PRS-QUOT
+Translation: One day the boy's father found a widow and told her that his boy is becoming meager day by day.
+Sentence: Haraƛ’ badirun, ɣˤanabin yoƛixno hemedurtow šebi retinƛin esirno eɣeni esiwq.
+Gloss: voice III-do-IMM.ANT.CVB woman-TOP II-appear-PFV.CVB so-EMPH what IV-want-PST.UNW-QUOT ask-PST.UNW young-DEF brother-POSS.ESS
+Translation: After he shouted, the woman appeared and again she asked the younger brother: "What do you want?"
+
+Approximate Matches:
+Sentence: Nesi žek’a rayäru šeƛ’un šeƛ’un, howži nartow di ik’anƛin yeda zawru, ƛ’irir boƛƛozo rihmos ɣˤanabi yayn.
+Gloss: DEM1.ISG.OBL man-ERG IV-bring-PST.PRT clothing-TOP put.on-PFV.CVB now where-EMPH me go-FUT.CVB-QUOT DEM2.ISG be.NPRS-PST.PRT above-LAT III-middle-ATTR.OBL age-ERG-GEN1 woman II-come-PFV.CVB
+Translation: He put on the clothing brought by that man and thought now, "Where shall I go?"  as a woman of middle age came.
+Sentence: Howła imadał hič’č’a ixiw šebi yoł: isä, ceyä, t’ekayä, aħoyä, ziruyä, q’orol ɣˤanabiyä?
+Gloss: DEM3.IISG.OBL tale-CONT.ESS the.most big who be conceive eagle-Q he.goat-Q shepherd-Q fox-Q widowed woman-Q
+Translation: Who is the biggest one in this tale: The bull, the eagle, the goat, the shepherd, the fox or the widow?
+Sentence: Didurgon, šebigon resułin xal bodanix elor ɣˤanabi yegira yay, yałi - ela badiru ħukmu meq’aw bäčiƛin, diwan boyxozo xalq’imo xan wˤałer ezurerno.
+Gloss: how-CNTR what-CNTR IV-find-CNC.CVB examination III-do-MSD-AD.ESS there-LAT woman II-send-INF II-must else - we(I).OBL-ERG III-do-PST.PRT decision wrong III-be-QUOT judgement III-do-PRS.PRT.OBL people-ERG khan downward-LAT show-CAUS-PST.UNW
+Translation: "How- and whatever it is, we must send a woman there to make an examination, or else the decision we make will be wrong.", the judges said and calmed down the king.

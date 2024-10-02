@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word meši in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word meši: 
+
+Exact Matches
+Sentence: Xediw ičäsi zown žiƛbon xecin, k’oxäygon meši bodinč’inäy, bexʷadanƛin.
+Gloss: husband remain-RES.PRT be.NPRS-PST.UNW this.year-TOP leave-PFV.CVB again-IN.ABL-CNTR bull.calf III-do-NEG.FUT-CND.CVB III-slaughter-FUT.DEF-QUOT
+Translation: The husband remained [in his opinion]: "We'll leave it this year and if it doesn't calve again, we shall slaughter it."
+
+Approximate Matches:

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word äsiƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word äsiƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Šebi deber roqno, mi c’aq’ pašmanłiƛ’wa yičäsiƛin, esiya esirnosi, yiła eƛin, maqˤiƛ’ay łi ric’a yik’iƛ’oräy, ʕoloqzas rok’uƛ’ yołƛax di yok’ek’anƛin.
+Gloss: what you-LAT IV-happen-PST.UNW you much sadness-SUPER.ESS-Q II-be-RES.PRT-QUOT brother-ERG ask-ANT.CVB DEM2.IISG.OBL-ERG say-PST.UNW far.away-SUPER.ABL water IV-fill-INF II-go-SIM.CVB young.person-PL-GEN1 heart-SUPER.ESS be-QUOT me II-steal-FUT.CVB-QUOT
+Translation: "What happened to you, to make you so sad?", the brother asked, and she said: "When I went from afar to get water, some young guys planned to kidnap me.
+Sentence: Sosiƛa ƛirba, k’oxƛa ƛirba, łoxno ƛirba, hudaygon šebi retäsiƛin!
+Gloss: at.first-INDEF guest twice-INDEF guest thrice-and guest the.next.day what IV-want-RES.PRT-QUOT
+Translation: "The first time a guest, the second time a guest, and the third time a guest, what do you want the next day?"
+Sentence: Šebi t’or yayäsiƛin?”
+Gloss: who here-LAT II-come-RES.PRT-QUOT
+Translation: Who came here?"

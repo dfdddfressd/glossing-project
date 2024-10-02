@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qartayn in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qartayn: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža C’irdux yałrun iyn, łinasnotow čaran bexun p’estow anusi ɣamasya teł Qartayn ƛexun.
+Gloss: DEM1.SG Tsirdukh be-IMM.ANT.CVB know-PFV.CVB what.OBL-GEN1-TOP-EMPH possibility-TOP III-die-PFV.CVB sound-EMPH be.NEG-ATTR box-IN.ESS inside Qartay-TOP remain-PST.UNW
+Translation: She [then] knew it was Tsirdukh and that there was no way out, and without any sound, Qartay stayed in the box.
+Sentence: Däq hemedur eƛin rok’łinč’us yołiƛin, eƛin qartayä, di mi aħirno, ešayn ac’a zowsƛin.
+Gloss: me-POSS.ESS so say-PST.UNW heart-NMLZ-NEG.PST.WIT-ATTR if-QUOT say-PST.UNW witch-ERG me you cook-CAUS-PFV.CVB bake-PFV.CVB eat-INF be.NPRS-PST.WIT-QUOT
+Translation: "If I hadn't said so," the with said, "I would've cooked, baked and eaten you!"
+Sentence: Neł kawumoz acmoq rexoriłno zawru ɣˤʷak’un riqirno yizanƛin yaqru ža, ƛ’irir ža yoq’ˤugani acno yoƛ’ˤun Qartayn ƛ’iƛ’iłno yexun.
+Gloss: DEM1.IISG.OBL gate-GEN2 door-ERG-POSS.ESS IV-hang-PFV.CVB be.NPRS-PST.PRT hook-TOP IV-take.away-PFV.CVB II-get.up-FUT.CVB-QUOT II-begin-PST.PRT DEM1.SG above-LAT DEM1.SG II-heavy-ATTR-DEF door-TOP II-fall-PFV.CVB Qartay-TOP get.crushed-PFV.CVB II-die-PST.UNW
+Translation: Qartay took the hook that hang at the door of that gate, began to get up; the heavy door fell down, Qartay got crushed and died.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ƛ’ˤu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ƛ’ˤu: 
+
+Exact Matches
+Sentence: Sasaqosi moƛaxay yäziru eniw, ɣˤutkoł adäza mesedyos ƛ’ˤu yołäsi ɣˤutku rukayn.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-PST.PRT mother house-CONT.ESS before gold-GEN1 roof be-RES.PRT house IV-see-PST.UNW
+Translation: The next morning the mother who got up from her sleep, saw a house with a golden roof in front of her house.
+Sentence: Zozis ƛ’ˤu yołäsi qoš zawru, howži elo rigu bercinaw ɣˤutku yołƛax.
+Gloss: moss-GEN1 roof be-RES.PRT shelter be.NPRS-PST.PRT now there IV-good beautiful house be-QUOT
+Translation: Where the shelter with the moss roof used to be, there was now a good, beautiful house.
+Sentence: ƛ’ˤu bešnada boqnosi, neła q’orolayä kidbeqor eƛin:
+Gloss: roof III-leak-INF III-begin-ANT.CVB DEM1.IISG.OBL widow-ERG daughter-POSS.LAT say-PST.UNW
+Translation: When the roof began to leak, the widow said to her daughter:
+
+Approximate Matches:

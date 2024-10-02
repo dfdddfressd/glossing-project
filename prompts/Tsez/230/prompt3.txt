@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yeženä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yeženä: 
+
+Exact Matches
+Sentence: Xizay bayru žedu ʕoloqzaqor yeženä eƛin, nesis hunar mežizoƛ’ay bežis, meža royxosi šebin šebi, dey xexbiƛin.
+Gloss: from.behind I.PL-come-PST.PRT DEM1.IPL.OBL young.person-PL-POSS.LAT II-old-DEF-ERG say-PST.UNW DEM1.ISG.OBL-GEN1 talent you.PL-GEN2-SUPER.ABL III-win-PST.WIT you(I).PL.OBL-ERG IV-do-PRS.PRT thing what me-GEN1 children-QUOT
+Translation: The old woman said to those young peple who came behind them: "He is more talented than you all, what is what you do, my children?
+Sentence: Bažarizi raq, šida däq roqxanuƛin, yeženä bašiqˤoyn risno yizin xanzo madazaxaɣor yik’in.
+Gloss: able IV-become why me-POSS.ESS IV-become-PRS-NEG-QUOT II-old-DEF-ERG ring-TOP IV-take-PFV.CVB II-get.up-PFV.CVB khan-GEN2 yard-PL-AD.VERS II-go-PST.UNW
+Translation: "I can, why not?", the old woman took the ring, got up and went to the king's yards.
+Sentence: Yedu yukayrun, yeženä bašiqˤoy erali reƛ’a nełar rukadałxor soder rizirno.
+Gloss: DEM2.IISG II-see-IMM.ANT.CVB II-old-DEF-ERG ring put-ATTR hand DEM1.IISG.OBL-LAT IV-see-INF-CONT.VERS after IV-lift-PST.UNW
+Translation: After she saw her, the old woman lifted the hand with the ring put inside, so she could see it.
+
+Approximate Matches:
+Sentence: Žigoƛ’aygon xanes yeženi kidno yok’ek’no, xizor utin idur bežet’ani esnazaƛ’ay ader ayn.
+Gloss: now-SUPER.ABL-CNTR khan-GEN1 II-old-DEF daughter-TOP II-steal-PFV.CVB back return-PFV.CVB home-LAT I.PL-old-DISTR-DEF brother-PL-SUPER.ABL before come-PST.UNW
+Translation: And now he stole the king's oldest daughter and returned home before his older brothers.
+Sentence: Qura ƛˤebaƛ’aza di äƛiru šebin neƛanix mi ƛ’iri risnäy, di yedu nasin šebin tełxor čantaɣor rutiranƛin, eƛin eženä.
+Gloss: twenty.OBL year-SUPER.VERS.DIST me say-PST.PRT thing give-MSD-AD.ESS you above IV-take-CND.CVB me DEM2.IISG all thing inside-AD.LAT pocket-IN.VERS IV-gather-FUT.DEF-QUOT say-PST.UNW old-DEF-ERG
+Translation: "If you promise to give [me] after 20 years all the things I said, I will bring all the things into the inside of the pocket again.", said the old one.
+Sentence: Mi äƛiru roži t’ubazi rodinč’uƛin, xanä yeženi esiw xizor yoxirno.
+Gloss: you say-PST.PRT word fulfill IV-do-NEG.PST.WIT-QUOT khan-ERG II-old-DEF sister back II-chase-PST.UNW
+Translation: "You didn't keep your word!" said the king and chased the oldest sister back.

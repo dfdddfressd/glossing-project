@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: hek’uyax.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": hek’uyax
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word hek’uyax:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yisi užä yedu kid idurno yižin, sasaqozox nasin moƛaxay bizinosi, eƛin, eni, mi hek’uyax eč’uri roda yik’inäy, yiła iduzasi radi, di ciqaɣor ik’anƛin.
+Gloss: DEM2.ISG.OBL boy-ERG DEM2.IISG girl home-LAT-TOP II-lead-PFV.CVB early.morning all sleep-AD.ABL III-get.up-ANT.CVB say-PFV.CVB mother you potatoe-AD.ESS weeding IV-do-INF II-go-CND.CVB DEM2.IISG.OBL-ERG home-PL-ATTR IV-do me forest-IN.VERS go-FUT.DEF-QUOT
+Translation: The boy took the girl home and in the early morning, when everyone got up from their sleeps, he said: "Mother, if you go to weed the potatoes, she will do the housework and I will go into the forest."
+
+Approximate Matches:
+Sentence: Howt’o aɣˤʷa teł žek’uyey zowsƛin.
+Gloss: here mill-IN.ESS inside man-DUB be.NPRS-PST.WIT-QUOT
+Translation: And there seemed to be a man inside this mill!"

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: aħyabin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": aħyabin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word aħyabin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mi aħyabin rˤoƛ’urno šida ičäsiƛin esirnosi, yisä eƛin, debex di esiw yegirłin, mi däq debi mi maʕišat bukarxanuƛin.
+Gloss: you ear-PL-TOP IV-let.fall-PFV.CVB why be-RES.PRT-QUOT ask-ANT.CVB DEM2.ISG.OBL-ERG say-PST.UNW you-AD.ESS me sister II-send-CNC.CVB you me-POSS.ESS you-GEN1 you fortune III-show-PRS-NEG-QUOT
+Translation: When in the morning he asked: "Why are you sitting there with your ears fallen down?", he answered: "Although I married off my sister to you, you don't show me your fortune."
+Sentence: Howži aħyabin rˤoƛ’urno xanes uži yeda ičix zawru mečoƛ’or ayn.
+Gloss: now ear-PL-TOP IV.PL-let.fall-PFV.CVB khan-GEN1 son DEM2.ISG live-IPFV.CVB be.NPRS-PST.PRT place-SUPER.LAT come-PST.UNW
+Translation: Now, the prince hang his head and went to the place where he was living.
+Sentence: Bˤeƛo buqˤełno, ažoz k’odrezaxazay aħyabin roƛik’no kecno bičin, k’et’u c’idox tataniłxo zown.
+Gloss: pig III-hide-PFV.CVB tree-GEN2 bunch-PL-AD.ABL.DIST ear-PL-TOP IV.PL-push.out-PFV.CVB sleep-PFV.CVB III-be-PFV.CVB cat fire-AD.ESS warmthen.oneself-IPFV.CVB be.NPRS-PST.UNW
+Translation: The pig was hiding behind a bunch of trees, pushing out its ears and sleeping, while the cat was warming itself by the fire.
+
+Approximate Matches:
+Sentence: Howži yeda q’ebedes uži ƛ’irir aynosi, zeyän, ziran yisiq harizi rodin howziri łˤonon: gulun, ħurženyabin, k’ukno eluƛ’ riłixor rułirƛin.
+Gloss: now DEM2.ISG smith-GEN1 son above-LAT come-ANT.CVB bear-ERG-and fox-ERG-and DEM2.ISG.OBL-POSS.ESS request IV-do-PFV.CVB DEM3.IPL three-TOP horse-and bag-PL-and cap-and we(I).OBL-SUPER.ESS equality-AD.LAT III.PL-share-QUOT
+Translation: Now that the son of the smith came, the bear and the fox asked him: "Share these three items: the horse, the bags and the cap among us equally!"
+Sentence: Hudayzikotow Tawadä Ražbadin Telawi šaharyarno ižin riguƛ’ay rigut’a daruyabin risno saɣ odix.
+Gloss: the.next.day-EMPH Tavadi-ERG Razhbadin Telavi city-IN.LAT-TOP lead-PFV.CVB IV-good-SUPER.ABL IV-good-DISTR medicine-Q-PL-TOP IV-buy-PFV.CVB cure do-PRS
+Translation: The next day Tavadi lead Razhbadin to the city of Telavi, bought him the best medicine and cured him.
+Sentence: Xizyogon nukarä xanqor eƛin, raładno boɣno bitaz puƛ’aza yołƛin teqxo bokobin, k’ukyabin raqˤuxosi kidƛin, nełał xizaygon elor egiranix bełiquz užiƛ’ay mustaħiq’aw žek’un anuƛin.
+Gloss: again henchman-ERG khan-POSS.LAT say-PST.UNW sea-TOP III-cross-PFV.CVB distance-IN.ESS.DIST side-SUPER.VERS.DIST be-QUOT hear-PRS fur.coat-PL-and cap-PL-and III.PL-sew-PRS.PRT girl-QUOT DEM1.IISG.OBL-CONT.ESS behind-CNTR there-LAT send-MSD-AD.ESS hunter-GEN2 son-SUPER.ABL suitable man-TOP be.NEG-QUOT
+Translation: Again the henchman said to the king, "On the other side of the sea, as I have heard, lives girl wo sews coats and caps; there is no man more suitable than the hunter's son to be sent there after her."

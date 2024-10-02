@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣˤanabi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣˤanabi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣˤanabi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesä ƛirbaq esirno, yedu ɣˤanabi šida qˤaƛanayx ʕiyayxƛin.
+Gloss: DEM1.ISG.OBL-ERG guest-POSS.ESS ask-PST.UNW DEM2.IISG woman why yell-IPFV.CVB cry-PRS-QUOT
+Translation: He asked the guest: "Why is this woman yelling and crying?"
+Sentence: Nełƛ’ay soder ža ɣˤanabi xedyoz zulmuqayn yok’ełno, Allahzo ašunoz kumakyoƛaza raħatyoƛ’ zown.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after DEM1.SG woman husband-GEN2 tyranny-POSS.ABL-and II-beat-POT-PFV.CVB God-ATTR.OBL belt-GEN2 help-SUB.VERS recreation-SUPER.ESS be.NPRS-PST.UNW
+Translation: After that, the woman got repose from her husband's tyranny and his beatings with the help of the rainbow.
+Sentence: Didurgon, šebigon resułin xal bodanix elor ɣˤanabi yegira yay, yałi - ela badiru ħukmu meq’aw bäčiƛin, diwan boyxozo xalq’imo xan wˤałer ezurerno.
+Gloss: how-CNTR what-CNTR IV-find-CNC.CVB examination III-do-MSD-AD.ESS there-LAT woman II-send-INF II-must else - we(I).OBL-ERG III-do-PST.PRT decision wrong III-be-QUOT judgement III-do-PRS.PRT.OBL people-ERG khan downward-LAT show-CAUS-PST.UNW
+Translation: "How- and whatever it is, we must send a woman there to make an examination, or else the decision we make will be wrong.", the judges said and calmed down the king.
+
+Approximate Matches:
+Sentence: Tełäzay sis žuka ɣˤanabin yoƛixno esirno nesiq, heresi esa kaƛ’iya, kaƛ’inč’a.
+Gloss: inside-IN.ABL.DIST one bad woman-TOP II-appear-PFV.CVB ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS lie tell-INF understand.to-Q understand.to-NEG.PST.WIT-Q
+Translation: From inside a bad woman appeared and asked him: "Can you tell a lie or not?
+Sentence: Zamanałäygon neside puħo, puräzagon t’asno eqerno, ža ɣˤanabin q’ˤida yičin.
+Gloss: time-CONT.ABL-CNTR DEM1.ISG.OBL-APUD.ESS side-AD.ESS side-IN.VERS.DIST-CNTR washbowl-TOP put-PFV.CVB DEM1.SG woman-TOP down II-sit-PST.UNW
+Translation: And after some time the woman sat down next to him and put a washbowl at his side.
+Sentence: Howła imadał hič’č’a ixiw šebi yoł: isä, ceyä, t’ekayä, aħoyä, ziruyä, q’orol ɣˤanabiyä?
+Gloss: DEM3.IISG.OBL tale-CONT.ESS the.most big who be conceive eagle-Q he.goat-Q shepherd-Q fox-Q widowed woman-Q
+Translation: Who is the biggest one in this tale: The bull, the eagle, the goat, the shepherd, the fox or the widow?

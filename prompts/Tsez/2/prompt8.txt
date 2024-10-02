@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ruqˤno using Leipzig glossing symbols. The sentence this word is drawn from means: "Then one henchman saw the wives that the king's son had hidden inside the fortress.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ruqˤno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ruqˤno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sasiłacen ičin, iduɣorno bižin yisä yedu ħumukuli buyn bexayn, waħazoni ɣˤutka nełas reƛno ruqˤno.
+Gloss: get.dark-TERM-TOP wait-PFV.CVB home-IN.ALL-TOP III-lead-PFV.CVB DEM2.ISG.OBL-ERG DEM2.IISG camel III-indeed-TOP III-slaughter-PFV.CVB below-ATTR.OBL-DEF room-IN.ESS DEM1.IISG.OBL-GEN1 meat-TOP IV-hide-PST.UNW
+Translation: She waited until it got dark, lead that camel home and indeed slaughtered it and hid it's meat in the cellar.
+Sentence: Ža q’ˤimno ruqˤno yeda esiwde igor ayn.
+Gloss: DEM1.SG head-TOP IV-hide-PFV.CVB DEM2.ISG sister-APUD.ESS near-LAT come-PST.UNW
+Translation: That head he hid and went toward his sister.
+Sentence: Sis k’ucin, k’et’us xexoyn ałux ruqˤno žedun rižin q’orolay xanez barudäɣor yik’in.
+Gloss: one puppy-and cat-GEN1 young.animal-and skirt-AD.ESS III.PL-hide-PFV.CVB DEM1.IIPL-and III.PL-carry-PFV.CVB widow khan-GEN2 wife-APUD.VERS II-go-PST.UNW
+Translation: The widow hid a puppy and a kitten under her skirt and carried them to the king's wife.
+
+Approximate Matches:
+Sentence: Yiłaz babiwr čuqˤno, ža ɣˤʷay esiranix xanes uži neła kidbä rok’uƛ’ esärułi.
+Gloss: DEM2.IISG.OBL-GEN2 father-LAT notice-PFV.CVB DEM1.SG dog ask-MSD-AD.ESS khan-GEN1 son DEM1.IISG.OBL daughter-ERG heart-SUPER.ESS ask-MSD
+Translation: Her father noticed that the daughter asked on her heart(?) that the prince should ask for the dog.
+Sentence: Hoboy kidbazar čuqˤno, žedu roɣno kurno babiw äk’irułi.
+Gloss: now girl-PL-LAT notice-PST.UNW DEM1.IIPL II.PL-take.away-PFV.CVB throw-PFV.CVB father go-MSD
+Translation: Now the girls noticed that their father abandoned them and went away.
+Sentence: Neła buqˤno zawruni q’ayn bižin, žeda žedus ʕaƛazaɣorno bik’in.
+Gloss: DEM1.IISG.OBL-ERG III-hide-PFV.CVB be.NPRS-PST.PRT-DEF article-TOP III-take.out-PFV.CVB DEM1.IPL.OBL-ERG DEM1.IPL.OBL-GEN1 village-PL-IN.VERS-TOP I.PL-go-PFV.CVB
+Translation: They took out the article that she hid, and went to their own villages.

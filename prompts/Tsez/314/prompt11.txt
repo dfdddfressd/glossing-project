@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bełiqanzarzoni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bełiqanzarzoni: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hudayƛ’aygon hemedurtow ročyoxno icin egirnosi, ƛ’iri yałruni bełiqanzas q’ut’i boqno, žigoƛ’ay roč k’ek’erłin ela ža izirač’inƛin.
+Gloss: on.the.next.day so-EMPH rope-AD.ESS-TOP tie-PFV.CVB let-ANT.CVB above be-PST.PRT-DEF hunter-PL-GEN1 agreement III-become-PFV.CVB again-SUPER.ABL rope move-CAUS-CNC.CVB we(I).OBL-ERG DEM1.SG lift-NEG.FUT.DEF-QUOT
+Translation: The next day[time?], when they let him [down], tied to the rope, the hunters that were above, agreed: "When he moves the rope again, we won't lift him up."
+Sentence: Bayn bełiqanza bišʷa esirnosi, nesän žeduq raqru šebin esin, hemedurtow mamalayƛ’no zown t’omceni žek’un ayn, nasintow bišʷa rac’a ža oqnosi elay ža oɣƛ’oräy, mešok’lałäy musno boɣno nesä di ɣunoqor icisƛin mus bukarno.
+Gloss: I.PL-come-PFV.CVB hunter-PL-ERG food ask-ANT.CVB DEM1.ISG.OBL-ERG-TOP DEM1.IPL.OBL-POSS.ESS IV-happen-PST.PRT thing tell-PST.UNW so-EMPH rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB span-EQU1-DEF man-TOP come-PFV.CVB all-EMPH food IV-eat-INF DEM1.SG begin-ANT.CVB there-IN.ABL DEM1.SG take.away-SIM.CVB moustache-CONT.ABL hair-TOP III-take.away-PFV.CVB DEM1.ISG.OBL-ERG me tree-POSS.LAT tie-PST.WIT-QUOT hair III-show-PST.UNW
+Translation: When the hunters came and asked for food, he also told them what had happened: "So a span-sized man came riding on a rooster, and when he began to eat up all the food and I wanted to take him away from there, he took a hair out of his moustache and tied me to a tree." and he showed them the hair.
+Sentence: Žigoƛ’aygon bełiqanza bišʷa rodanix q’ˤano žek’u xecin, hudukinda žeda ħal bayranƛin.
+Gloss: again-SUPER.ABL-CNTR hunter-PL-ERG food IV-do-MSD-AD.ESS two man leave-PFV.CVB so-even-COND DEM1.IPL.OBL-ERG strength III-bring-FUT.CVB-QUOT
+Translation: This time, the hunters left two men there to make the food, so that maybe in this way they would be strong enough.

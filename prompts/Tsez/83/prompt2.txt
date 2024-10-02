@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: best’alaw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": best’alaw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word best’alaw:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yeda, łukin tełxorno goƛ’inč’ey, best’alawni iłe kawumox hečk’er ƛexun.
+Gloss: DEM2.ISG who.ERG-even inside-AD.LAT-TOP invite-NEG.PST.CVB orphan-DEF as gate-AD.ESS upright remain-PST.UNW
+Translation: Because no one invited him inside, he stood there upright at the gate like an orphan.
+Sentence: Neła babiwqor eƛin, howža best’alawni esiw yexura yay, ža č’agun yičin dey dunyalƛ’o netikin taliħ boqa anuƛin.
+Gloss: DEM1.IISG.OBL-ERG father-POSS.LAT say-PST.UNW DEM4.SG step-DEF sister II-kill-INF II-must DEM1.SG alive-TOP II-be-TOP me-GEN1 world-SUPER.ESS when-even happiness III-become-INF be.NEG-QUOT
+Translation: She said to her father: "You must kill this stepsister, when she is alive, I will not get happy again ever in my world."
+Sentence: Yedu haqa yogun ƛexun, nece bercinawn, č’uħarawn šeƛ’u yiła best’alawni kidber naey riqisƛin.
+Gloss: DEM2.IISG mouth-IN.ESS II-gape-PFV.CVB remain-PST.UNW so.much beautiful-and gorgeous-and clothing DEM2.IISG.OBL step-DEF girl-LAT where-DUB IV-get-PST.WIT-QUOT
+Translation: She was gaping: "Where the heck did the 'stepgirl' get so beautiful and gorgeous clothes from?"

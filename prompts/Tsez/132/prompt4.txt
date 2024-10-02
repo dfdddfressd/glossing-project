@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xanqayn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xanqayn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xanqayn:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xanqay roƛik’u bečełin risno, doxturä sider sis nece betixosi kidno, užin sadaq begirno.
+Gloss: khan-POSS.ABL half riches-TOP IV-take-PFV.CVB doctor-ERG one.OBL-LAT one so.much III-want-PRS.PRT girl-TOP boy-TOP together III-send-PFV.CVB
+Translation: If they loved each other so much, the doctor took the half of the khan's riches and sent the boy and the girl together.
+Sentence: Eženi žoyä ža q’ut’u bisno nesi bazarganqay.
+Gloss: old-DEF son-ERG DEM1.SG earthen.jug I.PL-take-PST.UNW DEM1.ISG.OBL merchant-POSS.ABL
+Translation: The eldest son took the jug from the merchant.

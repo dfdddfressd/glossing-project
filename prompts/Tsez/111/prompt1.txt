@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Užiz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Užiz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Užiz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sasaqosi moƛaxayn bizin, aždaħä yeɣeni kidbeqorƛin eƛin, Maryam där bišan riso, ič’an eɣeni užiz iyos q’ut’un bic’o mečołxor raƛin.
+Gloss: in.the.morning sleep-AD.ABL-TOP III-get.up-PFV.CVB dragon-ERG II-young-DEF daughter-POSS.LAT-QUOT say-PST.UNW Maryam me-LAT food-TOP IV-take-IMPR most-TOP young-DEF boy-GEN2 blood-GEN1 earthen.jug-TOP III-fill-IMPR field-CONT.VERS IV-bring-QUOT
+Translation: In the morning, after getting up from his sleep, the dragon said to - what he supposed was - his youngest daughter: "Maryam, take the food to me and fill the earthen jug with the youngest boy's blood and bring them to the field!"
+Sentence: Sida quł užiz rok’ƛ’or rayn, netintow däde sadaq babiwn äčinč’i, din besurobi riqiranix ruhun oqa ayƛin.
+Gloss: one.OBL day-CONT.ESS son-GEN2 heart-SUPER.LAT IV-come-PFV.CVB always-EMPH me-APUD.ESS together father-TOP live-NEG.FUT me-TOP fish-PL III.PL-catch-MSD-AD.ESS learn become-INF must-QUOT
+Translation: One day the son thought: "My father won't always live with me, I need to learn how to catch fish."
+
+Approximate Matches:

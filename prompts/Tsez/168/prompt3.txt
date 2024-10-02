@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žek’uz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žek’uz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žek’uz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Allahzo ħalk’ołiƛ’aza ɣˤutkoxor ayzaƛ’ortow gamiƛ’ozoni žek’uz ozzałer č’ura rayn.
+Gloss: God-GEN2 might-SUPER.VERS.DIST house-AD.LAT come-POST.CVB-EMPH boat-SUPER.ESS-GEN2-DEF man-GEN2 eye-PL-CONT.LAT light IV-come-PST.UNW
+Translation: Through Allah's might, the light came back to the sailor's eyes even before he had come to his house.
+Sentence: Biči, hiboƛin, eƛizaƛ’or deber aciru žek’uz gugyoƛ’ yedu biħnayxosiƛin.
+Gloss: III-stop.IMP stick-QUOT say-POST.CVB you-LAT bother-PST.PRT man-GEN2 back-SUPER.ESS DEM2.IISG III-fight-PRS.PRT-QUOT
+Translation: "As long as you do not say 'Stop, stick', it hits on the back of that man, which bothers you."
+Sentence: Raładyołxorno yiħun, muhumozas qotno ric’no yoƛixno eƛin, šibaw žek’uz akä sist’a muhu eqro, elay bitorsi debi ħalt’i anuƛin.
+Gloss: sea-CONT.VERS-TOP II-come.to-PFV.CVB granule-PL-GEN1 handfull-TOP IV-fill-PFV.CVB II-appear-PFV.CVB say-PST.UNW every man-GEN2 window-IN.ESS one.at.a.time granule put-IMPR here-IN.ABL thither-ATTR you-GEN1 work be.absent-QUOT
+Translation: She went into the sea, filled her hand with grains, reappeared and said: "Put one grain into the window of each man, besides that there's no more work for you."
+
+Approximate Matches:
+Sentence: Neł č’uramxor ɣˤutkoxorno ik’in akäz ezunosi, sis ozuri yołali esiya q’ˤiryoƛ’ geler žek’uzas q’ˤimbi kurxo yukayn.
+Gloss: DEM1.IISG.OBL light-AD.LAT house-AD.LAT-TOP go-PFV.CVB window-IN.ESS.DIST look-ANT.CVB one eye be-ATTR sister-ERG floor-SUPER.ESS head.over.heals man-PL-GEN1 head-PL throw-IPFV.CVB II-see-PST.UNW
+Translation: He went to the house with light, looked into the window and saw his one-eyed sister throwing people's heads over the floor.
+Sentence: Ħurženyaɣor reƛ’a regirnosi, xanzo užir hemesi žek’uzoq riłäsi eƛuk’ resun.
+Gloss: bag-IN.ALL hand IV-let-ANT.CVB khan-GEN2 son-LAT DEM4.ISG.OBL man-ATTR.OBL-POSS.ESS IV-resemble-RES.PRT leather.sack IV-find-PST.UNW
+Translation: The prince reached his hand into the bag and found a leather sack that resembled the man's.

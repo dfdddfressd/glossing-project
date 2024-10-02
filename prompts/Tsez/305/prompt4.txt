@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yizir in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yizir: 
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Elo yizir qazaqzas bˤeƛ’es reqenyabi resux.
+Gloss: there DEM2.IPL.OBL-LAT Georgian-PL-GEN1 sheep-GEN1 herd-PL III.PL-find-IPFV.CVB
+Translation: There they found herds of sheep from the Georgians.
+Sentence: Esanayn łiynosi, yizir xanez kidbes šeƛ’u resunanu.
+Gloss: swim-PFV.CVB end-ANT.CVB DEM2.IPL.OBL-LAT khan-GEN2 daughter-GEN1 clothing IV-find-PST.UNW-NEG
+Translation: After she finished swimming, they couldn't find the princess' clothes.
+
+Approximate Matches:
+Sentence: Harihun maʕišat bodix bäčiru yizirabi, sida quł xizor rutixanusi roƛnin c’oxno babiwn eniwn bexun iłnon esnabi best’alłiƛ’ ƛexun.
+Gloss: slowly fortune III-do-IPFV.CVB III-be-PST.PRT DEM2.IIPL one.OBL day-CONT.ESS back IV-turn.back-NEG.PRS.PRT disease-TOP hit-PFV.CVB father-and mother-and I.PL-die-PFV.CVB six-TOP brother-PL orphanhood-SUPER.ESS remain-PST.UNW
+Translation: They slowly made their fortune, and one day an irreversible disease hit them and the father and the mother died, so the six brothers remained orphans.
+Sentence: Qˤišdäy sodersi zaman baynosi, yizirabi rešt’izi boqanix sidaɣ sanaʕataw mečoƛ’or bayn.
+Gloss: at.noon.APUD.ABL after-ATTR time III-come-ANT.CVB DEM2.PL take.a.rest I.PL-become-MSD-AD.ESS in.one.place comfortable place-SUPER.LAT I.PL-come-PST.UNW
+Translation: When the afternoon had come, they came to a comfortable place to take a rest.
+Sentence: Łox esirno dandir žawab biqinč’izaƛ’, yizirabi kecsi howžiƛin, ɣoɣoräk’ru ħos risno užizasƛin eƛin kidbazas meč’oƛ’no eqerno, yik’in kecno.
+Gloss: thrice ask-PFV.CVB together answer III-get-NEG.FUT-CSL.CVB DEM2.PL sleep-PST.WIT now-QUOT make.red.hot-PST.PRT stick IV-take-PFV.CVB boy-PL-GEN1-QUOT say-PFV.CVB girl-PL-GEN1 neck-SUPER.ESS-TOP put-PFV.CVB II-go-PFV.CVB sleep-PST.UNW
+Translation: Because she had asked three times without getting an answer, [saying] "Now they're sleeping", she took the red-hot stick and - thinking it were the boys - put it onto the necks of the girls and went to sleep.

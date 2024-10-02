@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ezmoxorno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ezmoxorno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ezmoxorno:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Aɣä esin, ɣunoxorno bayn, zira maħin rok’no rutirno žan caƛin, nasin xexoyabi roɣa yołƛin, däqay q’ˤanon xexoy boɣsi, sistow sis därno xecinƛin.
+Gloss: bird-ERG tell-PFV.CVB tree-AD.LAT-TOP III-come-PFV.CVB fox-ERG tail-TOP IV-beat-PFV.CVB IV-turn-PFV.CVB DEM1.SG-TOP throw-PFV.CVB all young.animal-PL IV-take.away-INF be-QUOT me-POSS.ABL two-TOP young.animal III-take.away-PST.WIT one-EMPH one me-LAT-TOP leave-PST.UNW-QUOT
+Translation: The bird said: "A fox has come to the tree and wanted to throw it down with a beat of his tail to take away all my nestlings, two nestlings he took, so just a single one he left for me."
+Sentence: Žedu nexxo bukaynosi, yeda neł ixinoxorno oqno ʕuraw q’ʷaridno oqno ičin.
+Gloss: DEM1.IPL come-IPFV.CVB I.PL-see-ANT.CVB DEM2.ISG DEM1.IISG.OBL bag-AD.LAT-TOP become-PFV.CVB very sadness-TOP become-PFV.CVB be-PST.UNW
+Translation: When he saw them coming, he came next to that bag and became very sad.
+Sentence: Łˤono äƛiru ɣudƛ’ogon ziru ɣunoxorno bayn aɣixor qˤaƛin, kurnäy där xexoy kuro, yäłi ɣunno rutirno minnan nełde sadaq bac’a yołƛin.
+Gloss: three say-PST.PRT day-SUPER.ESS-CNTR fox tree-AD.LAT-TOP III-come-PFV.CVB bird-AD.LAT shout-PFV.CVB throw-CND.CVB me-LAT young.animal throw-IMPR else tree-TOP IV-turn-PFV.CVB you-TOP-INT DEM1.IISG.OBL-APUD.ESS together III-eat-INF be-QUOT
+Translation: On the third day, the fox came to the tree again and shouted to the bird: "Throw me down your nestling, or else I will throw the tree over and eat you together with it!"

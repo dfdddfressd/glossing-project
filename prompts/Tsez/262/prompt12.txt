@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word lelaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word lelaƛ: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sasaqosi esnazar łuq’zi boqali ceyłäy bäk’iru iyon, nełqay rˤaƛ’uru lelabin rukayn.
+Gloss: in.the.morning brother-PL-LAT hurt III-become-ATTR eagle-CONT.ABL III-go-PST.PRT blood-and DEM1.IISG.OBL-POSS.ABL II.PL-fall-PST.PRT feather-PL-and III.PL-see-PST.UNW
+Translation: In the morning the brothers saw the blood that came out of the wounded eagle and the feathers that fell from it.

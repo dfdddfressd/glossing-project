@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: babiwqorno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": babiwqorno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word babiwqorno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Łi rowa ik’iƛin babiwqorno eƛin, Ismaʕilä bišadyoƛ’ ƛ’iri ʕArabuzanä teƛno zawruni bašiqˤoy łox šet’u rutirno.
+Gloss: water IV-bring-INF go-QUOT father-POSS.LAT-TOP say-PFV.CVB Ismail-ERG food-SUPER.ESS above Arabuzan-ERG give-PFV.CVB be.NPRS-PST.PRT-DEF ring thrice around IV-turn-PST.UNW
+Translation: "Go and bring some water!", Ismail said to his father and turned the ring that Arabuzan had given to him over the food three times.
+
+Approximate Matches:
+Sentence: Sida quł roƛa yutirnosi, eniya kidbeqor eƛin, mi babiwqor eƛo, nagaħ di yexunäy hoboda bašiqˤoy c’oxxosi taraw nesä ɣˤanabi yawnoƛƛin.
+Gloss: one.OBL day-CONT.ESS IV-hurt-INF II-begin-ANT.CVB mother-ERG daughter-POSS.LAT say-PFV.CVB you father-POSS.LAT say-IMPR suddenly me II-die-CND.CVB that ring match-PRS.PRT except.for DEM1.ISG.OBL-ERG woman II-marry-PROHIB-OPT-QUOT
+Translation: One day, when the mother started to feel pain, she told her daughter: "Tell your father that when I suddenly die, he may only marry a woman who matches this ring!"
+Sentence: Neła babiwqor eƛin, howža best’alawni esiw yexura yay, ža č’agun yičin dey dunyalƛ’o netikin taliħ boqa anuƛin.
+Gloss: DEM1.IISG.OBL-ERG father-POSS.LAT say-PST.UNW DEM4.SG step-DEF sister II-kill-INF II-must DEM1.SG alive-TOP II-be-TOP me-GEN1 world-SUPER.ESS when-even happiness III-become-INF be.NEG-QUOT
+Translation: She said to her father: "You must kill this stepsister, when she is alive, I will not get happy again ever in my world."
+Sentence: Kidbä yik’in mat’izaxay oɣo žaƛin babiwqor eƛinosi, nesä inkar bodin, eläy oɣłin nełƛ’ay bigza mečoƛ’or di ža egärinč’iƛin.
+Gloss: girl-ERG II-go-PFV.CVB duck-PL-AD.ABL take.away-IMPR DEM1.SG-QUOT father-POSS.LAT say-ANT.CVB DEM1.ISG.OBL-ERG rejection III-do-PFV.CVB there-IN.ABL take.away-CNC.CVB DEM1.IISG.OBL-SUPER.ABL III-well-ZA place-SUPER.LAT me DEM1.SG let-NEG.FUT-QUOT
+Translation: When the daughter went and told her father: "Let him away from the ducks!", he rejected and said: "I won't let him to a place better than this one."

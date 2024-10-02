@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bac’äsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bac’äsi: 
+
+Exact Matches
+Sentence: Eloza bezu-bˤoƛ’unosi, zirur boƛik’u bac’äsi ƛeles q’ulaʕi besun.
+Gloss: there-ZA III-examine-ANT.CVB fox-LAT half III-eat-RES.PRT lamb-GEN1 carcass III-find-PST.UNW
+Translation: When he looked around there, he found the carcass of a half-eaten lamb.
+
+Approximate Matches:
+Sentence: Debi di č’iħotow rac’äsi anuƛin, žawab teƛno žoyä.
+Gloss: you-GEN1 me fruit-EMPH IV-eat-RES.PRT be.NEG-QUOT answer give-PST.UNW boy-ERG
+Translation: "Your fruits I haven't eaten.", answered the boy.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xabar.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xabar
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xabar:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.
+Gloss: so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT
+Translation: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.
+Sentence: ʕAƛar xabar bayn, hunix zigolun yegirno, raq’ˤu bˤeƛ’ rexunƛin.
+Gloss: village-IN.LAT story III-come-PST.UNW way-AD.ESS hail-TOP II-send-PFV.CVB III.PL-many sheep III.PL-die-PST.UNW-QUOT
+Translation: Into the village came the news that on the way it had hailed and many sheep had died.
+
+Approximate Matches:
+Sentence: Užizar ža xabarno teqno, žedu daʕbałer begin, di ik’ixƛin Ħasan, ay di ik’ixƛin Ħusen.
+Gloss: boy-PL-LAT DEM1.SG story-TOP hear-PFV.CVB DEM1.IPL dispute-CONT.LAT I.PL-go.into-PST.UNW me go-PRS-QUOT Hassan must me go-PRS-QUOT Hussein
+Translation: When the boys heard that, they started a dispute: "I am going!", said Hassan; "No, I am going!" said Hussein.
+Sentence: Harihun xabaryayx baƛ’ix žedu bik’iƛ’oräy, nełał xizay qˤaƛanayx durimoƛ’ k’oƛin kid yayx yukayn, eni, howlo yiči, oč’ira däz mučariłäy sis kamiruni mučari miyä risäƛin.
+Gloss: slowly talk-IPFV.CVB I.PL-talk-IPFV.CVB DEM1.IPL I.PL-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS behind yell-IPFV.CVB running run-PFV.CVB daughter II-come-IPFV.CVB II-see-PFV.CVB mother there II-remain nine me-GEN2 cumin-CONT.ABL one get.lost-PST.PRT-DEF cumin you-Q IV-take-PST.WIT.INT-QUOT
+Translation: While they were going slowly and talking, they saw her daughter running and yelling behind them: "Mother, stay there, did you take the one cumin cake that got lost from my nine?"
+Sentence: Łox äƛiru ik’inosin, neła yisiqor xabarkin boyn anu.
+Gloss: thrice ORD go-ANT.CVB-TOP DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT story-even III-do-PFV.CVB be.NEG
+Translation: Also the third time when he went, he did not say anything to him.

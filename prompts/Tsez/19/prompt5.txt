@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: hut’bi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": hut’bi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word hut’bi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howła däz xexzas tatuwa quqix, behizi roqnäy, hut’bi rešak’ace łi neƛ, debertow ažru bäqi”.
+Gloss: DEM3.IISG.OBL me-GEN2 child-GEN1 cheerfulness-Q dry.out-IPFV.CVB permit IV-become-CND.CVB lip-PL IV-moisten-TERM water give you-LAT-EMPH recompense III-get
+Translation: My child is getting weak; if it is possible, give her enough water to moisten her lips, she will recompensate you."
+Sentence: Nesä hut’bi ragi-rac’xotow išanixno oqno ʕAt’idzo čanta yałru kinaw šebin łiyrno.
+Gloss: DEM1.ISG.OBL-ERG lip-PL IV-lick.up-IPFV.CVB-EMPH eat-MSD-AD.ESS-TOP begin-PFV.CVB Atid-GEN2 pocket-IN.ESS be-PST.PRT entire thing finish-PST.UNW
+Translation: Licking his lips, he began to eat and finished everything that was in Atid's pocket.
+
+Approximate Matches:
+Sentence: Exa adäza babiya užizaqor wasi bodin, were, dey xexbi, di exunosi, šibaw ruzman ɣudƛ’o däz šudaƛ’orno nexno meža q’ulhut’a t’et’roƛin.
+Gloss: die-INF before dad-ERG son-PL-POSS.LAT testament III-do-PST.UNW well me-GEN1 children me die-ANT.CVB every Friday day-SUPER.ESS me-GEN2 graveyard-SUPER.LAT-TOP come-PFV.CVB you(I).PL.OBL-ERG funeral.prayer-DISTR read-IMPR-QUOT
+Translation: Before he died, the father did his testament: "Well, my children, after I have died, come to my grave every Friday and read a funeral prayer each time."
+Sentence: Yizä eli inžit bodixƛin, nasin xalq’i ƛ’irin butin, hut’-mˤalä nocu caƛix bazar xecirerno žeduq.
+Gloss: DEM2.IPL.OBL-ERG we disgrace I.PL-do-PRS-QUOT all people above-TOP I.PL-turn-PFV.CVB front.part.of.the.face-IN.ESS saliva throw-IPFV.CVB bazar leave-CAUS-CAUS-PFV.CVB DEM1.IPL.OBL-POSS.ESS
+Translation: "They are disgracing us!", all people insisted and spitting in their faces caused them to leave the market.
+Sentence: Ħon-bahadurä kurno c’eruc’as hil, aždaħzo yoƛƛo hut’-mˤalä c’oxno.
+Gloss: Mountain~Hero-ERG shoot.from-PFV.CVB bow-GEN1 arrow dragon-GEN2 II-middle front.part.of.the.face-IN.ESS hit-PST.UNW
+Translation: Mountain~Hero shot an arrow from his bow and hit the dragon in the middle of its face.

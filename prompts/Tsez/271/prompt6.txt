@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nesiq in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nesiq: 
+
+Exact Matches
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+Sentence: Ħayran boqno yizä sidä sidqor eƛin, eloš nesi žek’uł adäza anusi šebinonwa anu, hudun nesiq łinaƛ’orkin reƛ’a regirełxanuwaƛin.
+Gloss: be.astonished I.PL-become-PFV.CVB DEM2.IPL-ERG one.OBL-ERG one.OBL-POSS.LAT say-PST.UNW over.there DEM1.ISG.OBL man-CONT.ESS before be.NEG-ATTR something-Q be.NEG nevertheless DEM1.ISG.OBL-POSS.ESS what.OBL-SUPER.LAT-even hand IV-let-POT-PRS-NEG-Q-QUOT
+Translation: They were surprised and talked among each other: "Isn't there everything possible on the table, but he nevertheless can't let his hand to any of it?"
+Sentence: Ražbadin ħadur oqxon iyn, ʕaƛoz ʕoloqza nesiq harizi rodin, elin Huläɣor dawlaƛ’ bižoƛin.
+Gloss: Razhbadin prepare become-IPFV.CVB-TOP know-PFV.CVB village-GEN2 young.person-PL-ERG DEM1.ISG.OBL-POSS.ESS request IV-do-PST.UNW we-TOP Georgia-IN.VERS prey-SUPER.ESS I.PL-lead-IMPR-QUOT
+Translation: Knowing that Razhbadin was preparing, the young people from the village asked him: "Lead us to Georgia for hunting as well!"
+
+Approximate Matches:
+Sentence: Guluƛ’ zowa adäza Musa nesiqor eƛin:
+Gloss: horse-SUPER.ESS be.NPRS-INF before Musa DEM1.ISG.OBL-POSS.LAT say-PST.UNW
+Translation: Before mounting the horse, Musa said to him:
+Sentence: Mi ʕadalaw uži äsuƛin, Maħama nesiqor eƛin.
+Gloss: you stupid boy exist-QUOT Magomed-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW
+Translation: You are a stupid boy.", Magomed said to him.
+Sentence: Xaner šebi yałru iyač’iniƛäy mi dey q’ˤimno reč’o, iyos orezni boqnosi min ok’äł t’ayƛin, xizyo nesiqor amanat bodin, mi dey q’ˤimno ruqˤo, yeɣeni esiwqno rukarno, nagaħ dey laga debeq biqinäy, q’ˤimde sadaq buyn šušoƛin.
+Gloss: khan-LAT who be-PST.PRT know-INF-NEG.FUT-PURP.CVB you me-GEN1 head-TOP IV-cut-IMPR blood-GEN1 pond III-become-ANT.CVB you-TOP escape from.here-QUOT afterwards DEM1.ISG.OBL-POSS.LAT order III-do-PFV.CVB you me-GEN1 head-TOP IV-hide-IMPR II-young-DEF sister-POSS.ESS-TOP IV-show-PROHIB suppose me-GEN1 body you-POSS.ESS III-get-CND.CVB head-APUD.ESS together III-indeed-TOP bury-IMPR-QUOT
+Translation: For the king won't know who it was, cut off my head and escape from there after there is a large pool of blood!"; then he gave him the order: "And hide my head, don't show it to our little sister, if you can get my body, bury it together with my head."

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word dibir in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word dibir: 
+
+Exact Matches
+Sentence: Sida quł bet’erhanno bet’erhanes užin ƛˤoreł bik’inosi, yiła neł ʕaƛos dibir iduɣor goƛ’in.
+Gloss: one.OBL day-CONT.ESS master-and master-GEN1 son-and war-CONT.ESS I.PL-go-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL village-GEN1 imam home-IN.ALL invite-PST.UNW
+Translation: One day, when the master and the master's son went to war, she invited the village's imam to their home.
+Sentence: Didurnokin ħal bayxanusi biyzaƛ’, kidbä siħirno yoqno dibir šeƛ’u roɣa egirno.
+Gloss: how-TOP-even trouble III-come-NEG.PRS.PRT III-know-CSL.CVB girl-ERG sly.person-TOP II-become-PFV.CVB imam clothing IV-take.away-INF let-PST.UNW
+Translation: When she knew he had no trouble [following her], the girl became a sly person and let the imam take off his clothes.
+Sentence: C’odorawnä esirno, eleley dibir, debez baruq maħi zowwäƛin.
+Gloss: clever-DEF-ERG ask-PST.UNW behold mullah you-GEN2 wife-POSS.ESS tail be.NPRS-PST.WIT.Q-QUOT
+Translation: The clever one asked: "Lo and behold, mullah, did your wife have a tail?"
+
+Approximate Matches:
+Sentence: C’odorawni esiya ʕantawni esiw ukrun, micxirno rasada q’ilimoł xizay dibirder egirno.
+Gloss: clever-DEF brother-ERG stupid-DEF brother silver-and money-and III.PL-measure-INF qili-CONT.ESS behind mullah-APUD.LAT send-PST.UNW
+Translation: The clever brother sent his stupid brother to the mullah for qilis to measure the amount of silver and money.
+Sentence: Howžigoƛ’aygon c’odorawnä esirno dibirqo, debez baruq šilabi zowwäƛin.
+Gloss: now-COND-SUPER.ABL-CNTR clever-DEF-ERG ask-PST.UNW mullah-POSS.ESS you-GEN2 wife-POSS.ESS horn-PL be.NPRS-PST.WIT.Q-QUOT
+Translation: This time the clever one asked the mullah: "Did your wife have horns?"
+Sentence: Yisä eƛin, yexuran yexurno di ža rečuƛ rekuyał šušisƛin, dibirä ʕantawni esiw ižin baru šaširuni moči bukarera.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW II-kill-FUT.CVB II-kill-PFV.CVB me DEM1.SG cattleshed-SUB.ESS manure-CONT.ESS bury-PST.WIT-QUOT mullah-ERG stupid-DEF brother lead-PST.UNW wife bury-PST.PRT-DEF place III-show-CAUS-INF
+Translation: He said: "I have indeed killed your wife and burried her in the manure in the shed.", and the mullah led the stupid brother to show him the place where he burried his wife.

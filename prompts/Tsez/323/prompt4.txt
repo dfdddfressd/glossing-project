@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hemełatown in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hemełatown: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hemedur yizi yałzay sida bečedaw žek’a bertenyołxor goƛ’ixƛin yiziƛ’or xabar bayrno, hemełatowgon zamanał xediw goƛ’in ƛˤoreł ižin.
+Gloss: so DEM2.IPL be-SIM.CVB one.OBL wealthy man-ERG marriage-CONT.VERS invite-PRS-QUOT DEM2.IPL.OBL-SUPER.LAT story III-bring-PFV.CVB DEM4.IISG.OBL-EMPH-CNTR time-CONT.ESS husband call-PFV.CVB war-CONT.ESS take.out-PST.UNW
+Translation: While they were living like that, the story came that a wealthy man invited to his marriage, and at this time, her husband was called to war.
+Sentence: Q’ˤuna äƛiru ɣudƛ’on neširu kecno äčizar xanez užis hemełatow ɣˤutkazay eč’i caƛin yayrno.
+Gloss: two.OBL ORD day-SUPER.ESS-TOP at.night sleep-PFV.CVB be-LCV-LAT khan-GEN2 son-GEN1 DEM4.IISG.OBL-EMPH room-IN.ABL.DIST pebble throw-PFV.CVB II-bring-PST.UNW
+Translation: And on the second day, at night, he threw a pebble from the prince's room down to where he was sleeping.
+Sentence: Elaygon izin ik’in yeda hemełatow iħuz lilyox qoqbi yałza mečoƛ’or ayn.
+Gloss: there-IN.ABL-CNTR get.up-PFV.CVB go-PFV.CVB DEM2.ISG DEM4.IISG.OBL-EMPH river-GEN2 river.bank-AD.ESS cliff-PL be-LCV place-SUPER.LAT come-PST.UNW
+Translation: He got up from there, went along that river bank and came to a place where a cliff was.

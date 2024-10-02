@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Yaqˤuł.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Yaqˤuł
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Yaqˤuł:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mi saɣ yayruni kid däz žax yaqˤuł yowxƛin, xanä madał adäzar boɣno berten.
+Gloss: you cure II-do-PST.PRT-DEF girl me-GEN2 son-AD.ESS today II-bring-PRS-QUOT khan-ERG yard-CONT.ESS before-IN.LAT III-take.away-PFV.CVB marriage
+Translation: "My son marry today that girl, you are cured," and khan moved the wedding into the yard.
+Sentence: Tełäzay teqxo där, šida mi dey kid yaqˤuł nece kʷat’izi yoqäƛin, insanzo mecrexor eƛix.
+Gloss: inside-IN.ABL.DIST hear-IPFV.CVB me-LAT why you me-GEN1 daughter today so.much be.late II-become-PST.WIT.INT-QUOT human-GEN2 language-AD.LAT say-PRS
+Translation: I was hearing from inside: "Why are you, my daughter, so late today?", said in a human voice.
+Sentence: Sida quł sasaqosi bara eƛin, di yaqˤuł xexbi royxosi, mi däde igono näxno, č’uħaraw šeƛ’un šeƛ’un madaħarno oƛäxnoƛin.
+Gloss: one.OBL day-CONT.ESS in.the.morning wife-ERG say-PST.UNW me today children III.PL-do-PRS.PRT you me-APUD.ESS near-TOP come-PROHIB gorgeous clothing-TOP put.on-PFV.CVB outside-IN.LAT-and appear-PROHIB-QUOT
+Translation: One day in the morning the wife said: "Today I am giving birth to the children, do not come near me and do not go outside in gorgeous clothing!"
+
+Approximate Matches:
+Sentence: Neła qułno idur q’ʷaridaw yeda ayzaƛ’, bara esirno, yaqˤułgon łinax q’ʷarid oqnoƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS-TOP home-LAT sad DEM2.ISG come-CSL.CVB wife-ERG ask-PST.UNW today-CNTR how sadness become-PST.UNW-QUOT
+Translation: That day, because he came home said, his wife asked: "Why did you come home sad today as well?"
+Sentence: Ħayran yoqno yezun ƛexun kid, moƛałä yedu di yaqˤułƛin.
+Gloss: be.astonished II-become-PFV.CVB II-look-PFV.CVB remain-PFV.CVB girl dream-CONT.ESS-Q DEM2.IISG me today-QUOT
+Translation: The girl was surprised and remained looking (at him), "Is this day a dream?"
+Sentence: Šida mi yaqˤułgon at’iw qaca rayräƛin onoču c’ok’inayzaƛ’, mamalayä di kecno ƛexunƛint’a žawab teƛxo zown.
+Gloss: why you today-CNTR wet firewood IV-bring-PST.WIT.INT-QUOT hen scold-CSL.CVB rooster-ERG me sleep-PFV.CVB remain-PFV.CVB-QUOT-DISTR answer give-IPFV.CVB be.NPRS-PST.UNW
+Translation: When the hen scolded: "Why have you brought wet firewood again, today?", the rooster answered that he slept in.

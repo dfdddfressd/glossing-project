@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word meži in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word meži: 
+
+Exact Matches
+Sentence: Sasaq qˤašizaƛ’or yiłzaqay rok’łinč’inäy, aždaħä meži rac’ƛin.
+Gloss: in.the.morning set.in-POST.CVB DEM2.IISG.OBL-ZA-POSS.ABL II.PL-escape-NEG.FUT-CND.CVB dragon-ERG you.PL II.PL-eat-QUOT
+Translation: When you don't leave this place before dawn, a dragon will eat you."
+Sentence: Dey xexbi, di exun xizyo t’ubazi odin łiynosi, meži łˤonon esnabi bitazoni ɣˤutkar bezu, elo mežur ʕuraw mesed yołƛin”.
+Gloss: me-GEN1 children me die-PFV.CVB after fulfill do-PST.UNW end-ANT.CVB you.PL three-TOP brother-PL next-DEF room-IN.LAT I.PL-look-IMPR there you(I).PL.OBL-LAT much gold be-QUOT
+Translation: "My children, when I have died and the funeral is done, you three brothers look into the next room, there is much gold for you."
+Sentence: Nedur resunäyƛin, - eƛin kidbä, - meži łˤoran esnaza sidä sidƛ’ay bežin šebin riszaƛ’, mežatow xal bodo di łux yik’a yayƛin”.
+Gloss: so IV-exist-CND.CVB-QUOT - say-PST.UNW girl-ERG - you.PL three.OBL-TOP brother-PL-ERG one.OBL-IN.ESS one.OBL-SUPER.ABL III-win-PFV.CVB thing IV-take-CSL.CVB you(I).PL.OBL-ERG-EMPH examination III-do-IMPR me who.OBL-AD.ESS II-go-INF II-must-QUOT
+Translation: "If that is so", said the girl, "you three brothers found such things, one better than the other, now figure out: to whom I shall go?
+
+Approximate Matches:

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bayru.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bayru
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bayru:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xediyan di neła bayru q’ut’imoxor izmun neƛno nesi žadaɣor yegirsiƛin.
+Gloss: husband-ERG-TOP me DEM1.IISG.OBL-ERG III-do-PST.PRT agreement-AD.LAT permission-TOP give-PFV.CVB DEM1.ISG.OBL boy-APUD.VERS II-let-PST.WIT-QUOT
+Translation: And my husband let me go to this boy and also gave her the permission to have a (marriage) contract.
+Sentence: T’akanyar bayru mesedno ħiƛ’oqax butirno čantan eqerno, łˤonon besuron bižin uži iduɣor ik’in.
+Gloss: glass-IN.LAT III-come-PST.PRT gold-TOP handkerchief-AD.ESS III-gather-PFV.CVB pocket-TOP put-PFV.CVB three-TOP fish-TOP III-carry-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The boy gathered the gold that came int the glass into a handkerchief, put it inside his pocket and carried the three fish home.
+Sentence: Nesiƛ’ bezanixƛin bayru ahlimor žoyä bˤeƛ’es šebint’a teƛxo zown.
+Gloss: DEM1.ISG.OBL-SUPER.ESS I.PL-look-MSD-AD.ESS-QUOT I.PL-come-PST.PRT people-LAT son-ERG sheep-GEN1 thing-DISTR give-IPFV.CVB be.NPRS-PST.UNW
+Translation: The son gave out one sheep each for every person who came to look after him.
+
+Approximate Matches:
+Sentence: Maħlar bayruntow, xanä eƛin, eloš neła imyoqor yicalini ɣˤanazar naʕanan bodo, nocun caƛo nełasƛin.
+Gloss: court-IN.LAT I.PL-come-IMM.ANT.CVB-EMPH khan-ERG say-PST.UNW over.there DEM1.IISG.OBL pole-POSS.LAT II-tie-ATTR-DEF woman-LAT curse-and III-do-IMPR saliva-and shoot.with-IMPR DEM1.IISG.OBL-GEN1-QUOT
+Translation: When they came into the court, the king said: "Curse and spit on that woman over there, who is tied to that pole!"
+Sentence: Walla, xan, howža ƛeli bayruntow, nełas eniw bexus.
+Gloss: wallah khan DEM4.SG lamb III-do-IMM.ANT.CVB-EMPH DEM1.IISG.OBL-GEN1 mother III-die-PST.WIT
+Translation: "By God, o king, right after the lamb was born, its mother died.
+Sentence: Ža aq’ˤiłxotow ik’ix zown, sida ɣudƛ’or buci bayruce, sis buci baynosi ƛˤeb yayru iłe.
+Gloss: DEM1.SG grow.up-IPFV.CVB-EMPH go-IPFV.CVB be.NPRS-PFV.CVB one.OBL day-SUPER.LAT month III-come-PST.PRT-EQU1 one month III-come-ANT.CVB year II-come-PST.PRT as
+Translation: While he was growing up, one day became like a month and one month was like a year.

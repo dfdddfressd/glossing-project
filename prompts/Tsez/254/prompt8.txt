@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bukaynč’aƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bukaynč’aƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ƛ’irir baynosi, bazarganza esirno nesiq, łeno ħumukulin boc’no howt’aza ik’ix deber uži ukaynč’aƛin.
+Gloss: above-LAT I.PL-come-ANT.CVB merchant-PL-ERG ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS five camel-TOP III-drive-PFV.CVB there-IN.VERS.DIST go-IPFV.CVB you-LAT boy see-NEG.PST.WIT-PST.WIT.INT-QUOT
+Translation: When they had come closer, the merchants asked him: "Have you seen a boy going in this direction driving five camels?"

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mečoƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mečoƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mečoƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Dandi yizi huniƛxor k’oƛin bok’ełno, žedu zawza mečoƛ’ ža ɣunno rik’in c’oxno.
+Gloss: only DEM2.IPL way-SUB.LAT run-PFV.CVB I.PL-escape-PFV.CVB DEM1.IPL be.NPRS-LCV.CVB place-SUPER.ESS DEM1.SG tree-TOP IV-go-PFV.CVB hit-PST.UNW
+Translation: They had just gotten out of the way, and that tree hit the place where they had been.
+Sentence: Xizyo neła yisiqor mešok’lałäy bet’urno mus teƛno, debeƛ’ ɣudi rayza mečoƛ’ bik’ur mi yeduƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT moustache-CONT.ABL III-pull.out-PFV.CVB hair give-PFV.CVB you-SUPER.ESS day IV-come-LCV.CVB place-SUPER.ESS III-burn-CAUS you DEM2.IISG-QUOT
+Translation: Then it pulled out a hair from its whiskers and gave it to him, "When one day you are in trouble, burn it!"
+Sentence: Madaħ mečoƛ’ ža c’aq’ t’eq’erbašiƛ’or ičix zown.
+Gloss: outside place-SUPER.ESS DEM1.SG very cautiousness-SUPER.LAT be-IPFV.CVB be.NPRS-PST.UNW
+Translation: In places outside, he was very cautious.
+
+Approximate Matches:
+Sentence: Xalq’imo yeda ħaladtow ižin elo ʕaƛos žamaʕat batiza mečoƛ’or.
+Gloss: people-ERG DEM2.ISG trouble-INSTR-EMPH lead-PFV.CVB there village-GEN1 assembly III-turn-LCV place-SUPER.LAT
+Translation: The people lead him with trouble to the place were the village's assembly met.
+Sentence: Yizi biħanayxozo mečoƛ’or ayn, yisä salam teƛnosi, ʕoƛiran esnaza yisis salam butirno, yiziƛ’ biħanada bayrut’anibi yołi täqinč’irus riłe royn bičin.
+Gloss: DEM2.IPL.OBL I.PL-fight-PRS.PRT.OBL place-SUPER.LAT come-PFV.CVB DEM2.ISG.OBL-ERG greeting give-ANT.CVB seven.OBL-TOP brother-PL-ERG DEM2.ISG.OBL-GEN1 greeting III-give.back-PFV.CVB DEM2.IPL.OBL-SUPER.ESS I.PL-fight-INF I.PL-come-PST.PRT-DISTR-DEF-PL however hear-NEG.FUT.CVB-PST.PRT-GEN1 IV-as IV-do-PFV.CVB I.PL-be-PST.UNW
+Translation: He went to the place where they were fighting, and when he greeted them, the seven brothers gave back the greeting, the ones they were fighting however pretended not to have heard anything.
+Sentence: Łinasnotow čaran bexun, rok’un roč’iłno yizis ža łi riqanixaysi, xizor butin nexƛ’oräy, yizi esnabi bičixozoni mečoƛ’or bayn.
+Gloss: what.OBL-GEN1-TOP-EMPH possibility-TOP III-die-PFV.CVB heart-TOP IV-freeze-PFV.CVB DEM2.IPL.OBL-GEN1 DEM1.SG water IV-get-MSD-AD.ABL-ATTR back I.PL-return-PFV.CVB come-SIM.CVB DEM2.IPL brother-PL I.PL-live-PRS.PRT.OBL-DEF place-SUPER.LAT I.PL-come-PST.UNW
+Translation: Their chances died and their hearts freezed from not getting that water, and while they were returning, they came to the place where the brother and the sister lived.

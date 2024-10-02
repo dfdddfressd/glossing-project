@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word baɣˤiłno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word baɣˤiłno: 
+
+Exact Matches
+Sentence: Ayn yeda zeyä äƛiruni qoqƛer, elo q’ˤim ritäruntow qoq baɣˤiłno bik’in, teł yisir łaces gulubi resun.
+Gloss: come-PFV.CVB DEM2.ISG bear-ERG say-PST.PRT-DEF cliff-SUB.LAT there head IV-touch-IMM.ANT.CVB-EMPH cliff III-open-POT-PFV.CVB III-go-PFV.CVB inside DEM2.ISG.OBL-LAT wind-GEN1 horse-PL IV-find-PFV.CVB
+Translation: The boy came to the cliff, which the bear was talking about, touched the cliff with his head and after it has opened he went inside and found wind horses.
+Sentence: Q’ˤim rätiruntow žan baɣˤiłno nexno.
+Gloss: head IV-touch-IMM.ANT.CVB-EMPH DEM1.SG-TOP III-open-POT-PFV.CVB come-PFV.CVB
+Translation: He touched it with his head, the cliff opened and he came in.
+
+Approximate Matches:
+Sentence: Hemeł mixƛ’o, yoƛi gogan č’ˤaƛiłno, ozuri buqin baɣˤizaƛ’or, Okun, užin wˤałzoni dunyalƛ’aɣor bok’ełno.
+Gloss: DEM4.IISG.OBL time-SUPER.ESS II-half meadow-TOP be.cut-PFV.CVB eye III-close-PFV.CVB III-open-POST.CVB Oku-and son-and downward-ATTR.OBL-DEF world-SUPER.VERS I.PL-go.away-PST.UNW
+Translation: After that, the middle of the meadow opened, and in the wink of an eye, Oku and his son had gone into the underworld.
+Sentence: Hemedur ƛˤebrebi rik’in nesis uži aq’ˤiłno ʕoloqan oqno, baru yowa mix bayn nesis.
+Gloss: so year-PL II.PL-go-PFV.CVB DEM1.ISG.OBL-GEN1 son grow.up-PFV.CVB young become-PFV.CVB wife II-marry-INF time III-come-PST.UNW DEM1.ISG.OBL-GEN1
+Translation: So the years went by, his son grew up and became a young man, and the time came for him to marry.
+Sentence: Howži bełiqanes ʕuraw rok’un raq’ˤiłno, roda šebinon koƛ’inč’ey ƛexun yeda.
+Gloss: now hunter-GEN1 very heart-TOP IV-increase-PFV.CVB IV-do-INF something understand.to-NEG.PST.CVB remain-PST.UNW DEM2.ISG
+Translation: Now the hunter got very upset and remained not knowing what to do.

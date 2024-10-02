@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word waħozoni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word waħozoni: 
+
+Exact Matches
+Sentence: Neła baydanƛ’or aynosi, miƛ’zo iyos ruɣubin łiyn, šet’u utiƛ’oräy, yeda waħozoni dunyalƛ’orno ˤoƛ’un, sida ɣˤutkoz ƛ’ˤuƛ’ ƛ’iri c’oxno.
+Gloss: DEM1.IISG.OBL plain-SUPER.LAT come-ANT.CVB ram-ATTR.OBL blood-GEN1 prints-PL-TOP end-PFV.CVB around turn.back-SIM.CVB DEM2.ISG below-ATTR.OBL-DEF earth-SUPER.LAT-TOP fall-PFV.CVB one.OBL house-GEN2 roof-SUPER.ESS on hit-PST.UNW
+Translation: After he came to that plain, the ram's blood spots ended; when he turned around, he fell onto the earth/world below, and on the roof of a house.
+Sentence: Xizyo reƛ’an reč’no, waħozoni ɣˤutka q’orolan šušin, k’uläɣor žamaʕatyołxor ik’in.
+Gloss: afterwards hand-TOP IV-cut-PFV.CVB below-GEN2-DEF room-IN.ESS widow-TOP bury-PFV.CVB side.street-IN.VERS assembly-CONT.VERS go-PST.UNW
+Translation: Then he cut off her hand, and burried the widow in the cellar, then he went to the village's assembly in a side street.
+Sentence: Kid elaygon waħozoni dunyalƛ’o yexurno...”
+Gloss: daughter there-IN.ABL-CNTR below-ATTR.OBL-DEF world-SUPER.ESS II-kill-PST.UNW
+Translation: Our daughter got killed in the world below that one..."
+
+Approximate Matches:
+Sentence: Uži howt’o waħozo raƛ’moƛ’ łäz kikƛ’o aq’ˤułno ičäsi zown.
+Gloss: son here below-ATTR.OBL land-SUPER.ESS water-GEN2 spring-SUPER.ESS cover-PFV.CVB be-RES.PRT be.NPRS-PST.UNW
+Translation: Our son was covering a spring of water in the land below here.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: baširyox.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": baširyox
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word baširyox:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elo babiya kidbazaqor eƛin, meži däqor rezun howt’o ričinčey, di ezu-ʕaƛ’a ik’an sasaqor ɣudi qˤaširanix elur t’ozoƛ’ay bigu moči yołäƛin.
+Gloss: there father-ERG daughter-PL-POSS.LAT say-PST.UNW you.PL me-POSS.LAT II.PL-look-PFV.CVB here II.PL-wait-PFV.CVB-INTS me examine-INF go-FUT.CVB in.the.morning-POSS.LAT day dawn-MSD-AD.ESS we(I).OBL-LAT here-ATTR.OBL-SUPER.ABL I.PL-good place be-Q-QUOT
+Translation: There the father told them: "Wait for me here, I will go and have a look around if there is a better place to spend the night than this one here."
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Bažarizi raq, šida däq roqxanuƛin, yeženä bašiqˤoyn risno yizin xanzo madazaxaɣor yik’in.
+Gloss: able IV-become why me-POSS.ESS IV-become-PRS-NEG-QUOT II-old-DEF-ERG ring-TOP IV-take-PFV.CVB II-get.up-PFV.CVB khan-GEN2 yard-PL-AD.VERS II-go-PST.UNW
+Translation: "I can, why not?", the old woman took the ring, got up and went to the king's yards.

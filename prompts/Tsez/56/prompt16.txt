@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: riqinanu.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": riqinanu
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word riqinanu:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Anƛ’ima baħnayłin žeduq nedugani reƛis sis t’it’ukin riqinanu.
+Gloss: week-IN.ESS I.PL-walk.around-CNC.CVB DEM1.IPL.OBL-POSS.ESS such-ATTR-DEF meat-GEN1 one piece-even IV-get-PST.UNW-NEG
+Translation: Although they walked around for a week, they could not get even a piece of such a meat.
+
+Approximate Matches:
+Sentence: Neła quł užiq siskin besuron biqinanu, hudu haq’un quqa ƛexun.
+Gloss: DEM1.IISG.OBL day-CONT.ESS boy-POSS.ESS any fish-TOP III-get-PFV.CVB-NEG so family-TOP hungry remain-PST.UNW
+Translation: On that day, the boy didn't get any fish, so the family remained hungry.
+Sentence: Babiya äƛiruq’aw, yexoriłxosi, k’ot’oniłxosi, aluk’a qˤaba yoqxosi, barun yiqinanu.
+Gloss: dad-ERG say-PST.PRT-EQU2 II-become.longer-PRS.PRT become.shorter-PRS.PRT white black II-become-PRS.PRT wife-TOP II-get-PFV.CVB-NEG
+Translation: He didn't get a wife that was black and white and longer and shorter, as the father had said.
+Sentence: Hemedur anƛ’ima baħnayn žeduq sosikin bełi biqinanu.
+Gloss: so week-IN.ESS I.PL-walk.around-PFV.CVB DEM1.IPL.OBL-POSS.ESS at.first-even hunting III-get-PFV.CVB-NEG
+Translation: So they walked around for a week and at first didn't get any prey.

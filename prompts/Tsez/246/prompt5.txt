@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bodinč’ey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bodinč’ey: 
+
+Exact Matches
+Sentence: Hudun meža di berten bodinč’ey xecinč’u.
+Gloss: nevertheless you(I).PL.OBL-ERG me marriage III-do-NEG.PST.CVB leave-NEG.PST.WIT
+Translation: "Nevertheless you all didn't let me *not* have a marriage.
+
+Approximate Matches:
+Sentence: Xediw ičäsi zown žiƛbon xecin, k’oxäygon meši bodinč’inäy, bexʷadanƛin.
+Gloss: husband remain-RES.PRT be.NPRS-PST.UNW this.year-TOP leave-PFV.CVB again-IN.ABL-CNTR bull.calf III-do-NEG.FUT-CND.CVB III-slaughter-FUT.DEF-QUOT
+Translation: The husband remained [in his opinion]: "We'll leave it this year and if it doesn't calve again, we shall slaughter it."
+Sentence: Howži yizi esnaza ħukmu bodin, yisi užä elur kumak bodinč’us yołi, yiła ƛˤoreł eli beɣa zows, horo ela yisix elus esiy yegiranƛin.
+Gloss: now DEM2.IPL.OBL brother-PL-ERG decision III-do-PST.UNW DEM2.ISG.OBL boy-ERG we(I).OBL-LAT help III-do-NEG.PST.WIT-ATTR if DEM2.IISG.OBL war-CONT.ESS we I.PL-be.defeated-INF be.NPRS-PST.WIT come.IMPR we(I).OBL-ERG DEM2.ISG.OBL-AD.ESS we(I).OBL-GEN1 sister II-send-FUT.DEF-QUOT
+Translation: Now those brothers came to a decision: "If that boy hadn't helped us, we would have been defeated in that war; so come, let's marry off our sister to him!"

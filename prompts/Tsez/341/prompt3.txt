@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bäziru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bäziru: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Cuƛer yäzurun, yiłar ɣunoq bäzirubi bukayn.
+Gloss: upward II-look-IMM.ANT.CVB DEM2.IISG.OBL-LAT tree-POSS.ESS I.PL-get.up-PST.PRT-PL I.PL-see-PST.UNW
+Translation: When she looked upward, she saw those who got up into the tree.

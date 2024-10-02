@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word recenyobin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word recenyobin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elo dey recenyocet’a isʷa zows.
+Gloss: there me-GEN1 ant-EQU1-DISTR bull-PL be.NPRS-PST.WIT
+Translation: There I had bulls, each one like an ant.

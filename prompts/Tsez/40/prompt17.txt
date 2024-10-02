@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: sid.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": sid
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word sid:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bayn yizirabi ƛirbałix sid žek’ude idur.
+Gloss: I.PL-come-PFV.CVB DEM2.PL hospitality-AD.ESS one.OBL man-APUD.ESS home-LAT
+Translation: Then came home to a man as guests.
+Sentence: Tawadi bercingo ezun ičäsi yałzay, sid žoyä Ražbadinxo yowxozo baħarayz hibon bok’no łočyaƛ’ yoɣno.
+Gloss: Tavadi well look-PFV.CVB wait-RES.PRT be-SIM.CVB one.OBL boy-ERG Razhbadin-AD.ESS II-marry-PRS.PRT.OBL fiancée-GEN2 stick-TOP III-beat-PFV.CVB dance-SUPER.ESS II-take.away-PST.UNW
+Translation: While Tavadi was looking carefully, one boy hit the bride that was to marry Razhbadin with a stick and took her away to dance.
+Sentence: Zamanałäy yisider sid miskinaw haq’us užä ayn eƛin, däq regirnäy, žedu di reynodanix ruhun rodanƛin.
+Gloss: time-CONT.ABL DEM2.ISG.OBL-APUD.LAT one.OBL poor family-GEN1 boy-ERG come-PFV.CVB say-PFV.CVB me-POSS.ESS III.PL-send-CND.CVB DEM1.IPL me III.PL-work-MSD-AD.ESS teach III.PL-do-FUT.DEF-QUOT
+Translation: After a while, a boy from a poor family came to him and said: "If you send them to me, I'll teach them how to work."
+
+Approximate Matches:

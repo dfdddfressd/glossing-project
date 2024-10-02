@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: izirxo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": izirxo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word izirxo:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Osaxorno bizin ceyä wˤałer kurxo zown uži, nesiƛ’ay aderno bik’in roładyołer ayzaƛ’or iqirxo izirxo zown.
+Gloss: height-AD.LAT-TOP III-get.up-PFV.CVB eagle-ERG downward-LAT throw-IPFV.CVB be.NPRS-PFV.CVB boy DEM1.ISG.OBL-SUPER.ABL forward-TOP III-go-PFV.CVB sea-CONT.LAT come-POST.CVB catch-IPFV.CVB lift-IPFV.CVB be.NPRS-PST.UNW
+Translation: The eagle flew into the height and dropped the boy, flew down and before he [the boy] came to the sea, it catched him and lifted him up.
+
+Approximate Matches:
+Sentence: Xanä q’ʷaridno oqno wˤałer rˤoƛ’arzay q’ˤimkin rizirxo zownanu, t’ok’ow roda šebin koƛ’inč’ey.
+Gloss: khan-ERG sadness-TOP become-PFV.CVB downward-LAT IV-let.fall-SIM.CVB head-even IV-lift-IPFV.CVB be.NPRS-PFV.CVB-NEG anymore IV-do-INF thing understand.to-NEG.PST.UNW
+Translation: The king became sad and while he hung his head, he didn't lift it up again and didn't know what to do anymore.
+Sentence: Howži łeɣin biħadanix, sidä sis bizirxo bok’xo yiła aždaħä ħaltown bayrinč’ey baq’ˤu aq’ˤuba bukayn yisi ʕAliqiličer.
+Gloss: now grasp-PFV.CVB I.PL-fight-MSD-AD.ESS one.OBL-ERG one I.PL-lift-IPFV.CVB I.PL-beat-IPFV.CVB DEM2.IISG.OBL dragon-ERG strength-EMPH-TOP III-bring-NEG.PST.CVB III-much torture III-see-PST.UNW DEM2.ISG.OBL Aliqilich-LAT
+Translation: Now they grasped each other to fight, lifting and beating each other up and that dragon tired Aliqilich out very much.
+Sentence: Hut’-mˤaliƛ’ häqruni t’ut’ƛ’orkin nesä reƛ’a rizirxo zown anu, žatow boxin bik’ace xecix zown.
+Gloss: front.part.of.the.face-SUPER.ESS sit.down-PST.PRT-DEF fly-SUPER.LAT-even DEM1.ISG.OBL-ERG hand IV-lift-IPFV.CVB be.NPRS-PST.UNW be.NEG DEM1.SG-EMPH III-run.away-PFV.CVB III-go-TERM leave-IPFV.CVB be.NPRS-PST.UNW
+Translation: Even to a fly who was sitting on his face, he did not lift the hand, but he left it there until it flew away.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Gama.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Gama
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Gama:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Siħirno yoqno neła ɣˤanaza harizi rodin, gama tełäy maħor yoqa yegir diƛin.
+Gloss: sly.person-TOP II-become-PFV.CVB DEM1.IISG.OBL woman-ERG request IV-do-PST.UNW boat-IN.ESS inside-IN.ABL outside II-become-INF II-let me-QUOT
+Translation: The woman was a sly person and pleaded: "Let me get out of the inside of the boat!"
+Sentence: Užin koyä isno yisä nełaqay, narce yedu yäk’iƛin gama tełäy yoqa yegirno xecin.
+Gloss: son-TOP hand-IN.ESS take-PFV.CVB DEM2.ISG.OBL-ERG DEM1.IISG.OBL-POSS.ABL where-TERM DEM2.IISG II-go-QUOT boat-IN.ESS inside-IN.ABL II-become-INF II-let-PFV.CVB leave-PST.UNW
+Translation: He took the son from her into his hand, [thinking] "Where could she go?" and let her get out of the boat's inside.
+Sentence: Raładno bigtow halag boqno, yeda ƛ’iri zawruni gama butix zownƛax.
+Gloss: sea-TOP III-very-EMPH excite III-become-PFV.CVB DEM2.ISG above be.NPRS-PST.PRT-DEF boat III-turn-PRS be.NPRS-PFV.CVB-QUOT
+Translation: The sea ran high and the boat began to sink.
+
+Approximate Matches:

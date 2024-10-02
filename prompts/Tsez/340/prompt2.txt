@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nece in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nece: 
+
+Exact Matches
+Sentence: Tełäzay teqxo där, šida mi dey kid yaqˤuł nece kʷat’izi yoqäƛin, insanzo mecrexor eƛix.
+Gloss: inside-IN.ABL.DIST hear-IPFV.CVB me-LAT why you me-GEN1 daughter today so.much be.late II-become-PST.WIT.INT-QUOT human-GEN2 language-AD.LAT say-PRS
+Translation: I was hearing from inside: "Why are you, my daughter, so late today?", said in a human voice.
+Sentence: Ža nece bercinawni aɣin bižin, łacez guluƛ’no zown, yeda hawaƛ’ k’oƛin iduɣor ik’in.
+Gloss: boy-ERG so.much beautiful-DEF bird-TOP III-carry-PFV.CVB wind-GEN2 horse-SUPER.ESS-and ride-PFV.CVB DEM2.ISG air-SUPER.ESS jump-PFV.CVB home-IN.ALL go-PFV.CVB
+Translation: The boy took this beatiful bird and rode his wind horse home.
+Sentence: Sida quł babiya nesiq esirno, šida mi nece q’ʷarid oqno ičäsi, šebi deber roqnoƛin.
+Gloss: one.OBL day-CONT.ESS father-ERG DEM1.ISG.OBL-POSS.ESS ask-PST.UNW why you so.much sad become-PFV.CVB be-RES.PRT what you-LAT IV-happen-PST.UNW-QUOT
+Translation: One day the father asked him: "Why are you so sad, what has happened to you?"
+
+Approximate Matches:

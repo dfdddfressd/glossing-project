@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Q’arumerno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Q’arumerno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Q’arumerno:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: C’ik’iwtow humerno, šeƛ’un xiszi rodin, nełdäɣorno ik’in esirno, ɣamas yodixosi žek’u etinaƛin.
+Gloss: entire-EMPH face-and clothing-and change IV-do-PFV.CVB DEM1.IISG.OBL-APUD.VERS-TOP go-PFV.CVB ask-PST.UNW box II-do-PRS.PRT man want-PST.UNW-Q-QUOT
+Translation: He changed his entire face and his clothes, went to him [the dragon] and asked if he wanted a man that makes boxes.

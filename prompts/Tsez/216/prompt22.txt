@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bičiłnoanu.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bičiłnoanu
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bičiłnoanu:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Howlo xizyo yizi q’ˤanon esnabi akiłno moƛan biqirno, łerakin ɣudi č’ariłnoanu.
+Gloss: there afterwards DEM2.IPL two-TOP brother-PL get.tired-PFV.CVB sleep-TOP III-catch-PFV.CVB five.OBL-even day wake.up-PST.UNW-NEG
+Translation: Afterwards these two siblings got tired and caught some sleep, and didn't even woke up for five days.
+Sentence: Xanez ɣˤutka tełxor yik’a nično boqno eniw madaxay bitor yik’iłnoanu.
+Gloss: khan-GEN2 house-IN.ESS inside-AD.LAT II-go-INF be.ashamed-TOP III-become-PFV.CVB mother yard-AD.ABL thither II-go-POT-PFV.CVB-NEG
+Translation: The mother was ashamed to go inside the king's house and wasn't able to go further than the yard.
+Sentence: Hunixor oqnosi, yisis k’onč’u yoƛa yoqno, t’ok’ow čaran bexun, elay bitor ik’iłnoanu yeda.
+Gloss: way-AD.LAT become-ANT.CVB DEM2.ISG.OBL-GEN1 leg II-hurt-INF II-begin-PFV.CVB more possibility-TOP III-die-PFV.CVB there-IN.ABL thither go-POT-PST.UNW-NEG DEM2.ISG
+Translation: After he went on their way, his leg began to hurt and he could not go on anymore.

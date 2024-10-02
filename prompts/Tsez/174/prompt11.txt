@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: maqˤiräytow.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": maqˤiräytow
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word maqˤiräytow:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neła karu rok’xayzo mušimo ħalaq’awni gulus maħi ƛ’iräytow ret’urno roɣno.
+Gloss: DEM1.IISG.OBL exhale-PST.PRT heart-AD.ABL-ATTR.OBL breath-ERG thin-DEF horse-GEN1 tail from.above-EMPH IV-pull.out-PFV.CVB IV-take.away-PST.UNW
+Translation: Its breath, exhaled from the heart, pulled out the tail from the thin horse.

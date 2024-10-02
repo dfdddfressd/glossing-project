@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: raɣruni.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": raɣruni
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word raɣruni:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ič’an yeženä eƛix teqno, deygon hunar šebi, šeƛ’ures bic’äsi gama ƛisiƛ’orey, dey kodin bet’urno, daqay gama baɣruni užix yik’a räti darƛin.
+Gloss: most-TOP II-old-DEF-ERG say-IPFV.CVB hear-PST.UNW me-GEN1-CNTR talent what clothing-GEN1 III-fill-RES.PRT boat pull-SIM.CVB me-GEN1 hair-TOP III-pull.out-PFV.CVB me-POSS.ABL boat III-take.away-PST.PRT-DEF boy-AD.ESS II-go-INF IV-want me-LAT-QUOT
+Translation: He heard the oldest one say: "What talent do I have? I'll want to marry the boy who took the boat full of clothes away from me after he pulled out my hair, while I was pulling on the boat."
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.

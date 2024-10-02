@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word anusi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word anusi: 
+
+Exact Matches
+Sentence: Nełasgon łinasnokin hunar anusi kid zownƛax.
+Gloss: DEM1.IISG.OBL-GEN1-CNTR what.OBL-GEN1-TOP-even talent be.NEG-ATTR daughter be.NPRS-PST.UNW-QUOT
+Translation: She had a daughter with no talent whatsoever.
+Sentence: Ħayran boqno yizä sidä sidqor eƛin, eloš nesi žek’uł adäza anusi šebinonwa anu, hudun nesiq łinaƛ’orkin reƛ’a regirełxanuwaƛin.
+Gloss: be.astonished I.PL-become-PFV.CVB DEM2.IPL-ERG one.OBL-ERG one.OBL-POSS.LAT say-PST.UNW over.there DEM1.ISG.OBL man-CONT.ESS before be.NEG-ATTR something-Q be.NEG nevertheless DEM1.ISG.OBL-POSS.ESS what.OBL-SUPER.LAT-even hand IV-let-POT-PRS-NEG-Q-QUOT
+Translation: They were surprised and talked among each other: "Isn't there everything possible on the table, but he nevertheless can't let his hand to any of it?"
+Sentence: Barus yołi kid łinasnotow hunarno, maxšelno, bažarin anusi zown.
+Gloss: wife-GEN1 however daughter what.OBL-GEN1-TOP-EMPH talent-and skill-and skill-and be.NEG-ATTR be.NPRS-PST.UNW
+Translation: The wife's daughter however had no talent or skill whatsoever.
+
+Approximate Matches:
+Sentence: Ozzaq ža yiħinosi, Ismaʕiler č’ura rukayn, hudun yisis ozurabi rošun c’oxno, iyxanusi iłe oqno.
+Gloss: eye-PL-POSS.ESS DEM1.SG II-smear-ANT.CVB Ismail-LAT light IV-see-PFV.CVB nevertheless DEM2.ISG.OBL-GEN1 eye-PL IV.PL-bend-PFV.CVB hit-PFV.CVB know-NEG.PRS.PRT as become-PST.UNW
+Translation: Ismail smeared it on his eyes and could see again, but nevertheless, his eyes became slanted and he was like someone unknown.
+Sentence: Kidbezno baruzno rožƛ’ay iziłxanusi žek’u zown ža.
+Gloss: daughter-GEN2-and wife-GEN2-and word-SUPER.ABL get-POT-NEG.PRS.PRT man be.NPRS-PST.UNW DEM1.SG
+Translation: The man could not get away from his daughter's and his wife's words.
+Sentence: Ader zamanał sida eniws roda risa šebin koƛ’ixanusi kid zown.
+Gloss: earlier time-CONT.ESS one.OBL mother-GEN1 IV-do-INF IV-take-INF thing understand.to-NEG.PRS.PRT daughter be.NPRS-PST.UNW
+Translation: Once upon a time there was a mother who had a daughter, who didn't understand how to do things.

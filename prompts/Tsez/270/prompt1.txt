@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word T’ok’ow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word T’ok’ow: 
+
+Exact Matches
+Sentence: Nełƛ’ay soder didiwnkin mišayat boyx zownanu neł ʕaƛoz žamaʕatyor, ya posu t’ok’ow narnokin rok’ełnoanu, ya räƛiru qˤiči łukin rexurnoanu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after which-TOP-even obstacle III-do-IPFV.CVB be.NPRS-PFV.CVB-NEG DEM1.IISG.OBL village-GEN2 population-LAT neither cattle anymore where-TOP-even IV-escape-PFV.CVB-NEG neither IV-plant-PST.PRT harvest who.ERG-even IV-kill-PFV.CVB-NEG
+Translation: After that no obstacle occured to the village's population anymore; neither did any cattle escape, nor did anyone kill the planted harvest.
+Sentence: Ža xabar yisä aħyaxorkin begirnoanu, baru yowač’inƛin di hedizi oqäsiƛin, t’ok’ow ža xabar meža haqazay maħor baɣnoƛin.
+Gloss: DEM1.SG story DEM2.ISG.OBL-ERG ear-AD.LAT-even III-let-PFV.CVB-NEG wife II-marry-NEG.FUT.DEF-QUOT me swear become-RES.PRT-QUOT anymore DEM1.SG story you(I).PL.OBL-ERG mouth-IN.ABL.DIST outside III-take.away-PROHIB-QUOT
+Translation: These words he didn't let to his ears, "I won't marry another wife!"... "I swear!"... "Don't say that anymore!",
+Sentence: Yisä yisir łˤora ɣudi bertenno erno, bercinawƛ’ay bercinawt’a kidbabin rukarno, howt’aytow barun yižoƛin harizin rodin, roƛik’u xanłin riso howt’otow uyn iči, mi iłe baħarči naynkin t’ok’ow elur äqinč’iƛin.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-LAT three.OBL day marriage-and put-PFV.CVB beautiful-SUPER.ABL beautiful-DISTR girl-PL-and II.PL-show-PFV.CVB from.here-EMPH wife-TOP II-take.out-IMPR-QUOT request-TOP IV-do-PFV.CVB IV-half khanate-TOP IV-take-IMPR here-EMPH just-TOP be you as brave.young.man from.nowhere anymore we(I).OBL-LAT get-NEG.FUT-QUOT
+Translation: He arranged a 3-day lasting marriage for him, presented girls that were prettier than pretty, "Choose a wife from here!", he begged, "Settle down here and take half of the kingdom, from nowhere will we ever get such a brave young man as you, anymore!"
+
+Approximate Matches:
+Sentence: Žek’us roži rayxosi šebin radin t’ok’owƛin”, - eƛin ičin babiw.
+Gloss: man-GEN1 word IV-come-PRS.PRT thing IV-do-PFV.CVB anymore-QUOT - say-PFV.CVB cease-PSTUNW father
+Translation: "Don't do that again, so that other people don't scold you!", the father remained saying.

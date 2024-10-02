@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word paraxat in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word paraxat: 
+
+Exact Matches
+Sentence: Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.
+Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW
+Translation: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.
+Sentence: Xizor utin Pat’imatno yižin nesä nesiz ʕaƛaɣorno ik’in, mi däƛ’ay ʕaq’ilawn, c’odorawn zownƛin xanłin nełaqor teƛno žan paraxat ičin.
+Gloss: back turn.back-PFV.CVB Fatima-TOP II-lead-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 village-IN.VERS-TOP go-PST.UNW you me-SUPER.ABL intelligent-and clever-and be.NPRS-PST.UNW-QUOT khanate-TOP DEM1.IISG.OBL-POSS.LAT give-PST.UNW DEM1.SG-TOP calmly live-PST.UNW
+Translation: He returned with Fatima into his own village: "You are more intelligent and cleverer than me!", gave her the kingdom and lived calmly ever after.
+Sentence: Nełƛ’ay soder yizä sadaq paraxat ʕumru bižin.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after DEM2.IPL.OBL-ERG together calmly life III-lead-PST.UNW
+Translation: After that, they led a peaceful life together.
+
+Approximate Matches:
+Sentence: Hemełƛ’ay soder q’orolaz užis raħataw, paraxataw ʕumru zown, ħalikatawt’ani halmaɣzaqay bat’an oqno.
+Gloss: DEM4.IISG.OBL-SUPER.ABL after widow-GEN2 son-GEN1 serene quiet life be.NPRS-PFV.CVB mean-DISTR-DEF friend-PL-POSS.ABL seperation-TOP become-PST.UNW
+Translation: After that, the widow's son lead a serene, quiet life, bereft of mean friends.

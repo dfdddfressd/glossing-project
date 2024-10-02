@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: išʷanix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": išʷanix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word išʷanix:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ʕOmoybin rišʷanix ʕalaxyoƛ’or regirno, ža qaca roda ciqełxor oqno.
+Gloss: donkey-PL-TOP III.PL-eat-MSD-AD.ESS clearing-SUPER.LAT III.PL-let-PFV.CVB DEM1.SG firewood IV-do-INF forest-CONT.ESS-AD.LAT become-PST.UNW
+Translation: He let the donkeys onto a clearing so they could eat, and went into the forest to collect the firewood.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łiyrno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łiyrno: 
+
+Exact Matches
+Sentence: Zira hemedurtow idurno bik’in sadaq q’ut’uma yałru rił ragin łiyrno.
+Gloss: fox-ERG so-EMPH home-LAT-TOP III-go-PFV.CVB all earthen.jug-ERG be-PST.PRT butter IV-lick-PFV.CVB finish-PST.UNW
+Translation: So the fox went home and licked up all the butter that was in the earthen jug.
+Sentence: Hunix mekʷa c’oxnosi, žeda sosi iguni halmaɣes bišʷa rac’no łiyrno.
+Gloss: way-AD.ESS hunger meet-ANT.CVB DEM1.IPL-ERG at.first good-DEF friend-GEN1 food IV-eat-PFV.CVB finish-PST.UNW
+Translation: When they became hungry on their way, the first ate up the good friend's food.
+Sentence: Idur ayzaƛ’or sidä ħaƛun, sidä ħaƛun ža łi nesiqayn hemedurtow łiyrno.
+Gloss: home-LAT come-POST.CVB one.OBL-ERG drink-PFV.CVB one.OBL-ERG drink-PFV.CVB DEM1.SG water DEM1.ISG.OBL-POSS.ABL-and so-EMPH finish-PST.UNW
+Translation: When he went home, someone wanted to drink and another one wanted to drink, so this water was empty as well for him.
+
+Approximate Matches:
+Sentence: Yisiq riyrno, dibirqor mi äƛino, ukrun, micxirno rasadanix q’ili betinƛin, mi eƛo at’ rasadanix betinƛin.
+Gloss: DEM2.ISG.OBL-POSS.ESS IV-explain-PST.UNW mullah-POSS.LAT you say-PROHIB silver-and money-and III.PL-measure-MSD-AD.ESS qili III-want-PST.UNW-QUOT you say-IMPR wheat IV-measure-MSD-AD.ESS III-want-PST.UNW-QUOT
+Translation: He explained to him: "Don't tell the mullah that we want the qilis to measure silver and money, but tell him that we want the qilis to measure wheat!"
+Sentence: Ža yoxärus, äƛiruxor, xanä bertenno bodin, deber rätiru šebinon riso iduɣor yik’iƛin riyrno.
+Gloss: DEM1.SG II-chase-PST.PRT-GEN1 say-PST.PRT-AD.LAT khan-ERG marriage-TOP III-do-PFV.CVB you-LAT IV-want-PST.PRT something IV-take-IMPR home-IN.ALL II-go-QUOT IV-explain-PST.UNW
+Translation: The king, as he had said, organized a wedding on the [day of the] divorce and explained: "Take everything you want and go home!"
+Sentence: Hudun, xizaɣor aħozä biyrno čanya bik’ixosi moči.
+Gloss: nevertheless finally shepherd-ERG III-recognize-PFV.CVB she.goat III-go-PRS.PRT place
+Translation: Nevertheless the shepherd finally found out the place where the goat went to.

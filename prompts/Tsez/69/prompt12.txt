@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ziruƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ziruƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ziruƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Šebi roqno, ziruƛin?” - zeyä esirno.
+Gloss: what IV-happen-PST.UNW fox-QUOT - bear-ERG ask-PST.UNW
+Translation: "What happened, fox?", asked the bear.
+Sentence: Hoboygon šebi roqno, ziruƛin?” - esirno zeyä.
+Gloss: now-CNTR what IV-happen-PST.UNW fox-QUOT - ask-PST.UNW bear-ERG
+Translation: "And what happened now, fox?", asked the bear.
+
+Approximate Matches:
+Sentence: Miyä däz čanyazaƛ’ č’aq’ˤaƛin, Bac’ali ziruƛ’or oqno.
+Gloss: you-Q me-GEN2 she.goat-PL-SUPER.ESS fall.down-PST.WIT.INT-QUOT Batsali fox-SUPER.LAT begin-PST.UNW
+Translation: "Did you assault my goats?", Batsali began on the fox.
+Sentence: Xizyogon ʕUmar ƛelƛ’or utin, Ox̌oyo ziruƛ’or utin, cek’ƛ’or ʕUmar - yeda ceyƛ’or, beƛ’q’ˤuƛ’or yeda - boc’ƛ’or Ox̌oyo, ziyƛ’or ʕUmar utin - zeyƛ’or ža.
+Gloss: then Umar lamb-SUPER.LAT turn-PFV.CVB Ohoyo fox-SUPER.LAT turn-PFV.CVB goat.kid-SUPER.LAT Umar - DEM2.ISG eagle-SUPER.LAT sheep-SUPER.LAT DEM2.ISG - wolf-SUPER.LAT Ohoyo cow-SUPER.LAT Umar turn-PST.UNW - bear-SUPER.LAT DEM1.SG
+Translation: Then Umar turned into a lamb, Ohoyo turned into a fox, Umar into a goat kid - he into an eagle, he into a sheep - Ohoyo into a wolf, Umar turned into a cow - he into a bear.
+Sentence: Xizazgon yisän qˤaƛin nełqor, beže taliħ boqsi debi nedur mi boxin bok’äłruƛin.
+Gloss: from.behind-CNTR DEM2.ISG.OBL-ERG-TOP shout-PST.UNW DEM1.IISG.OBL-POSS.LAT III-big fortune III-become-ATTR you-GEN1 so you III-run.away-PFV.CVB III-escape-PST.PRT-QUOT
+Translation: From behind he shouted: "Your luck was big for having escaped!"

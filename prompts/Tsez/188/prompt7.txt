@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: esiwz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": esiwz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word esiwz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bełiƛ’ esnabi bäk’äsi yałzay, eɣeni esiwz bara k’orin boyn nazon q’ˤidan ričin bac’ƛ’oräy, Umukusez haqa bašiqˤoy šišin, k’ori boyƛ’orey eɣeni esiwz baruqay rˤaƛ’uruni.
+Gloss: hunting-SUPER.ESS brother-PL I.PL-go-ATTR be-SIM.CVB young-DEF brother-GEN2 wife-ERG oatmeal-TOP III-do-PFV.CVB everyone.OBL-TOP down-TOP II.PL-sit-PFV.CVB III-eat-SIM.CVB Umukus-GEN2 mouth-IN.ESS ring get.stuck-PST.UNW oatmeal III-do-SIM.CVB young-DEF brother-GEN2 wife-POSS.ABL IV-fall-PST.PRT-DEF
+Translation: When the brothers were going hunting, the youngest brother's wife made an oatmeal and when everyone sat down and ate, a ring that fell off the youngest brother's wife when she made the oatmeal, got stuck in Umukus' mouth.
+Sentence: Bełiƛ’ esnabi bäk’äsi yałzay, eɣeni esiwz bara k’orin boyn nazon q’ˤidan ričin bac’ƛ’oräy, Umukusez haqa bašiqˤoy šišin, k’ori boyƛ’orey eɣeni esiwz baruqay rˤaƛ’uruni.
+Gloss: hunting-SUPER.ESS brother-PL I.PL-go-ATTR be-SIM.CVB young-DEF brother-GEN2 wife-ERG oatmeal-TOP III-do-PFV.CVB everyone.OBL-TOP down-TOP II.PL-sit-PFV.CVB III-eat-SIM.CVB Umukus-GEN2 mouth-IN.ESS ring get.stuck-PST.UNW oatmeal III-do-SIM.CVB young-DEF brother-GEN2 wife-POSS.ABL IV-fall-PST.PRT-DEF
+Translation: When the brothers were going hunting, the youngest brother's wife made an oatmeal and when everyone sat down and ate, a ring that fell off the youngest brother's wife when she made the oatmeal, got stuck in Umukus' mouth.
+Sentence: Howži elay izin oqƛ’oräy, xanez žaq esiwz xediya esirno, šebi deber di t’ay neƛanƛin, micxirä, mesedä, q’ˤuya maʕišatäƛin.
+Gloss: now there-IN.ABL get.up-PFV.CVB begin-SIM.CVB khan-GEN2 son-POSS.ESS sister-GEN2 husband-ERG ask-PST.UNW what you-LAT me from.here give-FUT.DEF-QUOT money-Q gold-Q other fortune-Q-QUOT
+Translation: Now, while he began to get up from there again, the prince was asked by his sister's husband: "What shall I give you from there? Money, gold or another fortune?"
+
+Approximate Matches:
+Sentence: ƛ’irir yayru žaz eniya eƛin, xexzas žirbabi recurxo ičinč’ey, yok’ek’no yäžiruni debez mi esiws ʕadlu šida boyxanuƛin.
+Gloss: above-LAT II-come-PST.PRT boy-GEN2 mother-ERG say-PST.UNW child-GEN1 rib-PL IV.PL-break-IPFV.CVB be-NEG.PST.CVB II-steal-PFV.CVB II-carry-PST.PRT-DEF you-GEN2 you sister-GEN1 order why III-do-IPFV.CVB-NEG-QUOT
+Translation: The boy's mother came and said: "There child's ribs were not broken, why don't you fulfill your stolen sister's orders?"
+Sentence: Haraƛ’ badirun, ɣˤanabin yoƛixno hemedurtow šebi retinƛin esirno eɣeni esiwq.
+Gloss: voice III-do-IMM.ANT.CVB woman-TOP II-appear-PFV.CVB so-EMPH what IV-want-PST.UNW-QUOT ask-PST.UNW young-DEF brother-POSS.ESS
+Translation: After he shouted, the woman appeared and again she asked the younger brother: "What do you want?"
+Sentence: Hemedur howloza rˤałayzał xexbi yałzay, eɣeni esiwr keroqazay nexxo aždaħ bukayn.
+Gloss: so there-ZA threshing.floor-PL-CONT.ESS children be-SIM.CVB young-DEF brother-LAT ravine-POSS.ABL.DIST come-IPFV.CVB dragon III-see-PST.UNW
+Translation: While the children were there on the harvest like that, the young brother saw a dragon coming to them through the ravine.

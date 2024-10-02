@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bitin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bitin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bitin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Asoqtow bitin žedu ɣˤaɣˤu bizizaq, qiƛ’orok’uƛ’äy ƛ’irir best’alawni uži ayzaƛ’.
+Gloss: sky-POSS.ESS-EMPH III-touch-PFV.CVB DEM1.IPL be.happy I.PL-get.up-CSL.CVB by.chance above-LAT step-DEF son come-CSL.CVB
+Translation: They were happy sky-high, when their step-son happened to come.
+Sentence: Sidä sidqo rak’ru kedonyozaz haraƛ’yo, akiłno (kodin bitin) q’ˤanontow q’ˤidar bˤoƛ’un.
+Gloss: one.OBL-ERG one.OBL-POSS.ESS II.PL-hit-PST.PRT sledgehammer-PL-GEN2 noise-ERG get.tired-PFV.CVB hair-TOP III-touch-PFV.CVB two-TOP-EMPH down-LAT I.PL-fall-PST.UNW
+Translation: The noise of the sledgehammers, when they hit one another, made the two of them loose conscience and fall down.
+
+Approximate Matches:
+Sentence: Nełäz ruɣuƛ’ bercingo xal boyzaƛ’, neła bˤula gibaq bitirxot’a bižin.
+Gloss: DEM1.IISG.OBL-IN.ESS.DIST prints-SUPER.ESS good examination III-do-CSL.CVB DEM1.IISG.OBL-ERG hoof dust-POSS.ESS III-touch-IPFV.CVB-DISTR III-take.out-PST.UNW
+Translation: When I examined its hoofprints thoroughly, [I saw that] it only touches the dust with one hoof.
+Sentence: Howži qˤays yxexoy aħo xäciza mečoƛ’orno bik’in, nełaz mecreq yisis mecno bitirerno, riya rodanix aħozis hibon bisno, xizor butin eniwdäɣortown butin.
+Gloss: now hare-GEN1 II-young.animal shepherd leave-LCV.CVB place-SUPER.LAT-TOP III-go-PFV.CVB DEM1.IISG.OBL-GEN2 tongue-POSS.ESS DEM2.ISG.OBL-GEN1 tongue-TOP III-touch-CAUS-PFV.CVB IV-know-INF IV-do-MSD-AD.ESS shepherd-GEN1 stick-TOP III-take-PFV.CVB back III-return-PFV.CVB mother-APUD.VERS-EMPH-TOP III-return-PST.UNW
+Translation: Now the rabbit's young went to the place where it had left the shepherd, touched his tongue with its own tongue and took the shepherd's stick for marking it, and returned back to its mother.
+Sentence: Qˤayä hiboq neła nełas mecno bitirno, xizyo xexoyn begirno xizor, aħoziqor bižin teƛƛin.
+Gloss: hare-ERG stick-POSS.ESS DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 tongue-TOP III-touch-PST.UNW afterwards young.animal-TOP III-send-PST.UNW back shepherd-POSS.LAT III-carry-PFV.CVB give-QUOT
+Translation: The rabbit touched the stick with its tongue and then sent the young one back: "Carry it back and give it to the shepherd!"

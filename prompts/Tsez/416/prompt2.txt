@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bexaru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bexaru: 
+
+Exact Matches
+Sentence: Howži, nesä bexaru xabaryoƛ’ Ħasanä imanno erno, razin oqno, yisi Ox̌oyode zendi ečula ʕUmarno egirno.
+Gloss: now DEM1.ISG.OBL-ERG III-die-PST.PRT story-SUPER.ESS Hassan-ERG faith-TOP put-PFV.CVB agree-TOP become-PFV.CVB DEM2.ISG.OBL Ohoyo-APUD.ESS accompanying grandchild Umar-TOP send-PST.UNW
+Translation: Now, Hassan believed in the what he got told, he agreed and sent his grandchild Umar together with Ohoyo.
+
+Approximate Matches:
+Sentence: Elo aw käczar hibon bok’no ža bexarur räqi ixina tełsi bečełiƛin.
+Gloss: there mouse sleep-LCV-LAT stick-TOP III-beat-PFV.CVB DEM1.SG III-kill-PST.PRT-LAT IV-get bag-IN.ESS inside-ATTR riches-QUOT
+Translation: And there beat a stick on where the mouse sleeps to kill her and get the riches from inside her bag!"
+Sentence: Neła eƛin, aždaħ bexaruni uži elzox yołƛin.
+Gloss: DEM1.IISG.OBL-ERG say-PST.UNW dragon III-kill-PST.PRT-DEF boy we(II-ATTR.OBL-AD.ESS be-QUOT
+Translation: She said: "The boy who killed the dragon is living at our place."
+Sentence: Kidbä eƛin, ʕilmu yiyxosi nasin babiya bexurxosi, ele hemedurt’a bexaruzas ƛuzabi yoł yiziƛin.
+Gloss: girl-ERG say-PST.UNW science II-know-PRS.PRT all dad-ERG I.PL-kill-PRS.PRT here so-DISTR I.PL-kill-PST.PRT-PL-GEN1 bone-PL be DEM2.IPL-QUOT
+Translation: The girl said: "My father kills all who know about science, these here are the bones of the thus killed."

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: wˤałerno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": wˤałerno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word wˤałerno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Osaxor hawaƛ’orno bizin, tupäsi hil biłe wˤałerno nexno bik’in ɣunoq c’oxno.
+Gloss: height-AD.LAT air-SUPER.LAT-TOP III-get.up-PFV.CVB rifle-IN.ESS-ATTR bullet III-as downward-LAT-TOP come-PFV.CVB III-go-PFV.CVB tree-POSS.ESS pounce-PST.UNW
+Translation: It got up into the height through the air, and came down like a gun's bullet again and pounced on the tree.
+
+Approximate Matches:
+Sentence: Sidaɣ osiw qoqƛ’or raynosi, zira, ent’az rigu huni yołƛin, zey qoqƛ’ay wˤałer begirno.
+Gloss: in.one.place high cliff-SUPER.LAT III.PL-come-ANT.CVB fox-ERG from.here-IN.ESS.DIST IV-good way be-QUOT bear cliff-SUPER.ABL downward-LAT III-let-PST.UNW
+Translation: They came to a high cliff in one place, so the fox said "Here is a good way!", and let the bear go down from the cliff.
+Sentence: K’oƛočo yiguni, ƛ’ˤuƛ’or yezu šida yedu wˤałer rešnada roqä, yagi qemayä regirxoƛin?”
+Gloss: run-IMPR-INT II-good-DEF roof-SUPER.LAT II-look why DEM2.IISG downward-LAT IV-drip-INF IV-begin-Q or rain-Q IV-let-PRS-QUOT
+Translation: "Run, my dear, look at the roof why it is beginning to leak (downward) or if it's raining."
+Sentence: Didurgon, šebigon resułin xal bodanix elor ɣˤanabi yegira yay, yałi - ela badiru ħukmu meq’aw bäčiƛin, diwan boyxozo xalq’imo xan wˤałer ezurerno.
+Gloss: how-CNTR what-CNTR IV-find-CNC.CVB examination III-do-MSD-AD.ESS there-LAT woman II-send-INF II-must else - we(I).OBL-ERG III-do-PST.PRT decision wrong III-be-QUOT judgement III-do-PRS.PRT.OBL people-ERG khan downward-LAT show-CAUS-PST.UNW
+Translation: "How- and whatever it is, we must send a woman there to make an examination, or else the decision we make will be wrong.", the judges said and calmed down the king.

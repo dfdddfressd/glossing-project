@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yiħinosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yiħinosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yiħinosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Idur ayruntow yexurno k’eneč’ žedu q’ˤunzontow ozzaq yiħinosi, sider sis bukayłin, ɣudi qˤašizaƛ’orkin žedu bužzi boqno anu, ozzałer kanłi baysƛin, hemece ɣˤaɣˤu bizizaq.
+Gloss: home-LAT come-IMM.ANT.CVB-EMPH II-kill-PFV.CVB egg DEM1.IPL.OBL two.OBL-ATTR.OBL-TOP-EMPH eye-PL-POSS.ESS II-smear-ANT.CVB one.OBL-LAT one I.PL-see-CNC.CVB day dawn-POST.CVB-even DEM1.IPL trust I.PL-become-PST.UNW be.NEG eye-PL-CONT.LAT light III-come-PST.WIT-QUOT as.many be.happy I.PL-get.up-CSL.CVB
+Translation: After he came home, he crushed an egg, smeared it on each of their eyes, and although they could see each other again, they couldn't believe it when it got dawn, and were even more happy when the light came into their eyes.
+Sentence: Ozzaq ža yiħinosi, Ismaʕiler č’ura rukayn, hudun yisis ozurabi rošun c’oxno, iyxanusi iłe oqno.
+Gloss: eye-PL-POSS.ESS DEM1.SG II-smear-ANT.CVB Ismail-LAT light IV-see-PFV.CVB nevertheless DEM2.ISG.OBL-GEN1 eye-PL IV.PL-bend-PFV.CVB hit-PFV.CVB know-NEG.PRS.PRT as become-PST.UNW
+Translation: Ismail smeared it on his eyes and could see again, but nevertheless, his eyes became slanted and he was like someone unknown.
+Sentence: Sisgon ƛˤeb yet’urno yiħinosi, hoq’ˤonigon ozłer kanłi bayn.
+Gloss: one-CNTR leaf II-pull.out-PFV.CVB II-smear-ANT.CVB other-DEF-CNTR eye-CONT.LAT light III-come-PST.UNW
+Translation: He pulled out a single leaf and after smearing it [onto his eye], the other eye got its eyesight back.
+
+Approximate Matches:
+Sentence: Ža łi ƛ’iri riħinosi, siskin raqinč’iru riłe užisno, ceyesno raqˤyabi ixin.
+Gloss: DEM1.SG water above IV-smear-ANT.CVB anything IV-happen-NEG.FUT.CVB-PST.PRT IV-as boy-GEN1-and eagle-GEN1-and wound-PL heal-PST.UNW
+Translation: He smeared the water on it and the boy's and the eagle's wounds healed like nothing had happened.

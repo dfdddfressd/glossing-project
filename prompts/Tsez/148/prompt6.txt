@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣunoqayn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣunoqayn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣunoqayn:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža nesä äƛirun, bet’un k’oƛin ɣunoqayn boqno babiwz koyär nexno.
+Gloss: DEM1.SG DEM1.ISG.OBL-ERG say-PST.PRT-TOP III-jump-PFV.CVB run-PFV.CVB tree-POSS.ABL-TOP III-become-PFV.CVB father-GEN2 hand-IN.LAT come-PST.UNW
+Translation: After he had said this, it jumped up and ran [flew] off the tree and came into the father's hand.
+Sentence: Hoboy yedu däƛ’or nexxoƛin, zeygon ɣunoqayn bˤoƛ’un, q’ˤidayn bizin zebu yoɣno boxin.
+Gloss: now DEM2.IISG me-SUPER.LAT come-PRS-QUOT bear-CNTR tree-POSS.ABL-and III-fall-PFV.CVB down-IN.ABL-and III-get-PFV.CVB running II-take.away-PFV.CVB III-run.away-PST.UNW
+Translation: "Now he's coming to me!", the bear fell off the tree, got down and ran away quickly.
+
+Approximate Matches:
+Sentence: Kidbazä esin, eli babiwde sadaq saparyox roqäsi zows, babiwn gugin howt’o ƛexasi yoł, ela debez ɣunoqay dahaw henešno but’in bac’siƛin.
+Gloss: girl-PL-ERG tell-PST.UNW we father-APUD.ESS together journey-AD.ESS II.PL-become-RES.PRT be.NPRS-PST.WIT father-TOP escape-PFV.CVB here remain-RES.PRT be we(II-ERG you-GEN2 tree-POSS.ABL a.little apple-TOP III-rip.out-PFV.CVB III-eat-PST.WIT-QUOT
+Translation: The girls said: "We were travelling together with our father, and he ran away and we were staying here; and we picked some apples from your tree and ate them."
+Sentence: Xizyogon zira eƛin, walla, howža di eƛix zowali łiłiroƛ’ozoni ɣunoqay yaqˤułer ƛˤebno yok’ek’no.
+Gloss: then fox-ERG say-PST.UNW wallah DEM4.SG me say-IPFV.CVB be.NPRS-ATTR ditch-SUPER.ESS-GEN2-DEF tree-POSS.ABL today-LAT leaf-TOP II-steal-PST.UNW
+Translation: Then the fox said: "By God, someone stole the leaf from the tree on that ditch I talked about.
+Sentence: Hunixozo sida žek’a hi yac’oƛin ɣunoqay yet’urno łˤeb teƛno.
+Gloss: way-PRS.PRT.OBL one.OBL man-ERG take.IMP II-eat-IMPR-QUOT tree-POSS.ABL II-pull.out-PFV.CVB leaf give-PST.UNW
+Translation: One travelling man, [saying] "Take and eat it!", pulled out a leaf from the tree and gave it to him.

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Boƛƛo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Boƛƛo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Boƛƛo:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mečołer raynosi, boƛƛo baq’ˤu zaman bik’izaƛ’ortow, zira im-m-m-m, im-m-m-mƛin eƛin.
+Gloss: field-CONT.LAT III.PL-come-ANT.CVB III-middle III-much time I.PL-go-POST.CVB-EMPH fox-ERG mhmhmh mhmhmh-QUOT say-PST.UNW
+Translation: After coming to the field, not much time passed until the fox said: "Mhmhmh, mhmhmh!"
+Sentence: Žamaʕatyor riyx zows yołi žeduz ʕaƛoł boƛƛo sida ixiw aħinyoƛ teł kik yałrułi, elur ža dawla biqa zownč’uƛin.
+Gloss: population-LAT IV-know-IPFV.CVB be.NPRS-PST.WIT if DEM1.IPL.OBL-GEN2 village-CONT.ESS III-middle one.OBL big rock-SUB.ESS inside spring be-MSD we(I).OBL-LAT DEM1.SG prey III-get-INF be.NPRS-NEG.PST.WIT-QUOT
+Translation: If the population knew that in the middle of their village under a rock there is a spring, we would not get the prey."
+Sentence: Howža xabarno boqno, boƛƛo baq’ˤu zaman bik’izaƛ’ortow, yedu kid q’ˤuyazix yegirno.
+Gloss: DEM4.SG story-TOP III-become-PFV.CVB III-middle III-much time III-go-POST.CVB-EMPH DEM2.IISG girl other-ATTR.OBL-AD.ESS II-let-PST.UNW
+Translation: Not much later after this conversation, that girl was given to someone else.
+
+Approximate Matches:
+Sentence: Nesi žek’a rayäru šeƛ’un šeƛ’un, howži nartow di ik’anƛin yeda zawru, ƛ’irir boƛƛozo rihmos ɣˤanabi yayn.
+Gloss: DEM1.ISG.OBL man-ERG IV-bring-PST.PRT clothing-TOP put.on-PFV.CVB now where-EMPH me go-FUT.CVB-QUOT DEM2.ISG be.NPRS-PST.PRT above-LAT III-middle-ATTR.OBL age-ERG-GEN1 woman II-come-PFV.CVB
+Translation: He put on the clothing brought by that man and thought now, "Where shall I go?"  as a woman of middle age came.

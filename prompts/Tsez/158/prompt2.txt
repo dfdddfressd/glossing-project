@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ʕiyad.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ʕiyad
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ʕiyad:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Tungi becunosi, mi ʕiyada behizi yaq.
+Gloss: copper.jug III-break-ANT.CVB you cry-INF permit II-become
+Translation: After the jug broke, you may cry.
+Sentence: Rok’un q’ʷarid roqno ʕAliqilič ʕiyada iħun.
+Gloss: heart-TOP sadness IV-become-PFV.CVB Aliqilich cry-INF come.to-PST.UNW
+Translation: His heart became sad and Aliqilich started to cry.
+Sentence: Babiw kodyox ik’is, eniw neside dandir ʕiyada yik’isƛin”.
+Gloss: father to.the.fireplace go-PST.WIT mother DEM1.ISG.OBL-APUD.ESS together cry-INF II-go-PST.WIT-QUOT
+Translation: "Father went to an evening gathering, mother went to cry for him at the meeting."

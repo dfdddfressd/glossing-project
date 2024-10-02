@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: qidoz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": qidoz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word qidoz:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neširu idur aynosi, qidozaq rixäsi xaličabin, butnin bukaynosi haqa ogun ƛexun.
+Gloss: evening home-LAT come-ANT.CVB wall-PL-POSS.ESS III.PL-hang-RES.PRT mat-PL-and burka-and III-see-ANT.CVB mouth-ERG gape-PFV.CVB remain-PST.UNW
+Translation: In the evening, when he came home and saw the mats hanging on the wall and the burka, his mouth gaped.

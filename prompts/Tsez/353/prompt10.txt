@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eƛuk’ƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eƛuk’ƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ič’an eɣeniƛ’ C’iɣruk’ƛin ci zown.
+Gloss: most-TOP young-DEF-SUPER.ESS Tsighruk-QUOT name be.NPRS-PST.UNW
+Translation: The name of the youngest was Tsighruk.

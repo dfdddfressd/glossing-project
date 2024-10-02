@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Babiwr in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Babiwr: 
+
+Exact Matches
+Sentence: Raładyoz lilyox c’eruc’an resus, howža łoħron xizaz nexsiƛin, žawab teƛno žoyä babiwr.
+Gloss: sea-GEN2 river.bank-AD.ESS bow-TOP IV-find-PST.WIT DEM4.SG frog-TOP from.behind come-PST.WIT-QUOT answer give-PST.UNW son-ERG father-LAT
+Translation: "I found the bow at the sea shore, [and] that frog came behind me.", the son answered the father.
+Sentence: Yiłaz babiwr čuqˤno, ža ɣˤʷay esiranix xanes uži neła kidbä rok’uƛ’ esärułi.
+Gloss: DEM2.IISG.OBL-GEN2 father-LAT notice-PFV.CVB DEM1.SG dog ask-MSD-AD.ESS khan-GEN1 son DEM1.IISG.OBL daughter-ERG heart-SUPER.ESS ask-MSD
+Translation: Her father noticed that the daughter asked on her heart(?) that the prince should ask for the dog.
+
+Approximate Matches:
+Sentence: Elo ɣˤutka teł babiwn, kidno besun.
+Gloss: there house-IN.ESS inside father-and daughter-and I.PL-find-PST.UNW
+Translation: There in the house he found father and daughter.
+Sentence: Harihun maʕišat bodix bäčiru yizirabi, sida quł xizor rutixanusi roƛnin c’oxno babiwn eniwn bexun iłnon esnabi best’alłiƛ’ ƛexun.
+Gloss: slowly fortune III-do-IPFV.CVB III-be-PST.PRT DEM2.IIPL one.OBL day-CONT.ESS back IV-turn.back-NEG.PRS.PRT disease-TOP hit-PFV.CVB father-and mother-and I.PL-die-PFV.CVB six-TOP brother-PL orphanhood-SUPER.ESS remain-PST.UNW
+Translation: They slowly made their fortune, and one day an irreversible disease hit them and the father and the mother died, so the six brothers remained orphans.
+Sentence: Žaq oč’ino ƛˤeb yaynosi, babiwz rok’ƛ’or rayn, ʕarab ʕilmu t’et’ra ižanƛin.
+Gloss: son-POSS.ESS nine year II-come-ANT.CVB father-GEN2 heart-SUPER.LAT IV-come-PST.UNW Arabic science learn-INF lead-FUT.DEF-QUOT
+Translation: When the son became nine years old, the father had an idea: "I will send him to learn the Arabian science."

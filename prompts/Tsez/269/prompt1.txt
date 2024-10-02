@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Qˤayz in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Qˤayz: 
+
+Exact Matches
+Sentence: Posures mec nesir biyxozołäy Alimaħama łaqnokin esin anu, esinäy mi äxuƛin nesiq riyräsi roqzaƛ’ qˤayz xexoyä.
+Gloss: cattle-GEN1 language DEM1.ISG.OBL-LAT III-know-AD.ESS-ATTR.OBL-CONT.ABL Alimagomed-ERG who.OBL-POSS.ESS-TOP-even tell-PFV.CVB be.NEG tell-CND.CVB you die-QUOT DEM1.ISG.OBL-POSS.ESS IV-explain-RES.PRT IV-become-CSL.CVB hare-GEN2 young.animal-ERG
+Translation: Alimagomed told to no one about his knowing the animals' language, because the rabbit's young had explained to him: "If you tell it, you'll die!"
+Sentence: Oqnäyƛin, eƛin qˤayz xexoyä, di eniw goƛ’an bik’an, deber rätiru łinałäyn di nełaq esanƛin.
+Gloss: happen-CND.CVB-QUOT say-PST.UNW hare-GEN2 young.animal-ERG me mother call-FUT.CVB III-go-FUT.DEF you-LAT IV-want-PST.PRT what.OBL-CONT.ABL-TOP me DEM1.IISG.OBL-POSS.ESS tell-FUT.DEF-QUOT
+Translation: "If that's the case," said the rabbit's young, "I will go to call mother and you will tell her about what you want."
+
+Approximate Matches:
+Sentence: Boc’ezno, qˤayzno, ziruznogon žedaƛ’or ixiwtow žanawar bays bäsuƛin rok’ƛ’orno rayn sidqo sis riqinč’ey k’iriłno roxin.
+Gloss: wolf-GEN2-and hare-GEN2-and fox-GEN2-and-CNTR DEM1.IIPL.OBL-SUPER.LAT big-EMPH wild.animal III-come-PST.WIT III-exist-QUOT heart-SUPER.LAT-TOP IV-come-PST.UNW one.OBL-POSS.ESS one IV-get-NEG.PST.CVB run.away-PFV.CVB IV-run.away-PST.UNW
+Translation: The wolf, the hare and the fox thought that an animal, larger than themselves, was coming, they ran away, one running faster than the other.

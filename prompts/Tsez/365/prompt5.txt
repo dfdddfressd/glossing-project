@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yizir in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yizir: 
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Elo yizir qazaqzas bˤeƛ’es reqenyabi resux.
+Gloss: there DEM2.IPL.OBL-LAT Georgian-PL-GEN1 sheep-GEN1 herd-PL III.PL-find-IPFV.CVB
+Translation: There they found herds of sheep from the Georgians.
+Sentence: Esanayn łiynosi, yizir xanez kidbes šeƛ’u resunanu.
+Gloss: swim-PFV.CVB end-ANT.CVB DEM2.IPL.OBL-LAT khan-GEN2 daughter-GEN1 clothing IV-find-PST.UNW-NEG
+Translation: After she finished swimming, they couldn't find the princess' clothes.
+
+Approximate Matches:
+Sentence: Elo idu besun iłno užin, mežä k’ʷač’nox yiziräsi ɣˤanabin.
+Gloss: there home I.PL-find-PFV.CVB six son-TOP mattress-IN.ESS groan-IPFV.CVB II-lift-RES.PRT woman-TOP
+Translation: There at home they found six sons and in the bed a groaning woman.
+Sentence: Elo äsuruni žek’u guluƛ’no zown, bˤałno žan bižin ik’iƛ’oräy, sidaɣ mečoƛ’ aħinno yizirno, wˤałzoni dunyalƛ’aɣor oqno, nesiłgon xizay wˤałzoni dunyalƛ’aɣor xanes užin ik’in.
+Gloss: there find-PST.PRT-DEF man horse-SUPER.ESS-TOP ride-PFV.CVB III-strike-PFV.CVB DEM1.SG-TOP III-lead-PFV.CVB go-SIM.CVB in.one.place place-SUPER.ESS rock-TOP II-lift-PFV.CVB downward-ATTR.OBL-DEF world-SUPER.VERS become-PFV.CVB DEM1.ISG.OBL-CONT.ESS-CNTR behind downward-ATTR.OBL-DEF world-SUPER.VERS khan-GEN1 son-TOP go-PST.UNW
+Translation: The man he had found got on his horse, and while he got away, he lifted a rock in some place and got down into the underworld, and the prince followed him and went into the underworld as well.
+Sentence: Bik’in yiziri neła ceyder, žedus murad bič’zi boqnosi neła eƛin:
+Gloss: III-go-PFV.CVB DEM2.IPL DEM1.IISG.OBL-ERG eagle-APUD.LAT DEM1.IPL.OBL-GEN1 wish understand III-become-ANT.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: They went to that eagle, and when he had understood their wish, the eagle said:

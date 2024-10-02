@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Kidbä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Kidbä: 
+
+Exact Matches
+Sentence: Yizi bok’äłrun, kidbä ƛ’iräy ħošin boɣno, bercinaw šeƛ’un šeƛ’un, bašiłgon bašiqˤoyn erno bertenyołxor yik’in.
+Gloss: DEM2.IPL I.PL-go.away-IMM.ANT.CVB girl-ERG from.above hide-TOP III-take.away-PFV.CVB beautiful clothing-and clothing-and finger-CONT.ESS-CNTR ring-and put-PFV.CVB marriage-CONT.VERS II-go-PST.UNW
+Translation: After they went away, the girl took off the hide, put on beautiful clothes and the ring on her finger and went to the marriage.
+Sentence: Xanes ħillan čuqˤno, kidbä ʕansaqor, bišodyołäysi zahru bok’ek’ƛinno eƛin, xizyo bercingo bišno.
+Gloss: khan-GEN1 trickery-TOP notice-PFV.CVB daughter-ERG walking.stick-POSS.LAT food-CONT.ABL-ATTR poison III-steal-QUOT-TOP say-PFV.CVB after good I.PL-eat-PST.UNW
+Translation: Noticing the king's trickery, and the daughter told the walking stick to remove the poison in the food, whereafter they ate well.
+Sentence: Didurnokin ħal bayxanusi biyzaƛ’, kidbä siħirno yoqno dibir šeƛ’u roɣa egirno.
+Gloss: how-TOP-even trouble III-come-NEG.PRS.PRT III-know-CSL.CVB girl-ERG sly.person-TOP II-become-PFV.CVB imam clothing IV-take.away-INF let-PST.UNW
+Translation: When she knew he had no trouble [following her], the girl became a sly person and let the imam take off his clothes.
+
+Approximate Matches:
+Sentence: Idur aynosigon, eniyan, kidbäntow, rok’u č’eze roqaniƛäy, best’alawni kid yexuriyäƛin, esirno nesiq.
+Gloss: home-LAT come-ANT.CVB-CNTR mother-ERG-and daughter-ERG-and-EMPH heart convinced[?] IV-become-MSD-SUB.ABL step-DEF daughter II-kill-PST.WIT.Q-QUOT ask-PST.UNW DEM1.ISG.OBL-POSS.ESS
+Translation: After he came home, the mother and her daughter asked him: "Did you kill the stepdaughter?" to become convinced.
+Sentence: Ɣˤalu seranix indowrizaxosi aħo goƛ’anix xanä wazirbi begirno baynosi, k’oƛin yik’in kidbätow serun.
+Gloss: saddle unlock-MSD-AD.ESS turkey-PL-AD.ESS-ATTR shepherd call-MSD-AD.ESS khan-ERG vizier-PL I.PL-let-PFV.CVB I.PL-come-ANT.CVB run-PFV.CVB II-go-PFV.CVB daughter-ERG-EMPH unlock-PST.UNW
+Translation: He sent his viziers to call the turkey herder to open the saddle, but his daughter came running and opened it.
+Sentence: Hemedur sadaq ʕumru bodix zown eɣeni užän, łoħrołäy yaqruni bercinawni kidbän.
+Gloss: so together life III-do-IPFV.CVB be.NPRS-PFV.CVB young-DEF boy-ERG-and frog-CONT.ABL II-become-PST.PRT-DEF beautiful-DEF girl-ERG-and
+Translation: So the young boy and the beautiful girl that became of the frog were living together.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žeda.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žeda
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žeda:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hudun žeda diduräyƛa gulun k’irik’no, ƛoħo rutirno caƛin.
+Gloss: nevertheless DEM1.IPL.OBL-ERG how-IN.ABL-INDEF horse-TOP frighten-PFV.CVB pan IV-turn-PFV.CVB throw-PST.UNW
+Translation: Nevertheless they frightened the horse somehow and it turned the pan and threw it to them.
+Sentence: Sida zamanałäy eɣeni esiya nasin žeda roƛäk’ru šebinabi yizas xot’ozaxor kurnosi, łˤonontow yisił adäzarno rayn esirno, šebi deber elaqay ħažat roqnoƛin.
+Gloss: one.OBL time-CONT.ABL young-DEF brother-ERG all DEM1.IIPL.OBL-ERG IV-appear-PST.PRT thing-PL DEM2.IIPL.OBL-GEN1 foot-PL-AD.LAT throw-ANT.CVB three-TOP-EMPH DEM2.ISG.OBL-CONT.ESS before-IN.LAT-TOP IV-come-PFV.CVB ask-PST.UNW what you-LAT we(II-POSS.ABL necessity IV-become-PST.UNW-QUOT
+Translation: After some time, the young brother threw the things that they listed to their feet, and they went before him and asked: "What do you need from us?"
+Sentence: Xalq’ima ža gamušyozaq ƛisirno ʕaƛaɣorno yižin, žeda žedus c’ik’iw ʕaƛno kušin, neł c’iɣuƛ’ ƛ’iri bodin.
+Gloss: people-ERG DEM1.SG buffalo-PL-POSS.ESS pull-CAUS-PFV.CVB village-IN.VERS-and II-carry-PFV.CVB DEM1.IPL-ERG DEM1.IPL.OBL-GEN1 entire village-and demolish-PFV.CVB DEM1.IISG.OBL shoulder.blade-SUPER.ESS above III-do-PST.UNW
+Translation: The people made the buffalo pull it into the village, demolished their entire village and rebuilt it on the shoulder.blade.
+
+Approximate Matches:

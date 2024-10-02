@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word maʕna in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word maʕna: 
+
+Exact Matches
+Sentence: Esiƛ’ nesiq xabarno xecirno elo yoƛor k’oƛin kidbä eƛin, neł rožes maʕna deber meq’ bič’zi boqno.
+Gloss: tell-PCT.CVB DEM1.ISG.OBL-POSS.ESS story-TOP leave-CAUS-PFV.CVB there II-middle-LAT run-PFV.CVB girl-ERG say-PST.UNW DEM1.IISG.OBL word-GEN1 sense you-LAT incorrectly understand III-become-PST.UNW
+Translation: "Let him cease the story while he's talking!", the girl ran into the middle of there and said: "You misunderstood the sense of these words.
+Sentence: Nełas maʕna yoł, keze aqza ƛirbałi rodoƛin.
+Gloss: DEM1.IISG.OBL-GEN1 sense be meet become-LCV hospitality IV-do-IMPR-QUOT
+Translation: The sense of his words was: 'Be a guest whereever you go to!'"
+Sentence: Nełas där maʕna bič’zi boqxanu.
+Gloss: DEM1.IISG.OBL-GEN1 me-LAT sense understand III-become-IPFV.CVB-NEG
+Translation: I don't understand what this means.
+
+Approximate Matches:
+Sentence: Kusa urɣizi oqno, šida ža ʕabasi yaqˤuł nesä cuƛer kuräƛin, hudun nesir nełas maʕnatow biyn anu.
+Gloss: Kusa thinking become-PFV.CVB why DEM1.SG coin today DEM1.ISG.OBL-ERG upward throw-PST.WIT.INT-QUOT nevertheless DEM1.ISG.OBL-LAT DEM1.IISG.OBL-GEN1 sense-EMPH III-know-PST.UNW be.NEG
+Translation: Kusa thought: "Why did he throw that coin up today?", nevertheless he could not know its sense.

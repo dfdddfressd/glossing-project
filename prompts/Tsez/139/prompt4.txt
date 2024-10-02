@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xabar.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xabar
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xabar:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.
+Gloss: so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT
+Translation: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.
+Sentence: ʕAƛar xabar bayn, hunix zigolun yegirno, raq’ˤu bˤeƛ’ rexunƛin.
+Gloss: village-IN.LAT story III-come-PST.UNW way-AD.ESS hail-TOP II-send-PFV.CVB III.PL-many sheep III.PL-die-PST.UNW-QUOT
+Translation: Into the village came the news that on the way it had hailed and many sheep had died.
+
+Approximate Matches:
+Sentence: Eƛnin ɣutaneł yoɣno, ħonzaqaɣor bˤeƛ’ rowa oc’ino łeno ɣudi ƛexunosi, aħozir ɣˤʷadbi sidä sidqor xabaryayx teqno.
+Gloss: winter-TOP winter.pasture-CONT.ESS II-spend.time-PFV.CVB mountain-PL-POSS.VERS sheep III.PL-bring-INF ten five day remain-ANT.CVB shepherd-LAT crow-PL one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB hear-PST.UNW
+Translation: They spent the winter on the winter pasture and when just 15 days remained to bring the sheep back to the mountains, the shepherd heard the crows talking among each other.
+Sentence: Badiru daru baqinč’iƛin Bilq’isdä nesi eženi žek’us łˤonon užibi muk’urno boyrerno, buyxor xabarno esirerno žeduq.
+Gloss: III-do-PST.PRT medicine III-become-NEG.FUT-QUOT Bilqisdi-ERG DEM1.ISG.OBL old-DEF man-GEN1 three-TOP son-PL confess-TOP I.PL-do-CAUS-CAUS-PFV.CVB III-true-AD.LAT story-TOP ask-CAUS-PST.UNW DEM1.IPL.OBL-POSS.ESS
+Translation: "(Otherwise) the medication won't work.", Bilqisdi made the old man's three sons confess and made them tell the true story.
+Sentence: Q’orolayz xabaryoƛ’ay yiłar riyn neł ʕaƛa teł nasin sida bečedaw žek’uz bertenyołer boqxosi yałrułi.
+Gloss: widow-GEN2 story-SUPER.ABL DEM2.IISG.OBL-LAT IV-know-PFV.CVB DEM1.IISG.OBL village-IN.ESS inside all one.OBL wealthy man-GEN2 marriage-CONT.LAT I.PL-become-PRS.PRT be-MSD
+Translation: From the widow's telling, she knew that everyone in this village was going to the wedding of a rich man.

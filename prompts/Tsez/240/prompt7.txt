@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word raładyoz in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word raładyoz: 
+
+Exact Matches
+Sentence: Nesiz guluƛ’no zown, bok’no yisä čuret’, ʕoƛno ħonno xecin raładyoz lilyoxor ayn yeda.
+Gloss: DEM1.ISG.OBL-GEN2 horse-SUPER.ESS-TOP ride-PFV.CVB III-beat-PFV.CVB DEM2.ISG.OBL-ERG whip seven mountain-TOP leave-PFV.CVB sea-GEN2 river.bank-AD.LAT come-PST.UNW DEM2.ISG
+Translation: He sat on the horse, beated the whip and having left seven mountains behind him, he came to the coast of the sea.
+Sentence: Hemełƛ’o yisir raładyoz bitazoni lilyox neła kidbes ɣˤutku rukayn.
+Gloss: DEM4.IISG.OBL-SUPER.ESS DEM2.ISG.OBL-LAT sea-GEN2 next-DEF river.bank-AD.ESS DEM1.IISG.OBL girl-GEN1 house IV-see-PST.UNW
+Translation: Thereupon he saw that girl's house on the other side of the sea.
+Sentence: Q’ˤano äƛirugon ɣudƛ’o eɣeni esiw raładyoz raʕalłixor ik’in.
+Gloss: two ORD-CNTR day-SUPER.ESS young-DEF brother sea-GEN2 edge-AD.LAT go-PST.UNW
+Translation: On the second day, the younger brother went to the edge of the sea.
+
+Approximate Matches:
+Sentence: Baq’ˤu mesedno besuroqur teƛno, yisä ža besuro nesiq raładyołxor begirerno.
+Gloss: III-much gold-TOP fisherman-LAT give-PFV.CVB DEM2.ISG.OBL-ERG DEM1.SG fish DEM1.ISG.OBL-POSS.ESS sea-CONT.VERS III-let-CAUS-PST.UNW
+Translation: He gave the fisherman a lot of gold and had him let the fish into the sea.
+Sentence: Qˤaƛin haraƛ’ bodinosi, raładyołäy howžatow ɣˤanabi yoƛixno.
+Gloss: shout-PFV.CVB voice III-do-ANT.CVB sea-CONT.ABL DEM4.SG-EMPH woman II-appear-PST.UNW
+Translation: He shouted and out of the sea came that woman.
+Sentence: Xizyo cey maħorno boqno neła nełaz gugyoƛ’ ƛ’iri užin zowrno, boržizin boqno iħubin, ħonbin xecin bik’in raładyoƛ’ ƛ’irir bayn.
+Gloss: afterwards eagle outside-TOP I.PL-become-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 back-SUPER.ESS on boy-TOP seat-PFV.CVB flight-TOP III-become-PFV.CVB river-PL-and mountain-PL-and leave-PFV.CVB III-go-PFV.CVB sea-SUPER.ESS on-LAT III-come-PST.UNW
+Translation: Afterwards, the eagle went outside, seated the boy on its own back, flew away past rivers and mountains and came to the sea.

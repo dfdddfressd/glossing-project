@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Dahaw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Dahaw: 
+
+Exact Matches
+Sentence: Buqbetałer ʕaƛarno bik’in, dahaw iduzan bičin, godek’anyaɣor ʕoloqzałxor boqno.
+Gloss: sunset-CONT.LAT village-IN.LAT-TOP I.PL-go-PFV.CVB a.little home-DIST-TOP I.PL-be-PFV.CVB village.square-IN.VERS young.person-PL-CONT.VERS I.PL-become-PST.UNW
+Translation: At sunset they went into the village, spent some time at home, and went to the people at the godekan.
+Sentence: Nesä eƛin, were meži dahaw wˤałer bik’i, bertenyołäy xalq’i maħor roxira rayxosi anu.
+Gloss: DEM1.ISG.OBL-ERG say-PST.UNW well you.PL a.little downward-LAT I.PL-go marriage-CONT.ABL people outside III.PL-chase-INF IV-must-PRS.PRT be.NEG
+Translation: He said: "Well, calm down a little, one must not chase away people from a marriage."
+Sentence: Hemełƛ’o guluƛay dahaw bero becin bik’in.
+Gloss: DEM4.IISG.OBL-SUPER.ESS horse-SUB.ABL a.little ice III-thaw-PFV.CVB III-go-PST.UNW
+Translation: After that, a little ice thawed away from the horse.
+
+Approximate Matches:
+Sentence: Tungin bic’no nexƛ’osi, hemedurtow hunix dandir c’axru xalq’imo ħaƛun łiyra, žan lamusyoqay, dahawtow łi xecäsi zown.
+Gloss: copper.jug-TOP III-fill-PFV.CVB come-PCT.CVB-ATTR so-EMPH way-AD.ESS together meet-PST.PRT people drink-PFV.CVB finish-INF DEM1.SG-TOP conscience-POSS.ABL a.little-EMPH water leave-RES.PRT be.NPRS-PST.UNW
+Translation: Right when he came from filling the jug, the people that he met on the way drank up, and from this conscience, leaving hardly and water.
+Sentence: Igorno ik’in babiya č’arik’nosi, užir retinanu, dahawgon šida di moƛał xecinč’uƛin.
+Gloss: near-LAT-TOP go-PFV.CVB father-ERG wake.up-ANT.CVB son-LAT IV-like-PFV.CVB-NEG a.little-CNTR why me dream-CONT.ESS leave-NEG.PST.WIT-QUOT
+Translation: The father came closer and after waking him up, the son didn't like it [and said]: "Why didn't you let me sleep a little more?"
+Sentence: Iłira äƛiru ɣudƛ’o užä dahawtow koyä bixno risno ik’in, rečuƛäy mäħorno roɣno, ƛ’iri reƛ’un erno xizazgon gutanno yicin mečołxor rižin.
+Gloss: six.OBL say-PST.PRT day-SUPER.ESS boy-ERG a.little-EMPH hand-IN.ESS hay-TOP IV-take-PFV.CVB go-PFV.CVB cattleshed-SUB.ABL outside-TOP III.PL-take.away-PFV.CVB above yoke-TOP put-PFV.CVB from.behind-CNTR plow-TOP II-tie-PFV.CVB field-CONT.VERS III.PL-lead-PST.UNW
+Translation: On the sixth day, the boy went to take a little hay in his hand, took them out of the shed, put a yoke around them, tied a plow behind it and lead them into the field.

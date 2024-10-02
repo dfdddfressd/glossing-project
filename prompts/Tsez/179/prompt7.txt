@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yodaniƛäy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yodaniƛäy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yodaniƛäy:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Debeł halmaɣłin risno, łäƛ’ ƛ’iri xanłi rodaniƛäy anu di dowder iħada nexäsiƛin, eƛin rizirno yisä mač’a.
+Gloss: you-CONT.ESS friendship-TOP IV-take-PFV.CVB water-SUPER.ESS above khanship IV-do-MSD-SUB.ABL be.NEG me you-APUD.LAT fight-INF come-RES.PRT-QUOT say-PFV.CVB IV-lift-PST.UNW DEM2.ISG.OBL-ERG dagger
+Translation: "I won't accept your friendship with you and I won't rule over the water, I came to you in order to fight!", he said and lifted the dagger.
+Sentence: Ža nesiqor äƛiru šebin rodaniƛäy, xanä nesiqor nesä äƛiru gulun, tupin teƛno.
+Gloss: DEM1.SG DEM1.ISG.OBL-POSS.LAT say-PST.PRT what-TOP IV-do-MSD-SUB.ABL khan-ERG DEM1.ISG.OBL-POSS.LAT DEM1.ISG.OBL-ERG say-PST.PRT horse-and rifle-and give-PST.UNW
+Translation: For doing what he said, the king gave him the horse and the rifle he had asked for.
+Sentence: Esiya eƛin, rigutow ħadurłi rodaniƛäy ħonƛ’ay bˤeƛ’ rowa ik’an diƛin.
+Gloss: brother-ERG say-PST.UNW IV-good-EMPH preparation IV-do-MSD-SUB.ABL mountain-SUPER.ABL sheep III.PL-bring-INF go-FUT.DEF me-QUOT
+Translation: His brother said: "Because this has to be well prepared, I'll go bring a flock of sheep down from the mountain."

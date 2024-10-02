@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reƛ’iqoy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reƛ’iqoy: 
+
+Exact Matches
+Sentence: Ik’in nełaq reƛ’iqoy rukarnosi, didiw ža yałru sosisi riynč’ey neła eƛin:
+Gloss: go-PFV.CVB DEM1.IISG.OBL-POSS.ESS glove IV-show-ANT.CVB which DEM1.SG be-PST.PRT at.first-ATTR IV-know-NEG.PST.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: He went and showed her the glove, and at first, when she didn't know what kind of glove this was, she said:
+Sentence: Izin užä neł imyoq ħobo bok’nosi, nazay eƛa riynč’ey reƛ’iqoy rˤoƛ’un.
+Gloss: get.up-PFV.CVB boy-ERG DEM1.IISG.OBL pole-POSS.ESS leg III-beat-ANT.CVB from.where say-INF IV-know-NEG.PST.CVB glove IV-fall-PST.UNW
+Translation: When he got up and kicked the pole, a glove fell down he didn't know from where.
+
+Approximate Matches:
+Sentence: Nediwt’a reƛ’iqoybi elzox oč’ino yołƛin”.
+Gloss: such-DISTR glove-PL we(II-ATTR.OBL-AD.ESS nine be-QUOT
+Translation: "We have nine of such gloves."
+Sentence: Ruysi reƛ’iqoybi resʷa behila mežzoxƛin, - eƛin žoyä, - amma endiw däzoq’aw anu žeduƛin”.
+Gloss: IV.PL-simple glove-PL IV-find-INF perhaps you(I).PL.OBL-ATTR.OBL-ADV-QUOT - say-PST.UNW boy-ERG - but such.a me-ATTR.OBL-EQU2 be.NEG DEM1.IPL-QUOT
+Translation: "One might perhaps find simple gloves at your's," the boy said, "but they're not like the one I have."
+Sentence: Mesedyos saħno, t’asno, reƛ’iqoyn, pandurno boɣno xanez kidbeqay, xanägon nesi žax žan yegirno.
+Gloss: gold-GEN1 sah-and washbowl-and glove-and lute-and III-take.away-PFV.CVB khan-GEN2 daughter-POSS.ABL khan-ERG-CNTR DEM1.ISG.OBL boy-AD.ESS DEM1.SG-TOP II-send-PST.UNW
+Translation: The king took away the sah of gold, the washbowl, the glove and the lute, and sent it back to the boy.

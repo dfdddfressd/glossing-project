@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: micxir.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": micxir
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word micxir:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Maħix micxir t’aħiruni ɣˤʷay neƛƛin eƛo mi nesiqor.
+Gloss: tail-AD.ESS money tie-PST.PRT-DEF dog give-QUOT say-IMPR you DEM1.ISG.OBL-POSS.LAT
+Translation: Say to him: 'Give me the dog with money tied to its tail!'"
+Sentence: Bet’erhanes kidno ħamimyołxor yegirno, nełałtow xizaygon dibirno egirno, micxir neƛanƛin.
+Gloss: master-GEN1 daughter-TOP hot.springs-CONT.VERS II-send-PFV.CVB DEM1.IISG.OBL-CONT.ESS-EMPH behind-CNTR imam-TOP send-PFV.CVB money give-FUT.DEF-QUOT
+Translation: She sent the master's daughter to the hot springs and sent the imam behind her, "I'll give you money."
+Sentence: Ele hoboda debi mi eɣʷedin et’no biqiräsi micxir boqzaƛ’, c’idaɣor kura baynč’iƛin, eƛin babiya, užä nesä nesir micxir boda oqsiƛin rok’u č’eze roqnosi.
+Gloss: there that you-GEN1 you sweat-TOP pour-PFV.CVB III-win-RES.PRT money III-become-CSL.CVB fire-APUD.VERS throw-INF III-must-NEG.FUT-QUOT say-PFV.CVB dad-ERG boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT money III-do-INF begin-PST.WIT-QUOT heart convinced[?] IV-become-ANT.CVB
+Translation: "There, because it's the money you earned with your own sweat, I don't have to throw it into the fire.", said the father, and was convinced that his son earned money for himself.
+
+Approximate Matches:
+Sentence: Xizyo ɣamasya tełäzay xanez kidber riguƛ’ay rigut’a maq’anyabi teqnosi, neła ža micxiryoƛ yisinč’ey yäčinč’i.
+Gloss: afterwards box-IN.ESS inside-IN.ABL.DIST khan-GEN2 daughter-LAT III.PL-pretty-SUPER.ABL III.PL-pretty-DISTR melody-PL hear-ANT.CVB DEM1.IISG.OBL-ERG DEM1.SG money-SUB.ESS II-buy-NEG.PST.CVB II-be-NEG.FUT
+Translation: Then, after the king's daughter heard the prettiest melodies coming out of the box, she just had to buy it.
+Sentence: Hemedur q’ˤunesno micxirno łiyn, babiya žarƛin c’unzi rodin xecin zawruni micxiryosno, mesedyosno ixinno łiyrno yizä.
+Gloss: so two.OBL-GEN1-TOP money-TOP end-PFV.CVB dad-ERG son-LAT-QUOT guard IV-do-PFV.CVB leave-PFV.CVB be.NPRS-PST.PRT-DEF money-GEN1-and gold-GEN1-and bag-TOP finish-PFV.CVB DEM2.IPL-ERG
+Translation: So the two guys' money was finished, and the bag of money and gold that the father left for his son they finished as well.
+Sentence: Boƛik’u xanez maħišatyoce micxirno teƛno, yisno xanä ɣamas kidbez idu eqerno.
+Gloss: half khan-GEN2 fortune-EQU1 money-TOP give-PFV.CVB II-buy-PFV.CVB khan-ERG box daughter-GEN2 room put-PST.UNW
+Translation: The king gave half of his fortune, bought the box and put it into his daughter's room.

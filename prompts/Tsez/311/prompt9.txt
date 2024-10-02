@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ičäsiƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ičäsiƛin: 
+
+Exact Matches
+Sentence: Mužmarłäzay iduɣor aynosi, Pat’imater babiw q’ʷarid iłe ukayzaƛ’ yiła nesiq esirno, šida mi nece pašman oqno ičäsiƛin.
+Gloss: Friday-CONT.ABL.DIST home-IN.ALL come-ANT.CVB Fatima-LAT father sadness as see-CSL.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS ask-PST.UNW why you so.much become.sad become-PFV.CVB be-RES.PRT-QUOT
+Translation: After he came home from the Friday (prayer), Fatima asked her father because she saw him being so sad: "Why are you so sad?"
+Sentence: Hemeł zamanał žader yexora kot’u yołäsi sis ečru žek’u oƛixno k’oƛin žaq esirno, šida mi nece q’ʷarid ičäsiƛin.
+Gloss: DEM4.IISG.OBL time-CONT.ESS boy-APUD.LAT II-long beard be-RES.PRT one old man appear-PFV.CVB run-PFV.CVB boy-POSS.ESS ask-PST.UNW why you so.much sadness be-RES.PRT-QUOT
+Translation: Some time later an old man with a long beard came running and asked the boy: "Why are you so sad?"
+Sentence: Žigoƛ’aygon eɣeni esiw nesiq esiranix oqno, šida mi nece pašmanłiƛ’ ičäsiƛin.
+Gloss: now-SUPER.ABL-CNTR young-DEF brother DEM1.ISG.OBL-POSS.ESS ask-MSD-AD.ESS begin-PST.UNW why you so.much sadness-SUPER.ESS be-RES.PRT-QUOT
+Translation: And now the younger brother began to ask him: "Where is there so much sadness on you?"
+
+Approximate Matches:
+Sentence: Hudu xedyox yik’inč’ey, nece yeže yizace šida yičäsiƛin bełiqanä esirnosi, neła esin nesiq, t’omceni žek’ur yegira retixanuƛin.
+Gloss: so husband-AD.ESS II-go-NEG.PST.CVB so.much II-old II-get-TERM why II-wait-RES.PRT-QUOT hunter-ERG ask-ANT.CVB DEM1.IISG.OBL-ERG tell-PST.UNW DEM1.ISG.OBL-POSS.ESS span-EQU1-DEF man-LAT II-let-INF IV-want-IPFV.CVB-NEG-QUOT
+Translation: When the hunter asked: "So why don't you go to a husband but wait until you get old?", she said to him: "The span-sized man doesn't want to let me [go]."
+Sentence: Žedu bigtow q’ʷaridno boqno bičäsi boqzaƛ’, eɣeni esiya neł ečruni ɣˤanazaq esirno, žedu šida nece q’ʷaridno boqno bičäsiƛin.
+Gloss: DEM1.IPL III-much-EMPH sadness-TOP I.PL-become-PFV.CVB I.PL-be-RES.PRT I.PL-become-CSL.CVB young-DEF brother-ERG DEM1.IISG.OBL old-DEF woman-POSS.ESS ask-PST.UNW DEM1.IPL why so.much sadness-TOP I.PL-become-PFV.CVB I.PL-be-RES.PRT-QUOT
+Translation: Because they were very sad, the younger brother asked that old woman: "Why are they so sad?"
+Sentence: Šebi deber roqno, mi c’aq’ pašmanłiƛ’wa yičäsiƛin, esiya esirnosi, yiła eƛin, maqˤiƛ’ay łi ric’a yik’iƛ’oräy, ʕoloqzas rok’uƛ’ yołƛax di yok’ek’anƛin.
+Gloss: what you-LAT IV-happen-PST.UNW you much sadness-SUPER.ESS-Q II-be-RES.PRT-QUOT brother-ERG ask-ANT.CVB DEM2.IISG.OBL-ERG say-PST.UNW far.away-SUPER.ABL water IV-fill-INF II-go-SIM.CVB young.person-PL-GEN1 heart-SUPER.ESS be-QUOT me II-steal-FUT.CVB-QUOT
+Translation: "What happened to you, to make you so sad?", the brother asked, and she said: "When I went from afar to get water, some young guys planned to kidnap me.

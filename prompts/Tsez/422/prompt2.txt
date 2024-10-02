@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boqa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boqa: 
+
+Exact Matches
+Sentence: Sida quł, babiya igorno goƛ’in kidbazaq riyrno, sasaq eli bet’erbaqi bodanix maħor boqa bayƛin.
+Gloss: one.OBL day-CONT.ESS father-ERG near-LAT-TOP call-PFV.CVB daughter-PL-POSS.ESS IV-explain-PST.UNW tomorrow we life III-do-MSD-AD.ESS outside I.PL-become-INF I.PL-must-QUOT
+Translation: One day, the father called them to himself and explained to the daughters: "Tomorrow we have to go outside to do work."
+Sentence: Žädgon oc’ino łenokin ɣudi yoł bˤeƛ’ ħonqaɣor rižanix zaman baya, eli edeʕizi boqa baynč’iƛin, eƛin žeda.
+Gloss: still-CNTR ten five-even day be sheep mountain-POSS.VERS III.PL-lead-MSD-AD.ESS time III-come-INF we hurry I.PL-become-INF I.PL-must-NEG.FUT-QUOT say-PST.UNW DEM1.IIPL.OBL-ERG
+Translation: "There are still fifteen days left to lead the sheep to the mountain, we don't need to hurry.", they said.
+Sentence: Neširu bežet’ani esnabi q’ʷarid boqno biłe baynosi, yisä esirno, šebi mežur roqno hemecetow pašman boqa keze boqnäy, šebi necetow beže q’ʷariłi mežuƛ’or bayäsiƛin.
+Gloss: evening I.PL-old-DISTR-DEF brother-PL sad I.PL-become-PFV.CVB I.PL-as I.PL-come-ANT.CVB DEM2.ISG.OBL-ERG ask-PST.UNW what you(I).PL.OBL-LAT IV-happen-PFV.CVB such-EMPH become.sad I.PL-become-INF meet I.PL-become-CND.CVB what so.much-EMPH III-big sadness you(I).PL.OBL-SUPER.LAT III-come-RES.PRT-QUOT
+Translation: In the evening, when the brothers came looking sad, he asked: "What happened to you that you became so sad? What a big sadness has come upon you!"
+
+Approximate Matches:

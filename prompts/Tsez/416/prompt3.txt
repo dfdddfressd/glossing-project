@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xabar in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xabar: 
+
+Exact Matches
+Sentence: Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.
+Gloss: so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT
+Translation: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.
+Sentence: ʕAƛar xabar bayn, hunix zigolun yegirno, raq’ˤu bˤeƛ’ rexunƛin.
+Gloss: village-IN.LAT story III-come-PST.UNW way-AD.ESS hail-TOP II-send-PFV.CVB III.PL-many sheep III.PL-die-PST.UNW-QUOT
+Translation: Into the village came the news that on the way it had hailed and many sheep had died.
+
+Approximate Matches:
+Sentence: Di deber łˤora ɣudi ƛirbałi rodinosi, xabaryada yoł dowqor.
+Gloss: me you-LAT three.OBL day hospitality IV-do-ANT.CVB story-COND be you-POSS.LAT
+Translation: After I have been your host for three days, I will talk to you.
+Sentence: Hudayzikon teqno yisir bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: the.next.day-and hear-PST.UNW DEM2.ISG.OBL-LAT sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: The next day he heard again that the sheep were talking among each other.
+Sentence: Esiƛ’ nesiq xabarno xecirno elo yoƛor k’oƛin kidbä eƛin, neł rožes maʕna deber meq’ bič’zi boqno.
+Gloss: tell-PCT.CVB DEM1.ISG.OBL-POSS.ESS story-TOP leave-CAUS-PFV.CVB there II-middle-LAT run-PFV.CVB girl-ERG say-PST.UNW DEM1.IISG.OBL word-GEN1 sense you-LAT incorrectly understand III-become-PST.UNW
+Translation: "Let him cease the story while he's talking!", the girl ran into the middle of there and said: "You misunderstood the sense of these words.

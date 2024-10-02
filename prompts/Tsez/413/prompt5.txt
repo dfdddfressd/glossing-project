@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word räsru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word räsru: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Roƛo räsruxor, kidno teƛno, kidbez babiya uži hunix nesä nesiz ʕaƛaɣor egirno.
+Gloss: IV-middle IV-take-PST.PRT-AD.LAT daughter-TOP give-TOP girl-GEN2 father-ERG boy way-AD.ESS DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 village-IN.VERS send-PFV.CVB
+Translation: According to arrangement, the girl's father gave his daughter to the boy and sent him to his village.
+Sentence: Xizyo xedya esin bazarganzan nesän roƛo räsrułäy.
+Gloss: afterwards husband-ERG tell-PST.UNW merchant-PL-ERG-and DEM1.ISG.OBL-ERG-and IV-middle IV-take-PST.PRT-CONT.ABL
+Translation: Then the husband told of what was between the merchants and himself.

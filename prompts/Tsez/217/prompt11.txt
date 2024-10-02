@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xexłiƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xexłiƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xexłiƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanä wazirzaqor amru bodin, ʕAt’id xexłiƛ’ däder ayroƛin.
+Gloss: khan-ERG vizier-PL-POSS.LAT command III-do-PFV.CVB Atid quickness-SUPER.ESS me-APUD.LAT bring-IMPR-QUOT
+Translation: The king commanded his viziers: "Bring Atid to me quickly!"
+Sentence: Bertenyołäy ža bašiqˤoy yałruni kid guginosi, yisi žas tatun bexun, xexłiƛ’ idurno ik’in, mežä pun bok’no ičin.
+Gloss: marriage-CONT.ABL DEM1.SG ring be-PST.PRT-DEF girl escape-ANT.CVB DEM2.ISG.OBL boy-GEN1 cheerfulness-TOP III-die-PFV.CVB quickness-SUPER.ESS home-LAT-TOP go-PFV.CVB mattress-IN.ESS side-TOP III-hit-PFV.CVB be-PST.UNW
+Translation: When the girl with the ring had disappeared from the marriage, the boy lost his cheerfulness and quickly went home and to bed.
+Sentence: Ela esirxosi kid yexux, xexłiƛ’ nełder bayr eliƛin!”.
+Gloss: we(I).OBL-ERG ask-PRS.PRT girl II-die-PRS quickness-SUPER.ESS DEM1.IISG.OBL-APUD.LAT III-bring we-QUOT
+Translation: "The girl that we asked is dying, quick, bring us to her!"
+
+Approximate Matches:
+Sentence: Xexłiƛ’ k’oƛin babiwderno yik’in, hemesi tusnaq’äzo užir teƛxa mi izmu guluƛ’ zowanirƛin, nełaq eƛin rok’äłrun, xan kid žek’anixƛin iza oqno.
+Gloss: quickness-SUPER.ESS run-PFV.CVB father-APUD.LAT-TOP II-go-PFV.CVB DEM4.ISG.OBL prison-IN.ESS-ATTR.OBL boy-LAT give-IPFV.CVB-Q you permission horse-SUPER.ESS ride-MSD-LAT-QUOT DEM1.IISG.OBL-POSS.ESS say-PFV.CVB IV-escape-IMM.ANT.CVB khan daughter beat-MSD-AD.ESS-QUOT get.up-INF begin-PST.UNW
+Translation: She quickly ran to her father, and when the words "Do you give the permission that the boy in prison can ride the horse?" broke out of her, the king got up to slap his daughter.
+Sentence: Xexłiƛ’ eƛin ɣˤʷaygon yałru qaciz guluƛ’or butirno.
+Gloss: quickness-SUPER.ESS say-PFV.CVB dog-CNTR be-PST.PRT firewood-GEN2 horse-SUPER.LAT III-turn-PST.UNW
+Translation: He quickly said [something] and what has been a dog transformed back into the wooden horse.
+Sentence: Xexłiƛ’ yeda maħor t’ay oxirƛin, sis xalq’i qˤaƛanayn.
+Gloss: quickness-SUPER.ESS DEM2.ISG outside from.here chase-QUOT one people yell-PST.UNW
+Translation: "Quickly chase him out of here!" the people yelled.

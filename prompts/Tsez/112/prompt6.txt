@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yiłaz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yiłaz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yiłaz:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nexanƛin yigtow yedu kid ƛ’iri yutinosi, žoyä pandur teƛno ičin yiłar.
+Gloss: come-FUT.DEF-QUOT II-much-EMPH DEM2.IISG daughter above II-return-ANT.CVB boy-ERG lute give-PFV.CVB be-PST.UNW DEM2.IISG.OBL-LAT
+Translation: "I will come", the girl insisted very much, and the boy gave her the lute.
+Sentence: Neširaɣor xizyo yiłaq ʕaƛoxor dahaw taraw posu raynanu.
+Gloss: evening-IN.VERS after DEM2.IISG.OBL-POSS.ESS village-AD.LAT a.little except.for cattle IV-come-PFV.CVB-NEG
+Translation: After it got evening, only some of the cattle came back to the village with her.
+Sentence: Teł idu yiłar riguƛ’ay rigu bišadyos ric’äsi istowli resun.
+Gloss: inside home DEM2.IISG.OBL-LAT IV-pretty-SUPER.ABL IV-pretty food-GEN1 IV-fill-RES.PRT table IV-find-PST.UNW
+Translation: Inside the house, she found a table set with the best food.

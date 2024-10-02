@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: koƛ’inč’ey.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": koƛ’inč’ey
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word koƛ’inč’ey:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nar yik’a koƛ’inč’ey, sasiw ɣudin roqzaƛ’, ža kid sasaqor ciqqotow ƛexun.
+Gloss: where II-go-INF understand.to-NEG.PST.CVB gloomy day-TOP IV-become-CSL.CVB DEM1.SG girl in.the.morning-POSS.LAT forest-POSS.ESS-EMPH remain-PST.UNW
+Translation: Not knowing where to go, and because the day became gloomy, the girl stayed in the forest until morning.
+Sentence: T’ok’ow roda šebinon koƛ’inč’ey, hisno, hiƛun, ʕoƛ’no, nucosgon bankan bisno, yedu kid beqaɣor yoqno.
+Gloss: anymore IV-do-INF something understand.to-NEG.PST.CVB spring.wool-and comb-and spindle-and honey-GEN1-CNTR jar-and III-take-PFV.CVB DEM2.IISG girl sun-IN.VERS II-become-PST.UNW
+Translation: Not knowing what to do anymore, the girl took the wool, the comb, the spindle and a jar of honey and went into the sun.
+Sentence: Šebintow roda koƛ’inč’ey kid ƛexunosi, nełder zey bayn.
+Gloss: thing-EMPH IV-do-INF understand.to-NEG.PST.CVB girl remain-ANT.CVB DEM1.IISG.OBL-APUD.LAT bear III-come-PST.UNW
+Translation: When - not knowing what to do - the girl was remaining there, a bear came to her.
+
+Approximate Matches:
+Sentence: Nełƛ’aza di aq’ˤu pikrazał ƛexux roda šebin koƛ’inč’eyƛin, žawab teƛno xedya.
+Gloss: DEM1.IISG.OBL-SUPER.VERS.DIST me much idea-PL-CONT.ESS remain-IPFV.CVB IV-do-INF thing understand.to-NEG.PST.UNW-QUOT answer give-PST.UNW husband-ERG
+Translation: Because of this, I - remaining very thoughtful - don't know what to do.", answered the husband.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Hemełƛ’o.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Hemełƛ’o
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Hemełƛ’o:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyogon urɣizi oqno xan, c’ohores q’ˤim anunč’uruni cudi sidaɣ qunyoxorno bayran, nesiz ʕagarłä ža šudał šušanix elay bižinč’ey xäcinč’i, hemełƛ’o där šebi ža c’ohor yałrun äyƛin.
+Gloss: then thinking become-PST.UNW khan thief-GEN1 head be.NEG-NEG.PST.WIT-PST.PRT-DEF corpse in.one.place farmstead-AD.LAT-TOP III-bring-FUT.CVB DEM1.ISG.OBL-GEN2 relatives-ERG DEM1.SG graveyard-CONT.ESS bury-MSD-AD.ESS there-IN.ABL III-carry-NEG.PST.CVB leave-NEG.FUT DEM4.IISG.OBL-SUPER.ESS me-LAT who DEM1.SG thief be-PST.PRT-TOP know-QUOT
+Translation: Then the king pondered: "I will bring the thief's headless corpse to the farmstead, his relatives won't leave without taking him from there to bury him on a graveyard."
+Sentence: Di muši pˤaƛunosi, mi nociƛ’or ati, xizyo mi kidbez kočorał teł uqˤeł, ža iduɣor yik’iƛ’oräy, mi q’ˤidar k’oƛo, hemełƛ’o mi di nociƛ’ay užiƛ’or utiran.
+Gloss: me breath thrash-ANT.CVB you louse-SUPER.LAT turn afterwards you girl-GEN2 forelock-CONT.ESS inside hide DEM1.SG home-IN.ALL II-go-SIM.CVB you down-LAT jump-IMPR DEM4.IISG.OBL-SUPER.ESS you me louse-SUPER.ABL boy-SUPER.LAT turn-FUT.DEF
+Translation: "When I blow, you will turn into the louse. Afterwards you will hide youself inside the girl's forelock. Before she go home, jump down and I will turn you back to the boy."
+Sentence: Xanä yisił adäza sual erno, kid yižiƛ’oräy bodač’in berten, nagaħ yoxiraniƛ’or yaynäy, hemełƛ’o bodanƛin.
+Gloss: khan-ERG DEM2.ISG.OBL-CONT.ESS before question put-PST.UNW girl II-lead-SIM.CVB III-do-NEG.FUT.DEF marriage suppose II-chase-MSD-SUPER.LAT II-must-CND.CVB DEM4.IISG.OBL-SUPER.ESS III-do-FUT.DEF-QUOT
+Translation: The king asked him a question: "While I am going to marry the girl, I will not make a wedding; if I have to chase her away, I will do it."
+
+Approximate Matches:
+Sentence: Hemełƛ’o kidbä eƛin, nediw hunar yołäsi t’or siskin uži ayäsi zownč’uƛin, uyraxäƛirugon ʕuqła yeda egirnäy rigu räči yisirƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS girl-ERG say-PFV.CVB such talent be-RES.PRT here-LAT anyone boy come-RES.PRT be.NPRS-NEG.PST.WIT-QUOT four-IPFV.CVB-ORD-CNTR hide-INF DEM2.ISG let-CND.CVB IV-good IV-remain DEM2.ISG.OBL-LAT-QUOT
+Translation: The girl broke in, "None of the boys with such potentials came here. It will be good to let him hide for the fourth time."
+Sentence: Hemełƛ’o xizyo eɣeni esiw k’oƛin ik’in xander.
+Gloss: DEM4.IISG.OBL-SUPER.ESS after young-DEF brother run-PFV.CVB go-PST.UNW khan-APUD.LAT
+Translation: After that, the young brother came running to the king.
+Sentence: Hemełƛ’o guluƛay dahaw bero becin bik’in.
+Gloss: DEM4.IISG.OBL-SUPER.ESS horse-SUB.ABL a.little ice III-thaw-PFV.CVB III-go-PST.UNW
+Translation: After that, a little ice thawed away from the horse.

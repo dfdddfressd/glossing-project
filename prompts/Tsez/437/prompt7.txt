@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reže in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reže: 
+
+Exact Matches
+Sentence: Žamaʕatyo ɣˤaɣˤu bizizaq nesir baq’ˤu mesedno teƛno, reže suħmatno rodin hunix egirno.
+Gloss: population-ERG be.happy III-get-CSL.CVB DEM1.ISG.OBL-LAT III-much gold-TOP give-PFV.CVB IV-big celebration-TOP IV-do-PFV.CVB way-AD.ESS let-PST.UNW
+Translation: Because the population got happy, they gave him much gold, organized a big party and let him go on his way.
+Sentence: Xizyogon hemediwtow roži yołäsi qˤaƛu teqno yisir, eženiz mada reže ɣun yoł, nesä mi ža ɣun reč’anix egär.
+Gloss: then such.a-EMPH word be-RES.PRT shout hear-PFV.CVB DEM2.ISG.OBL-LAT old-DEF-GEN2 yard-IN.ESS IV-big tree be DEM1.ISG.OBL-ERG you DEM1.SG tree IV-cut-MSD-AD.ESS send
+Translation: Then he heard a shout from the same voice: "In the old man's yard is a big tree, he will send you to chop that tree down.
+Sentence: Xanƛ’o reže ɣudi zown, roda šebin koƛ’inč’ey.
+Gloss: khan-SUPER.ESS IV-big day be.NPRS-PFV.CVB IV-do-INF thing understand.to-NEG.PST.UNW
+Translation: It was a big hazzle for the king and he didn't know what to do.
+
+Approximate Matches:

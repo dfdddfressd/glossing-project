@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: saparyox.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": saparyox
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word saparyox:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizaɣor ɣˤutkun, idusi maʕišatno, daruyabin teƛno micxiryosno, mesedyosno ħurženyabin ric’no, yeda saparyox oqno.
+Gloss: finally house-TOP home-ATTR fortune-TOP medicine-PL-TOP sell-PFV.CVB money-GEN1-TOP gold-GEN1-TOP bag-PL-TOP IV-fill-PFV.CVB DEM2.ISG journey-AD.ESS begin-PFV.CVB
+Translation: Finally, he sold his house, fortune, medicine and went on journey with the saddle bags filled with money and gold.
+Sentence: Hudayziko qˤaħłiqtow babiw kidbabi saparyox boqno.
+Gloss: the.next.day dawn-POSS.ESS-EMPH father daughter-PL journey-AD.ESS I.PL-become-PST.UNW
+Translation: The next day at dawn the father (and) the daughters went on their journey.
+Sentence: Kidbazä esin, eli babiwde sadaq saparyox roqäsi zows, babiwn gugin howt’o ƛexasi yoł, ela debez ɣunoqay dahaw henešno but’in bac’siƛin.
+Gloss: girl-PL-ERG tell-PST.UNW we father-APUD.ESS together journey-AD.ESS II.PL-become-RES.PRT be.NPRS-PST.WIT father-TOP escape-PFV.CVB here remain-RES.PRT be we(II-ERG you-GEN2 tree-POSS.ABL a.little apple-TOP III-rip.out-PFV.CVB III-eat-PST.WIT-QUOT
+Translation: The girls said: "We were travelling together with our father, and he ran away and we were staying here; and we picked some apples from your tree and ate them."
+
+Approximate Matches:
+Sentence: Saparyox oqno, qˤašdes zaman baynosi, yeda sida ɣunoƛ rešt’izi oqno.
+Gloss: journey-AD.ESS become-PFV.CVB provisions-GEN1 time III-come-ANT.CVB DEM2.ISG one.OBL tree-SUB.ESS take.a.rest become-PST.UNW
+Translation: He went on the journey, and when it was time for lunch, he took a rest under a tree.

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: elaƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": elaƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word elaƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ħumukuliƛa bukaynč’u elur, amma nełas sipat debeq esan elaƛin”.
+Gloss: camel-INDEF III-see-NEG.PST.WIT we(I).OBL-LAT but DEM1.IISG.OBL-GEN1 appearance you-POSS.ESS tell-FUT.DEF we(I).OBL-ERG-QUOT
+Translation: "We didn't see any camel, but we will tell you how it looks."
+Sentence: Eluqƛa iziräłinč’i mi elo ƛ’irir, hudunon eloš neła ceyqo harizi rodan elaƛin”, - eƛin xanä.
+Gloss: we(I).OBL-POSS.ESS-INDEF lift-POT-NEG.FUT you there above-LAT nevertheless-TOP over.there DEM1.IISG.OBL eagle-POSS.ESS request IV-do-FUT.DEF we(I).OBL-ERG-QUOT - say-PST.UNW khan-ERG
+Translation: "We cannot lift you up there, so we will beg that eagle over there", said the king.
+
+Approximate Matches:
+Sentence: Bara eƛin, žedu č’agu boynäy, dowƛ’orno, däƛ’ornotow žeda sis balah bayär, xec žedu sida ħalaƛin.
+Gloss: wife-ERG say-PST.UNW DEM1.IPL alive I.PL-do-CND.CVB you-SUPER.LAT-and me-SUPER.LAT-and-EMPH DEM1.IPL.OBL-ERG one misfortune III-bring leave DEM1.IPL one.OBL condition-IN.ESS-QUOT
+Translation: The wife said: "If we revive them, they will bring misfortune unto both you and me; leave them in their condition!"
+Sentence: Wallaƛin, eƛin boc’ä, howža xanez bˤeƛ’eł zawru biƛurox aluk’ani bˤeƛ’q’ˤu yaqˤułer narƛa bok’ełnoƛin.
+Gloss: wallah-QUOT say-PFV.CVB wolf-ERG DEM4.SG khan-GEN2 sheep-CONT.ESS be.NPRS-PST.PRT belly-AD.ESS white-DEF sheep today-LAT where-INDEF III-escape-PST.UNW-QUOT
+Translation: "I swear," said the wolf, "the sheep with the white belly which was among the flock of sheep of that king there escaped somewhere today."

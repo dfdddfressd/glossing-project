@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eženi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eženi: 
+
+Exact Matches
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"
+Sentence: Hudun ži ɣˤuruš neƛnäy sisgon bodan deber di ʕaq’luƛin razi oqno eženi.
+Gloss: nevertheless now ruble give-CND.CVB one-CNTR III-do-FUT.DEF you-LAT me advice-QUOT agree become-PST.UNW old-DEF
+Translation: "Nevertheless, if you give me a ruble, I'll give you another advice.", agreed the old man.
+Sentence: Eniya äƛiru rožbin rok’er ʕeze roqinč’ey, eženi užä eniwq q’ˤano magalun hunixor ererno, iday maħor oqno.
+Gloss: mother-ERG say-PST.PRT word-PL-TOP heart-LAT be.enough IV.PL-become-NEG.PST.CVB old-DEF son-ERG mother-POSS.ESS two bread-TOP way-AD.LAT put-CAUS-PFV.CVB home-IN.ABL outside become-PST.UNW
+Translation: The words that the mother had spoken didn't please his heart enough, so the oldest son let the mother give two breads to him for the way and left the home.
+
+Approximate Matches:
+Sentence: Uži yeženi esiya ižix zown.
+Gloss: boy II-old-DEF sister-ERG carry-IPFV.CVB be.NPRS-PST.UNW
+Translation: The eldest sister carried the boy.
+Sentence: Xizyogon Bilq’isdider nesi eženis łˤonon užibin bayn, xanez madaxosini žek’un, nełastow xediwn, xedyosgon esiwn.
+Gloss: then Bilqisdi-APUD.LAT DEM1.ISG.OBL old-DEF-GEN1 three-TOP son-PL-and I.PL-come-PST.UNW khan-GEN2 gate-AD.ESS-ATTR-DEF man-and DEM1.IISG.OBL-GEN1-EMPH husband-and husband-GEN1-CNTR brother-and
+Translation: Then to Bilqisdi came the three sons of the old man, and the king's guard, her husband and her husband's brother.
+Sentence: Łox äƛirugon nełatow c’enno uži ʕiyayn, žigon šebi nesir retäƛin, eniya bayan bisnosi, yeženi esiya eƛin:
+Gloss: thrice ORD-CNTR DEM1.IISG.OBL-ERG-EMPH pinch-PFV.CVB boy cry-PFV.CVB again.now what DEM1.ISG.OBL-LAT IV-want-Q-QUOT mother-ERG III-must-FUT.DEF III-take-ANT.CVB II-old-DEF sister-ERG say-PST.UNW
+Translation: When she pinched the boy for the third time and he cried, again, his mother asked, what he wanted again now, so the eldest sister said:

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rok’u in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rok’u: 
+
+Exact Matches
+Sentence: Nełaq mi rasgi q’ʷarid yaqnoƛin, žoyä nełas rok’u čučzi royn.
+Gloss: DEM1.IISG.OBL-POSS.ESS you at.all sadness II-become-PROHIB-QUOT boy-ERG DEM1.IISG.OBL-GEN1 heart loosen IV-do-PST.UNW
+Translation: "Don't be sad at all about it!", he calmed her down.
+Sentence: Horo eli sidqo sis biłaniƛäyn, dey rok’u riq’ˤaniƛäyn, łˤonon debi užibi däz žaz mečʷa bexuranix dadäɣor begirnäy där räti.
+Gloss: come.IMPR we one.OBL-POSS.ESS one III-resemble-MSD-SUB.ABL-and me-GEN1 heart IV-approach-MSD-SUB.ABL-and three-TOP you-GEN1 son-PL me-GEN2 son-GEN2 instead.of I.PL-kill-MSD-AD.ESS me-APUD.VERS I.PL-send-CND.CVB me-LAT IV-want
+Translation: So that we resemble one another and that you approach my heart, I'd love if you could send your three sons to me so I could kill them instead of my son."
+Sentence: Ele hoboda debi mi eɣʷedin et’no biqiräsi micxir boqzaƛ’, c’idaɣor kura baynč’iƛin, eƛin babiya, užä nesä nesir micxir boda oqsiƛin rok’u č’eze roqnosi.
+Gloss: there that you-GEN1 you sweat-TOP pour-PFV.CVB III-win-RES.PRT money III-become-CSL.CVB fire-APUD.VERS throw-INF III-must-NEG.FUT-QUOT say-PFV.CVB dad-ERG boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT money III-do-INF begin-PST.WIT-QUOT heart convinced[?] IV-become-ANT.CVB
+Translation: "There, because it's the money you earned with your own sweat, I don't have to throw it into the fire.", said the father, and was convinced that his son earned money for himself.
+
+Approximate Matches:
+Sentence: Elo yizi q’ˤunän rok’uɣʷeymoł bičin sasaqor ɣudi qˤaširno.
+Gloss: there DEM2.IPL.OBL two.OBL-ERG-TOP fun-CONT.ESS I.PL-be-PFV.CVB in.the.morning-POSS.LAT day dawn-PST.UNW
+Translation: There the two had fun until the next morning.
+Sentence: Šebi deber roqno, mi c’aq’ pašmanłiƛ’wa yičäsiƛin, esiya esirnosi, yiła eƛin, maqˤiƛ’ay łi ric’a yik’iƛ’oräy, ʕoloqzas rok’uƛ’ yołƛax di yok’ek’anƛin.
+Gloss: what you-LAT IV-happen-PST.UNW you much sadness-SUPER.ESS-Q II-be-RES.PRT-QUOT brother-ERG ask-ANT.CVB DEM2.IISG.OBL-ERG say-PST.UNW far.away-SUPER.ABL water IV-fill-INF II-go-SIM.CVB young.person-PL-GEN1 heart-SUPER.ESS be-QUOT me II-steal-FUT.CVB-QUOT
+Translation: "What happened to you, to make you so sad?", the brother asked, and she said: "When I went from afar to get water, some young guys planned to kidnap me.
+Sentence: Neła kidbä rok’un roɣno, yeda doxtur t’ok’ow roda šebin koƛ’inč’ey ƛexun.
+Gloss: DEM1.IISG.OBL girl-ERG heart-TOP IV-take.away-PFV.CVB DEM2.ISG doctor anymore IV-do-INF thing understand.to-NEG.PST.CVB remain-PFV.CVB
+Translation: That girl took away the doctor's heart and he did not understand anymore what was left for him to do.

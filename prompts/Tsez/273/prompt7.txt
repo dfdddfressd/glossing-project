@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esirnosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esirnosi: 
+
+Exact Matches
+Sentence: Sosi yisä ħumukulis bet’erhanno goƛ’in nesis murad esirnosi, nesä eƛin:
+Gloss: at.first DEM2.ISG.OBL-ERG camel-GEN1 master-TOP call-PFV.CVB DEM1.ISG.OBL-GEN1 wish ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: At first he called the owner of the camel and asked what he desired, the owner said:
+Sentence: Xizyogon zira šebi ža debez ħiroƛ’ƛin esirnosi, k’et’a tupi yołƛin eƛin.
+Gloss: then fox-ERG what DEM1.SG you-GEN2 shoulder-SUPER.ESS-QUOT ask-ANT.CVB cat-ERG rifle be-QUOT say-PST.UNW
+Translation: When the fox asked: "What is that on your shoulder?", the cat said: "It's a rifle."
+Sentence: ʕAƛaza ec’no xabar šebiƛin yisä esirnosi, sida maduhalä esin, xanez yeɣeni kidbeƛäy bitor sidä sis esnabi bexursiƛin.
+Gloss: village-IN.VERS.DIST new story what-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB one.OBL neighbor-ERG tell-PST.UNW khan-GEN2 II-young-DEF daughter-SUB.ABL because.of one.OBL-Q one brother-PL I.PL-kill-PST.WIT-QUOT
+Translation: When he asked: "What's new in the village?", a neighbor told: "The brothers killed each other because of the king's youngest daughter."
+
+Approximate Matches:
+Sentence: Žedu bigtow q’ʷaridno boqno bičäsi boqzaƛ’, eɣeni esiya neł ečruni ɣˤanazaq esirno, žedu šida nece q’ʷaridno boqno bičäsiƛin.
+Gloss: DEM1.IPL III-much-EMPH sadness-TOP I.PL-become-PFV.CVB I.PL-be-RES.PRT I.PL-become-CSL.CVB young-DEF brother-ERG DEM1.IISG.OBL old-DEF woman-POSS.ESS ask-PST.UNW DEM1.IPL why so.much sadness-TOP I.PL-become-PFV.CVB I.PL-be-RES.PRT-QUOT
+Translation: Because they were very sad, the younger brother asked that old woman: "Why are they so sad?"
+Sentence: Łox äƛirugon esirno bara xedyoq, šida mi q’ʷaridƛin.
+Gloss: thrice ORD-CNTR ask-PST.UNW wife-ERG husband-POSS.ESS why you sadness-QUOT
+Translation: For the third time, the wife asked his husband: "Why are you sad?"
+Sentence: Žan risno iduɣor ik’iƛ’orey, xizayn bayn neł bikorä esirno, deber ža ħiƛ’oqu reynoyrakin koƛ’ixosi yołäƛin.
+Gloss: DEM1.SG-TOP IV-take-PFV.CVB home-IN.ALL go-SIM.CVB from.behind-TOP III-come-PFV.CVB DEM1.IISG.OBL snake-ERG ask-PST.UNW you-LAT DEM1.SG handkerchief IV-work-CAUS-INF-even understand.to-PRS.PRT be-Q-QUOT
+Translation: And he took it and while he was going home, that snake followed him and asked: "Do you know how to get this handkerchief to work?"

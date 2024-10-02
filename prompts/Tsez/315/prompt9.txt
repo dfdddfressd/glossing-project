@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word begirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word begirno: 
+
+Exact Matches
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.
+Sentence: Žałäy t’umin boqno, kidbägon akin raɣˤin begirno.
+Gloss: boy-CONT.ABL pigeon-TOP III-become-PFV.CVB girl-ERG-CNTR window-TOP IV-open-PFV.CVB III-let-PST.UNW
+Translation: The boy became a pigeon again, and the girl opened the window and let it out.
+Sentence: Qˤayä hiboq neła nełas mecno bitirno, xizyo xexoyn begirno xizor, aħoziqor bižin teƛƛin.
+Gloss: hare-ERG stick-POSS.ESS DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 tongue-TOP III-touch-PST.UNW afterwards young.animal-TOP III-send-PST.UNW back shepherd-POSS.LAT III-carry-PFV.CVB give-QUOT
+Translation: The rabbit touched the stick with its tongue and then sent the young one back: "Carry it back and give it to the shepherd!"
+
+Approximate Matches:
+Sentence: Ža xabar yisä aħyaxorkin begirnoanu, baru yowač’inƛin di hedizi oqäsiƛin, t’ok’ow ža xabar meža haqazay maħor baɣnoƛin.
+Gloss: DEM1.SG story DEM2.ISG.OBL-ERG ear-AD.LAT-even III-let-PFV.CVB-NEG wife II-marry-NEG.FUT.DEF-QUOT me swear become-RES.PRT-QUOT anymore DEM1.SG story you(I).PL.OBL-ERG mouth-IN.ABL.DIST outside III-take.away-PROHIB-QUOT
+Translation: These words he didn't let to his ears, "I won't marry another wife!"... "I swear!"... "Don't say that anymore!",
+Sentence: Tełxor yeda äk’iruntow, gulu begirnon xecin kidbä, xizyo qˤaƛin babiwqor, gulu boxin bik’isƛin.
+Gloss: inside-AD.LAT DEM2.ISG go-IMM.ANT.CVB-EMPH horse III-let-INT leave-PFV.CVB girl-ERG afterwards shout-PST.UNW father-POSS.LAT horse III-run.away-PFV.CVB III-go-PST.WIT-QUOT
+Translation: Right after he went inside, the girl let the horse go and then shouted to her father: "The horse has run away!"
+Sentence: ʕAƛoz ʕoloqza Ražbadinƛ’o ʕayib erxo zown bexuranix xexbi begirnoƛin, nesä yołi halmaɣłi łet’in.
+Gloss: village-GEN2 young.person-PL-ERG Razhbadin-SUPER.ESS fault put-IPFV.CVB be.NPRS-PFV.CVB I.PL-kill-MSD-AD.ESS children I.PL-send-PFV.CVB-QUOT DEM1.ISG.OBL-ERG however friendship pick-PST.UNW
+Translation: The young people of the village were blaming Razhbadin for sending his children for them to get killed, whereas he, however, choose friendship.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bukaynosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bukaynosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bukaynosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elo ʕomoyä bayäruni bexasi boc’i bukaynosi, nasin boc’a elin rexar yizäƛin, aɣˤʷa tełäy roxin.
+Gloss: there donkey-ERG III-bring-PST.PRT-DEF III-die-RES.PRT wolf III-see-ANT.CVB all wolf.PL we-TOP III.PL-kill DEM2.IIPL.OBL-ERG-QUOT mill-IN.ESS inside-IN.ABL III.PL-run.away-PST.UNW
+Translation: When they saw the dead wolf that the donkey had brought, all the wolves said: "They will kill us!", ran out of the mill and away.
+Sentence: Xalq’in, ʕaƛno bukaynosi, aždaħ nełaq ža biqinč’ey neła nełaz iduɣor, ciqaɣor, boxin.
+Gloss: people-and village-and III-see-ANT.CVB dragon DEM1.IISG.OBL-POSS.ESS DEM1.SG III-get-NEG.PST.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 home-IN.ALL forest-IN.VERS III-run.away-PST.UNW
+Translation: When the dragon saw the people and the village, it ran back to its own home, towards the forest.
+Sentence: Neł q’ʷariłiƛ’ cek’i bukaynosi, ʕomoyä eƛin, iħäy łäs yic’no muš yownäy, begiranƛin.
+Gloss: DEM1.IISG.OBL sadness-SUPER.ESS goat.kid III-see-ANT.CVB donkey-ERG say-PST.UNW river-IN.ABL water-GEN1 II-fill-PFV.CVB pot II-bring-CND.CVB III-let-FUT.DEF-QUOT
+Translation: When the donkey saw the sad goat kid, he said: "If you bring a pot filled with water from the river, I'll let you in."
+
+Approximate Matches:
+Sentence: Užä ža ragin łiyrxo rukaynosi, bazarganä yeda xizor oxirno.
+Gloss: boy-ERG DEM1.SG IV-lick-PFV.CVB finish-IPFV.CVB IV-see-ANT.CVB merchant-ERG DEM2.ISG back chase-PST.UNW
+Translation: When he saw that the boy was eating it up, the merchant chased him.
+Sentence: Sasaq qˤašinosi, Ismaʕil hunixor oqanix ħadur oqxo ukaynosi, ʕArabuzanä gulu bˤaƛoyn, din dowde sadaq yik’ixƛin.
+Gloss: in.the.morning get.up-ANT.CVB Ismail way-AD.LAT become-MSD-AD.ESS prepare become-IPFV.CVB see-ANT.CVB Arabuzan-ERG horse III-harness-PFV.CVB me-and you-APUD.ESS together II-go-PRS-QUOT
+Translation: After she got up in the morning and saw that Ismail was preparing to get on his way, Arabuzan harnessed her horse: "I am going with you."
+Sentence: Xande idur aynosi, nesir elo teł cemä ozzataw kid yukaynosi, iguni žek’a esirno, di nełaz ozzałer kanłi bayrnäy, šebi mi där baha neƛxoƛin.
+Gloss: khan-APUD.ESS home-LAT come-ANT.CVB DEM1.ISG.OBL-LAT there inside corner-IN.ESS eye-PL-without girl II-see-ANT.CVB good-DEF man-ERG ask-PST.UNW me DEM1.IISG.OBL-GEN2 eye-PL-CONT.LAT light III-bring-CND.CVB what you me-LAT price give-PRS-QUOT
+Translation: When he came to a house with the king and saw a blind girl in a corner inside there, the good man asked: "When I bring back her eyesight, what price do you give me?"

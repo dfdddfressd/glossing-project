@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣunoqor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣunoqor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣunoqor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nukarza Ismaʕil ciqaɣorno ižin, exuran k’ʷeze roqinč’ey, ozurabin roɣno yizä ža howlotow ɣunoqor icin xecin.
+Gloss: henchman-PL-ERG Ismail forest-IN.VERS-TOP carry-PFV.CVB kill-INF-TOP can IV-become-NEG.PST.CVB eye-PL-TOP IV.PL-take.away-PFV.CVB DEM2.IPL.OBL-ERG DEM1.SG there-EMPH tree-POSS.LAT tie-PFV.CVB leave-PST.UNW
+Translation: The henchmen carried Ismail into the forest, but couldn't kill him; so they pricked out his eyes, bound him to a tree and left him there.
+Sentence: Žan rac’no łiyrno, p’es anusi c’ik’iwtow bišʷa rac’a ħuruƛ’or ik’iƛ’oräy, sid bełiqanä ža t’omceni žek’u oxira aqrun mešok’lałay boɣno musno, ɣunoqor icin kurno.
+Gloss: DEM1.SG-TOP IV-eat-PFV.CVB finish-PFV.CVB voice be.absent-ATTR all-EMPH food IV-eat-INF basin-SUPER.LAT go-SIM.CVB one.OBL hunter-ERG DEM1.SG span-EQU1-DEF man chase-INF begin-IMM.ANT.CVB moustache-CONT.ABL III-take.away-PFV.CVB hair-TOP tree-POSS.LAT tie-PFV.CVB throw-PST.UNW
+Translation: When he had finished eating it and went to the basin to eat all the food without saying anything, one hunter began to chase the span-sized man away and he took a hair out of his moustache and tied him to a tree.
+Sentence: Bayn bełiqanza bišʷa esirnosi, nesän žeduq raqru šebin esin, hemedurtow mamalayƛ’no zown t’omceni žek’un ayn, nasintow bišʷa rac’a ža oqnosi elay ža oɣƛ’oräy, mešok’lałäy musno boɣno nesä di ɣunoqor icisƛin mus bukarno.
+Gloss: I.PL-come-PFV.CVB hunter-PL-ERG food ask-ANT.CVB DEM1.ISG.OBL-ERG-TOP DEM1.IPL.OBL-POSS.ESS IV-happen-PST.PRT thing tell-PST.UNW so-EMPH rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB span-EQU1-DEF man-TOP come-PFV.CVB all-EMPH food IV-eat-INF DEM1.SG begin-ANT.CVB there-IN.ABL DEM1.SG take.away-SIM.CVB moustache-CONT.ABL hair-TOP III-take.away-PFV.CVB DEM1.ISG.OBL-ERG me tree-POSS.LAT tie-PST.WIT-QUOT hair III-show-PST.UNW
+Translation: When the hunters came and asked for food, he also told them what had happened: "So a span-sized man came riding on a rooster, and when he began to eat up all the food and I wanted to take him away from there, he took a hair out of his moustache and tied me to a tree." and he showed them the hair.
+
+Approximate Matches:
+Sentence: Rigutow rigu hoboyƛin, rok’ƛ’orno rayn žoyä ɣunoqosi aluk’anin, c’udanin henešno but’in oqno xanzo kidbedäɣor ik’in.
+Gloss: IV-good-EMPH IV-good now-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB boy-ERG tree-POSS.ESS-ATTR white-DEF-and red-DEF-and apple-TOP III-collect-PFV.CVB begin-PFV.CVB khan-GEN2 daughter-APUD.VERS go-PST.UNW
+Translation: "Very well, now.", thought the boy, plucked a white and a red apple from the tree and went to the princess.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yik’ix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yik’ix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yik’ix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Sida quł neła kidbes eniw qˤišoder sis mučarin rižin ħonƛ’aɣor yik’ix zown.
+Gloss: one.OBL day-CONT.ESS DEM1.IISG.OBL girl-GEN1 mother at.noon one cumin-TOP IV-carry-PFV.CVB mountain-SUPER.VERS II-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: One day that girl's mother went to the mountain with a cumin cake.
+Sentence: Igtow yeda ƛ’iri utizaƛ’ Tawadä esin, mi yowxozo barurno, deberno saɣłin rodin ħaƛanix di t’akan yizärun, gugyoq tungin bisno akiƛäza yik’ix yukayru kidbeƛ’ ozurin c’oxno, nełaz bercinłä ʕadal oys.
+Gloss: much-EMPH DEM2.ISG above turn-CSL.CVB Tavadi-ERG tell-PST.UNW you II-marry-PRS.PRT.OBL wife-LAT-and you-LAT-and health-TOP IV-do-PFV.CVB drink-MSD-AD.ESS me glass II-lift-IMM.ANT.CVB back-POSS.ESS copper.jug-TOP III-take-PFV.CVB window-SUB.VERS II-go-IPFV.CVB II-see-PST.PRT girl-SUPER.ESS eye-TOP hit-PFV.CVB DEM1.IISG.OBL-GEN2 beauty-ERG intoxication do-PST.WIT
+Translation: Because he insisted so much, Tavadi told him: "Right after lifting my glass to drink on your and your soon to be married wife, my eye met this girl whom I saw going under the window and taking a jar on her back, and her beauty was intoxicating."
+
+Approximate Matches:
+Sentence: Sasaq qˤašinosi, Ismaʕil hunixor oqanix ħadur oqxo ukaynosi, ʕArabuzanä gulu bˤaƛoyn, din dowde sadaq yik’ixƛin.
+Gloss: in.the.morning get.up-ANT.CVB Ismail way-AD.LAT become-MSD-AD.ESS prepare become-IPFV.CVB see-ANT.CVB Arabuzan-ERG horse III-harness-PFV.CVB me-and you-APUD.ESS together II-go-PRS-QUOT
+Translation: After she got up in the morning and saw that Ismail was preparing to get on his way, Arabuzan harnessed her horse: "I am going with you."
+Sentence: Yayn sida yeže ɣˤanaza yiłaq esirno, mi šida bertenyołxor yik’ixanuƛin.
+Gloss: II-come-PFV.CVB one.OBL II-old woman-ERG DEM2.IISG.OBL-POSS.ESS ask-PST.UNW you why marriage-CONT.VERS II-go-IPFV.CVB-NEG-QUOT
+Translation: An old woman came along and asked her: "Why don't you go to the marriage?"
+Sentence: T’ok’ow roda šebin koƛ’inč’ey, eniya sossi eženi kidbeq bikorxo yik’ixaƛin esirno, neła yik’ixanuƛin inkar boynosi yoƛƛozoqor eƛin, žan razi yoqno anu.
+Gloss: anymore IV-do-INF thing understand.to-NEG.PST.CVB mother-ERG first old-DEF daughter-POSS.ESS snake-AD.ESS II-go-IPFV.CVB-INF-QUOT ask-PFV.CVB DEM1.IISG.OBL-ERG II-go-IPFV.CVB-NEG-QUOT rejection III-do-ANT.CVB II-middle-ATTR.OBL-POSS.LAT say-PFV.CVB DEM1.SG-TOP agree II-become-PFV.CVB be.NEG
+Translation: Not knowing what to do anymore, the mother asked her eldest daughter first, if she would go to the snake; she rejected: "I won't go."; then she talked to the middle daughter, who also disagreed.

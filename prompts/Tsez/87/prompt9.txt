@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yayzaƛ’or.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yayzaƛ’or
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yayzaƛ’or:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Maħazay yutin yedu yayzaƛ’orgon, käcrus riłen rodin mežä utin c’oxno užin ičin, šebičey yiła radiƛin.
+Gloss: outside-AD.ESS-IN.ABL.DIST II-return-PFV.CVB DEM2.IISG II-come-POST.CVB-CNTR sleep-PST.PRT-GEN1 IV-as-TOP IV-do-PFV.CVB mattress-IN.ESS turn-PFV.CVB hit-PFV.CVB boy-TOP be-PFV.CVB what-INTS DEM2.IISG.OBL-ERG IV-do-QUOT
+Translation: Before she came back from outside, the boy layed down on the mattress and pretended to sleep [thinking]: "What the heck will she do?"

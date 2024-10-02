@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Hudayziko in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Hudayziko: 
+
+Exact Matches
+Sentence: Nesän hudayziko sasaqtow izin gulun ħadur bodin xalmoƛ’or ičin.
+Gloss: DEM1.ISG.OBL-ERG-TOP the.next.day in.the.morning-EMPH get.up-PFV.CVB horse-TOP prepare III-do-PFV.CVB examination-SUPER.LAT be-PST.UNW
+Translation: He got up the next morning, prepared a horse and examined.
+Sentence: Neła quł hudayziko sasaqasi zaman baynosi, žedur bišanix retin, hudun Q’arumä nesiqosini biša ader roƛik’noanu.
+Gloss: DEM1.IISG.OBL day-CONT.ESS the.next.day in.the.morning-ATTR time III-come-ANT.CVB DEM1.IPL.OBL-LAT I.PL-eat-MSD-AD.ESS IV-want-PFV.CVB nevertheless Qarum-ERG DEM1.ISG.OBL-POSS.ESS-ATTR-DEF food forward IV-pull.out-PFV.CVB-NEG
+Translation: A day later, when the morning time came, they wanted to eat, but Qarum didn't take out the food that he had.
+
+Approximate Matches:
+Sentence: Hudayzikon teqno yisir bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: the.next.day-and hear-PST.UNW DEM2.ISG.OBL-LAT sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: The next day he heard again that the sheep were talking among each other.
+Sentence: Hudayzikogon ɣurox uži egirnosi, hemedurtow boƛixno aɣi užiqor xabaryayn:
+Gloss: the.next.day-CNTR cows-AD.ESS boy send-ANT.CVB so-EMPH III-appear-PST.UNW bird boy-POSS.LAT tell-PST.UNW
+Translation: The next day the boy was sent to pasture the cows, when the bird appeared again and told him:
+Sentence: Hudayziko onoču mamalaył xizay biynč’ey ciqaɣor bik’in.
+Gloss: the.next.day hen rooster-CONT.ESS behind III-know-NEG.PST.CVB forest-IN.VERS III-go-PST.UNW
+Translation: The next day, the hen secretly followed the rooster into the forest.

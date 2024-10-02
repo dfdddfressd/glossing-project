@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bičix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bičix: 
+
+Exact Matches
+Sentence: Mamalay ɣudes ciqaɣor qaciƛ’or bik’ix zown, onoču iduza beynoyx, iduzasi royx bičix zown.
+Gloss: rooster daily forest-IN.VERS firewood-SUPER.LAT III-go-IPFV.CVB be.NPRS-PFV.CVB hen home-ZA III-work-IPFV.CVB home-ZA-ATTR IV-do-PRS III-be-PRS be.NPRS-PST.UNW
+Translation: Every day the rooster went into the forest for firewood, and the hen was at home doing the housework.
+Sentence: Musaqilično, ʕIsaqilično babiwz šudaxaɣor bik’ixƛin sida q’orol ɣˤanazaz ƛ’emiƛxorno bik’in kecnot’a bičix zown.
+Gloss: Musaqilich-and Isaqilich-and father-GEN2 graveyard-AD.VERS I.PL-go-IPFV.CVB-QUOT one.OBL widowed woman-GEN2 hayloft-SUB.LAT-TOP I.PL-go-PFV.CVB sleep-PFV.CVB-DISTR I.PL-be-IPFV.CVB be.NPRS-PST.UNW
+Translation: Musaqilich and Isaqilich pretended to go to their father's grave, and went to a widow's hayloft to sleep there.
+Sentence: Kʷaxatow žax bertenno bodin eniwn, užin, barun nełƛ’ay soder łinasnotow q’ʷariłi anusi bičix zown.
+Gloss: soon-EMPH boy-AD.ESS marriage-TOP III-do-PFV.CVB mother-TOP boy-and wife-and DEM1.IISG.OBL-SUPER.ABL after what.OBL-GEN1-TOP-EMPH sadness be.absent-ATTR I.PL-live-IPFV.CVB be.NPRS-PST.UNW
+Translation: Soon the mother arranged a marriage for the boy and the boy and his wife henceforward were living without any sadness whatsoever.
+
+Approximate Matches:
+Sentence: Žek’alini nukarä eƛix teqno, nukarza debeq heresin esis, ža łin žeda esnabi bičixozo mečoƛ’ay ric’si, žedu xexbi debikin besač’ineyƛin.
+Gloss: beat-ATTR-DEF henchman-ERG say-IPFV.CVB hear-PST.UNW henchman-PL-ERG you-POSS.ESS lie-TOP tell-PST.WIT DEM1.SG water-TOP DEM1.IPL.OBL-ERG brother-PL I.PL-live-PRS.PRT.OBL place-SUPER.ABL IV-fill-PST.WIT DEM1.IPL children you-GEN1-even III-find-NEG.FUT.DEF-DUB-QUOT
+Translation: They heard the beaten henchman say: "The henchmen lied to you, they filled that water from the place where the siblings live; couldn't these children perhaps be yours?"
+Sentence: Eludegon ƛirbałix keze oqno idu teł kecnäy lamus bičixosiƛin, oqno ičin.
+Gloss: we(I).OBL-APUD.ESS-CNTR hospitality-AD.ESS meet become-PFV.CVB home inside sleep-CND.CVB shame III-be-PRS.PRT-QUOT become-PFV.CVB be-PST.UNW
+Translation: And he was like: "And for us it's a shame if someone is a guest and sleeps in one's home."
+Sentence: Mi ža bazaryaɣorno bižin łera ʕazara ɣˤurušyoƛ teƛ, moƛ’oqˤoy yołi łeno bišom ɣˤuruš neƛłikin täƛno, dey ruħ nełał bičixosi yoł, nagaħ mi ža teƛnäy, di exuxosi yołƛin.
+Gloss: you DEM1.SG bazar-IN.VERS-TOP III-lead-PFV.CVB five.OBL thousand ruble-SUB.ESS sell bridle however five hundred ruble give-CND.CVB.IRR-even sell-PROHIB me-GEN1 soul DEM1.IISG.OBL-CONT.ESS III-be-PRS.PRT be suppose you DEM1.SG sell-CND.CVB me die-PRS.PRT be-QUOT
+Translation: Lead it to the market and sell it for 5,000 rubles, the bridle however don't sell even if you were given 500 rubles, my soul will be inside; if you sell it, I will die."

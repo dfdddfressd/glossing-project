@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: at’ik’ace.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": at’ik’ace
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word at’ik’ace:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elo tełäyn ƛisin, łaymoƛ’ay ik’ace žeda ža uyn žek’no oɣno maħor kurno.
+Gloss: there inside-IN.ABL-TOP pull-PFV.CVB mind-SUPER.ABL go-TERM DEM1.IIPL.OBL-ERG DEM1.SG indeed-TOP beat-PFV.CVB take.away-PFV.CVB outside throw-PST.UNW
+Translation: They pulled him outside there, beated him unconscious, took him up and threw him outside.
+Sentence: Hut’-mˤaliƛ’ häqruni t’ut’ƛ’orkin nesä reƛ’a rizirxo zown anu, žatow boxin bik’ace xecix zown.
+Gloss: front.part.of.the.face-SUPER.ESS sit.down-PST.PRT-DEF fly-SUPER.LAT-even DEM1.ISG.OBL-ERG hand IV-lift-IPFV.CVB be.NPRS-PST.UNW be.NEG DEM1.SG-EMPH III-run.away-PFV.CVB III-go-TERM leave-IPFV.CVB be.NPRS-PST.UNW
+Translation: Even to a fly who was sitting on his face, he did not lift the hand, but he left it there until it flew away.
+Sentence: Puħorno goƛ’in, neširu babiya žaqor eƛin, howži mi bełiƛ’ ik’ace oqäsi oqzaƛ’ di ɣˤaɣˤu izäsi yoł, hudun mi dey sis ʕaq’lu teqroƛin.
+Gloss: side-AD.LAT-TOP call-PFV.CVB evening father-ERG son-POSS.LAT say-PST.UNW now you hunting-SUPER.ESS go-TERM become-RES.PRT become-CSL.CVB me be.happy get-RES.PRT be nevertheless you me-GEN1 one advice listen.to-IMPR-QUOT
+Translation: In the evening the father called his son to his said and told him, "I am happy that you have grown to be able to go hunting, nevertheless listen to one advice!

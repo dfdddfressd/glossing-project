@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iqira in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iqira: 
+
+Exact Matches
+Sentence: Xizyo xanä nazon nukarzaq riyrno, c’ohor yoł t’oza sis reƛ’a anusi, meži nasin nesił xizay boq, ža meža iqira ayƛin.
+Gloss: afterwards khan-ERG all.OBL-TOP henchman-PL-POSS.ESS IV-explain-PFV.CVB thief be here-ZA one hand be.NEG-ATTR you.PL all DEM1.ISG.OBL-CONT.ESS behind I.PL-become DEM1.SG you(I).PL.OBL-ERG catch-INF must-QUOT
+Translation: Afterwards the king explained to all his henchmen: "The thief lacks one hand; y'all get behind him, you must catch him!"
+
+Approximate Matches:
+Sentence: Q’ˤanoqu nukar xanä egirno elo qunyoxor c’ohores ʕagarłi biyrno biqiraniƛäy.
+Gloss: forty henchman khan-ERG send-PST.UNW there farmstead-AD.LAT thief-GEN1 relatives III-find.out-PFV.CVB III-catch-MSD-SUB.ABL
+Translation: The king sent forty henchmen to that farmstead in order to find out and catch the thief's relatives.
+Sentence: Yedu šebi nece bercinaw šebinƛin, yeda rešambi riqiranix c’oxno.
+Gloss: DEM2.IISG what so.much beautiful thing-QUOT DEM2.ISG ray-PL IV.PL-catch-MSD-AD.ESS hit-PST.UNW
+Translation: "What beautiful thing is this?!", he tried to catch the rays.
+Sentence: Suƛƛisi oƛixno k’oƛin ɣamasyayn uži oxin maħor ok’ełno, ža iqiranixƛin nesił xizaygon č’ariƛ’ zawruni xediwn k’oƛin.
+Gloss: suddenly-ATTR appear-PFV.CVB jump-PFV.CVB box-IN.ABL-TOP boy run.away-PFV.CVB outside escape-PFV.CVB DEM1.SG catch-MSD-AD.ESS-QUOT DEM1.ISG.OBL-CONT.ESS behind-CNTR wakeness-SUPER.ESS be.NPRS-PST.PRT-DEF husband-TOP run-PST.UNW
+Translation: Suddenly the boy jumped out of the box, ran outside and escaped; and in order to catch him ran the husband behind him, who was awake.

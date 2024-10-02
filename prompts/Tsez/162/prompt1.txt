@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Ħaduraw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Ħaduraw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Ħaduraw:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yeɣeni kidbeq esirnosi yołi, deber rätiru zamanał mi äƛiru šebin roda ħaduraw di yołƛin, eniwqor eƛin.
+Gloss: II-young-DEF daughter-POSS.ESS ask-ANT.CVB however you-LAT IV-want-PST.PRT time-CONT.ESS you say-PST.PRT thing IV-do-INF prepared me be-QUOT mother-POSS.LAT say-PST.UNW
+Translation: When she asked the youngest daughter, she said to her mother: "I'm ready to do whatever you say, whenever you want."
+
+Approximate Matches:
+Sentence: Ħažataw q’ʷarʕaraw q’ayn sidaƛ’or butirno, maħor boqanix ħadur boqnosi, Beqes ʕUneyzatä eƛin, däz guluƛ’ zown bik’anƛin.
+Gloss: necessary necessary article-TOP one.OBL-SUPER.LAT III-gather-PFV.CVB outside I.PL-become-MSD-AD.ESS prepare I.PL-become-ANT.CVB sun-GEN1 Uneyzat-ERG say-PST.UNW me-GEN2 horse-SUPER.ESS ride-PFV.CVB I.PL-go-FUT.DEF-QUOT
+Translation: They gathered all necessary articles together, and when they prepared to go outside, Sun's Uneyzat said: "We will ride on my horse."
+Sentence: Sasaq qˤašinosi, Ismaʕil hunixor oqanix ħadur oqxo ukaynosi, ʕArabuzanä gulu bˤaƛoyn, din dowde sadaq yik’ixƛin.
+Gloss: in.the.morning get.up-ANT.CVB Ismail way-AD.LAT become-MSD-AD.ESS prepare become-IPFV.CVB see-ANT.CVB Arabuzan-ERG horse III-harness-PFV.CVB me-and you-APUD.ESS together II-go-PRS-QUOT
+Translation: After she got up in the morning and saw that Ismail was preparing to get on his way, Arabuzan harnessed her horse: "I am going with you."
+Sentence: Hoboyƛa yedu bišʷa ħadur radiru žek’u iyrinč’ey xecač’inƛin, oqno yeda uži.
+Gloss: now-INDEF DEM2.IISG food preparation IV-do-PST.PRT man find.out-NEG.PST.CVB leave-NEG.FUT.DEF-QUOT begin-PST.UNW DEM2.ISG boy
+Translation: "Now I will find out the man who has prepared this food," began the boy.

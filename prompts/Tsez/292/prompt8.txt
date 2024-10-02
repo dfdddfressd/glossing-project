@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xexbi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xexbi: 
+
+Exact Matches
+Sentence: Dey xexbi, di exun xizyo t’ubazi odin łiynosi, meži łˤonon esnabi bitazoni ɣˤutkar bezu, elo mežur ʕuraw mesed yołƛin”.
+Gloss: me-GEN1 children me die-PFV.CVB after fulfill do-PST.UNW end-ANT.CVB you.PL three-TOP brother-PL next-DEF room-IN.LAT I.PL-look-IMPR there you(I).PL.OBL-LAT much gold be-QUOT
+Translation: "My children, when I have died and the funeral is done, you three brothers look into the next room, there is much gold for you."
+Sentence: Yiłagon q’ˤanon xanes xexbi - užin, kidno k’emot’ya tełno eqerno, iħułxor kurno.
+Gloss: DEM2.IISG.OBL-CNTR two-TOP khan-GEN1 children - son-and daughter-and wooden.case-IN.ESS inside-TOP put-PFV.CVB river-CONT.VERS throw-PST.UNW
+Translation: But those two children of the king - the son and the daughter - she put into a wooden case and threw them into the river.
+Sentence: Žeda q’orolaq harizi rodin, yizi xexbi mi kikoƛin.
+Gloss: DEM1.IIPL.OBL widow-POSS.ESS request IV-do-PST.UNW DEM2.IPL children you feed-IMPR-QUOT
+Translation: They asked the widow: "Please feed these children!"
+
+Approximate Matches:
+Sentence: Yiła esirno, yaqˤuł debez bara xexbiya royxosi yołƛin.
+Gloss: DEM2.IISG.OBL-ERG ask-PST.UNW today you-GEN2 wife-ERG children-Q III.PL-do-IPFV.CVB-ATTR be-QUOT
+Translation: She asked: "Is your wife giving birth to the children today?"
+Sentence: Žedu nasin maħor boqnosi, reɣeni xaličan, beɣeni magalun bäqiruni nukarä xizyo yałruxor esin, anƛ’ima baħna-bik’inkin räqinč’iru eluq reƛ, hemesi dowzoniƛ’aygon rigu ɣˤutku yałruni užä neƛsi, debi xexbikin besač’iney žeduƛin.
+Gloss: DEM1.IPL all outside I.PL-become-ANT.CVB IV-small-DEF mat-and III-small-DEF bread-and I.PL-get-PST.PRT-DEF henchman-ERG afterwards be-PST.PRT-AD.LAT tell-PFV.CVB week-IN.ESS I.PL-walk.for.a.while-PFV.CVB-even IV-get-NEG.FUT.CVB-PST.PRT we(I).OBL-POSS.ESS meat DEM4.ISG.OBL you-GEN2-DEF-SUPER.ABL-CNTR IV-pretty house be-PST.PRT-DEF boy-ERG give-PST.WIT you-GEN1 children-even I.PL-exist-NEG.FUT.DEF-DUB DEM1.IPL-QUOT
+Translation: After they all went outside, the henchman who got the small mat and the small bread afterwards told him: "We were walking for a week and this boy with the house even prettier than yours gave us the meat that we didn't get; they even might be your children."
+Sentence: Nełdäy xexbin rižin, k’ucin, k’et’us xexoybin nełder kurno.
+Gloss: DEM1.IISG.OBL-APUD.ABL children-TOP III.PL-take.out-PFV.CVB puppy-and cat-GEN1 young.animal-PL-and DEM1.IISG.OBL-APUD.LAT spread.out-PST.UNW
+Translation: She took away the children from her and put the puppy and the kitten do her.

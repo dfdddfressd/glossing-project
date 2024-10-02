@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ukaynosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ukaynosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ukaynosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sasaq qˤašinosi, Ismaʕil hunixor oqanix ħadur oqxo ukaynosi, ʕArabuzanä gulu bˤaƛoyn, din dowde sadaq yik’ixƛin.
+Gloss: in.the.morning get.up-ANT.CVB Ismail way-AD.LAT become-MSD-AD.ESS prepare become-IPFV.CVB see-ANT.CVB Arabuzan-ERG horse III-harness-PFV.CVB me-and you-APUD.ESS together II-go-PRS-QUOT
+Translation: After she got up in the morning and saw that Ismail was preparing to get on his way, Arabuzan harnessed her horse: "I am going with you."
+
+Approximate Matches:
+Sentence: Baq’ˤu xalq’i bexurxo bukaynosi, ƛäxuru boxin bik’in.
+Gloss: III-much people III-kill-IPFV.CVB III-see-ANT.CVB remain-PST.PRT I.PL-run.away-PFV.CVB I.PL-go-PST.UNW
+Translation: Having seen the many killed people, the remaining ones ran away.
+Sentence: Č’ago, saɣłiƛ’ kidbabi rukaynosi, babiw ɣˤaɣˤu izin.
+Gloss: alive health-SUPER.ESS girl-PL II.PL-see-ANT.CVB father be.happy get-PST.UNW
+Translation: When the father saw the girls alive and healthy, he got very happy.
+Sentence: Užä ža ragin łiyrxo rukaynosi, bazarganä yeda xizor oxirno.
+Gloss: boy-ERG DEM1.SG IV-lick-PFV.CVB finish-IPFV.CVB IV-see-ANT.CVB merchant-ERG DEM2.ISG back chase-PST.UNW
+Translation: When he saw that the boy was eating it up, the merchant chased him.

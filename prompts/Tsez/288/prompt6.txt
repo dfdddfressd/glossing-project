@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rekarbi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rekarbi: 
+
+Exact Matches
+Sentence: Bayzatow ʕoƛiran kawumoqosi rekarbi rixäsi resun.
+Gloss: III-come-LCV-EMPH seven.OBL-TOP gate-POSS.ESS-ATTR key-PL IV.PL-hang-RES.PRT IV.PL-find-PST.UNW
+Translation: Where he arrived, he found keys hanging on the seven gates.
+
+Approximate Matches:
+Sentence: Šet’ur didiwnkin xalq’i bukaynč’izaƛ’, bełiqanä rekarbin risno kawubi sera iħun.
+Gloss: around which-TOP-even people III-see-NEG.FUT-CSL.CVB hunter-ERG key-PL-TOP IV.PL-take-PFV.CVB gate-PL unlock-INF begin-PST.UNW
+Translation: Because he didn't see any people around, the hunter took the keys and began to unlock the gates.

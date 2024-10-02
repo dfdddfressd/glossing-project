@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yičin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yičin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yičin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Łiya yižin k’emot’ sida aɣˤuz łiłiroł adäzan c’oxno yičin.
+Gloss: water-ERG II-carry-PFV.CVB wooden.case one.OBL mill-GEN2 ditch-CONT.ESS before-IN.VERS.DIST-TOP hit-PFV.CVB II-remain-PST.UNW
+Translation: The water carried the case before a mill's ditch, it hit it and remained there.
+Sentence: Sosisi ža dey anuƛinno yičin, yedu xizyo ža teƛanix razi yoqno.
+Gloss: at.first-ATTR DEM1.SG me-GEN1 be.NEG-QUOT-TOP II-be-PFV.CVB DEM2.IISG afterwards DEM1.SG give-MSD-AD.ESS agree II-become-PST.UNW
+Translation: At first she was like "I don't have it.", afterwards she agreed to give it away.
+Sentence: Haq’udär yik’anix xedyoqay izmu esirnosi, nesägon łˤora becän yičin, hulon rexurno horoƛin yegirno.
+Gloss: family-APUD.VERS II-go-MSD-AD.ESS husband-POSS.ABL permission ask-ANT.CVB DEM1.ISG.OBL-ERG-CNTR three.OBL month-IN.ESS-TOP II-be-PFV.CVB miss-CND IV-kill-PFV.CVB come.IMPR-QUOT II-let-PST.UNW
+Translation: When she asked her husband for permission to go to her family, he let her go with the words: "You may stay three months, then, after [you killed the boredom(?)] come back!"
+
+Approximate Matches:
+Sentence: Yeynoyxosi aɣˤur yičinosi, maħorno yoqno habihanes baru yezun.
+Gloss: II-work-PRS.PRT mill II-cease-ANT.CVB outside-TOP II-become-PFV.CVB miller-GEN1 wife II-look-PST.UNW
+Translation: When the working mill stopped working, the miller's wife went outside and had a look.
+Sentence: Yeženi ɣˤanaza eƛin, mi berten łiyace yičinč’ey xexłiƛ’ idurno nexno, hisona teł šeƛ’un eqro, min nexno idu yičiƛin.
+Gloss: II-old-DEF woman-ERG say-PST.UNW you marriage end-TERM II-wait-NEG.PST.CVB quickness-SUPER.ESS home-LAT-TOP come-PFV.CVB trough-IN.ESS inside clothing-TOP put-IMPR you-TOP come-PFV.CVB home II-wait-QUOT
+Translation: The old woman said: "Before the marriage ends, come home quickly, put the clothes into the trough, get home and wait."
+Sentence: Howlo ɣeduƛ žan eqro iduɣor yik’i, dey kid, t’o yičinäy mi beqä yäsƛin, qˤaƛin yiła, dahawgon bix kosa yiħun.
+Gloss: there shade-SUB.ESS DEM1.SG-TOP put-IMPR home-IN.ALL II-go me-GEN1 daughter here II-sit-CND.CVB you sun-ERG II-take-QUOT shout-PFV.CVB DEM2.IISG.OBL-ERG a.little-CNTR hay gather-INF II-begin-PST.UNW
+Translation: "Put it into the shadow and go home, my daughter, if you sit here, you'll get a sunstroke!" she shouted and began to gather the hay a little.

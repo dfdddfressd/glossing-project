@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: resunäy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": resunäy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word resunäy:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nedur resunäy bik’i huduƛin” - eƛin zeyä.
+Gloss: so IV-exist-CND.CVB III-go so-QUOT - say-PST.UNW bear-ERG
+Translation: "If that's the case, then go!", said the bear.
+Sentence: Nedur resunäy, hi enda dowqor sis dey musno, debeƛ’ ɣudi rayza quł yedu mi bik’urƛin nesiqorno eƛin, zeyä ciqaɣor zebu yoɣno.
+Gloss: so IV-exist-CND.CVB take.IMP DEM3b.SG you-POSS.LAT one me-GEN1 hair-TOP you-SUPER.ESS day IV-come-LCV.CVB day-CONT.ESS DEM2.IISG you III-burn-CAUS-QUOT DEM1.ISG.OBL-POSS.LAT-TOP say-PFV.CVB bear-ERG forest-IN.VERS running II-take.away-PST.UNW
+Translation: "In that case, take this hair of me and when you're in big trouble one day, burn it!" it said to him and ran off to the forest.
+Sentence: Mi nedurä hudu zownƛin, eƛin Ražbadinä, nedur resunäy, ela sosi debi berten boda yoł, xizyo di baru yowa yołƛin.
+Gloss: you so-Q though be.NPRS-PST.UNW-QUOT say-PST.UNW Razhbadin-ERG so IV-exist-CND.CVB we(I).OBL-ERG at.first you-GEN1 marriage III-do-INF be afterwards me wife II-marry-INF be-QUOT
+Translation: "So that way you are," said Razhbadin, "if that's the case, we will first prepare your wedding and afterwards I will marry my wife."
+
+Approximate Matches:
+Sentence: Nedur resunäyƛin, - eƛin kidbä, - meži łˤoran esnaza sidä sidƛ’ay bežin šebin riszaƛ’, mežatow xal bodo di łux yik’a yayƛin”.
+Gloss: so IV-exist-CND.CVB-QUOT - say-PST.UNW girl-ERG - you.PL three.OBL-TOP brother-PL-ERG one.OBL-IN.ESS one.OBL-SUPER.ABL III-win-PFV.CVB thing IV-take-CSL.CVB you(I).PL.OBL-ERG-EMPH examination III-do-IMPR me who.OBL-AD.ESS II-go-INF II-must-QUOT
+Translation: "If that is so", said the girl, "you three brothers found such things, one better than the other, now figure out: to whom I shall go?
+Sentence: Hi hudu deber nedur resunäyƛin, rok’no mač’an exurno eženi esiwdetow puräza taxeƛno eqerno akäza baɣmaɣorno yezun yičin.
+Gloss: take.IMP so you-LAT so IV-exist-CND.CVB-QUOT IV-hit-PFV.CVB dagger-TOP kill-PFV.CVB old-DEF brother-APUD.ESS-EMPH side-IN.VERS.DIST ottoman-SUB.ESS-TOP put-PFV.CVB window-IN.VERS.DIST garden-IN.ALL-TOP II-look-PFV.CVB II-wait-PST.UNW
+Translation: "So take [this], if that's the case!", and she hit and killed him with the dagger, put him under the ottoman to the oldest brother's side and waited looking out of the window into the garden.
+Sentence: Nedur resunäyƛin, eƛin boc’ä, meža mežaƛ’osi cirabi esoƛin.
+Gloss: so IV-exist-CND.CVB-QUOT say-PST.UNW wolf-ERG you(II-ERG you(II-SUPER.ESS-ATTR name-PL tell-IMPR-QUOT
+Translation: "If that's the case," said the wolf, "tell me your names!"

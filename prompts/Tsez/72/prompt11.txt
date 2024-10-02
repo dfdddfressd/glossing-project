@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: urɣelyozał.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": urɣelyozał
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word urɣelyozał:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nar yedu yik’a yayxƛin, esnabi urɣelyozałer begäsi zown.
+Gloss: where DEM2.IISG II-go-INF II-must-PRS-QUOT brother-PL sorrow-PL-CONT.LAT I.PL-stand.still-RES.PRT be.NPRS-PST.UNW
+Translation: "Where might she have gone to?", the brothers got desperate.

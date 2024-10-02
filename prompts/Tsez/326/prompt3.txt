@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hibon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hibon: 
+
+Exact Matches
+Sentence: Elo aw käczar hibon bok’no ža bexarur räqi ixina tełsi bečełiƛin.
+Gloss: there mouse sleep-LCV-LAT stick-TOP III-beat-PFV.CVB DEM1.SG III-kill-PST.PRT-LAT IV-get bag-IN.ESS inside-ATTR riches-QUOT
+Translation: And there beat a stick on where the mouse sleeps to kill her and get the riches from inside her bag!"
+Sentence: Hunixor yisä łäs q’ˤano sikno eqerno, bišʷan erno, kumakyorgon, ħaƛirxo ik’anix, xizay k’oƛin yayn bara hibon teƛno.
+Gloss: way-AD.LAT DEM2.ISG.OBL-ERG water-ERG-GEN1 two waterskin-TOP put-PFV.CVB food-TOP put-PFV.CVB help-LAT-CNTR put-IPFV.CVB go-MSD-AD.ESS behind run-PFV.CVB II-come-PFV.CVB wife-ERG stick-TOP give-PST.UNW
+Translation: He put two waterskins onto the way, packed some food, and came running behind in order to go put(?), when his wife came running behind him and gave him a stick to go with, which he should put down for help.
+Sentence: Nediwtow q’ʷariłi bayzaƛ’, dahawtow yuyn ʕiyayn, bisno sis bexora hibon łoxt’a ža bok’xo nasin boc’an, zeybin maħor roxirno.
+Gloss: such-EMPH sadness III-come-CSL.CVB a.little-EMPH and(?) cry-PST.UNW I.PL-take-PFV.CVB one lengthy stick-TOP thrice-DISTR DEM1.SG III-beat-IPFV.CVB all wolf.PL-and bear-PL-and outside III.PL-chase-PST.UNW
+Translation: Because of such a tragedy, she began to cry a little, took a long stick, beated it three times and chased off all the wolves and bears.
+
+Approximate Matches:
+Sentence: Xalq’imo ʕadalawniƛ’ ayrxo zawruni žoyä, qaciz hiboreƛ łenon riguƛ’ay rigut’a šeƛ’ures bic’äsi ħumukulin ader boɣno, ʕaƛaɣorƛin hunix oqno.
+Gloss: people-ERG stupid-DEF-SUPER.ESS call-IPFV.CVB be.NPRS-PST.PRT-DEF boy-ERG firewood-GEN2 stick-SUB.ESS five-TOP IV-pretty-SUPER.ABL IV-pretty-DISTR clothing-GEN1 III-fill-RES.PRT camel-TOP forward III-take.away-PFV.CVB village-IN.VERS-QUOT way-AD.ESS become-PST.UNW
+Translation: The boy whom the people called "the dumb one", gave his wooden stick away for five camels packed with the prettiest clothings, then he got on his way to the village.
+Sentence: Howt’ay yäk’irun, där moƛał rukaysƛin babiwqor eƛo mi, soderno kurno ƛ’ˤiyor nexƛ’oräy, geres hibos boq’ˤugani pu wˤałxor butin nexno raƛ’moƛxorgon šäšiƛin.
+Gloss: from.here II-go-IMM.ANT.CVB me-LAT dream-CONT.ESS IV-see-PST.WIT-QUOT father-POSS.LAT say-IMPR you upward-TOP throw-PFV.CVB downward come-SIM.CVB iron-GEN1 stick-GEN1 III-heavy-ATTR-DEF side downward-AD.LAT III-turn-PFV.CVB come-PFV.CVB earth-SUB.LAT-CNTR get.stuck-QUOT
+Translation: "When you go again, tell your father that you have seen it in a dream: He shall throw it upward and when it comes down again, the iron stick's heavier side will turn downward and get stuck in the earth."
+Sentence: Biči, hiboƛin, eƛizaƛ’or deber aciru žek’uz gugyoƛ’ yedu biħnayxosiƛin.
+Gloss: III-stop.IMP stick-QUOT say-POST.CVB you-LAT bother-PST.PRT man-GEN2 back-SUPER.ESS DEM2.IISG III-fight-PRS.PRT-QUOT
+Translation: "As long as you do not say 'Stop, stick', it hits on the back of that man, which bothers you."

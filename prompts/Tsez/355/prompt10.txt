@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eƛanƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eƛanƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ukrus bic’no q’ili neƛanƛin, - žawabno teƛno xanä esirno, - šebi aždaħer teƛanix kidä yowäƛin?”
+Gloss: silver-GEN1 III-fill-PFV.CVB qili give-FUT.DEF-QUOT - answer-TOP give-PFV.CVB khan-ERG ask-PST.UNW - what dragon-LAT give-MSD-AD.ESS daughter-ERG II-get-INF-QUOT
+Translation: "I will give you one qili of silver", answered the king and asked: "What did your daughter get to give to the dragon?"
+Sentence: Zamanałäy yizi yeda rešt’izi aqza mečoƛ’or ačqˤayx, mekoyxno bayn, salamno teƛno žaq ħaƛanir łi esirno, deber ela micxir neƛanƛin.
+Gloss: time-CONT.ABL DEM2.IPL DEM2.ISG take.a.rest become-LCV.CVB place-SUPER.LAT be.thirsty-IPFV.CVB be.hungry-IPFV.CVB-TOP I.PL-come-PFV.CVB greeting-TOP give-PFV.CVB boy-POSS.ESS drink-MSD-LAT water ask-PFV.CVB you-LAT we(I).OBL-ERG money give-FUT.DEF-QUOT
+Translation: After a while, they were thirsty and hungry and came to where he was resting, saluted him and asked the boy for some water to drink: "We will give you some money."
+Sentence: Hemełƛ’o bečedawni žek’a eƛin, mi dey kid saɣ yodinäy, maharno erno debex ža di yegiran, retinäy boƛi bok’no dey maʕišat neƛanƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS wealthy-DEF man-ERG say-PFV.CVB you me-GEN1 daughter cure II-do-CND.CVB wedding-TOP set.up-PFV.CVB you-AD.ESS DEM1.SG me II-send-FUT.DEF IV-want-CND.CVB III-half III-hit-PFV.CVB me-GEN1 fortune give-FUT.DEF-QUOT
+Translation: Afterwards the rich man suggested, "If you cure my daughter, I will set up the wedding and if you want, I will give you one half of my fortune."

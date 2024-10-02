@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yałru.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yałru
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yałru:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ik’in nełaq reƛ’iqoy rukarnosi, didiw ža yałru sosisi riynč’ey neła eƛin:
+Gloss: go-PFV.CVB DEM1.IISG.OBL-POSS.ESS glove IV-show-ANT.CVB which DEM1.SG be-PST.PRT at.first-ATTR IV-know-NEG.PST.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: He went and showed her the glove, and at first, when she didn't know what kind of glove this was, she said:
+Sentence: Nesiztow bˤeƛ’eł yałru biƛurox aluk’ani bˤeƛ’q’ˤus reƛ rac’näy, ža xan saɣ oqxosi yałrułin xalq’imor riyxanu.
+Gloss: DEM1.ISG.OBL-GEN2-EMPH sheep-CONT.ESS be-PST.PRT belly-AD.ESS white-DEF sheep-GEN1 meat IV-eat-CND.CVB DEM1.SG khan cure become-PRS.PRT be-PST.PRT-NMLZ-and people-LAT IV-know-IPFV.CVB-NEG
+Translation: When he eats the meat of a sheep from his flock, which is white on its belly, this king will be healed; but the people don't know this.
+Sentence: Elay mekoyx yałru yisä bet’urno neł ɣunoqay c’udani heneš bac’nosi, nesiłäy ɣun roqno.
+Gloss: there-IN.ABL be.hungry-IPFV.CVB be-PST.PRT DEM2.ISG.OBL-ERG III-pull.out-PFV.CVB DEM1.IISG.OBL tree-POSS.ABL red-DEF apple III-eat-ANT.CVB DEM1.ISG.OBL-CONT.ABL tree IV-become-PST.UNW
+Translation: Then, he - being hungry - plucked a red apple from that tree and ate it, he became a tree.
+
+Approximate Matches:
+Sentence: Ža kid nesä yižixosi yałrułi Tawadir riyx zownanu.
+Gloss: DEM1.SG girl DEM1.ISG.OBL-ERG II-lead-PRS.PRT be-MSD Tavadi-LAT IV-know-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: Tavadi didn't know that this girl was the one he was going to marry.
+Sentence: Šudaƛ’ yeda ʕiyayx ukayzaƛ’ maduhaler iyn ža žedus eɣeni esiw yałrułi.
+Gloss: graveyard-SUPER.ESS DEM2.ISG cry-IPFV.CVB see-CSL.CVB neighbor-LAT know-PST.UNW DEM1.SG DEM1.IPL.OBL-GEN1 young-DEF brother be-MSD
+Translation: Because he saw him crying on the grave, the neighbor knew that he was their younger brother.
+Sentence: Sidaɣ lalašin łi räk’iza mečoƛ’, xanes kid teł yałruni k’emot’ ɣˤanazaq yiqin.
+Gloss: in.one.place spread-PFV.CVB water IV-go-LCV.CVB place-SUPER.ESS khan-GEN1 daughter inside be-PST.PRT-DEF wooden.case woman-POSS.ESS II-get-PST.UNW
+Translation: In one place, where the river spread out, the wooden chest with the princess inside got to a woman.

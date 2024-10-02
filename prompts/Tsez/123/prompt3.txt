@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elo ža išno-utin, łin ħaƛun, elaygon bitor hunix oqno ik’in neł ɣˤanazaz baɣmoxor ayn.
+Gloss: there DEM1.SG eat-PFV.CVB water-TOP drink-PFV.CVB there-IN.ABL-CNTR thither way-AD.ESS become-PFV.CVB go-PFV.CVB DEM1.IISG.OBL woman-GEN2 garden-AD.LAT come-PST.UNW
+Translation: There he ate and drank the water, and went on on his way and came to that woman's garden.
+Sentence: Elaygon bitor žedu bik’inƛax, rigu hawan, bac’adaw łin, raqˤäsi bix yałzarno, žek’utow anuza mečoƛ’or baynƛax.
+Gloss: there-IN.ABL-CNTR thither DEM1.IPL I.PL-go-PFV.CVB-QUOT IV-good air-and clean water-and IV-accumulate-RES.PRT grass be-LCV.CVB-LAT-and man-EMPH be.absent-LCV.CVB place-SUPER.LAT I.PL-come-PST.UNW-QUOT
+Translation: From there they went on and came to a deserted place with good air, clean water and where the grass was thick.
+Sentence: Sida quł ʕaƛoz xalq’imoq łin rixra regirinč’ey, sida kikƛ’o aždaħ baq’ˤułno.
+Gloss: one.OBL day-CONT.ESS village-GEN2 people-POSS.ESS water-TOP IV-take-INF IV-let-NEG.PST.CVB one.OBL spring-SUPER.ESS dragon III-cover-PST.UNW
+Translation: One day, a dragon covered a spring and didn't let the people of the village fetch water.
+
+Approximate Matches:

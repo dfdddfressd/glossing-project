@@ -1,0 +1,88 @@
+{
+  "word": "Hemełƛ’o",
+  "glosses": [
+    "DEM4.IISG.OBL-SUPER.ESS",
+    "then",
+    "after that"
+  ]
+}
+{
+  "word": "sida",
+  "glosses": [
+    "one.OBL",
+    "one",
+    "one.OBL"
+  ]
+}
+{
+  "word": "nukarer",
+  "glosses": [
+    "henchman-LAT",
+    "henchman-GEN",
+    "get-PST.PRT-DEF"
+  ]
+}
+{
+  "word": "qalamä",
+  "glosses": [
+    "fortress",
+    "fortress-IN.ESS",
+    "fortress-IN.VERS"
+  ]
+}
+{
+  "word": "teł",
+  "glosses": [
+    "inside",
+    "interior",
+    "within"
+  ]
+}
+{
+  "word": "xanez",
+  "glosses": [
+    "khan-GEN2",
+    "king-GEN2",
+    "daughter-ERG"
+  ]
+}
+{
+  "word": "užä",
+  "glosses": [
+    "see-PST.PRT",
+    "hide-PST.PRT",
+    "inside"
+  ]
+}
+{
+  "word": "ruqˤno",
+	"glosses": [
+    		"III-hide-PFV.CVB",
+    		"III-hide-PST.UNW",
+    		"III.PL-hide-PFV.CVB"
+  	]
+}
+{
+  "word": "zawruni",
+  "glosses": [
+    "see-PST.MSD-AD.ESS",
+    "wife-PL",
+    "OBL"
+  ]
+}
+{
+  "word": "barubi",
+  "glosses": [
+    "wife-PL",
+    "wife-PL-TOP",
+    "wife-PL-GEN1"
+  ]
+}
+{
+  "word": "rukayn",
+  "glosses": [
+    "IV-see-PST.UNW",
+    "IV-see-ANT.CVB",
+    "IV-see-ANT.CVB"
+  ]
+}

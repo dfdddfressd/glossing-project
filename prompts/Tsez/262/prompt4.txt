@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bexʷad in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bexʷad: 
+
+Exact Matches
+Sentence: Elay nesä ik’in baruq raqru łinałäyn esinosi, neła eƛin, neširu t’ekan bexʷad, užin goƛ’o, xizyo di nesiq esiranƛin.
+Gloss: there-IN.ABL DEM1.ISG.OBL-ERG go-PFV.CVB wife-POSS.ESS IV-happen-PST.PRT what.OBL-CONT.ABL-TOP tell-ANT.CVB DEM1.IISG.OBL-ERG say-PFV.CVB evening he.goat-TOP III-slaughter boy-TOP call-IMPR afterwards me DEM1.ISG.OBL-POSS.ESS ask-FUT.DEF-QUOT
+Translation: He went away and told his wife what had happened, and she said: "Slaughter a goat tonight, call the boy and afterwards I will ask him."
+
+Approximate Matches:
+Sentence: Xediw ičäsi zown žiƛbon xecin, k’oxäygon meši bodinč’inäy, bexʷadanƛin.
+Gloss: husband remain-RES.PRT be.NPRS-PST.UNW this.year-TOP leave-PFV.CVB again-IN.ABL-CNTR bull.calf III-do-NEG.FUT-CND.CVB III-slaughter-FUT.DEF-QUOT
+Translation: The husband remained [in his opinion]: "We'll leave it this year and if it doesn't calve again, we shall slaughter it."

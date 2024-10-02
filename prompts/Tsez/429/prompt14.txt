@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word užix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word užix: 
+
+Exact Matches
+Sentence: Ič’an yeženä eƛix teqno, deygon hunar šebi, šeƛ’ures bic’äsi gama ƛisiƛ’orey, dey kodin bet’urno, daqay gama baɣruni užix yik’a räti darƛin.
+Gloss: most-TOP II-old-DEF-ERG say-IPFV.CVB hear-PST.UNW me-GEN1-CNTR talent what clothing-GEN1 III-fill-RES.PRT boat pull-SIM.CVB me-GEN1 hair-TOP III-pull.out-PFV.CVB me-POSS.ABL boat III-take.away-PST.PRT-DEF boy-AD.ESS II-go-INF IV-want me-LAT-QUOT
+Translation: He heard the oldest one say: "What talent do I have? I'll want to marry the boy who took the boat full of clothes away from me after he pulled out my hair, while I was pulling on the boat."
+Sentence: Därgon nesi užix yik’a retin.
+Gloss: me-LAT-CNTR DEM1.ISG.OBL boy-AD.ESS II-go-INF IV-want-PST.UNW
+Translation: And I want to marry that boy too."
+Sentence: Yoƛƛozo kidbä eƛin, di bečedaw žek’us uži ok’ek’äsi zows, nesił xizayn ayn, däqay xot’oqosin roɣno axiru užix därno yik’a rätiƛin.
+Gloss: II-middle-ATTR.OBL girl-ERG say-PST.UNW me wealthy man-GEN1 son steal.from-RES.PRT be.NPRS-PST.WIT DEM1.ISG.OBL-CONT.ESS from.behind-TOP come-PFV.CVB me-POSS.ABL foot-POSS.ESS-ATTR-TOP IV-take.away-PFV.CVB run.away-PST.PRT boy-AD.ESS me-LAT-TOP II-go-INF IV-want-QUOT
+Translation: The middle girl said: "I'll also want to marry the boy who, when I stole the rich man's son, came after him, took my footwear from me and ran away."
+
+Approximate Matches:

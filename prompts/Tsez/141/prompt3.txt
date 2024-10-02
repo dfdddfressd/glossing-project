@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xabar.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xabar
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xabar:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.
+Gloss: so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT
+Translation: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.
+Sentence: ʕAƛar xabar bayn, hunix zigolun yegirno, raq’ˤu bˤeƛ’ rexunƛin.
+Gloss: village-IN.LAT story III-come-PST.UNW way-AD.ESS hail-TOP II-send-PFV.CVB III.PL-many sheep III.PL-die-PST.UNW-QUOT
+Translation: Into the village came the news that on the way it had hailed and many sheep had died.
+
+Approximate Matches:
+Sentence: Howlotow eniwqor xabarno boƛik’no, žan razi yoyn, zamanałäygon kidbeqay rožin riqirno, nełƛ’osi kʷaxatow bertenno boyn, aħozä ža kidno yown.
+Gloss: there-EMPH mother-POSS.LAT story-TOP III-push.out-PFV.CVB DEM1.SG-TOP accept II-do-PFV.CVB time-CONT.ABL-CNTR girl-POSS.ABL word-TOP IV-take.away-PFV.CVB of.that.time soon-EMPH marriage-TOP III-do-PFV.CVB shepherd-ERG DEM1.SG girl-TOP II-marry-PST.UNW
+Translation: Right there he started talking to the mother, she accepted it, and after some time he took her word and soon after that they celebrated the wedding and the shepherd married that girl.
+Sentence: Bˤeƛ’no adäz roc’no neširur iduɣor ik’iƛ’oräy, Alimaħamar teqno bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: sheep-TOP ahead III.PL-drive-PFV.CVB evening-LAT home-IN.ALL go-SIM.CVB Alimagomed-LAT hear-PST.UNW sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: When he drove the sheep home in the evening, Alimagomed heard them talking to each other.
+Sentence: Badiru daru baqinč’iƛin Bilq’isdä nesi eženi žek’us łˤonon užibi muk’urno boyrerno, buyxor xabarno esirerno žeduq.
+Gloss: III-do-PST.PRT medicine III-become-NEG.FUT-QUOT Bilqisdi-ERG DEM1.ISG.OBL old-DEF man-GEN1 three-TOP son-PL confess-TOP I.PL-do-CAUS-CAUS-PFV.CVB III-true-AD.LAT story-TOP ask-CAUS-PST.UNW DEM1.IPL.OBL-POSS.ESS
+Translation: "(Otherwise) the medication won't work.", Bilqisdi made the old man's three sons confess and made them tell the true story.

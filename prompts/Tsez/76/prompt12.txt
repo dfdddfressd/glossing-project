@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bukadäsi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bukadäsi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bukadäsi:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xanłi koyär riqinosi, Kusa žedu łˤonon esnabi nesä neside ust’arbiłun xecin, žedus eɣeni esiw hič’č’a adäsi nesis ʕaq’lus žek’ułun odin.
+Gloss: khanship hand-IN.LAT IV-get-ANT.CVB Kusa-ERG DEM1.IPL three-TOP brother-PL DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.ESS master-PL-LHUN leave-PFV.CVB DEM1.IPL.OBL-GEN1 young-DEF brother the.most in.front-RES.PRT DEM1.ISG.OBL-GEN1 advice-GEN1 man-LHUN do-PST.UNW
+Translation: When Kusa had the kingship in his hands, he named the three brothers masters for himself and named the youngest brother his foremost advisor.
+Sentence: Xanä dowqor neti deber raładyołäy besurobi madaħor roqno rukadäƛin eƛinosi, mi eƛo, qaciz hoka k’eč’oli boyzaƛ’, raładyołäy besurobi madaħor raqruyä raq’ˤuƛin”.
+Gloss: khan-ERG you-POSS.LAT when you-LAT sea-CONT.ABL fish-PL outside III.PL-become-PFV.CVB III.PL-see-PST.WIT.INT-QUOT say-ANT.CVB you say-IMPR firewood-GEN2 carriage-IN.ESS foal III-do-CSL.CVB sea-CONT.ABL fish-PL outside III.PL-become-PST.PRT-Q III.PL-much-QUOT
+Translation: After the king said to you: "When did you saw fish coming out of the sea?", say that because the foal was born on the wooden carriage, is it more (of a surprise) for fish to come out of the sea?
+Sentence: Där eniwn, esnabin bukada betinƛin.
+Gloss: me-LAT mother-and brother-PL-and I.PL-see-INF I.PL-want-PST.UNW-QUOT
+Translation: I wanted to see my mother and my brothers."

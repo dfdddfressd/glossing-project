@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reƛ’iqoy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reƛ’iqoy: 
+
+Exact Matches
+Sentence: Ik’in nełaq reƛ’iqoy rukarnosi, didiw ža yałru sosisi riynč’ey neła eƛin:
+Gloss: go-PFV.CVB DEM1.IISG.OBL-POSS.ESS glove IV-show-ANT.CVB which DEM1.SG be-PST.PRT at.first-ATTR IV-know-NEG.PST.CVB DEM1.IISG.OBL-ERG say-PST.UNW
+Translation: He went and showed her the glove, and at first, when she didn't know what kind of glove this was, she said:
+Sentence: Izin užä neł imyoq ħobo bok’nosi, nazay eƛa riynč’ey reƛ’iqoy rˤoƛ’un.
+Gloss: get.up-PFV.CVB boy-ERG DEM1.IISG.OBL pole-POSS.ESS leg III-beat-ANT.CVB from.where say-INF IV-know-NEG.PST.CVB glove IV-fall-PST.UNW
+Translation: When he got up and kicked the pole, a glove fell down he didn't know from where.
+
+Approximate Matches:
+Sentence: Ha hoboy, dey mesedyos saħno, t’asno, reƛ’iqoyn, pandurno neƛƛin”.
+Gloss: well now me-GEN1 gold-GEN1 sah-and washbowl-and glove-and lute-and give-QUOT
+Translation: "Well now, give me back my sah of gold, my washbowl, my glove and my lute."
+Sentence: Ričas ži babiya bayru wasimoƛ’ req’unƛin”, - eƛin uži reƛ’iqoyä tełer ezunosi, magalazaƛ’ rayzaƛ’or, elo teł anuru šebintow zown anu.
+Gloss: IV-be-FUT2 now father-ERG III-do-PST.PRT testament-SUPER.ESS in.accordance.with-QUOT - say-PFV.CVB boy glove-IN.ESS into look-ANT.CVB bread-PL-SUPER.ESS IV-come-POST.CVB there inside be.NEG-PST.PRT thing-EMPH be.NPRS-PFV.CVB be.NEG
+Translation: "May it be according to my father's testament, now.", said the boy and when he looked inside the glove, and it was nothing inside except for bread.
+Sentence: Nediwt’a reƛ’iqoybi elzox oč’ino yołƛin”.
+Gloss: such-DISTR glove-PL we(II-ATTR.OBL-AD.ESS nine be-QUOT
+Translation: "We have nine of such gloves."

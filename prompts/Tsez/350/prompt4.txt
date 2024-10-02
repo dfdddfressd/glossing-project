@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word akiłnosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word akiłnosi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyogon Maħama akiłno q’ˤida bičinosi, Aħmadä eƛin, howt’o deber zowa gulu biqixyołiƛin.
+Gloss: again Magomed get.tired-PFV.CVB down I.PL-sit-ANT.CVB Akhmed-ERG say-PST.UNW here you-LAT ride-INF horse III-get-PRS-COND.IRR-QUOT
+Translation: Again Magomed got tired and when they sat down, Akhmed said: "If we only could get a horse for you to ride on it..."
+Sentence: Neširu, sasiłnosi, ʕomoybi yałru rečuxor boc’i bayn.
+Gloss: evening get.dark-ANT.CVB donkey-PL be-PST.PRT cattleshed-AD.LAT wolf III-come-PST.UNW
+Translation: In the evening, after it got dark, the wolf came to the cattleshed where the donkeys were.
+Sentence: Oka eƛin, däde sadaq egirno xec yeda debi uži, xizyo ƛˤebaq ƛˤeb ħišiłnosi, hobołatow mečoƛ’or horo mi yisił xizayƛin.
+Gloss: Oku-ERG say-PST.UNW me-APUD.ESS together send-PFV.CVB leave DEM2.ISG you-GEN1 son afterwards year-POSS.ESS year be.over-ANT.CVB this-DUB-EMPH field-SUPER.LAT come.IMPR you DEM2.ISG.OBL-CONT.ESS behind-QUOT
+Translation: Oku said: "Send your son together with me, and when the year after next year is over, come to this very field and follow him."

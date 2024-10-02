@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xalq’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xalq’in: 
+
+Exact Matches
+Sentence: Bik’in ečrut’ani xalq’in łˤebozałäyn oɣno ža uži iduɣor own.
+Gloss: I.PL-go-PFV.CVB old-DISTR-DEF people-TOP leaf-PL-CONT.ABL-TOP take.away-PFV.CVB DEM1.SG boy home-IN.ALL bring-PST.UNW
+Translation: The old people went, took the boy out of the leaves and brought him home.
+Sentence: Xanno, diwan boyxosi xalq’in, kidbeder ays žaƛin, Kusaƛ’ bužzi boqno anu.
+Gloss: khan-and judgement III-do-PRS.PRT people-and girl-APUD.LAT come-PST.WIT DEM1.SG-QUOT Kusa-SUPER.ESS believe I.PL-become-PST.UNW be.NEG
+Translation: The king and the judges did not believe that Kusa had come to the girl.
+Sentence: Ža nesä eƛizaƛ’, yeda xan ʕuraw ɣˤaɣˤun izin, xalq’in žaƛ’ razi boqno.
+Gloss: DEM1.SG DEM1.ISG.OBL-ERG say-CSL.CVB DEM2.ISG khan much be.happy-TOP get-PFV.CVB people-TOP boy-SUPER.ESS agree I.PL-become-PST.UNW
+Translation: When he said that, the king got very glad, and the people were okay with the boy.
+
+Approximate Matches:
+Sentence: Eniwn, užin, barun bečełiƛ’ zown, miskin xalq’imor sadaq’a teƛxo žeda ʕaƛos žamaʕattown bečed bodin.
+Gloss: mother-and son-and wife-and riches-SUPER.ESS be.NPRS-PFV.CVB poor people-LAT alms give-IPFV.CVB DEM1.IPL.OBL-ERG village-GEN1 population-EMPH-TOP wealthy.man III-do-PST.UNW
+Translation: The mother, her son and his wife lived wealthily, and by giving alms to the poor people, they enriched the population of the village.
+Sentence: Łoxäƛirugon xanä ʕaq’lus xalq’i sadaqor butirnosi, Kusa mesedyos ʕabasin yižin elor ik’in.
+Gloss: thrice-ORD-CNTR khan-ERG advice-GEN1 people together-LAT I.PL-gather-ANT.CVB Kusa gold-GEN1 coin-TOP II-carry-PFV.CVB there-LAT go-PST.UNW
+Translation: When the king gathered his advisors for the third time, Kusa carried a golden coin with himself.
+Sentence: K’ox äƛizayn hemedurtow xalq’imon ħaƛun Zeyes Aħyaq idur zok’ice dandi łi rayn.
+Gloss: twice say-SIM.CVB-PFV.CVB so-EMPH people-ERG-TOP drink-PFV.CVB bear-GEN1 ear-POSS.ESS home-LAT mug-TERM only water IV-do-PST.UNW
+Translation: Also the second time the people drank it up likewise, and Bear Ear could only bring enough water for a mug home.

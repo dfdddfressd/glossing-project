@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xʷasar.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xʷasar
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xʷasar:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yisä tupi teƛno anu, žedä äƛiru mesedno teƛno, yisä žeduqay zey xʷasar bodin.
+Gloss: DEM2.ISG.OBL-ERG rifle give-PFV.CVB be.NEG DEM1.IIPL.OBL-ERG say-PST.PRT gold-TOP give-PFV.CVB DEM2.ISG.OBL-ERG DEM1.IPL.OBL-POSS.ABL bear rescue III-do-PST.UNW
+Translation: He didn't give them the rifle, but gave them as much gold as they wanted and rescued the bear from them.
+Sentence: Debeƛ’no gurħizi oqno bexurƛ’oräysi mi di xʷasar boysƛin, di nełqor eƛis.
+Gloss: you-SUPER.ESS-TOP pity become-PFV.CVB III-kill-SIM.CVB-ATTR you me rescue III-do-PST.WIT-QUOT me DEM1.IISG.OBL-POSS.LAT say-PST.WIT
+Translation: 'I felt sorry for you and rescued you from getting killed', I said to it.
+Sentence: Neła yisiqor eƛin, mi aynosi di bežigon bˤuƛ’si, šida mi di xʷasar bodäƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT say-PST.UNW you come-ANT.CVB me III-more-CNTR III-be.afraid-ATTR why you me rescue III-do-PST.WIT.INT-QUOT
+Translation: It said to him, "When you came, I was even more afraid; why did you save me?"
+
+Approximate Matches:
+Sentence: Elay bitorgon bik’ixozo q’ˤuya gamiƛ’aɣorno yizin ža xʷasarno yoqno, nełaƛ’town raładyoz lilyoxaɣor yok’ełno.
+Gloss: there-IN.ABL thither-CNTR I.PL-go-PRS.PRT.OBL other boat-SUPER.VERS-TOP II-get.up-PFV.CVB DEM1.SG rescue-TOP II-become-PFV.CVB DEM1.IISG.OBL-SUPER.ESS-EMPH-TOP sea-GEN2 river.bank-AD.VERS II-escape-PST.UNW
+Translation: She got to another boat that was going from there to somewhere else, got rescued and escaped on it to the seashore.
+Sentence: Elo yedu q’ˤuya gamiƛ’arno yizin ħaƛ’ala xʷasarno yoqno lilyoxar yok’ełno.
+Gloss: there DEM2.IISG other boat-SUPER.VERS-TOP II-get-PFV.CVB hardly rescue-TOP II-become-PFV.CVB river.bank-AD.VERS II-escape-PST.UNW
+Translation: There she got to another boat, was bearly rescued and escaped to the shore.

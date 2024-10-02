@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łox in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łox: 
+
+Exact Matches
+Sentence: Ħusen ukayrun aždaħä eƛin, dowqo däz enda ɣˤul łox caƛin č’aq’ˤinäy, mi di boƛi begir, c’oxinč’inäy mi di ac’a yołƛin.
+Gloss: Hussein see-IMM.ANT.CVB dragon-ERG say-PST.UNW you-POSS.ESS me-GEN2 DEM3b.SG stone thrice throw-PFV.CVB hit-CND.CVB you me III-half III-break.apart-CAUS hit-NEG.FUT.CVB-CND.CVB you me eat-INF be-QUOT
+Translation: Right after he saw Hussein, the dragon said: "If you throw and hit me with this stone within three attempts, break me apart in the middle! If you don't hit me, I am going to eat you."
+Sentence: Dandir aždaħ c’oxnosi, Ħuseneł biłetow yiła yisiłno q’ut’i boyx, łox ɣˤul caƛin sosikin nełaz c’oxnäy, yisä ža boƛƛi begira bayx, sosikin c’oxinč’inäy, aždaħä ža igix.
+Gloss: towards dragon meet-ANT.CVB Hussein-CONT.ESS III-as-EMPH DEM2.IISG.OBL-ERG DEM2.ISG.OBL-CONT.ESS-TOP agreement III-do-IPFV.CVB thrice stone throw-PFV.CVB once-even DEM1.IISG.OBL-GEN2 hit-CND.CVB DEM2.ISG.OBL-ERG DEM1.SG III-middle III-break.apart-CAUS-INF III-must-IPFV.CVB once-even hit-NEG.FUT.CVB-CND.CVB dragon-ERG DEM1.SG swallow-PRS
+Translation: When he came to the dragon, he was making the same agreement as with Hussein with him, that if he throws a stone three times and hits him at least once, he must break him apart in the middle, if he doesn't hit him at least once, the dragon would be swallowing him.
+Sentence: Siskin urɣizi oqxo ičinč’ey, kusa nesiqor eƛin, ʕomoyä łox ħoʕni roɣnosi äxu miƛin.
+Gloss: anything thinking become-IPFV.CVB be-NEG.PST.CVB beardless.man DEM1.ISG.OBL-POSS.LAT say-PST.UNW donkey-ERG thrice shout IV-take.away-ANT.CVB die you-QUOT
+Translation: Without thinking, the beardless man said to him: "When the donkey has shouted three times, you will die."
+
+Approximate Matches:

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: babiw.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": babiw
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word babiw:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Sidaɣ maqˤir ciqaɣorno yisä yedu yižin, hemedurtow gondun yič’in, ƛ’irigon zozis ƛ’ˤun bodin howlo žan xecin babiw xizor utin nexno.
+Gloss: in.one.place far.away-LAT forest-IN.VERS-TOP DEM2.ISG.OBL-ERG DEM2.IISG II-lead-PFV.CVB so-EMPH big.hole-TOP II-dig-PFV.CVB above-CNTR moss-GEN1 roof-TOP III-do-PFV.CVB there DEM1.SG-TOP leave-PFV.CVB father back return-PFV.CVB come-PST.UNW
+Translation: The father led her to a place far away in the forest, likewise dug a hole and built a roof of moss ontop, left her there and returned.
+Sentence: Hudayziko qˤaħłiqtow babiw kidbabi saparyox boqno.
+Gloss: the.next.day dawn-POSS.ESS-EMPH father daughter-PL journey-AD.ESS I.PL-become-PST.UNW
+Translation: The next day at dawn the father (and) the daughters went on their journey.
+
+Approximate Matches:
+Sentence: Hič’č’a adäzaytow soder eni- babiwde idu zawru yisä yisis ʕamal boda oqno, dicegon bara eƛiłin ya qaca ret’urxo zownanu, ya łi rowa ik’ix zownanu, ya q’ˤuya iduzo ħalt’oqor utin ezux zownanu.
+Gloss: the.most in.front-IN.ABL.DIST-EMPH after mother father-APUD.ESS home be.NPRS-PST.PRT DEM2.ISG.OBL-ERG DEM2.ISG.OBL-GEN1 behaviour III-do-INF begin-PFV.CVB how.much-CNTR wife-ERG say-CNC.CVB neither firewood IV-hack-IPFV.CVB be.NPRS-PFV.CVB-NEG neither water IV-bring-INF go-IPFV.CVB be.NPRS-PFV.CVB-NEG neither other home-ATTR.OBL work-POSS.LAT turn-PFV.CVB look-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: Right from the beginning he started to behave like in the house of his parents; how much his wife would say, he neither hacked firewood, nor did he go and bring water, nor did he do look for or did any other housework.
+Sentence: Kidbä žawab teƛno, dey eniwn anu, babiwn anu, ʕoƛno esiw yołƛin.
+Gloss: girl-ERG answer give-PST.UNW me-GEN1 mother-and be.NEG father-and be.NEG seven brother be-QUOT
+Translation: The girl answered: "I have neither mother nor father, [but] I have seven brothers."
+Sentence: Neła t’umiqay bˤaƛ’uru ħuli babiwz k’ukyoł boqun, miƛ’iłäy räšruni mesedyosnigon his ħamarno čˤaƛin esirno, baba, req’ezi roqxaƛin.
+Gloss: DEM1.IISG.OBL pigeon-POSS.ABL III-fall-PST.PRT feather father-GEN2 cap-CONT.ESS III-stick-PFV.CVB ram-CONT.ABL IV-fall-PST.PRT-DEF gold-GEN1-DEF-CNTR spring.wool chest-IN.LAT-TOP throw-PFV.CVB ask-PFV.CVB daddy approach IV-become-PRS-Q-QUOT
+Translation: She put the feather that fell from that pigeon onto her father's hat, and threw the golden whool that fell from the ram onto the chest and asked: "Daddy, does it fit?"

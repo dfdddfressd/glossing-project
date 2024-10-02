@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bižo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bižo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bižo:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełan hemedurtow harizi rodin žedaq, din bižo sadaqƛin.
+Gloss: DEM1.IISG.OBL-ERG-TOP so-EMPH request IV-do-PFV.CVB DEM1.IIPL.OBL-POSS.ESS me-TOP III-carry-IMPR together-QUOT
+Translation: And he asked them likewise: "Carry me with you!"
+Sentence: Nedur resunäyƛin, Maħama kidbeqor eƛin, akrošaw magalun bižo, yik’in nesiqor eƛo, asno eräsi yoł, bucin žäd bic’äsianuƛin.
+Gloss: so IV-exist-CND.CVB-QUOT Magomed-ERG daughter-POSS.LAT say-PST.UNW cheese-ATTR bread-TOP III-take.out-IMPR II-go-PFV.CVB DEM1.ISG.OBL-POSS.LAT say-IMPR fog-TOP put-RES.PRT be moon-TOP still III-fill-RES.PRT-NEG-QUOT
+Translation: "If that is the case," Magomed said to his daughter, "take this cheese bread, go and say to him: ''Fog has come up, and the moon is still not full."
+
+Approximate Matches:

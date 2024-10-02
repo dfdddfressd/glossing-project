@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mužibin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mužibin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyogon Bilq’isdider nesi eženis łˤonon užibin bayn, xanez madaxosini žek’un, nełastow xediwn, xedyosgon esiwn.
+Gloss: then Bilqisdi-APUD.LAT DEM1.ISG.OBL old-DEF-GEN1 three-TOP son-PL-and I.PL-come-PST.UNW khan-GEN2 gate-AD.ESS-ATTR-DEF man-and DEM1.IISG.OBL-GEN1-EMPH husband-and husband-GEN1-CNTR brother-and
+Translation: Then to Bilqisdi came the three sons of the old man, and the king's guard, her husband and her husband's brother.
+Sentence: Qartay maħor yäk’irun, C’irduxä izin užibi käczaɣor kidbabi, kidbabi käczaɣor užibin butirno, neła łi rayrace ičin.
+Gloss: Qartay outside II-go-IMM.ANT.CVB Tsirdukh-ERG get.up-PFV.CVB boy-PL sleep-LCV-IN.VERS girl-PL girl-PL sleep-LCV-IN.VERS boy-PL-TOP III-turn-PFV.CVB DEM1.IISG.OBL-ERG water IV-bring-TERM be-PST.UNW
+Translation: Right after Qartay went outside, Tsirdukh got up, put the girls to the place where the boys slept and the boys to the place where the girls slept, all before she brought the water.
+Sentence: Žan bisno ik’in, łˤonon užibin tełäy boɣno, kʷaxatow ečruni žek’u xizor utin ayn.
+Gloss: DEM1.SG-TOP III-take-PFV.CVB go-PFV.CVB three-TOP son-PL-TOP inside-IN.ABL I.PL-take.away-PFV.CVB quickly-EMPH old-DEF man back return-PFV.CVB come-PST.UNW
+Translation: The old man took it and went away, freed his three sons and quickly came back.

@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word k’oƛixozoƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word k’oƛixozoƛ: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Kid yet’un k’oƛin yičin, di łočyaƛ’ k’oƛixosi anuƛin.
+Gloss: girl II-jump-PFV.CVB run-PFV.CVB II-be-PFV.CVB me dance-SUPER.ESS jump-PRS.PRT be.NEG-QUOT
+Translation: The girl jumped up and was like: "I don't dance!"

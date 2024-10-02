@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: gulude.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": gulude
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word gulude:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanez gulude biħanayƛ’oräy, šidqay ƛ’iyorno kurno, ƛ’irirno bizin ža di xot’ozad łełanƛin, eƛin kidbä.
+Gloss: khan-GEN2 horse-APUD.ESS III-fight-SIM.CVB wall-POSS.ABL downwards-TOP throw-PFV.CVB above-LAT-TOP III-get.up-PFV.CVB DEM1.SG me foot-PL-INSTR trample.down-FUT.DEF-QUOT say-PST.UNW girl-ERG
+Translation: "While I am fighting next to the king's horse, I will throw it down from the street wall, get up again and trample it down with my feet
+Sentence: Xanä eƛin, Ismaʕil äxuzay soder nesiz gulude puħor ik’iłxosi žek’u oqinč’u, min hemedurtow ik’äłinč’iƛin.
+Gloss: khan-ERG say-PST.UNW Ismail die-SIM.CVB after DEM1.ISG.OBL-GEN2 horse-APUD.ESS side-AD.LAT go-POT-PRS.PRT man become-NEG.PST.WIT you-and so-EMPH go-POT-NEG.FUT-QUOT
+Translation: The king said: "Ever since Ismail died, there was no man who could go near his horse; and you won't be able to do so either."
+Sentence: Xizyo xanä q’ˤano äƛirugon hunar bukar mi däqƛin užiqor eƛin, sasaq däz gulude biħanadanix debi mi gulu baƛin.
+Gloss: afterwards khan-ERG two ORD-CNTR talent III-show you me-POSS.ESS-QUOT boy-POSS.LAT say-PST.UNW tomorrow me-GEN2 horse-APUD.ESS III-fight-MSD-AD.ESS you-GEN1 you horse III-bring.IMP-QUOT
+Translation: "Show me the second talent;", the king said to the boy afterwards, "bring your horse tomorrow in order to fight next to my horse!"
+
+Approximate Matches:
+Sentence: Hemedur Okä babiw mak’ur odin guludetow sadaq moƛ’oqˤoyn łera ʕazara łera bišomra ɣˤurušyoƛ teƛanix, dicegon užä moƛ’oqˤoy täƛnoƛin eƛinłin.
+Gloss: so Oku-ERG father persuade do-PFV.CVB horse-APUD.ESS-EMPH together bridle-TOP five.OBL thousand five.OBL hundred ruble-SUB.ESS sell-MSD-AD.ESS how.much-CNTR boy-ERG bridle sell-PROHIB-QUOT say-PST.UNW-CNC.CVB
+Translation: So Oku persuaded the father to sell him the horse together with the bridle for 5,500 rubles, no matter how much the boy told him not to sell the bridle.

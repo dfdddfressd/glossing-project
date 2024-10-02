@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yayace in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yayace: 
+
+Exact Matches
+Sentence: Elo xediwn xecin maħor oqƛ’oräy, Bilq’isdä nesiqor eƛin, deber rac’anixno, ħaƛnixno t’o ʕeziyaw šebin yoł, di yayace t’ay äk’inƛin.
+Gloss: there husband-TOP leave-PFV.CVB outside become-SIM.CVB Bilqisdi-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW you-LAT IV-eat-MSD-AD.ESS-TOP drink-DEF-AD.ESS-TOP here many thing be me II-come-TERM from.here go-PROHIB-QUOT
+Translation: She left the husband there and while she went outside, Bilqisdi said to him: "There is a lot to eat and drink for you here, do not go away until I come back!"
+Sentence: Užä ʕon rok’no bikorin bexurno boɣno kurno ik’anƛin aqru yeda, xexoyza eč’erno žedas eniw yayace t’o ičiƛin.
+Gloss: boy-ERG ax-TOP IV-hit-PFV.CVB snake-TOP III-kill-PFV.CVB III-take.away-PFV.CVB throw-PFV.CVB go-FUT.CVB-QUOT become-PST.PRT DEM2.ISG young.animal-PL-ERG stop-PFV.CVB DEM1.IIPL.OBL-GEN1 mother II-come-TERM there wait-QUOT
+Translation: The boy struck his ax, killed the snake, took it and threw it away and thought of going, but the chicks stopped him until their mother would come.
+
+Approximate Matches:
+Sentence: Sis beže hibon bisno ʕAt’id aw bayace ezun ičin.
+Gloss: one III-big stick-TOP III-take-PFV.CVB Atid mouse III-come-TERM look-PFV.CVB wait-PST.UNW
+Translation: Atid took a big stick and waited until the mouse came.
+Sentence: Nełaƛ’osi ža ħal bukayn, yeda bełiqan tupin risno t’omceni žek’u ayace iqˤin ičin.
+Gloss: DEM1.IISG.OBL-SUPER.ESS-ATTR DEM1.SG condition III-see-PFV.CVB DEM2.ISG hunter rifle-TOP IV-take-PFV.CVB span-EQU1-DEF man come-TERM watch-PFV.CVB wait-PST.UNW
+Translation: The hunter saw the condition upon her, took his rifle and waited and watched until the span-sized man came.
+Sentence: Butnoƛ’ pun bok’no äčiru žek’ur bazarganbi igoxxo bukayruntow, q’ecno rutirno, nełaƛ’ ƛ’iri k’ukno eqerno, yizi bayace butnoƛ’ puƛ’orno c’oxno, k’ukyoƛ’or ezun ičin.
+Gloss: burka-SUPER.ESS side-TOP III-hit-PFV.CVB be-PST.PRT man-LAT merchant-PL approach-IPFV.CVB I.PL-see-IMM.ANT.CVB-EMPH dirt-TOP IV-gather-PFV.CVB DEM1.IISG.OBL-SUPER.ESS above cap-TOP put-PFV.CVB DEM2.IPL I.PL-come-TERM burka-SUPER.ESS side-SUPER.LAT-TOP hit-PFV.CVB cap-SUPER.LAT look-PFV.CVB wait-PST.UNW
+Translation: When the person lying on his burka saw the merchants approaching, he collected dirt, put a cap over it and lied down on the burka again until they came; then he waited watching his cap.

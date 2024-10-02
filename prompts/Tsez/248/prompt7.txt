@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ruhun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ruhun: 
+
+Exact Matches
+Sentence: Xizyogon hemesitow bečedawni žek’a naysinan xabar begirno, dey kid yeynodaniƛ’or ruhun yayru žek’ux yegira yołƛin.
+Gloss: then DEM4.ISG.OBL-EMPH wealthy-DEF man-ERG everywhere story III-let-PFV.CVB me-GEN1 daughter II-work-MSD-SUPER.LAT teach II-do-PST.PRT man-AD.ESS II-send-INF be-QUOT
+Translation: Then that very same rich man spread the story everywhere, that he would marry his daughter off to the man who would teach her how to work.
+Sentence: Yisä pikru bodin, didiwgon boqłin sida maxšelyoƛ’or ečula ʕUmar ruhun oqanix t’et’ra ižanƛin.
+Gloss: DEM2.ISG.OBL-ERG idea III-do-PFV.CVB which-CNTR III-become-CNC.CVB one.OBL skill-SUPER.LAT grandchild Umar learn become-MSD-AD.ESS learn-INF lead-FUT.DEF-QUOT
+Translation: He thought: "I'll lead my grandson Umar to learn so he can learn at least one skill."
+Sentence: Zamanałäy yisider sid miskinaw haq’us užä ayn eƛin, däq regirnäy, žedu di reynodanix ruhun rodanƛin.
+Gloss: time-CONT.ABL DEM2.ISG.OBL-APUD.LAT one.OBL poor family-GEN1 boy-ERG come-PFV.CVB say-PFV.CVB me-POSS.ESS III.PL-send-CND.CVB DEM1.IPL me III.PL-work-MSD-AD.ESS teach III.PL-do-FUT.DEF-QUOT
+Translation: After a while, a boy from a poor family came to him and said: "If you send them to me, I'll teach them how to work."
+
+Approximate Matches:

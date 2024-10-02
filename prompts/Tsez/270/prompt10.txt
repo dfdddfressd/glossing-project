@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word t’umi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word t’umi: 
+
+Exact Matches
+Sentence: Q’ˤimzo ʕaƛar ža t’umi baynosi, akä q’ˤida yäčiru sida kidbez koyä heqno.
+Gloss: oneself-GEN2 village-IN.LAT DEM1.SG pigeon III-come-ANT.CVB window-IN.ESS under II-sit-PST.PRT one.OBL girl-GEN2 hand-IN.ESS sit.down-PST.UNW
+Translation: When the pigeon had come to its own village, it sat down in the hand of a girl who was sitting under a window.
+Sentence: Xanä žedu t’umbi łˤora ɣudi quqan xecin rišerƛ’oräy, aqugani bišno łiyace gulučini t’umi šet’u butix bičin.
+Gloss: khan-ERG DEM1.IPL pigeon-PL three.OBL day hungry-TOP leave-PFV.CVB III.PL-eat-CAUS-SIM.CVB female-ATTR-DEF III-eat-PFV.CVB end-TERM male-DEF pigeon around III-turn-IPFV.CVB III-be-PST.UNW
+Translation: The king left those pigeons hungry for three days, and when he fed them, the male one turned around until the female one had finished eating.
+Sentence: Xizyo t’umi maqiz muhuzaƛ’or butin, onočaƛ’orgon Okun utin.
+Gloss: afterwards pigeon barley-GEN2 granule-PL-SUPER.LAT III-turn-PFV.CVB hen-SUPER.LAT-CNTR Oku-TOP turn-PST.UNW
+Translation: Then, the pigeon turned into barley grains and Oku turned into a hen.
+
+Approximate Matches:
+Sentence: Žałäy t’umin boqno, kidbägon akin raɣˤin begirno.
+Gloss: boy-CONT.ABL pigeon-TOP III-become-PFV.CVB girl-ERG-CNTR window-TOP IV-open-PFV.CVB III-let-PST.UNW
+Translation: The boy became a pigeon again, and the girl opened the window and let it out.
+Sentence: Neła t’umiqay bˤaƛ’uru ħuli babiwz k’ukyoł boqun, miƛ’iłäy räšruni mesedyosnigon his ħamarno čˤaƛin esirno, baba, req’ezi roqxaƛin.
+Gloss: DEM1.IISG.OBL pigeon-POSS.ABL III-fall-PST.PRT feather father-GEN2 cap-CONT.ESS III-stick-PFV.CVB ram-CONT.ABL IV-fall-PST.PRT-DEF gold-GEN1-DEF-CNTR spring.wool chest-IN.LAT-TOP throw-PFV.CVB ask-PFV.CVB daddy approach IV-become-PRS-Q-QUOT
+Translation: She put the feather that fell from that pigeon onto her father's hat, and threw the golden whool that fell from the ram onto the chest and asked: "Daddy, does it fit?"
+Sentence: Maħor k’aƛirun, yisir bukayn gulu t’umiƛ’orno butin boržizi boqno hawaƛ’ boxix.
+Gloss: outside run-IMM.ANT.CVB DEM2.ISG.OBL-LAT III-see-PFV.CVB horse pigeon-SUPER.LAT-TOP III-turn-PFV.CVB fly III-become-PFV.CVB air-SUPER.ESS III-run.away-IPFV.CVB
+Translation: As soon as he ran outside, he saw the horse had turned into a pigeon and was flying away in the air.

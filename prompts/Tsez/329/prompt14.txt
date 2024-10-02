@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esnaza in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esnaza: 
+
+Exact Matches
+Sentence: Guħƛ’orno bizin, łˤoran esnaza kurno c’eruc’a.
+Gloss: hill-SUPER.LAT-TOP I.PL-get.up-PFV.CVB three.OBL-TOP brother-PL-ERG throw-PST.UNW bow
+Translation: The three brothers climbed up the hill and shot with their bows.
+Sentence: Radiru rigłin riynč’ey, bežet’ani esnaza daʕba bodin, hič’č’a bercinaw kid deber šida yiča yayxƛin.
+Gloss: IV-do-PST.PRT IV-good-CNC.CVB IV-know-NEG.PST.CVB I.PL-old-DISTR-DEF brother-PL-ERG dispute III-do-PFV.CVB the.most beautiful girl you-LAT why II-be-INF II-must-PRS-QUOT
+Translation: The other brothers didn't know what good he had done, and began to argue: "Why must the most beautiful girl be for you?"
+Sentence: Howlay bik’in idur baynosi, bertenno bodin, esnaza žeda žedus esiw Ismaʕilxo yegirno.
+Gloss: from.there I.PL-go-PFV.CVB home-LAT I.PL-come-ANT.CVB marriage-TOP III-do-PFV.CVB brother-PL-ERG DEM1.IPL.OBL-ERG DEM1.IPL.OBL-GEN1 sister Ismail-AD.ESS II-send-PST.UNW
+Translation: From there they went home and arranged the marriage and the brothers married off their own sister to Ismail.
+
+Approximate Matches:
+Sentence: Eženi esiya beɣet’ani esnazaqor eƛin:
+Gloss: old-DEF brother-ERG I.PL-young-DISTR-DEF brother-PL-POSS.LAT say-PST.UNW
+Translation: The eldest brother said to his younger brothers:
+Sentence: Sidaquł yiła esnazaqor eƛin:
+Gloss: one.day DEM2.IISG.OBL-ERG brother-PL-POSS.LAT say-PST.UNW
+Translation: One day, she said to her brothers:
+Sentence: Salamno teƛno, yisä esnazaq esirno, šida meži boɣnoyxƛin.
+Gloss: greeting-TOP give-PFV.CVB DEM2.ISG.OBL-ERG brother-PL-POSS.ESS ask-PST.UNW why you.PL I.PL-argue-PRS-QUOT
+Translation: He greeted and asked the brothers: "Why are you arguing?"

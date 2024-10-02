@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Nediw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Nediw: 
+
+Exact Matches
+Sentence: Howžäy soder nediw šebin radinƛin, reƛ’an ozzaq riħin č’uran rukarerno, Bilq’isdä ža maħor egirno.
+Gloss: now-IN.ABL after such thing IV-do-PROHIB-QUOT hand-TOP eye-PL-POSS.ESS IV-smear-PFV.CVB light-TOP IV-show-CAUS-PFV.CVB Bilqisdi-ERG DEM1.SG outside send-PST.UNW
+Translation: "From now on, don't do such things anymore!", Bilqisdi put her hands onto his eyes, gave him back his eyelight and sent him outside.
+Sentence: Tawadä Ražbadin bužzi odin, nediw ħalikataw šebin debeł teł roda dey pikrukin zownč’u, rodäsin anuƛin.
+Gloss: Tavadi-ERG Razhbadin convince do-PFV.CVB such mean thing you-CONT.ESS inside IV-do-INF me-GEN1 idea-even be.NPRS-NEG.PST.WIT IV-do-RES.PRT-TOP be.NEG-QUOT
+Translation: Tavadi convinced Razhbadin: "I would not have he idea to do such a mean thing to you, I haven't done anything."
+Sentence: ʕAƛoz ɣˤanaza nediw šebin radinč’iƛin, eƛin xanä.
+Gloss: village-GEN2 woman-ERG such thing IV-do-NEG.FUT-QUOT say-PST.UNW khan-ERG
+Translation: "The village's woman wouldn't do such a thing," said the king.
+
+Approximate Matches:
+Sentence: Žedu bužzi boqnoanu, mi iłeni łaciraqa xanes kidbabi rawnč’i, nediwt’a gulubi yołi nay deber riqixƛin.
+Gloss: DEM1.IPL believe I.PL-become-PFV.CVB-NEG you as-DEF light.headed.person-ERG khan-GEN1 daughter-PL II.PL-bring-NEG.FUT such-DISTR horse-PL however from.where you-LAT IV-get-PRS-QUOT
+Translation: They didn't believe him: "A light-headed person like you wouldn't bring the king's daughters, however, where did you get such horses from?"

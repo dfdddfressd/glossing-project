@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: becä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": becä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word becä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Kid yukaynosi, eniw haganiłno ƛexun, becä žedzox yičix zawru kid nece bercinaw yałru nełar howži gurow riynč’izaƛ’.
+Gloss: girl II-see-ANT.CVB mother be.amazed-PFV.CVB remain-PFV.CVB month-IN.ESS DEM1.IIPL.OBL-GEN2-AD.ESS II-live-IPFV.CVB be.NPRS-PST.PRT girl so.much beautiful be-PST.PRT DEM1.IISG.OBL-LAT now except IV-know-NEG.FUT-CSL.CVB
+Translation: Having seen the girl, the mother was amazed that the girl was living with them for one month and because she only now noticed how beautiful the girl was.
+
+Approximate Matches:

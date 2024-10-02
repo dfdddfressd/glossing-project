@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rayrxo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rayrxo: 
+
+Exact Matches
+Sentence: Netintow mamalayä at’iwt’a qaca rayrxo zown, nełaqgon c’i era onočar isałxo zown.
+Gloss: always-EMPH rooster-ERG wet-DISTR firewood IV-bring-IPFV.CVB be.NPRS-PST.UNW DEM1.IISG.OBL-POSS.ESS-CNTR fire put-INF hen-LAT be.difficult-IPFV.CVB be.NPRS-PST.UNW
+Translation: The rooster always brought wet firewood, and it was difficult for the hen to light a fire with it.
+Sentence: Ruy neł best’al eniya yiła kidbeƛ’ ʕuraw ɣudi rayrxo zown, c’ik’iw iduzasin, maħasin ħalt’i neła best’al kidbeƛ’or kurno xecix zown.
+Gloss: IV-just DEM1.IISG.OBL step mother-ERG DEM2.IISG.OBL girl-SUPER.ESS many day IV-bring-IPFV.CVB be.NPRS-PFV.CVB entire home-PL-ATTR-TOP outside-ATTR-TOP work DEM1.IISG.OBL-ERG step daughter-SUPER.LAT throw-PFV.CVB leave-IPFV.CVB be.NPRS-PST.UNW
+Translation: But the stepmother tortured the girl many days and threw all the work in the house and outside onto her stepdaughter.
+Sentence: Nełƛ’ay soder žedur žedu bič’zin boqno, t’ok’ow mamalay iħuxor łoħroderno bik’ix zown anu, netin quqäsi gurow qacan rayrxo zown anu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after DEM1.IPL.OBL-LAT DEM1.IPL.OBL understand-TOP III-become-PFV.CVB anymore rooster river-AD.LAT frog-APUD.LAT-TOP III-go-IPFV.CVB be.NPRS-PFV.CVB be.NEG always dry except firewood-TOP IV-bring-IPFV.CVB be.NPRS-PFV.CVB be.NEG
+Translation: After that, they understood each other, the rooster didn't go to the frog at the river anymore and always brought dry firewood only.
+
+Approximate Matches:
+Sentence: Best’al eniya nełaƛ’ rayrxosi ɣudin q’urƛ’or rizin, kidbä ħukmu boyn, eniwsni bašiqˤoyn nełqay riqirno, yoxanixƛin.
+Gloss: step mother-ERG DEM1.IISG.OBL-SUPER.ESS IV-bring-PRS.PRT day-TOP throat-SUPER.LAT IV-get-PFV.CVB girl-ERG decision III-do-PFV.CVB mother-GEN1-DEF ring-TOP DEM1.IISG.OBL-POSS.ABL IV-take.away-PFV.CVB II-run.away-MSD-AD.ESS-QUOT
+Translation: The fact that the stepmother bothered her so much went on her nerves and she decided to take her mother's ring away from her in order to run away.

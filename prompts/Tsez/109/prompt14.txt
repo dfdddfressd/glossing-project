@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eniwqor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eniwqor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eniwqor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Idurno ik’in, kidno yukarno užä eniwqor eƛin, eni, deber kumakyor di kid yowsƛin.
+Gloss: home-LAT-TOP go-PFV.CVB girl-TOP II-show-PFV.CVB boy-ERG mother-POSS.LAT say-PFV.CVB mother you-LAT help-LAT me girl II-bring-PST.WIT-QUOT
+Translation: When he went home, he showed the girl to his mother and saying: "Mother, I brought this girl for helping you."
+Sentence: Yeɣeni kidbeq esirnosi yołi, deber rätiru zamanał mi äƛiru šebin roda ħaduraw di yołƛin, eniwqor eƛin.
+Gloss: II-young-DEF daughter-POSS.ESS ask-ANT.CVB however you-LAT IV-want-PST.PRT time-CONT.ESS you say-PST.PRT thing IV-do-INF prepared me be-QUOT mother-POSS.LAT say-PST.UNW
+Translation: When she asked the youngest daughter, she said to her mother: "I'm ready to do whatever you say, whenever you want."
+Sentence: Howlotow eniwqor xabarno boƛik’no, žan razi yoyn, zamanałäygon kidbeqay rožin riqirno, nełƛ’osi kʷaxatow bertenno boyn, aħozä ža kidno yown.
+Gloss: there-EMPH mother-POSS.LAT story-TOP III-push.out-PFV.CVB DEM1.SG-TOP accept II-do-PFV.CVB time-CONT.ABL-CNTR girl-POSS.ABL word-TOP IV-take.away-PFV.CVB of.that.time soon-EMPH marriage-TOP III-do-PFV.CVB shepherd-ERG DEM1.SG girl-TOP II-marry-PST.UNW
+Translation: Right there he started talking to the mother, she accepted it, and after some time he took her word and soon after that they celebrated the wedding and the shepherd married that girl.
+
+Approximate Matches:
+Sentence: Eniwqorno hemedurtow, esa k’ʷeze yaqinč’i däqƛin ičin.
+Gloss: mother-POSS.LAT-TOP so-EMPH tell-INF can II-become-NEG.FUT me-POSS.ESS-QUOT be-PST.UNW
+Translation: To his mother he was the same: "I cannot tell you."

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ilin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ilin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ilin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elo tełäzay zurmasno, q’ilisno sas teqxo zown.
+Gloss: there inside-IN.ABL.DIST zurna-GEN1-and drum-GEN1-and noise hear-GER be.NPRS-PST.UNW
+Translation: There they heard the noise of a zurna and a drum from inside.
+Sentence: C’odorawni esiya ʕantawni esiw ukrun, micxirno rasada q’ilimoł xizay dibirder egirno.
+Gloss: clever-DEF brother-ERG stupid-DEF brother silver-and money-and III.PL-measure-INF qili-CONT.ESS behind mullah-APUD.LAT send-PST.UNW
+Translation: The clever brother sent his stupid brother to the mullah for qilis to measure the amount of silver and money.
+Sentence: Xander ik’a adäza, babiya užiqor eƛin, howži roda šebin anu, dey uži, mi eƛo xanqor mesedyos bic’no q’ili neƛnäy, guluzaz reqenyołäy sis bigu gulu łet’an egirnäy, di neła kidbeł xizay ik’anƛin.
+Gloss: khan-APUD.LAT go-INF before father-ERG son-POSS.LAT say-PST.UNW now IV-do-INF thing be.NEG me-GEN1 son you say-IMPR khan-POSS.LAT gold-GEN1 III-fill-PFV.CVB qili give-CND.CVB horse-PL-GEN2 herd-CONT.ABL one III-good horse pick-FUT.CVB let-CND.CVB me DEM1.IISG.OBL girl-CONT.ESS behind go-FUT.DEF-QUOT
+Translation: Before going to the king, the father said to the son, "Now there's nothing one can do, my son, say to the king, 'If you give me a qili filled with gold and if you let me pick a good horse from the herd, I will go behind that girl'!"

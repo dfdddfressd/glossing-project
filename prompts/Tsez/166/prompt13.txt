@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nełar.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nełar
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nełar:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bertenyoł šeƛ’anix baħarčis šeƛ’ureł xizay yiłagon q’orolay yegirno, neła nełas šeƛ’un nełar xecin.
+Gloss: marriage-CONT.ESS put.on-MSD-AD.ESS brave.young.man-GEN1 clothing-CONT.ESS behind DEM2.IISG.OBL-ERG-CNTR widow II-let-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 put.on-PST.UNW DEM1.IISG.OBL-LAT leave-PST.UNW
+Translation: In order to dress up for the marriage, she let the widow look after young men's clothings and left her own clothes with her.
+Sentence: Ela nełar naʕanan bodač’in, nocun caƛač’in, ža sadaq anusi eli debez ɣˤutka tełxorkin buyn baqinč’iƛin, Beqes ʕUneyzat yičin.
+Gloss: we(I).OBL-ERG DEM1.IISG.OBL-LAT curse-and III-do-NEG.FUT.DEF saliva-and shoot.with-NEG.FUT.DEF DEM1.SG together be.NEG-ATTR we you-GEN2 house-IN.ESS inside-AD.LAT-even I.PL-indeed-TOP I.PL-become-NEG.FUT-QUOT sun-GEN1 Uneyzat II-remain-PST.UNW
+Translation: "We will neither curse her, nor spit on her, and we will not even get into your house without her!", Sun's Uneyzat insisted.
+Sentence: K’ox eƛa yawruni barur best’al kid yetix zownanu, neła nełar urɣizi boda ħilla xecix zownanu, nełdäy yet’u-t’it’iran yetin.
+Gloss: twice say-INF II-marry-PST.PRT-DEF wife-LAT step daughter II-like-IPFV.CVB be.NPRS-PFV.CVB-NEG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-LAT thinking III-do-INF trickery leave-IPFV.CVB be.NPRS-PFV.CVB-NEG DEM1.IISG.OBL-APUD.ABL II-get.rid-FUT.CVB II-want-PST.UNW
+Translation: His second wife didn't like her step-daughter, she didn't leave out any tricks to think about and wanted to get rid of her.
+
+Approximate Matches:
+Sentence: Xexzaqno ħaƛurno, nełarno teƛno yeda uyrax äƛirugon łi ric’a ik’in.
+Gloss: child-POSS.ESS-TOP drink-CAUS-PFV.CVB DEM1.IISG.OBL-LAT-TOP give-PFV.CVB DEM2.ISG four-ADV ORD-CNTR water IV-fill-INF go-PST.UNW
+Translation: He gave the child to drink, and he went to give her water for the fourth time.
+Sentence: Sis nełarno kurno siskin där ƛexandaƛin, aɣzo rok’ƛ’orno rayn, dicego rok’er zaħmat roqłin, zirur sis xexoy kurno.
+Gloss: one DEM1.IISG.OBL-LAT-TOP throw-PFV.CVB anything me-LAT remain-FUT.DEF-COND-QUOT bird-ATTR.OBL heart-SUPER.LAT-TOP IV-come-PFV.CVB how.much-COND heart-LAT trouble IV-become-CNC.CVB fox-LAT one young.animal throw-PST.UNW
+Translation: "Throwing one down, there will still remain one for me.", thought the bird and although it was difficult, it threw one nestling to the fox.

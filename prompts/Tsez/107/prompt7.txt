@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: maħor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": maħor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word maħor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Eniya äƛiru rožbin rok’er ʕeze roqinč’ey, eženi užä eniwq q’ˤano magalun hunixor ererno, iday maħor oqno.
+Gloss: mother-ERG say-PST.PRT word-PL-TOP heart-LAT be.enough IV.PL-become-NEG.PST.CVB old-DEF son-ERG mother-POSS.ESS two bread-TOP way-AD.LAT put-CAUS-PFV.CVB home-IN.ABL outside become-PST.UNW
+Translation: The words that the mother had spoken didn't please his heart enough, so the oldest son let the mother give two breads to him for the way and left the home.
+Sentence: Ža xabar yisä aħyaxorkin begirnoanu, baru yowač’inƛin di hedizi oqäsiƛin, t’ok’ow ža xabar meža haqazay maħor baɣnoƛin.
+Gloss: DEM1.SG story DEM2.ISG.OBL-ERG ear-AD.LAT-even III-let-PFV.CVB-NEG wife II-marry-NEG.FUT.DEF-QUOT me swear become-RES.PRT-QUOT anymore DEM1.SG story you(I).PL.OBL-ERG mouth-IN.ABL.DIST outside III-take.away-PROHIB-QUOT
+Translation: These words he didn't let to his ears, "I won't marry another wife!"... "I swear!"... "Don't say that anymore!",
+
+Approximate Matches:
+Sentence: Sasaqozox žarno yiynč’ey maħorno yoqno, q’orola žaz babiwq esin nesiƛ’ yałru q’ʷariłiłäy.
+Gloss: early.morning boy-LAT-TOP II-know-NEG.PST.UNW outside-TOP II-become-PFV.CVB widowed boy-GEN2 father-POSS.ESS tell-PFV.CVB DEM1.ISG.OBL-SUPER.ESS be-PST.PRT sadness-CONT.ABL
+Translation: In the morning, she secretly went outside; the widow told the boy's father of the sadness that was on him.
+Sentence: Neła harizi rodin, habsaʕat maħorno yoqno yayan diƛin.
+Gloss: DEM1.IISG.OBL-ERG request IV-do-PST.UNW now outside-TOP II-become-PFV.CVB II-come-FUT.DEF me-QUOT
+Translation: She pleaded: "I'll get outside and come back!"
+Sentence: Walla xan, di ša bodanix k’udi q’uq’iƛ’orey, elo šet’u butäsi hadambi boqzaƛ’, aqˤu kuča maħorno oqa iynč’ey howlo tełer kučis.
+Gloss: wallah khan me wine III-do-MSD-AD.ESS vine press.out-SIM.CVB there around III-turn.back-RES.PRT people III-happen-CSL.CVB urine defecate-INF outside-TOP become-INF know-NEG.PST.UNW there into defecate-PST.WIT
+Translation: "By God, o king, while I was pressing out the grapes to make the wine, there were people who were walking around there and without me knowing took a piss in there."

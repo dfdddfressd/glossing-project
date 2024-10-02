@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zamanaƛ’or in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zamanaƛ’or: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Zira bigza ħalał ƛ’en bagin, zamanaƛ’azay xexoybin roɣno.
+Gloss: fox-ERG III-very-ZA condition-CONT.ESS malt-TOP III-lick-PFV.CVB time-SUPER.ABL.DIST young.animal-PL-TOP III.PL-hatch-PST.UNW
+Translation: The fox licked enough malt and after some time, it got youngs.
+Sentence: Sida zamanaƛ’aza ʕArabuzanƛin eƛixosi ɣˤanabi yayn, didiw žek’a ža dey simildi rac’xoƛin.
+Gloss: one.OBL time-SUPER.VERS.DIST Arabuzan-QUOT say-PRS.PRT woman II-come-PST.UNW which man-ERG DEM1.SG me-GEN1 maize IV-eat-PRS-QUOT
+Translation: After some time, a woman named Arabuzan came: "What man is eating my corn?!"

@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕIsaqiličƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕIsaqiličƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nesiƛ’ cigon ʕUmarqiličƛin zown.
+Gloss: DEM1.ISG.OBL-SUPER.ESS name-CNTR Umarqilich-QUOT be.NPRS-PST.UNW
+Translation: His name was Umarqilich.

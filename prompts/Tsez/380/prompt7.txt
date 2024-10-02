@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xaliča in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xaliča: 
+
+Exact Matches
+Sentence: Reɣeni xaliča räqiruni nukarertow biqin beɣeni magalun.
+Gloss: IV-small-DEF mat IV-get-PST.PRT-DEF henchman-LAT-EMPH III-get-PST.UNW III-small-DEF bread-and
+Translation: And the henchman who got the small mat also got the small bread.
+Sentence: Sasaqosi xanqo esin, sis xaliča dahaw k’ot’ono riłe yołƛin.
+Gloss: in.the.morning khan-POSS.ESS tell-PST.UNW one mat a.little short IV-as be-QUOT
+Translation: In the morning they told the king: "One mat is a little shorter."
+
+Approximate Matches:
+Sentence: Yeženi esiya eƛin, hisos ric’no urgu däqor neƛnäy, nazon debez nukarzaz guluzaƛ’ ƛ’iri kuranix xaličabi rišan diƛin.
+Gloss: II-old-DEF sister-ERG say-PST.UNW spring.wool-GEN1 IV-fill-PFV.CVB sack me-POSS.LAT give-CND.CVB all.OBL-TOP you-GEN2 henchman-PL-GEN2 horse-PL-SUPER.ESS on spread.out-MSD-AD.ESS mat-PL IV.PL-weave-FUT.DEF me-QUOT
+Translation: The oldest sister said: "If you fill a sack with wool and give it to me, I will weave mats to put on all the horses of your henchmen."
+Sentence: Sidä his xuxix zown, sis ek’anił c’oxno, ɣoq’ˤot’aniza butnin, xaličabin rodin.
+Gloss: one.OBL-ERG spring.wool comb-IPFV.CVB be.NPRS-PFV.CVB one spin-MSD-CONT.ESS hit-PFV.CVB other-DISTR-DEF-PL-ERG burka-and mat-PL-and IV-do-PST.UNW
+Translation: One was combing the wool, one was hitting it to spin, the others made the burka and mats.
+Sentence: Žedu nasin maħor boqnosi, reɣeni xaličan, beɣeni magalun bäqiruni nukarä xizyo yałruxor esin, anƛ’ima baħna-bik’inkin räqinč’iru eluq reƛ, hemesi dowzoniƛ’aygon rigu ɣˤutku yałruni užä neƛsi, debi xexbikin besač’iney žeduƛin.
+Gloss: DEM1.IPL all outside I.PL-become-ANT.CVB IV-small-DEF mat-and III-small-DEF bread-and I.PL-get-PST.PRT-DEF henchman-ERG afterwards be-PST.PRT-AD.LAT tell-PFV.CVB week-IN.ESS I.PL-walk.for.a.while-PFV.CVB-even IV-get-NEG.FUT.CVB-PST.PRT we(I).OBL-POSS.ESS meat DEM4.ISG.OBL you-GEN2-DEF-SUPER.ABL-CNTR IV-pretty house be-PST.PRT-DEF boy-ERG give-PST.WIT you-GEN1 children-even I.PL-exist-NEG.FUT.DEF-DUB DEM1.IPL-QUOT
+Translation: After they all went outside, the henchman who got the small mat and the small bread afterwards told him: "We were walking for a week and this boy with the house even prettier than yours gave us the meat that we didn't get; they even might be your children."

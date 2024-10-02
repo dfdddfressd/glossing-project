@@ -1,0 +1,72 @@
+{
+  "word": "Ža",
+  "glosses": [
+    "DEM1.SG",
+    "that.SG",
+    "DEM1.ISG.OBL"
+  ]
+}
+{
+  "word": "uži",
+  "glosses": [
+    "one",
+    "single",
+    "boy"
+  ]
+}
+{
+  "word": "esarus",
+  "glosses": [
+    "boy",
+    "give.PST",
+    "big"
+  ]
+}
+{
+  "word": "aħozir",
+  "glosses": [
+    "shepherd-POSS.LAT",
+    "shepherd-POSS.LAT",
+    "shepherd-POSS.LAT"
+  ]
+}
+{
+  "word": "ixiw",
+  "glosses": [
+    "big",
+    "large",
+    "grand"
+  ]
+}
+{
+  "word": "sayɣatno",
+  "glosses": [
+    "say-PFV.CVB",
+    "give-PST.PRT",
+    "present-TOP"
+  ]
+}
+{
+  "word": "bodin",
+  "glosses": [
+    "III-do-PST.UNW",
+    "III-do-PFV.CVB",
+    "III-do-MSD-AD.ESS"
+  ]
+}
+{
+  "word": "egirno",
+  "glosses": [
+    "let-PFV.CVB",
+    "send-PFV.CVB",
+    "give-FUT.DEF-QUOT"
+  ]
+}
+{
+  "word": "xizor",
+  "glosses": [
+    "back",
+    "return-PFV.CVB",
+    "come back"
+  ]
+}

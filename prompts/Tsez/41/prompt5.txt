@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: č’aq’ˤinč’uƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": č’aq’ˤinč’uƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word č’aq’ˤinč’uƛin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ƛ’iri bičin onoča muhubin rut’in, siskin t’ok’ow muhu xecinč’uƛin rok’u č’odinosi, onoču akäza maħorno k’oƛin boržizin boqno bik’in.
+Gloss: above III-be-PFV.CVB hen-ERG granule-PL-TOP III.PL-collect-PFV.CVB any anymore granule leave-NEG.PST.WIT-QUOT heart get.tight-ANT.CVB hen window-IN.VERS.DIST outside-TOP jump-PFV.CVB fly-TOP III-become-PFV.CVB III-go-PST.UNW
+Translation: The hen tried hard and pecked up all grains, and after making sure that it didn't left out any grain, the hen jumped out of the window and flew away.
+Sentence: Yeženi kidbä, din yegir yiłde sadaq hunin regirnoƛin, eniwq esirnosi, yegirzaƛ’ šida yik’inč’uƛin bixzin yoqno eƛin.
+Gloss: II-old-DEF daughter-ERG me-TOP II-let DEM2.IISG.OBL-APUD.ESS together way-TOP IV-send-PFV.CVB-QUOT mother-POSS.ESS ask-ANT.CVB II-let-CSL.CVB why II-go-NEG.PST.WIT-QUOT angry-TOP II-become-PFV.CVB say-PST.UNW
+Translation: When the eldest daughter asked her mother: "Let me go with her together so I can see her off!", and the mother angrily said: "Why didn't you go when I let you?"
+Sentence: Dahawgon q’ʷarid oqno uži, yedu šebi däq roqä, šida di ceyq ʕenekizi oqinč’uƛin.
+Gloss: a.little-CNTR sadness become-PFV.CVB boy DEM2.IISG what me-POSS.ESS IV-happen-PST.WIT.INT why me eagle-POSS.ESS listen become-NEG.PST.WIT-QUOT
+Translation: The boy became a little sad, [saying:] "What happened to me; why didn't I listen to the eagle?"

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word daʕbałäy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word daʕbałäy: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Užizar ža xabarno teqno, žedu daʕbałer begin, di ik’ixƛin Ħasan, ay di ik’ixƛin Ħusen.
+Gloss: boy-PL-LAT DEM1.SG story-TOP hear-PFV.CVB DEM1.IPL dispute-CONT.LAT I.PL-go.into-PST.UNW me go-PRS-QUOT Hassan must me go-PRS-QUOT Hussein
+Translation: When the boys heard that, they started a dispute: "I am going!", said Hassan; "No, I am going!" said Hussein.
+Sentence: Elo yisir zirun, zeyn besun daʕbał gulun, ħurženyabin, dabaɣyołäy bodalini k’ukno riłu rodin žeda žeduƛ’ rułira koƛ’inč’ey ƛexasi.
+Gloss: there DEM2.ISG.OBL-LAT fox-and bear-and III-find-PFV.CVB dispute-CONT.ESS horse-and bag-PL-TOP leather-CONT.ABL III-do-ATTR-DEF cap-and equality IV-do-PFV.CVB DEM1.IPL.OBL-ERG DEM1.IPL.OBL-SUPER.ESS IV-share-INF understand.to-NEG.PST.CVB remain-RES.PRT
+Translation: There he found a fox and a bear arguing, as they didn't know how to share among them a horse, bags and a cap made of leather equally.

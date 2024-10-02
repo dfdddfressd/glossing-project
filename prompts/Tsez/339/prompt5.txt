@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word baɣma in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word baɣma: 
+
+Exact Matches
+Sentence: Žoyä eƛin, däz baɣma mesedyos heneš boqxosi sis ɣun yoł.
+Gloss: boy-ERG say-PFV.CVB me-GEN2 garden gold-GEN1 apple III-happen-PRS-ATTR one tree be
+Translation: The boy said, "There is a tree with golden apples in my garden.
+Sentence: Nełƛ’ay soder xanez baɣma ɣunoq boqxosini mesedyos heneš łukin bok’ek’xo zown anu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after khan-GEN2 garden tree-POSS.ESS III-happen-PRS.PRT-DEF gold-GEN1 apple who.ERG-even III-steal-PRS be.NPRS-PFV.CVB be.NEG
+Translation: After that nobody stole the golden apples growing in the khan's garden.
+
+Approximate Matches:
+Sentence: Sida bečedaw žek’uderno ik’in, nesiz k’udoz baɣman eynoyn, micxirno bodin, bižin babiwqor teƛno.
+Gloss: one.OBL wealthy man-APUD.LAT-TOP go-PFV.CVB DEM1.ISG.OBL-GEN2 vine-GEN2 garden-IN.ESS-TOP work-PFV.CVB money-TOP III-do-PFV.CVB III-carry-PFV.CVB father-POSS.LAT give-PST.UNW
+Translation: He went to a wealthy man, worked on his vineyard, earned money and carried it to give it to his father.
+Sentence: Akbar roɣno łäyrun, bayn sida ceyä iqirno ižin di maqˤi mečoƛ’ sida c’aq’ bercinaw baɣmar kursi.
+Gloss: call.for.prayer IV-take.away-PFV.CVB end-IMM.ANT.CVB III-come-PFV.CVB one.OBL eagle-ERG take.away-PFV.CVB take.out-PFV.CVB me far.away place-SUPER.ESS one.OBL very beautiful garden-LAT throw-ATTR
+Translation: At the end of my call for the prayer, an eagle came and took me away to a far place and threw me into a very beautiful garden.
+Sentence: Sasaqosi elo baɣmaz egin ik’ix zawru žek’uqor yisi doxturä eƛin, mi äƛiruce mesed neƛan deber di, där šeƛ’un rown mi nexnäyƛin.
+Gloss: in.the.morning there garden.OBL-IN.ESS.DIST go.through-PFV.CVB go-PRS be.NPRS-PST.PRT man-POSS.LAT DEM2.ISG.OBL doctor-ERG say-PFV.CVB you say-PST.PRT-EQU1 gold give-FUT.DEF you-LAT me me-LAT clothing-TOP IV-bring-PFV.CVB you come-CND.CVB-QUOT
+Translation: In the morning the doctor said to the man passing through the garden, "If you will bring me clothing, I will give you as much gold as you say."

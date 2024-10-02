@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word becin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word becin: 
+
+Exact Matches
+Sentence: Hemełƛ’o guluƛay dahaw bero becin bik’in.
+Gloss: DEM4.IISG.OBL-SUPER.ESS horse-SUB.ABL a.little ice III-thaw-PFV.CVB III-go-PST.UNW
+Translation: After that, a little ice thawed away from the horse.
+
+Approximate Matches:
+Sentence: Howžäy soder łˤora becider xanez kidbedäɣor ezäɣor di iziłinč’inäy, nesä dey meč’ beč’xosiƛin.
+Gloss: now-IN.ABL after three.OBL month-APUD.LAT khan-GEN2 daughter-APUD.VERS fortress-IN.VERS me get.up-POT-NEG.FUT.CVB-CND.CVB DEM1.ISG.OBL-ERG me-GEN1 neck III-cut-PRS.PRT-QUOT
+Translation: In three months after now, if I won't get up into the fortress to the king's daughter, he is going to cut off my neck."
+Sentence: Howži hudu xanä nesiqor eƛin, nedur resunäy, hi, enda micxir beč’xosi kesun biso, iłira becider mi nełdär ezäɣor izinč’inäy, debi di meč’ beč’a yołƛin.
+Gloss: now then khan-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW so IV-find-CND.CVB take.IMP DEM3b.SG money III-cut-IPFV.CVB-ATTR form-TOP III-take-IMPR six.OBL month-APUD.LAT you DEM1.IISG.OBL-APUD.VERS fortress-IN.VERS get.up-NEG.FUT.CVB-CND.CVB you-GEN1 me neck III-cut-INF be-QUOT
+Translation: Then the king said to him: "If that's the case, here, take the coining form, and if you haven't gotten up the fortress to her within six months, I will cut off your neck."
+Sentence: Neširu beciƛ’ q’ˤanon maħorno boqno, t’akanno yisno užä eƛin, ulkałkin anunč’uruq’aw, xanbin, wazirbin bišxosi, riguƛ’ay rigu teł šebin yołäsi magazin roqoƛƛin.
+Gloss: evening moon-SUPER.ESS two-TOP outside-TOP I.PL-become-PFV.CVB glass-TOP II-take-PFV.CVB boy-ERG say-PFV.CVB country-CONT.ESS-even be.absent-NEG.PST.WIT-PST.PRT-EQU2 khan-PL-TOP vizier-PL-TOP I.PL-eat-PRS.PRT IV-good-SUPER.ABL IV-good inside thing be-RES.PRT shop IV-become-OPT-QUOT
+Translation: In the evening by moonlight, the two got outside and the boy took the glass and said: "May there be a shop where the best things are in, which the kings and viziers eat...."

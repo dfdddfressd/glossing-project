@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word waħo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word waħo: 
+
+Exact Matches
+Sentence: ʕAt’idä qaħłi begirzaƛ’or aħinyoƛ waħo gondu yič’inosi, tełäzay roč’iw łäs qˤuqˤu boƛixno.
+Gloss: Atid-ERG dawn III-let-POST.CVB rock-SUB.ESS below big.hole II-dig-ANT.CVB inside-IN.ABL.DIST IV-cold water-GEN1 stream III-appear-PST.UNW
+Translation: Atid digged a big hole under the rock before the dawn set in, and then a stream of cold water appeared from inside.
+Sentence: Xizyo baɣmaɣorno ik’in, ɣunoƛ waħo q’ˤida ičin zown ičäsi, Allahä sis sabaw yoynč’i diƛin.
+Gloss: afterwards garden.OBL-IN.VERS-TOP go-PFV.CVB tree-SUB.ESS below under sit-PFV.CVB be.NPRS-PFV.CVB be-RES.PRT God-ERG one amulet II-do-NEG.FUT me-QUOT
+Translation: Afterwards he went to the garden and sat down thinking under the tree , "The God will not disregard me."
+Sentence: Elo waħo gibu bukayx zownanu.
+Gloss: there below sand III-see-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: He didn't see the sand below, there.
+
+Approximate Matches:

@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Täƛru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Täƛru: 
+
+Exact Matches
+Sentence: Becurinč’ey di täƛru biłetow däqorno meža hibo bayrsi yołi, din mežus mežuqor rutirno kinaw šebin neƛa zowsƛin.
+Gloss: III-break-NEG.PST.CVB me give-PST.PRT III-as-EMPH me-POSS.LAT-TOP you(I).PL.OBL-ERG stick III-bring-PST.WIT indeed me-TOP you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT IV-give.back-PFV.CVB entire thing give-INF be.NPRS-PST.WIT-QUOT
+Translation: "If you hadn't broken it, you could have brought me back one that were as the one I gave to you, then I would have given you back all your stuff."
+Sentence: Łˤono äƛirunigon hunixoza täƛru łˤeb yac’nosi, t’it’ubin roqno bełiqanez rečnoł bikorin boƛixno maħor.
+Gloss: three say-PST.PRT-DEF-CNTR way-AD.ESS-ATTR.OBL-ERG give-PST.PRT year II-eat-ANT.CVB piece-PL-TOP IV-become-PFV.CVB hunter-GEN2 vomiting-CONT.ESS snake-TOP III-appear-PFV.CVB outside
+Translation: When he ate the leaf that the third traveller gave him, the snake turned to pieces and came out through the hunter's vomiting.
+
+Approximate Matches:
+Sentence: Neła kidbä täƛruni łˤorat’a ɣˤurušyozaƛ bazaryay risxosi šebinabin risno, esnabi urɣizi boqno ʕaƛaɣor bik’a.
+Gloss: DEM1.IISG.OBL girl-ERG give-PST.PRT-DEF three.OBL-DISTR ruble-PL-SUB.ESS bazar-IN.ABL IV.PL-buy-PRS.PRT thing-PL-TOP IV.PL-buy-PFV.CVB brother-PL thinking III-become-PST.UNW village-IN.VERS III-go-INF
+Translation: Having bought the things for the 3 roubles each, that the girl gave to them, they thought about going (back?) to the village.
+Sentence: Sida zamanałäy, xexbi bežet’a boqnosi henešyabi täƛruni eženi žek’us xabar bayn, sissi uži nesir egiroƛ, nesiqor ezun ža sida kikxo äčiƛin.
+Gloss: one.OBL time-CONT.ABL children I.PL-old-DISTR I.PL-become-ANT.CVB apple-PL give-PST.PRT-DEF old-DEF man-GEN1 story III-come-PFV.CVB one-ATTR boy DEM1.ISG.OBL-LAT send-OPT DEM1.ISG.OBL-POSS.LAT look-PFV.CVB DEM1.SG one.OBL spring-AD.ESS wait-QUOT
+Translation: At one time, when the children had become older, the story came [to them] of the old man who gave the apples, and one boy was to be sent to him and he would wait on a spring looking for him.
+Sentence: Zira bik’in, xanä täƛruni, Goqiq šeƛ’un šeƛ’urno, guluƛ’no zowerno xandäɣor hunix boqno.
+Gloss: fox-ERG III-go-PFV.CVB khan-ERG give-PST.PRT-DEF Goqi-POSS.ESS clothing-and put.on-CAUS-PFV.CVB horse-SUPER.ESS-and seat-PFV.CVB khan-APUD.VERS way-AD.ESS I.PL-become-PST.UNW
+Translation: The fox left, let Goqi put on the clothes and get on the horse given by the king and so they went on their way to the king.

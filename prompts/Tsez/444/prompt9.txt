@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word koƛ’inč’u in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word koƛ’inč’u: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Roda šebinon koƛ’inč’ey yisä bečnaqay reč’no reƛ kurno, howlaytow ric’no iyos zok’in et’no haqa.
+Gloss: IV-do-INF something understand.to-NEG.PST.CVB DEM2.ISG.OBL-ERG knee-POSS.ABL IV-cut-PFV.CVB meat throw-PFV.CVB from.there-EMPH IV-fill-PFV.CVB blood-GEN1 mug-TOP pour-PST.UNW mouth-IN.ESS
+Translation: Not knowing what else to do, he cut meat off from his knee and threw it to the eagle, them he filled the blood into a mug and poured it into its mouth.
+Sentence: T’ok’ow roda šebin koƛ’inč’ey, q’ˤuyzaɣaɣor dawlaƛ’ zirun bik’in.
+Gloss: anymore IV-do-INF thing understand.to-NEG.PST.CVB somwhere.else-IN.VERS prey-SUPER.ESS fox-TOP III-go-PST.UNW
+Translation: Not knowing what to do anymore, the fox went after prey somewhere else.
+Sentence: Esnaza esin, hemedur hunin łaħin, t’ok’ow nar rik’an koƛ’inč’ey, c’idoxor nexno howt’or raysƛin.
+Gloss: sister-PL-ERG tell-PFV.CVB so way-TOP forget-PFV.CVB anymore where II.PL-go-FUT.DEF understand.to-NEG.PST.CVB fire-AD.LAT come-PFV.CVB here-LAT II.PL-come-PST.WIT-QUOT
+Translation: The sisters told, that they lost their way and didn't know where to go anymore, so they came here to the fire.

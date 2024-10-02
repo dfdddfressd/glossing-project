@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word C’eruc’an in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word C’eruc’an: 
+
+Exact Matches
+Sentence: Sida quł yeda ža c’eruc’an risno bełiƛ’ ik’in.
+Gloss: one.OBL-ERG day-CONT.ESS DEM2.ISG DEM1.SG bow-TOP IV-take-PFV.CVB hunting-SUPER.ESS go-PFV.CVB
+Translation: One day he went hunting with this bow.
+Sentence: Ħusenä elo q’ˤiryoł c’eruc’an riƛ’irno, nełqorno eƛin, di guluzał xizay ʕaƛaɣor ik’ix.
+Gloss: Hussein-ERG there floor-CONT.ESS bow-TOP IV-plunge-PFV.CVB DEM1.IISG.OBL-POSS.LAT-TOP say-PST.UNW me horse-PL-CONT.ESS behind village-IN.VERS go-PRS
+Translation: Hussein plunged the bow on the floor there and said to her: "I am going to the village for horses.
+Sentence: Raładyoz lilyox c’eruc’an resus, howža łoħron xizaz nexsiƛin, žawab teƛno žoyä babiwr.
+Gloss: sea-GEN2 river.bank-AD.ESS bow-TOP IV-find-PST.WIT DEM4.SG frog-TOP from.behind come-PST.WIT-QUOT answer give-PST.UNW son-ERG father-LAT
+Translation: "I found the bow at the sea shore, [and] that frog came behind me.", the son answered the father.
+
+Approximate Matches:
+Sentence: Neła ža beƛ’q’ˤu bac’anix łet’ix yałrułi nesir čuqˤnosi, c’eruc’a caƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG sheep III-eat-MSD-AD.ESS pick-IPFV.CVB be-MSD DEM1.ISG.OBL-LAT notice-ANT.CVB bow shoot.with-PST.UNW
+Translation: When he noticed that she was picking that sheep in order to eat it, he shot with his bow.
+Sentence: Hemedurtow din bˤuƛ’si, mi däƛ’or c’eruc’a rutirnosiƛin, eƛin ceyä.
+Gloss: so-EMPH me-TOP III-be.afraid-PST.WIT you me-SUPER.LAT bow IV-turn-ANT.CVB-QUOT say-PST.UNW eagle-ERG
+Translation: "I was afraid likewise, when you turned the bow unto me.", said the eagle.
+Sentence: Guħƛ’orno bizin, łˤoran esnaza kurno c’eruc’a.
+Gloss: hill-SUPER.LAT-TOP I.PL-get.up-PFV.CVB three.OBL-TOP brother-PL-ERG throw-PST.UNW bow
+Translation: The three brothers climbed up the hill and shot with their bows.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bik’in.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bik’in
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bik’in:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Howlo lilyoxtow yedan xecin, xanderno bik’in ziru c’ok’inayn:
+Gloss: there river.bank-AD.ESS-EMPH DEM2.ISG-and leave-PFV.CVB khan-APUD.LAT-and I.PL-go-PFV.CVB fox scold-PST.UNW
+Translation: When they left the river bank there and went to the king, the fox scolded:
+Sentence: Nełquł sasaq č’ˤurqotow bizin onoču qaciƛ’or bik’in.
+Gloss: on.that.day tomorrow in.the.morning-EMPH III-get.up-PFV.CVB hen firewood-SUPER.LAT III-go-PST.UNW
+Translation: The next day, in the early morning, the hen got up and went after firewood.
+
+Approximate Matches:
+Sentence: Boƛƛo sis zaman bik’inosi, xan roƛa utirno.
+Gloss: III-middle one time III-go-ANT.CVB khan IV-be.sick-INF turn-PST.UNW
+Translation: After a while, the king became sick.
+Sentence: Onočas pikru boqno, ciqaɣor ža bik’inosi, nełał xizay xal bodin bičanƛin.
+Gloss: hen-GEN1 idea III-become-PFV.CVB forest-IN.VERS DEM1.SG III-go-ANT.CVB DEM1.IISG.OBL-CONT.ESS behind examination III-do-PFV.CVB III-be-FUT.DEF-QUOT
+Translation: The hen had the idea to follow him, when he goes to the forest.
+Sentence: Xizaɣor bazarganä uži muk’urno oyn, nesä nesiz ƛirbadäɣor bik’inosi, elo sisxoli ɣˤanabi yesun.
+Gloss: finally merchant-ERG boy persuade-TOP do-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 comrade-APUD.VERS I.PL-go-ANT.CVB there alone woman II-find-PST.UNW
+Translation: Finally the merchant persuaded the boy and when they went to his own comrade, they found a single woman.

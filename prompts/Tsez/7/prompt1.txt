@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Nazay using Leipzig glossing symbols. The sentence this word is drawn from means: "And a black man riding on a black horse who came out of who-knows-where stole the princess' clothes, carried them away and sat down under a tree.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Nazay
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Nazay:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Migon nazay t’or yiħułäƛin, esirno yisä q’orolaq.
+Gloss: you-CNTR from.where here-LAT II-come.to-POT-PST.WIT.INT-QUOT ask-PST.UNW DEM2.ISG.OBL-ERG widow-POSS.ESS
+Translation: "Now where have you come from, here?", he asked the widow.
+Sentence: Deber ža ħumukuli bukayn besunč’inäy, nazay deber nełas kut’yos k’onč’u šiqˤono yałrułi yiyxƛin?”
+Gloss: you-LAT DEM1.SG camel III-see-PFV.CVB III-exist-NEG.FUT-CND.CVB from.where you-LAT DEM1.IISG.OBL-GEN1 right.side-GEN1 foot lame be-MSD II-know-PRS-QUOT
+Translation: "If you haven't seen this camel, how do you know that its right foot is lame?"
+Sentence: Elayn izin imyoq ħobo bok’nosi, nazay eƛa biynč’ey t’as bˤoƛ’un bayn.
+Gloss: here-IN.ABL-and get.up-PFV.CVB pole-POSS.ESS leg III-beat-ANT.CVB from.where say-INF III-know-NEG.PST.CVB washbowl III-fall-PFV.CVB III-come-PST.UNW
+Translation: So he got up from there and kicked the pole, and out of who-knows-where a bowl fell down.
+
+Approximate Matches:
+Sentence: Bežet’ani esnazas c’eruc’abi č’aq’ˤin žedu biłetow bečedawt’anizas ɣutkozas ƛ’ˤazaƛ’.
+Gloss: I.PL-old-DISTR-DEF brother-PL-GEN1 bow-PL hit-PST.UNW DEM1.IPL I.PL-as-EMPH wealthy-DISTR-DEF-PL-GEN1 house-PL-GEN1 roof-PL-SUPER.ESS
+Translation: The elder brothers' bows hit the roofs of houses of wealthy ones just like them.
+Sentence: Yuyxor yutinosi kidbä esnazaqor eƛin:
+Gloss: II-true-AD.LAT II-turn.back-ANT.CVB girl-ERG brother-PL-POSS.LAT say-PST.UNW
+Translation: When the girl sat up again, she said to the brothers:
+Sentence: Xanä madaxozoniqor eƛin, mesedyos q’ˤuri užiƛer teƛ, micxiryos - kidbeƛer, pakmos - ƛirbaqor, qacis q’ˤuri imyoqor yicin zawruni ɣˤanazaqor teƛƛin.
+Gloss: khan-ERG gate-AD.ESS-ATTR.OBL-DEF-POSS.LAT say-PST.UNW gold-GEN1 chair boy-SUB.LAT give silver-GEN1 - girl-SUB.LAT copper-GEN1 - guest-POSS.LAT wood-GEN1 chair pole-POSS.LAT II-tie-PFV.CVB be.NPRS-PST.PRT-DEF woman-POSS.LAT give-QUOT
+Translation: The king said to the guard: "Give the golden chair to the boy, the silver one to the girl, the copper one to the guest and the wooden one give to the woman who was tied to the pole."

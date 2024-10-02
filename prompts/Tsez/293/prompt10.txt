@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word aynƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word aynƛin: 
+
+Exact Matches
+Sentence: Nełde sadaq egirno zawruni žek’u nesir teqno xizor utin aynƛin.
+Gloss: DEM1.IISG.OBL-APUD.ESS together send-PST.UNW be.NPRS-PST.PRT-DEF man DEM1.ISG.OBL-LAT hear-PFV.CVB back return-PFV.CVB come-PST.UNW-QUOT
+Translation: The man who was sent together with her - he heared - has returned.
+Sentence: Adäy aderno ik’in ečruni žek’a nesiz baruqor eƛin, mežoxor Ražbadines ƛirba aynƛin.
+Gloss: ahead forward-TOP go-PFV.CVB old-DEF man-ERG DEM1.ISG.OBL-GEN2 wife-POSS.LAT say-PST.UNW you(II-AD.LAT Razhbadin-GEN1 comrade come-PST.UNW-QUOT
+Translation: The old man went ahead and said to his wife: "A comrade of Razhbadin has come to you."
+Sentence: ʕAƛar aynƛin teqzaƛ’ortow Ražbadin yizzoxor oƛixzaƛ’, kidbez babiya bigtow tamašan bodin, yisiz ħurmatyoxay rigu bišʷan rodin.
+Gloss: village-IN.LAT come-PFV.CVB-QUOT hear-POST.CVB-EMPH Razhbadin DEM2.IPL.OBL-ATTR.OBL-AD.LAT appear-CSL.CVB girl-GEN2 dad-ERG III-much-EMPH astonished-TOP III-do-PFV.CVB DEM2.ISG.OBL-GEN2 respect-AD.ABL IV-good food-TOP IV-do-PST.UNW
+Translation: Because Razhbadin appeared at their place before he heard that he had come to the village, the girl's dad was very surprised and out of respect for him he prepared a good meal.
+
+Approximate Matches:
+Sentence: Deber mi ħak’o t’alam bodaniƛäy eynodanix debi zaman baynƛin.
+Gloss: you-LAT you khinkali care III-do-MSD-SUB.ABL work-MSD-AD.ESS you-GEN1 time III-come-PST.UNW-QUOT
+Translation: The time has come for you to work for the khinkali yourself."
+Sentence: Yisän sida kidbän ʕišq’us łin ħaƛun, yisis bašiqˤoy nełas bašiqor rayn, nełasgon Ismaʕilzo bašiqor raynƛin.
+Gloss: DEM2.ISG.OBL-ERG-and one.OBL girl-ERG-and love-GEN1 water-TOP drink-PFV.CVB DEM2.ISG.OBL-GEN1 ring DEM1.IISG.OBL-GEN1 finger-POSS.LAT IV-come-PFV.CVB DEM1.IISG.OBL-GEN1-CNTR Ismail-GEN2 finger-POSS.LAT IV-come-PST.UNW-QUOT
+Translation: He and some girl drank a love potion, his ring came onto her finger, and hers came on Ismail's finger."
+Sentence: Howži deber retinäy bexad, retinč’inäy bexaynƛin, eƛin riynoxa mešorłäy.
+Gloss: now you-LAT IV-want-CND.CVB III-slaughter IV-want-NEG.FUT-CND.CVB III-slaughter-PROHIB-QUOT say-PST.UNW sheikh-ERG heifer-CONT.ABL
+Translation: Now if you want to, then slaughter it, and if you don't want to, don't slaughter it!", said the sheikh about the heifer.

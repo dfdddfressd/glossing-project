@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Xanłin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Xanłin: 
+
+Exact Matches
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"
+Sentence: Roƛik’u xanłin teƛno, xanä bisno ža.
+Gloss: IV-half khanate-TOP give-PFV.CVB khan-ERG III-buy-PST.UNW DEM1.SG
+Translation: The king gave him half the kingdom and bought the bird.
+Sentence: Xizor utin Pat’imatno yižin nesä nesiz ʕaƛaɣorno ik’in, mi däƛ’ay ʕaq’ilawn, c’odorawn zownƛin xanłin nełaqor teƛno žan paraxat ičin.
+Gloss: back turn.back-PFV.CVB Fatima-TOP II-lead-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 village-IN.VERS-TOP go-PST.UNW you me-SUPER.ABL intelligent-and clever-and be.NPRS-PST.UNW-QUOT khanate-TOP DEM1.IISG.OBL-POSS.LAT give-PST.UNW DEM1.SG-TOP calmly live-PST.UNW
+Translation: He returned with Fatima into his own village: "You are more intelligent and cleverer than me!", gave her the kingdom and lived calmly ever after.
+
+Approximate Matches:
+Sentence: ƛirbas nediw bažarin bukayn, dibirä eƛin, yiła ʕaƛa xanłi roda ray debeqƛin.
+Gloss: guest-GEN1 such skill-TOP III-see-PFV.CVB imam-ERG say-PST.UNW DEM2.IISG.OBL village-IN.ESS khanship IV-do-INF IV-must you-POSS.ESS-QUOT
+Translation: Having seen this kind of skill of his guest, the imam said: "You must become king in this village!"
+Sentence: Debeł halmaɣłin risno, łäƛ’ ƛ’iri xanłi rodaniƛäy anu di dowder iħada nexäsiƛin, eƛin rizirno yisä mač’a.
+Gloss: you-CONT.ESS friendship-TOP IV-take-PFV.CVB water-SUPER.ESS above khanship IV-do-MSD-SUB.ABL be.NEG me you-APUD.LAT fight-INF come-RES.PRT-QUOT say-PFV.CVB IV-lift-PST.UNW DEM2.ISG.OBL-ERG dagger
+Translation: "I won't accept your friendship with you and I won't rule over the water, I came to you in order to fight!", he said and lifted the dagger.
+Sentence: Gulu begirno bayäru xanä ʕAwdunasireł adäz masala erno: neł guluƛ’no zown nesider ayru žek’ur xanłi teƛa yołƛin, amma guluƛ’no zown egirno xanä žek’u ayrinč’inäy, nesis kid q’ˤuyza xanzo žaxno yegirno, raƛ’no roɣno xanłiƛ’aygon žan kura yołƛin.
+Gloss: horse III-send-PFV.CVB III-lead-PST.PRT khan-ERG Awdunasir-CONT.ESS ahead task put-PST.UNW DEM1.IISG.OBL horse-SUPER.ESS-TOP be.NPRS-PFV.CVB DEM1.ISG.OBL-APUD.LAT come-PST.PRT man-LAT khanate give-INF be-QUOT but horse-SUPER.ESS-TOP be.NPRS-PFV.CVB send-PFV.CVB khan-ERG man bring-NEG.FUT-CND.CVB DEM1.ISG.OBL-GEN1 daughter other-PL-ERG khan-ATTR.OBL son-AD.ESS-TOP II-send-PFV.CVB land-TOP IV-take.away-PFV.CVB throne-SUPER.ABL-CNTR DEM1.SG-TOP throw-INF be-QUOT
+Translation: The king who had sent the horse assigned Awdunasir a task: He would give the kingdom to the man who came to him riding that horse, but if it does not bring a man, then he would send his daughter to another king's son, take away his land and throw him off the throne.

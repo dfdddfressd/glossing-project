@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qˤaƛu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qˤaƛu: 
+
+Exact Matches
+Sentence: Žigoƛ’aygon mi cek’qo qˤaƛu rizirłi, ela mi bexura yołƛin, ʕomoyä eƛin.
+Gloss: again-SUPER.ABL-CNTR you goat.kid-POSS.ESS shout IV-lift-CND.CVB.IRR we(II-ERG you III-kill-INF be-QUOT donkey-ERG say-PST.UNW
+Translation: If you make the goat kid shout again, we will kill you!", said the donkey.
+Sentence: Yeda hunix ik’iƛ’oräy, yisir qˤaƛu teqno, mi nesi žek’uł xizay äk’ino, nesä mi exarƛin.
+Gloss: DEM2.ISG way-AD.ESS go-SIM.CVB DEM2.ISG.OBL-LAT shout hear-PST.UNW you DEM1.ISG.OBL man-CONT.ESS behind go-PROHIB DEM1.ISG.OBL-ERG you kill-QUOT
+Translation: While he was going on the way, he heard a shout: "Don't you go behind that man, he will kill you!"
+Sentence: Nesä ža ɣamas hokomƛ’on erno iħuxaɣor yižiƛ’oräy, łas haraƛ’ teqnosigon, nełaq roč’uganitow qˤaƛu regin.
+Gloss: DEM1.ISG.OBL-ERG DEM1.SG box carriage-SUPER.ESS-CND put-PFV.CVB river-AD.VERS II-carry-SIM.CVB water-GEN1 voice hear-ANT.CVB-CNTR DEM1.IISG.OBL-POSS.ESS frost-ATTR-DEF-EMPH shout IV-emit-PST.UNW
+Translation: He put the box onto a carriage and while carrying it to a river, but when he heared the water's voice, it emitted a frosty shout.
+
+Approximate Matches:
+Sentence: Zamanaƛ’aza ɣˤutka tełäzay sis qˤaƛu-bˤaɣu rizin, hiba gugu žek’ƛ’oräy, bečedawni maduhalqo k’ʷač’ni regin.
+Gloss: time-SUPER.VERS.DIST house-IN.ESS inside-IN.ABL.DIST one shout IV-get.up-PFV.CVB stick-ERG back beat-SIM.CVB wealthy-DEF neighbor-POSS.ESS groan-MSD IV-let.go-PFV.CVB
+Translation: Some minutes later one could hear noise and shout inside the house: as the stick beat the wealthy neighbor on his back, he gave a loud groan.
+Sentence: C’irduxƛ’o ozuri c’axrun, sis qˤaƛun rok’no Qartay ɣunoq yiza c’oxno, žaqˤułgon narey mi däqay ok’łanƛin.
+Gloss: Tsirdukh-SUPER.ESS eye meet-IMM.ANT.CVB one shout-TOP IV-beat-PFV.CVB Qartay tree-POSS.ESS DEM2.IIPL.OBL pounce-PFV.CVB today-CNTR where-DUB you me-POSS.ABL escape-FUT.DEF-QUOT
+Translation: Just when Qartay discovered Tsirdukh, she gave out a shout, pounced to/up the tree, [saying]: "Where will you escape to from me today?"
+Sentence: Bˤeƛoqgon ixiw qˤaƛun regin, ciqaɣor boxin.
+Gloss: pig-POSS.ESS-CNTR big shout-TOP IV-let.go-PFV.CVB forest-IN.VERS III-run.away-PFV.CVB
+Translation: The pig emitted loud shouts and ran away into the forest.

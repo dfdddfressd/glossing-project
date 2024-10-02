@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣˤanazaz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣˤanazaz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣˤanazaz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Musaqilično, ʕIsaqilično babiwz šudaxaɣor bik’ixƛin sida q’orol ɣˤanazaz ƛ’emiƛxorno bik’in kecnot’a bičix zown.
+Gloss: Musaqilich-and Isaqilich-and father-GEN2 graveyard-AD.VERS I.PL-go-IPFV.CVB-QUOT one.OBL widowed woman-GEN2 hayloft-SUB.LAT-TOP I.PL-go-PFV.CVB sleep-PFV.CVB-DISTR I.PL-be-IPFV.CVB be.NPRS-PST.UNW
+Translation: Musaqilich and Isaqilich pretended to go to their father's grave, and went to a widow's hayloft to sleep there.
+Sentence: Elo ža išno-utin, łin ħaƛun, elaygon bitor hunix oqno ik’in neł ɣˤanazaz baɣmoxor ayn.
+Gloss: there DEM1.SG eat-PFV.CVB water-TOP drink-PFV.CVB there-IN.ABL-CNTR thither way-AD.ESS become-PFV.CVB go-PFV.CVB DEM1.IISG.OBL woman-GEN2 garden-AD.LAT come-PST.UNW
+Translation: There he ate and drank the water, and went on on his way and came to that woman's garden.
+
+Approximate Matches:
+Sentence: Yaqˤuł yiła däz bara oč’ira ɣˤanazacewa ħalt’i bodin.
+Gloss: today DEM2.IISG.OBL-ERG me-GEN2 wife-ERG nine woman-ERG-EQU1-Q work III-do-PST.UNW
+Translation: Today my wife worked like nine women.
+Sentence: Miƛin, eƛin nesä, k’ot’ono, c’ec’mabi c’uda, ozurabi niga, kodi aluk’a ɣˤanazaƛ’ bužzi aqno, nełqay maqˤixno ičiƛin.
+Gloss: you-QUOT say-PST.UNW DEM1.ISG.OBL-ERG short eyelash-PL red eye-PL green hair white woman-SUPER.ESS trust become-PROHIB DEM1.IISG.OBL-POSS.ABL far.away-AD.ESS-TOP be-QUOT
+Translation: "Don't", he said, "believe in a short woman with her eyelashes red, her eyes green and her hair white, but keep away from her!"
+Sentence: Zamanaƛ’aza yeda sida šebi eƛa äynč’iru žek’a tełxor ižin, sida ɣˤanazagon šešoƛ’no oɣno.
+Gloss: time-SUPER.VERS.DIST DEM2.ISG one.OBL who say-INF know-NEG.FUT.CVB-PST.PRT man-ERG inside-AD.LAT lead-PFV.CVB one.OBL woman-ERG-CNTR dance-SUPER.ESS-TOP take.away-PST.UNW
+Translation: After some time, a man unbeknownst to him lead him inside and a woman invited him to dance.

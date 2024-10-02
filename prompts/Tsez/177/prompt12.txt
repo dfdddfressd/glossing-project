@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bičin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bičin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bičin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.
+Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW
+Translation: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.
+Sentence: Buqbetałer ʕaƛarno bik’in, dahaw iduzan bičin, godek’anyaɣor ʕoloqzałxor boqno.
+Gloss: sunset-CONT.LAT village-IN.LAT-TOP I.PL-go-PFV.CVB a.little home-DIST-TOP I.PL-be-PFV.CVB village.square-IN.VERS young.person-PL-CONT.VERS I.PL-become-PST.UNW
+Translation: At sunset they went into the village, spent some time at home, and went to the people at the godekan.
+Sentence: ƛ’iri bičin onoča muhubin rut’in, siskin t’ok’ow muhu xecinč’uƛin rok’u č’odinosi, onoču akäza maħorno k’oƛin boržizin boqno bik’in.
+Gloss: above III-be-PFV.CVB hen-ERG granule-PL-TOP III.PL-collect-PFV.CVB any anymore granule leave-NEG.PST.WIT-QUOT heart get.tight-ANT.CVB hen window-IN.VERS.DIST outside-TOP jump-PFV.CVB fly-TOP III-become-PFV.CVB III-go-PST.UNW
+Translation: The hen tried hard and pecked up all grains, and after making sure that it didn't left out any grain, the hen jumped out of the window and flew away.
+
+Approximate Matches:
+Sentence: Deberno p’es anusi bičinäy, rigu räčiƛin, - eƛin yeda tungi bic’a iħun.
+Gloss: you-LAT-TOP sound be.NEG-ATTR III-be-CND.CVB IV-good IV-be-QUOT - say-PFV.CVB DEM2.ISG copper.jug III-fill-INF begin-PST.UNW
+Translation: It will be good also for you to be quiet", he said and came to fill the jug.
+Sentence: Neła quł sasaqtow, qaħłi begiracekin bičinč’ey ixinabin rižin q’ˤanon esnabi č’ʷadmay micxir bowa bik’in.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH dawn III-let-TERM-even III-be-NEG.PST.UNW bag-PL-TOP IV-carry-PFV.CVB two-TOP brother-PL ruin-IN.ABL money III-get-INF I.PL-go-PST.UNW
+Translation: The next morning even before dawn, carrying a bag, the two brothers went to get the money out of the ruin.
+Sentence: Xizyogon Maħama akiłno q’ˤida bičinosi, Aħmadä eƛin, howt’o deber zowa gulu biqixyołiƛin.
+Gloss: again Magomed get.tired-PFV.CVB down I.PL-sit-ANT.CVB Akhmed-ERG say-PST.UNW here you-LAT ride-INF horse III-get-PRS-COND.IRR-QUOT
+Translation: Again Magomed got tired and when they sat down, Akhmed said: "If we only could get a horse for you to ride on it..."

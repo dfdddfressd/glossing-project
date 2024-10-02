@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’izaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’izaƛ: 
+
+Exact Matches
+Sentence: Sisgon ʕaq’lu mołoƛin ƛ’iri uži utinosi, hunix ik’izaƛ’ deberno ħažat yaq ža xizor ƛäxuruni sisini ɣˤurušƛin, endurtow esin eženi žek’a ʕaq’lu, boƛ’araw royxozo łinałno cim xizor biq’ˤir, sabru ader adek’ƛin.
+Gloss: one-CNTR advice teach-IMPR-QUOT above boy turn.back-ANT.CVB way-AD.ESS go-CSL.CVB you-LAT-TOP necessary II-become DEM1.SG back remain-PST.PRT-DEF other-DEF ruble-QUOT that.way-EMPH tell-PFV.CVB old-DEF man-ERG advice any IV-do-PRS.PRT.OBL what.OBL-CONT.ESS-TOP malice back III-move.aside patience forward push.forward-QUOT
+Translation: When the boy insisted: "Give me another advice!", the old man said the advice that way: "When you go on your way, the remaining ruble will become necessary for you. Anything evil that might be done should be moved aside, and patience should be pushed forward."
+
+Approximate Matches:
+Sentence: Baq’ˤu mix bik’izaƛ’orgon hemedurtow weeƛirno zeyä cek’i.
+Gloss: III-much time III-go-POST.CVB-CNTR so-EMPH bleat-CAUS-PST.UNW bear-ERG goat.kid
+Translation: After quite some time has passed, the bear caused the goat kid to bleat again.
+Sentence: Dahawtowgon zaman bik’izaƛ’or, xizyogon acmoq deqƛin.
+Gloss: a.little-EMPH-CNTR time III-go-POST.CVB again door-POSS.ESS knock-PST.UNW
+Translation: After a little while, it knocked on the door again.
+Sentence: Howža xabarno boqno, boƛƛo baq’ˤu zaman bik’izaƛ’ortow, yedu kid q’ˤuyazix yegirno.
+Gloss: DEM4.SG story-TOP III-become-PFV.CVB III-middle III-much time III-go-POST.CVB-EMPH DEM2.IISG girl other-ATTR.OBL-AD.ESS II-let-PST.UNW
+Translation: Not much later after this conversation, that girl was given to someone else.

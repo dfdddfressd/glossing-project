@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bok’ełnosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bok’ełnosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bok’ełnosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Encetow bitaɣor bok’ełnosi, maħiq micxir t’aħiruni ɣˤʷayä yeda ƛ’irizoni dunyalƛ’aɣor izirno.
+Gloss: a.little-EMPH distance-IN.VERS I.PL-escape-ANT.CVB tail-POSS.ESS money tie-PST.PRT-DEF dog-ERG DEM2.ISG above-ATTR.OBL-DEF world-SUPER.VERS lift-PST.UNW
+Translation: After they had escaped into a little distance, the dog with the money tied to its tail lifted him into the upper world.
+
+Approximate Matches:
+Sentence: Nełał xizay k’oƛin rayru ɣˤʷaybi maqˤiƛ’or rok’ełnosi, bełiqanä bikoriqor eƛin, maħor boq, howži debi tušmanbin rukayzay rok’ełsiƛin.
+Gloss: DEM1.IISG.OBL-CONT.ESS from.behind run-PFV.CVB III.PL-come-PST.PRT dog-PL far.away-SUPER.LAT III.PL-go.away-ANT.CVB hunter-ERG snake-POSS.LAT say-PST.UNW outside III-become now you-GEN1 enemy-PL-TOP III.PL-see-LCV-IN.ABL III.PL-escape-PST.WIT-QUOT
+Translation: After the dogs that were running behind it, went far away, the hunter said to the snake: "Come out, now your enemies went out of sight."
+Sentence: Elay bitor ok’ełnosi, boɣno ziyas ħošin kurno, oqno iduɣor ik’in.
+Gloss: there-IN.ABL thither escape-ANT.CVB III-take.away-PFV.CVB cow-GEN1 hide-TOP throw-PFV.CVB become-PFV.CVB home-IN.ALL go-PST.UNW
+Translation: When he had escaped from there, he threw the cow's hide away and went home.

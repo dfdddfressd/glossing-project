@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ƛ’iyorno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ƛ’iyorno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ƛ’iyorno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanez gulude biħanayƛ’oräy, šidqay ƛ’iyorno kurno, ƛ’irirno bizin ža di xot’ozad łełanƛin, eƛin kidbä.
+Gloss: khan-GEN2 horse-APUD.ESS III-fight-SIM.CVB wall-POSS.ABL downwards-TOP throw-PFV.CVB above-LAT-TOP III-get.up-PFV.CVB DEM1.SG me foot-PL-INSTR trample.down-FUT.DEF-QUOT say-PST.UNW girl-ERG
+Translation: "While I am fighting next to the king's horse, I will throw it down from the street wall, get up again and trample it down with my feet
+
+Approximate Matches:
+Sentence: ƛ’ˤaz č’imix yedu yałzay, qurun-qaranƛin” qˤaƛix ƛ’iräy ƛ’iyor sis k’emot’ yayn.
+Gloss: roof-GEN2 edge-AD.ESS DEM2.IISG be-SIM.CVB kurun-karan-QUOT shout-IPFV.CVB from.above downwards one wooden.case II-come-PST.UNW
+Translation: When she was on the roof's edge and was shouting: "Kurun-karan!", one crate came down from above.
+Sentence: Ɣunoxor baynosi, osaxorno bizin cey ƛ’iräy ƛ’iyor tupäsi hil biłen nexno ɣunoł c’oxno.
+Gloss: tree-AD.LAT I.PL-come-ANT.CVB height-AD.LAT-TOP III-get.up-PFV.CVB eagle from.above downwards rifle-IN.ESS-ATTR bullet III-as-TOP come-PFV.CVB tree-CONT.ESS pounce-PST.UNW
+Translation: When they came to the tree, the eagle got up into the height, came downwards from above like a gun's bullet and pounced on the tree.
+Sentence: Žedun adäz roc’no Alimaħama ħonƛ’ay ƛ’iyor oqno.
+Gloss: DEM1.IPL-TOP ahead III.PL-drive-PFV.CVB Alimagomed-ERG mountain-SUPER.ABL downwards become-PST.UNW
+Translation: Alimagomed drove them ahead and went down the mountain.

@@ -128,16 +128,12 @@ def readLanguage(language, glossDir="2023glossingST-main", split="train"):
     subToWord = makeApproxIndex(wordToSentence)
     return (language, sentences, wordToSentence, subToWord)
 
-def createPrompt(word, filePath, langInfo, promptTemplate="originalfile.txt"):
+def createPrompt(word, filePath, langInfo, trans="",
+                 promptTemplate="originalfile.txt"):
     (language, sentences, wordToSentence, subToWord) = langInfo
-    count = 0
-    (_, devSents, _, _) = readLanguage(language, split="debug")
-    for index, group in enumerate(devSents):
-        sentence, dummy, translation, dummyTwo = group
-        test = (f"{translation}\n")
-                
+    
+    instanceDict = {"WORD" : word, "LANGUAGE" : language, "TRANSLATION": trans, "EXAMPLES" : findMatches(word, wordToSentence, subToWord)}
 
-    instanceDict = {"WORD" : word, "LANGUAGE" : language, "TRANSLATION" : test, "EXAMPLES" : findMatches(word, wordToSentence, subToWord)}
     with open(promptTemplate, "r") as originalfh:
         text = "".join(originalfh.readlines())
         
@@ -145,18 +141,15 @@ def createPrompt(word, filePath, langInfo, promptTemplate="originalfile.txt"):
     text = filledPrompt
 
     with open(filePath, "w+", encoding="utf-8") as file:
-        file.write(text)    
-        
-    return text
+        file.write(text)
 
-    
+    return text
         
 if __name__ == "__main__":
     #pull the language from the command line argument array
     language = sys.argv[1]
     word = x
     word = word.lower()
-        
 
     #the line below hard-codes the file path
     #(we could make it configurable with a bit more effort)
@@ -168,7 +161,7 @@ if __name__ == "__main__":
     wordToSentence = makeIndex(sentences)
     subToWord = makeApproxIndex(wordToSentence)
     
-    instanceDict = {"WORD" : word, "LANGUAGE" : language, "TRANSLATION" : translation, "EXAMPLES" : findMatches(word, wordToSentence, subToWord)}
+    instanceDict = {"WORD" : word, "LANGUAGE" : language, "EXAMPLES" : findMatches(word, wordToSentence, subToWord)}
 
     with open("originalfile.txt", "r") as originalfh:
         text = "".join(originalfh.readlines())

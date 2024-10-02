@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: biƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": biƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word biƛin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: ʕAdada huni raq debiƛin.
+Gloss: to.no.purpose way IV-become you-GEN1-QUOT
+Translation: Your way will be of no purpose.
+Sentence: Sida quł ruzmanƛ’o xanä nazołno adäza sual erno, hič’č’an qˤaba hič’č’an kokoru, hič’č’an ʕedeʕaraw šebin šebiƛin.
+Gloss: one.OBL day-CONT.ESS Friday-SUPER.ESS khan-ERG everyone.OBL-CONT.ESS-TOP ahead question put-PST.UNW the.most-and black the.most-and soft the.most-and quick thing what-QUOT
+Translation: One Friday the king asked a question before everyone: "What is the blackest, softest and quickest thing?"
+Sentence: Xizay bayru žedu ʕoloqzaqor yeženä eƛin, nesis hunar mežizoƛ’ay bežis, meža royxosi šebin šebi, dey xexbiƛin.
+Gloss: from.behind I.PL-come-PST.PRT DEM1.IPL.OBL young.person-PL-POSS.LAT II-old-DEF-ERG say-PST.UNW DEM1.ISG.OBL-GEN1 talent you.PL-GEN2-SUPER.ABL III-win-PST.WIT you(I).PL.OBL-ERG IV-do-PRS.PRT thing what me-GEN1 children-QUOT
+Translation: The old woman said to those young peple who came behind them: "He is more talented than you all, what is what you do, my children?

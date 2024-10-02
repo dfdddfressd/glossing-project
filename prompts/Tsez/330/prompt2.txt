@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word igaɣor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word igaɣor: 
+
+Exact Matches
+Sentence: Bikoride igaɣor ayƛ’oräy, neła ceyes xexoy biqirƛ’orey, roɣno mač’an bikorzo rok’no.
+Gloss: snake-APUD.ESS near-IN.VERS come-SIM.CVB DEM1.IISG.OBL-ERG eagle-GEN1 young.animal III-take.away-SIM.CVB IV-take.away-PFV.CVB saber-and snake-ATTR.OBL IV-hit-PST.UNW
+Translation: When he came closer to the snake as it was taking away the eagle's chick, he took the saber and hit the snake.
+
+Approximate Matches:
+Sentence: Igaɣor bayƛ’oräy, hič’č’an yeɣeni esiyagon, babiya nełqor teƛno zawruni, hiƛu kurno.
+Gloss: near-IN.VERS III-come-SIM.CVB the.most-TOP II-young-DEF sister-ERG-CNTR father-ERG DEM1.IISG.OBL-POSS.LAT give-PFV.CVB be.NPRS-PST.PRT-DEF comb throw-PST.UNW
+Translation: When it came closer, the youngest sister threw down the comb that their father had given to her.

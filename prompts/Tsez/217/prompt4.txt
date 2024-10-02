@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: k’eneč’no.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": k’eneč’no
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word k’eneč’no:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ele enła onočas k’eneč’yabin rižin iduɣorno ik’in, sasaqor k’eneč’yołäy xexoybin roɣno däqor rown horoƛin.
+Gloss: there DEM3b.IISG.OBL hen-GEN1 egg-PL-TOP IV-carry-PFV.CVB home-IN.ALL-TOP go-PFV.CVB in.the.morning-POSS.LAT egg-CONT.ABL young.animal-PL-TOP III.PL-hatch-PFV.CVB me-POSS.LAT III.PL-bring-PFV.CVB come.IMPR-QUOT
+Translation: "Here, carry these chicken eggs to your home; tomorrow bring me the chicks that have hatched from the egg."
+Sentence: Ele enła onočas k’eneč’yabin rižin iduɣorno ik’in, sasaqor k’eneč’yołäy xexoybin roɣno däqor rown horoƛin.
+Gloss: there DEM3b.IISG.OBL hen-GEN1 egg-PL-TOP IV-carry-PFV.CVB home-IN.ALL-TOP go-PFV.CVB in.the.morning-POSS.LAT egg-CONT.ABL young.animal-PL-TOP III.PL-hatch-PFV.CVB me-POSS.LAT III.PL-bring-PFV.CVB come.IMPR-QUOT
+Translation: "Here, carry these chicken eggs to your home; tomorrow bring me the chicks that have hatched from the egg."
+Sentence: Babiya k’eneč’yabi risno kidbeqor teƛno.
+Gloss: dad-ERG egg-PL II.PL-take-PFV.CVB daughter-POSS.LAT give-PST.UNW
+Translation: The father took the eggs and gave them to the daughter.

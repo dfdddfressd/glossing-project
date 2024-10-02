@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ciqaɣort’a.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ciqaɣort’a
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ciqaɣort’a:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža ɣudes ciqaɣort’a ik’ix Allahqo harizi oqxo zown: däłäy žek’ułersi žek’u odoƛin.
+Gloss: DEM1.SG daily forest-IN.VERS-DISTR go-IPFV.CVB God-POSS.ESS request become-IPFV.CVB be.NPRS-PST.UNW me-CONT.ABL man-CONT.LAT-ATTR man do-IMPR-QUOT
+Translation: Every day, he went into the forest and asked God: Make me a respectable man.
+
+Approximate Matches:
+Sentence: Yisä yizi ʕoƛnon esnabi sist’a aħinyoqorno bicin, iħuz iƛ’aqaɣort’a begirno.
+Gloss: DEM2.ISG.OBL-ERG DEM2.IPL seven-TOP brother-PL one.at.a.time rock-POSS.LAT-TOP I.PL-tie-PFV.CVB river-GEN2 bottom-POSS.VERS-DISTR I.PL-send-PST.UNW
+Translation: He tied these seven brothers one at a time to the rock and sent them to the bottom of the river.

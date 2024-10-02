@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boynč’inäy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boynč’inäy: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hudun žedu nełaƛ’ ƛ’iri butin ɣudi rayrno, elułäy sidxokin mi nexinč’inäy, bazaryarno yižin teƛa yołƛin.
+Gloss: nevertheless DEM1.IPL DEM1.IISG.OBL-SUPER.ESS on I.PL-turn-PFV.CVB day IV-bring-PFV.CVB we(I).OBL-CONT.ABL one.OBL-AD.ESS-even you come-NEG.FUT.CVB-CND.CVB bazar-IN.LAT-TOP II-lead-PFV.CVB sell-INF be-QUOT
+Translation: Nevertheless, they tortured her again: "If you don't marry any of us, we will take you to the market and sell you!"
+Sentence: Ħusen ukayrun aždaħä eƛin, dowqo däz enda ɣˤul łox caƛin č’aq’ˤinäy, mi di boƛi begir, c’oxinč’inäy mi di ac’a yołƛin.
+Gloss: Hussein see-IMM.ANT.CVB dragon-ERG say-PST.UNW you-POSS.ESS me-GEN2 DEM3b.SG stone thrice throw-PFV.CVB hit-CND.CVB you me III-half III-break.apart-CAUS hit-NEG.FUT.CVB-CND.CVB you me eat-INF be-QUOT
+Translation: Right after he saw Hussein, the dragon said: "If you throw and hit me with this stone within three attempts, break me apart in the middle! If you don't hit me, I am going to eat you."
+Sentence: Qˤašizaƛ’or mi guluƛ’or izinč’inäy, qalamxo bičixozo qarawulza mi iqärƛin, eƛin babiya uži hunix egirno.
+Gloss: dawn-POST.CVB you horse-SUPER.LAT get.up-NEG.FUT.CVB-CND.CVB fortress-AD.ESS III-wait-IPFV.CVB-ATTR.OBL guard-PL-ERG you catch-QUOT say-PST.UNW father-ERG son way-AD.ESS send-PST.UNW
+Translation: If you don't get on your horse before it dawns, the guards who are waiting at the fortress will catch you!" the father said and sent his son away.

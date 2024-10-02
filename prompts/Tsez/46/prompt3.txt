@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: babiwqor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": babiwqor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word babiwqor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida bečedaw žek’uderno ik’in, nesiz k’udoz baɣman eynoyn, micxirno bodin, bižin babiwqor teƛno.
+Gloss: one.OBL wealthy man-APUD.LAT-TOP go-PFV.CVB DEM1.ISG.OBL-GEN2 vine-GEN2 garden-IN.ESS-TOP work-PFV.CVB money-TOP III-do-PFV.CVB III-carry-PFV.CVB father-POSS.LAT give-PST.UNW
+Translation: He went to a wealthy man, worked on his vineyard, earned money and carried it to give it to his father.
+Sentence: Xizyo q’ˤidayn izin di dowderno nexno babiwqor eƛan, horo howži yiłas meč’ beč’oƛin.
+Gloss: afterwards down-IN.ABL-TOP get.up-PFV.CVB me you-APUD.LAT-TOP come-PFV.CVB father-POSS.LAT say-FUT.DEF come.IMPR now DEM2.IISG.OBL-GEN1 neck III-cut-IMPR-QUOT
+Translation: Then, when I got up, I will come to you and say to my father: 'Come now, cut off her neck!'
+Sentence: Howt’ay yäk’irun, där moƛał rukaysƛin babiwqor eƛo mi, soderno kurno ƛ’ˤiyor nexƛ’oräy, geres hibos boq’ˤugani pu wˤałxor butin nexno raƛ’moƛxorgon šäšiƛin.
+Gloss: from.here II-go-IMM.ANT.CVB me-LAT dream-CONT.ESS IV-see-PST.WIT-QUOT father-POSS.LAT say-IMPR you upward-TOP throw-PFV.CVB downward come-SIM.CVB iron-GEN1 stick-GEN1 III-heavy-ATTR-DEF side downward-AD.LAT III-turn-PFV.CVB come-PFV.CVB earth-SUB.LAT-CNTR get.stuck-QUOT
+Translation: "When you go again, tell your father that you have seen it in a dream: He shall throw it upward and when it comes down again, the iron stick's heavier side will turn downward and get stuck in the earth."
+
+Approximate Matches:
+Sentence: Łi rowa ik’iƛin babiwqorno eƛin, Ismaʕilä bišadyoƛ’ ƛ’iri ʕArabuzanä teƛno zawruni bašiqˤoy łox šet’u rutirno.
+Gloss: water IV-bring-INF go-QUOT father-POSS.LAT-TOP say-PFV.CVB Ismail-ERG food-SUPER.ESS above Arabuzan-ERG give-PFV.CVB be.NPRS-PST.PRT-DEF ring thrice around IV-turn-PST.UNW
+Translation: "Go and bring some water!", Ismail said to his father and turned the ring that Arabuzan had given to him over the food three times.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: daʕban.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": daʕban
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word daʕban:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełƛ’osi, łˤono ɣudin rik’in uyra äƛiru ɣudƛ’o sidä sideł daʕban boqno yiłader q’ˤano žek’u ayn.
+Gloss: of.that.time three day-TOP IV-go-PFV.CVB four ORD day-SUPER.ESS one.OBL-IN.ESS one.OBL-CONT.ESS dispute-TOP III-become-PFV.CVB DEM2.IISG.OBL-APUD.LAT two man come-PST.UNW
+Translation: After that, three days passed and on the fourth day two men came to her who had a dispute among them.
+Sentence: Elo žedus daʕban boqno ħukmu bodin, boƛ’arawgo roqłin sida esiƛ’oräy p’es anusi bičanixƛin.
+Gloss: there DEM1.IPL.OBL-GEN1 dispute-TOP III-become-PFV.CVB decision III-do-PST.UNW any-COND IV-happen-CNC.CVB one.OBL-ERG tell-SIM.CVB sound be.NEG-ATTR I.PL-wait-MSD-AD.ESS-QUOT
+Translation: Then they argued and decided: "No matter what happens, when someone speaks, the other has to wait silently."
+Sentence: Di aždaħ bexursiƛin meži daƛ’ bužzi boqxo besunč’inäy, nełał mežus daʕban besunäy, bik’in aždaħes q’ˤim rowo xanqo rukaranixƛin”.
+Gloss: me dragon III-kill-PST.WIT-QUOT you.PL me-SUPER.ESS trust III-become-IPFV.CVB III-exist-NEG.FUT-CND.CVB DEM1.IISG.OBL-CONT.ESS you(I).PL.OBL-GEN1 dispute-TOP III-have-CND.CVB I.PL-go-PFV.CVB dragon-GEN1 head IV-get-IMPR khan-POSS.ESS IV-show-MSD-AD.ESS-QUOT
+Translation: "If you don't believe me that I killed the dragon and you are having a dispute on that, go and get the dragon's head to show it to the king!"
+
+Approximate Matches:
+Sentence: Ič’č’an yeɣeni esiya sasiłzaƛ’ortown, xexłiƛ’ iduɣor ƛaƛin daʕba bičirłin, nełqor žedu ʕenekizi roqnoanu.
+Gloss: the.most-TOP II-young-DEF sister-ERG get.dark-POST.CVB-EMPH-TOP quickness-SUPER.ESS home-IN.ALL go.IMPR-QUOT dispute III-be-CAUS-CNC.CVB DEM1.IISG.OBL-POSS.LAT DEM1.IPL listen II.PL-become-PFV.CVB-NEG
+Translation: Although the youngest sister argued: "We have to go home quick before it gets dark!", the didn't listen to her.
+Sentence: Elo nazosno daʕba boqno, howži yisi xanqor eƛin:
+Gloss: there everyone.OBL-GEN1-TOP dispute III-become-PFV.CVB now DEM2.ISG.OBL khan-POSS.LAT say-PST.UNW
+Translation: There everyone argued and then they said to the king:
+Sentence: Meɣu där neƛ, deber di ʕansa neƛanƛin daʕba boyn ičin ečruni žek’u.
+Gloss: udder me-LAT give you-LAT me walking.stick give-FUT.DEF-QUOT dispute III-do-PFV.CVB be-PFV.CVB old-DEF man
+Translation: "Give me the udder and I will give you the walking stick!", the old man argued.

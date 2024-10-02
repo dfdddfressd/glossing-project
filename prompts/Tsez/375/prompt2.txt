@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žaƛ’ay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žaƛ’ay: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Siskintow šebin rac’a riqinč’izaƛ’, xizor butin nexƛ’oräy, hawaƛ’ay sidaɣ ħonƛ’o ɣʷˤader simildis muhu bukayn.
+Gloss: anything-EMPH thing IV-eat-INF IV-get-NEG.FUT-CSL.CVB back III-return-PFV.CVB come-SIM.CVB air-SUPER.ABL in.one.place mountain-SUPER.ESS crow-LAT maize-GEN1 granule III-see-PST.UNW
+Translation: Because the crow didn't get anything to eat, it returned, and meanwhile it saw a maize grain on some mountain from the air.
+Sentence: Žeda besurozaƛ’ay ʕumru boyx zown.
+Gloss: DEM1.IPL-ERG fish-PL-SUPER.ABL life III-do-IPFV.CVB be.NPRS-PST.UNW
+Translation: They were living from fishing.
+Sentence: Elur yiłaƛ’ay mustaħiq’aw močin bäsunč’i, ži eƛnoqor ħadur roqanix zamanno bayn, howt’otow ričanƛin, žedas ħukmu boqno.
+Gloss: we-LAT DEM2.IISG.OBL-SUPER.ABL suitable place-TOP III-find-NEG.FUT now winter-POSS.LAT preparation III.PL-become-MSD-AD.ESS time-TOP III-come-PFV.CVB here-EMPH III.PL-live-FUT.DEF-QUOT DEM1.IIPL.OBL-GEN1 decision III-become-PST.UNW
+Translation: "We won't find a place more suitable than this one; now the time has come to prepare for the winter; we will live here." was their decision.

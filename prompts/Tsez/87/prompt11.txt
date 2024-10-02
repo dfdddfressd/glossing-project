@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yiłas.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yiłas
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yiłas:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Maħor yoqƛ’oräy yiłas rorqosi xot’oqay roɣełno.
+Gloss: outside II-become-SIM.CVB DEM2.IISG.OBL-GEN1 foot-POSS.ESS-ATTR foot-POSS.ABL IV-come.off-PST.UNW
+Translation: While she got outside, a shoe fell from her foot.
+Sentence: Xizyo q’ˤidayn izin di dowderno nexno babiwqor eƛan, horo howži yiłas meč’ beč’oƛin.
+Gloss: afterwards down-IN.ABL-TOP get.up-PFV.CVB me you-APUD.LAT-TOP come-PFV.CVB father-POSS.LAT say-FUT.DEF come.IMPR now DEM2.IISG.OBL-GEN1 neck III-cut-IMPR-QUOT
+Translation: Then, when I got up, I will come to you and say to my father: 'Come now, cut off her neck!'
+Sentence: Sida ƛˤebaƛ’aza yiłas di roƛxosi ričiranƛin, eƛin doxturä.
+Gloss: one.OBL-ERG year-SUPER.VERS.DIST DEM2.IISG.OBL-GEN1 me IV-be.sick-PRS.PRT IV-be-CAUS-FUT.DEF-QUOT say-PFV.CVB doctor-ERG
+Translation: The doctor promissed to cure her in one year.
+
+Approximate Matches:
+Sentence: Ya yexun yäsu ža, ya č’agu yäsuƛin xanqorno eƛin, yedu režet’ani esnazadäɣor yik’in, xanesno yiłasno baqru xabaryołäy esanix.
+Gloss: either II-die-PFV.CVB II-exist DEM1.SG either alive II-exist-QUOT khan-POSS.LAT-TOP say-PFV.CVB DEM2.IISG IV-old-DISTR-DEF sister-PL-APUD.VERS II-go-PFV.CVB khan-GEN1-and DEM2.IISG.OBL-GEN1-and III-happen-PST.PRT story-CONT.ABL tell-MSD-AD.ESS
+Translation: Maybe she is dead, or maybe she is alive." she said to the king, went to the older sister and told that story that happened to her and the king.

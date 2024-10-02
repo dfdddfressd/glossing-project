@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žek’urno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žek’urno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Di debeq riyrno xecix, hemeł reƛiłäy encekin šebin žek’ur riqinäy, daru baqinč’iƛin.
+Gloss: me you-POSS.ESS IV-explain-PFV.CVB leave-IPFV.CVB DEM4.IISG.OBL meat-CONT.ABL a.little-even thing man-LAT IV-get-CND.CVB medicine III-happen-NEG.FUT-QUOT
+Translation: I warn you; if anyone else will get even a little piece of that meat, the medicine won't work.
+Sentence: Xizyogon esirno nesä, nesi t’omceni žek’ur roqäsi šebintow yołä, łuq’zinan oqäsi zowä žaƛin.
+Gloss: then ask-PST.UNW DEM1.ISG.OBL-ERG DEM1.ISG.OBL span-EQU1-DEF man-LAT IV-happen-RES.PRT thing-EMPH be-PST.WIT.INT hurt-INT become-RES.PRT be.NPRS-PST.WIT.INT DEM1.SG-QUOT
+Translation: Then he asked: "Did anything happen to the span-sized man, was he hurt?"
+Sentence: Łox äƛirugon yeda ʕuqła ik’inosi, bełiquz užä zeyes mus bik’urno.
+Gloss: thrice ORD-CNTR DEM2.ISG hide-INF go-ANT.CVB hunter-GEN2 boy-ERG bear-GEN1 hair III-burn-CAUS-PST.UNW
+Translation: After the hunter's son went hiding for the third time, he burnt the bear's hair.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yok’ek’no.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yok’ek’no
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yok’ek’no:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žigoƛ’aygon xanes yeženi kidno yok’ek’no, xizor utin idur bežet’ani esnazaƛ’ay ader ayn.
+Gloss: now-SUPER.ABL-CNTR khan-GEN1 II-old-DEF daughter-TOP II-steal-PFV.CVB back return-PFV.CVB home-LAT I.PL-old-DISTR-DEF brother-PL-SUPER.ABL before come-PST.UNW
+Translation: And now he stole the king's oldest daughter and returned home before his older brothers.
+Sentence: Xizyogon zira eƛin, walla, howža di eƛix zowali łiłiroƛ’ozoni ɣunoqay yaqˤułer ƛˤebno yok’ek’no.
+Gloss: then fox-ERG say-PST.UNW wallah DEM4.SG me say-IPFV.CVB be.NPRS-ATTR ditch-SUPER.ESS-GEN2-DEF tree-POSS.ABL today-LAT leaf-TOP II-steal-PST.UNW
+Translation: Then the fox said: "By God, someone stole the leaf from the tree on that ditch I talked about.
+Sentence: Uži ƛ’iri utizaq, esin yiła, debi esiw qˤabani žek’a yok’ek’no yižisƛin.
+Gloss: son above turn-CSL.CVB tell-PST.UNW DEM2.IISG.OBL-ERG you-GEN1 sister black-DEF man-ERG II-steal-PFV.CVB II-carry-PST.WIT-QUOT
+Translation: Because the son insisted, she told: "Your sister was stolen by a black man."
+
+Approximate Matches:
+Sentence: Horoƛin, eƛix xizyo Ražbadinä halmaɣłiqor, Huläɣor eli łinar bik’an, howt’aytow bˤeƛ’no rok’ek’no xizor butin rigu anaƛin.
+Gloss: come.IMPR-QUOT say-IPFV.CVB afterwards Razhbadin-ERG friendship-POSS.LAT Georgia-IN.VERS we why I.PL-go-FUT.DEF from.here-EMPH sheep-TOP III.PL-steal.from-PFV.CVB back III-return-PFV.CVB IV-good be.NEG-Q-QUOT
+Translation: "Come", said Razhbadin to his friends afterwards, "why shouldn't it be better for us to go back to Georgia, steal some from the flock and then return?"
+Sentence: Ža abužahalno adäzay ok’ek’no, nesiz iduza ezu-ʕoƛ’uƛ’oräy, q’ˤidaza insanes ƛuzabi rukayn.
+Gloss: DEM1.SG devil-TOP in.front-IN.ABL.DIST steal.from-PFV.CVB DEM1.ISG.OBL-GEN2 home-ZA examine-SIM.CVB down-ZA human-GEN1 bone-PL IV.PL-see-PST.UNW
+Translation: [He] took away this devil, and while he was examining his home, he saw human bones down there.
+Sentence: Hemedur q’ˤunan ozurazaƛ’ayn ok’ek’no iguni halmaɣ žukanä, howlotow žan xecin oxin nesidäy.
+Gloss: so two.OBL-TOP eye-PL-SUPER.ABL-TOP steal-PFV.CVB good-DEF friend worse-NEG-ERG there-EMPH DEM1.SG-TOP leave-PFV.CVB run.away-PST.UNW DEM1.ISG.OBL-APUD.ABL
+Translation: So the bad one had stolen the two eyes from the the good friend, left him there and ran away from him.

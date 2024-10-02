@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bezanixƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bezanixƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bezanixƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesiƛ’ bezanixƛin bayru ahlimor žoyä bˤeƛ’es šebint’a teƛxo zown.
+Gloss: DEM1.ISG.OBL-SUPER.ESS I.PL-look-MSD-AD.ESS-QUOT I.PL-come-PST.PRT people-LAT son-ERG sheep-GEN1 thing-DISTR give-IPFV.CVB be.NPRS-PST.UNW
+Translation: The son gave out one sheep each for every person who came to look after him.
+Sentence: Ža xabarno teqno obiwn, užin bezanixƛin bik’inosi, yisir suƛƛi yukayruntow yiyn yedu yisis baru yałru.
+Gloss: DEM1.SG story-TOP hear-PFV.CVB father-and son-and I.PL-look-MSD-AD.ESS-QUOT I.PL-go-ANT.CVB DEM2.ISG.OBL-LAT immediately II-see-IMM.ANT.CVB-EMPH II-know-PFV.CVB DEM2.IISG DEM2.ISG.OBL-GEN1 wife be-PST.PRT
+Translation: Having heard of this story, the father and his son went to have a look and he immediately knew when seeing her, that it was his wife.
+
+Approximate Matches:
+Sentence: Ža bexuranixƛin yisä c’eruc’a rutirnosi, ceyä eƛin, mi di bexarno, deber di sis bercinaw pardagi neƛanƛin.
+Gloss: DEM1.SG III-kill-INF-PURP.CVB-QUOT DEM2.ISG.OBL-ERG bow IV-turn-ANT.CVB eagle-ERG say-PFV.CVB you me III-kill-PFV.CVB you-LAT me one beautiful scarf give-FUT.DEF-QUOT
+Translation: As he directed his bow to kill the eagle, the latter said, "Don't kill me, I will give you one beautiful scarf."
+Sentence: Xexłiƛ’ k’oƛin babiwderno yik’in, hemesi tusnaq’äzo užir teƛxa mi izmu guluƛ’ zowanirƛin, nełaq eƛin rok’äłrun, xan kid žek’anixƛin iza oqno.
+Gloss: quickness-SUPER.ESS run-PFV.CVB father-APUD.LAT-TOP II-go-PFV.CVB DEM4.ISG.OBL prison-IN.ESS-ATTR.OBL boy-LAT give-IPFV.CVB-Q you permission horse-SUPER.ESS ride-MSD-LAT-QUOT DEM1.IISG.OBL-POSS.ESS say-PFV.CVB IV-escape-IMM.ANT.CVB khan daughter beat-MSD-AD.ESS-QUOT get.up-INF begin-PST.UNW
+Translation: She quickly ran to her father, and when the words "Do you give the permission that the boy in prison can ride the horse?" broke out of her, the king got up to slap his daughter.
+Sentence: Magalu boɣanixƛin eženi žek’a ħoyäɣor reƛ’a regirnosi, Ħusenä yeda q’ˤiƛin tełxor kurno.
+Gloss: bread III-take.away-MSD-AD.ESS-QUOT old-DEF man-ERG oven-IN.VERS hand IV-let-ANT.CVB Hussein-ERG DEM2.ISG push-PFV.CVB inside-AD.LAT throw-PST.UNW
+Translation: When the old man let his hand into the oven in order to pull out the bread, Hussein pushed him inside.

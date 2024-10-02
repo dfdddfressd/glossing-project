@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: maħorno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": maħorno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word maħorno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemełƛ’o xizyo nucos bic’alini q’ilimay yeda maħorno oqno, eženi esiws q’ˤimno risno iduɣor oxin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS after honey-GEN1 III-fill-ATTR-DEF qili-IN.ABL DEM2.ISG outside-TOP become-PFV.CVB old-DEF brother-GEN1 head-TOP IV-take-PFV.CVB home-IN.ALL run.away-PST.UNW
+Translation: After that, he got out of the honey-filled pot, took the older brother's head and ran home.
+Sentence: ƛ’iri bičin onoča muhubin rut’in, siskin t’ok’ow muhu xecinč’uƛin rok’u č’odinosi, onoču akäza maħorno k’oƛin boržizin boqno bik’in.
+Gloss: above III-be-PFV.CVB hen-ERG granule-PL-TOP III.PL-collect-PFV.CVB any anymore granule leave-NEG.PST.WIT-QUOT heart get.tight-ANT.CVB hen window-IN.VERS.DIST outside-TOP jump-PFV.CVB fly-TOP III-become-PFV.CVB III-go-PST.UNW
+Translation: The hen tried hard and pecked up all grains, and after making sure that it didn't left out any grain, the hen jumped out of the window and flew away.
+Sentence: Idur ayza qułtow, neširu kʷat’izi baqru mixƛ’o, iday maħorno oqno, ɣˤutkoł adäzarno ik’in, yisä k’emot’ yaɣˤirun, elo ixiw ɣˤutku roqno.
+Gloss: home-LAT come-ZA day-CONT.ESS-EMPH at.night be.late III-become-PST.PRT late.at.night home-IN.ABL outside-TOP become-PFV.CVB house-CONT.ESS before-IN.LAT-TOP go-PFV.CVB DEM2.ISG.OBL-ERG wooden.case II-open-IMM.ANT.CVB there big house IV-become-PST.UNW
+Translation: On the day when he came home, when it has become late at night, he got outside his home, went in front of his house and right when he opened the box, a big house came into being there.
+
+Approximate Matches:
+Sentence: Qartay maħor yäk’irun, C’irduxä izin užibi käczaɣor kidbabi, kidbabi käczaɣor užibin butirno, neła łi rayrace ičin.
+Gloss: Qartay outside II-go-IMM.ANT.CVB Tsirdukh-ERG get.up-PFV.CVB boy-PL sleep-LCV-IN.VERS girl-PL girl-PL sleep-LCV-IN.VERS boy-PL-TOP III-turn-PFV.CVB DEM1.IISG.OBL-ERG water IV-bring-TERM be-PST.UNW
+Translation: Right after Qartay went outside, Tsirdukh got up, put the girls to the place where the boys slept and the boys to the place where the girls slept, all before she brought the water.
+Sentence: Howžäy soder nediw šebin radinƛin, reƛ’an ozzaq riħin č’uran rukarerno, Bilq’isdä ža maħor egirno.
+Gloss: now-IN.ABL after such thing IV-do-PROHIB-QUOT hand-TOP eye-PL-POSS.ESS IV-smear-PFV.CVB light-TOP IV-show-CAUS-PFV.CVB Bilqisdi-ERG DEM1.SG outside send-PST.UNW
+Translation: "From now on, don't do such things anymore!", Bilqisdi put her hands onto his eyes, gave him back his eyelight and sent him outside.
+Sentence: Elay maħor aqruntow, yisä zirus mus bik’urno.
+Gloss: here-IN.ABL outside happen-IMM.ANT.CVB-EMPH DEM2.ISG.OBL-ERG fox-GEN1 hair III-burn-CAUS-PFV.CVB
+Translation: As he was outside, he burnt the fox's hair.

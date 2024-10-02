@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ist’owlin using Leipzig glossing symbols. The sentence this word is drawn from means: "One day the young man brought the turkeys [home] in the evening, took the glass out of his pocke and said: "May here on the field be a house and inside a good table and chairs around it!"".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ist’owlin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ist’owlin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Raładyołxorno yiħun, muhumozas qotno ric’no yoƛixno eƛin, šibaw žek’uz akä sist’a muhu eqro, elay bitorsi debi ħalt’i anuƛin.
+Gloss: sea-CONT.VERS-TOP II-come.to-PFV.CVB granule-PL-GEN1 handfull-TOP IV-fill-PFV.CVB II-appear-PFV.CVB say-PST.UNW every man-GEN2 window-IN.ESS one.at.a.time granule put-IMPR here-IN.ABL thither-ATTR you-GEN1 work be.absent-QUOT
+Translation: She went into the sea, filled her hand with grains, reappeared and said: "Put one grain into the window of each man, besides that there's no more work for you."
+Sentence: Elo yiłar istowlix q’ˤida ičäsi bercinaw uži esun.
+Gloss: there DEM2.IISG.OBL-LAT table-AD.ESS down sit-RES.PRT beautiful boy find-PST.UNW
+Translation: There she found a handsome boy sitting at a table.
+Sentence: Istowlizaƛ’ anunč’uru niʕmatyabin zownč’u, dicegon rac’łin axʷarno raynč’u, dicegon zeru ħaƛułin q’ˤimłerno bizinč’u.
+Gloss: table-PL-SUPER.ESS be.absent-NEG.PST.WIT-PST.PRT bliss-PL-TOP be.NPRS-NEG.PST.WIT how.much-CNTR IV-eat-CNC.CVB belly-IN.LAT-TOP IV-come-NEG.PST.WIT how.much-CNTR bouza drink-CNC.CVB head-CONT.LAT-TOP III-get.up-NEG.PST.WIT
+Translation: There were no blisses that were [not] absent from the tables, so that, no matter how much one ate, they didn't come into the belly, and how much booze one drank, it didn't get up into the head.

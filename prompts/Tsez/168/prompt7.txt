@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’orolayä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’orolayä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’orolayä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Šebi deber roqnoƛin yisä esirnosi, yiła yisiq q’orolayä äsiru xabar esin.
+Gloss: what you-LAT IV-happen-PST.UNW-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB DEM2.IISG.OBL-ERG DEM2.ISG.OBL-POSS.ESS widow-ERG tell-PST.PRT story tell-PST.UNW
+Translation: When he asked: "What happened to you?", she told him what the widow had told her.
+Sentence: Nełƛ’osi yayn sida q’orolayä eƛin, ʕoƛira ɣudi uži meža sida ħala xec.
+Gloss: of.that.time II-come-PFV.CVB one.OBL widow-ERG say-PST.UNW seven.OBL day boy you(I).PL.OBL-ERG one.OBL condition-IN.ESS leave
+Translation: At that time came a widow and said: "Leave the boy alone for seven days!
+Sentence: Šebey roqsiƛin, q’orolayä šudaƛ’orno yik’in mamalayz k’onč’azaqay šeƛ’u roɣxo zown.
+Gloss: what-DUB IV-happen-PST.WIT-QUOT widow-ERG graveyard-SUPER.LAT-TOP II-go-PFV.CVB rooster-GEN2 foot-PL-POSS.ABL clothing IV-take.away-IPFV.CVB be.NPRS-PST.UNW
+Translation: "What happened?", the widow said and went to the grave and took the clothings from the rooster's feet.
+
+Approximate Matches:
+Sentence: Ža q’orolay xanez ɣˤutkoz madaxor yik’in.
+Gloss: DEM1.SG widow khan-GEN2 house-GEN2 gate-AD.LAT II-go-PST.UNW
+Translation: That widow then went to the gate of the king's house.
+Sentence: Sis k’ucin, k’et’us xexoyn ałux ruqˤno žedun rižin q’orolay xanez barudäɣor yik’in.
+Gloss: one puppy-and cat-GEN1 young.animal-and skirt-AD.ESS III.PL-hide-PFV.CVB DEM1.IIPL-and III.PL-carry-PFV.CVB widow khan-GEN2 wife-APUD.VERS II-go-PST.UNW
+Translation: The widow hid a puppy and a kitten under her skirt and carried them to the king's wife.
+Sentence: Raħäruni reƛno rac’no, ence mazaħarno xizor utin iduɣor nexƛ’oräy, yiziz ɣˤutka tełäzay maħor yoqxo howža q’orolay yukayn.
+Gloss: IV-cook-CAUS-PST.PRT-DEF meat-TOP IV-eat-PFV.CVB a.little outside-IN.LAT-TOP back return-PFV.CVB home-IN.ALL come-SIM.CVB DEM2.IPL.OBL-GEN2 house-IN.ESS inside-IN.ABL.DIST outside II-become-IPFV.CVB DEM4.SG widow II-see-PST.UNW
+Translation: He ate the cooked meat and while coming home again, he saw that widow getting out of their house.

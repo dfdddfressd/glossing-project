@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: C’irduxä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": C’irduxä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word C’irduxä:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: C’irduxän adäza biłetown žawab teƛno.
+Gloss: Tsirdukh-Q-TOP before III-as-EMPH-TOP answer give-PST.UNW
+Translation: And Tsirdukh gave the same answer as before.
+Sentence: Izäsi C’irdux, q’ˤuyasinibi kecäsiƛin, C’irduxä žawab bodin.
+Gloss: get.up-RES.PRT Tsirdukh other-ATTR-DEF-PL sleep-RES.PRT-QUOT Tsirdukh-ERG answer III-do-PST.UNW
+Translation: "Tsirdukh is awake, the others are sleeping." answered Tsirdukh.
+Sentence: Qartay maħor yäk’irun, C’irduxä izin užibi käczaɣor kidbabi, kidbabi käczaɣor užibin butirno, neła łi rayrace ičin.
+Gloss: Qartay outside II-go-IMM.ANT.CVB Tsirdukh-ERG get.up-PFV.CVB boy-PL sleep-LCV-IN.VERS girl-PL girl-PL sleep-LCV-IN.VERS boy-PL-TOP III-turn-PFV.CVB DEM1.IISG.OBL-ERG water IV-bring-TERM be-PST.UNW
+Translation: Right after Qartay went outside, Tsirdukh got up, put the girls to the place where the boys slept and the boys to the place where the girls slept, all before she brought the water.

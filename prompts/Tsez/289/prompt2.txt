@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word minaraɣor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word minaraɣor: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sidaquł sasaqosi akbar roɣa di minaraƛ’or izis.
+Gloss: one.day in.the.morning call.for.prayer IV-take.away-INF me minaret-SUPER.LAT get.up-PST.WIT
+Translation: One day in the morning I went up the minaret to call for the prayer.
+Sentence: Ceyä di isno own minaraƛ’or egirsi.
+Gloss: eagle-ERG me take-PFV.CVB bring-PFV.CVB minaret-SUPER.LAT let-PST.WIT
+Translation: The eagle picked me up and brought me to the minaret again.

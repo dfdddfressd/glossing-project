@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: beynoyx.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": beynoyx
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word beynoyx:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mamalay ɣudes ciqaɣor qaciƛ’or bik’ix zown, onoču iduza beynoyx, iduzasi royx bičix zown.
+Gloss: rooster daily forest-IN.VERS firewood-SUPER.LAT III-go-IPFV.CVB be.NPRS-PFV.CVB hen home-ZA III-work-IPFV.CVB home-ZA-ATTR IV-do-PRS III-be-PRS be.NPRS-PST.UNW
+Translation: Every day the rooster went into the forest for firewood, and the hen was at home doing the housework.
+
+Approximate Matches:
+Sentence: Hay riguƛin, reynoyx neširur ričin.
+Gloss: so.then IV-good-QUOT IV-work-IPFV.CVB evening-LAT III.PL-be-PST.UNW
+Translation: Well then, he said, so they worked until the evening.
+Sentence: Howlotow neła babiwqor maħor čˤaƛanix t’asno teƛno, eƛin, baba, yiła ɣˤutka eynoyxosi gurow žek’u išxosi anuƛin.
+Gloss: there-EMPH DEM1.IISG.OBL-ERG father-POSS.LAT outside pour.out-MSD-AD.ESS washbowl-TOP give-PFV.CVB say-PFV.CVB daddy DEM2.IISG.OBL house-IN.ESS work-PRS.PRT except man eat-PRS.PRT be.NEG-QUOT
+Translation: There she gave her father the bowl in order to pour it outside and said: "Daddy, in this house only someone who works, gets to eat!"
+Sentence: Yeynoyxosi aɣˤur yičinosi, maħorno yoqno habihanes baru yezun.
+Gloss: II-work-PRS.PRT mill II-cease-ANT.CVB outside-TOP II-become-PFV.CVB miller-GEN1 wife II-look-PST.UNW
+Translation: When the working mill stopped working, the miller's wife went outside and had a look.

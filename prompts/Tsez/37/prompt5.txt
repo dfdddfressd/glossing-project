@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: besun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": besun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word besun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.
+Sentence: Eloza bezu-bˤoƛ’unosi, zirur boƛik’u bac’äsi ƛeles q’ulaʕi besun.
+Gloss: there-ZA III-examine-ANT.CVB fox-LAT half III-eat-RES.PRT lamb-GEN1 carcass III-find-PST.UNW
+Translation: When he looked around there, he found the carcass of a half-eaten lamb.
+
+Approximate Matches:
+Sentence: Łˤono äƛiruni bełiqa qˤaƛin, insan esunäy roži roɣo, bełi besunäy ela c’eruc’a caƛixƛin.
+Gloss: three ORD-DEF hunter-ERG shout-PFV.CVB human find-CND.CVB word IV-take.away-IMPR deer III-find-CND.CVB we(I).OBL-ERG bow shoot.with-PRS-QUOT
+Translation: The third hunter shouted: "If you are a human, say something; if you are an animal, we will shoot you with the bow!"
+Sentence: Xizyo mi däder horo debertown aq’ˤlu betin besunäyƛin, bełiqa xandäɣor uži egirno.
+Gloss: afterwards you me-APUD.LAT come.IMPR you-LAT-EMPH-TOP advice III-want-PFV.CVB III-appear-CND.CVB-QUOT hunter-ERG khan-APUD.VERS son send-PST.UNW
+Translation: Then come to me, in case you want some advice," and the hunter sent his son to the king.
+Sentence: Di aždaħ bexursiƛin meži daƛ’ bužzi boqxo besunč’inäy, nełał mežus daʕban besunäy, bik’in aždaħes q’ˤim rowo xanqo rukaranixƛin”.
+Gloss: me dragon III-kill-PST.WIT-QUOT you.PL me-SUPER.ESS trust III-become-IPFV.CVB III-exist-NEG.FUT-CND.CVB DEM1.IISG.OBL-CONT.ESS you(I).PL.OBL-GEN1 dispute-TOP III-have-CND.CVB I.PL-go-PFV.CVB dragon-GEN1 head IV-get-IMPR khan-POSS.ESS IV-show-MSD-AD.ESS-QUOT
+Translation: "If you don't believe me that I killed the dragon and you are having a dispute on that, go and get the dragon's head to show it to the king!"

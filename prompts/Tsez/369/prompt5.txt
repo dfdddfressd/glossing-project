@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’inosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’inosi: 
+
+Exact Matches
+Sentence: Hudayzikotow Bac’ali žedu k’eda ik’inosi, zeyn keze boqno nełaq esirno, meža dey čanyabi rac’iyäƛin.
+Gloss: the.next.day-EMPH Batsali DEM1.IIPL search-INF go-ANT.CVB bear-TOP meet III-become-PFV.CVB DEM1.IISG.OBL-POSS.ESS ask-PFV.CVB you(II-ERG me-GEN1 she.goat-PL III.PL-eat-PST.WIT.Q-QUOT
+Translation: The next day, when Batsali went to search them, he met a bear and asked him: "Have y'all eaten my goats?"
+Sentence: ʕOƛno ħonno, ʕoƛno iħun xecin ik’inosi, sida ʕaƛar ayn.
+Gloss: seven mountain-and seven river-and leave-PFV.CVB go-ANT.CVB one.OBL village-IN.LAT come-PST.UNW
+Translation: After he walked past seven mountains and seven rivers, he came into a village.
+Sentence: Žan bitor yiq’ˤirno waħaz egin ik’inosi, deber elo ixiw gondu yukay, elogon tełxor oqnosi, q’ˤida yičäsi eniw yäsu.
+Gloss: DEM1.SG-TOP thither II-move.aside-PFV.CVB below-IN.ESS.DIST go.into-PFV.CVB go-ANT.CVB you-LAT there big big.hole II-see there-CNTR inside-AD.LAT become-ANT.CVB down II-sit-RES.PRT mother II-find
+Translation: After you have moved it aside and went below it, you will see a big hole, and inside you will see your mother sitting there.
+
+Approximate Matches:
+Sentence: Onočas pikru boqno, ciqaɣor ža bik’inosi, nełał xizay xal bodin bičanƛin.
+Gloss: hen-GEN1 idea III-become-PFV.CVB forest-IN.VERS DEM1.SG III-go-ANT.CVB DEM1.IISG.OBL-CONT.ESS behind examination III-do-PFV.CVB III-be-FUT.DEF-QUOT
+Translation: The hen had the idea to follow him, when he goes to the forest.
+Sentence: Neširun biša bik’inosi, esnazar howžatow žek’u esun q’ˤunan reƛ’izad q’ˤimno riqirno, bišadyoƛ’or aq’ˤułno ičäsi.
+Gloss: at.night-TOP I.PL-eat-INF I.PL-go-ANT.CVB brother-PL-LAT DEM4.SG-EMPH man find-PFV.CVB two.OBL-TOP hand-PL-INSTR head-TOP IV-stop-PFV.CVB food-SUPER.LAT sit-PFV.CVB be-RES.PRT
+Translation: When they came to eat dinner there, the brothers found that man there with his two hands supporting him and sitting over his food.
+Sentence: Nełƛ’osi ɣudbi rik’inosi, sida quł iħuz lilyox yisir bikori besun.
+Gloss: of.that.time day-PL IV.PL-go-ANT.CVB one.OBL day-CONT.ESS river-GEN2 river.bank-AD.ESS DEM2.ISG.OBL-LAT snake III-find-PST.UNW
+Translation: From then on the days went by, and one day he found a snake at the river bank.

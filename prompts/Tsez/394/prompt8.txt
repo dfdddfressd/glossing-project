@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ogun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ogun: 
+
+Exact Matches
+Sentence: Aɣi bukayruntow nełaz maʕdinłiƛ’no ezun xan haqa ogun ƛexun.
+Gloss: bird III-see-IMM.ANT.CVB-EMPH DEM1.IISG.OBL-GEN2 beauty-SUPER.ESS-TOP look-PFV.CVB khan mouth-IN.ESS gape-PFV.CVB remain-PST.UNW
+Translation: When the king saw the bird, he stood there gaping about its beauty.
+Sentence: Eƛa šebinon koƛ’inč’ey haqa ogun heresi mec esixosini ƛexasi yałzay, buyxor mec esixosini ħalarno oƛixno eƛin:
+Gloss: say-INF something understand.to-NEG.PST.CVB mouth-IN.ESS gape-PFV.CVB false language tell-PRS.PRT-DEF remain-RES.PRT be-SIM.CVB III-true-AD.LAT language tell-PRS.PRT-DEF strength-IN.LAT-TOP appear-PFV.CVB say-PST.UNW
+Translation: While the liar stood there with an open mouth not knowing what to say, and the one who always said the truth came to help and said:
+Sentence: Dibir haqa ogun ƛexun, eƛa rožin riqinč’ey.
+Gloss: mullah mouth-IN.ESS gape-PFV.CVB remain-PFV.CVB say-INF word-TOP IV-get-NEG.PST.UNW
+Translation: The mullah was gaping in surprise and had no word to say.
+
+Approximate Matches:

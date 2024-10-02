@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yižin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yižin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yižin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: Neła quł neširu ža äčiza ɣutkaɣorgon baħarayn yižin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS evening DEM1.SG live-LCV house-IN.VERS-CNTR fiancée-TOP II-lead-PST.UNW
+Translation: That evening, he lead his fiancée to the house were he lived.
+Sentence: Kʷaxatow bertenno boyn yedu kid nesi žoyä yižin.
+Gloss: soon-EMPH marriage-TOP III-do-PFV.CVB DEM2.IISG girl DEM1.ISG.OBL boy-ERG II-lead-PST.UNW
+Translation: Soon they celebrated their wedding and the boy took the girl with him.
+
+Approximate Matches:
+Sentence: Nesir res boqnoanu ža kid yižinč’ey.
+Gloss: DEM1.ISG.OBL-LAT possibility III-become-PFV.CVB-NEG DEM1.SG girl II-lead-NEG.PST.CVB
+Translation: He had no choice not to marry her.
+Sentence: Zamanałäy, yeda uži, ža yižinč’ey di ik’ixanu meži bik’iƛin, xizorno utin, kidno yižin ʕaƛaɣor ik’in.
+Gloss: time-CONT.ABL DEM2.ISG boy DEM1.SG II-carry-NEG.PST.CVB me go-IPFV.CVB-NEG you.PL I.PL-go-QUOT back-TOP return-PFV.CVB girl-TOP II-take.out-PFV.CVB village-IN.VERS go-PST.UNW
+Translation: At one point in time, the boy couldn't bear it any longer and, [saying] "I won't go, you go [alone]!", he returned, took the girl with him and went towards the village.
+Sentence: Ža kid yižinč’ey, babiwde sadaq di äk’inč’iƛingon, xanes uži ičin.
+Gloss: DEM1.SG girl II-take.out-NEG.PST.CVB father-APUD.ESS together me go-NEG.FUT-QUOT-CNTR khan-GEN1 son be-PFV.CVB
+Translation: "I will not go with my father without that girl," the khan's son said.

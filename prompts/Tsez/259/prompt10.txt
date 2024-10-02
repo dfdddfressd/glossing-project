@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħiƛ’oqadno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħiƛ’oqadno: 
+
+Exact Matches
+Sentence: Yisägon ħiƛ’oqadno rizirno yałza mečoƛ’ eqerno.
+Gloss: DEM2.ISG.OBL-ERG-CNTR handkerchief-INSTR-TOP IV-lift-PFV.CVB be-LCV place-SUPER.ESS put-PST.UNW
+Translation: And he lifted it with a handkerchief and put it back to the place where it was.
+
+Approximate Matches:
+Sentence: Xizyo deber rätiru šebin t’ubazi radi yiła barkatawni ħiƛ’oqaƛinno eƛin, bikorä uži hunix egirno.
+Gloss: afterwards you-LAT IV-want-PST.PRT thing fulfill IV-do DEM2.IISG.OBL blessed-DEF handkerchief-QUOT-TOP say-PFV.CVB snake-ERG boy way-AD.ESS let-PST.UNW
+Translation: "Afterwards this blessed handkerchief will fulfill anything you want.", the snake said and let the boy go.
+Sentence: T’akanyar bayru mesedno ħiƛ’oqax butirno čantan eqerno, łˤonon besuron bižin uži iduɣor ik’in.
+Gloss: glass-IN.LAT III-come-PST.PRT gold-TOP handkerchief-AD.ESS III-gather-PFV.CVB pocket-TOP put-PFV.CVB three-TOP fish-TOP III-carry-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The boy gathered the gold that came int the glass into a handkerchief, put it inside his pocket and carried the three fish home.

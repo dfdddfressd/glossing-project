@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mix: 
+
+Exact Matches
+Sentence: Baq’ˤu mix bik’izaƛ’ortow, eɣeni esiwr teqxo xabar, yisiz eženi esiws cudi nukarza c’unzi bodix sida qunyox yołƛin.
+Gloss: III-much time III-go-POST.CVB-EMPH young-DEF brother-LAT hear-PRS story DEM2.ISG.OBL-GEN2 old-DEF brother-GEN1 corpse henchman-PL-ERG guard I.PL-do-IPFV.CVB one.OBL farmstead-AD.ESS be-QUOT
+Translation: Before much time has passed, the younger brother was hearing the story that his older brother's corpse was at a farmstead being guarded by henchman.
+Sentence: Neła quł neširu yizirabi kecno baq’ˤu mix bik’izaƛ’ortow, Tawadis uži ayn.
+Gloss: DEM1.IISG.OBL day-CONT.ESS evening DEM2.PL sleep-PFV.CVB III-much time III-go-POST.CVB-EMPH Tavadi-GEN1 son come-PST.UNW
+Translation: On the same evening, before they slept too long, Tavadis son came.
+Sentence: Baq’ˤu mix bik’izaƛ’orgon hemedurtow weeƛirno zeyä cek’i.
+Gloss: III-much time III-go-POST.CVB-CNTR so-EMPH bleat-CAUS-PST.UNW bear-ERG goat.kid
+Translation: After quite some time has passed, the bear caused the goat kid to bleat again.
+
+Approximate Matches:

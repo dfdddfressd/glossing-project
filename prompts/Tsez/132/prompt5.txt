@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bäqiƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bäqiƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bäqiƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Užä žeduqor eƛin, neła ziys ħošis režigon reɣet’a t’it’urbi roys yołi, bežigon baq’ˤu łemu där micxir bäqiƛin.
+Gloss: boy-ERG DEM1.IPL.OBL-POSS.LAT say-PST.UNW DEM1.IISG.OBL cow-GEN1 hide-GEN1 IV-more-CNTR IV-small-DISTR piece-PL IV.PL-do-PST.WIT if III-more-CNTR III-much then.would me-LAT money III-get-QUOT
+Translation: The boy said to them: "If you had made even smaller pieces, then I would've gotten even more money."
+Sentence: Hudunon xexzaqor babiya moƛałt’a eƛix zown, q’ˤanoqu ɣudi ret’ace däz šudaxor baħnaynäy, mežur ža di äƛiru ukru bäqiƛin.
+Gloss: nevertheless-TOP children-POSS.LAT father-ERG dream-CONT.ESS-DISTR say-IPFV.CVB be.NPRS-PFV.CVB forty day IV-part-TERM me-GEN2 graveyard-AD.LAT I.PL-walk.around-CND.CVB you(I).PL.OBL-LAT DEM1.SG me say-PST.PRT silver III-get-QUOT
+Translation: Nevertheless, the father said to the children in their dream: 'When you come walking to my grave before 40 days have passed, I will get said silver for you.'
+Sentence: Užä žawab teƛno, meža aħinyoqorno icingon di iħułxor kursi yołi, bežigon ixiw reqen där bäqiƛin.
+Gloss: boy-ERG answer give-PST.UNW you(I).PL.OBL-ERG rock-POSS.LAT-TOP tie-PFV.CVB-CNTR me river-CONT.VERS throw-PST.WIT if III-more-CNTR big herd me-LAT III-get-QUOT
+Translation: The boy answered: "If you had thrown me into the river tied to a rock, then I would've gotten an even bigger flock."
+
+Approximate Matches:
+Sentence: Hudu šebi di rodinäy xedyoxay bat’an yoqno där etixosi äqiƛin, esirno riynoxuq.
+Gloss: so what me IV-do-CND.CVB husband-AD.ABL seperation-TOP II-become-PFV.CVB me-LAT lover get-QUOT ask-PST.UNW sheikh-POSS.ESS
+Translation: "So what shall I do to get rid of my husband and get my lover?", she asked the sheikh.
+Sentence: Žeda eƛixƛax, oc’ira łera ɣudƛ’aza howži ɣutaneł ixiw zigolun yegär, raq’ˤu bˤeƛ’no räxu, rigza ħalał elur reƛno räqiƛin.
+Gloss: DEM1.IIPL.OBL-ERG say-PRS-QUOT ten.OBL five.OBL day-SUPER.VERS.DIST now winter.pasture-CONT.ESS big hail-TOP II-let IV-many sheep-TOP III.PL-die IV-much-ZA trouble-CONT.ESS we(I).OBL-LAT meat-TOP IV-get-QUOT
+Translation: They were saying: "Fifteen days from now there will be a big hailstorm on the winter pasture, many sheep will die, and we will have a lot of meat in the trouble."

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word moƛał in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word moƛał: 
+
+Exact Matches
+Sentence: T’ogon žade puħorno yik’in, ƛ’iri yutin eniw, eso däq, šebi deber moƛał rukayx zowäƛin.
+Gloss: there-CNTR son-APUD.ESS side-AD.LAT-TOP II-go-PFV.CVB above II-turn-PFV.CVB mother tell-IMPR me-POSS.ESS what you-LAT dream-CONT.ESS IV-see-IPFV.CVB be.NPRS-PST.WIT.INT-QUOT
+Translation: There, the mother went beside him and insisted: "Tell me, what did you see in your dream?"
+Sentence: Yisi žar moƛał neł gogaƛäz łäs oreznin, bišʷan rizäsi c’in, qacisgon ɣeryabin rukayn.
+Gloss: DEM2.ISG.OBL boy-LAT dream-CONT.ESS DEM1.IISG.OBL meadow-SUB.ESS.DIST water-GEN1 pond-and food-and IV-get-RES.PRT fire-and firewood-GEN1-CNTR pile-PL-and IV.PL-see-PST.UNW
+Translation: In his dream, the boy saw a pond of water under the meadow, food, a fire and a pile of firewood.
+Sentence: Xizyo Ħon-Bahadurä babiwq nesir yukayru moƛałäy esin, howža moƛał yukayru kidbeł xizay ik’a retinƛin.
+Gloss: afterwards Mountain~Hero-ERG father-POSS.ESS DEM1.ISG.OBL-LAT II-see-PST.PRT dream-CONT.ABL tell-PST.UNW DEM4.SG dream-CONT.ESS II-see-PST.PRT girl-CONT.ESS behind go-INF IV-want-PST.UNW-QUOT
+Translation: Then Mountain~Hero told his father about the dream he had seen: "I want to go after the girl that I had seen in that dream."
+
+Approximate Matches:
+Sentence: Ħayran yoqno yezun ƛexun kid, moƛałä yedu di yaqˤułƛin.
+Gloss: be.astonished II-become-PFV.CVB II-look-PFV.CVB remain-PFV.CVB girl dream-CONT.ESS-Q DEM2.IISG me today-QUOT
+Translation: The girl was surprised and remained looking (at him), "Is this day a dream?"
+Sentence: Xizyo Ħon-Bahadurä babiwq nesir yukayru moƛałäy esin, howža moƛał yukayru kidbeł xizay ik’a retinƛin.
+Gloss: afterwards Mountain~Hero-ERG father-POSS.ESS DEM1.ISG.OBL-LAT II-see-PST.PRT dream-CONT.ABL tell-PST.UNW DEM4.SG dream-CONT.ESS II-see-PST.PRT girl-CONT.ESS behind go-INF IV-want-PST.UNW-QUOT
+Translation: Then Mountain~Hero told his father about the dream he had seen: "I want to go after the girl that I had seen in that dream."
+Sentence: Nediwt’a panduryabi elzox šomoƛała besʷanƛin”.
+Gloss: such-DISTR lute-PL we(II-ATTR.OBL-AD.ESS how.many-INDEF-DUB III-have-FUT.DEF-QUOT
+Translation: "We should have some such lutes."

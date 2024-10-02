@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: maʕišat.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": maʕišat
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word maʕišat:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: T’omceni žek’us bełiqaner nasin ric’q’in ƛexun, barułungon nesis kidno yown, maʕišat bodix howlotow žan ičin.
+Gloss: span-EQU1-DEF man-GEN1 hunter-LAT all wealth-TOP remain-PFV.CVB wifehood-TOP-CNTR DEM1.ISG.OBL-GEN1 daughter-TOP II-marry-PFV.CVB fortune III-do-IPFV.CVB there-EMPH DEM1.SG-TOP live-PST.UNW
+Translation: All the span-sized man's wealth remained for the hunter, he married his daughter, and lived there making a great fortune.
+Sentence: Wey Goqi, mi di kikinäy, Allahä deber kiʕangi maʕišat bičärƛin”.
+Gloss: hey Goqi you me feed-CND.CVB God-ERG you-LAT some fortune III-hand.over-QUOT
+Translation: "Hey Goqi, if you feed me, God will set up a fortune for you."
+Sentence: Ɣudes uži bełiƛ’ aħnayx, bełiqanzo haq’us maʕišat bigełno (bigu boqno).
+Gloss: daily son hunting-SUPER.ESS walk.around-IPFV.CVB hunter-GEN2 family-GEN1 fortune III-improve-PST.UNW III-good III-become-PST.UNW
+Translation: Daily the son went hunting and thus the hunter's family's fortune improved (they got wealthy).
+
+Approximate Matches:
+Sentence: Xizaɣor ɣˤutkun, idusi maʕišatno, daruyabin teƛno micxiryosno, mesedyosno ħurženyabin ric’no, yeda saparyox oqno.
+Gloss: finally house-TOP home-ATTR fortune-TOP medicine-PL-TOP sell-PFV.CVB money-GEN1-TOP gold-GEN1-TOP bag-PL-TOP IV-fill-PFV.CVB DEM2.ISG journey-AD.ESS begin-PFV.CVB
+Translation: Finally, he sold his house, fortune, medicine and went on journey with the saddle bags filled with money and gold.
+Sentence: Howži elay izin oqƛ’oräy, xanez žaq esiwz xediya esirno, šebi deber di t’ay neƛanƛin, micxirä, mesedä, q’ˤuya maʕišatäƛin.
+Gloss: now there-IN.ABL get.up-PFV.CVB begin-SIM.CVB khan-GEN2 son-POSS.ESS sister-GEN2 husband-ERG ask-PST.UNW what you-LAT me from.here give-FUT.DEF-QUOT money-Q gold-Q other fortune-Q-QUOT
+Translation: Now, while he began to get up from there again, the prince was asked by his sister's husband: "What shall I give you from there? Money, gold or another fortune?"
+Sentence: Yizä yeda uži, elus ʕeziyaw maʕišatno yołƛin, žeda žedude iduɣorno ižin, deber rätiru šeƛ’u łet’in šeƛ’oƛin bitazoni ɣˤutka tełer egirno.
+Gloss: DEM2.IPL.OBL-ERG DEM2.ISG boy we(I).OBL-GEN1 many fortune-TOP be-QUOT DEM1.IIPL.OBL-ERG DEM1.IPL.OBL-APUD.ESS home-IN.ALL-TOP lead-PFV.CVB you-LAT IV-want-PST.PRT clothing pick-PFV.CVB put.on-IMPR-QUOT next-DEF room-IN.ESS into let-PST.UNW
+Translation: They lead this boy into their own home[, saying]: "We're very rich, pick any clothes you want and put them on.", and let him into the next room.

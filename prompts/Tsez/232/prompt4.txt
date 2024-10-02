@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kidbaza in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kidbaza: 
+
+Exact Matches
+Sentence: Neširaɣor qacis muɣbin rown nexƛ’oräy, där muɣ boq’ˤiłxoƛin eniya eƛinosi, sis rečiwsi riłe qaca tełäy roɣno q’ˤidar kuroƛin, kidbaza eƛin.
+Gloss: at.night-IN.VERS firewood-GEN1 bundle-PL-TOP III.PL-bring-PFV.CVB come-SIM.CVB me-LAT bundle III-be.heavy-PRS-QUOT mother-ERG say-ANT.CVB one IV-thick-ATTR IV-as firewood inside-IN.ABL IV-take.away-PFV.CVB down-LAT throw-IMPR-QUOT daughter-PL say-PST.UNW
+Translation: When they were coming back with a bundle of firewood in the evening and the mother said: "The bundle is too heavy for me", the daughters said: "Take a thick bunch of firewood and throw it out."
+
+Approximate Matches:
+Sentence: Sida quł, babiya igorno goƛ’in kidbazaq riyrno, sasaq eli bet’erbaqi bodanix maħor boqa bayƛin.
+Gloss: one.OBL day-CONT.ESS father-ERG near-LAT-TOP call-PFV.CVB daughter-PL-POSS.ESS IV-explain-PST.UNW tomorrow we life III-do-MSD-AD.ESS outside I.PL-become-INF I.PL-must-QUOT
+Translation: One day, the father called them to himself and explained to the daughters: "Tomorrow we have to go outside to do work."
+Sentence: Elo babiya kidbazaqor eƛin, meži däqor rezun howt’o ričinčey, di ezu-ʕaƛ’a ik’an sasaqor ɣudi qˤaširanix elur t’ozoƛ’ay bigu moči yołäƛin.
+Gloss: there father-ERG daughter-PL-POSS.LAT say-PST.UNW you.PL me-POSS.LAT II.PL-look-PFV.CVB here II.PL-wait-PFV.CVB-INTS me examine-INF go-FUT.CVB in.the.morning-POSS.LAT day dawn-MSD-AD.ESS we(I).OBL-LAT here-ATTR.OBL-SUPER.ABL I.PL-good place be-Q-QUOT
+Translation: There the father told them: "Wait for me here, I will go and have a look around if there is a better place to spend the night than this one here."
+Sentence: Łox esirno dandir žawab biqinč’izaƛ’, yizirabi kecsi howžiƛin, ɣoɣoräk’ru ħos risno užizasƛin eƛin kidbazas meč’oƛ’no eqerno, yik’in kecno.
+Gloss: thrice ask-PFV.CVB together answer III-get-NEG.FUT-CSL.CVB DEM2.PL sleep-PST.WIT now-QUOT make.red.hot-PST.PRT stick IV-take-PFV.CVB boy-PL-GEN1-QUOT say-PFV.CVB girl-PL-GEN1 neck-SUPER.ESS-TOP put-PFV.CVB II-go-PFV.CVB sleep-PST.UNW
+Translation: Because she had asked three times without getting an answer, [saying] "Now they're sleeping", she took the red-hot stick and - thinking it were the boys - put it onto the necks of the girls and went to sleep.

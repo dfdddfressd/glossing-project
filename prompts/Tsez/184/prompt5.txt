@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: äƛiruxor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": äƛiruxor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word äƛiruxor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyo, babiya äƛiruxor, ža uži bazarganzar teƛno.
+Gloss: afterwards father-ERG ORD-AD.LAT DEM1.SG boy merchant-PL-LAT give-PST.UNW
+Translation: Afterwards, the father sold his boy off to the merchants, as he said.
+Sentence: Hudayzikotow bertenno bodin, miskinaw oqłin ʕaq’ilawni žax nesi žek’a äƛiruxor, kidno yegirno.
+Gloss: the.next.day-EMPH marriage-TOP III-do-PFV.CVB poor become-CNC.CVB intelligent-DEF boy-AD.ESS DEM1.ISG.OBL man-ERG ORD-AD.LAT girl-TOP II-send-PST.UNW
+Translation: The next day the wedding was arranged and the girl was - as this man had told - married off to the intelligent though poor boy.
+Sentence: Mi äƛiruxor rodanƛin, eniwr rožin teƛno, uži ʕaƛay maħor hunix oqno.
+Gloss: you say-PST.PRT-AD.LAT IV-do-FUT.DEF-QUOT mother-LAT word-TOP give-PFV.CVB son village-IN.ABL outside way-AD.ESS become-PST.UNW
+Translation: The son gave his mother his word: "I'll do what you said!", and went on his way out of the village.
+
+Approximate Matches:
+Sentence: Zamanaƛ’aza elor äƛiruxortow q’ˤano miƛ’in bayn, riħadanix riħun.
+Gloss: time-SUPER.VERS.DIST there-LAT say-PST.PRT-AD.LAT-EMPH two ram-TOP III-come-PFV.CVB III.PL-fight-MSD-AD.ESS III.PL-come.to-PST.UNW
+Translation: After some time, two said rams came there and started to fight.
+Sentence: Enduräza rik’in tamadaqorno eƛin, äƛiruxorno bexurna yizä boc’iƛin, žedułäy sis bezanix madaɣor bik’in.
+Gloss: that.way-IN.VERS.DIST III.PL-go-PFV.CVB toastmaster-POSS.LAT-TOP say-PFV.CVB say-PST.PRT-AD.LAT-TOP III-kill-PFV.CVB.INT DEM2.IIPL.OBL-ERG wolf-QUOT DEM1.IPL.OBL-CONT.ABL one III-look-MSD-AD.ESS outside-APUD.VERS III-go-PST.UNW
+Translation: They went that way and said to the toastmaster: "[???]"; one of them went outside to took whether they had killed the wolf as they said.

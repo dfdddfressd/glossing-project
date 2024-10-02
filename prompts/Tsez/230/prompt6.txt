@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bišanin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bišanin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nesi užä mežus ʕumru xʷasar bodäsi boqzaƛ’, nesiłno, Beqes ʕUneyzatełno esnałin risno žeduz bertenyołxor bik’i, ent’aytow ħaƛu-bišanix šebinon rižin.
+Gloss: DEM1.ISG.OBL boy-ERG you(I).PL.OBL-GEN1 life rescue III-do-RES.PRT III-become-CSL.CVB DEM1.ISG.OBL-CONT.ESS-and sun-GEN1 Uneyzat-CONT.ESS-and brother IV-take-PFV.CVB DEM1.IPL.OBL-GEN2 marriage-CONT.VERS I.PL-go from.here-IN.ABL-EMPH eat.and.drink-MSD-AD.ESS something IV-take.out-PFV.CVB
+Translation: Because that boy saved your life, you should fraternize with him and Sun's Uneyzat and go to their marriage after taking something to eat and drink with you."
+Sentence: Aždaħä bišanix baybik bodin.
+Gloss: dragon-ERG III-eat-MSD-AD.ESS begin III-do-PST.UNW
+Translation: The dragon began to eat.
+Sentence: Neła quł hudayziko sasaqasi zaman baynosi, žedur bišanix retin, hudun Q’arumä nesiqosini biša ader roƛik’noanu.
+Gloss: DEM1.IISG.OBL day-CONT.ESS the.next.day in.the.morning-ATTR time III-come-ANT.CVB DEM1.IPL.OBL-LAT I.PL-eat-MSD-AD.ESS IV-want-PFV.CVB nevertheless Qarum-ERG DEM1.ISG.OBL-POSS.ESS-ATTR-DEF food forward IV-pull.out-PFV.CVB-NEG
+Translation: A day later, when the morning time came, they wanted to eat, but Qarum didn't take out the food that he had.

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word oƛozonirgon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word oƛozonirgon: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hudayziko yoƛozoni esiwqor gegmus ric’äsi saħ teƛno, däz ozyor rac’anix ʕeziyaw magalabi rodoƛin.
+Gloss: the.next.day II-middle-ATTR.OBL-DEF sister-POSS.LAT flour-GEN1 IV-fill-RES.PRT sah give-PST.UNW me-GEN2 army-LAT IV-eat-MSD-AD.ESS many bread-PL III.PL-do-IMPR-QUOT
+Translation: The next day, he gave a sah filled with flour to the middle sister, [saying]: "Make many breads for my army to eat!"
+Sentence: Yoƛozoni esiya eƛin, däqor at’es sis saħ neƛnäy, debez ozyortow ʕeze roqace magalabi rodan diƛin.
+Gloss: II-middle-ATTR.OBL-DEF sister-ERG say-PST.UNW me-POSS.LAT wheat-GEN1 one sah give-CND.CVB you-GEN2 army-LAT-EMPH be.enough III.PL-become-TERM bread-PL III.PL-do-FUT.DEF me-QUOT
+Translation: The middle sister said: "If you give me one sah of wheat, I will make breads enough for your army."

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: raynosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": raynosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word raynosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mečołer raynosi, boƛƛo baq’ˤu zaman bik’izaƛ’ortow, zira im-m-m-m, im-m-m-mƛin eƛin.
+Gloss: field-CONT.LAT III.PL-come-ANT.CVB III-middle III-much time I.PL-go-POST.CVB-EMPH fox-ERG mhmhmh mhmhmh-QUOT say-PST.UNW
+Translation: After coming to the field, not much time passed until the fox said: "Mhmhmh, mhmhmh!"
+Sentence: Xizyo šeyxä äƛiru šebin yisiz rok’ƛ’or raynosi ičiqeqełno.
+Gloss: afterwards sheikh-ERG say-PST.PRT thing DEM2.ISG.OBL-GEN2 heart-SUPER.LAT IV-come-ANT.CVB pause-PST.UNW
+Translation: Then he remembered what the sheikh had said and paused.
+Sentence: Roƛiqur raynosi yeda sida ʕaƛarno ayn, adäza räsuru ɣˤutkaɣor ik’in.
+Gloss: at.midnight IV-come-ANT.CVB DEM2.ISG one.OBL village-IN.LAT-TOP come-PFV.CVB ahead IV-exist-PST.PRT house-IN.VERS go-PST.UNW
+Translation: At midnight he came into a village and went into the house that lay before him.
+
+Approximate Matches:
+Sentence: Q’ˤunan ozzar rukaynosi, aɣˤuxay bitor hunix oqno yeda zeyä äƛiruni hemeł ʕaƛaɣor.
+Gloss: two.OBL-TOP eye-PL-LAT IV-see-ANT.CVB mill-AD.ABL thither way-AD.ESS become-PFV.CVB DEM2.ISG bear-ERG say-PST.PRT-DEF DEM4.IISG.OBL village-IN.VERS
+Translation: When both of his eyes saw again, he got on his way away from the mill to the village that the bear had talked about.
+Sentence: Acxor wazir aynosi, nesir eženi esiya eƛix teqno:
+Gloss: door-AD.LAT vizier come-ANT.CVB DEM1.ISG.OBL-LAT old-DEF brother-ERG say-IPFV.CVB hear-PST.UNW
+Translation: When the vizier came to the door, he heard the eldest brother say:
+Sentence: Ečriłno exʷa zaman baynosi, nesä žaqor wasi bodin, di exunosi deber rätiza ɣˤutkun rodo, yexoriłxosin, k’ot’oniłxosin, aluk’an, qˤaban yoqxosi gurow barun yawno.
+Gloss: get.old-PFV.CVB die-INF time III-come-ANT.CVB DEM1.ISG.OBL-ERG son-POSS.LAT testament III-do-PST.UNW me die-ANT.CVB you-LAT IV-want-LCV house-TOP IV-do-IMPR II-become.longer-PRS.PRT-and become.shorter-PRS.PRT-and white-and black-and II-become-PRS.PRT except wife-TOP II-mouse-TOP
+Translation: He got older and when the time has come to die, he gave his testament to the son: "When I have died, you build a house where you want, but don't marry a woman except for one being black and white, be she long or short.

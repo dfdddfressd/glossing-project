@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bero in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bero: 
+
+Exact Matches
+Sentence: Hemełƛ’o guluƛay dahaw bero becin bik’in.
+Gloss: DEM4.IISG.OBL-SUPER.ESS horse-SUB.ABL a.little ice III-thaw-PFV.CVB III-go-PST.UNW
+Translation: After that, a little ice thawed away from the horse.
+
+Approximate Matches:

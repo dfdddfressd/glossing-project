@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word begirłi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word begirłi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Mi aħyabin rˤoƛ’urno šida ičäsiƛin esirnosi, yisä eƛin, debex di esiw yegirłin, mi däq debi mi maʕišat bukarxanuƛin.
+Gloss: you ear-PL-TOP IV-let.fall-PFV.CVB why be-RES.PRT-QUOT ask-ANT.CVB DEM2.ISG.OBL-ERG say-PST.UNW you-AD.ESS me sister II-send-CNC.CVB you me-POSS.ESS you-GEN1 you fortune III-show-PRS-NEG-QUOT
+Translation: When in the morning he asked: "Why are you sitting there with your ears fallen down?", he answered: "Although I married off my sister to you, you don't show me your fortune."
+Sentence: Yisä eƛin, debex di esiw yegirłin, mi di ƛ’irizoni ɣˤutka tełer ezura egirinč’uƛin.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW you-AD.ESS me sister II-send-CNC.CVB you me above-ATTR.OBL-DEF room-IN.ESS into show-INF let-NEG.PST.WIT-QUOT
+Translation: He said: "Although you married your sister off to me, you didn't let me look into the upper room."

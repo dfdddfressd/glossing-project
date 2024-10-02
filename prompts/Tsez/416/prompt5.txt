@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bik’ix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bik’ix: 
+
+Exact Matches
+Sentence: Mamalay ɣudes ciqaɣor qaciƛ’or bik’ix zown, onoču iduza beynoyx, iduzasi royx bičix zown.
+Gloss: rooster daily forest-IN.VERS firewood-SUPER.LAT III-go-IPFV.CVB be.NPRS-PFV.CVB hen home-ZA III-work-IPFV.CVB home-ZA-ATTR IV-do-PRS III-be-PRS be.NPRS-PST.UNW
+Translation: Every day the rooster went into the forest for firewood, and the hen was at home doing the housework.
+Sentence: Eže izäsin oqzaƛ’, ɣudi räk’iruce nesis tatu bexux bik’ix zown.
+Gloss: old get-RES.PRT-TOP become-CSL.CVB day IV-go-PST.PRT-EQU1 DEM1.ISG.OBL-GEN1 power III-die-IPFV.CVB III-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: Because he was getting old, his power was dying as a day passed.
+Sentence: Žedu esnabi ɣudes bełiƛ’t’a bik’ix zown.
+Gloss: DEM1.IPL.OBL brother-PL daily hunting-SUPER.ESS-DISTR I.PL-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: Every day the brothers went hunting.
+
+Approximate Matches:
+Sentence: Elay bitorgon bik’ixozo q’ˤuya gamiƛ’aɣorno yizin ža xʷasarno yoqno, nełaƛ’town raładyoz lilyoxaɣor yok’ełno.
+Gloss: there-IN.ABL thither-CNTR I.PL-go-PRS.PRT.OBL other boat-SUPER.VERS-TOP II-get.up-PFV.CVB DEM1.SG rescue-TOP II-become-PFV.CVB DEM1.IISG.OBL-SUPER.ESS-EMPH-TOP sea-GEN2 river.bank-AD.VERS II-escape-PST.UNW
+Translation: She got to another boat that was going from there to somewhere else, got rescued and escaped on it to the seashore.
+Sentence: Neł t’umä ža t’akan yižin xaneł purłäzan eqerno, elaygon bitor hawaƛ’ žedu biħada bik’ixozo xanzo akixor bik’in.
+Gloss: DEM1.IISG.OBL pigeon-ERG DEM1.SG glass II-carry-PFV.CVB khan-CONT.ESS side-CONT.VERS.DIST-TOP put-PFV.CVB there-IN.ABL-CNTR thither air-SUPER.ESS DEM1.IPL III-fight-INF III-go-PRS.PRT.OBL khan-GEN2 window-AD.LAT III-go-PST.UNW
+Translation: The pigeon carried this glass, put it next to the king and from there flew to the king's window, from which they went out to fight.
+Sentence: Debez čanyazaƛ’ č’aq’ˤäsianu diƛin, zira eƛin, deber bukayxana di ħežƛ’azay qizanyor šebinno rižin bik’ixƛin.
+Gloss: you-GEN2 she.goat-PL-SUPER.ESS fall.down-RES.PRT-NEG me-QUOT fox-ERG say-PST.UNW you-LAT III-see-IPFV.CVB-NEG-Q me hajj-SUPER.ABL.DIST family-LAT thing-TOP IV-carry-PFV.CVB III-go-PRS-QUOT
+Translation: "I didn't assault your goat," said the fox, "don't you see I am coming from the hajj with things for my family?"

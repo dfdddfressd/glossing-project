@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eɣeni.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eɣeni
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eɣeni:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełde idur baynosi, šakno oqno eɣeni esiya kidbeq ħaƛanix łi esiro.
+Gloss: DEM1.IISG.OBL-APUD.ESS home-LAT I.PL-come-ANT.CVB suspicion-TOP become-PFV.CVB young-DEF brother-ERG girl-POSS.ESS drink-MSD-AD.ESS water ask-IMPR
+Translation: When they came to the house where she was, the youngest brother became suspicious and asked the girl if she wanted to drink some water.
+Sentence: Howži ža ɣamasno hokomƛ’o erno, eɣeni esiw xanes kid yałruni qalamxaɣor ik’in.
+Gloss: now DEM1.SG box-TOP carriage-SUPER.ESS put-PFV.CVB young-DEF brother khan-GEN1 daughter be-PST.PRT-DEF fortress-AD.VERS go-PST.UNW
+Translation: Now they put the box onto a carriage and the young brother went to the fortress where the king's daughter was.
+Sentence: Baq’ˤu mix bik’izaƛ’ortow, eɣeni esiwr teqxo xabar, yisiz eženi esiws cudi nukarza c’unzi bodix sida qunyox yołƛin.
+Gloss: III-much time III-go-POST.CVB-EMPH young-DEF brother-LAT hear-PRS story DEM2.ISG.OBL-GEN2 old-DEF brother-GEN1 corpse henchman-PL-ERG guard I.PL-do-IPFV.CVB one.OBL farmstead-AD.ESS be-QUOT
+Translation: Before much time has passed, the younger brother was hearing the story that his older brother's corpse was at a farmstead being guarded by henchman.
+
+Approximate Matches:
+Sentence: Eženi esiya eɣeniq reƛ’a caƛix kumak nesir boyx zown, yedakin ok’ełxanaƛin.
+Gloss: old-DEF brother-ERG young-DEF-POSS.ESS hand throw-IPFV.CVB help DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT
+Translation: The older brother was helping giving his hand to the younger one, so at least he might escape.
+Sentence: Igaɣor bayƛ’oräy, hič’č’an yeɣeni esiyagon, babiya nełqor teƛno zawruni, hiƛu kurno.
+Gloss: near-IN.VERS III-come-SIM.CVB the.most-TOP II-young-DEF sister-ERG-CNTR father-ERG DEM1.IISG.OBL-POSS.LAT give-PFV.CVB be.NPRS-PST.PRT-DEF comb throw-PST.UNW
+Translation: When it came closer, the youngest sister threw down the comb that their father had given to her.
+Sentence: Hič’č’a yeɣenigon hardizi oqa oqno, däx horoƛin.
+Gloss: the.most II-young-DEF-CNTR request become-INF begin-PST.UNW me-AD.ESS come.IMPR-QUOT
+Translation: Then the youngest one began to request: "Come to me!"

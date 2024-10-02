@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Nucoł in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Nucoł: 
+
+Exact Matches
+Sentence: Hudunč’e nucoł his roqux ƛexun mi.
+Gloss: nevertheless-INTS honey-CONT.ESS spring.wool IV-stick-IPFV.CVB remain-PST.UNW you
+Translation: you nevertheless were sticking the wool into the honey.
+
+Approximate Matches:
+Sentence: Ħumukuliƛ’ kut’yoƛ’aza puƛ’aza nucos sik zowwäƛin?”
+Gloss: camel-SUPER.ESS right.side-SUPER.VERS.DIST side-SUPER.VERS.DIST honey-GEN1 waterskin be.NPRS-PST.WIT.Q-QUOT
+Translation: "Was there a waterskin with honey on the camel's right side?"
+Sentence: Ža där riys hunix kut’yoƛ’aza puƛ’aza nucoƛ’osi t’ut’ bik’ix zawruƛ’azaƛin”.
+Gloss: DEM1.SG me-LAT IV-know-PST.WIT way-AD.ESS right.side-SUPER.VERS.DIST side-SUPER.VERS.DIST honey-SUPER.ESS-ATTR fly III-go-IPFV.CVB be.NPRS-PST.PRT-SUPER.VERS.DIST-QUOT
+Translation: This I know because there flew a bee on the right side of the way.
+Sentence: Hemełƛ’o xizyo nucos bic’alini q’ilimay yeda maħorno oqno, eženi esiws q’ˤimno risno iduɣor oxin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS after honey-GEN1 III-fill-ATTR-DEF qili-IN.ABL DEM2.ISG outside-TOP become-PFV.CVB old-DEF brother-GEN1 head-TOP IV-take-PFV.CVB home-IN.ALL run.away-PST.UNW
+Translation: After that, he got out of the honey-filled pot, took the older brother's head and ran home.

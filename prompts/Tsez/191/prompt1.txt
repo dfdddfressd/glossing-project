@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Ixdaxasi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Ixdaxasi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Ixdaxasi:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Sebixasi zaman baynosi, Paxrudinä Alimaħamaqor eƛin, ixdaxor ɣutanłäzay ħonqaɣor bˤeƛ’ rownosi, bˤeƛ’q’uł xizay kami anusi ƛeli bayrnäy, boƛik’u reqen deber xeca yołƛin.
+Gloss: autumn-AD.ESS-RES.PRT time III-come-ANT.CVB Pakhrudin-ERG Alimagomed-POSS.LAT say-PST.UNW spring-AD.LAT winter.pasture-CONT.ABL.DIST mountain-POSS.VERS sheep III.PL-bring-ANT.CVB sheep-CONT.ESS behind get.lost be.NEG-ATTR lamb III-lead-CND.CVB half herd you-LAT leave-INF be-QUOT
+Translation: When fall came, Pakhrudin said to Alimagomed: "Until spring, after your brought the sheep to the mountains onto the winter pastures, if you lead a lamb that doesn't get lost behind every sheep, then I'll leave you half of the herd."

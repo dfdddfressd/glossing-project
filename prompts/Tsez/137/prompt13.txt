@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: maħor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": maħor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word maħor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Eniya äƛiru rožbin rok’er ʕeze roqinč’ey, eženi užä eniwq q’ˤano magalun hunixor ererno, iday maħor oqno.
+Gloss: mother-ERG say-PST.PRT word-PL-TOP heart-LAT be.enough IV.PL-become-NEG.PST.CVB old-DEF son-ERG mother-POSS.ESS two bread-TOP way-AD.LAT put-CAUS-PFV.CVB home-IN.ABL outside become-PST.UNW
+Translation: The words that the mother had spoken didn't please his heart enough, so the oldest son let the mother give two breads to him for the way and left the home.
+Sentence: Ža xabar yisä aħyaxorkin begirnoanu, baru yowač’inƛin di hedizi oqäsiƛin, t’ok’ow ža xabar meža haqazay maħor baɣnoƛin.
+Gloss: DEM1.SG story DEM2.ISG.OBL-ERG ear-AD.LAT-even III-let-PFV.CVB-NEG wife II-marry-NEG.FUT.DEF-QUOT me swear become-RES.PRT-QUOT anymore DEM1.SG story you(I).PL.OBL-ERG mouth-IN.ABL.DIST outside III-take.away-PROHIB-QUOT
+Translation: These words he didn't let to his ears, "I won't marry another wife!"... "I swear!"... "Don't say that anymore!",
+
+Approximate Matches:
+Sentence: Xediw maħor ok’äłrungon, ɣamasya tełäy maħorno boqno elay boxin bazarganbin bok’ełno.
+Gloss: husband outside go.away-IMM.ANT.CVB-CNTR box-IN.ESS inside-IN.ABL outside-TOP I.PL-become-PFV.CVB there-IN.ABL I.PL-run.away-PFV.CVB merchant-PL-TOP I.PL-escape-PST.UNW
+Translation: Right after the husband went outside, the merchants got out of the box and ran away.
+Sentence: Rigutow riguƛin rok’ƛ’orno rayn, maħorno yoqno yiła guluzaƛ’ay q’ayn boɣno pikru bodin, Ražbadinqo iłäsi iłewa yeda där iyäƛin.
+Gloss: IV-good-EMPH IV-good-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB outside-TOP II-become-PFV.CVB DEM2.IISG.OBL-ERG horse-PL-SUPER.ABL article-TOP III-take.away-PFV.CVB idea III-do-PFV.CVB Razhbadin-POSS.ESS resemble-RES.PRT as-Q DEM2.ISG me-LAT know-Q-QUOT
+Translation: "Very good", she thought, came outside and took the articles off the horse and thought: "He looks like Razhbadin."
+Sentence: Sida quł maħorno oqno uži nesicetow sida žaƛ’no iħanayn, yisiq nesis mecu q’ˤažun.
+Gloss: one.OBL day-CONT.ESS outside-TOP become-PFV.CVB boy DEM1.ISG.OBL-EQU1-EMPH one.OBL boy-SUPER.ESS-TOP fight-PFV.CVB DEM2.ISG.OBL-POSS.ESS DEM1.ISG.OBL-GEN1 hand dislocate-PST.UNW
+Translation: One day the boy went outside and had a fight with a peer, and he dislocated his hand.

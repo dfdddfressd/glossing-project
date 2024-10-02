@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yaƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yaƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nesiƛ’ Zeyes Aħyaƛin cin cedin.
+Gloss: DEM1.ISG.OBL-SUPER.ESS bear-GEN1 ear-QUOT name-TOP name-PST.UNW
+Translation: She gave him the name "Bear Ear".

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eniwqay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eniwqay: 
+
+Exact Matches
+Sentence: Tełxor ižiƛ’oräy, kidbä nesi žaqor aq’ˤlu bodin, barkatawni ħiƛ’oqu gurow q’ˤuya šebin eniwqay risanix mi razi aqno.
+Gloss: inside-AD.LAT lead-SIM.CVB girl-ERG DEM1.ISG.OBL boy-POSS.LAT advice III-do-PFV.CVB blessed-DEF handkerchief except other thing mother-POSS.ABL IV-take-MSD-AD.ESS you agree become-PROHIB
+Translation: When she led him inside, the girl gave the boy an advice: 'Don't agree to take anything else from my mother than the blessed handkerchief!'
+Sentence: Sida quł užä eniwqay zap’ana hisos k’apyan bisno, žan t’aħin, c’eruc’a rodin.
+Gloss: one.OBL-ERG day-CONT.ESS son-ERG mother-POSS.ABL strong spring.wool-GEN1 thread-TOP III-take-PFV.CVB DEM1.SG-TOP tie-PFV.CVB bow IV-do-PFV.CVB
+Translation: One day the son took a strong wool thread by his mother, strained it and made a bow.
+Sentence: Nełagon eniwqay izmun bisno, ža t’umi bexurač’inƛin nełqay rožin riqirno, akin raɣˤin tełxor begärun, bik’in kidbez q’ˤimƛ’o heqno.
+Gloss: DEM1.IISG.OBL-CNTR mother-POSS.ABL permission-TOP III-take-PFV.CVB DEM1.SG pigeon III-kill-NEG.FUT.DEF-QUOT DEM1.IISG.OBL-POSS.ABL word-TOP IV-take.away-PFV.CVB window-TOP IV-open-PFV.CVB inside-AD.LAT III-let-IMM.ANT.CVB III-go-PFV.CVB girl-GEN2 head-SUPER.ESS sit.down-PST.UNW
+Translation: It [the pigeon] asked permission from the mother and took her word that she would never kill this pigeon; she opened the window and let it inside, and it flew in and sat down on the girl's head.
+
+Approximate Matches:
+Sentence: Ele hemedur eniwz bašiqˤoyz kumakyoƛ’aza taliħ besun best’al kidber, žukani best’al eniwqayn yok’ełno.
+Gloss: there so mother-GEN2 ring-GEN2 help-SUPER.VERS.DIST happiness III-find-PFV.CVB step daughter-LAT worse-MSD step mother-POSS.ABL-TOP II-escape-PST.UNW
+Translation: Thus, the step daughter has found happiness with the help of her mother's ring and could escape from her evil step mother.

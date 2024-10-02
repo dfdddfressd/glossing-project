@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word taraw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word taraw: 
+
+Exact Matches
+Sentence: Dey esnabi, babiya badiru wasiyatyoƛ’ req’un t’o mesedyos łˤono saħ biča bay, amma t’o q’ˤano taraw saħ anu.
+Gloss: me-GEN1 brother-PL father-ERG III-fulfilled legacy-SUPER.ESS in.accordance.with here gold-GEN1 three sah I.PL-be-INF III-must but here two except.for sah be.NEG
+Translation: "My brothers, according to father's fulfilled legacy, 3 Sah of gold must be here, but here is nothing more than 2 Sah.
+Sentence: Sida quł roƛa yutirnosi, eniya kidbeqor eƛin, mi babiwqor eƛo, nagaħ di yexunäy hoboda bašiqˤoy c’oxxosi taraw nesä ɣˤanabi yawnoƛƛin.
+Gloss: one.OBL day-CONT.ESS IV-hurt-INF II-begin-ANT.CVB mother-ERG daughter-POSS.LAT say-PFV.CVB you father-POSS.LAT say-IMPR suddenly me II-die-CND.CVB that ring match-PRS.PRT except.for DEM1.ISG.OBL-ERG woman II-marry-PROHIB-OPT-QUOT
+Translation: One day, when the mother started to feel pain, she told her daughter: "Tell your father that when I suddenly die, he may only marry a woman who matches this ring!"
+Sentence: Neširaɣor xizyo yiłaq ʕaƛoxor dahaw taraw posu raynanu.
+Gloss: evening-IN.VERS after DEM2.IISG.OBL-POSS.ESS village-AD.LAT a.little except.for cattle IV-come-PFV.CVB-NEG
+Translation: After it got evening, only some of the cattle came back to the village with her.
+
+Approximate Matches:
+Sentence: Elaygon bitor ža boc’ä äƛiruni untarawni xander ik’in.
+Gloss: there-IN.ABL-CNTR thither DEM1.SG wolf-ERG say-PST.PRT-DEF sick-DEF khan-APUD.LAT go-PST.UNW
+Translation: From there, he went away to the sick king that the wolf had told about.
+Sentence: Elo yisir besun bexasin, untaraw bexaniƛ’or bayäsin xalq’i.
+Gloss: there DEM2.ISG.OBL-LAT III-find-PST.UNW III-die-RES.PRT-and sick III-die-MSD-SUPER.LAT III-must-RES.PRT-TOP people
+Translation: There he found dead and terminally ill people.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Buqbetaxtow.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Buqbetaxtow
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Buqbetaxtow:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žeda eƛix zown, buqbetaxtow aħozä eli iduɣor rižinč’ey, mark’ač’uxor xecix yołi rigu räči yał.
+Gloss: DEM1.IIPL.OBL-ERG say-IPFV.CVB be.NPRS-PST.UNW sunset-AD.ESS-EMPH shepherd-ERG we home-IN.ALL III.PL-lead-NEG.PST.CVB twilight-AD.LAT leave-IPFV.CVB if IV-good IV-be be
+Translation: They were saying: "If the shepherd wouldn't lead us home when the sun sets, but would leave us until the twilight, that would be good!"
+
+Approximate Matches:
+Sentence: Buqbetaxor yizi sida iħuz lilyoxor baynosi, muši begiranix bazarganbin, yedan q’ˤida bičin.
+Gloss: sunset-AD.LAT DEM2.IPL one.OBL river-GEN2 river.bank-AD.LAT I.PL-come-ANT.CVB breath III-let-MSD-AD.ESS merchant-PL-and DEM2.ISG-and down I.PL-sit-PST.UNW
+Translation: Toward sunset, when they came to a river bank, the merchants and he sat down to take a break.
+Sentence: Buqbetaxar kidbä siskin ziya kamirinč’ey, posures reqenno ʕaƛar bayrno yayn.
+Gloss: sunset-AD.VERS girl-ERG any cow lose-NEG.PST.CVB cattle-GEN1 herd-TOP village-IN.LAT III-lead-PFV.CVB II-come-PST.UNW
+Translation: Toward sunset, the girl hadn't lost any cow and led the cattle's herd back to the village and came back.

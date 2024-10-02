@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: moƛ’oqˤoyn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": moƛ’oqˤoyn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word moƛ’oqˤoyn:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemedur Okä babiw mak’ur odin guludetow sadaq moƛ’oqˤoyn łera ʕazara łera bišomra ɣˤurušyoƛ teƛanix, dicegon užä moƛ’oqˤoy täƛnoƛin eƛinłin.
+Gloss: so Oku-ERG father persuade do-PFV.CVB horse-APUD.ESS-EMPH together bridle-TOP five.OBL thousand five.OBL hundred ruble-SUB.ESS sell-MSD-AD.ESS how.much-CNTR boy-ERG bridle sell-PROHIB-QUOT say-PST.UNW-CNC.CVB
+Translation: So Oku persuaded the father to sell him the horse together with the bridle for 5,500 rubles, no matter how much the boy told him not to sell the bridle.
+Sentence: Sis žek’un ayn howlor hemecetow ƛ’iri utizaƛ’, moƛ’oqˤoyn sadaq däq teƛno rok’ełsi.
+Gloss: one man-TOP come-PFV.CVB there-LAT such-EMPH above turn-CSL.CVB bridle-TOP together me-POSS.ESS sell-PFV.CVB IV-lose-PST.WIT
+Translation: And there came a man and because he insisted so much, I sold also the bridle and lost it.
+
+Approximate Matches:
+Sentence: Babiya eƛin, moƛ’oqˤoy anusi gulus baha łeno ʕazar ɣuruš yołƛin.
+Gloss: dad-ERG say-PST.UNW bridle be.NEG-ATTR horse-GEN1 price five thousand ruble be-QUOT
+Translation: The father said: "The price of the horse without the bridle is 5,000 rubles."
+Sentence: Užä eƛäsi zows moƛ’oqˤoy sadaq täƛnoƛin.
+Gloss: son-ERG say-RES.PRT be.NPRS-PST.WIT bridle together sell-PST.UNW-QUOT
+Translation: My son said: 'Don't sell the bridle [together [{with me}]!'
+Sentence: Hemedur Okä babiw mak’ur odin guludetow sadaq moƛ’oqˤoyn łera ʕazara łera bišomra ɣˤurušyoƛ teƛanix, dicegon užä moƛ’oqˤoy täƛnoƛin eƛinłin.
+Gloss: so Oku-ERG father persuade do-PFV.CVB horse-APUD.ESS-EMPH together bridle-TOP five.OBL thousand five.OBL hundred ruble-SUB.ESS sell-MSD-AD.ESS how.much-CNTR boy-ERG bridle sell-PROHIB-QUOT say-PST.UNW-CNC.CVB
+Translation: So Oku persuaded the father to sell him the horse together with the bridle for 5,500 rubles, no matter how much the boy told him not to sell the bridle.

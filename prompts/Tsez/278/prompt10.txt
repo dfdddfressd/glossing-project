@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bełiqanä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bełiqanä: 
+
+Exact Matches
+Sentence: Neł zamanał bełiqanä eƛin, howła purqay ħalkiłiƛ’aɣor ok’łace sabru bodin bičiƛin.
+Gloss: DEM1.IISG.OBL time-CONT.ESS hunter-ERG say-PST.UNW DEM3.IISG.OBL field-POSS.ABL relaxation-SUPER.VERS go.away-TERM patience III-do-PFV.CVB III-wait-QUOT
+Translation: That time the hunter said: "Wait in patience until I go away to relax from that field."
+Sentence: Sis gut’ riłe šebin rukayxƛin, eƛin bełiqanä.
+Gloss: one smoke IV-as thing IV-see-PRS-QUOT say-PST.UNW hunter-ERG
+Translation: "I see something like smoke.", said the hunter.
+Sentence: Kʷaxatow bełiqanä barun yown, ƛˤeb ħišiłzaƛ’or žedur q’ˤuƛas q’ˤano uži odin.
+Gloss: soon-EMPH hunter-ERG wife-TOP II-marry-PFV.CVB year be.over-POST.CVB DEM1.IPL-LAT twin-GEN1 two son do-PST.UNW
+Translation: Soon the hunter married a wife, and before a year was over, two twin boys were born to them.
+
+Approximate Matches:
+Sentence: Yisi bełiqanän ƛoħay boɣno sis ħak’on nełdergon met’rin teƛno.
+Gloss: DEM2.ISG.OBL hunter-ERG-TOP pan-IN.ABL III-take.away-PFV.CVB one khinkali-TOP DEM1.IISG.OBL-APUD.LAT-CNTR piece.of.meat-TOP give-PST.UNW
+Translation: And the hunter also took one khinkali out of the pan and put a piece of meat next to it.

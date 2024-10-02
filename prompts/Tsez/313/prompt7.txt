@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word tušmanä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word tušmanä: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ha, miyä ža dey tušman, oqčo howži maħorƛinno!” - eƛin yedu aždaħ maħor boqno.
+Gloss: well you-Q DEM1.SG me-GEN1 enemy become-INT now outside-QUOT-TOP - say-PFV.CVB DEM2.IISG dragon outside III-become-PST.UNW
+Translation: "Well, so you are my enemy, then come out now!", said the dragon and got outside.
+Sentence: Nełał xizay k’oƛin rayru ɣˤʷaybi maqˤiƛ’or rok’ełnosi, bełiqanä bikoriqor eƛin, maħor boq, howži debi tušmanbin rukayzay rok’ełsiƛin.
+Gloss: DEM1.IISG.OBL-CONT.ESS from.behind run-PFV.CVB III.PL-come-PST.PRT dog-PL far.away-SUPER.LAT III.PL-go.away-ANT.CVB hunter-ERG snake-POSS.LAT say-PST.UNW outside III-become now you-GEN1 enemy-PL-TOP III.PL-see-LCV-IN.ABL III.PL-escape-PST.WIT-QUOT
+Translation: After the dogs that were running behind it, went far away, the hunter said to the snake: "Come out, now your enemies went out of sight."
+Sentence: Mi näƛru ʕaq’ˤlun rok’ƛ’or bayn, bikorin xʷasar bodin nexƛ’oräy, däłtow xizayn bayn neła esirsi, nazosnotow tušman šida mi bexura begirno xecinč’uƛin.
+Gloss: you give-PST.PRT advice-TOP heart-SUPER.LAT III-come-PFV.CVB snake-TOP rescue III-do-PFV.CVB come-SIM.CVB me-CONT.ESS-EMPH behind-TOP III-come-PFV.CVB DEM1.IISG.OBL-ERG ask-PST.WIT everyone.OBL-GEN1-TOP-EMPH enemy why you III-kill-INF III-let-PFV.CVB leave-NEG.PST.WIT-QUOT
+Translation: "I remembered the advice you gave me and rescued the snake, and when I came back, it came behind me and asked: 'Why didn't you let them kill the enemy of everyone?'"

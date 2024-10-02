@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: č’iki.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": č’iki
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word č’iki:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Č’irin č’iki ɣudi rocu, buq bay.
+Gloss: Chirin flea day IV-become.clean sun III-come
+Translation: All's well that ends well.
+Sentence: Žeduq bexurno xabar łiynosi, c’aramałäz begin ža č’iki maħorno boqno, t’umƛ’orno butin boržizin boqno bik’in.
+Gloss: DEM1.IPL-POSS.ESS I.PL-kill-PFV.CVB story end-ANT.CVB crack-CONT.ESS.DIST III-go.into-PFV.CVB DEM1.SG flea outside-TOP III-become-PFV.CVB pigeon-SUPER.LAT-TOP III-turn-PFV.CVB fly-TOP III-become-PFV.CVB III-go-PST.UNW
+Translation: After they finished talking, the flea went outside through a crack, turned into a pigeon again and flew away.
+
+Approximate Matches:
+Sentence: Elor baynosi, č’ikin boqno c’aramäz begin iduɣorno bik’in, žedus xabarno teqerno bičin.
+Gloss: there-LAT III-come-ANT.CVB flea-TOP III-become-PFV.CVB crack-IN.ESS.DIST III-go.into-PFV.CVB home-IN.ALL-TOP I.PL-go-PFV.CVB DEM1.IPL-GEN1 story-TOP listen.to-PFV.CVB III-be-PST.UNW
+Translation: When it arrived there, it became a flea, went inside through a crack and listened to what they said.

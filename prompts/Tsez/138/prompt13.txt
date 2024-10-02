@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ut’imoxor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ut’imoxor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ut’imoxor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xediyan di neła bayru q’ut’imoxor izmun neƛno nesi žadaɣor yegirsiƛin.
+Gloss: husband-ERG-TOP me DEM1.IISG.OBL-ERG III-do-PST.PRT agreement-AD.LAT permission-TOP give-PFV.CVB DEM1.ISG.OBL boy-APUD.VERS II-let-PST.WIT-QUOT
+Translation: And my husband let me go to this boy and also gave her the permission to have a (marriage) contract.
+Sentence: Badiru q’ut’imoxor, doxturä nesi bečedawni žek’uqor eƛin, där debi roƛik’u bečełi retin anu, där debi kid yowa yetixƛin.
+Gloss: III-do-PST.PRT agreement-AD.LAT doctor-ERG DEM1.ISG.OBL wealthy-DEF man-POSS.LAT say-PFV.CVB me-LAT you-GEN1 half riches IV-want-PFV.CVB be.NEG me-LAT you-GEN1 daughter II-bring-INF II-want-PRS-QUOT
+Translation: As it was arranged, the doctor said to the wealthy man, "I do not want the half of your riches, but I want to marry your daughter."
+Sentence: Yeda nełaƛ’ razi oqinč’izaƛ’, baqru q’ut’imoxor ƛ’irigon yisir gulun, tupingon teƛno.
+Gloss: DEM2.ISG DEM1.IISG.OBL-SUPER.ESS accept become-NEG.FUT-CSL.CVB III-become-PST.PRT agreement-AD.LAT above-CNTR DEM2.ISG.OBL-LAT horse-and rifle-and-CNTR give-PST.UNW
+Translation: Because he didn't accept her and according to the agreement that had been made, they gave him a horse and a gun.
+
+Approximate Matches:
+Sentence: Babiya bayru wasimoxor łˤoran esnaza irsi bułirno nazoƛ’no sist’a saħ bayn.
+Gloss: father-ERG III-do-PST.PRT testament-AD.LAT three.OBL-TOP brother-PL-ERG heir III-share-PFV.CVB which-SUPER.ESS-TOP one.each sah III-come-PST.UNW
+Translation: According to the father's testament, the three brothers should share the heir and they should receive one Sah each.
+Sentence: Ričas ži babiya bayru wasimoxorƛin”, - eƛin užä.
+Gloss: IV-be-FUT2 now father-ERG III-come-PST.PRT testament-AD.LAT-QUOT - say-PST.UNW boy-ERG
+Translation: Now father's will will be fulfilled.
+Sentence: Žedus harimoxor ixiw qeman, zigolun regirno.
+Gloss: DEM1.IIPL.OBL-GEN1 request-AD.LAT big rain-and hail-and II.PL-send-PST.UNW
+Translation: And on their request, much rain and hail was sent.

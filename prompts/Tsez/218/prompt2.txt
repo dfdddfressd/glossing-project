@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kakno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kakno: 
+
+Exact Matches
+Sentence: Yiła užiqor eƛin, kakno royn mi däƛ’ ƛ’iri zow, nełaz akixor bik’anix.
+Gloss: DEM2.IISG.OBL-ERG boy-POSS.LAT say-PST.UNW prayer-TOP IV-do-PFV.CVB you me-SUPER.ESS on ride DEM1.IISG.OBL-GEN2 window-AD.LAT I.PL-go-MSD-AD.ESS
+Translation: It said to the boy: "Do a prayer with me and sit on me, so we can get in through her window."
+Sentence: Yeženä eƛin, hemeła pulanaw mečoƛ’ yoł ža, elor ayrun, kakno rodo, łox nełas ci qˤaƛo.
+Gloss: II-old-DEF-ERG say-PST.UNW DEM4.IISG.OBL a.certain place-SUPER.ESS be DEM1.SG there-LAT come-IMM.ANT.CVB prayer-TOP IV-do-IMPR thrice DEM1.IISG.OBL-GEN1 name shout-IMPR
+Translation: The old woman said: "She lives at that certain place, when you arrive there, say a prayer and shout her name three times!"
+
+Approximate Matches:

@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bet’un.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bet’un
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bet’un:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zamanałäy bet’un kodin nexno, begirno gaman xecin yedu kid raładyołxor yiħun.
+Gloss: time-CONT.ABL III-come.off-PFV.CVB hair-TOP come-PFV.CVB III-let-PFV.CVB boat-TOP leave-PFV.CVB DEM2.IISG girl sea-CONT.VERS II-come.to-PST.UNW
+Translation: After some time, the hair came off and the girl let go of the boat and went into the sea.
+Sentence: Ža nesä äƛirun, bet’un k’oƛin ɣunoqayn boqno babiwz koyär nexno.
+Gloss: DEM1.SG DEM1.ISG.OBL-ERG say-PST.PRT-TOP III-jump-PFV.CVB run-PFV.CVB tree-POSS.ABL-TOP III-become-PFV.CVB father-GEN2 hand-IN.LAT come-PST.UNW
+Translation: After he had said this, it jumped up and ran [flew] off the tree and came into the father's hand.
+Sentence: Bexuratow bexurxo yiła di hoboyƛin, boc’i bet’un k’oƛin bizin boxin elay.
+Gloss: III-kill-INF-EMPH III-kill-IPFV.CVB DEM2.IISG.OBL-ERG me now-QUOT wolf III-jump-PFV.CVB jump-PFV.CVB III-get-PFV.CVB III-run.away-PFV.CVB there-IN.ABL
+Translation: "He's going to kill me now!", the wolf jumped up and ran away.
+
+Approximate Matches:
+Sentence: Q’ˤida muɣno hiƛirno, neła ža hič’č’a rečiwsi riqirno qaca q’ˤidar karun, nełłäy bikorin boqno, bet’unč’ey žedałtow xizay nexxo zown.
+Gloss: down bundle-TOP place.comfortably-PFV.CVB DEM1.IISG.OBL-ERG DEM1.SG the.most IV-thick-ATTR IV-take.away-PFV.CVB firewood down-LAT throw-IMM.ANT.CVB DEM1.IISG.OBL-CONT.ABL snake-TOP III-become-PFV.CVB III-stay.behind-NEG.PST.CVB DEM1.IIPL.OBL-CONT.ESS-EMPH behind come-IPFV.CVB be.NPRS-PST.UNW
+Translation: She put the bundle down, and the thickest piece of firewood that she threw down, turned into a snake, which didn't stay behind, but followed them.
+Sentence: Žan šušin q’ulhu bet’unosi, žedus xabar boqno bełiƛ’ bik’anƛin.
+Gloss: DEM1.SG-TOP bury-PFV.CVB funeral.feast III-stay.behind-ANT.CVB DEM1.IPL.OBL-GEN1 story III-become-PFV.CVB hunting-SUPER.ESS I.PL-go-FUT.DEF-QUOT
+Translation: After they burried him and the funeral feast was over, their plan was: "We'll go hunting."

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Idurno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Idurno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Idurno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zira hemedurtow idurno bik’in sadaq q’ut’uma yałru rił ragin łiyrno.
+Gloss: fox-ERG so-EMPH home-LAT-TOP III-go-PFV.CVB all earthen.jug-ERG be-PST.PRT butter IV-lick-PFV.CVB finish-PST.UNW
+Translation: So the fox went home and licked up all the butter that was in the earthen jug.
+Sentence: Sasiłzaƛ’or xan idurno ik’inanu, č’uħaraw šeƛ’un šeƛ’unanu.
+Gloss: get.dark-POST.CVB khan home-LAT-and go-PFV.CVB-NEG gorgeous clothing-and put.on-PST.UNW-NEG
+Translation: Until it got dark, the king neither went home nor put on gorgeous clothing.
+Sentence: Bertenyołäy ža bašiqˤoy yałruni kid guginosi, yisi žas tatun bexun, xexłiƛ’ idurno ik’in, mežä pun bok’no ičin.
+Gloss: marriage-CONT.ABL DEM1.SG ring be-PST.PRT-DEF girl escape-ANT.CVB DEM2.ISG.OBL boy-GEN1 cheerfulness-TOP III-die-PFV.CVB quickness-SUPER.ESS home-LAT-TOP go-PFV.CVB mattress-IN.ESS side-TOP III-hit-PFV.CVB be-PST.UNW
+Translation: When the girl with the ring had disappeared from the marriage, the boy lost his cheerfulness and quickly went home and to bed.
+
+Approximate Matches:
+Sentence: Šebigon nesä royłin, nełade igor qalamär yeda didurnokin egin anu.
+Gloss: what-CNTR DEM1.ISG.OBL-ERG IV-do-CNC.CVB DEM1.IISG.OBL-APUD.ESS near-LAT fortress-IN.LAT DEM2.ISG how-TOP-even go.into-PST.UNW be.NEG
+Translation: But no matter what he did, he didn't get into fortress near her.
+Sentence: Sida quł yeda žek’u ganzaq ƛexyabin ƛisiran, riƛułno ƛeɣanƛin oqnosi, didurnokin yizä yisiqor meč’ teƛnoanu, ƛ’iri reƛ’u äruntow, žeda boda t’ira xecix zownanu.
+Gloss: one.OBL day-CONT.ESS DEM2.ISG man bull.calf-PL-POSS.ESS log-PL-and pull-CAUS-FUT.DEF field-CONT.ESS-TOP exploit-FUT.DEF-QUOT begin-ANT.CVB how-TOP-even DEM2.IIPL.OBL-ERG DEM2.ISG.OBL-POSS.LAT neck give-PFV.CVB-NEG above yoke put-IMM.ANT.CVB-EMPH DEM1.IIPL-ERG I.PL-do-INF caprice leave-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: One day the man started to utilize the bulls to pull logs and to plough the field, but they didn't comply at all, and when he put the yoke on them, they didn't feel like it at all.
+Sentence: Didurnotow yiziq sidaƛ’or hut’ rutinč’izaƛ’, yizis šarʕimoƛ’ bik’anix q’ut’i boqno.
+Gloss: how-TOP-EMPH DEM2.IPL-POSS.ESS one.OBL-SUPER.LAT lip IV-turn-NEG.FUT-CSL.CVB DEM2.IPL-GEN1 Sharia.court-SUPER.ESS I.PL-go-MSD-AD.ESS agreement III-become-PST.UNW
+Translation: Because they could not reach a consensus, they agreed to go to the Sharia.

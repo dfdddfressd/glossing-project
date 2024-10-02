@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iyos in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iyos: 
+
+Exact Matches
+Sentence: Xaner šebi yałru iyač’iniƛäy mi dey q’ˤimno reč’o, iyos orezni boqnosi min ok’äł t’ayƛin, xizyo nesiqor amanat bodin, mi dey q’ˤimno ruqˤo, yeɣeni esiwqno rukarno, nagaħ dey laga debeq biqinäy, q’ˤimde sadaq buyn šušoƛin.
+Gloss: khan-LAT who be-PST.PRT know-INF-NEG.FUT-PURP.CVB you me-GEN1 head-TOP IV-cut-IMPR blood-GEN1 pond III-become-ANT.CVB you-TOP escape from.here-QUOT afterwards DEM1.ISG.OBL-POSS.LAT order III-do-PFV.CVB you me-GEN1 head-TOP IV-hide-IMPR II-young-DEF sister-POSS.ESS-TOP IV-show-PROHIB suppose me-GEN1 body you-POSS.ESS III-get-CND.CVB head-APUD.ESS together III-indeed-TOP bury-IMPR-QUOT
+Translation: For the king won't know who it was, cut off my head and escape from there after there is a large pool of blood!"; then he gave him the order: "And hide my head, don't show it to our little sister, if you can get my body, bury it together with my head."
+Sentence: Sasaqosi moƛaxayn bizin, aždaħä yeɣeni kidbeqorƛin eƛin, Maryam där bišan riso, ič’an eɣeni užiz iyos q’ut’un bic’o mečołxor raƛin.
+Gloss: in.the.morning sleep-AD.ABL-TOP III-get.up-PFV.CVB dragon-ERG II-young-DEF daughter-POSS.LAT-QUOT say-PST.UNW Maryam me-LAT food-TOP IV-take-IMPR most-TOP young-DEF boy-GEN2 blood-GEN1 earthen.jug-TOP III-fill-IMPR field-CONT.VERS IV-bring-QUOT
+Translation: In the morning, after getting up from his sleep, the dragon said to - what he supposed was - his youngest daughter: "Maryam, take the food to me and fill the earthen jug with the youngest boy's blood and bring them to the field!"
+Sentence: Roda šebinon koƛ’inč’ey yisä bečnaqay reč’no reƛ kurno, howlaytow ric’no iyos zok’in et’no haqa.
+Gloss: IV-do-INF something understand.to-NEG.PST.CVB DEM2.ISG.OBL-ERG knee-POSS.ABL IV-cut-PFV.CVB meat throw-PFV.CVB from.there-EMPH IV-fill-PFV.CVB blood-GEN1 mug-TOP pour-PST.UNW mouth-IN.ESS
+Translation: Not knowing what else to do, he cut meat off from his knee and threw it to the eagle, them he filled the blood into a mug and poured it into its mouth.
+
+Approximate Matches:

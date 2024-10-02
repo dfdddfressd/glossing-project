@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word aħyałer in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word aħyałer: 
+
+Exact Matches
+Sentence: Neła äƛirun aħyałer regirinč’ey, Alimaħama ħonƛ’or ayn.
+Gloss: DEM1.IISG.OBL-ERG say-PST.PRT-TOP ear-CONT.LAT IV-let-NEG.PST.CVB Alimagomed mountain-SUPER.LAT come-PST.UNW
+Translation: Not hearing what it said either, Alimagomed came to the mountain.
+
+Approximate Matches:
+Sentence: Čanno suƛƛi boƛixno sis hil karun, bˤulamzałäy aħyałerno c’oxno łˤora k’onč’aƛ’or boxin bik’isƛin”, - žawab teƛno heresi mec esixoza.
+Gloss: deer-TOP suddenly III-appear-PFV.CVB one bullet throw-IMM.ANT.CVB hoof-PL-CONT.ABL ear-CONT.LAT-TOP hit-PFV.CVB three.OBL leg-SUPER.LAT III-run.away-PFV.CVB III-go-PST.WIT-QUOT - answer give-PST.UNW false language tell-PRS.PRT.OBL-ERG
+Translation: "A deer suddenly appeared and the bullet that was shot, hit it through the legs and pierced the ear, so it ran away on its three legs", answered the liar.

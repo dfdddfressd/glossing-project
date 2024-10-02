@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word maduhalzo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word maduhalzo: 
+
+Exact Matches
+Sentence: Neła qułtow neširu užä q’ˤida ħiƛ’oqun raħno, eƛin, eliz madaxay bečedawni maduhalzo madaxor mesedyos qˤiƛurabi rodoƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS-EMPH evening boy-ERG down handkerchief-TOP IV-lay-PFV.CVB say-PST.UNW we.SPEC.GEN1 door-AD.ABL wealthy-DEF neighbor-GEN2 door-AD.LAT gold-GEN1 step-PL IV.PL-do-IMPR-QUOT
+Translation: On that day in the evening, the boy laid down the handkerchief and said: "Build golden stairs from our door to the wealthy neighbor's door!"
+
+Approximate Matches:
+Sentence: Ɣˤaɣˤun yizin ža xabar esanix eniw bečedawni maduhalzaxar yik’in.
+Gloss: be.happy-TOP II-get.up-PFV.CVB DEM1.SG story tell-MSD-AD.ESS mother wealthy-DEF neighbor-PL-AD.VERS II-go-PFV.CVB
+Translation: The mother was happy and went to tell the wealthy neighbors about this.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word sipat in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word sipat: 
+
+Exact Matches
+Sentence: Esnazaq sipat esin łiynosi nesi žek’a eƛin:
+Gloss: brother-PL-POSS.ESS appearance tell-PFV.CVB end-ANT.CVB DEM1.ISG.OBL man-ERG say-PST.UNW
+Translation: After they finished telling him about its appearance, the man said to the brothers:
+Sentence: Ħumukuliƛa bukaynč’u elur, amma nełas sipat debeq esan elaƛin”.
+Gloss: camel-INDEF III-see-NEG.PST.WIT we(I).OBL-LAT but DEM1.IISG.OBL-GEN1 appearance you-POSS.ESS tell-FUT.DEF we(I).OBL-ERG-QUOT
+Translation: "We didn't see any camel, but we will tell you how it looks."
+
+Approximate Matches:
+Sentence: Dey ħumukuli bukaynč’uƛinno eƛix meža, nełas c’ik’iw sipatno esix.
+Gloss: me-GEN1 camel III-see-NEG.PST.WIT-QUOT-TOP say-IPFV.CVB you(I).PL.OBL-ERG DEM1.IISG.OBL-GEN1 entire appearance-TOP tell-PRS
+Translation: "You say that you haven't seen my camel, and you tell me its entire appearance.

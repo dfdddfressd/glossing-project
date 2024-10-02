@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word däqƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word däqƛin: 
+
+Exact Matches
+Sentence: Eniwqorno hemedurtow, esa k’ʷeze yaqinč’i däqƛin ičin.
+Gloss: mother-POSS.LAT-TOP so-EMPH tell-INF can II-become-NEG.FUT me-POSS.ESS-QUOT be-PST.UNW
+Translation: To his mother he was the same: "I cannot tell you."
+Sentence: Neła eƛin, beže taliħ boqsi debi, yaqˤułäy soder mi dey uži yoł, howži debi mi murad eso däqƛin.
+Gloss: DEM1.IISG.OBL-ERG say-PST.UNW III-big fortune III-happen-PST.WIT you-GEN1 today-IN.ABL after you me-GEN1 son be now you-GEN1 you wish tell-IMPR me-POSS.ESS-QUOT
+Translation: She said: "You have good luck, as of today you are my son; now tell me your wish!"
+Sentence: Wayčo, baħarči, egixwa mi däqƛin!” - aħi bodin ceyä.
+Gloss: o.dear-INT brave.young.man loosen-PRS-Q you me-POSS.ESS-QUOT - alarm III-do-PST.UNW eagle-ERG
+Translation: "Hey, brave young man, I cannot keep you anymore!", warned the eagle.
+
+Approximate Matches:

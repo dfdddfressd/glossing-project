@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word boɣnäy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word boɣnäy: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Salamno teƛno, yisä esnazaq esirno, šida meži boɣnoyxƛin.
+Gloss: greeting-TOP give-PFV.CVB DEM2.ISG.OBL-ERG brother-PL-POSS.ESS ask-PST.UNW why you.PL I.PL-argue-PRS-QUOT
+Translation: He greeted and asked the brothers: "Why are you arguing?"
+Sentence: Aƛ’irno nesiqay žan boɣno, roži teƛinč’ey xizor oxirno.
+Gloss: cheat-PFV.CVB DEM1.ISG.OBL-POSS.ABL DEM1.SG-and III-take.away-PFV.CVB word give-NEG.PST.CVB back chase-PST.UNW
+Translation: She cheated and took it away from him, not keeping her word, and chased him back.
+Sentence: Xanez kidbes eniw yoł di, där ža xedyox yik’izaƛ’or yukada retinƛin, yiła ader xot’o boɣno.
+Gloss: khan-GEN2 daughter-GEN1 mother be me me-LAT DEM1.SG husband-AD.ESS II-go-POST.CVB II-see-INF IV-want-PST.UNW-QUOT DEM2.IISG.OBL-ERG forward foot III-take.away-PST.UNW
+Translation: "I am the king's daughter's mother, I wanted to see her before she'd go to that husband.", and she put her foot forward.

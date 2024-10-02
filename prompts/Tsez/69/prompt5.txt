@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: aɣi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": aɣi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word aɣi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Esin šebi xecin šebi zownƛax, zown anuƛax sis aɣi.
+Gloss: tell-PFV.CVB what leave-PFV.CVB what be.NPRS-PST.UNW-QUOT be.NPRS-PFV.CVB be.NEG-QUOT one bird
+Translation: Once upon a time there was a bird.
+Sentence: Nesä užiqor eƛin, ža aɣi däqor neƛ xaner bižanixƛin.
+Gloss: DEM1.ISG.OBL-ERG boy-POSS.LAT say-PST.UNW DEM1.SG bird me-POSS.LAT give khan-LAT III-carry-MSD-AD.ESS-QUOT
+Translation: He said to the boy, "Give me that bird, so I can carry it to the king."
+Sentence: Hemeła xabaryoł yizi yałzay, nesi nukarä xanqo esix zown, yaqˤuł bełiquz žoyä bercinaw aɣi č’aq’ˤirno bižisƛin.
+Gloss: DEM4.IISG.OBL story-CONT.ESS DEM2.IPL be-SIM.CVB DEM1.ISG.OBL henchman-ERG khan-POSS.ESS tell-IPFV.CVB be.NPRS-PST.UNW today hunter-GEN2 son-ERG beautiful bird kill-PFV.CVB III-carry-PST.WIT-QUOT
+Translation: While that conversation was going on, that henchman was telling the king, "Today the hunter's son killed a bird and carried it home."
+
+Approximate Matches:

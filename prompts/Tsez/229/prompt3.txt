@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ayzaƛ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ayzaƛ: 
+
+Exact Matches
+Sentence: Esnaza eƛin, mi äxuzay iłe izin ayzaƛ’, debez ħurmatyoxay ela beže bertenno bodin sis kid debex yowa yoł.
+Gloss: brother-PL-ERG say-PFV.CVB you die-SIM.CVB as get.up-PFV.CVB come-CSL.CVB you-GEN2 respect-AD.ABL we(I).OBL-ERG III-big marriage-TOP III-do-PFV.CVB one girl you-AD.ESS II-marry-INF be
+Translation: The brothers said: "Because you came back like from the dead, we will organize a big marriage out of respect for you and marry of a girl to you.
+Sentence: Asoqtow bitin žedu ɣˤaɣˤu bizizaq, qiƛ’orok’uƛ’äy ƛ’irir best’alawni uži ayzaƛ’.
+Gloss: sky-POSS.ESS-EMPH III-touch-PFV.CVB DEM1.IPL be.happy I.PL-get.up-CSL.CVB by.chance above-LAT step-DEF son come-CSL.CVB
+Translation: They were happy sky-high, when their step-son happened to come.
+Sentence: Di elor ayzaƛ’, ža ʕuraw ɣˤaɣˤun izin, nełquł sasaqtow nesä di eženi wazirłun xecis.
+Gloss: me there-LAT come-CSL.CVB DEM1.SG much be.happy-TOP get-PFV.CVB on.that.day in.the.morning-EMPH DEM1.ISG.OBL-ERG me big-DEF vizier-LHUN leave-PST.WIT
+Translation: Because I came, he got very happy and the next morning he made me the grand vizier.
+
+Approximate Matches:
+Sentence: Raładyazay xizor utin ayzaƛ’or, yisir ža idu yesun anu.
+Gloss: sea-IN.ABL.DIST back return-PFV.CVB come-POST.CVB DEM2.ISG.OBL-LAT DEM1.SG home II-find-PST.UNW be.NEG
+Translation: When he came back from the sea, he didn't find her at home.
+Sentence: Mamalayä nełar t’ok’ow bik’ač’inƛin rexuxanusi rožin teƛno, nece bayn čerayzaƛ’ onoča ža idur begirno.
+Gloss: rooster-ERG DEM1.IISG.OBL-LAT anymore III-go-NEG.FUT.DEF-QUOT IV-die-NEG.PRS.PRT word-TOP give-PFV.CVB so.much III-come-PFV.CVB beg-CSL.CVB hen-ERG DEM1.SG home-LAT III-let-PST.UNW
+Translation: The rooster gave his word, that he would not go to her anymore, and since he begged so much, the hen let him home.
+Sentence: Sasaqtow moƛaxay izizaƛ’or, nesä äƛiruxor rodäsi reže ɣˤutkun, nesiz maday kidbez madär kuräsi mesedyos ƛen bukayzaƛ’, xan haqan ogun ezun ƛexun.
+Gloss: in.the.morning-EMPH sleep-AD.ABL get.up-POST.CVB DEM1.ISG.OBL-ERG ORD-AD.LAT IV-do-RES.PRT IV-big house-TOP DEM1.ISG.OBL-GEN2 door-APUD.ABL daughter-GEN2 door-APUD.VERS erect-RES.PRT gold-GEN1 bridge-TOP III-see-CSL.CVB khan mouth-IN.ESS-TOP gape-PFV.CVB look-PFV.CVB remain-PST.UNW
+Translation: The next morning after getting up from sleeping, he built a big house as said, and when the king saw the golden bridge erected from his door to his daughter's door, he remained looking at it with an open mouth.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rayrno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rayrno: 
+
+Exact Matches
+Sentence: Neširur mamalay howožatow at’iw qacan rayrno xizor butin baynosi, onoča esirno:
+Gloss: at.night-LAT rooster DEM4.SG-EMPH wet firewood-TOP IV-bring-PFV.CVB back III-turn.back-PFV.CVB III-come-ANT.CVB hen-ERG ask-PST.UNW
+Translation: At night, when the rooster came back bringing this wet firewood again, the hen asked:
+Sentence: Ciqqay qacan t’it’in, ruk’un rayrno esnabi bayn.
+Gloss: forest-POSS.ABL firewood-TOP fell-PFV.CVB bundle-TOP IV-bring-PFV.CVB brother-PL I.PL-come-PST.UNW
+Translation: From the forest the brothers came, having chopped wood, with the bundle.
+Sentence: Q’ˤunƛ’orno ƛ’irir č’edon rayrno, žedun šušin, iduɣor xediwn nexno.
+Gloss: two.OBL-SUPER.LAT-TOP on-LAT earth-TOP IV-bring-PFV.CVB DEM1.IPL-TOP bury-PFV.CVB home-IN.ALL husband-TOP come-PST.UNW
+Translation: The husband put earth onto the two, burried them and came home.
+
+Approximate Matches:
+Sentence: Yizin maħorno yoqno yezunosi, ɣuros reqenno bayrno rayäsi, eƛnoq yiłas posu rac’runi boc’an, zeybin resun.
+Gloss: II-get.up-PFV.CVB outside-TOP II-become-PFV.CVB II-look-ANT.CVB cows-GEN1 herd-TOP III-bring-PFV.CVB III.PL-come-RES.PRT winter-POSS.ESS DEM2.IISG.OBL-GEN1 cattle IV-eat-PST.PRT-DEF wolf.PL-and bear-PL-and III.PL-find-PST.UNW
+Translation: After she got up, went outside and had a look, the wolves and bears that had eaten her cattle in winter, turned up leading a cow herd.
+Sentence: Q’ˤunaäƛiru ɣudƛ’o miƛ’i bayrno boc’in, isno gugyoq caƛin zeyn ziruz ɣˤutkoxorno rayn, maħlaytow qˤaƛin:
+Gloss: two.OBL-ORD day-SUPER.ESS ram III-bring-PFV.CVB wolf-TOP bull-TOP back-POSS.ESS throw-PFV.CVB bear-TOP fox-GEN2 house-AD.LAT-TOP III.PL-come-PFV.CVB court-IN.ABL-EMPH loudly
+Translation: On the second day, the wolf came to the fox's house bringing a ram and the bear came with a bull thrown over his back, a loud voice shouted from the backyard:
+Sentence: Dibirno goƛ’in, nuʕbin bayrno, neła quł neširutown Ismaʕilä ʕArabuzan yown.
+Gloss: mullah-and call-PFV.CVB witness-PL-and I.PL-come-CAUS-PFV.CVB DEM1.IISG.OBL day-CONT.ESS evening-EMPH-TOP Ismail-ERG Arabuzan II-marry-PST.UNW
+Translation: They called the mullah, let witnesses come and on that very day in the same evening, Ismail married Arabuzan.

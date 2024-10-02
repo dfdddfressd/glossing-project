@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ot in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ot: 
+
+Exact Matches
+Sentence: Zownč’uƛin neła ot’ bisno, esan retinč’ey.
+Gloss: be.NPRS-NEG.PST.WIT-QUOT DEM1.IISG.OBL-ERG rejection III-take-PFV.CVB tell-FUT.CVB IV-want-NEG.PST.UNW
+Translation: "No, you didn't.", she rejected and didn't want to tell it.
+Sentence: Rac’inč’uƛin, boc’ä ot’ bisno.
+Gloss: III.PL-eat-NEG.PST.WIT-QUOT wolf-ERG rejection III-take-PST.UNW
+Translation: "Didn't eat them," the wolf rejected.
+Sentence: Łinaƛ’nokin qoqoƛinč’uƛin, yisä ot’ bisno.
+Gloss: what.OBL-SUPER.ESS-TOP-even laugh-NEG.PST.WIT-QUOT DEM2.ISG.OBL-ERG rejection III-take-PST.UNW
+Translation: "I laughed about nothing.", he rejected.
+
+Approximate Matches:

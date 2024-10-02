@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qˤaƛa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qˤaƛa: 
+
+Exact Matches
+Sentence: Boc’ä keč’ qˤaƛa baybik bodin, dalay, dalay sida bogmor ʕomoy, dalay, dalay sidagon bogmor mamalay, sidenigon bogmor k’et’un, mešinƛin.
+Gloss: wolf.PL-ERG song sing-INF begin III-do-PST.UNW dalay dalay one.OBL meal-LAT donkey dalay dalay one.OBL-CNTR meal-LAT rooster other-CNTR meal-LAT cat-and bull.calf-and-QUOT
+Translation: The wolves began to sing a song: "Dalay, dalay, a donkey for one meal; dalay, dalay, a rooster for another meal; and a cat and a calf for yet another meal."
+
+Approximate Matches:
+Sentence: Howlay äk’inoƛin qˤaƛanayx yeženi ɣˤanabin xecin ʕAliqilič k’oƛin ik’in.
+Gloss: from.there go-PROHIB-QUOT yell-IPFV.CVB II-old-DEF woman-TOP leave-PFV.CVB Aliqilich run-PFV.CVB go-PST.UNW
+Translation: Yelling "Don't go away!", Aliqilich left the old woman and ran.
+Sentence: Xizyo xan qˤaƛanada oqno, eleley, yedu didiw karamałi, debez buɣa däz buɣaz axʷay mo yac’xoƛin.
+Gloss: afterwards khan yell-INF begin-PFV.CVB behold DEM2.IISG which miracle you-GEN2 stock.bull-ERG me-GEN2 stock.bull-GEN2 belly-IN.ABL fat II-eat-PRS-QUOT
+Translation: Then the king began to yell: "Behold, what miracle is that, your bull is eating the fat out of my bull's belly!"
+Sentence: Łox äƛirugon boc’ä rečuƛxor qˤaƛin, qˤaƛanayxosi, di tełxor begirƛin.
+Gloss: thrice ORD-CNTR wolf-ERG cattleshed-SUB.LAT shout-PST.UNW yell-PRS.PRT me inside-AD.LAT III-let-QUOT
+Translation: For the third time, the wolf shouted into the cattleshed: "Shout, let me inside!"

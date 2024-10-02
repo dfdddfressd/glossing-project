@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bazaryaɣor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bazaryaɣor: 
+
+Exact Matches
+Sentence: Hudayziko xanez kidbä neła nełas ɣarabaš yezu-yoƛ’ˤanix łeno minutno beč’no bazaryaɣor yegirno.
+Gloss: the.next.day khan-GEN2 daughter-ERG DEM1.IISG.OBL DEM1.IISG.OBL-GEN1 servant II-examine-MSD-AD.ESS five minute-TOP III-cut-PFV.CVB bazar-IN.VERS II-send-PST.UNW
+Translation: The next day, the princess sent her own servant to the market for five minutes to have a look.
+Sentence: Ziyan tupiƛ teƛno, yeda uži uyxor bazaryaɣor ik’in, žan teƛnogon šeƛ’u risanƛin.
+Gloss: cow-TOP rifle-SUB.ESS sell-PFV.CVB DEM2.ISG boy straight bazar-IN.VERS go-PST.UNW DEM1.SG-TOP sell-PFV.CVB-CNTR clothing IV-buy-FUT.DEF-QUOT
+Translation: The boy sold his cow for the rifle and went straight to the market with the intention of selling it and buying clothes.
+Sentence: Q’ˤano äƛiru ɣudƛ’o sasaq izin bazaryaɣor teƛanixƛin čanyan adäz boc’no yedan ik’in.
+Gloss: two ORD day-SUPER.ESS in.the.morning get.up-PFV.CVB bazar-IN.VERS sell-MSD-AD.ESS-QUOT she.goat-and ahead III-drive-PFV.CVB DEM2.ISG-and go-PST.UNW
+Translation: On the second day in the morning, he got up, and went to drive the she.goat ahead in order to sell it on the market.
+
+Approximate Matches:
+Sentence: Mi ža bazaryaɣorno bižin łera ʕazara ɣˤurušyoƛ teƛ, moƛ’oqˤoy yołi łeno bišom ɣˤuruš neƛłikin täƛno, dey ruħ nełał bičixosi yoł, nagaħ mi ža teƛnäy, di exuxosi yołƛin.
+Gloss: you DEM1.SG bazar-IN.VERS-TOP III-lead-PFV.CVB five.OBL thousand ruble-SUB.ESS sell bridle however five hundred ruble give-CND.CVB.IRR-even sell-PROHIB me-GEN1 soul DEM1.IISG.OBL-CONT.ESS III-be-PRS.PRT be suppose you DEM1.SG sell-CND.CVB me die-PRS.PRT be-QUOT
+Translation: Lead it to the market and sell it for 5,000 rubles, the bridle however don't sell even if you were given 500 rubles, my soul will be inside; if you sell it, I will die."

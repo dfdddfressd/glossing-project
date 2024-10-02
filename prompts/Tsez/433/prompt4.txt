@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word t’amačno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word t’amačno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizay žek’un egirno goƛ’in ayrno, sis kepaw imadu esoƛin žeda ža t’amizi odin.
+Gloss: from.behind man-TOP send-PFV.CVB invite-PFV.CVB bring-PFV.CVB one merry tale tell-IMPR-QUOT DEM1.IPL.OBL-ERG DEM1.SG force do-PST.UNW
+Translation: And they sent a man, invited and brought him; "Tell us a merry tale!", they forced him.

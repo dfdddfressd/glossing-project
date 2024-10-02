@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’ˤida in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’ˤida: 
+
+Exact Matches
+Sentence: Žedaxay bitor di q’ˤida ičinč’ey bixno kosix zows.
+Gloss: DEM1.IIPL.OBL-AD.ABL thither me down sit-NEG.PST.CVB grass-TOP mow-IPFV.CVB be.NPRS-PST.WIT
+Translation: Because of them, I didn't sit down but mowed grass.
+Sentence: Akiłno q’ˤida di ičinosi, nesä howt’o deber kokoru qˤiƛci riqixyołiƛin eƛis.
+Gloss: get.tired-PFV.CVB down me sit-ANT.CVB DEM1.ISG.OBL-ERG here you-LAT soft pillow IV-get-PRS-COND.IRR-QUOT say-PST.WIT
+Translation: When I got tired and sat down, he said: "If we only could get you a soft pillow to sit down here..."
+Sentence: Aħmadä ečruni žek’uqor eƛin, howt’o deber q’ˤida iča kokoru qˤiƛci riqixyołiƛin.
+Gloss: Akhmed-ERG old-DEF man-POSS.LAT say-PST.UNW here you-LAT down sit-INF soft pillow IV-get-PRS-COND.IRR-QUOT
+Translation: Akhmed said to the old man: "If we only could get you a soft pillow to sit down here..."
+
+Approximate Matches:
+Sentence: Hunix ik’iƛ’oräy, neła ħalaq’awni gula nesiqor eƛin, aždaħ kecäsi yałzay, buq bayäsi bičixosi, q’ˤiday bizinosi ža bičixozoni gogaƛ’ ɣedu boqxosi, elo nełaqgon šet’ur k’ešonayx xexoybi ričixosiƛin.
+Gloss: way-AD.ESS go-SIM.CVB DEM1.IISG.OBL thin-DEF horse-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW dragon sleep-RES.PRT be-SIM.CVB sun III-come-RES.PRT III-be-IPFV.CVB-ATTR down-IN.ABL III-get.up-ANT.CVB DEM1.SG III-be-PRS.PRT.OBL-DEF meadow-SUPER.ESS shade III-happen-PRS.PRT there DEM1.IISG.OBL-POSS.ESS-CNTR around play-IPFV.CVB young.animal-PL III.PL-be-PRS.PRT-QUOT
+Translation: While he went on his way, that thin horse said to him: "While the dragon sleeps, the sun goes up, and after he gets up a shadow appears on the meadow, there around it the youngs are playing.
+Sentence: Sidä sidqo rak’ru kedonyozaz haraƛ’yo, akiłno (kodin bitin) q’ˤanontow q’ˤidar bˤoƛ’un.
+Gloss: one.OBL-ERG one.OBL-POSS.ESS II.PL-hit-PST.PRT sledgehammer-PL-GEN2 noise-ERG get.tired-PFV.CVB hair-TOP III-touch-PFV.CVB two-TOP-EMPH down-LAT I.PL-fall-PST.UNW
+Translation: The noise of the sledgehammers, when they hit one another, made the two of them loose conscience and fall down.
+Sentence: Hoboy yedu däƛ’or nexxoƛin, zeygon ɣunoqayn bˤoƛ’un, q’ˤidayn bizin zebu yoɣno boxin.
+Gloss: now DEM2.IISG me-SUPER.LAT come-PRS-QUOT bear-CNTR tree-POSS.ABL-and III-fall-PFV.CVB down-IN.ABL-and III-get-PFV.CVB running II-take.away-PFV.CVB III-run.away-PST.UNW
+Translation: "Now he's coming to me!", the bear fell off the tree, got down and ran away quickly.

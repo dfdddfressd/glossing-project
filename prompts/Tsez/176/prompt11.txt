@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: teƛäłinč’iƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": teƛäłinč’iƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word teƛäłinč’iƛin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: K’ak’aryar baynosi yisä eƛin, howt’äy bitor di ik’äłinč’iƛin.
+Gloss: constriction-IN.LAT I.PL-come-ANT.CVB DEM2.ISG.OBL-ERG say-PST.UNW from.here thither me go-POT-NEG.FUT-QUOT
+Translation: When they came to a narrow point, he said: "I cannot go on from here."
+Sentence: Xizaɣor esiwz kidbä yiłqor eƛin, yisiq’ay igun, bečedawn deber uži äqinč’i kid xedyox yegirinč’ey min yok’äłinč’iƛin.
+Gloss: finally brother-GEN2 girl-ERG DEM2.IISG.OBL-POSS.LAT say-PST.UNW DEM2.ISG.OBL-EQU2 rich-and wealthy-and you-LAT boy get-NEG.FUT daughter husband-AD.ESS II-send-NEG.PST.UNW you-TOP II-escape-NEG.FUT-QUOT
+Translation: Finally the brother's girl said to her that she won't find any man as rich and wealthy, so that the daughter couldn't do anything else than to take him as a husband.
+Sentence: Xanä eƛin, Ismaʕil äxuzay soder nesiz gulude puħor ik’iłxosi žek’u oqinč’u, min hemedurtow ik’äłinč’iƛin.
+Gloss: khan-ERG say-PST.UNW Ismail die-SIM.CVB after DEM1.ISG.OBL-GEN2 horse-APUD.ESS side-AD.LAT go-POT-PRS.PRT man become-NEG.PST.WIT you-and so-EMPH go-POT-NEG.FUT-QUOT
+Translation: The king said: "Ever since Ismail died, there was no man who could go near his horse; and you won't be able to do so either."

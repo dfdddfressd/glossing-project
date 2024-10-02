@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Bišno-butin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Bišno-butin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Biš-butin bizinosi, zeyä yisiq esirno, łinał xizay, šebin retin mi maħor oqäsiƛin.
+Gloss: III-eat-PFV.CVB III-get.up-ANT.CVB bear-ERG DEM2.ISG.OBL-POSS.ESS ask-PFV.CVB what.OBL-CONT.ESS behind thing IV-want-PFV.CVB you outside become-RES.PRT-QUOT
+Translation: After the bear has eaten, he got up and asked, "What are you looking for in your trip?"
+Sentence: Q’ˤanon q’ˤidan bičin biš-butin łiynosi, užä nełqor ħaƛanix łäsno yic’no besuroz haqa yesun zawruni t’akan teƛno.
+Gloss: two-TOP down-TOP I.PL-sit-PFV.CVB I.PL-eat-PFV.CVB end-ANT.CVB boy-ERG DEM1.IISG.OBL-POSS.LAT drink-MSD-AD.ESS water-GEN1-TOP II-fill-PFV.CVB fish-GEN2 mouth-IN.ESS II-find-PFV.CVB be.NPRS-PST.PRT-DEF glass give-PST.UNW
+Translation: The two sat down and when they had finished eating, the boy filled the glass he found in the fish's mouth with water and gave it to her to drink.

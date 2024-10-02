@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boqzaƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boqzaƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boqzaƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ele hoboda debi mi eɣʷedin et’no biqiräsi micxir boqzaƛ’, c’idaɣor kura baynč’iƛin, eƛin babiya, užä nesä nesir micxir boda oqsiƛin rok’u č’eze roqnosi.
+Gloss: there that you-GEN1 you sweat-TOP pour-PFV.CVB III-win-RES.PRT money III-become-CSL.CVB fire-APUD.VERS throw-INF III-must-NEG.FUT-QUOT say-PFV.CVB dad-ERG boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT money III-do-INF begin-PST.WIT-QUOT heart convinced[?] IV-become-ANT.CVB
+Translation: "There, because it's the money you earned with your own sweat, I don't have to throw it into the fire.", said the father, and was convinced that his son earned money for himself.
+Sentence: Užä eƛin, ƛa boqzaƛ’ beza bik’an nełaƛ’ƛin.
+Gloss: boy-ERG say-PST.UNW go.IMPR III-become-CSL.CVB I.PL-look-INF I.PL-go-FUT.DEF DEM1.IISG.OBL-SUPER.ESS-QUOT
+Translation: The boy said: "Let's go, if it is, we'll look at it!"
+Sentence: Mix bik’äsi zamanno boqzaƛ’, yiła ɣˤanaza yeda neła nełdäɣor ƛirbałix ižix.
+Gloss: time III-go-RES.PRT time-TOP III-become-CSL.CVB DEM2.IISG.OBL woman-ERG DEM2.ISG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-APUD.VERS hospitality-AD.ESS lead-PRS
+Translation: Because some time had passed, that woman let him be her guest.
+
+Approximate Matches:
+Sentence: Eže izäsin oqzaƛ’, ɣudi räk’iruce nesis tatu bexux bik’ix zown.
+Gloss: old get-RES.PRT-TOP become-CSL.CVB day IV-go-PST.PRT-EQU1 DEM1.ISG.OBL-GEN1 power III-die-IPFV.CVB III-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: Because he was getting old, his power was dying as a day passed.
+Sentence: Łˤora ɣˤurušyoƛ yedu teƛxo yoqzaƛ’, yiłas hunar šebi yołƛin?”.
+Gloss: three.OBL ruble-SUB.ESS DEM2.IISG give-PRS II-become-CSL.CVB DEM2.IISG.OBL-GEN1 talent what be-QUOT
+Translation: "Three rubles does it cost, what is its ability?"
+Sentence: Idur aynosi užä nesä nesis esiy guluƛ’no zowerno ciqaɣor yižin, hudun rok’u gurħizi roqzaƛ’, yexurnoanu.
+Gloss: home-LAT come-ANT.CVB son-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 sister horse-SUPER.ESS-TOP seat-PFV.CVB forest-IN.VERS II-lead-PFV.CVB nevertheless heart pity IV-become-CSL.CVB II-kill-PFV.CVB-NEG
+Translation: When the son came home, he seated his own sister onto a horse and led her into the forest, but because his heart felt sorry, he didn't kill her.

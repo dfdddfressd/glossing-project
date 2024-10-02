@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iqirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iqirno: 
+
+Exact Matches
+Sentence: Iqiran iqirno yizä ža beže iħuz lilyoxor ižin.
+Gloss: catch-FUT.CVB catch-PFV.CVB DEM2.IPL.OBL-ERG DEM1.SG III-big river-GEN2 river.bank-AD.LAT carry-PST.UNW
+Translation: They caught him and brought him to the bank of a large river.
+Sentence: Akbar roɣno łäyrun, bayn sida ceyä iqirno ižin di maqˤi mečoƛ’ sida c’aq’ bercinaw baɣmar kursi.
+Gloss: call.for.prayer IV-take.away-PFV.CVB end-IMM.ANT.CVB III-come-PFV.CVB one.OBL eagle-ERG take.away-PFV.CVB take.out-PFV.CVB me far.away place-SUPER.ESS one.OBL very beautiful garden-LAT throw-ATTR
+Translation: At the end of my call for the prayer, an eagle came and took me away to a far place and threw me into a very beautiful garden.
+Sentence: Hič’č’a bercinawni t’awus yisä boƛƛäy boɣƛ’oräy, qarawulza iqirno nesiq esirno, mi nazay, łinar ayäsi žek’u yołƛin.
+Gloss: the.most beautiful-DEF peacock DEM2.ISG.OBL-ERG III-middle-SUB.ABL III-take.away-SIM.CVB guard-PL-ERG catch-PFV.CVB DEM1.ISG.OBL-POSS.ESS ask-PFV.CVB you from.where why come-RES.PRT man be-QUOT
+Translation: After he has seized the most beatiful one, the guards caught him and asked, "Where did you come from and why?"
+
+Approximate Matches:
+Sentence: Q’ˤida muɣno hiƛirno, neła ža hič’č’a rečiwsi riqirno qaca q’ˤidar karun, nełłäy bikorin boqno, bet’unč’ey žedałtow xizay nexxo zown.
+Gloss: down bundle-TOP place.comfortably-PFV.CVB DEM1.IISG.OBL-ERG DEM1.SG the.most IV-thick-ATTR IV-take.away-PFV.CVB firewood down-LAT throw-IMM.ANT.CVB DEM1.IISG.OBL-CONT.ABL snake-TOP III-become-PFV.CVB III-stay.behind-NEG.PST.CVB DEM1.IIPL.OBL-CONT.ESS-EMPH behind come-IPFV.CVB be.NPRS-PST.UNW
+Translation: She put the bundle down, and the thickest piece of firewood that she threw down, turned into a snake, which didn't stay behind, but followed them.
+Sentence: Xizyo Kusa xanez kidbeden kecno, qˤašiƛ’aɣor kid moƛaq yiqirnosi, elayn izin ɣamasya tełerno oqno, tełäzgon žan ħišin, maq’anyabi rižixosi pelun yexurno.
+Gloss: afterwards Kusa-ERG khan-GEN2 daughter-APUD.ESS-TOP sleep-PFV.CVB dawn-SUPER.VERS girl sleep-POSS.ESS II-stop-ANT.CVB there-IN.ABL-TOP get.up-PFV.CVB box-IN.ESS into-TOP become-PFV.CVB inside-IN.ESS.DIST-CNTR DEM1.SG-TOP lock-PFV.CVB melody-PL III.PL-carry-IPFV.CVB-ATTR pipe-TOP II-kill-PST.UNW
+Translation: Afterwards, when Kusa had slept with the king's daughter, and the girl had stopped sleeping, he got up from there and went into the box, locked it from inside and destroyed the pipes which played the melodies.
+Sentence: Howlo xizyo yizi q’ˤanon esnabi akiłno moƛan biqirno, łerakin ɣudi č’ariłnoanu.
+Gloss: there afterwards DEM2.IPL two-TOP brother-PL get.tired-PFV.CVB sleep-TOP III-catch-PFV.CVB five.OBL-even day wake.up-PST.UNW-NEG
+Translation: Afterwards these two siblings got tired and caught some sleep, and didn't even woke up for five days.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’ut’i in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’ut’i: 
+
+Exact Matches
+Sentence: Hoboy q’orolaz užä yizi baƛ’ärułi riynosi, ʕoƛiran esnaza q’ut’i bodin ža exuranixƛin.
+Gloss: now widow-GEN2 son-ERG DEM2.IPL I.PL-cheat-MSD IV-know-ANT.CVB seven.OBL-TOP brother-PL-ERG agreement III-do-PFV.CVB DEM1.SG kill-MSD-AD.ESS-QUOT
+Translation: Now, after the seven brothers knew that the widow's son had cheated them, they agreed to kill him.
+Sentence: Dandir aždaħ c’oxnosi, Ħuseneł biłetow yiła yisiłno q’ut’i boyx, łox ɣˤul caƛin sosikin nełaz c’oxnäy, yisä ža boƛƛi begira bayx, sosikin c’oxinč’inäy, aždaħä ža igix.
+Gloss: towards dragon meet-ANT.CVB Hussein-CONT.ESS III-as-EMPH DEM2.IISG.OBL-ERG DEM2.ISG.OBL-CONT.ESS-TOP agreement III-do-IPFV.CVB thrice stone throw-PFV.CVB once-even DEM1.IISG.OBL-GEN2 hit-CND.CVB DEM2.ISG.OBL-ERG DEM1.SG III-middle III-break.apart-CAUS-INF III-must-IPFV.CVB once-even hit-NEG.FUT.CVB-CND.CVB dragon-ERG DEM1.SG swallow-PRS
+Translation: When he came to the dragon, he was making the same agreement as with Hussein with him, that if he throws a stone three times and hits him at least once, he must break him apart in the middle, if he doesn't hit him at least once, the dragon would be swallowing him.
+Sentence: Didurnotow yiziq sidaƛ’or hut’ rutinč’izaƛ’, yizis šarʕimoƛ’ bik’anix q’ut’i boqno.
+Gloss: how-TOP-EMPH DEM2.IPL-POSS.ESS one.OBL-SUPER.LAT lip IV-turn-NEG.FUT-CSL.CVB DEM2.IPL-GEN1 Sharia.court-SUPER.ESS I.PL-go-MSD-AD.ESS agreement III-become-PST.UNW
+Translation: Because they could not reach a consensus, they agreed to go to the Sharia.
+
+Approximate Matches:
+Sentence: Xanä kid yegiranƛin nesił q’ut’in boyn, ža uži kid yuyxor yutiranix egirno.
+Gloss: khan-ERG daughter II-send-FUT.CVB-QUOT DEM1.ISG.OBL-CONT.ESS agreement-TOP III-do-PFV.CVB DEM1.SG boy girl II-true-AD.LAT II-turn-MSD-AD.ESS let-PST.UNW
+Translation: The king agreed with him to give him his daughter, and the boy began to turn her back into a real girl.
+Sentence: Badiru q’ut’imoxor, doxturä nesi bečedawni žek’uqor eƛin, där debi roƛik’u bečełi retin anu, där debi kid yowa yetixƛin.
+Gloss: III-do-PST.PRT agreement-AD.LAT doctor-ERG DEM1.ISG.OBL wealthy-DEF man-POSS.LAT say-PFV.CVB me-LAT you-GEN1 half riches IV-want-PFV.CVB be.NEG me-LAT you-GEN1 daughter II-bring-INF II-want-PRS-QUOT
+Translation: As it was arranged, the doctor said to the wealthy man, "I do not want the half of your riches, but I want to marry your daughter."
+Sentence: Xediyan di neła bayru q’ut’imoxor izmun neƛno nesi žadaɣor yegirsiƛin.
+Gloss: husband-ERG-TOP me DEM1.IISG.OBL-ERG III-do-PST.PRT agreement-AD.LAT permission-TOP give-PFV.CVB DEM1.ISG.OBL boy-APUD.VERS II-let-PST.WIT-QUOT
+Translation: And my husband let me go to this boy and also gave her the permission to have a (marriage) contract.

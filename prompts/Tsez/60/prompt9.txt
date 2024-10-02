@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yesun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yesun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yesun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yaɣˤin tełer bezunosi, marɣalyos k’icu yołäsi užin esun, mesedyos žežu yołäsi kidno yesun.
+Gloss: II-open-PFV.CVB to.the.inside I.PL-look-ANT.CVB pearl-GEN1 tooth be-RES.PRT boy-and find-PFV.CVB gold-GEN1 ponytail be-RES.PRT girl-and II-find-PST.UNW
+Translation: When they opened it and looked inside, they found a boy with a pearl tooth and a girl with a golden ponytail.
+Sentence: Tabanaw manzilno xecin ik’inosi, yisir his xuxix yeže ɣˤanabi yesun.
+Gloss: long distance-TOP leave-PFV.CVB go-ANT.CVB DEM2.ISG.OBL-LAT spring.wool comb-IPFV.CVB II-old woman II-find-PST.UNW
+Translation: After having gone a long distance, he found a woman combing wool.
+Sentence: Sasaqosi moƛaxay yizizaƛ’or kidber ɣamas yexasi yesun.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-POST.CVB girl-LAT box II-die-RES.PRT II-find-PST.UNW
+Translation: When the girl got up in the morning, she found that the box was broken.
+
+Approximate Matches:
+Sentence: Elo teł yexasi esiw yesunosi, yedu šebin šebi t’o idu roqxoƛin baruzaq esirzaƛ’, elar riyxosi šebin anuƛin, inkar bisno ričin.
+Gloss: there inside II-die-RES.PRT sister II-find-ANT.CVB DEM2.IISG thing what here home IV-happen-PRS-QUOT wife-PL-POSS.ESS ask-CSL.CVB here-IN.LAT IV-know-PRS.PRT thing be.NEG-QUOT rejection III-take-PFV.CVB II.PL-be-PST.UNW
+Translation: When they found their dead sister inside, and asked their wives: "What happened here at home?", they rejected: "We don't know anything about this here."
+Sentence: Bełiƛ’ bäk’izay esnabi baynosi, idu esiy Umukus yesunč’izaƛ’, baruzaq, nar ža yik’äƛin, esirno.
+Gloss: hunting-SUPER.ESS I.PL-go-SIM.CVB brother-PL I.PL-come-ANT.CVB home sister Umukus II-have-NEG.FUT-CSL.CVB wife-PL-POSS.ESS where DEM1.SG II-go-PST.WIT.INT-QUOT ask-PST.UNW
+Translation: When the brothers came back from hunting, their sister Umukus wasn't at home, so they asked their wives where she went.

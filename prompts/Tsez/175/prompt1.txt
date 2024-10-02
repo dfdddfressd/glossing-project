@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Žedułäy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Žedułäy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Žedułäy:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Enduräza rik’in tamadaqorno eƛin, äƛiruxorno bexurna yizä boc’iƛin, žedułäy sis bezanix madaɣor bik’in.
+Gloss: that.way-IN.VERS.DIST III.PL-go-PFV.CVB toastmaster-POSS.LAT-TOP say-PFV.CVB say-PST.PRT-AD.LAT-TOP III-kill-PFV.CVB.INT DEM2.IIPL.OBL-ERG wolf-QUOT DEM1.IPL.OBL-CONT.ABL one III-look-MSD-AD.ESS outside-APUD.VERS III-go-PST.UNW
+Translation: They went that way and said to the toastmaster: "[???]"; one of them went outside to took whether they had killed the wolf as they said.
+Sentence: Kidbezno, baruzno, nesizno bok’nosigon, žedułäy ħalaq’awt’a ʕomoybi roqno.
+Gloss: daughter-GEN2-TOP wife-GEN2-and DEM1.ISG.OBL-GEN2-and III-beat-ANT.CVB-CNTR DEM1.IPL-CONT.ABL thin-DISTR donkey-PL III.PL-become-PST.UNW
+Translation: And after cracking also [for?] his daughter, his wife and himself, they became thin donkeys.
+
+Approximate Matches:
+Sentence: Žedułäy sis zown netintow buyxor mec esixosi, sidenä heresi gurow esix zown anu.
+Gloss: DEM1.IPL.OBL-CONT.ABL one be.NPRS-PFV.CVB always-EMPH III-true-AD.LAT language tell-PRS.PRT one.OBL-DEF-ERG false except tell-IPFV.CVB be.NPRS-PFV.CVB be.NEG
+Translation: One of them was always telling the truth, the other one told nothing but lies.

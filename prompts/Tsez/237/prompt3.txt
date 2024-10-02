@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qunyoxar in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qunyoxar: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Q’urec’niƛ’ ƛ’iri q’ˤano t’ik’in caƛin, yeda oqno qunyoxaɣor ik’in.
+Gloss: mule-SUPER.ESS on two waterskin-TOP throw-PFV.CVB DEM2.ISG become-PFV.CVB farmstead-AD.VERS go-PST.UNW
+Translation: On the mule he threw two waterskins onto the mule and went began to go to the farm.

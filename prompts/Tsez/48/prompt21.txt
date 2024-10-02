@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: k’emot.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": k’emot
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word k’emot:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Łiya yižin k’emot’ sida aɣˤuz łiłiroł adäzan c’oxno yičin.
+Gloss: water-ERG II-carry-PFV.CVB wooden.case one.OBL mill-GEN2 ditch-CONT.ESS before-IN.VERS.DIST-TOP hit-PFV.CVB II-remain-PST.UNW
+Translation: The water carried the case before a mill's ditch, it hit it and remained there.
+Sentence: Yiła reƛ’a atinč’eytow ža k’emot’ q’ˤidar yegirno.
+Gloss: DEM2.IISG.OBL-ERG hand touch.with-NEG.PST.CVB-EMPH DEM1.SG wooden.case down-LAT II-let-PST.UNW
+Translation: Not touching it with the hand, she let the crate down.
+Sentence: C’urun-c’aranƛin” eƛin yayxosi k’emot’ mi yiqir, ža hoq’ˤoni reƛ’a atinč’ey q’ˤidar yegirƛin.
+Gloss: tsurun-tsaran-QUOT say-PFV.CVB II-come-PRS.PRT wooden.case you II-take.away DEM1.SG other-DEF hand touch.with-NEG.PST.CVB down-LAT II-let-QUOT
+Translation: Take away the crate that came down when you said 'Tsurun-tsaran!', let the other one down without touching it with the hand!"
+
+Approximate Matches:
+Sentence: Yiłagon q’ˤanon xanes xexbi - užin, kidno k’emot’ya tełno eqerno, iħułxor kurno.
+Gloss: DEM2.IISG.OBL-CNTR two-TOP khan-GEN1 children - son-and daughter-and wooden.case-IN.ESS inside-TOP put-PFV.CVB river-CONT.VERS throw-PST.UNW
+Translation: But those two children of the king - the son and the daughter - she put into a wooden case and threw them into the river.
+Sentence: Qˤirič’yogon k’emot’ya teł zawru nasin šeƛ’u t’it’i-reč’no.
+Gloss: scissors-CNTR wooden.case-IN.ESS inside be.NPRS-PST.PRT all clothing IV-cut.into.pieces-PST.UNW
+Translation: But the pair of scissors cut all the clothes that were inside the wardrobe into pieces.
+Sentence: Cimyoqaysi xanä ža kid qaciz k’emot’ya tełerno kurno, yoɣno łäłxor yižirno.
+Gloss: malice-POSS.ESS-IN.ABL-ATTR khan-ERG DEM1.SG daughter firewood-GEN2 wooden.case-IN.ESS into-TOP throw-PFV.CVB II-take.away-PFV.CVB water-CONT.VERS II-take.out-CAUS-PST.UNW
+Translation: The malicious king locked his daughter in a wooden chest and let her throw into the river.

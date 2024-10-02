@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: tungin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": tungin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word tungin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemełƛ’o elo akiłäza łäs bic’äsi tungin bižin Ražbadinxo esäruni kid yik’äsi zown.
+Gloss: DEM4.IISG.OBL-SUPER.ESS there window-CONT.VERS.DIST water-GEN1 III-fill-RES.PRT copper.jug-TOP III-carry-PFV.CVB Razhbadin-AD.ESS ask-PST.PRT-DEF girl II-go-RES.PRT be.NPRS-PST.UNW
+Translation: The girl that Razhbadin asked [= his fiancée] carried a copper jug filled with water and was going to a window up there.
+Sentence: Igtow yeda ƛ’iri utizaƛ’ Tawadä esin, mi yowxozo barurno, deberno saɣłin rodin ħaƛanix di t’akan yizärun, gugyoq tungin bisno akiƛäza yik’ix yukayru kidbeƛ’ ozurin c’oxno, nełaz bercinłä ʕadal oys.
+Gloss: much-EMPH DEM2.ISG above turn-CSL.CVB Tavadi-ERG tell-PST.UNW you II-marry-PRS.PRT.OBL wife-LAT-and you-LAT-and health-TOP IV-do-PFV.CVB drink-MSD-AD.ESS me glass II-lift-IMM.ANT.CVB back-POSS.ESS copper.jug-TOP III-take-PFV.CVB window-SUB.VERS II-go-IPFV.CVB II-see-PST.PRT girl-SUPER.ESS eye-TOP hit-PFV.CVB DEM1.IISG.OBL-GEN2 beauty-ERG intoxication do-PST.WIT
+Translation: Because he insisted so much, Tavadi told him: "Right after lifting my glass to drink on your and your soon to be married wife, my eye met this girl whom I saw going under the window and taking a jar on her back, and her beauty was intoxicating."
+Sentence: Esiya małiruxor, č’ikays tungin bisno, yedu łäħor yik’in.
+Gloss: brother-ERG teach-PST.PRT-AD.LAT glass-GEN1 copper.jug-TOP III-take-PFV.CVB DEM2.IISG water-AD.LAT II-go-PST.UNW
+Translation: According to what the brother had said, she took a glass jug and went to get water.
+
+Approximate Matches:
+Sentence: Deberno p’es anusi bičinäy, rigu räčiƛin, - eƛin yeda tungi bic’a iħun.
+Gloss: you-LAT-TOP sound be.NEG-ATTR III-be-CND.CVB IV-good IV-be-QUOT - say-PFV.CVB DEM2.ISG copper.jug III-fill-INF begin-PST.UNW
+Translation: It will be good also for you to be quiet", he said and came to fill the jug.
+Sentence: Bäxuruni tungił xizay yedu ʕiyayxƛin xalq’imozgon rok’ƛ’orno rayƛin.
+Gloss: III-die-PST.PRT-DEF copper.jug-CONT.ESS behind DEM2.IISG cry-PRS-QUOT people-GEN2-CNTR heart-SUPER.LAT-TOP IV-come-QUOT
+Translation: And the people will think that you're crying for the broken jug."
+Sentence: Łäƛ’or yäk’iru yiła kidber neł aždaħä, ƛirbar retäsi roqzaƛ’ƛin, bic’no sis tungi teƛno.
+Gloss: water-SUPER.LAT II-go-PST.PRT DEM2.IISG.OBL girl-LAT DEM1.IISG.OBL dragon-ERG guest-LAT IV-want-RES.PRT IV-happen-CSL.CVB-QUOT III-fill-PFV.CVB one copper.jug give-PST.UNW
+Translation: The dragon gave the girl that went to look for water a jug filled with water, because that happened to be what the guest wanted.

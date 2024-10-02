@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Yeženi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Yeženi: 
+
+Exact Matches
+Sentence: Žigoƛ’aygon xanes yeženi kidno yok’ek’no, xizor utin idur bežet’ani esnazaƛ’ay ader ayn.
+Gloss: now-SUPER.ABL-CNTR khan-GEN1 II-old-DEF daughter-TOP II-steal-PFV.CVB back return-PFV.CVB home-LAT I.PL-old-DISTR-DEF brother-PL-SUPER.ABL before come-PST.UNW
+Translation: And now he stole the king's oldest daughter and returned home before his older brothers.
+Sentence: Xizyogon hemedurtow yeženi esiya ža uži c’enno ʕiyayrno.
+Gloss: again so-EMPH II-old-DEF sister-ERG DEM1.SG boy pinch-PFV.CVB cry-CAUS-PST.UNW
+Translation: Then the eldest sister pinched the boy again and made him cry.
+Sentence: Uži yeženi esiya ižix zown.
+Gloss: boy II-old-DEF sister-ERG carry-IPFV.CVB be.NPRS-PST.UNW
+Translation: The eldest sister carried the boy.
+
+Approximate Matches:
+Sentence: Ismaʕilä bašiqay roɣno bašiqˤoy teƛno yeženiqor, enda xanez kidbeqor teƛa bažarizi raqä debeqƛin.
+Gloss: Ismail-ERG finger-POSS.ABL IV-take.away-PFV.CVB ring give-PFV.CVB II-old-DEF-POSS.LAT DEM3b.SG khan-GEN2 daughter-POSS.LAT give-INF able IV-become-Q you-POSS.ESS-QUOT
+Translation: Ismail took a ring from his finger and gave it to the old woman: "Could you give it to the king's daughter?"

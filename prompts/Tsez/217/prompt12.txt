@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yiła.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yiła
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yiła:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ozzałer č’uran rayrerno, yiła xediw howlotow ičirno.
+Gloss: eye-PL-CONT.LAT light-TOP IV-bring-CAUS-PFV.CVB DEM2.IISG.OBL-ERG husband there-EMPH wait-CAUS-PST.UNW
+Translation: She brought the light back to his eyes but let her husband wait there.
+Sentence: Sida quł bet’erhanno bet’erhanes užin ƛˤoreł bik’inosi, yiła neł ʕaƛos dibir iduɣor goƛ’in.
+Gloss: one.OBL day-CONT.ESS master-and master-GEN1 son-and war-CONT.ESS I.PL-go-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL village-GEN1 imam home-IN.ALL invite-PST.UNW
+Translation: One day, when the master and the master's son went to war, she invited the village's imam to their home.
+Sentence: Yiła maq’anyabi qˤaƛixanu, ust’arder yedu yayrƛin yiła ɣarabašzaqor eƛin.
+Gloss: DEM2.IISG.OBL-ERG melody-PL sing-PRS-NEG master-APUD.LAT DEM2.IISG II-bring-QUOT DEM2.IISG.OBL-ERG servant-PL-POSS.LAT say-PST.UNW
+Translation: "It doesn't play melodies anymore, bring it to the master!", she said to the servants.
+
+Approximate Matches:

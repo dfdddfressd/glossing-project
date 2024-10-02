@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Ocätow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Ocätow: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hemełƛ’ay soder bˤeƛ’ ocät’a ričirxo zown.
+Gloss: DEM4.IISG.OBL-SUPER.ABL after sheep threshing.floor-IN.ESS-DISTR III.PL-be-CAUS-IPFV.CVB be.NPRS-PST.UNW
+Translation: Afterwards he brought the sheep to the threshing floor.

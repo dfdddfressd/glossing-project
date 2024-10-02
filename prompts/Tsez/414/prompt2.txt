@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nexxo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nexxo: 
+
+Exact Matches
+Sentence: Elay bik’in cek’ä iħäy łäs yic’no mušno yown nexƛ’oräy, nełał xizay k’oƛin zey nexxo zown.
+Gloss: there-IN.ABL III-go-PFV.CVB goat.kid-ERG river-IN.ABL water-GEN1 II-fill-PFV.CVB pot-TOP II-bring-PFV.CVB come-SIM.CVB DEM1.IISG.OBL-CONT.ESS behind run-PFV.CVB bear come-IPFV.CVB be.NPRS-PST.UNW
+Translation: The goat kid went away from there, brought a pot filled with water from the river and when it came back, a bear was running behind it.
+Sentence: Hemedur hunix ik’iƛ’orey, boxin bik’ixosi ziru yisił c’oxno, nełałgon xizay k’oƛin nexxo łˤono boc’in yołƛax.
+Gloss: so way-AD.ESS go-SIM.CVB III-run.away-PFV.CVB III-go-PRS.PRT fox DEM2.ISG.OBL-CONT.ESS hit-PFV.CVB DEM1.IISG.OBL-CONT.ESS-CNTR behind run-PFV.CVB come-IPFV.CVB three wolf-TOP be-QUOT
+Translation: While he was on his way like that, he met a fox who was fleeing and behind it three wolves came running.
+Sentence: Łäs tungin bic’no nexxo yedu yukayrun, yeda nełqay oxin ik’iƛ’oräy, mi ži daqäy ok’ła moči anuƛin, tungin q’ˤidar kurno yeɣeni esiw xizay k’oƛin.
+Gloss: water-GEN1 copper.jug-TOP III-fill-PFV.CVB come-IPFV.CVB DEM2.IISG II-see-IMM.ANT.CVB DEM2.ISG DEM1.IISG.OBL-POSS.ABL run.away-PFV.CVB go-SIM.CVB you now me-POSS.ABL escape-INF place be.NEG-QUOT copper.jug-TOP down-LAT throw-PFV.CVB II-young-DEF sister behind run-PST.UNW
+Translation: When he saw his younger sister coming back with a copper jug filled with water, he ran away from her, while she said: "Now there's no place you could escape from me [to]!", threw the jug down and ran behind him.
+
+Approximate Matches:
+Sentence: Q’orola xanqo mołin, c’ohor nexxozo mečoƛ’ mi nucos bic’äsi q’ili eqroƛin.
+Gloss: widow-ERG khan-POSS.ESS teach-PST.UNW thief come-PRS.PRT.OBL place-SUPER.ESS you honey-GEN1 III-fill-RES.PRT qili put-IMPR-QUOT
+Translation: The widow explained to the king: "Put a pot filled with honey to the place the thief came to."
+Sentence: Ezuzaƛ’ oč’ino q’ˤim yołäsi aždaħ ƛ’irir nexxoƛax.
+Gloss: look-CSL.CVB nine head be-RES.PRT dragon on-LAT come-PRS-QUOT
+Translation: He looked: A nine-headed dragon was coming to him.
+Sentence: Ža bix yałza mečoƛ’or aynosi, rexorani bixiz ɣˤuč’ä eƛix teqno, yisi žek’us ʕantłi rukayxana mežur, barus ʕadlun boqinč’ey, nesä nesił xizaz rexʷadanix ħonƛ’ay bˤeƛ’no rown nexxoƛin.
+Gloss: DEM1.SG grass be-LCV.CVB place-SUPER.LAT come-ANT.CVB IV-long-DEF grass-GEN2 stick-ERG say-IPFV.CVB hear-PST.UNW DEM2.ISG.OBL man-GEN1 stupidity IV-see-IPFV.CVB-NEG-Q you(I).PL.OBL-LAT wife-GEN1 order-TOP III-become-NEG.PST.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-CONT.ESS behind III.PL-slaughter-MSD-AD.ESS mountain-SUPER.ABL sheep-TOP III.PL-bring-PFV.CVB come-PRS-QUOT
+Translation: When he came to the place where the grass was, he heard the longest blade of grass say: "Don't you see the ... of this man? He can't control his wife, but brings sheep down from the mountain to slaughter them after himself."

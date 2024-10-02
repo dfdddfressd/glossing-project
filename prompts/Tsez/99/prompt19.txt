@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: anaƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": anaƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word anaƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hudu neła mežur łi neƛxosi anaƛin? - esirno yisä neła q’orolaq.
+Gloss: so DEM1.IISG.OBL-ERG you(I).PL.OBL-LAT water give-PRS.PRT be.NEG-Q-QUOT - ask-PST.UNW DEM2.ISG.OBL-ERG DEM1.IISG.OBL widow-POSS.ESS
+Translation: "So he's not giving you water?", he asked the widow.
+Sentence: Xizyo nesä tukamƛ’ozoni žek’uq esirno, mi ozurabin roɣno ƛexun zowali žek’u anaƛin.
+Gloss: afterwards DEM1.ISG.OBL-ERG shop-SUPER.ESS-GEN2-DEF man-POSS.ESS ask-PST.UNW you eye-PL-TOP IV.PL-take.away-PFV.CVB remain-PFV.CVB be.NPRS-ATTR man be.NEG-PST.WIT.INT-QUOT
+Translation: Afterwards, he asked the man in the shop: "Weren't you the man whom I took the eyes away from?"
+Sentence: Nełƛ’aza rayn kesubi esa adäza, eli bezu-bˤoƛ’a bay yołä t’oza xalq’i anaƛin.
+Gloss: DEM1.IISG.OBL-SUPER.VERS.DIST III.PL-come-PFV.CVB secret-PL find-INF before we III-visit-INF I.PL-must be-Q here-ZA people be.NEG-Q-QUOT
+Translation: Because of that [...?], we must look if there are people here.
+
+Approximate Matches:
+Sentence: Nesän hemedurtow esirno užiq, ža ziys ħoši teƛxanaƛin.
+Gloss: DEM1.ISG.OBL-ERG-TOP so-EMPH ask-PFV.CVB boy-POSS.ESS DEM1.SG cow-GEN1 hide sell-IPFV.CVB-NEG-Q-QUOT
+Translation: He asked the boy likewise: "Aren't you going to sell that cow hide?"
+Sentence: Nesä užiq esirno, yedu ziya teƛxanaƛin.
+Gloss: DEM1.ISG.OBL-ERG boy-POSS.ESS ask-PST.UNW DEM2.IISG cow sell-IPFV.CVB-NEG-Q-QUOT
+Translation: He asked the boy: "Don't you sell that cow?"
+Sentence: Eženi esiya eɣeniq reƛ’a caƛix kumak nesir boyx zown, yedakin ok’ełxanaƛin.
+Gloss: old-DEF brother-ERG young-DEF-POSS.ESS hand throw-IPFV.CVB help DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT
+Translation: The older brother was helping giving his hand to the younger one, so at least he might escape.

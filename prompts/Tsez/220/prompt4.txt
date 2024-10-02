@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yiqirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yiqirno: 
+
+Exact Matches
+Sentence: Nesi žaz babiya sidaquł q’orol ɣˤanabin yiqirno nełaq esin, hemedur ɣudƛ’ay ɣudƛ’or dey uži ħalaq’ oqxo ik’ixƛin.
+Gloss: DEM1.ISG.OBL boy-GEN2 father-ERG one.day widowed woman-TOP II-find-PFV.CVB DEM1.IISG.OBL-POSS.ESS tell-PST.UNW so day-SUPER.ABL day-SUPER.LAT me-GEN1 boy meager become-IPFV.CVB go-PRS-QUOT
+Translation: One day the boy's father found a widow and told her that his boy is becoming meager day by day.
+Sentence: Neła idur bown zawruni onoču reč’yałer kidbeƛ’orno butin, iduzasi royƛ’orey, k’oƛin yik’in ečruni ɣˤanaza ža kid yiqirno.
+Gloss: DEM1.IISG.OBL home-LAT III-bring-PFV.CVB be.NPRS-PST.PRT-DEF hen quickness-CONT.LAT girl-SUPER.LAT-TOP III-turn-PFV.CVB home-PL-ATTR IV-do-SIM.CVB run-PFV.CVB II-go-PFV.CVB old-DEF woman-ERG DEM1.SG girl II-catch-PST.UNW
+Translation: The hen that she had brought home quickly turned into a girl and while she did the house[work] then, the old woman ran and caught this girl.
+
+Approximate Matches:
+Sentence: Xizyo Kusa xanez kidbeden kecno, qˤašiƛ’aɣor kid moƛaq yiqirnosi, elayn izin ɣamasya tełerno oqno, tełäzgon žan ħišin, maq’anyabi rižixosi pelun yexurno.
+Gloss: afterwards Kusa-ERG khan-GEN2 daughter-APUD.ESS-TOP sleep-PFV.CVB dawn-SUPER.VERS girl sleep-POSS.ESS II-stop-ANT.CVB there-IN.ABL-TOP get.up-PFV.CVB box-IN.ESS into-TOP become-PFV.CVB inside-IN.ESS.DIST-CNTR DEM1.SG-TOP lock-PFV.CVB melody-PL III.PL-carry-IPFV.CVB-ATTR pipe-TOP II-kill-PST.UNW
+Translation: Afterwards, when Kusa had slept with the king's daughter, and the girl had stopped sleeping, he got up from there and went into the box, locked it from inside and destroyed the pipes which played the melodies.

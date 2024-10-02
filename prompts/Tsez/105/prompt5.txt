@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zirun, k’et’un yołi boc’än, zeyän bayäru dawlaƛ’ žin yołƛax.
+Gloss: fox-and cat-and indeed wolf-ERG-and bear-ERG-and III-bring-PST.PRT prey-SUPER.ESS now be-QUOT
+Translation: And now the fox and the cat went to the prey that the wolf and the bear have brought that day.
+Sentence: Sisgon barun yown, riynoxu žin paraxat ʕumru boyx č’agu yołƛax.
+Gloss: one-CNTR wife-TOP II-marry-PFV.CVB sheikh now calm life III-do-IPFV.CVB alive be-QUOT
+Translation: It's said that the "sheikh" married another wife and still leads a calm life now.
+Sentence: Elo yisir aɣbi žeda žedaqor xabaryayx teqno, yedu ahli łinaqor rezun ričäsi žin močibi riƛinč’ey.
+Gloss: there DEM2.ISG.OBL-LAT bird-PL DEM1.IIPL.OBL-ERG DEM1.IIPL.OBL-POSS.LAT talk-IPFV.CVB hear-PST.UNW DEM2.IISG people what.OBL-POSS.LAT IV-look-PFV.CVB IV-be-RES.PRT now field-PL IV-plough-PFV.CVB-NEG.PST.UNW
+Translation: There he heared the birds talking among themselves: "What are those people looking for, why didn't they plow the fields already?
+
+Approximate Matches:

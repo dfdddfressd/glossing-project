@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iħun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iħun: 
+
+Exact Matches
+Sentence: ʕOƛno ħonno, ʕoƛno iħun xecin ik’inosi, sida ʕaƛar ayn.
+Gloss: seven mountain-and seven river-and leave-PFV.CVB go-ANT.CVB one.OBL village-IN.LAT come-PST.UNW
+Translation: After he walked past seven mountains and seven rivers, he came into a village.
+Sentence: Yedagon onočaƛ’orno utin at’ rac’a iħun.
+Gloss: DEM2.ISG-CNTR hen-SUPER.LAT-TOP turn-PFV.CVB wheat IV-eat-INF begin-PST.UNW
+Translation: The other one turned into a hen and began to eat the wheat.
+Sentence: Ža bayzaƛ’or łˤonon esnabi iħun boɣno taqˤaɣorgon bok’łäsi zown.
+Gloss: DEM1.SG III-come-POST.CVB three-TOP brother-PL river-TOP III-cross-PFV.CVB over.there-IN.VERS-CNTR I.PL-escape-RES.PRT be.NPRS-PST.UNW
+Translation: Before he came, the three brothers crossed a river and escaped to there.
+
+Approximate Matches:

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: madaxorno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": madaxorno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word madaxorno:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Däz beženi ɣˤʷačulis madaxortow ɣˤʷačni teqzaƛ’ tełxorkin yik’inč’uƛin.
+Gloss: me-GEN2 III-old-DEF he.goat-GEN1 door-AD.LAT-EMPH chewing hear-CSL.CVB inside-AD.LAT-even II-go-NEG.PST.WIT-QUOT
+Translation: Because I heard the chewing of my old goat at the door, I didn't go inside.
+Sentence: Kʷaxatow yeda sida azbaryoz madaxor ayn.
+Gloss: soon-EMPH DEM2.ISG one.OBL palace-GEN2 gate-AD.LAT come-PST.UNW
+Translation: Soon he came to the gate of a palace.
+Sentence: Ža madaxor yaynosi, oƛixno k’oƛin užä, tełxor yoqƛin, iduɣor goƛ’in.
+Gloss: DEM1.SG door-AD.LAT II-come-ANT.CVB appear-PFV.CVB run-PFV.CVB boy-ERG inside-AD.LAT II-become-QUOT home-IN.ALL invite-PST.UNW
+Translation: When she came to the door, the boy came running and invited her into the home: "Come inside!"

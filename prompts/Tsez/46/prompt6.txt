@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: alžanä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": alžanä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word alžanä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Babiw ƛ’irir ayrun, žoyä esin nesiq eniya äƛiruxor, wallahi eniwn alžanä yoł.
+Gloss: father above-LAT come-IMM.ANT.CVB boy-ERG tell-PFV.CVB DEM1.ISG.OBL-POSS.ESS mother-ERG say-PST.PRT-AD.LAT by.God mother-TOP paradise-IN.ESS be
+Translation: When the father came, the boy told him what the mother had said: "By God, mother is in heaven!
+
+Approximate Matches:
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.

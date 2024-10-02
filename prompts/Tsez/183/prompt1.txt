@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Sosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Sosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Sosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Mi nedurä hudu zownƛin, eƛin Ražbadinä, nedur resunäy, ela sosi debi berten boda yoł, xizyo di baru yowa yołƛin.
+Gloss: you so-Q though be.NPRS-PST.UNW-QUOT say-PST.UNW Razhbadin-ERG so IV-exist-CND.CVB we(I).OBL-ERG at.first you-GEN1 marriage III-do-INF be afterwards me wife II-marry-INF be-QUOT
+Translation: "So that way you are," said Razhbadin, "if that's the case, we will first prepare your wedding and afterwards I will marry my wife."
+Sentence: Hunix mekʷa c’oxnosi, žeda sosi iguni halmaɣes bišʷa rac’no łiyrno.
+Gloss: way-AD.ESS hunger meet-ANT.CVB DEM1.IPL-ERG at.first good-DEF friend-GEN1 food IV-eat-PFV.CVB finish-PST.UNW
+Translation: When they became hungry on their way, the first ate up the good friend's food.
+Sentence: Tawadä bigza ħalał xal bodinosi, elo nesir sosi ozuri c’oxno yätiruni kid yukaynanu.
+Gloss: Tavadi-ERG III-much-ZA strength-CONT.ESS examination III-do-ANT.CVB there DEM1.ISG.OBL-LAT at.first eye meet-PFV.CVB II-love-PST.PRT-DEF girl II-see-PFV.CVB-NEG
+Translation: When Tavadi looked intently, he didn't see a girl that he fell in love with at first sight.
+
+Approximate Matches:

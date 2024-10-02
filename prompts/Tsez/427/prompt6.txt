@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esirno: 
+
+Exact Matches
+Sentence: Maħor boqnosi, bara xediwq esirno, yedu q’urec’nibin, žedaƛ’ ƛ’irisi q’ayn łasey besanƛin.
+Gloss: outside I.PL-become-ANT.CVB wife-ERG husband-POSS.ESS ask-PST.UNW DEM2.IISG mule-PL-and DEM1.IIPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT
+Translation: When they went outside, the wife asked her husband: "Whose might those mules and the wares on them be?"
+Sentence: Ɣˤutkun, ƛen rodin łiyzaƛ’, žoyä eniw k’ox äƛirugon kidno esirno xander yegirno.
+Gloss: house-and bridge-and III.PL-do-PFV.CVB end-CSL.CVB boy-ERG mother twice ORD-CNTR girl-TOP ask-PFV.CVB khan-APUD.LAT II-send-PST.UNW
+Translation: When the house and the bridge were finished, the boy sent his mother to the king a second time to ask for the girl.
+Sentence: Ox̌oyoƛin łu eƛäƛin, esirno yisi žek’a yiziq.
+Gloss: Ohoyo-QUOT who.ERG say-PST.WIT.INT-QUOT ask-PST.UNW DEM2.ISG.OBL man-ERG DEM2.IPL-POSS.ESS
+Translation: "Who said Ohoyo?", that man asked him.
+
+Approximate Matches:
+Sentence: Šebi deber roqäƛin, yisä esirnosi, nesä esin, ʕažaibaw maxšel, hunar yołäsi uži zows dey.
+Gloss: what you-LAT IV-happen-PST.WIT.INT-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB DEM1.ISG.OBL-ERG tell-PST.UNW amazing skill talent be-RES.PRT son be.NPRS-PST.WIT me-GEN1
+Translation: "What happened to you?", he [the son] asked, and he [the father] said: "I had a talented son with amazing skills.
+Sentence: Bełiquza nełaq, nazay ža t’or yayäƛin esirnosi, hemedur eniwn yexun, best’alłiƛ’no ƛexun bet’erbaqi bodanix maħor yoqäsiƛin esin.
+Gloss: hunter-PL-ERG DEM1.IISG.OBL-POSS.ESS from.where DEM1.SG here-LAT II-come-PST.WIT.INT-QUOT ask-ANT.CVB so mother-TOP II-die-PFV.CVB orphanhood-SUPER.ESS-TOP remain-PFV.CVB life III-do-MSD-AD.ESS outside II-become-RES.PRT-QUOT tell-PST.UNW
+Translation: When the hunters asked her, from where she came, she said that her mother died and she lived in orphanhood and went outside to make a living.
+Sentence: Suƛƛi ža yukayrun, Ħusenłäy nesä esirnosi, kidbä elo ɣˤutka teł kinaw raqru šebinno esin, nesä q’ˤida q’ˤiryoł caƛiru c’eruc’az hilmołäzay bešnoyx iyon bukarno.
+Gloss: immediately DEM1.SG II-see-IMM.ANT.CVB Hussein-CONT.ABL DEM1.ISG.OBL-ERG ask-ANT.CVB girl-ERG there house-IN.ESS inside entire IV-happen-PST.PRT thing-TOP tell-PFV.CVB DEM1.ISG.OBL-ERG down floor-CONT.ESS throw-PST.PRT bow-GEN2 arrow-CONT.ABL.DIST III-dribble-IPFV.CVB blood-TOP III-show-PST.UNW
+Translation: Immediately when he saw her, he asked for Hussein, and the girl told everything that happened inside the house there, and he showed the blood that was dribbling out of the bow's arrow that was shot down on the floor.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: mežä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": mežä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word mežä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bertenyołäy ža bašiqˤoy yałruni kid guginosi, yisi žas tatun bexun, xexłiƛ’ idurno ik’in, mežä pun bok’no ičin.
+Gloss: marriage-CONT.ABL DEM1.SG ring be-PST.PRT-DEF girl escape-ANT.CVB DEM2.ISG.OBL boy-GEN1 cheerfulness-TOP III-die-PFV.CVB quickness-SUPER.ESS home-LAT-TOP go-PFV.CVB mattress-IN.ESS side-TOP III-hit-PFV.CVB be-PST.UNW
+Translation: When the girl with the ring had disappeared from the marriage, the boy lost his cheerfulness and quickly went home and to bed.
+Sentence: Ɣʷˤadi ɣunoƛ’ neła nełaz mežä kecno bičäsi zown.
+Gloss: crow tree-SUPER.ESS DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 nest-IN.ESS sleep-PFV.CVB III-be-RES.PRT be.NPRS-PST.UNW
+Translation: The crow was sleeping in its own nest on a tree.
+Sentence: Q’ˤida yuyoƛ’or žan kurno, ħoyaƛ’aygon nesiƛ’or rutirno ƛoħon kurno, xediw nesä nesiz mežä ik’in kecno.
+Gloss: down floor-SUPER.LAT DEM1.SG-and throw-PFV.CVB oven-SUPER.ABL-CNTR DEM1.ISG.OBL-SUPER.LAT IV-turn-PFV.CVB pan-and throw-PFV.CVB husband DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 mattress-IN.ESS go-PFV.CVB sleep-PST.UNW
+Translation: And the husband threw it down onto the floor and the pan off from the oven onto him, and went to sleep on his own mattress.
+
+Approximate Matches:

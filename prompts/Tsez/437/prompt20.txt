@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word däł in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word däł: 
+
+Exact Matches
+Sentence: Roqnäy däł xizay rexadanix sadaq’ałer ħonƛ’äy bˤeƛ’ rowan ik’an, elazay aynosi, debeq žan esanƛin.
+Gloss: IV-happen-CND.CVB me-CONT.ESS behind III.PL-slaughter-MSD-AD.ESS alms-CONT.LAT mountain-SUPER.ABL sheep III.PL-bring-FUT.CVB go-FUT.DEF here-IN.ABL.DIST come-ANT.CVB you-POSS.ESS DEM1.SG-TOP tell-FUT.DEF-QUOT
+Translation: "In that case, I will go and bring the sheep from the mountain for slaughtering them for alms behind me(?), and when I come back here, I will tell it to you."
+Sentence: Hemedur däł adäzarno bayn, insanzo mecreƛ’ xabaryayn aɣä di mi ɣurox egiranƛin odäsi zownč’u, ži roda šebin anuƛinno eƛin ozƛäy gugisƛin.
+Gloss: so me-CONT.ESS before-IN.LAT-TOP III-come-PFV.CVB human-ATTR.OBL language-SUPER.ESS tell-PFV.CVB bird-ERG me you cows-AD.ESS send-FUT.DEF-QUOT do-RES.PRT be.NPRS-NEG.PST.WIT now IV-do-INF thing be.NEG-QUOT-TOP say-PFV.CVB eye-SUB.ABL escape-PST.WIT-QUOT
+Translation: "So, a bird arrived in front of me and talked in human language, saying: 'I didn't give birth to you to have you pasture the cows. But now there's nothing to do.', and escaped out of sight.
+Sentence: Xexłi bodin däł xizay uži egirƛin, eženi žek’u nesä nesiz hunix ik’in.
+Gloss: quickness III-do-PFV.CVB me-CONT.ESS behind son send-QUOT old-DEF man DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 way-AD.ESS go-PST.UNW
+Translation: "Quickly, send your son after me!", [said] the old man and went on his way.
+
+Approximate Matches:

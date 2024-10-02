@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: tamaša.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": tamaša
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word tamaša:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sosi moƛaxay uži č’ariłno - tamaša oqno ƛexun yeda, xanzoƛ’aygon rigu ɣˤutku moƛaxay izizaƛ’or elo resuzaƛ’.
+Gloss: at.first sleep-AD.ABL boy wake.up-PST.UNW - be.surprised become-PFV.CVB remain-PFV.CVB DEM2.ISG khan-GEN2-SUPER.ABL-CNTR IV-pretty house sleep-AD.ABL get.up-POST.CVB there IV-find-CSL.CVB
+Translation: At first, the boy woke up from his sleep - he was surprised because he found the house to be prettier than even the king's one, when he got up.
+Sentence: Łi ħaƛun łäyrun, mesedyos ža yic’nosi, xanes kid tamaša yoqno ƛexun.
+Gloss: water drink-PFV.CVB end-IMM.ANT.CVB gold-GEN1 DEM1.SG II-fill-ANT.CVB khan-GEN1 daughter be.surprised II-become-PFV.CVB remain-PST.UNW
+Translation: When the princess finished drinking the water, it filled with gold and she was very surprised.
+Sentence: Eniw tamaša yoqno ƛexun, nay ža deber nece his riqäƛin.
+Gloss: mother astonished II-become-PFV.CVB remain-PST.UNW from.where DEM1.SG you-LAT so.much spring.wool IV-get-PST.WIT.INT-QUOT
+Translation: His mother was astonished: "Where did you get so much wool from?"
+
+Approximate Matches:
+Sentence: Ža nediw tamašałi rukaynosi, acno yaɣˤin, idurno ik’in, pečmaɣor łoħros qal kurno.
+Gloss: DEM1.SG such wonder IV-see-ANT.CVB door-TOP II-open-PFV.CVB home-LAT-TOP go-PFV.CVB oven-IN.VERS frog-GEN1 skin throw-PST.UNW
+Translation: Having seen such a wonder, he opened the door, went home and threw the frog's skin into the oven.
+Sentence: K’et’uƛ’orno bezun, tamašan boqno zira esirno:
+Gloss: cat-SUPER.LAT-TOP III-look-PFV.CVB be.surprised-TOP III-become-PFV.CVB fox-ERG ask-PST.UNW
+Translation: The fox looked at the cat, was surprised and asked:
+Sentence: ʕAƛar aynƛin teqzaƛ’ortow Ražbadin yizzoxor oƛixzaƛ’, kidbez babiya bigtow tamašan bodin, yisiz ħurmatyoxay rigu bišʷan rodin.
+Gloss: village-IN.LAT come-PFV.CVB-QUOT hear-POST.CVB-EMPH Razhbadin DEM2.IPL.OBL-ATTR.OBL-AD.LAT appear-CSL.CVB girl-GEN2 dad-ERG III-much-EMPH astonished-TOP III-do-PFV.CVB DEM2.ISG.OBL-GEN2 respect-AD.ABL IV-good food-TOP IV-do-PST.UNW
+Translation: Because Razhbadin appeared at their place before he heard that he had come to the village, the girl's dad was very surprised and out of respect for him he prepared a good meal.

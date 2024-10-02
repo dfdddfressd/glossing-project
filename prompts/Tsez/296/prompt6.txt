@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nazoqno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nazoqno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yeženi esiya eƛin, hisos ric’no urgu däqor neƛnäy, nazon debez nukarzaz guluzaƛ’ ƛ’iri kuranix xaličabi rišan diƛin.
+Gloss: II-old-DEF sister-ERG say-PST.UNW spring.wool-GEN1 IV-fill-PFV.CVB sack me-POSS.LAT give-CND.CVB all.OBL-TOP you-GEN2 henchman-PL-GEN2 horse-PL-SUPER.ESS on spread.out-MSD-AD.ESS mat-PL IV.PL-weave-FUT.DEF me-QUOT
+Translation: The oldest sister said: "If you fill a sack with wool and give it to me, I will weave mats to put on all the horses of your henchmen."
+Sentence: Qˤašizaƛ’or, nesiz babiwz ɣˤutkoƛ’ay baybik bodin, nazon ʕaƛa yałru ɣˤutkozas akizax ʕeze boqacet’a k’udi besun.
+Gloss: dawn-POST.CVB DEM1.ISG.OBL-GEN2 father-GEN2 house-SUPER.ABL begin III-do-PFV.CVB all.OBL-TOP village-IN.ESS be-PST.PRT house-GEN2-FUT2 window-PL-AD.ESS be.enough III-become-TERM-DISTR vine III-exist-PST.UNW
+Translation: Before dawn, he began at his father's house and there was enough vine in all the houses' windows.
+Sentence: Sida quł ruzmanƛ’o xanä nazołno adäza sual erno, hič’č’an qˤaba hič’č’an kokoru, hič’č’an ʕedeʕaraw šebin šebiƛin.
+Gloss: one.OBL day-CONT.ESS Friday-SUPER.ESS khan-ERG everyone.OBL-CONT.ESS-TOP ahead question put-PST.UNW the.most-and black the.most-and soft the.most-and quick thing what-QUOT
+Translation: One Friday the king asked a question before everyone: "What is the blackest, softest and quickest thing?"

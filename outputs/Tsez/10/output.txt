@@ -1,0 +1,64 @@
+{
+  "word": "Di",
+  "glosses": [
+    "III-do-FUT.DEF",
+    "agree",
+    "II-bring-PST.PRT"
+  ]
+}
+{
+  "word": "debeq",
+  "glosses": [
+    "you-POSS.ESS",
+    "you-POSS.ESS-QUOT",
+    "you-POSS.ESS-QUOT"
+  ]
+}
+{
+  "word": "ʕaq’lu",
+	"glosses": [
+    		"advice",
+    		"III-do-PST.UNW",
+    		"III-do-PST.UNW advice"
+  	]
+}
+{
+  "word": "mołiranix",
+  "glosses": [
+    "ask-MSD-AD.ESS",
+    "ask-MSD-AD-E",
+    "ask-MSD"
+  ]
+}
+{
+  "word": "nexäsi",
+  "glosses": [
+    "come-RES.PRT",
+    "ask-INF",
+    "you-GEN1"
+  ]
+}
+{
+  "word": "yołƛin",
+  "glosses": [
+    "be-QUOT",
+    "say-PFV.CVB",
+    "II-come-PST.PRT"
+  ]
+}
+{
+  "word": "eƛin",
+  "glosses": [
+    "come-INF",
+    "come-1SG",
+    "come-PFV.CVB"
+  ]
+}
+{
+  "word": "užä",
+  "glosses": [
+    "II-come-PST.PRT.OBL",
+    "II-arrive-PST.PRT.OBL",
+    "II-approach-PST.PRT.OBL"
+  ]
+}

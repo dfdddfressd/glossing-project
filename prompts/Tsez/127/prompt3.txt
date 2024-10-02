@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eč’erno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eč’erno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eč’erno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Halmaɣza eč’erno yeda, debez eniwr nełas hut’-mˤalin, kočorin rätinč’iƛin.
+Gloss: friend-PL-ERG stop-PFV.CVB DEM2.ISG you-GEN2 mother-LAT DEM1.IISG.OBL-GEN1 front.part.of.the.face-and forelock-and III.PL-like-NEG.FUT-QUOT
+Translation: The friends stopped him[, saying]: "Your mother won't like her face and hair!"
+Sentence: Užä ʕon rok’no bikorin bexurno boɣno kurno ik’anƛin aqru yeda, xexoyza eč’erno žedas eniw yayace t’o ičiƛin.
+Gloss: boy-ERG ax-TOP IV-hit-PFV.CVB snake-TOP III-kill-PFV.CVB III-take.away-PFV.CVB throw-PFV.CVB go-FUT.CVB-QUOT become-PST.PRT DEM2.ISG young.animal-PL-ERG stop-PFV.CVB DEM1.IIPL.OBL-GEN1 mother II-come-TERM there wait-QUOT
+Translation: The boy struck his ax, killed the snake, took it and threw it away and thought of going, but the chicks stopped him until their mother would come.
+
+Approximate Matches:
+Sentence: Ħonƛ’ay ža bˤeƛ’q’ˤun bayrno, bexʷayn nełas reƛ xanqo rac’ernosi, ža saɣ oqno.
+Gloss: mountain-SUPER.ABL DEM1.SG sheep-TOP III-bring-PFV.CVB III-slaughter-PFV.CVB DEM1.IISG.OBL-GEN1 meat khan-POSS.ESS IV-eat-CAUS-ANT.CVB DEM1.SG cure become-PST.UNW
+Translation: That sheep was brought from the mountain, slaughtered and when he let the king eat its meat, he got cured.
+Sentence: Neła ziys reƛno rac’no łiyrno, ħaħno ƛäxuru ƛuzazaq nesis raɣin ric’erno, ʕoƛnon esnabin boqno bik’in, yedan žeda žedudäy et’urno.
+Gloss: DEM1.IISG.OBL cow-GEN1 meat-TOP IV-eat-PFV.CVB finish-PFV.CVB gnaw-PFV.CVB remain-PST.PRT bone-PL-POSS.ESS DEM1.ISG.OBL-GEN1 veranda-TOP IV-fill-PFV.CVB handle-INT brother-PL-TOP I.PL-become-PFV.CVB I.PL-go-PFV.CVB DEM2.ISG-TOP DEM1.IPL.OBL-ERG DEM1.IPL.OBL-APUD.ABL pull.out-PST.UNW
+Translation: After they had eaten up that cow's meat, the brothers left his veranda filled with the gnawed bones and left him behind.
+Sentence: Yedu kaɣat yaynosi, Ražbadinä łˤonon užin goƛ’in žeduł adäz t’et’erno.
+Gloss: DEM2.IISG letter II-come-ANT.CVB Razhbadin-ERG three-TOP son-TOP call-PFV.CVB DEM1.IPL.OBL-CONT.ESS before read-PST.UNW
+Translation: When the letter arrived, Razhbadin called his three sons and read it out to them.

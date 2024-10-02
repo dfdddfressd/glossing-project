@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: hemeł.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": hemeł
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word hemeł:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zeyä žedaqor eƛin, hemeł beženi ʕaƛa łi anuƛax.
+Gloss: bear-ERG DEM1.IIPL.OBL-POSS.LAT say-PST.UNW DEM4.IISG.OBL III-big-DEF village-IN.ESS water be.NEG-QUOT
+Translation: The bear said to them: "It's said that there's no water in this big village.
+Sentence: Elo ɣeduƛ q’ˤida ičäsi yałzay, yisir taqˤaza oc’ino ħumukulin bown hemeł buħima nexxo oc’ino žek’u ukayn.
+Gloss: there shade-SUB.ESS under sit-RES.PRT be-SIM.CVB DEM2.ISG.OBL-LAT over.there-IN.VERS.DIST ten camel-TOP III-bring-PFV.CVB DEM4.IISG.OBL heat-IN.ESS come-IPFV.CVB ten man see-PST.UNW
+Translation: While he was sitting in the shade, he saw ten men with ten camels coming in the heat.
+Sentence: Q’ˤunan ozzar rukaynosi, aɣˤuxay bitor hunix oqno yeda zeyä äƛiruni hemeł ʕaƛaɣor.
+Gloss: two.OBL-TOP eye-PL-LAT IV-see-ANT.CVB mill-AD.ABL thither way-AD.ESS become-PFV.CVB DEM2.ISG bear-ERG say-PST.PRT-DEF DEM4.IISG.OBL village-IN.VERS
+Translation: When both of his eyes saw again, he got on his way away from the mill to the village that the bear had talked about.
+
+Approximate Matches:
+Sentence: Elaygon izin ik’in yeda hemełatow iħuz lilyox qoqbi yałza mečoƛ’or ayn.
+Gloss: there-IN.ABL-CNTR get.up-PFV.CVB go-PFV.CVB DEM2.ISG DEM4.IISG.OBL-EMPH river-GEN2 river.bank-AD.ESS cliff-PL be-LCV place-SUPER.LAT come-PST.UNW
+Translation: He got up from there, went along that river bank and came to a place where a cliff was.
+Sentence: Yeženä esin nełaq hemeła ziys ƛuzabi eqärza hisonär yezanix yik’iƛin.
+Gloss: II-old-DEF-Q tell-PST.UNW DEM1.IISG.OBL-POSS.ESS DEM4.IISG.OBL cow-GEN1 bone-PL put-LCV trough-IN.LAT II-look-MSD-AD.ESS II-go-QUOT
+Translation: The old one told her: "Go look at the trough were you put that cow's bones!"
+Sentence: Hemedur yizi yałzay sida bečedaw žek’a bertenyołxor goƛ’ixƛin yiziƛ’or xabar bayrno, hemełatowgon zamanał xediw goƛ’in ƛˤoreł ižin.
+Gloss: so DEM2.IPL be-SIM.CVB one.OBL wealthy man-ERG marriage-CONT.VERS invite-PRS-QUOT DEM2.IPL.OBL-SUPER.LAT story III-bring-PFV.CVB DEM4.IISG.OBL-EMPH-CNTR time-CONT.ESS husband call-PFV.CVB war-CONT.ESS take.out-PST.UNW
+Translation: While they were living like that, the story came that a wealthy man invited to his marriage, and at this time, her husband was called to war.

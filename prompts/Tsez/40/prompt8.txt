@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łinaƛ’no.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łinaƛ’no
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łinaƛ’no:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zira äƛiru łinaƛ’no nasin razi roqno.
+Gloss: fox-ERG say-PST.PRT what.OBL-SUPER.ESS-TOP all agree III.PL-become-PST.UNW
+Translation: All agreed on what the fox said.
+Sentence: Qalameł adäza butirno gulun bičirno, qˤaƛin Ismaʕilä, ʕArabuzan, hič’č’a deber rukada rätiru łinaƛ’no yezanix maħor yoqƛin.
+Gloss: fortress-CONT.ESS before III-gather-PFV.CVB horse-TOP III-wait-CAUS-PFV.CVB shout-PST.UNW Ismail-ERG Arabuzan the.most you-LAT IV-see-INF IV-want-PST.PRT what.OBL-SUPER.ESS-TOP II-look-MSD-AD.ESS outside II-become-QUOT
+Translation: Ismail came before the fortress and let his horse wait there and shouted: "Arabuzan, come outside to look at what you want to see most!"
+Sentence: Täƛru łinaƛ’no razin oqinč’ey, t’omceni žek’a žigon esirno bišʷa, yiłaq dey ax roqinč’uƛin.
+Gloss: give-PST.PRT what.OBL-SUPER.ESS-TOP accept-TOP become-NEG.PST.CVB span-EQU1-DEF man-ERG again.now ask-PST.UNW food DEM2.IISG.OBL-POSS.ESS me-GEN1 belly IV-become-NEG.PST.WIT-QUOT
+Translation: Not having accepted what he was given, the span-sized man asked again for food: "I won't get my fill from that."
+
+Approximate Matches:
+Sentence: Łinaƛ’notow raħmu bisxosi xexbi zown ža.
+Gloss: what.OBL-SUPER.ESS-TOP-EMPH mercy III-take-PRS.PRT child be.NPRS-PST.UNW DEM1.SG
+Translation: He was a boy who had mercy with everything.
+Sentence: Łinaƛ’nokin qoqoƛinč’uƛin, yisä ot’ bisno.
+Gloss: what.OBL-SUPER.ESS-TOP-even laugh-NEG.PST.WIT-QUOT DEM2.ISG.OBL-ERG rejection III-take-PST.UNW
+Translation: "I laughed about nothing.", he rejected.

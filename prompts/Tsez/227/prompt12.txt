@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yałrułiƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yałrułiƛin: 
+
+Exact Matches
+Sentence: Hudu där riys nełas keč’oƛ’asi ozuri rexasi yałrułiƛin”.
+Gloss: so me-LAT IV-know-PST.WIT DEM1.IISG.OBL-GEN1 left eye IV-die-RES.PRT be-MSD-QUOT
+Translation: So I knew that it has a left eye that is blind."
+
+Approximate Matches:
+Sentence: Däz č’ikayägon mi yukarinč’us yołi, łarnokin debi roƛxosi yałrułin riya zownč’u, min yexa zowsƛin”, - eƛin eɣeni esiya.
+Gloss: me-GEN2 mirror-CNTR you II-show-NEG.PST.WIT-PST.WIT if who.OBL-LAT-TOP-even you-GEN1 IV-be.sick-PRS.PRT be-PST.PRT-NMLZ-and IV-know-INF be.NPRS-NEG.PST.WIT you-TOP II-die-INF be.NPRS-PST.WIT-QUOT - say-PST.UNW young-DEF brother-ERG
+Translation: "If my mirror hadn't shown you, nobody would have known that you were sick, and you would have died", said the younger brother.
+Sentence: Nedur resunäyƛin, - eƛin eženi esiya, - eli łˤonon xander bik’a bay - ele howlo räy łu mesed bäsrułiƛin”.
+Gloss: so IV-turn.up-CNDCVB-QUOT - say-PSTUNW old-DEF brother-ERG - we three-and khan-APUD.LAT I.PL-go-INF I.PL-must - there there IV-know.FUTIND who.ERG gold III-take-MSD-QUOT
+Translation: "If it turns out this way," said the eldest brother, "we three must go to the king -- there it will be known who has taken the gold."
+Sentence: (Nesir riyx zownanu ža nesis kid yałrułi).
+Gloss: DEM1.ISG.OBL-LAT IV-know-IPFV.CVB be.NPRS-PFV.CVB-NEG DEM1.SG DEM1.ISG.OBL-GEN1 daughter be-MSD
+Translation: (He didn't know it was his daughter).

@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łeɣin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łeɣin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łeɣin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elo yizi sidä sidƛ’o łeɣin, q’ˤanon akiłace biħanayn.
+Gloss: there DEM2.IPL one.OBL-ERG one.OBL-SUPER.ESS grasp-PFV.CVB two-TOP get.tired-TERM I.PL-fight-PST.UNW
+Translation: There they grasped each other and fought until the two of them got tired.
+Sentence: Howži łeɣin biħadanix, sidä sis bizirxo bok’xo yiła aždaħä ħaltown bayrinč’ey baq’ˤu aq’ˤuba bukayn yisi ʕAliqiličer.
+Gloss: now grasp-PFV.CVB I.PL-fight-MSD-AD.ESS one.OBL-ERG one I.PL-lift-IPFV.CVB I.PL-beat-IPFV.CVB DEM2.IISG.OBL dragon-ERG strength-EMPH-TOP III-bring-NEG.PST.CVB III-much torture III-see-PST.UNW DEM2.ISG.OBL Aliqilich-LAT
+Translation: Now they grasped each other to fight, lifting and beating each other up and that dragon tired Aliqilich out very much.
+Sentence: Mekoq bexux yałru k’et’u sosi bik’in miƛ’eƛ’ c’oxno, xizyogon isƛ’o łeɣin.
+Gloss: hunger-POSS.ESS III-die-IPFV.CVB be-PST.PRT cat at.first III-go-PFV.CVB ram-SUPER.ESS pounce-PFV.CVB then bull-SUPER.ESS grasp-PST.UNW
+Translation: The starving cat first went and pounced on to the ram, then clinged to the bull.
+
+Approximate Matches:
+Sentence: Užä nesä nesis oˤɣqay reč’no reƛ łeɣirsiƛax ceyez k’onč’aq.
+Gloss: boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 thigh-POSS.ABL IV-cut-PFV.CVB meat glue-PST.WIT-QUOT eagle-GEN2 leg-POSS.ESS
+Translation: The boy cut flesh from his own thigh and glued it to the eagle's leg.
+Sentence: Žan yałza łeɣirno, ceyä ƛ’irigon mecno biħin, ʕAliqiličes k’onč’un saɣ yoqno.
+Gloss: DEM1.SG-TOP be-LCV.CVB glue-PFV.CVB eagle-ERG above-CNTR tongue-TOP III-smear-PFV.CVB Aliqilich-GEN1 leg-TOP cure II-become-PST.UNW
+Translation: Holding him where he was, the eagle licked above him with his tongue, and Aliqilich's leg got cured.

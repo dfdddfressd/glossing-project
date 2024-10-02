@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: qˤaƛoƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": qˤaƛoƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word qˤaƛoƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bertenyoł, keč’ qˤaƛoƛin, boc’ä ʕomoyq harizi rodin.
+Gloss: marriage-CONT.ESS song sing-IMPR-QUOT wolf.PL-ERG donkey-POSS.ESS request III.PL-do-PST.UNW
+Translation: On the marriage, the wolves asked the donkey: "Sing a song!"
+
+Approximate Matches:
+Sentence: Eženi žek’a mołin, eloš gugu caƛoƛin.
+Gloss: old-DEF man-ERG teach-PST.UNW over.there back throw-IMPR-QUOT
+Translation: The old man explained: "Throw your back over there!"
+Sentence: Dicegon bazarganä ħaƛoƛin c’ok’inayn yaħmoƛ’ ayra oqłin, uži et’un k’oƛin ičin ħaƛuxanuƛin.
+Gloss: how.much-CNTR merchant-ERG drink-IMPR-QUOT scold-PFV.CVB conscience-SUPER.ESS bring-INF become-CNC.CVB boy jump-PFV.CVB run-PFV.CVB be-PFV.CVB drink-IPFV.CVB-NEG-QUOT
+Translation: How much the merchant scolded him to bring him to his conscience: "Drink!", the boy ran away [saying]: "I don't drink."
+Sentence: Yizi elor bayzaƛ’, imyoq yicäsi nesä nesis barun yukarno, xanä eƛin, naʕanan bodin eloš neła ɣˤanazas nocu caƛoƛin.
+Gloss: DEM2.IPL there-LAT I.PL-come-CSL.CVB pole-POSS.ESS II-tie-RES.PRT DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 wife-TOP II-show-PFV.CVB khan-ERG say-PST.UNW curse-TOP III-do-PFV.CVB over.there DEM1.IISG.OBL woman-GEN1 saliva throw-IMPR-QUOT
+Translation: Because they came there, the king showed them his wife, tied to the pole, and said: "Curse and spit on that women over there!"

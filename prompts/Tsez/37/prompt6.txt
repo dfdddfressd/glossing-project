@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: sideł.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": sideł
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word sideł:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełƛ’osi, łˤono ɣudin rik’in uyra äƛiru ɣudƛ’o sidä sideł daʕban boqno yiłader q’ˤano žek’u ayn.
+Gloss: of.that.time three day-TOP IV-go-PFV.CVB four ORD day-SUPER.ESS one.OBL-IN.ESS one.OBL-CONT.ESS dispute-TOP III-become-PFV.CVB DEM2.IISG.OBL-APUD.LAT two man come-PST.UNW
+Translation: After that, three days passed and on the fourth day two men came to her who had a dispute among them.
+
+Approximate Matches:
+Sentence: Neła łera ukrułäy sis Žamaler teƛsi, sideni Arsener teƛsi, sidenigon Pat’imater teƛsi.
+Gloss: DEM1.IISG.OBL five.OBL silver-CONT.ABL one Jamal-LAT give-PST.WIT other Arsen-LAT give-PST.WIT other-CNTR Fatima-LAT give-PST.WIT
+Translation: Of those five silver (coins) I gave one to Jamal, another one to Arsen and another one to Fatima.
+Sentence: Mi nełas rask’i urɣel badinƛin, sida q’urec’niƛ’ ƛ’iri ixin erno, hisos urgubi äruni sideni q’urec’niƛ’ ƛ’iri yeda zowerno.
+Gloss: you DEM1.IISG.OBL-GEN1 no.at.all sorrow III-do-PROHIB-QUOT one.OBL mule-SUPER.ESS on bag put-PFV.CVB spring.wool-GEN1 sack-PL put-PST.PRT-DEF other mule-SUPER.ESS on DEM2.ISG seat-PST.UNW
+Translation: "Don't worry!", they put his bag onto the mule and seated him on the other mule that carried the sacks of wool.
+Sentence: Sidas zown sis uži, sidenis ʕoƛno uži zown.
+Gloss: one.OBL-GEN1 be.NPRS-PFV.CVB one son the.other.one-GEN1 seven son be.NPRS-PST.UNW
+Translation: One had one son, the other one had seven sons.

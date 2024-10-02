@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: šebin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": šebin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word šebin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Siryos bet’erhanä q’ʷaridno oqno sadaq šebin ik’in ec’noni xanzo baruq esin.
+Gloss: mare-GEN1 master-ERG sadness-TOP become-PFV.CVB all thing go-PFV.CVB new-DEF khan-ATTR.OBL wife-POSS.ESS tell-PST.UNW
+Translation: The mare's master became sad and told the king's new wife how all the things happened.
+Sentence: Sis gut’ riłe šebin rukayxƛin, eƛin bełiqanä.
+Gloss: one smoke IV-as thing IV-see-PRS-QUOT say-PST.UNW hunter-ERG
+Translation: "I see something like smoke.", said the hunter.
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+
+Approximate Matches:
+Sentence: K’oxäƛirun ʕaq’lus xalq’i butirnosi, xanä cuƛer ʕabasin kurno hemedurtow eƛin, k’ešonad mi, pakmos ʕabasi, łinarnotow hunarno anu debi, siskin šebinon deber roda koƛ’ixanuƛin.
+Gloss: twice-ORD-TOP advice-GEN1 people I.PL-gather-ANT.CVB khan-ERG upward coin-TOP throw-PFV.CVB so-EMPH say-PST.UNW play you copper-GEN1 coin what.OBL-LAT-TOP-EMPH talent-TOP be.NEG you-GEN1 any something you-LAT IV-do-INF understand.to-PRS-NEG-QUOT
+Translation: The second time the king gathered his advisors, he also threw a coin up and said likewise: "Play, copper coin, you have no talent to whatsoever, you don't know what to do!"
+Sentence: Sida zamanałäy eɣeni esiya nasin žeda roƛäk’ru šebinabi yizas xot’ozaxor kurnosi, łˤonontow yisił adäzarno rayn esirno, šebi deber elaqay ħažat roqnoƛin.
+Gloss: one.OBL time-CONT.ABL young-DEF brother-ERG all DEM1.IIPL.OBL-ERG IV-appear-PST.PRT thing-PL DEM2.IIPL.OBL-GEN1 foot-PL-AD.LAT throw-ANT.CVB three-TOP-EMPH DEM2.ISG.OBL-CONT.ESS before-IN.LAT-TOP IV-come-PFV.CVB ask-PST.UNW what you-LAT we(II-POSS.ABL necessity IV-become-PST.UNW-QUOT
+Translation: After some time, the young brother threw the things that they listed to their feet, and they went before him and asked: "What do you need from us?"
+Sentence: Kidbaza łˤono pu yołäsi šebinno rayrno eƛin, deber rätiru šebinno radi yiła, ätizarno ayärƛin.
+Gloss: girl-PL-ERG three side be-RES.PRT thing-TOP IV-bring-PFV.CVB say-PST.UNW you-LAT IV-want-PST.PRT thing-TOP IV-do DEM2.IISG.OBL-ERG want-LCV-LAT-TOP bring-QUOT
+Translation: The girls brought the things to their three sides and said: "This will do what you want and it will bring your where you want."

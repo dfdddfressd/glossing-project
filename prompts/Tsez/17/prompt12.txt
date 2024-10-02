@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: huni.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": huni
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word huni:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕAdada huni raq debiƛin.
+Gloss: to.no.purpose way IV-become you-GEN1-QUOT
+Translation: Your way will be of no purpose.
+Sentence: Zamanałäy yizi sidaɣ q’ˤunader huni č’ˤaƛäłza mečoƛ’or baynosi, sidaɣaza hunä kid yegirno, sidaɣaza bikori bik’in.
+Gloss: time-CONT.ABL DEM2.IPL.OBL in.one.place two.OBL-APUD.LAT way be.cut-LCV.CVB place-SUPER.LAT III-come-ANT.CVB in.one.place-IN.VERS.DIST way-ERG girl II-send-PFV.CVB in.one.place-IN.VERS.DIST snake III-go-PST.UNW
+Translation: When, after a while, they came to a point where the road forked, the snake sent the girl the one way and itself went the other one.
+Sentence: Yiłaƛ’no zown ik’inäy, beciz bolžalyos huni mi sida minutałer xäciƛin”.
+Gloss: DEM2.IISG.OBL-SUPER.ESS-TOP be.NPRS-PFV.CVB go-CND.CVB month-GEN2 period-GEN1 way you one.OBL minute-CONT.LAT leave-QUOT
+Translation: "When you're riding on it, you will need one minute for a month's journey."
+
+Approximate Matches:

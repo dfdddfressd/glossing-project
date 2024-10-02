@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bukaynč’u.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bukaynč’u
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bukaynč’u:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ħumukuliƛa bukaynč’u elur, amma nełas sipat debeq esan elaƛin”.
+Gloss: camel-INDEF III-see-NEG.PST.WIT we(I).OBL-LAT but DEM1.IISG.OBL-GEN1 appearance you-POSS.ESS tell-FUT.DEF we(I).OBL-ERG-QUOT
+Translation: "We didn't see any camel, but we will tell you how it looks."
+
+Approximate Matches:
+Sentence: Dey ħumukuli bukaynč’uƛinno eƛix meža, nełas c’ik’iw sipatno esix.
+Gloss: me-GEN1 camel III-see-NEG.PST.WIT-QUOT-TOP say-IPFV.CVB you(I).PL.OBL-ERG DEM1.IISG.OBL-GEN1 entire appearance-TOP tell-PRS
+Translation: "You say that you haven't seen my camel, and you tell me its entire appearance.

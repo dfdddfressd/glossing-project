@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: geni.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": geni
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word geni:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyo neła esirno, ya heneš, yagi geni bet’uriyä mi t’ayƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG ask-PST.UNW either apple or pear III-pull.out-PST.WIT.Q you from.here-QUOT
+Translation: Afterwards she asked: "Have you plucked an apple or a pear from here?"
+
+Approximate Matches:

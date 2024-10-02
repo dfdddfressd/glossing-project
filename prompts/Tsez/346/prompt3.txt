@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Allahä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Allahä: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Užä eƛin, Allahä didurƛa caxäsi resan, däz babiyan ƛirba ayruxort’a bˤeƛ’es šebin rexayx zows, sida qułkin ža bišan kamin (giħiłno) ƛexunč’u ža, din hemedurtow ƛäxunč’iƛin.
+Gloss: boy-ERG say-PST.UNW God-ERG how-INDEF write-RES.PRT IV-find-FUT.DEF me-GEN2 father-ERG-and guest come-PST.PRT-AD.LAT-DISTR sheep-GEN1 thing IV-slaughter-IPFV.CVB be.NPRS-PST.WIT one.OBL day-CONT.ESS-even DEM1.SG food-TOP get.lost-PFV.CVB be.lacking-PFV.CVB remain-NEG.PST.WIT DEM1.SG me-and so-EMPH remain-NEG.FUT-QUOT
+Translation: The boy said: "God might have written it somehow; my father used to slaughter a sheep for every guest who came, and he wasn't without food for even a day; so I will be as well."
+Sentence: Q’ʷaridno boqno ɣʷˤadä eƛin, wallahi, šomon ħon xecin bik’is di, hudun šebintow riqinč’ey nexƛ’oräy, sidaɣ simildis muhu besun howdagon boqłin bižanƛin bowƛ’oräy, adäzar osiw ħonno keze yoqno soder biziƛ’oräy biynč’ey bigin bok’ełsi.
+Gloss: sadness-TOP III-become-PFV.CVB crow-ERG say-PST.UNW by.God how.many-TOP mountain leave-PFV.CVB III-go-PST.WIT me nevertheless thing-EMPH IV-get-NEG.PST.CVB come-SIM.CVB in.one.place maize-GEN1 granule III-find-PFV.CVB DEM3.SG-CNTR III-become-CNC.CVB III-take.out-FUT.DEF-QUOT III-bring-SIM.CVB ahead-IN.LAT high mountain-TOP meet II-become-PFV.CVB upward III-get.up-SIM.CVB III-know-NEG.PST.CVB III-swallow-PFV.CVB III-lose-PST.WIT
+Translation: The crow became sad and said: "By God, I passed so many mountains; nevertheless while I didn't get anything, I found a grain of maize somewhere and [thinking:] "I will take it anyway!", so while I carried it here anyway, I encountered a high mountain, and while flying higher, I accidentally swallowed and [thus] lost it.
+Sentence: Babiya eƛin, wallah, howda uži ʕarab ʕilmu t’et’ranix ižixƛin.
+Gloss: dad-ERG say-PST.UNW wallah DEM3.SG son Arabic science learn-MSD-AD.ESS lead-PRS-QUOT
+Translation: The father said: "By God, I am leading my son here to learn the Arabic science."

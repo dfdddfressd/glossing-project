@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: sidaɣ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": sidaɣ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word sidaɣ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža uži qˤilon ok’ełno, sidaɣ ɣˤuɣˤura iħuz lilyoxor ayn.
+Gloss: DEM1.SG boy erroneously-TOP go.away-PFV.CVB in.one.place muddy river-GEN2 river.bank-AD.LAT come-PST.UNW
+Translation: The boy went a wrong way and came to a muddy river bank somewhere.
+Sentence: Tabanaw hunäsi hunä yik’in yedu sidaɣ ɣˤutkoxor yaynosi, tełxor yoqno.
+Gloss: long way-IN.ESS-ATTR way-IN.ESS II-go-PFV.CVB DEM2.IISG in.one.place house-AD.LAT II-come-ANT.CVB inside-AD.LAT II-become-PST.UNW
+Translation: When she came to a house somewhere on the long way she was going on, she went inside.
+Sentence: Xizyogon urɣizi oqno xan, c’ohores q’ˤim anunč’uruni cudi sidaɣ qunyoxorno bayran, nesiz ʕagarłä ža šudał šušanix elay bižinč’ey xäcinč’i, hemełƛ’o där šebi ža c’ohor yałrun äyƛin.
+Gloss: then thinking become-PST.UNW khan thief-GEN1 head be.NEG-NEG.PST.WIT-PST.PRT-DEF corpse in.one.place farmstead-AD.LAT-TOP III-bring-FUT.CVB DEM1.ISG.OBL-GEN2 relatives-ERG DEM1.SG graveyard-CONT.ESS bury-MSD-AD.ESS there-IN.ABL III-carry-NEG.PST.CVB leave-NEG.FUT DEM4.IISG.OBL-SUPER.ESS me-LAT who DEM1.SG thief be-PST.PRT-TOP know-QUOT
+Translation: Then the king pondered: "I will bring the thief's headless corpse to the farmstead, his relatives won't leave without taking him from there to bury him on a graveyard."
+
+Approximate Matches:
+Sentence: Zamanałäy yizi sidaɣ q’ˤunader huni č’ˤaƛäłza mečoƛ’or baynosi, sidaɣaza hunä kid yegirno, sidaɣaza bikori bik’in.
+Gloss: time-CONT.ABL DEM2.IPL.OBL in.one.place two.OBL-APUD.LAT way be.cut-LCV.CVB place-SUPER.LAT III-come-ANT.CVB in.one.place-IN.VERS.DIST way-ERG girl II-send-PFV.CVB in.one.place-IN.VERS.DIST snake III-go-PST.UNW
+Translation: When, after a while, they came to a point where the road forked, the snake sent the girl the one way and itself went the other one.
+Sentence: Elo k’edanayx ɣˤʷay yałzay, sidaɣaza got’eł gondun yoɣno, ziru bixiq c’i atagon reʕizi boqno.
+Gloss: there search-IPFV.CVB dog be-SIM.CVB in.one.place-IN.VERS.DIST haystack-CONT.ESS big.hole-TOP II-take.away-PFV.CVB fox hay-POSS.ESS fire light-INF-CNTR have.no.time III-become-PST.UNW
+Translation: While the dog was being searching there, the fox made a hole in some place in the haystack and hurried to set fire to the hay.
+Sentence: Neširu xanä elo nasin sidaɣor butirnosi, xanä eƛin, di łi ħaƛuxosi t’akan sasaqor howt’or yayäru žek’ux kid yegira yołƛin.
+Gloss: evening khan-ERG there all one.OBL-IN.VERS I.PL-gather-ANT.CVB khan-ERG say-PFV.CVB me water drink-PRS.PRT glass tomorrow-POSS.LAT here-LAT II-bring-PST.PRT man-AD.ESS daughter II-send-INF be-QUOT
+Translation: In the evening the king gather everyone together and said: "I will marry my daughter off to the man who can bring my water-drinking-glass here tomorrow!"

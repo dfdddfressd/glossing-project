@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reƛ’ibin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reƛ’ibin: 
+
+Exact Matches
+Sentence: Ražbadinä reƛ’ibin risno, Tawadisno nesiz halmaɣzasno hunin regirno, xizor iduɣor utin.
+Gloss: Razhbadin-ERG hand-PL-TOP IV.PL-take-PFV.CVB Tavadi-GEN1-and DEM1.ISG.OBL-GEN2 friend-PL-GEN1-and way-TOP IV-send-PFV.CVB back home-IN.ALL return-PST.UNW
+Translation: Razhbadin took the hands of Tavadi and his friends, sent them on their way and returned home.
+Sentence: Ozzaq reƛ’ibin riħin, č’uran rukarerno, Bilq’isdä žedu xizor begirno.
+Gloss: eye-PL-POSS.ESS hand-PL-TOP IV.PL-smear-PFV.CVB light-TOP IV-show-CAUS-PFV.CVB Bilqisdi-ERG DEM1.IPL back I.PL-send-PST.UNW
+Translation: Bilqisdi put her hands over their eyes and caused them to see the light, then she sent them back.
+Sentence: Neł ʕaƛos xalq’i besun yisir asaɣor reƛ’ibin kurno, qema regirƛin Allahqo harizi boqxo.
+Gloss: DEM1.IISG.OBL village-GEN1 people III-find-PST.UNW DEM2.ISG.OBL-LAT sky-IN.VERS hand-PL-TOP spread.out-PFV.CVB rain IV-send-QUOT God-POSS.ESS request III-become-IPFV.CVB
+Translation: He found the people of the village spreading out their hands into the sky pleading God: "Send us rain!"
+
+Approximate Matches:
+Sentence: Sosi reƛ’ibi risa min, kidno bitazoni ɣˤutkaɣor horoƛin”.
+Gloss: at.first hand-PL IV.PL-take-INF you-and daughter-and next-DEF room-IN.VERS go.IMPR-QUOT
+Translation: "At first you and your daughter will go to the next room to shake hands."

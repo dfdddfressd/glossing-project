@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eƛinč’ey in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eƛinč’ey: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Aƛ’irno nesiqay žan boɣno, roži teƛinč’ey xizor oxirno.
+Gloss: cheat-PFV.CVB DEM1.ISG.OBL-POSS.ABL DEM1.SG-and III-take.away-PFV.CVB word give-NEG.PST.CVB back chase-PST.UNW
+Translation: She cheated and took it away from him, not keeping her word, and chased him back.
+Sentence: Užä nesä nesidäɣorno rižin ik’in, siskin žedar rac’anix šebin teƛinč’ey quqa łera ɣudi rečuƛ rišin ričirno.
+Gloss: boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.VERS-TOP III.PL-lead-PFV.CVB go-PFV.CVB anything DEM1.IIPL.OBL-LAT IV-eat-MSD-AD.ESS thing give-NEG.PST.CVB hungry five.OBL day cattleshed-SUB.ESS III.PL-drive.in-PFV.CVB III.PL-stop-PST.UNW
+Translation: The boy led them to himself and gave them nothing to eat for 5 days, making them hungry, and he drove them into the shed.

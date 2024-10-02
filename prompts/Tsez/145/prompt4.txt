@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: magalabin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": magalabin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word magalabin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ƛ’iri xabarkin boynč’ey yeda razin oqno, hunixor eniya erno zowali žedu q’ˤunqorno sist’a magalabin teƛno.
+Gloss: above story-even III-do-NEG.PST.CVB DEM2.ISG agree-TOP become-PFV.CVB way-AD.LAT mother-ERG put-PFV.CVB be.NPRS-ATTR DEM1.IPL two.OBL-POSS.LAT-TOP one.at.a.time bread-PL-TOP give-PST.UNW
+Translation: Without further discussion he agreed and gave the breads that his mother made for the way to the two of them, one for each.
+
+Approximate Matches:
+Sentence: Hudayziko yoƛozoni esiwqor gegmus ric’äsi saħ teƛno, däz ozyor rac’anix ʕeziyaw magalabi rodoƛin.
+Gloss: the.next.day II-middle-ATTR.OBL-DEF sister-POSS.LAT flour-GEN1 IV-fill-RES.PRT sah give-PST.UNW me-GEN2 army-LAT IV-eat-MSD-AD.ESS many bread-PL III.PL-do-IMPR-QUOT
+Translation: The next day, he gave a sah filled with flour to the middle sister, [saying]: "Make many breads for my army to eat!"
+Sentence: Magalabin nesä hemedurtow nesä nesiz nukarzaƛ’ rułirno.
+Gloss: bread-PL-TOP DEM1.ISG.OBL-ERG so-EMPH DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 henchman-PL-SUPER.ESS III.PL-share-PST.UNW
+Translation: The bread he also shared among his own henchmen.
+Sentence: Yoƛozoni esiya eƛin, däqor at’es sis saħ neƛnäy, debez ozyortow ʕeze roqace magalabi rodan diƛin.
+Gloss: II-middle-ATTR.OBL-DEF sister-ERG say-PST.UNW me-POSS.LAT wheat-GEN1 one sah give-CND.CVB you-GEN2 army-LAT-EMPH be.enough III.PL-become-TERM bread-PL III.PL-do-FUT.DEF me-QUOT
+Translation: The middle sister said: "If you give me one sah of wheat, I will make breads enough for your army."

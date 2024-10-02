@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word puħo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word puħo: 
+
+Exact Matches
+Sentence: Moƛaxay žan č’arik’no, nesä eƛin, di malaik yoł, asatow maharno erno, mi yowanix nexäsi t’aɣor, neširu di dowde puħo keca ayƛin.
+Gloss: sleep-AD.ABL DEM1.SG-TOP wake.up-PFV.CVB DEM1.ISG.OBL-ERG say-PST.UNW me angel be sky-IN.ESS-EMPH wedding-TOP set.up-PFV.CVB you II-marry-MSD-AD.ESS come-RES.PRT here-IN.VERS at.night me you-APUD.ESS next.to sleep-INF must-QUOT
+Translation: He woke her up from her sleep and said: "I am an angel, I will arange a wedding in the heavens for I have come here to marry you; I must sleep next to you at night."
+Sentence: Xanes wazir č’ariłno puħo t’akan yukaynosi, nesis cim bizin, łu yedu mesedyos t’akan t’or yayrnoƛin.
+Gloss: khan-GEN1 vizier wake.up-PFV.CVB next.to glass II-see-ANT.CVB DEM1.ISG.OBL-GEN1 malice III-get.up-PFV.CVB who.ERG DEM2.IISG gold-GEN1 glass here-LAT II-bring-PST.UNW-QUOT
+Translation: When the king's vizier woke up and saw the glass at his side, he became angry[ and asked]: "Who brought this golden glass here?"
+Sentence: Zamanałäygon neside puħo, puräzagon t’asno eqerno, ža ɣˤanabin q’ˤida yičin.
+Gloss: time-CONT.ABL-CNTR DEM1.ISG.OBL-APUD.ESS side-AD.ESS side-IN.VERS.DIST-CNTR washbowl-TOP put-PFV.CVB DEM1.SG woman-TOP down II-sit-PST.UNW
+Translation: And after some time the woman sat down next to him and put a washbowl at his side.
+
+Approximate Matches:

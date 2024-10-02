@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕArabuzanä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕArabuzanä: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Łi rowa ik’iƛin babiwqorno eƛin, Ismaʕilä bišadyoƛ’ ƛ’iri ʕArabuzanä teƛno zawruni bašiqˤoy łox šet’u rutirno.
+Gloss: water IV-bring-INF go-QUOT father-POSS.LAT-TOP say-PFV.CVB Ismail-ERG food-SUPER.ESS above Arabuzan-ERG give-PFV.CVB be.NPRS-PST.PRT-DEF ring thrice around IV-turn-PST.UNW
+Translation: "Go and bring some water!", Ismail said to his father and turned the ring that Arabuzan had given to him over the food three times.
+Sentence: Ungotow mi č’agu yołäƛin, esirno ʕArabuzanä yisiq, igor aynosi.
+Gloss: really-EMPH you alive be-Q-QUOT ask-PST.UNW Arabuzan-ERG DEM2.ISG.OBL-POSS.ESS near-LAT come-ANT.CVB
+Translation: "Are you really alive?", asked him Arabuzan, when he came close.
+Sentence: Hemeła zamanał, łaci yiłe yaƛˤo neładerno yik’in, ʕArabuzanä xanes kid yown Ismaʕilzo guluƛ’ caƛin.
+Gloss: DEM4.IISG.OBL time-CONT.ESS wind II-as II-quickly DEM1.IISG.OBL-APUD.LAT-TOP II-go-PFV.CVB Arabuzan-ERG khan-GEN1 daughter II-bring-PFV.CVB Ismail-GEN2 horse-SUPER.ESS throw-PST.UNW
+Translation: In that moment, Arabuzan went to him quickly as the wind and brought the king's daughter and threw it onto Ismail's horse.

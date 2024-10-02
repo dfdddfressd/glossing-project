@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mołin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mołin: 
+
+Exact Matches
+Sentence: Aluk’ani biqirnäy, neła mi ƛ’irizoni raƛ’moƛ’or ayär, qˤabani biqirnäy waħazoni raƛ’moƛ’or ayärƛin, - eƛi- mołin egirno yizä yeda.
+Gloss: white-DEF III-catch-CND.CVB DEM1.IISG.OBL-ERG you above-ATTR.OBL-DEF land-SUPER.LAT bring black-DEF III-catch-CND.CVB below-ATTR.OBL-DEF land-SUPER.LAT bring-QUOT - say teach-PFV.CVB send-PST.UNW DEM2.IPL.OBL-ERG DEM2.ISG
+Translation: When you catch the white one, it will bring you to the land above; if you catch the black one, it will bring you to the land below", they taught him and let him go.
+Sentence: Xizyo magalu boɣa ža oqƛ’oräy, ħaƛin tełxor kuroƛin, mołin nesiq neła qˤaƛumo.
+Gloss: afterwards bread III-take.away-INF DEM1.SG begin-SIM.CVB push-PFV.CVB inside-AD.LAT throw-IMPR-QUOT teach-PFV.CVB DEM1.ISG.OBL-POSS.ESS DEM1.IISG.OBL shout-ERG
+Translation: Afterwards, while he is starting to take out the bread, push him inside!", taught him that voice.
+Sentence: Eženä mołin, ent’o q’ˤim rok’oƛin.
+Gloss: old-DEF-ERG teach-PST.UNW here head IV-hit-QUOT
+Translation: The old one explained: "Hit your head here!"
+
+Approximate Matches:
+Sentence: Žaz bara eƛin, bercingo eƛi- mołinäy posukin ʕenekizi roqxonč’eƛin.
+Gloss: DEM1.SG-GEN2 wife-ERG say-PFV.CVB well say teach-CND.CVB cattle-even listen IV-become-IPFV.CVB-NEG.FUT-QUOT
+Translation: His wife said: "If you teach well, even animals will listen."

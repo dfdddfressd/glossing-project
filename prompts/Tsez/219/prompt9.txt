@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rutiräsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rutiräsi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Žoyä eƛin, howda ɣˤutku k’emot’ya tełer rutira k’ʷeze roqinč’ey ƛexasiƛin.
+Gloss: boy-ERG say-PST.UNW DEM3.SG house wooden.case-IN.ESS into IV-turn-INF can IV-become-NEG.PST.CVB remain-RES.PRT-QUOT
+Translation: The boy said: "I can't turn this house into the wooden case anymore."
+Sentence: Howži yeda ʕoloqbin bižin iħuxorno ik’in, eč’izas šemrebi rutirno žeda.
+Gloss: now DEM2.ISG young.person-PL-TOP I.PL-lead-PFV.CVB river-AD.LAT-TOP go-PFV.CVB pebble-PL-GEN1 pile-PL III.PL-gather-PST.UNW DEM1.IPL.OBL-ERG
+Translation: Now he lead young men to the river and they collected piles of pebbles
+Sentence: Din hemedurtow bˤuƛ’xo zowsƛin, eƛin ceyä, mi däƛ’orno rutirno tupi caƛiƛ’oräy.
+Gloss: me-TOP so-EMPH III-be.afraid-IPFV.CVB be.NPRS-PST.WIT-QUOT say-PST.UNW eagle-ERG you me-SUPER.LAT-TOP IV-turn-PFV.CVB rifle shoot.with-SIM.CVB
+Translation: "And I was likewise afraid", said the eagle, "when you turned a rifle on me and shot."

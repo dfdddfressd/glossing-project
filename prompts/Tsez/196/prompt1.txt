@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Yiłade.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Yiłade
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Yiłade:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemełƛ’o xizyo xanes nukarbi yiłade igorno bayn esirno, yeda šebi deber oqxo, šida mi ʕiyayxƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS after khan-GEN1 henchman-PL DEM2.IISG.OBL-APUD.ESS near-LAT-TOP I.PL-come-PFV.CVB ask-PST.UNW DEM2.ISG what you-LAT happen-IPFV.CVB why you cry-PRS-QUOT
+Translation: After that, the king's henchmen came near her and asked: "What is he to you; why are you crying?"
+
+Approximate Matches:
+Sentence: Nełƛ’osi, łˤono ɣudin rik’in uyra äƛiru ɣudƛ’o sidä sideł daʕban boqno yiłader q’ˤano žek’u ayn.
+Gloss: of.that.time three day-TOP IV-go-PFV.CVB four ORD day-SUPER.ESS one.OBL-IN.ESS one.OBL-CONT.ESS dispute-TOP III-become-PFV.CVB DEM2.IISG.OBL-APUD.LAT two man come-PST.UNW
+Translation: After that, three days passed and on the fourth day two men came to her who had a dispute among them.

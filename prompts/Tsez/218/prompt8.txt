@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bˤeƛ’däyƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bˤeƛ’däyƛin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Howži yeda bˤeƛ’de sadaq ʕaƛoxor ayn.
+Gloss: now DEM2.ISG sheep-APUD.ESS with village-AD.LAT come-PST.UNW
+Translation: Now he came to the village together with the sheep.

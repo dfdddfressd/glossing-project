@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: šebintow.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": šebintow
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word šebintow:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanä hemedurtow pakmos ʕabasin cuƛer kurno eƛinosi, Kusagon mesedyos ʕabasin cuƛer kurno eƛin, k’ešonad mi, mesedyos ʕabasi, dunyalƛ’o debeq roqxanusi šebintow anuƛin.
+Gloss: khan-ERG so-EMPH copper-GEN1 coin-TOP upward throw-PFV.CVB say-ANT.CVB Kusa-CNTR gold-GEN1 coin-TOP upward throw-PFV.CVB say-PST.UNW play you gold-GEN1 coin world-SUPER.ESS you-POSS.ESS IV-become-NEG.PRS.PRT thing-EMPH be.NEG-QUOT
+Translation: When the king threw the copper coin upward and said his phrase, Kusa threw up the golden coin up and said: "Play, golden coin, there is nothing in the world that you couldn't become!"
+Sentence: Kusa nesir žawab teƛno, mesedyoz ʕabasä royxanusi šebintow roqinč’izaƛ’ƛin.
+Gloss: Kusa DEM1.ISG.OBL-LAT answer give-PST.UNW gold-GEN2 coin-ERG IV-do-NEG.PRS.PRT thing-EMPH IV-become-NEG.FUT.CVB-CSL.CVB-QUOT
+Translation: Kusa answered him: "There is nothing that a gold coin couldn't do."
+Sentence: Q’ʷaridno boqno ɣʷˤadä eƛin, wallahi, šomon ħon xecin bik’is di, hudun šebintow riqinč’ey nexƛ’oräy, sidaɣ simildis muhu besun howdagon boqłin bižanƛin bowƛ’oräy, adäzar osiw ħonno keze yoqno soder biziƛ’oräy biynč’ey bigin bok’ełsi.
+Gloss: sadness-TOP III-become-PFV.CVB crow-ERG say-PST.UNW by.God how.many-TOP mountain leave-PFV.CVB III-go-PST.WIT me nevertheless thing-EMPH IV-get-NEG.PST.CVB come-SIM.CVB in.one.place maize-GEN1 granule III-find-PFV.CVB DEM3.SG-CNTR III-become-CNC.CVB III-take.out-FUT.DEF-QUOT III-bring-SIM.CVB ahead-IN.LAT high mountain-TOP meet II-become-PFV.CVB upward III-get.up-SIM.CVB III-know-NEG.PST.CVB III-swallow-PFV.CVB III-lose-PST.WIT
+Translation: The crow became sad and said: "By God, I passed so many mountains; nevertheless while I didn't get anything, I found a grain of maize somewhere and [thinking:] "I will take it anyway!", so while I carried it here anyway, I encountered a high mountain, and while flying higher, I accidentally swallowed and [thus] lost it.
+
+Approximate Matches:
+Sentence: Šebintow roda koƛ’inč’ey kid ƛexunosi, nełder zey bayn.
+Gloss: thing-EMPH IV-do-INF understand.to-NEG.PST.CVB girl remain-ANT.CVB DEM1.IISG.OBL-APUD.LAT bear III-come-PST.UNW
+Translation: When - not knowing what to do - the girl was remaining there, a bear came to her.

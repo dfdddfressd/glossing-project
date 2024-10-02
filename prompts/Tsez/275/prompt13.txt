@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word aqƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word aqƛin: 
+
+Exact Matches
+Sentence: Doxturza nesiqor eƛin, budalazaqor (łarašaw ɣˤanazas axʷay bäžiru xexbi) bexada bäqinč’iru bełis reƛ rac’näy, mi saɣ aqƛin.
+Gloss: doctor-PL-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW budalay-PL-POSS.LAT pregnant woman-GEN1 belly-IN.ABL III-take.out-PST.PRT child III-slaughter-INF III-get-NEG.FUT.CVB-PST.PRT deer-GEN1 meat III.PL-eat-CND.CVB you cure become-QUOT
+Translation: The doctors said to him: "If you eat meat of a deer which did not get slaughtered for the budalays, you will get cured."
+Sentence: Meža mežur rätiru rodo, di sasaq maħor aqƛin, žeduqorno eƛin, saparyox ik’a ħadur oqno.
+Gloss: you(I).PL.OBL-ERG you(I).PL.OBL-LAT IV-want-PST.PRT IV-do-IMPR me tomorrow outside become-QUOT DEM1.IPL.OBL-POSS.LAT-TOP say-PFV.CVB journey-AD.ESS go-INF prepare become-PST.UNW
+Translation: "Do what you want, I will go out tomorrow.", he said to them and prepared to go on the journey.
+
+Approximate Matches:
+Sentence: Nesir siskin šebin retixanu, debez mecqo mec bitirnäy ʕeze raqƛin eƛis nesäƛin, esin xexoyä.
+Gloss: DEM1.ISG.OBL-LAT any thing IV-want-PRS-NEG you-GEN2 tongue-POSS.ESS tongue III-touch-CND.CVB be.enough IV-become-QUOT say-PST.WIT DEM1.ISG.OBL-ERG-QUOT tell-PST.UNW young.animal-ERG
+Translation: "He doesn't want anything, if he can touch your tongue with his tongue, it will be enough, he said.", explained her young.
+Sentence: Nełan hemedurtow harizi rodin žedaq, din bižo sadaqƛin.
+Gloss: DEM1.IISG.OBL-ERG-TOP so-EMPH request IV-do-PFV.CVB DEM1.IIPL.OBL-POSS.ESS me-TOP III-carry-IMPR together-QUOT
+Translation: And he asked them likewise: "Carry me with you!"
+Sentence: Sasaqosi zira eƛin: ƛa ħažƛ’aɣor rik’an q’anon sadaqƛin.”
+Gloss: in.the.morning fox-ERG say-PST.UNW go.IMPR hajj-SUPER.VERS IV-go-FUT.DEF two-TOP together-QUOT
+Translation: In the morning, the fox said: "Come, let's go on hajj (pilgrimage) together."

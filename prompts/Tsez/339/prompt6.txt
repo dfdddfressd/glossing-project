@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mesedyos in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mesedyos: 
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Sida zamanaƛ’aza baɣmar mesedyos yic’äasi ɣamasno yayrno q’ˤano žek’u ayn.
+Gloss: one.OBL-ERG time-SUPER.VERS.DIST garden.OBL-IN.LAT gold-GEN1 II-fill-PST.WIT.INT-RES.PRT box-TOP II-bring-PFV.CVB two man come-PFV.CVB
+Translation: After a while two men appeared in the garden carrying the box filled with gold.
+Sentence: Užä eƛin, anƛ’imarsi där hunixor qˤašo ero, mesedyos bašiqˤoy yałruni kid k’eda di ik’ix.
+Gloss: boy-ERG say-PFV.CVB week-LAT-ATTR me-LAT way-AD.LAT get.up-IMPR put-IMPR gold-GEN1 ring be-PST.PRT-DEF girl search-INF me go-PRS
+Translation: The boy answered: "Pack provisions for me for a way of one week, I'm going to search the girl with the golden ring."
+
+Approximate Matches:
+Sentence: Neła t’umiqay bˤaƛ’uru ħuli babiwz k’ukyoł boqun, miƛ’iłäy räšruni mesedyosnigon his ħamarno čˤaƛin esirno, baba, req’ezi roqxaƛin.
+Gloss: DEM1.IISG.OBL pigeon-POSS.ABL III-fall-PST.PRT feather father-GEN2 cap-CONT.ESS III-stick-PFV.CVB ram-CONT.ABL IV-fall-PST.PRT-DEF gold-GEN1-DEF-CNTR spring.wool chest-IN.LAT-TOP throw-PFV.CVB ask-PFV.CVB daddy approach IV-become-PRS-Q-QUOT
+Translation: She put the feather that fell from that pigeon onto her father's hat, and threw the golden whool that fell from the ram onto the chest and asked: "Daddy, does it fit?"
+Sentence: Hemedur q’ˤunesno micxirno łiyn, babiya žarƛin c’unzi rodin xecin zawruni micxiryosno, mesedyosno ixinno łiyrno yizä.
+Gloss: so two.OBL-GEN1-TOP money-TOP end-PFV.CVB dad-ERG son-LAT-QUOT guard IV-do-PFV.CVB leave-PFV.CVB be.NPRS-PST.PRT-DEF money-GEN1-and gold-GEN1-and bag-TOP finish-PFV.CVB DEM2.IPL-ERG
+Translation: So the two guys' money was finished, and the bag of money and gold that the father left for his son they finished as well.
+Sentence: Ric’äsi mesedyosno, micxiryosno ixinno sadaq risno, ža kid saɣ yodanixƛin xander ik’in.
+Gloss: IV-fill-RES.PRT gold-GEN1-and money-GEN1-and bag-TOP all IV-take-PST.UNW DEM1.SG daughter cure II-do-MSD-AD.ESS-QUOT khan-APUD.LAT go-PST.UNW
+Translation: He took the entire bag filled with gold and money and went to the king in order to cure his daughter.

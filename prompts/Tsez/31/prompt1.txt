@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Łaqnokin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Łaqnokin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Łaqnokin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Posures mec nesir biyxozołäy Alimaħama łaqnokin esin anu, esinäy mi äxuƛin nesiq riyräsi roqzaƛ’ qˤayz xexoyä.
+Gloss: cattle-GEN1 language DEM1.ISG.OBL-LAT III-know-AD.ESS-ATTR.OBL-CONT.ABL Alimagomed-ERG who.OBL-POSS.ESS-TOP-even tell-PFV.CVB be.NEG tell-CND.CVB you die-QUOT DEM1.ISG.OBL-POSS.ESS IV-explain-RES.PRT IV-become-CSL.CVB hare-GEN2 young.animal-ERG
+Translation: Alimagomed told to no one about his knowing the animals' language, because the rabbit's young had explained to him: "If you tell it, you'll die!"
+Sentence: Nesiq reƛ’a ritirerzaƛ’or łaqnokin ritirerač’inƛin.
+Gloss: DEM1.ISG.OBL-POSS.ESS hand IV-touch-CAUS-POST.CVB who.OBL-POSS.ESS-TOP-even IV-touch-CAUS-NEG.FUT.DEF-QUOT
+Translation: Before he touches me, no one else may touch me.
+Sentence: Yedu debeq di äsiru šebin łaqnokin äsinƛin eƛin, eženi oqno maħor ik’in.
+Gloss: DEM2.IISG you-POSS.ESS me tell-PST.PRT what-TOP who.OBL-POSS.ESS-TOP-even tell-PROHIB-QUOT say-PFV.CVB old-DEF become-PFV.CVB outside go-PST.UNW
+Translation: Don't tell anyone what I told you!", the old man told and went outside.
+
+Approximate Matches:
+Sentence: Exaniƛ’or aynosi, eženä žaqor wasi bodin, di exunosi łinaqnokin baraxšizi oqinč’ey sadaq’an rułir, buq boƛäxza puƛ’aɣor gurow saparno bäcinoƛin.
+Gloss: die-INF-DEF-SUPER.LAT come-ANT.CVB old-DEF-ERG son-POSS.LAT testament III-do-PST.UNW me die-ANT.CVB what.OBL-POSS.ESS-TOP-even pity become-NEG.PST.CVB alms-TOP IV-share sun III-appear-LCV.CVB side-SUPER.VERS except journey-TOP III-follow-PROHIB-QUOT
+Translation: When his dead came, the old one made a testament to his son: "After I have died, do not pity anything but share the alms and go on a journey only to the place where the sun goes up!"

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕuraw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕuraw: 
+
+Exact Matches
+Sentence: Dey xexbi, di exun xizyo t’ubazi odin łiynosi, meži łˤonon esnabi bitazoni ɣˤutkar bezu, elo mežur ʕuraw mesed yołƛin”.
+Gloss: me-GEN1 children me die-PFV.CVB after fulfill do-PST.UNW end-ANT.CVB you.PL three-TOP brother-PL next-DEF room-IN.LAT I.PL-look-IMPR there you(I).PL.OBL-LAT much gold be-QUOT
+Translation: "My children, when I have died and the funeral is done, you three brothers look into the next room, there is much gold for you."
+Sentence: Elo yiłar ʕuraw q’ʷariłiƛ’ sis ečru žek’u esun.
+Gloss: there DEM2.IISG.OBL-LAT much sadness-SUPER.ESS one old man find-PST.UNW
+Translation: There she found an old man in big sadness.
+Sentence: Hemełƛ’o xizyo doxtur ʕuraw ɣˤaɣˤ izin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS afterwards doctor very endure get.up-PFV.CVB
+Translation: Then afterwards the doctor was very happy.
+
+Approximate Matches:
+Sentence: Bežet’anibi ʕurawtow ɣˤaɣˤun bizin, nesiƛ’ Tabuldiƛin cin erno.
+Gloss: I.PL-old-DISTR-DEF-PL much-EMPH be.happy-TOP I.PL-get.up-PFV.CVB DEM1.ISG.OBL-SUPER.ESS Tabuldi-QUOT name-TOP put-PST.UNW
+Translation: The oldest ones were very glad and gave him the name Tabuldi.

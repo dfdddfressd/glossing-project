@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: biħu-bičin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": biħu-bičin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word biħu-bičin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Baq’ˤu urɣizi boqxo bičinč’ey, ɣʷˤadä q’ˤʷa-q’ˤʷa-q’ˤʷaƛin haraƛ’ bayrun, haqoƛäy reƛ q’ˤidar rˤaƛ’un.
+Gloss: III-much thinking III-become-IPFV.CVB III-be-NEG.PST.CVB crow-ERG crah-crah-crah-QUOT voice I.PL-do-IMM.ANT.CVB mouth-SUB.ABL meat down-LAT IV-fall-PST.UNW
+Translation: Without thinking much, the crow let its voice caw and the piece of meat fell down out of his mouth.
+Sentence: Hemełƛ’o bayn adäz qˤays xexoyn bičin yisiqor eƛin, mi siskin pašman aqno, yaqˤuł mi elus tušman bexursi, hoboy mi däz eniwdäɣor däde sadaq ƛa.
+Gloss: DEM4.IISG.OBL-SUPER.ESS III-come-PFV.CVB ahead hare-GEN1 young.animal-TOP III-sit-PFV.CVB DEM2.ISG.OBL-POSS.LAT say-PST.UNW you any become.sad become-PROHIB today you we(I).OBL-GEN1 enemy III-kill-PST.WIT now you me-GEN2 mother-APUD.VERS me-APUD.ESS with go.IMPR
+Translation: Then came a rabbit's young and sat down in front of him and said to him: "Don't become sad! Today you have killed our enemy; now come with me to my mother!
+Sentence: Mesedyosno micxiryosno ric’äsi reže ixinno gugyoq caƛin aw boƛixno ƛ’ˤuƛ’orno bizin beqa kecno bičin.
+Gloss: gold-GEN1-and money-GEN1-and IV-fill-RES.PRT IV-big bag-TOP back-POSS.ESS throw-PFV.CVB mouse III-half-AD.ESS-TOP roof-SUPER.LAT-TOP III-get.up-PFV.CVB sun-IN.ESS sleep-PFV.CVB III-be-PST.UNW
+Translation: The mouse with the big bag filled with gold and money threwn over [its back] got up halfway on the roof and went to sleep in the sun.

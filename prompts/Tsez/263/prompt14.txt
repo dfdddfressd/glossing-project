@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šebin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šebin: 
+
+Exact Matches
+Sentence: Siryos bet’erhanä q’ʷaridno oqno sadaq šebin ik’in ec’noni xanzo baruq esin.
+Gloss: mare-GEN1 master-ERG sadness-TOP become-PFV.CVB all thing go-PFV.CVB new-DEF khan-ATTR.OBL wife-POSS.ESS tell-PST.UNW
+Translation: The mare's master became sad and told the king's new wife how all the things happened.
+Sentence: Sis gut’ riłe šebin rukayxƛin, eƛin bełiqanä.
+Gloss: one smoke IV-as thing IV-see-PRS-QUOT say-PST.UNW hunter-ERG
+Translation: "I see something like smoke.", said the hunter.
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+
+Approximate Matches:
+Sentence: Kidbez eniya nesir ya micxir, ya mesed, ya q’ˤuya riguƛ’ay rigu šebinabi teƛxo zown, hudun užä žedu šebinabi risnoanu.
+Gloss: girl-GEN2 mother-ERG DEM1.ISG.OBL-LAT either money either gold either other IV-good-SUPER.ABL IV-good thing-PL give-IPFV.CVB be.NPRS-PFV.CVB nevertheless boy-ERG DEM1.IIPL thing-PL IV.PL-take-PFV.CVB-NEG
+Translation: The girl's mother was about to give him money or gold or other precious things, but the boy didn't take those things.
+Sentence: Užä guluq esirno, yedu šebi šebinƛin.
+Gloss: boy-ERG horse-POSS.ESS ask-PST.UNW DEM2.IISG what thing-QUOT
+Translation: The boy asked the horse: "What thing is that?!"
+Sentence: Kidbaza łˤono pu yołäsi šebinno rayrno eƛin, deber rätiru šebinno radi yiła, ätizarno ayärƛin.
+Gloss: girl-PL-ERG three side be-RES.PRT thing-TOP IV-bring-PFV.CVB say-PST.UNW you-LAT IV-want-PST.PRT thing-TOP IV-do DEM2.IISG.OBL-ERG want-LCV-LAT-TOP bring-QUOT
+Translation: The girls brought the things to their three sides and said: "This will do what you want and it will bring your where you want."

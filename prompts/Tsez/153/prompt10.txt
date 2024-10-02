@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yoƛ’ˤurno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yoƛ’ˤurno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yoƛ’ˤurno:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ačqˤaynosi ceyä q’ˤʷa-q’ˤʷaƛin eƛinosi, užä ozäy mowt’a yoƛ’ˤurxo zown ceyz haqar.
+Gloss: be.thirsty-ANT.CVB eagle-ERG krwa-krwa-QUOT say-ANT.CVB boy-ERG eye-IN.ABL tear-DISTR II-fall-CAUS-IPFV.CVB be.NPRS-PST.UNW eagle-GEN2 mouth-IN.LAT
+Translation: When the thirsty eagle said "krwa-krwa", the boy let tears fall down from his eyes into the eagle's mouth.

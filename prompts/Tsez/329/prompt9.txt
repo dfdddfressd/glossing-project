@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roɣno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roɣno: 
+
+Exact Matches
+Sentence: Ħumukulin bisno yizä, tełäy axorekasin roɣno, nełaz axä tełxor q’ebedes uži egirno.
+Gloss: camel-TOP III-buy-PFV.CVB DEM2.IPL.OBL-ERG inside-IN.ABL giblets-TOP IV-take.away-PFV.CVB DEM1.IISG.OBL-GEN2 belly-IN.ESS inside-AD.LAT smith-GEN1 son let-PST.UNW
+Translation: They bought a camel, removed its giblets and let the smith's son inside its belly.
+Sentence: Haqayn roɣno ža ƛuza Ismaʕila akiq karu šebinon rˤołun maħor roɣno rižirno.
+Gloss: mouth-IN.ABL-TOP IV-take.away-PFV.CVB DEM1.SG bone Ismail-ERG window-POSS.ESS throw-PST.PRT something drill-PFV.CVB outside IV-take.away-PFV.CVB IV-take.out-CAUS-PST.UNW
+Translation: Ismail took that bone out of his mouth and threw it outside, where it bored itself through the window and everything.
+Sentence: Haqayn roɣno ža ƛuza Ismaʕila akiq karu šebinon rˤołun maħor roɣno rižirno.
+Gloss: mouth-IN.ABL-TOP IV-take.away-PFV.CVB DEM1.SG bone Ismail-ERG window-POSS.ESS throw-PST.PRT something drill-PFV.CVB outside IV-take.away-PFV.CVB IV-take.out-CAUS-PST.UNW
+Translation: Ismail took that bone out of his mouth and threw it outside, where it bored itself through the window and everything.
+
+Approximate Matches:
+Sentence: Siskin urɣizi oqxo ičinč’ey, kusa nesiqor eƛin, ʕomoyä łox ħoʕni roɣnosi äxu miƛin.
+Gloss: anything thinking become-IPFV.CVB be-NEG.PST.CVB beardless.man DEM1.ISG.OBL-POSS.LAT say-PST.UNW donkey-ERG thrice shout IV-take.away-ANT.CVB die you-QUOT
+Translation: Without thinking, the beardless man said to him: "When the donkey has shouted three times, you will die."
+Sentence: ƛ’iräy reku roɣnosi, čanyas maħi roƛixno.
+Gloss: from.above manure IV-take.away-ANT.CVB she.goat-GEN1 tail IV-appear-PST.UNW
+Translation: After they had taken away the manure, a goat's tail appeared.
+Sentence: Encegon ƛ’iray reku roɣnosi, čanyas šilabi maħor roƛixno.
+Gloss: a.little-CNTR above-IN.ABL manure IV-take.away-ANT.CVB she.goat-GEN1 horn-PL outside II.PL-appear-PST.UNW
+Translation: They took away a little more manure from above and a goat's horns appeared.

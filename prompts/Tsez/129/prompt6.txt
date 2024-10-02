@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yayƛ’oräy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yayƛ’oräy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yayƛ’oräy:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža igor yayƛ’oräy, awä äƛiruxor, meš kurnosi nełał adäz žopono ciq roƛixno.
+Gloss: DEM1.SG near-LAT II-come-SIM.CVB mouse-ERG say-PST.PRT-AD.LAT broom throw-ANT.CVB DEM1.IISG.OBL-CONT.ESS before dense forest IV-appear-PST.UNW
+Translation: When she came near, he - as the mouse had said - threw the broom and before her appeared a dense forest.
+Sentence: Eƛni yayƛ’oräy, ža sida quł neła nełar ɣˤutku rodanix halmaɣłin k’eyn maħor boqno.
+Gloss: winter II-come-SIM.CVB DEM1.SG one.OBL day-CONT.ESS DEM1.IISG.OBL-ERG DEM1.IISG.OBL-LAT house IV-do-MSD-AD.ESS friendship-TOP search-PFV.CVB outside III-become-PST.UNW
+Translation: When the winter was coming, he went outside and looked for friends to build a house for him.
+
+Approximate Matches:
+Sentence: Sida quł xexzade k’ešonayƛ’oräy, sida xexzas yisiq žirbabi recun.
+Gloss: one.OBL day-CONT.ESS children-APUD.ESS play-SIM.CVB one.OBL child-GEN1 DEM2.ISG.OBL-POSS.ESS rib-PL IV.PL-break-PST.UNW
+Translation: One day, while playing with other children, one child broke its ribs.
+Sentence: Igaɣor bayƛ’oräy, hič’č’an yeɣeni esiyagon, babiya nełqor teƛno zawruni, hiƛu kurno.
+Gloss: near-IN.VERS III-come-SIM.CVB the.most-TOP II-young-DEF sister-ERG-CNTR father-ERG DEM1.IISG.OBL-POSS.LAT give-PFV.CVB be.NPRS-PST.PRT-DEF comb throw-PST.UNW
+Translation: When it came closer, the youngest sister threw down the comb that their father had given to her.
+Sentence: Xanez gulude biħanayƛ’oräy, šidqay ƛ’iyorno kurno, ƛ’irirno bizin ža di xot’ozad łełanƛin, eƛin kidbä.
+Gloss: khan-GEN2 horse-APUD.ESS III-fight-SIM.CVB wall-POSS.ABL downwards-TOP throw-PFV.CVB above-LAT-TOP III-get.up-PFV.CVB DEM1.SG me foot-PL-INSTR trample.down-FUT.DEF-QUOT say-PST.UNW girl-ERG
+Translation: "While I am fighting next to the king's horse, I will throw it down from the street wall, get up again and trample it down with my feet

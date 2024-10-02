@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: qˤaƛi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": qˤaƛi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word qˤaƛi:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yiła maq’anyabi qˤaƛixanu, ust’arder yedu yayrƛin yiła ɣarabašzaqor eƛin.
+Gloss: DEM2.IISG.OBL-ERG melody-PL sing-PRS-NEG master-APUD.LAT DEM2.IISG II-bring-QUOT DEM2.IISG.OBL-ERG servant-PL-POSS.LAT say-PST.UNW
+Translation: "It doesn't play melodies anymore, bring it to the master!", she said to the servants.
+Sentence: Alay-bulayƛin eƛixozo guluqorno qˤaƛin, ʕoƛira putce yoq’ˤiw kedonno yisno, ža Ismaʕilƛ’or yoqno.
+Gloss: Alay~bulay-QUOT say-PRS.PRT.OBL horse-POSS.LAT-TOP shout-PFV.CVB seven.OBL pood-EQU1 II-heavy sledgehammer-TOP II-take-PFV.CVB DEM1.SG Ismail-SUPER.LAT II-become-PST.UNW
+Translation: She shouted after her horse names Alay-bulay, took a 7-pood heavy sledgehammer and went to Ismail.
+Sentence: Neła ƛˤorłäyn teqno ƛ’irir yayru nesi žaz eniya nesiqor qˤaƛin, iħäzoni łiyä bown kurali mežikin sida ħala bičix yołiƛin.
+Gloss: DEM1.IISG.OBL war-CONT.ABL-TOP hear-PFV.CVB above-LAT II-come-PST.PRT DEM1.ISG.OBL boy-GEN2 mother-ERG DEM1.ISG.OBL-POSS.LAT shout-PST.UNW river-IN.ESS-ATTR.OBL-DEF water-ERG I.PL-bring-PFV.CVB throw-ATTR you.PL-even one.OBL condition-IN.ESS I.PL-remain-IPFV.CVB however-QUOT
+Translation: The moter of that boy heard of their battle and came up and shouted to him: "You two, brought by the river's water and thrown here, be normal!"

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: oz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": oz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word oz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xanes kid c’unzi yodanix sis oz bayn, xizay biłetow sisgon bayn.
+Gloss: khan-GEN1 daughter guard II-do-MSD-AD.ESS one army I.PL-come-PFV.CVB from.behind I.PL-as-EMPH one-CNTR I.PL-come-PST.UNW
+Translation: In order to protect the king's daughter, an army came, and behind it another similar army came.
+Sentence: Ɣʷˤadi q’ʷaridno boqno, hawaƛ’osi oz rutira bik’in.
+Gloss: crow sadness-TOP III-become-PFV.CVB air-SUPER.ESS-ATTR army IV-gather-INF III-go-PST.UNW
+Translation: The crow became sad and went to gather the airborne army.
+Sentence: Bešerxotow bižix zown neła xanes oz, xizaɣor ƛäxurubi boxin bok’ełno.
+Gloss: I.PL-fall-CAUS-IPFV.CVB-EMPH I.PL-take.out-IPFV.CVB be.NPRS-PFV.CVB DEM1.IISG.OBL khan-GEN1 army finally remain-PST.PRT-PL I.PL-run.away-PFV.CVB I.PL-escape-PST.UNW
+Translation: She took out and brought to fall that king's armies, and finally the remaining ones fled.
+
+Approximate Matches:

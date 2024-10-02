@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’ˤut’u in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’ˤut’u: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Bazarganä q’ˤunerno yic’xot’a t’akan et’nosi, nesä ħaƛux zown, yiła enduräz t’asmaɣor yiħurxo zown.
+Gloss: merchant-ERG two.OBL-LAT-TOP II-fill-IPFV.CVB-DISTR glass pour-ANT.CVB DEM1.ISG.OBL-ERG drink-IPFV.CVB be.NPRS-PFV.CVB DEM2.IISG.OBL-ERG that.way-IN.ESS.DIST washbowl-IN.ALL II-pour-IPFV.CVB be.NPRS-PST.UNW
+Translation: After the merchant poured a glass full for each of them, he drank, and she poured it into the washbowl in the same way.
+Sentence: Q’ˤida bičanix yiziƛer uyno q’ˤuri rayrno.
+Gloss: down I.PL-sit-MSD-AD.ESS DEM2.IPL.OBL-SUB.LAT four chair IV-bring-PST.UNW
+Translation: He brought four chairs for them to sit down.
+Sentence: Neširu mežaɣor bizinosi, Ismaʕila q’ˤunełno roƛƛo bˤałayn erno eƛin nełqor, howłaq ged yitirłi debi meč’, dey bˤałayƛin.
+Gloss: evening mattress-IN.VERS I.PL-get-ANT.CVB Ismail-ERG two.OBL-CONT.ESS-TOP IV-middle dagger-TOP put-PFV.CVB say-PST.UNW DEM1.IISG.OBL-POSS.LAT DEM3.IISG.OBL-POSS.ESS shirt II-touch-CND.CVB.IRR you-GEN1 neck me-GEN1 dagger-QUOT
+Translation: In the evening, when they got onto the bed, Ismail put a dagger in the middle between the two and said to her: "If your shirt touches it, so will my dagger [touch] your neck."

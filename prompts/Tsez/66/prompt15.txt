@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kecerno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kecerno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kecerno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žedur bigu bogno boyn buyn bišerno, łˤonontow sida taxƛ’o sadaq kecerno.
+Gloss: DEM1.IPL.OBL-LAT III-good meal-TOP III-do-PFV.CVB I.PL-indeed-TOP I.PL-eat-CAUS-PFV.CVB three-TOP-EMPH one.OBL ottoman-SUPER.ESS together sleep-CAUS-PST.UNW
+Translation: He made them a good meal and indeed fed them, and let the three sleep together on one ottoman.
+Sentence: Neširutow moƛaxayn bizirno, sosigon bišerno yiła yizi kecerno.
+Gloss: at.night-EMPH sleep-AD.ABL-TOP I.PL-get.up-CAUS-PFV.CVB again-CNTR I.PL-eat-CAUS-PFV.CVB DEM2.IISG.OBL-ERG DEM2.IPL sleep-CAUS-PST.UNW
+Translation: At night he woke them up from their sleep, fed them again and put them to bed.
+
+Approximate Matches:

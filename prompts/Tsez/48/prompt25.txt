@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: qˤaƛi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": qˤaƛi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word qˤaƛi:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Q’ˤunaäƛiru ɣudƛ’o miƛ’i bayrno boc’in, isno gugyoq caƛin zeyn ziruz ɣˤutkoxorno rayn, maħlaytow qˤaƛin:
+Gloss: two.OBL-ORD day-SUPER.ESS ram III-bring-PFV.CVB wolf-TOP bull-TOP back-POSS.ESS throw-PFV.CVB bear-TOP fox-GEN2 house-AD.LAT-TOP III.PL-come-PFV.CVB court-IN.ABL-EMPH loudly
+Translation: On the second day, the wolf came to the fox's house bringing a ram and the bear came with a bull thrown over his back, a loud voice shouted from the backyard:
+Sentence: Alay-bulayƛin eƛixozo guluqorno qˤaƛin, ʕoƛira putce yoq’ˤiw kedonno yisno, ža Ismaʕilƛ’or yoqno.
+Gloss: Alay~bulay-QUOT say-PRS.PRT.OBL horse-POSS.LAT-TOP shout-PFV.CVB seven.OBL pood-EQU1 II-heavy sledgehammer-TOP II-take-PFV.CVB DEM1.SG Ismail-SUPER.LAT II-become-PST.UNW
+Translation: She shouted after her horse names Alay-bulay, took a 7-pood heavy sledgehammer and went to Ismail.
+Sentence: Xanzo madaxor yaynosi, yiła teł iduɣor xanqor qˤaƛin:
+Gloss: khan-ATTR.OBL gate-AD.LAT II-come-ANT.CVB DEM2.IISG.OBL-IN.ESS inside home-IN.ALL khan-POSS.LAT shout-PST.UNW
+Translation: When she came to the king's court, she shouted to the king inside the house:

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word doxturqo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word doxturqo: 
+
+Exact Matches
+Sentence: Nesä doxturqo esirno, debeq yedu kid saɣ yodäłäƛin.
+Gloss: DEM1.ISG.OBL-ERG doctor-POSS.ESS ask-PFV.CVB you-POSS.ESS DEM2.IISG daughter cure II-do-POT-Q-QUOT
+Translation: He asked doctor to cure his daughter.
+
+Approximate Matches:
+Sentence: Yisi doxturqor taliħƛin sis q’ˤir koyiƛer riqin, nełaq t’it’aħinno ičin karačelyoza yeda lilyoxaɣor kurno.
+Gloss: DEM2.ISG.OBL doctor-POSS.LAT fortune-QUOT one board hand-SUB.LAT IV-get-PFV.CVB DEM1.IISG.OBL-POSS.ESS clutch-PFV.CVB-TOP remain-PFV.CVB wave.OBL-PL-ERG DEM2.ISG river.bank-AD.VERS throw-PFV.CVB
+Translation: Luckily, the doctor got to clutch the board and waves threw him on shore.

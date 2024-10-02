@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bužzi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bužzi: 
+
+Exact Matches
+Sentence: Xanno, diwan boyxosi xalq’in, kidbeder ays žaƛin, Kusaƛ’ bužzi boqno anu.
+Gloss: khan-and judgement III-do-PRS.PRT people-and girl-APUD.LAT come-PST.WIT DEM1.SG-QUOT Kusa-SUPER.ESS believe I.PL-become-PST.UNW be.NEG
+Translation: The king and the judges did not believe that Kusa had come to the girl.
+Sentence: Tawadä Ražbadin bužzi odin, nediw ħalikataw šebin debeł teł roda dey pikrukin zownč’u, rodäsin anuƛin.
+Gloss: Tavadi-ERG Razhbadin convince do-PFV.CVB such mean thing you-CONT.ESS inside IV-do-INF me-GEN1 idea-even be.NPRS-NEG.PST.WIT IV-do-RES.PRT-TOP be.NEG-QUOT
+Translation: Tavadi convinced Razhbadin: "I would not have he idea to do such a mean thing to you, I haven't done anything."
+Sentence: Miƛin, eƛin nesä, k’ot’ono, c’ec’mabi c’uda, ozurabi niga, kodi aluk’a ɣˤanazaƛ’ bužzi aqno, nełqay maqˤixno ičiƛin.
+Gloss: you-QUOT say-PST.UNW DEM1.ISG.OBL-ERG short eyelash-PL red eye-PL green hair white woman-SUPER.ESS trust become-PROHIB DEM1.IISG.OBL-POSS.ABL far.away-AD.ESS-TOP be-QUOT
+Translation: "Don't", he said, "believe in a short woman with her eyelashes red, her eyes green and her hair white, but keep away from her!"
+
+Approximate Matches:
+Sentence: Xanes nukarbi, nełaƛ’ bužzin boqno, xizor bik’in.
+Gloss: khan-GEN1 henchman-PL DEM1.IISG.OBL-SUPER.ESS believe-PFV.CVB I.PL-become-PFV.CVB back I.PL-go-PST.UNW
+Translation: The king's henchmen believed her and went back.
+Sentence: Goqi zira äƛiru łinaƛ’no bužzin oqno, nesä ža iduɣorno bižin, q’ˤanon sadaq bičix zown.
+Gloss: Goqi fox-ERG say-PST.PRT what.OBL-SUPER.ESS-TOP trust-TOP become-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG home-IN.ALL-and I.PL-lead-PFV.CVB two-and together I.PL-live-IPFV.CVB be.NPRS-PST.UNW
+Translation: Goqi believed what the fox said, he took him home and the two lived together.
+Sentence: Yisiƛ’ bužzin yoqinč’ey nełas eniw yäk’iru, žan hemedurtow aždaħä yexurno.
+Gloss: DEM2.ISG.OBL-SUPER.ESS believe-TOP II-become-NEG.PST.CVB DEM1.IISG.OBL-GEN1 mother II-go-PST.PRT DEM1.SG-TOP so-EMPH dragon-ERG II-kill-PST.UNW
+Translation: That dragon likewise killed her mother, who didn't believe this, and went there.

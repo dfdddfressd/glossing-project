@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕUneyzatä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕUneyzatä: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Didur eli bišan, bäšru k’et’ukin bexusƛin eƛin xanqor Beqes ʕUneyzatä.
+Gloss: how we III-eat-FUT.DEF III-eat-PST.PRT cat-even III-die-PST.WIT-QUOT say-PST.UNW khan-POSS.LAT sun-GEN1 Uneyzat-ERG
+Translation: "How could we eat, if even the cat who ate died?", said Sun's Uneyzat to the king.
+Sentence: Q’orola radirun, habihander yizi didur keze baqrułäyn, elo žedudäy xizor bäk’irułäyn, esnaza boyx zawru rek’mołäyn - nasin šebin Beqes ʕUneyzatä esin.
+Gloss: widow-ERG IV-do-PST.PRT-and miller-APUD.LAT DEM2.IPL how meet I.PL-become-PST.PRT-CONT.ABL-and there DEM1.IPL.OBL-APUD.ABL back I.PL-go-PST.PRT-CONT.ABL-and sister-PL-ERG III-do-IPFV.CVB be.NPRS-PST.PRT trick-CONT.ABL-and - all thing sun-GEN1 Uneyzat-ERG tell-PST.UNW
+Translation: About what the widow did, and about how they met the miller, and about how they went back from there, and about the tricks that their sisters played - all these things Sun's Uneyzat told.
+Sentence: Hemełƛ’o Beqes ʕUneyzatä kidbez q’ˤimƛ’ay pardagi roɣno caƛin eƛin, yedu yoł mesedyos žežu yołalini debi kidƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS sun-GEN1 Uneyzat-ERG girl-GEN2 head-SUPER.ABL scarf IV-take.away-PFV.CVB throw-PFV.CVB say-PST.UNW DEM2.IISG be gold-GEN1 ponytail be-ATTR-DEF you-GEN1 daughter-QUOT
+Translation: Thereupon Sun's Uneyzat threw away the scarf off the girl's head and said: "She is your daughter with the golden ponytail.

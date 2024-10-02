@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ƛ’irizoni using Leipzig glossing symbols. The sentence this word is drawn from means: "He immediately led the boy into the upper room to show it to him.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ƛ’irizoni
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ƛ’irizoni:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Aluk’ani biqirnäy, neła mi ƛ’irizoni raƛ’moƛ’or ayär, qˤabani biqirnäy waħazoni raƛ’moƛ’or ayärƛin, - eƛi- mołin egirno yizä yeda.
+Gloss: white-DEF III-catch-CND.CVB DEM1.IISG.OBL-ERG you above-ATTR.OBL-DEF land-SUPER.LAT bring black-DEF III-catch-CND.CVB below-ATTR.OBL-DEF land-SUPER.LAT bring-QUOT - say teach-PFV.CVB send-PST.UNW DEM2.IPL.OBL-ERG DEM2.ISG
+Translation: When you catch the white one, it will bring you to the land above; if you catch the black one, it will bring you to the land below", they taught him and let him go.
+Sentence: Xanes uži yisä akiłno q’ˤidar ʕoƛ’ace naysinan kerozaq ezu-ʕaƛ’urno, amma ƛ’irizoni ɣˤutkaɣor ezura ižinanu yisä yeda.
+Gloss: khan-GEN1 son DEM2.ISG.OBL-ERG get.tired-PFV.CVB down-LAT fall-TERM everywhere ravine-PL-POSS.ESS examine-CAUS-PFV.CVB but above-ATTR.OBL-DEF room-IN.VERS show-INF lead-PFV.CVB-NEG DEM2.ISG.OBL-ERG DEM2.ISG
+Translation: He lead him through the ravines and showed him everything until he got tired and fell down, but he didn't lead him to show him the room above.
+Sentence: Yisä eƛin, debex di esiw yegirłin, mi di ƛ’irizoni ɣˤutka tełer ezura egirinč’uƛin.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW you-AD.ESS me sister II-send-CNC.CVB you me above-ATTR.OBL-DEF room-IN.ESS into show-INF let-NEG.PST.WIT-QUOT
+Translation: He said: "Although you married your sister off to me, you didn't let me look into the upper room."
+
+Approximate Matches:
+Sentence: Sis žek’un ayn howlor hemecetow ƛ’iri utizaƛ’, moƛ’oqˤoyn sadaq däq teƛno rok’ełsi.
+Gloss: one man-TOP come-PFV.CVB there-LAT such-EMPH above turn-CSL.CVB bridle-TOP together me-POSS.ESS sell-PFV.CVB IV-lose-PST.WIT
+Translation: And there came a man and because he insisted so much, I sold also the bridle and lost it.
+Sentence: Mi nełas rask’i urɣel badinƛin, sida q’urec’niƛ’ ƛ’iri ixin erno, hisos urgubi äruni sideni q’urec’niƛ’ ƛ’iri yeda zowerno.
+Gloss: you DEM1.IISG.OBL-GEN1 no.at.all sorrow III-do-PROHIB-QUOT one.OBL mule-SUPER.ESS on bag put-PFV.CVB spring.wool-GEN1 sack-PL put-PST.PRT-DEF other mule-SUPER.ESS on DEM2.ISG seat-PST.UNW
+Translation: "Don't worry!", they put his bag onto the mule and seated him on the other mule that carried the sacks of wool.
+Sentence: Žeda eƛixƛax, howlo rečuƛ dice buħi bičix, hohomaw mečoƛ’ ocä xecix yołi dice rigu räči, elaƛ’ ƛ’iri hisno rigu raq łemuƛin.
+Gloss: DEM1.IIPL.OBL-ERG say-PRS-QUOT there cattleshed-SUB.ESS how.much heat III-be-PRS fresh place-SUPER.ESS threshing.floor-IN.ESS leave-IPFV.CVB if how.much IV-good IV-be we(II-SUPER.ESS on spring.wool-TOP IV-good IV-become then.would-QUOT
+Translation: They were saying: "There in the shed is so much heat, if he would leave us in a chilly place, on the threshing floor, how good that would be, and then our wool would be better, too!"

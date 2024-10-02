@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bayxƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bayxƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bayxƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howžiƛa rˤałay roda zaman bayxƛin Alimaħama ciqaɣor ik’in, isʷaqor reƛ’u rodanix c’araʕyor qaca rowanixƛin.
+Gloss: now-INDEF threshing.floor IV-do-INF time III-come-PRS-QUOT Alimagomed-ERG forest-IN.VERS go-PST.UNW bull-PL-POSS.LAT yoke IV-do-MSD-AD.ESS building.material-LAT firewood IV-bring-MSD-AD.ESS-QUOT
+Translation: "Now it's time to do the threshing.", Alimagomed thought and went into the forest to bring wood for building the yoke for the bulls.
+Sentence: ʕAƛor ʕeziyaw k’udi däq biqira bayxƛin.
+Gloss: village-LAT many vine me-POSS.ESS III-take.away-INF III-must-PRS-QUOT
+Translation: I must deliver enough vines to the village."
+Sentence: Eɣeni esiwq xanä, däz šadał aqˤuros maħ nazay boqa bayxƛin esirnosi, nesä eƛin:
+Gloss: young-DEF brother-POSS.ESS khan-ERG me-GEN2 wine-CONT.ESS urine-GEN1 smell from.where III-become-INF III-come-PRS-QUOT ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: When the king asked the younger brother, how it came that his wine smells like urine, he said:
+
+Approximate Matches:
+Sentence: Šebi deber roqno, šida mi šiqˤonyayxƛin?”
+Gloss: what you-LAT IV-happen-PST.UNW why you limp-PRS-QUOT
+Translation: "What happened to you, why are you limping?"
+Sentence: Radiru rigłin riynč’ey, bežet’ani esnaza daʕba bodin, hič’č’a bercinaw kid deber šida yiča yayxƛin.
+Gloss: IV-do-PST.PRT IV-good-CNC.CVB IV-know-NEG.PST.CVB I.PL-old-DISTR-DEF brother-PL-ERG dispute III-do-PFV.CVB the.most beautiful girl you-LAT why II-be-INF II-must-PRS-QUOT
+Translation: The other brothers didn't know what good he had done, and began to argue: "Why must the most beautiful girl be for you?"
+Sentence: Aħa igorno ayn esirno, šebi roqäsi šebin yoł, łinax mi zigaryayxƛin.
+Gloss: shepherd-ERG near-LAT-TOP come-PFV.CVB ask-PST.UNW what IV-happen-RES.PRT thing be how you complain-PRS-QUOT
+Translation: The shepherd came closer and asked: "What happened? Why are you complaining?"

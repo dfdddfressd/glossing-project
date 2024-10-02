@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yegirnosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yegirnosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yegirnosi:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Magalu boɣanixƛin eženi žek’a ħoyäɣor reƛ’a regirnosi, Ħusenä yeda q’ˤiƛin tełxor kurno.
+Gloss: bread III-take.away-MSD-AD.ESS-QUOT old-DEF man-ERG oven-IN.VERS hand IV-let-ANT.CVB Hussein-ERG DEM2.ISG push-PFV.CVB inside-AD.LAT throw-PST.UNW
+Translation: When the old man let his hand into the oven in order to pull out the bread, Hussein pushed him inside.
+Sentence: Xizayn k’oƛin ʕoloqan žek’a elaɣor reƛ’a regirnosi, beč’ułno elazay micxirno, mesedno bayn.
+Gloss: from.behind-TOP run-PFV.CVB young man-ERG there-IN.VERS hand IV-let-ANT.CVB III-flow.out-PFV.CVB there-IN.ABL.DIST silver-and gold-and III-come-PST.UNW
+Translation: When the young man ran behind him and put his hand into there, silver and gold came out of there.
+Sentence: Hudayzikogon ɣurox uži egirnosi, hemedurtow boƛixno aɣi užiqor xabaryayn:
+Gloss: the.next.day-CNTR cows-AD.ESS boy send-ANT.CVB so-EMPH III-appear-PST.UNW bird boy-POSS.LAT tell-PST.UNW
+Translation: The next day the boy was sent to pasture the cows, when the bird appeared again and told him:

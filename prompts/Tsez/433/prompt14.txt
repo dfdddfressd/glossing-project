@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕayibno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕayibno: 
+
+Exact Matches
+Sentence: Mi däƛ’ ʕayibno badin, di dowder harizi oqno aysƛin.
+Gloss: you me-SUPER.ESS fault-TOP III-do-PROHIB me you-APUD.LAT request become-PFV.CVB come-PST.WIT-QUOT
+Translation: Don't blame me [that] I came to ask you.
+
+Approximate Matches:
+Sentence: Howlotow yiła ƛ’iräy uži oɣno, dey ʕayib boqsi idu yičin howžär nełqor yutin yezunč’ey yičizaƛ’.
+Gloss: there-EMPH DEM2.IISG.OBL-ERG from.above boy take.away-PFV.CVB me-GEN1 fault III-happen-PST.WIT home II-live-PFV.CVB now-IN.LAT DEM1.IISG.OBL-POSS.LAT II-return-PFV.CVB II-look-NEG.PST.CVB II-be-CSL.CVB
+Translation: Then she apologized to the boy: "It was my fault, because I didn't pay attention on her again, since she has been living with us, until now."
+Sentence: ʕAƛoz ʕoloqza Ražbadinƛ’o ʕayib erxo zown bexuranix xexbi begirnoƛin, nesä yołi halmaɣłi łet’in.
+Gloss: village-GEN2 young.person-PL-ERG Razhbadin-SUPER.ESS fault put-IPFV.CVB be.NPRS-PFV.CVB I.PL-kill-MSD-AD.ESS children I.PL-send-PFV.CVB-QUOT DEM1.ISG.OBL-ERG however friendship pick-PST.UNW
+Translation: The young people of the village were blaming Razhbadin for sending his children for them to get killed, whereas he, however, choose friendship.

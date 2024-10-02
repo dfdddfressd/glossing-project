@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: risk’ač’inir.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": risk’ač’inir
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word risk’ač’inir:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nedur resunäyƛin, eƛin užä dahawcen ičin, mažgityaɣorno ik’ač’in, idun kecač’in.
+Gloss: so IV-exist-CND.CVB-QUOT say-PST.UNW boy-ERG a.little-EQU1-TOP wait-PFV.CVB mosque-IN.VERS-and go-NEG.FUT.DEF home-and sleep-NEG.FUT.DEF
+Translation: "If that's the case," said the boy, "I'll wait a little, and will neither go to the mosque, nor sleep here at home.
+Sentence: Mamalayä nełar t’ok’ow bik’ač’inƛin rexuxanusi rožin teƛno, nece bayn čerayzaƛ’ onoča ža idur begirno.
+Gloss: rooster-ERG DEM1.IISG.OBL-LAT anymore III-go-NEG.FUT.DEF-QUOT IV-die-NEG.PRS.PRT word-TOP give-PFV.CVB so.much III-come-PFV.CVB beg-CSL.CVB hen-ERG DEM1.SG home-LAT III-let-PST.UNW
+Translation: The rooster gave his word, that he would not go to her anymore, and since he begged so much, the hen let him home.

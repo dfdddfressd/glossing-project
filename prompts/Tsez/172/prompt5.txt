@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: hawaƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": hawaƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word hawaƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža nece bercinawni aɣin bižin, łacez guluƛ’no zown, yeda hawaƛ’ k’oƛin iduɣor ik’in.
+Gloss: boy-ERG so.much beautiful-DEF bird-TOP III-carry-PFV.CVB wind-GEN2 horse-SUPER.ESS-and ride-PFV.CVB DEM2.ISG air-SUPER.ESS jump-PFV.CVB home-IN.ALL go-PFV.CVB
+Translation: The boy took this beatiful bird and rode his wind horse home.
+Sentence: Maħor k’aƛirun, yisir bukayn gulu t’umiƛ’orno butin boržizi boqno hawaƛ’ boxix.
+Gloss: outside run-IMM.ANT.CVB DEM2.ISG.OBL-LAT III-see-PFV.CVB horse pigeon-SUPER.LAT-TOP III-turn-PFV.CVB fly III-become-PFV.CVB air-SUPER.ESS III-run.away-IPFV.CVB
+Translation: As soon as he ran outside, he saw the horse had turned into a pigeon and was flying away in the air.
+Sentence: Neł t’umä ža t’akan yižin xaneł purłäzan eqerno, elaygon bitor hawaƛ’ žedu biħada bik’ixozo xanzo akixor bik’in.
+Gloss: DEM1.IISG.OBL pigeon-ERG DEM1.SG glass II-carry-PFV.CVB khan-CONT.ESS side-CONT.VERS.DIST-TOP put-PFV.CVB there-IN.ABL-CNTR thither air-SUPER.ESS DEM1.IPL III-fight-INF III-go-PRS.PRT.OBL khan-GEN2 window-AD.LAT III-go-PST.UNW
+Translation: The pigeon carried this glass, put it next to the king and from there flew to the king's window, from which they went out to fight.
+
+Approximate Matches:
+Sentence: Osaxor hawaƛ’orno bizin, tupäsi hil biłe wˤałerno nexno bik’in ɣunoq c’oxno.
+Gloss: height-AD.LAT air-SUPER.LAT-TOP III-get.up-PFV.CVB rifle-IN.ESS-ATTR bullet III-as downward-LAT-TOP come-PFV.CVB III-go-PFV.CVB tree-POSS.ESS pounce-PST.UNW
+Translation: It got up into the height through the air, and came down like a gun's bullet again and pounced on the tree.
+Sentence: Zira eƛin, nedur resunäy, hawaƛ’osi mi rutir, q’ˤidasi di rutiran.
+Gloss: fox-ERG say-PST.UNW so IV-exist-CND.CVB air-SUPER.ESS-ATTR you IV-gather down-ATTR me IV-gather-FUT.DEF
+Translation: The fox said: "If that's the case, collect what's in the air and I will collect what's on the ground.
+Sentence: Ɣʷˤadi q’ʷaridno boqno, hawaƛ’osi oz rutira bik’in.
+Gloss: crow sadness-TOP III-become-PFV.CVB air-SUPER.ESS-ATTR army IV-gather-INF III-go-PST.UNW
+Translation: The crow became sad and went to gather the airborne army.

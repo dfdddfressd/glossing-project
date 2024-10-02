@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣˤutkoz in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣˤutkoz: 
+
+Exact Matches
+Sentence: Neła baydanƛ’or aynosi, miƛ’zo iyos ruɣubin łiyn, šet’u utiƛ’oräy, yeda waħozoni dunyalƛ’orno ˤoƛ’un, sida ɣˤutkoz ƛ’ˤuƛ’ ƛ’iri c’oxno.
+Gloss: DEM1.IISG.OBL plain-SUPER.LAT come-ANT.CVB ram-ATTR.OBL blood-GEN1 prints-PL-TOP end-PFV.CVB around turn.back-SIM.CVB DEM2.ISG below-ATTR.OBL-DEF earth-SUPER.LAT-TOP fall-PFV.CVB one.OBL house-GEN2 roof-SUPER.ESS on hit-PST.UNW
+Translation: After he came to that plain, the ram's blood spots ended; when he turned around, he fell onto the earth/world below, and on the roof of a house.
+Sentence: Ža q’orolay xanez ɣˤutkoz madaxor yik’in.
+Gloss: DEM1.SG widow khan-GEN2 house-GEN2 gate-AD.LAT II-go-PST.UNW
+Translation: That widow then went to the gate of the king's house.
+Sentence: Esnabi zawruni ɣˤutkoz madaxor xanä wazir egirno, žeda elo teł badiru xabarno teqerno xizyo nesiq esanix.
+Gloss: brother-PL be.NPRS-PST.PRT-DEF room-GEN2 gate-AD.LAT khan-ERG vizier send-PFV.CVB DEM1.IPL.OBL-ERG there inside I.PL-do-PST.PRT story-TOP aloud after DEM1.ISG.OBL-POSS.ESS tell-MSD-AD.ESS
+Translation: The king sent a vizier to the door of the room where the brothers were, to overhear their conversation and to tell him about it afterwards.
+
+Approximate Matches:
+Sentence: Qˤašizaƛ’or, nesiz babiwz ɣˤutkoƛ’ay baybik bodin, nazon ʕaƛa yałru ɣˤutkozas akizax ʕeze boqacet’a k’udi besun.
+Gloss: dawn-POST.CVB DEM1.ISG.OBL-GEN2 father-GEN2 house-SUPER.ABL begin III-do-PFV.CVB all.OBL-TOP village-IN.ESS be-PST.PRT house-GEN2-FUT2 window-PL-AD.ESS be.enough III-become-TERM-DISTR vine III-exist-PST.UNW
+Translation: Before dawn, he began at his father's house and there was enough vine in all the houses' windows.

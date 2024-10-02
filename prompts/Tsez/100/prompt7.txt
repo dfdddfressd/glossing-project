@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bayrxo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bayrxo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bayrxo:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Didurnotow ʕaƛos xalq’imos ħal bayrxo zownanu.
+Gloss: how-TOP-EMPH village-GEN1 people-GEN1 strength III-bring-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: And the village's people couldn't defeat him in any way.
+Sentence: Didurnokin eɣeni esiws ħal bayrxo zownanu neła, kodi begirinč’eygon yedan zank’izin oqno ičäsi zown.
+Gloss: how-TOP-even young-DEF brother-GEN1 strength III-bring-IPFV.CVB be.NPRS-PFV.CVB-NEG DEM1.IISG.OBL-ERG hair III-let-NEG.PST.UNW-CNTR DEM2.ISG-TOP persist-TOP become-PFV.CVB be-RES.PRT be.NPRS-PST.UNW
+Translation: The young brother couldn't overcome her in any way, but he didn't let her hair go.
+
+Approximate Matches:
+Sentence: Zamanałäy yisiq ozzałer kanłi bayrxosi ƛˤeb yiqin.
+Gloss: time-CONT.ABL DEM2.ISG.OBL-POSS.ESS eye-PL-CONT.LAT light III-bring-PRS.PRT leaf II-get-PST.UNW
+Translation: After a while, he picked up a leaf that brought back his eyesight to his eyes again.
+Sentence: Becawni žek’a ža ozzaq yiħinäy, neła kanłi bayrxoƛax.
+Gloss: blind-DEF man-ERG DEM1.SG eye-PL-POSS.ESS II-smear-CND.CVB DEM1.IISG.OBL-ERG light III-bring-PRS-QUOT
+Translation: If the blind man smears them onto his eyes, it brings back his eyesight.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Ħon-Bahadurqor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Ħon-Bahadurqor: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ħon-bahadurä rok’no mač’an łˤonon bikoris q’ˤim reč’no kurno.
+Gloss: Mountain~Hero-ERG IV-beat-PFV.CVB dagger-TOP three-TOP snake-GEN1 head IV.PL-cut-PFV.CVB throw-PST.UNW
+Translation: Mountain~Hero beated with his dagger and chopped off the tree heads of the snake.
+Sentence: Ħon-bahadurä eƛin, debi eniwn yexursi, min bexuran, mi biłet’ani bišom bexurełxosi bahadur oqzaƛ’ nexsi di t’orƛin.
+Gloss: Mountain~Hero-ERG say-PST.UNW you-GEN1 mother-and II-kill-PST.WIT you-and III-kill-FUT.DEF you III-as-DISTR-DEF hundred I.PL-kill-POT-PRS.PRT hero become-CSL.CVB come-ATTR me here-LAT-QUOT
+Translation: Mountain~Hero said: "I killed your mother, and I will kill you! I have come here, for I am the hero who has killed a hundred just like you."
+Sentence: Ħon-bahadurä kurno c’eruc’as hil, aždaħzo yoƛƛo hut’-mˤalä c’oxno.
+Gloss: Mountain~Hero-ERG shoot.from-PFV.CVB bow-GEN1 arrow dragon-GEN2 II-middle front.part.of.the.face-IN.ESS hit-PST.UNW
+Translation: Mountain~Hero shot an arrow from his bow and hit the dragon in the middle of its face.

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: užiƛ’or.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": užiƛ’or
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word užiƛ’or:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bayn zira, mušin pˤaƛun, noci užiƛ’or butirno.
+Gloss: III-come-PFV.CVB fox-ERG breath-TOP thrash-PFV.CVB louse boy-SUPER.LAT III-turn-CAUS-PST.UNW
+Translation: The fox came, thrashed and turned the louse into the boy.
+Sentence: Di muši pˤaƛunosi, mi nociƛ’or ati, xizyo mi kidbez kočorał teł uqˤeł, ža iduɣor yik’iƛ’oräy, mi q’ˤidar k’oƛo, hemełƛ’o mi di nociƛ’ay užiƛ’or utiran.
+Gloss: me breath thrash-ANT.CVB you louse-SUPER.LAT turn afterwards you girl-GEN2 forelock-CONT.ESS inside hide DEM1.SG home-IN.ALL II-go-SIM.CVB you down-LAT jump-IMPR DEM4.IISG.OBL-SUPER.ESS you me louse-SUPER.ABL boy-SUPER.LAT turn-FUT.DEF
+Translation: "When I blow, you will turn into the louse. Afterwards you will hide youself inside the girl's forelock. Before she go home, jump down and I will turn you back to the boy."
+
+Approximate Matches:
+Sentence: Gogaƛ’or baynosi, užiƛ’orno butin, ik’in ozyode sadaq kecno ičin.
+Gloss: meadow-SUPER.LAT III-come-ANT.CVB boy-SUPER.LAT-TOP III-turn-PFV.CVB go-PFV.CVB army-APUD.ESS together sleep-PFV.CVB be-PST.UNW
+Translation: When it arrived at the meadow, it became the boy again and went to sleep next to the army.
+Sentence: ʕOloqan užiƛ’orgon utin ƛ’irir Okun ayn.
+Gloss: young boy-SUPER.LAT-CNTR turn-PFV.CVB above-LAT Oku-TOP come-PST.UNW
+Translation: Oku turned into a young boy and came upstairs.

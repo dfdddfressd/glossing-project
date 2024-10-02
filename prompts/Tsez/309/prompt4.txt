@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žek’no in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žek’no: 
+
+Exact Matches
+Sentence: Tełer ayrun yisä sida reƛ’id nełas kočori biqirno, sidenigon reƛ’id hibon bisno žek’no yedu, neła mi dey uži yołƛin eƛace.
+Gloss: to.the.inside come-IMM.ANT.CVB DEM2.ISG.OBL-ERG one.OBL hand-INSTR DEM1.IISG.OBL-GEN1 forelock III-take.away-PFV.CVB the.other.one-CNTR hand-INSTR stick-TOP III-take-PFV.CVB beat-PST.UNW DEM2.IISG DEM1.IISG.OBL-ERG you me-GEN1 son be-QUOT say-TERM
+Translation: Immediately after going inside, he took her hair with one hand and took a stick with the other hand and hit her until she said: "You're my son!"
+Sentence: Elo tełäyn ƛisin, łaymoƛ’ay ik’ace žeda ža uyn žek’no oɣno maħor kurno.
+Gloss: there inside-IN.ABL-TOP pull-PFV.CVB mind-SUPER.ABL go-TERM DEM1.IIPL.OBL-ERG DEM1.SG indeed-TOP beat-PFV.CVB take.away-PFV.CVB outside throw-PST.UNW
+Translation: They pulled him outside there, beated him unconscious, took him up and threw him outside.
+Sentence: Nasin butin žan žek’no, nesiqay łin roɣno, žan rižin nukarbi bik’in, elur resus yedu łiƛin eƛin.
+Gloss: all I.PL-turn.back-PFV.CVB DEM1.SG-TOP beat-PFV.CVB DEM1.ISG.OBL-POSS.ABL water-TOP IV-take.away-PFV.CVB DEM1.SG-TOP IV-carry-PFV.CVB henchman-PL I.PL-go-PFV.CVB we(I).OBL-LAT IV-find-PST.WIT DEM2.IISG water-QUOT say-PST.UNW
+Translation: The henchmen all turned back, beat him up and carried away the water from him, and said: "We found this water!"
+
+Approximate Matches:
+Sentence: Mada gulun bicin tełxor ik’anix ac žek’nosi, neła žedu q’ˤimbi taxeƛ ruqˤno.
+Gloss: gate-IN.ESS horse-TOP III-tie-PFV.CVB inside-AD.LAT go-MSD-AD.ESS door beat-ANT.CVB DEM1.IISG.OBL-ERG DEM1.IIPL head-PL ottoman-SUB.ESS IV.PL-hide-PST.UNW
+Translation: He tied the horse outside to the gate and when he knocked on the door to go inside, she hid the heads under the sofa.

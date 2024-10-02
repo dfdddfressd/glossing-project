@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word c’unzi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word c’unzi: 
+
+Exact Matches
+Sentence: Baq’ˤu mix bik’izaƛ’ortow, eɣeni esiwr teqxo xabar, yisiz eženi esiws cudi nukarza c’unzi bodix sida qunyox yołƛin.
+Gloss: III-much time III-go-POST.CVB-EMPH young-DEF brother-LAT hear-PRS story DEM2.ISG.OBL-GEN2 old-DEF brother-GEN1 corpse henchman-PL-ERG guard I.PL-do-IPFV.CVB one.OBL farmstead-AD.ESS be-QUOT
+Translation: Before much time has passed, the younger brother was hearing the story that his older brother's corpse was at a farmstead being guarded by henchman.
+Sentence: Xanes kid c’unzi yodanix sis oz bayn, xizay biłetow sisgon bayn.
+Gloss: khan-GEN1 daughter guard II-do-MSD-AD.ESS one army I.PL-come-PFV.CVB from.behind I.PL-as-EMPH one-CNTR I.PL-come-PST.UNW
+Translation: In order to protect the king's daughter, an army came, and behind it another similar army came.
+Sentence: Hemedur q’ˤunesno micxirno łiyn, babiya žarƛin c’unzi rodin xecin zawruni micxiryosno, mesedyosno ixinno łiyrno yizä.
+Gloss: so two.OBL-GEN1-TOP money-TOP end-PFV.CVB dad-ERG son-LAT-QUOT guard IV-do-PFV.CVB leave-PFV.CVB be.NPRS-PST.PRT-DEF money-GEN1-and gold-GEN1-and bag-TOP finish-PFV.CVB DEM2.IPL-ERG
+Translation: So the two guys' money was finished, and the bag of money and gold that the father left for his son they finished as well.
+
+Approximate Matches:
+Sentence: Izin akiqno t’it’aħin, tełxor q’orolas reƛ’a roƛik’no, elo žan c’unizi yodin bäčiruni nukarza, rok’no mač’an reč’no roɣno.
+Gloss: get.up-PFV.CVB window-POSS.ESS-TOP clutch-PFV.CVB inside-AD.LAT widow-GEN1 hand IV-let.appear-PFV.CVB there DEM1.SG-TOP guard II-do-PFV.CVB III-be-PST.PRT-DEF henchman-PL-ERG IV-hit-PFV.CVB saber-TOP IV-cut-PFV.CVB IV-take.away-PST.UNW
+Translation: He got up and clutched at the window, and let the widow's hand appear inside, and the henchmen who were guarding her cut it off with their saber(s).

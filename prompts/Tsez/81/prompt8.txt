@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rukaysƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rukaysƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rukaysƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howt’ay yäk’irun, där moƛał rukaysƛin babiwqor eƛo mi, soderno kurno ƛ’ˤiyor nexƛ’oräy, geres hibos boq’ˤugani pu wˤałxor butin nexno raƛ’moƛxorgon šäšiƛin.
+Gloss: from.here II-go-IMM.ANT.CVB me-LAT dream-CONT.ESS IV-see-PST.WIT-QUOT father-POSS.LAT say-IMPR you upward-TOP throw-PFV.CVB downward come-SIM.CVB iron-GEN1 stick-GEN1 III-heavy-ATTR-DEF side downward-AD.LAT III-turn-PFV.CVB come-PFV.CVB earth-SUB.LAT-CNTR get.stuck-QUOT
+Translation: "When you go again, tell your father that you have seen it in a dream: He shall throw it upward and when it comes down again, the iron stick's heavier side will turn downward and get stuck in the earth."
+Sentence: C’iɣruk’a eƛin, däz eniya moƛał iħäy ɣired łi rowx rukaysƛin.
+Gloss: Tsighruk-ERG say-PST.UNW me-GEN2 mother-ERG dream-CONT.ESS river-IN.ABL sieve-INSTR water IV-bring-IPFV.CVB IV-see-PST.WIT-QUOT
+Translation: Tsighruk said: "I dreamed how my mother was bringing water from the river with a sieve."
+Sentence: Howt’ay yäk’irun mi babiwqor där moƛał rukaysƛin eƛo, łˤora ɣudi žedu gulubi rišerłin, łi ħaƛurinč’eyn xecin, iħä łäƛ’or žedu rižinosi, ʕoloqanawni gulu łi ħaƛa boƛƛäɣor bäk’i, ečrunä lilyoxaytow ħaƛuƛin.
+Gloss: from.here II-go-IMM.ANT.CVB you father-POSS.LAT me-LAT dream-CONT.ESS IV-see-PST.WIT-QUOT say-IMPR three.OBL day DEM1.IPL horse-PL IV-eat-CAUS-CNC.CVB water drink-CAUS-NEG.PST.CVB-and leave-PFV.CVB river-IN.ESS water-SUPER.LAT DEM1.IPL III.PL-lead-ANT.CVB young-DEF horse water drink-INF III-middle-IN.VERS III-go old-DEF-ERG river.bank-AD.ABL-EMPH drink-QUOT
+Translation: "When you go, say to your father that I saw it in a dream: Although you feed those horses for three days, you don't give them water to drink, then you lead them over the water into a river; the young horse will go to the middle to drink water, the old one will drink from the riverbank instead."
+
+Approximate Matches:
+Sentence: Mi elur raładyoz iƛ’aq besuroz haqa ukaysƛin, eƛin kidbez babiya.
+Gloss: you we(I).OBL-LAT sea-GEN2 bottom-POSS.ESS fish-GEN2 mouth-IN.ESS see-PST.WIT-QUOT say-PST.UNW girl-GEN2 father-ERG
+Translation: "We have seen you at the bottom of the see in the fish's mouth," said the girl's father.
+Sentence: Elay yik’in kidbä, där hemedur moƛu yukaysƛin, babiwqor nesi užä äsiru łinałäyn eƛin.
+Gloss: here-IN.ABL II-go-PFV.CVB girl-ERG me-LAT so dream II-see-PST.WIT-QUOT father-POSS.LAT DEM1.ISG.OBL boy-ERG tell-PST.PRT what.OBL-CONT.ABL-TOP say-PST.UNW
+Translation: The girl went away and [saying] "I had a dream like this!", told to her father about what that boy had told.

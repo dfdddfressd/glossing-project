@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zawrułer in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zawrułer: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xaner bič’zi roqno elo q’ˤano c’ohor zawrułin, sisinigon elay oxin äk’irułin.
+Gloss: khan-LAT understand IV-become-PST.UNW there two thief be.NPRS-PST.PRT-NMLZ-and other-DEF-CNTR here-IN.ABL run.away-PFV.CVB go-PST.PRT-NMLZ-and
+Translation: The king understood that there were two thiefs and the other one had run away from there.
+Sentence: Nełqazay Ħasaner riyn c’eruc’as hilno q’ˤiryoł caƛin, Ħusen guluzał xizay ʕaƛaɣor nexno zawrułin, nesirgon hunix aždaħno keze boqno, neła axʷaɣor ägirułin.
+Gloss: DEM1.IISG.OBL-POSS.ABL.DIST Hassan-LAT IV-know-PFV.CVB bow-GEN1 arrow-TOP floor-CONT.ESS stick-PFV.CVB Hussein horse-PL-CONT.ESS behind village-IN.VERS come-PFV.CVB be.NPRS-PST.PRT-NMLZ-and DEM1.ISG.OBL-LAT-CNTR way-AD.ESS dragon-TOP meet III-become-PFV.CVB DEM1.IISG.OBL-ERG belly-IN.VERS swallow-PST.PRT-NMLZ-and
+Translation: From her he knew that Hussein sticked his bow's arrow into the floor and went to the village for horses, and that he met a dragon on the way, which swallowed him into his belly.
+Sentence: Eɣeni esiwq xanä deber łinax riyä kut’yoƛ’aza puƛ’aza nełaƛ’ ƛ’iri nuci zawrułiƛin esirnosi, nesä eƛin:
+Gloss: younger-DEF brother-POSS.ESS khan-ERG you-LAT how IV-know-Q right.side-SUPER.VERS.DIST side-SUPER.VERS.DIST DEM1.IISG.OBL-SUPER.ESS above honey be.NPRS-MSD-QUOT ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: When the king asked the younger brother, how he knew that it had honey on its right side, he said:

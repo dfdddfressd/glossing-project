@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word žek’an in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word žek’an: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Di žek’anč’e babiw nexxoƛin, yoł yałzatow q’ayn xecin užin oxin.
+Gloss: me beat-INF-TOP-INTS father come-PRS-QUOT be be-LCV.CVB-EMPH article-TOP leave-PFV.CVB boy-TOP run.away-PST.UNW
+Translation: Thinking that the father came to beat him, the boy left the goods where they were and ran away.
+Sentence: Xexłiƛ’ k’oƛin babiwderno yik’in, hemesi tusnaq’äzo užir teƛxa mi izmu guluƛ’ zowanirƛin, nełaq eƛin rok’äłrun, xan kid žek’anixƛin iza oqno.
+Gloss: quickness-SUPER.ESS run-PFV.CVB father-APUD.LAT-TOP II-go-PFV.CVB DEM4.ISG.OBL prison-IN.ESS-ATTR.OBL boy-LAT give-IPFV.CVB-Q you permission horse-SUPER.ESS ride-MSD-LAT-QUOT DEM1.IISG.OBL-POSS.ESS say-PFV.CVB IV-escape-IMM.ANT.CVB khan daughter beat-MSD-AD.ESS-QUOT get.up-INF begin-PST.UNW
+Translation: She quickly ran to her father, and when the words "Do you give the permission that the boy in prison can ride the horse?" broke out of her, the king got up to slap his daughter.
+Sentence: Mi žek’anix ɣˤilya bowsƛin eƛin, Alimaħama baruz gugya ɣˤilya basada oqno.
+Gloss: you beat-MSD-AD.ESS stick III-bring-PST.WIT-QUOT say-PFV.CVB Alimagomed-ERG wife-GEN2 back-IN.ESS stick III-measure-INF begin-PST.UNW
+Translation: "I brought a stick to beat you!", said Alimagomed and began to hit his wife's back with the stick.

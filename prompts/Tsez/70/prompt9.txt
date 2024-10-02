@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Pat’imatä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Pat’imatä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Pat’imatä:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Pat’imatä esirno, łinałäy mežus daʕbaƛin.
+Gloss: Fatima-ERG ask-PST.UNW what.OBL-CONT.ABL you(I).PL.OBL-GEN1 dispute-QUOT
+Translation: Fatima asked: "What is your dispute about?"
+Sentence: Moƛał rukayru šebinon hemedurtow eluq riqixosi anuƛin, Pat’imatä žedu xizor boxirno.
+Gloss: dream-CONT.ESS IV-see-PST.PRT something so-EMPH we(I).OBL-POSS.ESS IV-get-PRS.PRT be.NEG-QUOT Fatima-ERG DEM1.IPL back I.PL-chase-PST.UNW
+Translation: "Likewise we cannot get something that we saw in a dream.", Fatima said and chased them back.

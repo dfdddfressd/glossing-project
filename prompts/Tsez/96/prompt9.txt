@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: besuyä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": besuyä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word besuyä:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elo idu besun iłno užin, mežä k’ʷač’nox yiziräsi ɣˤanabin.
+Gloss: there home I.PL-find-PFV.CVB six son-TOP mattress-IN.ESS groan-IPFV.CVB II-lift-RES.PRT woman-TOP
+Translation: There at home they found six sons and in the bed a groaning woman.
+Sentence: Soder iziłinč’ey hemedur yeda yałzay, aki riłe moči nesir elo besun.
+Gloss: upward get-POT-NEG.PST.CVB so DEM2.ISG be-SIM.CVB window IV-as place DEM1.ISG.OBL-LAT there III-find-PST.UNW
+Translation: While he wasn't able to get upwards like this, he found a place there that looked like a window.
+Sentence: Elo yisir besuroqu esun, gamušyozaq ƛisirno sis ixiw besuro bižix.
+Gloss: there DEM2.ISG.OBL-LAT fisherman find-PFV.CVB buffalo-PL-POSS.ESS pull-CAUS-PFV.CVB one big fish III-carry-IPFV.CVB
+Translation: There he found a fisherman who was carrying one big fish by buffalos.

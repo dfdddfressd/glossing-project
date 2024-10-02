@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: kurƛ’oräy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": kurƛ’oräy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word kurƛ’oräy:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Iqira yisä iħurƛ’oräy ʕUmar onočaƛ’or utin oxin.
+Gloss: catch-INF DEM2.ISG.OBL-ERG begin-SIM.CVB Umar hen-SUPER.LAT turn-PFV.CVB run.away-PST.UNW
+Translation: When he began to catch up, Umar turned into a hen and ran away.
+Sentence: Debeƛ’no gurħizi oqno bexurƛ’oräysi mi di xʷasar boysƛin, di nełqor eƛis.
+Gloss: you-SUPER.ESS-TOP pity become-PFV.CVB III-kill-SIM.CVB-ATTR you me rescue III-do-PST.WIT-QUOT me DEM1.IISG.OBL-POSS.LAT say-PST.WIT
+Translation: 'I felt sorry for you and rescued you from getting killed', I said to it.
+Sentence: Neła eniwqor eƛix, sidade ʕoloqza di yexurƛ’oräy, eloš madax ičin zawruni užä ƛ’irirno ayn, žedur łˤono ɣˤurušno teƛno xʷasar yoysƛin.
+Gloss: DEM1.IISG.OBL-ERG mother-POSS.LAT say-PRS one.OBL-APUD.ESS young.person-PL-ERG me II-kill-SIM.CVB over.there outside-AD.ESS be-PFV.CVB be.NPRS-PST.PRT-DEF boy-ERG above-LAT-TOP come-PFV.CVB DEM1.IPL.OBL-LAT three ruble-TOP give-PFV.CVB rescue II-do-PST.WIT-QUOT
+Translation: She said to her mother: 'When somewhere some young people were killing me, the boy who is standing over there outside came about, gave them three rubles and saved [me].'

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Ħon-Bahadurer.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Ħon-Bahadurer
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Ħon-Bahadurer:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ħon-bahadurä sosi rak’ru mač’id łˤonon q’ˤim nełas reč’no roɣno, k’ox äƛiru rok’nosi hemedurtow łˤonosinigon q’ˤim reč’no roɣno, łox äƛirugon regirnosi, aždaħes oč’inon q’ˤim reč’no.
+Gloss: Mountain~Hero-ERG once IV-hit-PST.PRT dagger-INSTR three-TOP head DEM1.IISG.OBL-GEN1 IV-cut-PFV.CVB IV-take.away-PFV.CVB twice ORD IV-hit-ANT.CVB so-EMPH three-ATTR-DEF-CNTR head IV-cut-PFV.CVB IV-take.away-PFV.CVB thrice ORD-CNTR IV-let-ANT.CVB dragon-GEN1 nine-TOP head IV-cut-PST.UNW
+Translation: Mountain~Hero hit him once with the dagger and cut three heads off of him; when he hit him for the second time, he cut three of his heads off as well; and when he did it for the third time then, he cut off all the nine heads.
+Sentence: Ħon-bahadurä eƛin, debi eniwn yexursi, min bexuran, mi biłet’ani bišom bexurełxosi bahadur oqzaƛ’ nexsi di t’orƛin.
+Gloss: Mountain~Hero-ERG say-PST.UNW you-GEN1 mother-and II-kill-PST.WIT you-and III-kill-FUT.DEF you III-as-DISTR-DEF hundred I.PL-kill-POT-PRS.PRT hero become-CSL.CVB come-ATTR me here-LAT-QUOT
+Translation: Mountain~Hero said: "I killed your mother, and I will kill you! I have come here, for I am the hero who has killed a hundred just like you."
+Sentence: Ħon-bahadurä rok’no mač’an łˤonon bikoris q’ˤim reč’no kurno.
+Gloss: Mountain~Hero-ERG IV-beat-PFV.CVB dagger-TOP three-TOP snake-GEN1 head IV.PL-cut-PFV.CVB throw-PST.UNW
+Translation: Mountain~Hero beated with his dagger and chopped off the tree heads of the snake.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esiwƛ’or in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esiwƛ’or: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ža kid dicegon bac’ałiƛ’ yoqłin, neła xediwƛ’or kaɣat caxno, debi kid neširuxayt’a q’ʷat’azaq yaħna-yik’ix yičixƛin.
+Gloss: DEM1.SG daughter how.much-CNTR cleanness-SUPER.ESS II-become-CNC.CVB DEM1.IISG.OBL-ERG husband-SUPER.LAT letter write-PST.UNW you-GEN1 daughter at.night-AD.ABL-DISTR street-PL-POSS.ESS II-walk.for.a.while-IPFV.CVB II-be-PRS-QUOT
+Translation: Although the daughter was very cleanly, she wrote a letter to her husband: "Your daughter is being wandering through the streets at night."
+Sentence: Ik’in, ik’in babiwƛ’or kaɣat yegirno zawruni ečruni žek’uder ayn.
+Gloss: go-PFV.CVB go-PFV.CVB father-SUPER.LAT letter II-send-PFV.CVB be.NPRS-PST.PRT-DEF old-DEF man-APUD.LAT come-PST.UNW
+Translation: He went and went and came to the old man who had sent the letter to his father.
+Sentence: Ražbadines xexbi bexuranis mečʷa, Tawadä žedu nesis uži zawza Tiblisäɣor t’et’ranixno begirno, riyrxo žeduq, dey izmu anusi eni- babiwƛ’or kaɣat caxnoƛin.
+Gloss: Razhbadin-GEN1 children I.PL-kill-MSD-GEN1 instead.of Tavadi-ERG DEM1.IPL DEM1.ISG.OBL-GEN1 son be.NPRS-LCV Tbilisi-IN.VERS learn-MSD-AD.ESS-TOP I.PL-send-PFV.CVB IV-explain-PRS DEM1.IPL.OBL-POSS.ESS me-GEN1 permission be.NEG-ATTR mother father-SUPER.LAT letter write-PROHIB-QUOT
+Translation: Instead of killing Razhbadin's children, Tavadi sent them to study in Tbilisi where his son was, and explained to them: "Don't write a letter to your parents without my permission!"

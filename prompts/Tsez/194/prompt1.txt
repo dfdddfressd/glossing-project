@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Qˤišodes.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Qˤišodes
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Qˤišodes:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Qˤišodes zaman baynosin hemedurtow ičin Q’arum.
+Gloss: dinner-GEN1 time III-come-ANT.CVB-TOP so-EMPH be-PST.UNW Qarum
+Translation: And when the time for dinner came, Qarum was likewise.
+Sentence: Sida quł neła kidbes eniw qˤišoder sis mučarin rižin ħonƛ’aɣor yik’ix zown.
+Gloss: one.OBL day-CONT.ESS DEM1.IISG.OBL girl-GEN1 mother at.noon one cumin-TOP IV-carry-PFV.CVB mountain-SUPER.VERS II-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: One day that girl's mother went to the mountain with a cumin cake.
+Sentence: Yiłar yołi qˤišoder riguƛ’ay rigu biša ersiƛax.
+Gloss: DEM2.IISG.OBL-LAT however for.dinner IV-good-SUPER.ABL IV-good food put-PST.WIT-QUOT
+Translation: For her, however, she prepared the best food for dinner.

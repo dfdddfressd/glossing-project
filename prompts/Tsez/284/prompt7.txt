@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zawruni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zawruni: 
+
+Exact Matches
+Sentence: Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.
+Gloss: one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW
+Translation: One day Bear Ear went to the spring the dragon was covering to get water.
+Sentence: Ik’in, ik’in babiwƛ’or kaɣat yegirno zawruni ečruni žek’uder ayn.
+Gloss: go-PFV.CVB go-PFV.CVB father-SUPER.LAT letter II-send-PFV.CVB be.NPRS-PST.PRT-DEF old-DEF man-APUD.LAT come-PST.UNW
+Translation: He went and went and came to the old man who had sent the letter to his father.
+Sentence: Suƛƛisi oƛixno k’oƛin ɣamasyayn uži oxin maħor ok’ełno, ža iqiranixƛin nesił xizaygon č’ariƛ’ zawruni xediwn k’oƛin.
+Gloss: suddenly-ATTR appear-PFV.CVB jump-PFV.CVB box-IN.ABL-TOP boy run.away-PFV.CVB outside escape-PFV.CVB DEM1.SG catch-MSD-AD.ESS-QUOT DEM1.ISG.OBL-CONT.ESS behind-CNTR wakeness-SUPER.ESS be.NPRS-PST.PRT-DEF husband-TOP run-PST.UNW
+Translation: Suddenly the boy jumped out of the box, ran outside and escaped; and in order to catch him ran the husband behind him, who was awake.
+
+Approximate Matches:
+Sentence: Neširugon žedu baħnayx zawrunitow hunäza q’ˤanon esnabi micxir bok’ek’anix bayn.
+Gloss: at.night-CNTR DEM1.IPL I.PL-walk.around-IPFV.CVB be.NPRS-PST.PRT-DEF-EMPH way-IN.VERS.DIST two-TOP brother-PL money III-steal-MSD-AD.ESS I.PL-come-PST.UNW
+Translation: At night, then, the two brothers came on the same way they had been walking on, to steal the money.
+Sentence: Nełaz gugyoƛ’ zawrunigon šebin din riyranƛin:
+Gloss: DEM1.IISG.OBL-GEN2 back-SUPER.ESS be.NPRS-PST.PRT-DEF-CNTR thing me-TOP IV-explain-FUT.DEF-QUOT
+Translation: And I will explain what was on its back:

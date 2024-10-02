@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ˤidar.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ˤidar
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ˤidar:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yiła reƛ’a atinč’eytow ža k’emot’ q’ˤidar yegirno.
+Gloss: DEM2.IISG.OBL-ERG hand touch.with-NEG.PST.CVB-EMPH DEM1.SG wooden.case down-LAT II-let-PST.UNW
+Translation: Not touching it with the hand, she let the crate down.
+Sentence: Xanes uži yisä akiłno q’ˤidar ʕoƛ’ace naysinan kerozaq ezu-ʕaƛ’urno, amma ƛ’irizoni ɣˤutkaɣor ezura ižinanu yisä yeda.
+Gloss: khan-GEN1 son DEM2.ISG.OBL-ERG get.tired-PFV.CVB down-LAT fall-TERM everywhere ravine-PL-POSS.ESS examine-CAUS-PFV.CVB but above-ATTR.OBL-DEF room-IN.VERS show-INF lead-PFV.CVB-NEG DEM2.ISG.OBL-ERG DEM2.ISG
+Translation: He lead him through the ravines and showed him everything until he got tired and fell down, but he didn't lead him to show him the room above.
+Sentence: C’urun-c’aranƛin” eƛin yayxosi k’emot’ mi yiqir, ža hoq’ˤoni reƛ’a atinč’ey q’ˤidar yegirƛin.
+Gloss: tsurun-tsaran-QUOT say-PFV.CVB II-come-PRS.PRT wooden.case you II-take.away DEM1.SG other-DEF hand touch.with-NEG.PST.CVB down-LAT II-let-QUOT
+Translation: Take away the crate that came down when you said 'Tsurun-tsaran!', let the other one down without touching it with the hand!"
+
+Approximate Matches:
+Sentence: Łˤonosi žiman eqerno iduɣor bowƛ’oräy, kak royxo Riħoxaz äčiru q’ˤidarno bˤoƛ’un t’ok’ow dicegon k’ediłin biqinč’u däq.
+Gloss: three-ATTR pocket-IN.ESS-TOP put-PFV.CVB home-IN.ALL III-bring-SIM.CVB prayer IV-do-IPFV.CVB Rixox-IN.ESS.DIST be-PST.PRT down-LAT-TOP III-fall-PFV.CVB anymore how.much-CNTR search-CNC.CVB III-get-NEG.PST.WIT me-POSS.ESS
+Translation: I put three (coins) in my pocket and when bringing them home, I did a prayer in Rikhokh and they fell down and I couldn't find them anymore no matter how much I searched.

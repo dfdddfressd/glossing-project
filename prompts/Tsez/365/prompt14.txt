@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word besux in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word besux: 
+
+Exact Matches
+Sentence: Hisonax ža bäciza mečoƛ’ sasaqort’a mesed besux zown.
+Gloss: trough-ERG-AD.ESS DEM1.SG III-tie-LCV.CVB place-SUPER.ESS in.the.morning-POSS.LAT-DISTR gold III-find-PRS be.NPRS-PFV.CVB
+Translation: In the morning they found gold in the trough, where it was tied.
+Sentence: Ɣudes neširuxay elay sist’a heneš kamäsi besux.
+Gloss: daily evening-AD.ABL there-IN.ABL one.each apple get.lost-RES.PRT III-find-PRS
+Translation: Daily in the evening one apple disappears.
+
+Approximate Matches:
+Sentence: Sida quł neširu yisir moƛał rukayn: ħonzaq aħnayƛ’oräy, yisir łˤono gagali besuxƛax - sis mesedyos biłe ƛ’er yołäsi, sideni žawharyos biłe ƛ’er yołäsi, sidenigon yaq’utyos biłe ƛ’er yołäsi.
+Gloss: one.OBL day-CONT.ESS at.night DEM2.ISG.OBL-LAT dream-CONT.ESS IV-see-PST.UNW mountain-PL-POSS.ESS walk.around-SIM.CVB DEM2.ISG.OBL-LAT three flower III-find-PRS-QUOT - one gold-GEN1 III-as color be-RES.PRT the.other.one pearl-GEN1 III-as color be-RES.PRT the.other.one-CNTR ruby-GEN1 III-as color be-RES.PRT
+Translation: One night he had a dream: while walking around the mountains, he found three flowers - one in the color of gold, another one in the color of a pearl and yet another one in the color of ruby.
+Sentence: Xizyo yiła užiq esin, howži eliz guluz hisona teł mesed besuxanuƛin.
+Gloss: afterwards DEM2.IISG.OBL-ERG son-POSS.ESS tell-PFV.CVB now we.SPEC.GEN2 horse-GEN2 trough-IN.ESS inside gold III-find-PRS-NEG-QUOT
+Translation: Then she told to her son, "Now there is no gold in the trough of our horse."

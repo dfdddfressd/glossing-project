@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ʕaƛoz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ʕaƛoz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ʕaƛoz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesis ɣˤutku ʕaƛoz č’imäza zown.
+Gloss: DEM1.ISG.OBL-GEN1 house village-GEN2 corner-IN.VERS.DIST be.NPRS-PST.UNW
+Translation: His house was located in the suburb of a village.
+Sentence: Nełƛ’ay soder didiwnkin mišayat boyx zownanu neł ʕaƛoz žamaʕatyor, ya posu t’ok’ow narnokin rok’ełnoanu, ya räƛiru qˤiči łukin rexurnoanu.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after which-TOP-even obstacle III-do-IPFV.CVB be.NPRS-PFV.CVB-NEG DEM1.IISG.OBL village-GEN2 population-LAT neither cattle anymore where-TOP-even IV-escape-PFV.CVB-NEG neither IV-plant-PST.PRT harvest who.ERG-even IV-kill-PFV.CVB-NEG
+Translation: After that no obstacle occured to the village's population anymore; neither did any cattle escape, nor did anyone kill the planted harvest.
+Sentence: Ražbadin ħadur oqxon iyn, ʕaƛoz ʕoloqza nesiq harizi rodin, elin Huläɣor dawlaƛ’ bižoƛin.
+Gloss: Razhbadin prepare become-IPFV.CVB-TOP know-PFV.CVB village-GEN2 young.person-PL-ERG DEM1.ISG.OBL-POSS.ESS request IV-do-PST.UNW we-TOP Georgia-IN.VERS prey-SUPER.ESS I.PL-lead-IMPR-QUOT
+Translation: Knowing that Razhbadin was preparing, the young people from the village asked him: "Lead us to Georgia for hunting as well!"
+
+Approximate Matches:
+Sentence: Hemeł qułtow ečruni ɣˤanaza naysinan ʕaƛozał xabar begirno, däde idu aq’iw kid yołƛin.
+Gloss: DEM4.IISG.OBL day-CONT.ESS-EMPH old-DEF woman-ERG everywhere village-PL-CONT.ESS story III-send-PFV.CVB me-APUD.ESS home foreign girl be-QUOT
+Translation: On this day, the old woman spread the story everywhere in among the villages: "I have an alien girl at home!"
+Sentence: Ža xabar šet’ur ʕaƛozałno bik’in.
+Gloss: DEM1.SG story around village-PL-CONT.ESS-TOP III-go-PST.UNW
+Translation: This story went through all the villages around.
+Sentence: Ixiw berten bodin nesi užis, šet’ur yałruni ʕaƛozałäy xalq’in goƛ’in.
+Gloss: big marriage III-do-PFV.CVB DEM1.ISG.OBL boy-GEN1 around be-PST.PRT-DEF village-PL-CONT.ABL people-TOP invite-PST.UNW
+Translation: He arranged the boy's big marriage and invited the people from the villages around.

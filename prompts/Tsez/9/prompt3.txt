@@ -1,0 +1,33 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: esizaƛ using Leipzig glossing symbols. The sentence this word is drawn from means: ""May your mouth freeze for telling him that!", the rabbit scolded her young.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": esizaƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word esizaƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nasin xalq’i bezun ƛexun, sosisi yisanixƛin beč’ułno, nesä baq’ˤu micxir esizaƛ’, ɣamas yisełxosi žek’u oƛixno anu.
+Gloss: all people III-look-PFV.CVB remain-PFV.CVB at.first-ATTR II-buy-MSD-AD.ESS-QUOT III-flow.out-PFV.CVB DEM1.ISG.OBL-ERG III-much money tell-CSL.CVB box II-buy-POT-IPFV.CVB-ATTR man appear-PST.UNW be.NEG
+Translation: All the people came out to look and buy it immediately, but when he said how much money it costs, there was no man who could buy the box.
+
+Approximate Matches:
+Sentence: Xizyo neła eƛin, bik’anon bik’in debi mi mec bitir nesizoq, riya rodanixgon nesis hibon bisno däqor baƛin.
+Gloss: afterwards DEM1.IISG.OBL-ERG say-PST.UNW III-go-INF-TOP III-go-PFV.CVB you-GEN1 you tongue III-touch DEM1.ISG.OBL-ATTR.OBL-POSS.ESS IV-know-INF IV-do-MSD-AD.ESS-CNTR DEM1.ISG.OBL-GEN1 stick-TOP III-take-PFV.CVB me-POSS.LAT III-bring.IMP-QUOT
+Translation: Then she said: "Go, go, and touch his tongue with yours, and take his stick and bring it to me so I can mark it."
+Sentence: Kidbezno, baruzno, nesizno bok’nosigon, žedułäy ħalaq’awt’a ʕomoybi roqno.
+Gloss: daughter-GEN2-TOP wife-GEN2-and DEM1.ISG.OBL-GEN2-and III-beat-ANT.CVB-CNTR DEM1.IPL-CONT.ABL thin-DISTR donkey-PL III.PL-become-PST.UNW
+Translation: And after cracking also [for?] his daughter, his wife and himself, they became thin donkeys.
+Sentence: Nesiztow bˤeƛ’eł yałru biƛurox aluk’ani bˤeƛ’q’ˤus reƛ rac’näy, ža xan saɣ oqxosi yałrułin xalq’imor riyxanu.
+Gloss: DEM1.ISG.OBL-GEN2-EMPH sheep-CONT.ESS be-PST.PRT belly-AD.ESS white-DEF sheep-GEN1 meat IV-eat-CND.CVB DEM1.SG khan cure become-PRS.PRT be-PST.PRT-NMLZ-and people-LAT IV-know-IPFV.CVB-NEG
+Translation: When he eats the meat of a sheep from his flock, which is white on its belly, this king will be healed; but the people don't know this.

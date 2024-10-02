@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łˤono.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łˤono
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łˤono:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesis łˤono uži zown.
+Gloss: he.OBL-GEN1 three son be.NPRS-PST.UNW
+Translation: He had three sons.
+Sentence: Nesä neła bełis łˤono but’a yodix zown, sis but’a awarager, sis miskinzar, sideni q’ˤimä q’ˤimzo haq’ur iduɣor yowx zown.
+Gloss: DEM1.ISG.OBL-ERG DEM1.IISG.OBL hunting-GEN1 three part II-do-IPFV.CVB be.NPRS-PFV.CVB one part prophet-LAT one poor-PL-LAT the.other.one oneself-ERG oneself-GEN2 family-LAT home-IN.ALL II-bring-IPFV.CVB be.NPRS-PST.UNW
+Translation: He always made three parts of what he hunted, one part he gave to the prophet, one to the poor, and the other part he brought to his own family's home.
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.
+
+Approximate Matches:
+Sentence: Elay bitor, ɣˤaɣˤun bizin, łˤonon iduɣor bik’inosi, yeženi esiw yesun, idu yiłe, q’ˤidan yičin yičäsi.
+Gloss: there-IN.ABL thither be.happy-TOP I.PL-get.up-PFV.CVB three-TOP home-IN.ALL I.PL-go-ANT.CVB II-old-DEF sister II-find-PFV.CVB home II-as down-TOP II-sit-PST.UNW II-wait-RES.PRT
+Translation: The three of them were very delighted, so when they went home, they found the older sister, sitting at home waiting.
+Sentence: Yedu kaɣat yaynosi, Ražbadinä łˤonon užin goƛ’in žeduł adäz t’et’erno.
+Gloss: DEM2.IISG letter II-come-ANT.CVB Razhbadin-ERG three-TOP son-TOP call-PFV.CVB DEM1.IPL.OBL-CONT.ESS before read-PST.UNW
+Translation: When the letter arrived, Razhbadin called his three sons and read it out to them.
+Sentence: Ečruni žek’a esin yiłaq, dey łˤonon uži tusnaq’ä teł yoł, žedu maħor boɣanix micxir anusi di ƛexäsi yołƛin.
+Gloss: old-DEF man-ERG tell-PST.UNW DEM2.IISG.OBL-POSS.ESS me-GEN1 three-TOP son prison-IN.ESS inside be DEM1.IPL outside I.PL-take.away-MSD-AD.ESS money be.NEG-ATTR me remain-RES.PRT be-QUOT
+Translation: The old man told her: "My three brothers are in prison, and I don't have the money to buy them free."

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iča in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iča: 
+
+Exact Matches
+Sentence: Aħmadä ečruni žek’uqor eƛin, howt’o deber q’ˤida iča kokoru qˤiƛci riqixyołiƛin.
+Gloss: Akhmed-ERG old-DEF man-POSS.LAT say-PST.UNW here you-LAT down sit-INF soft pillow IV-get-PRS-COND.IRR-QUOT
+Translation: Akhmed said to the old man: "If we only could get you a soft pillow to sit down here..."
+Sentence: Ismaʕilä esirno, t’o sasaqor iča behizi aqäƛin.
+Gloss: Ismail-ERG ask-PST.UNW here in.the.morning-POSS.LAT live-INF permit become-Q-QUOT
+Translation: Ismail asked: "May I spend the night here?"
+Sentence: Mi didiwtow siskin šebin riyxanusi uži iča ayxƛin, Oku aƛ’in nesiqor.
+Gloss: you which-EMPH any thing IV-know-NEG.PRS.PRT boy be-INF must-PRS-QUOT Oku talk-PST.UNW DEM1.ISG.OBL-POSS.LAT
+Translation: "What kind of boy must you be, who doesn't know anything.", spoke Oku.
+
+Approximate Matches:

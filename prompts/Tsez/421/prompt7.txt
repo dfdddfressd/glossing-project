@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word butirno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word butirno: 
+
+Exact Matches
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.
+Sentence: Bayn zira, mušin pˤaƛun, noci užiƛ’or butirno.
+Gloss: III-come-PFV.CVB fox-ERG breath-TOP thrash-PFV.CVB louse boy-SUPER.LAT III-turn-CAUS-PST.UNW
+Translation: The fox came, thrashed and turned the louse into the boy.
+Sentence: Boƛƛäɣor bayzaƛ’ortow, gulun, nełaƛ’gon ƛ’irisini ža č’uħarawni žek’un ɣˤuɣˤuruni neł iħä butirno caƛin, boɣno bižin ƛ’iräy wˤałer.
+Gloss: III-middle-IN.VERS I.PL-come-POST.CVB-EMPH horse-and DEM1.IISG.OBL-SUPER.ESS-CNTR on-ATTR-DEF DEM1.SG proud-DEF man-and muddy-DEF DEM1.IISG.OBL river-IN.ESS I.PL-turn-PFV.CVB stick-PFV.CVB I.PL-take.away-PFV.CVB I.PL-take.out-PFV.CVB from.above downward-LAT
+Translation: Before they reached the middle, the horse and the proud man on it got stuck in that muddy river, and it pulled them downward.
+
+Approximate Matches:
+Sentence: K’oxäƛirun ʕaq’lus xalq’i butirnosi, xanä cuƛer ʕabasin kurno hemedurtow eƛin, k’ešonad mi, pakmos ʕabasi, łinarnotow hunarno anu debi, siskin šebinon deber roda koƛ’ixanuƛin.
+Gloss: twice-ORD-TOP advice-GEN1 people I.PL-gather-ANT.CVB khan-ERG upward coin-TOP throw-PFV.CVB so-EMPH say-PST.UNW play you copper-GEN1 coin what.OBL-LAT-TOP-EMPH talent-TOP be.NEG you-GEN1 any something you-LAT IV-do-INF understand.to-PRS-NEG-QUOT
+Translation: The second time the king gathered his advisors, he also threw a coin up and said likewise: "Play, copper coin, you have no talent to whatsoever, you don't know what to do!"
+Sentence: Neširu xanä elo nasin sidaɣor butirnosi, xanä eƛin, di łi ħaƛuxosi t’akan sasaqor howt’or yayäru žek’ux kid yegira yołƛin.
+Gloss: evening khan-ERG there all one.OBL-IN.VERS I.PL-gather-ANT.CVB khan-ERG say-PFV.CVB me water drink-PRS.PRT glass tomorrow-POSS.LAT here-LAT II-bring-PST.PRT man-AD.ESS daughter II-send-INF be-QUOT
+Translation: In the evening the king gather everyone together and said: "I will marry my daughter off to the man who can bring my water-drinking-glass here tomorrow!"
+Sentence: Łoxäƛirugon xanä ʕaq’lus xalq’i sadaqor butirnosi, Kusa mesedyos ʕabasin yižin elor ik’in.
+Gloss: thrice-ORD-CNTR khan-ERG advice-GEN1 people together-LAT I.PL-gather-ANT.CVB Kusa gold-GEN1 coin-TOP II-carry-PFV.CVB there-LAT go-PST.UNW
+Translation: When the king gathered his advisors for the third time, Kusa carried a golden coin with himself.

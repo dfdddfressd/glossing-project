@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ric’äsit’a.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ric’äsit’a
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ric’äsit’a:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyo royn ičäsi hudun muk’ur oqno uži, neł hiboreƛ q’aymos bic’äsit’a łeno ħumukuli neƛanƛin bazarganä eƛinosi.
+Gloss: afterwards IV-do-PFV.CVB be-RES.PRT nevertheless agree become-PFV.CVB boy DEM1.IISG.OBL stick-SUB.ESS article-GEN1 III-fill-RES.PRT-DISTR five camel give-FUT.DEF-QUOT merchant-ERG say-ANT.CVB
+Translation: Then the boy agreed nevertheless, when the merchant said that he would give him the load from 5 camels for the stick.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: resun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": resun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word resun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.
+Sentence: Hunix bik’iƛ’orey, žedur ħumukulis ruɣu resun.
+Gloss: way-AD.ESS I.PL-go-SIM.CVB DEM1.IPL.OBL-LAT camel-GEN1 prints IV-find-PST.UNW
+Translation: While being on their way, they found the hoofprints of a camel.
+Sentence: Bayzatow ʕoƛiran kawumoqosi rekarbi rixäsi resun.
+Gloss: III-come-LCV-EMPH seven.OBL-TOP gate-POSS.ESS-ATTR key-PL IV.PL-hang-RES.PRT IV.PL-find-PST.UNW
+Translation: Where he arrived, he found keys hanging on the seven gates.
+
+Approximate Matches:
+Sentence: Dey qoqoƛu łinaƛ’ rägiru riya retin resunäy, esan debeq di.
+Gloss: me-GEN1 laughter what.OBL-SUPER.ESS IV-be.emitted-PST.PRT IV-know-INF IV-want-PFV.CVB IV-exist-CND.CVB tell-FUT.DEF you-POSS.ESS me
+Translation: If it is the case that you want to know what I laughed about, I'll tell you.
+Sentence: Buciƛ’ay baq’ˤu zaman bik’in yiziq ža łi k’edix, hudun resunanu.
+Gloss: month-SUPER.ABL III-much time III-go-PFV.CVB DEM2.IPL.OBL-POSS.ESS DEM1.SG water search-IPFV.CVB nevertheless IV-find-PST.UNW-NEG
+Translation: More than a month passed that they were searching that water, but nevertheless they didn't find it.
+Sentence: Hi hudu deber nedur resunäyƛin, rok’no mač’an exurno eženi esiwdetow puräza taxeƛno eqerno akäza baɣmaɣorno yezun yičin.
+Gloss: take.IMP so you-LAT so IV-exist-CND.CVB-QUOT IV-hit-PFV.CVB dagger-TOP kill-PFV.CVB old-DEF brother-APUD.ESS-EMPH side-IN.VERS.DIST ottoman-SUB.ESS-TOP put-PFV.CVB window-IN.VERS.DIST garden-IN.ALL-TOP II-look-PFV.CVB II-wait-PST.UNW
+Translation: "So take [this], if that's the case!", and she hit and killed him with the dagger, put him under the ottoman to the oldest brother's side and waited looking out of the window into the garden.

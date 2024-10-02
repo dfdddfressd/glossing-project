@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bečedaw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bečedaw: 
+
+Exact Matches
+Sentence: Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.
+Gloss: so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT
+Translation: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.
+Sentence: Sida bečedaw žek’uderno ik’in, nesiz k’udoz baɣman eynoyn, micxirno bodin, bižin babiwqor teƛno.
+Gloss: one.OBL wealthy man-APUD.LAT-TOP go-PFV.CVB DEM1.ISG.OBL-GEN2 vine-GEN2 garden-IN.ESS-TOP work-PFV.CVB money-TOP III-do-PFV.CVB III-carry-PFV.CVB father-POSS.LAT give-PST.UNW
+Translation: He went to a wealthy man, worked on his vineyard, earned money and carried it to give it to his father.
+Sentence: Babiws esiw bečedaw žek’u zown.
+Gloss: father-GEN1 brother wealthy man be.NPRS-PST.UNW
+Translation: The father's brother was a rich man.
+
+Approximate Matches:
+Sentence: Hemełƛ’o bečedawni žek’a eƛin, mi dey kid saɣ yodinäy, maharno erno debex ža di yegiran, retinäy boƛi bok’no dey maʕišat neƛanƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS wealthy-DEF man-ERG say-PFV.CVB you me-GEN1 daughter cure II-do-CND.CVB wedding-TOP set.up-PFV.CVB you-AD.ESS DEM1.SG me II-send-FUT.DEF IV-want-CND.CVB III-half III-hit-PFV.CVB me-GEN1 fortune give-FUT.DEF-QUOT
+Translation: Afterwards the rich man suggested, "If you cure my daughter, I will set up the wedding and if you want, I will give you one half of my fortune."
+Sentence: Badiru q’ut’imoxor, doxturä nesi bečedawni žek’uqor eƛin, där debi roƛik’u bečełi retin anu, där debi kid yowa yetixƛin.
+Gloss: III-do-PST.PRT agreement-AD.LAT doctor-ERG DEM1.ISG.OBL wealthy-DEF man-POSS.LAT say-PFV.CVB me-LAT you-GEN1 half riches IV-want-PFV.CVB be.NEG me-LAT you-GEN1 daughter II-bring-INF II-want-PRS-QUOT
+Translation: As it was arranged, the doctor said to the wealthy man, "I do not want the half of your riches, but I want to marry your daughter."
+Sentence: Naysinan nesider bayx zown: beɣen, bežen, miskinawnin bečedawnin.
+Gloss: everywhere DEM1.ISG.OBL-APUD.LAT III-come-PRS be.NPRS-PFV.CVB III-young-TOP III-old-TOP poor-DEF-TOP wealthy-DEF-TOP
+Translation: All people came to him: young and old, poor and wealthy.

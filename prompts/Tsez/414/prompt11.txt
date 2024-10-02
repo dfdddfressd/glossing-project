@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word sikno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word sikno: 
+
+Exact Matches
+Sentence: Hunixor yisä łäs q’ˤano sikno eqerno, bišʷan erno, kumakyorgon, ħaƛirxo ik’anix, xizay k’oƛin yayn bara hibon teƛno.
+Gloss: way-AD.LAT DEM2.ISG.OBL-ERG water-ERG-GEN1 two waterskin-TOP put-PFV.CVB food-TOP put-PFV.CVB help-LAT-CNTR put-IPFV.CVB go-MSD-AD.ESS behind run-PFV.CVB II-come-PFV.CVB wife-ERG stick-TOP give-PST.UNW
+Translation: He put two waterskins onto the way, packed some food, and came running behind in order to go put(?), when his wife came running behind him and gave him a stick to go with, which he should put down for help.
+Sentence: Sisini łäs ric’alini sikno roƛik’no, žeduqor ħaƛa teƛno.
+Gloss: other-DEF water-GEN1 IV-fill-ATTR-DEF waterskin-TOP IV-pull.out-PFV.CVB DEM1.IPL-POSS.LAT drink-INF give-PST.UNW
+Translation: He pulled out a skin filled with water and gave it to them to drink.
+
+Approximate Matches:

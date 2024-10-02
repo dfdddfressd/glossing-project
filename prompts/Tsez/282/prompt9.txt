@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bˤuqełno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bˤuqełno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xizyo šeyxä äƛiru šebin yisiz rok’ƛ’or raynosi ičiqeqełno.
+Gloss: afterwards sheikh-ERG say-PST.PRT thing DEM2.ISG.OBL-GEN2 heart-SUPER.LAT IV-come-ANT.CVB pause-PST.UNW
+Translation: Then he remembered what the sheikh had said and paused.

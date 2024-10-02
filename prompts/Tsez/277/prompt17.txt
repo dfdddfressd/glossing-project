@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħaƛun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħaƛun: 
+
+Exact Matches
+Sentence: Idur ayzaƛ’or sidä ħaƛun, sidä ħaƛun ža łi nesiqayn hemedurtow łiyrno.
+Gloss: home-LAT come-POST.CVB one.OBL-ERG drink-PFV.CVB one.OBL-ERG drink-PFV.CVB DEM1.SG water DEM1.ISG.OBL-POSS.ABL-and so-EMPH finish-PST.UNW
+Translation: When he went home, someone wanted to drink and another one wanted to drink, so this water was empty as well for him.
+Sentence: Idur ayzaƛ’or sidä ħaƛun, sidä ħaƛun ža łi nesiqayn hemedurtow łiyrno.
+Gloss: home-LAT come-POST.CVB one.OBL-ERG drink-PFV.CVB one.OBL-ERG drink-PFV.CVB DEM1.SG water DEM1.ISG.OBL-POSS.ABL-and so-EMPH finish-PST.UNW
+Translation: When he went home, someone wanted to drink and another one wanted to drink, so this water was empty as well for him.
+Sentence: Elo ža išno-utin, łin ħaƛun, elaygon bitor hunix oqno ik’in neł ɣˤanazaz baɣmoxor ayn.
+Gloss: there DEM1.SG eat-PFV.CVB water-TOP drink-PFV.CVB there-IN.ABL-CNTR thither way-AD.ESS become-PFV.CVB go-PFV.CVB DEM1.IISG.OBL woman-GEN2 garden-AD.LAT come-PST.UNW
+Translation: There he ate and drank the water, and went on on his way and came to that woman's garden.
+
+Approximate Matches:
+Sentence: K’ox äƛiru ħaƛunosin, hemedurtown yic’no.
+Gloss: again say-PST.PRT drink-ANT.CVB-TOP so-EMPH-TOP II-fill-PST.UNW
+Translation: When he drank once more, it filled itself again.
+Sentence: Dibirä eƛin, mužmarƛ’o yik’in hemeła kikxay mi łi ħaƛunäy, deber kid yadiƛin.
+Gloss: imam-ERG say-PST.UNW Friday-SUPER.ESS II-go-PFV.CVB DEM4.IISG.OBL spring-AD.ABL you water drink-CND.CVB you-LAT daughter II-do-QUOT
+Translation: The imam said: "When you go on Friday and drink water out of that spring, you will have a daughter."
+Sentence: Nesä xanqor eƛin, zam-zames łi ħaƛunay, saɣ oqno ciqqosi bełi iłe aq miƛin.
+Gloss: DEM1.ISG.OBL-ERG khan-POSS.LAT say-PST.UNW Zam-Zam-GEN1 water drink-CND.CVB cure become-PFV.CVB forest-POSS.ESS-ATTR deer as become you-QUOT
+Translation: He said to the king: "If you drink the holy water, you will get cured and become [as healthy] as a forest deer!"

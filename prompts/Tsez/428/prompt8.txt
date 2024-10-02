@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xander in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xander: 
+
+Exact Matches
+Sentence: Ɣˤutkun, ƛen rodin łiyzaƛ’, žoyä eniw k’ox äƛirugon kidno esirno xander yegirno.
+Gloss: house-and bridge-and III.PL-do-PFV.CVB end-CSL.CVB boy-ERG mother twice ORD-CNTR girl-TOP ask-PFV.CVB khan-APUD.LAT II-send-PST.UNW
+Translation: When the house and the bridge were finished, the boy sent his mother to the king a second time to ask for the girl.
+Sentence: Yiła q’orolagon yeda ʕAliqilič ayrno xander.
+Gloss: DEM2.IISG.OBL widow-ERG-CNTR DEM2.ISG Aliqilich bring-PFV.CVB khan-APUD.LAT
+Translation: And the widow brought Aliqilich to the king.
+Sentence: Ža aɣin bižin bełiqus uži xander ik’in.
+Gloss: DEM1.SG bird-TOP III-carry-PFV.CVB hunter-GEN1 son khan-APUD.LAT go-PST.UNW
+Translation: The hunter's son carried the bird to the king.
+
+Approximate Matches:
+Sentence: Sida quł Goqix kidno esirno xanderno bik’in zira eƛin:
+Gloss: one.OBL day-CONT.ESS Goqi-AD.ESS daughter-TOP ask-PFV.CVB khan-APUD.LAT-TOP III-go-PFV.CVB fox-ERG say-PST.UNW
+Translation: One day, the fox went to the king to ask for his daughter to be promised for Goqi, and said:
+Sentence: Howlo lilyoxtow yedan xecin, xanderno bik’in ziru c’ok’inayn:
+Gloss: there river.bank-AD.ESS-EMPH DEM2.ISG-and leave-PFV.CVB khan-APUD.LAT-and I.PL-go-PFV.CVB fox scold-PST.UNW
+Translation: When they left the river bank there and went to the king, the fox scolded:
+Sentence: Din ik’ixƛin, eƛin Ismaʕil izin xanderno ik’in, nukarłun di ukarƛin nesiq harizi rodin.
+Gloss: me-and go-PRS-QUOT say-PFV.CVB Ismail get.up-PFV.CVB khan-APUD.LAT-TOP go-PFV.CVB henchman-LHUN me appoint-QUOT DEM1.ISG.OBL-POSS.ESS request IV-do-PST.UNW
+Translation: "I will go as well!", said Ismail, went to the king and asked him: "Appoint me a henchman!"

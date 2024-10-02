@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xanzo in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xanzo: 
+
+Exact Matches
+Sentence: Siryos bet’erhanä q’ʷaridno oqno sadaq šebin ik’in ec’noni xanzo baruq esin.
+Gloss: mare-GEN1 master-ERG sadness-TOP become-PFV.CVB all thing go-PFV.CVB new-DEF khan-ATTR.OBL wife-POSS.ESS tell-PST.UNW
+Translation: The mare's master became sad and told the king's new wife how all the things happened.
+Sentence: Nesi xanzo raƛ’mar aynosi, ʕAt’idä naysinan xabaryabi regirno, di boƛ’araw unti saɣ boyxosi yołƛin.
+Gloss: DEM1.ISG.OBL khan-GEN2 land-LAT come-ANT.CVB Atid-ERG everywhere story-PL IV-send-PST.UNW me any illness cure III-do-PRS.PRT be-QUOT
+Translation: When coming onto the king's land, Atid spread the story everywhere: "I can cure any illness!"
+Sentence: Neł t’umä ža t’akan yižin xaneł purłäzan eqerno, elaygon bitor hawaƛ’ žedu biħada bik’ixozo xanzo akixor bik’in.
+Gloss: DEM1.IISG.OBL pigeon-ERG DEM1.SG glass II-carry-PFV.CVB khan-CONT.ESS side-CONT.VERS.DIST-TOP put-PFV.CVB there-IN.ABL-CNTR thither air-SUPER.ESS DEM1.IPL III-fight-INF III-go-PRS.PRT.OBL khan-GEN2 window-AD.LAT III-go-PST.UNW
+Translation: The pigeon carried this glass, put it next to the king and from there flew to the king's window, from which they went out to fight.
+
+Approximate Matches:
+Sentence: Sosi moƛaxay uži č’ariłno - tamaša oqno ƛexun yeda, xanzoƛ’aygon rigu ɣˤutku moƛaxay izizaƛ’or elo resuzaƛ’.
+Gloss: at.first sleep-AD.ABL boy wake.up-PST.UNW - be.surprised become-PFV.CVB remain-PFV.CVB DEM2.ISG khan-GEN2-SUPER.ABL-CNTR IV-pretty house sleep-AD.ABL get.up-POST.CVB there IV-find-CSL.CVB
+Translation: At first, the boy woke up from his sleep - he was surprised because he found the house to be prettier than even the king's one, when he got up.
+Sentence: Hemedurtow meɣyoqorno eƛin, xanzoq riłäsi mada ɣun roƛik’no.
+Gloss: so-EMPH udder-POSS.LAT-TOP say-PFV.CVB khan-GEN2-POSS.ESS IV-resemble-RES.PRT yard-IN.ESS tree IV-let.appear-PFV.CVB
+Translation: So he said to the udder, and let a tree appear in the yard that resembled the king's one.

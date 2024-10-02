@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yoƛixno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yoƛixno: 
+
+Exact Matches
+Sentence: Taxƛäzayn boƛixno, yisiłtow adäza łoħra ƛ’iräy qalno kurno, tełäzay bercinaw kid yoƛixno.
+Gloss: ottoman-SUB.ABL.DIST-TOP III-appear-PFV.CVB DEM2.ISG.OBL-CONT.ESS-EMPH before frog-ERG from.above skin-TOP spread.out-PFV.CVB inside-IN.ABL.DIST beautiful girl II-appear-PST.UNW
+Translation: From the ottoman, that frog appeared, teared off his skin and a beautiful girl appeared.
+Sentence: Haraƛ’ badirun, ɣˤanabin yoƛixno hemedurtow šebi retinƛin esirno eɣeni esiwq.
+Gloss: voice III-do-IMM.ANT.CVB woman-TOP II-appear-PFV.CVB so-EMPH what IV-want-PST.UNW-QUOT ask-PST.UNW young-DEF brother-POSS.ESS
+Translation: After he shouted, the woman appeared and again she asked the younger brother: "What do you want?"
+Sentence: Xizor utin yeda uži raładyoz raʕalłixor aynosi, yoƛixno łäłäzay neła ɣˤanaza esirno, šebi roqä däz esiws užiƛin.
+Gloss: back turn.back-PFV.CVB DEM2.ISG boy sea-GEN2 edge-AD.LAT come-ANT.CVB II-appear-PFV.CVB water-CONT.ABL.DIST DEM1.IISG.OBL woman-ERG ask-PST.UNW what IV-happen-PST.WIT.INT me-GEN2 sister-GEN1 boy-QUOT
+Translation: When the boy went back and came to the edge of the sea, that woman appeared out of the water again and asked: "What happened, my nephew?"
+
+Approximate Matches:
+Sentence: Elo yoƛi gogaƛ’ Okuƛin eƛixosi žek’u maħor oƛixno ičin.
+Gloss: there II-half meadow-SUPER.ESS Oku-QUOT say-PRS.PRT man outside appear-PFV.CVB be-PST.UNW
+Translation: There in the middle of the meadow, a man appeared who called himself Oku.
+Sentence: Sidadäza puƛ’aza ɣˤays iħu boƛixno, sidadäzagon łäs iħu boƛixno.
+Gloss: one.OBL-APUD.VERS.DIST side-SUPER.VERS.DIST milk-GEN1 river III-appear-PFV.CVB one.OBL-APUD.VERS.DIST-CNTR water-GEN1 river III-appear-PST.UNW
+Translation: On the one side a milk river appeared, and on the other side a water river appeared.
+Sentence: Suƛƛisi oƛixno k’oƛin ɣamasyayn uži oxin maħor ok’ełno, ža iqiranixƛin nesił xizaygon č’ariƛ’ zawruni xediwn k’oƛin.
+Gloss: suddenly-ATTR appear-PFV.CVB jump-PFV.CVB box-IN.ABL-TOP boy run.away-PFV.CVB outside escape-PFV.CVB DEM1.SG catch-MSD-AD.ESS-QUOT DEM1.ISG.OBL-CONT.ESS behind-CNTR wakeness-SUPER.ESS be.NPRS-PST.PRT-DEF husband-TOP run-PST.UNW
+Translation: Suddenly the boy jumped out of the box, ran outside and escaped; and in order to catch him ran the husband behind him, who was awake.

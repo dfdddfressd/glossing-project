@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yižix.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yižix
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yižix:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Užä ħit’ures iƛ’u nec’irxotow yižix yukaynosi, reƛ teƛxozoni bazarganä ža xizor oxirno.
+Gloss: boy-ERG pan-GEN1 bottom empty-IPFV.CVB-EMPH II-take.out-IPFV.CVB II-see-ANT.CVB meat sell-PRS.PRT.OBL-DEF merchant-ERG DEM1.SG back chase-PST.UNW
+Translation: When he saw that the boy was emptying the bottom of the pan, the meat-selling merchant chased him.
+Sentence: Žedu ret’uranƛin yeda oqnosi, oc’ino q’ˤano q’ˤim yołali aždaħä yok’ek’no yižix sis bercinaw kid yukayn.
+Gloss: DEM1.IPL III.PL-pull.out-FUT.DEF-QUOT DEM2.ISG begin-ANT.CVB ten two head be-ATTR dragon-ERG II-steal-PFV.CVB II-carry-IPFV.CVB one beautiful girl II-see-PST.UNW
+Translation: When he was just about to pluck them, he saw a twelve-headed dragon, which had kidnapped a beautiful girl.
+
+Approximate Matches:
+Sentence: Nesi užä yołi nˤoƛas ixinabi ric’no, ʕomoyƛ’no erno hunix oqno, dicegon žedu, ža nˤoƛugon łinar yižixƛin, nesiqor baƛ’ix bičiłin.
+Gloss: DEM1.ISG.OBL boy-ERG however ashes-GEN1 bag-PL IV.PL-fill-PFV.CVB donkey-SUPER.ESS-TOP put-PFV.CVB way-AD.ESS become-PFV.CVB how.much-CNTR DEM1.IPL DEM1.SG ashes-CNTR why II-carry-PRS-QUOT DEM1.ISG.OBL-POSS.LAT I.PL-scold-IPFV.CVB I.PL-be-CNC.CVB
+Translation: The boy however filled his bags with ashes, put them onto the donkey and went on his way, although they were scolding him much: "Why are you carrying these ashes?!"
+Sentence: Ža kid nesä yižixosi yałrułi Tawadir riyx zownanu.
+Gloss: DEM1.SG girl DEM1.ISG.OBL-ERG II-lead-PRS.PRT be-MSD Tavadi-LAT IV-know-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: Tavadi didn't know that this girl was the one he was going to marry.
+Sentence: Di dowdäɣor nexƛ’oräy, madazax zawruni ʕoloqza žeda žeduqor eƛix, Ražbadinłäy baħarčiƛinä eƛan, nesä nesix yižixosi baħaray šebi eƛa äynč’iru qazaqxo yegirxoƛin.
+Gloss: me you-APUD.VERS come-SIM.CVB yard-PL-AD.ESS be.NPRS-PST.PRT-DEF young.person-PL-ERG DEM1.IPL.OBL-ERG DEM1.IPL.OBL-POSS.LAT say-PRS Razhbadin-CONT.ABL brave.young.man-QUOT-Q say-FUT.DEF DEM1.ISG.OBL-ERG DEM1.ISG.OBL-AD.ESS II-lead-PRS.PRT fiancée what say-INF know-NEG.FUT.CVB-PST.PRT Georgian-AD.ESS II-send-PRS-QUOT
+Translation: When I came to you, the young people who were in their yards, were saying to each other: "Razhbadin is a brave young man, to send the bride he was to marry to an unknown Georgian."

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boƛixno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boƛixno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boƛixno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕAt’idä qaħłi begirzaƛ’or aħinyoƛ waħo gondu yič’inosi, tełäzay roč’iw łäs qˤuqˤu boƛixno.
+Gloss: Atid-ERG dawn III-let-POST.CVB rock-SUB.ESS below big.hole II-dig-ANT.CVB inside-IN.ABL.DIST IV-cold water-GEN1 stream III-appear-PST.UNW
+Translation: Atid digged a big hole under the rock before the dawn set in, and then a stream of cold water appeared from inside.
+Sentence: Taxƛäzayn boƛixno, yisiłtow adäza łoħra ƛ’iräy qalno kurno, tełäzay bercinaw kid yoƛixno.
+Gloss: ottoman-SUB.ABL.DIST-TOP III-appear-PFV.CVB DEM2.ISG.OBL-CONT.ESS-EMPH before frog-ERG from.above skin-TOP spread.out-PFV.CVB inside-IN.ABL.DIST beautiful girl II-appear-PST.UNW
+Translation: From the ottoman, that frog appeared, teared off his skin and a beautiful girl appeared.
+Sentence: Čanno suƛƛi boƛixno sis hil karun, bˤulamzałäy aħyałerno c’oxno łˤora k’onč’aƛ’or boxin bik’isƛin”, - žawab teƛno heresi mec esixoza.
+Gloss: deer-TOP suddenly III-appear-PFV.CVB one bullet throw-IMM.ANT.CVB hoof-PL-CONT.ABL ear-CONT.LAT-TOP hit-PFV.CVB three.OBL leg-SUPER.LAT III-run.away-PFV.CVB III-go-PST.WIT-QUOT - answer give-PST.UNW false language tell-PRS.PRT.OBL-ERG
+Translation: "A deer suddenly appeared and the bullet that was shot, hit it through the legs and pierced the ear, so it ran away on its three legs", answered the liar.
+
+Approximate Matches:
+Sentence: ƛ’iriɣor boƛixnosi, Bac’alä q’ˤimqo šebinon rok’no žan bexurno, nełqay ħoši boɣno.
+Gloss: above-IN.ALL III-appear-ANT.CVB Batsali-ERG head-POSS.ESS something III.PL-beat-PFV.CVB DEM1.SG-TOP III-kill-PFV.CVB DEM1.IISG.OBL-POSS.ABL hide III-take.away-PST.UNW
+Translation: When he appeared above, Batsali beated something over his head, killed him and took off his hide.

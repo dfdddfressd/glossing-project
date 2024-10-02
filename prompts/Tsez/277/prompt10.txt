@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word regirnosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word regirnosi: 
+
+Exact Matches
+Sentence: Magalu boɣanixƛin eženi žek’a ħoyäɣor reƛ’a regirnosi, Ħusenä yeda q’ˤiƛin tełxor kurno.
+Gloss: bread III-take.away-MSD-AD.ESS-QUOT old-DEF man-ERG oven-IN.VERS hand IV-let-ANT.CVB Hussein-ERG DEM2.ISG push-PFV.CVB inside-AD.LAT throw-PST.UNW
+Translation: When the old man let his hand into the oven in order to pull out the bread, Hussein pushed him inside.
+Sentence: Qema regirnosi, Bac’alägon harizi rodin, Allah, kuro däz ħirozaqor butniƛin.
+Gloss: rain IV-let-ANT.CVB Batsali-ERG-CNTR request IV-do-PST.UNW God throw-IMPR me-GEN2 shoulder-PL-POSS.LAT burka-QUOT
+Translation: When it had started to rain, Batsali requested: "God, throw a burka over my shoulders!"
+Sentence: Xizayn k’oƛin ʕoloqan žek’a elaɣor reƛ’a regirnosi, beč’ułno elazay micxirno, mesedno bayn.
+Gloss: from.behind-TOP run-PFV.CVB young man-ERG there-IN.VERS hand IV-let-ANT.CVB III-flow.out-PFV.CVB there-IN.ABL.DIST silver-and gold-and III-come-PST.UNW
+Translation: When the young man ran behind him and put his hand into there, silver and gold came out of there.
+
+Approximate Matches:
+Sentence: Hudayƛ’aygon hemedurtow ročyoxno icin egirnosi, ƛ’iri yałruni bełiqanzas q’ut’i boqno, žigoƛ’ay roč k’ek’erłin ela ža izirač’inƛin.
+Gloss: on.the.next.day so-EMPH rope-AD.ESS-TOP tie-PFV.CVB let-ANT.CVB above be-PST.PRT-DEF hunter-PL-GEN1 agreement III-become-PFV.CVB again-SUPER.ABL rope move-CAUS-CNC.CVB we(I).OBL-ERG DEM1.SG lift-NEG.FUT.DEF-QUOT
+Translation: The next day[time?], when they let him [down], tied to the rope, the hunters that were above, agreed: "When he moves the rope again, we won't lift him up."
+Sentence: Hudayzikogon ɣurox uži egirnosi, hemedurtow boƛixno aɣi užiqor xabaryayn:
+Gloss: the.next.day-CNTR cows-AD.ESS boy send-ANT.CVB so-EMPH III-appear-PST.UNW bird boy-POSS.LAT tell-PST.UNW
+Translation: The next day the boy was sent to pasture the cows, when the bird appeared again and told him:

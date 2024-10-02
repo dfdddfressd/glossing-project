@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Xizaɣorzo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Xizaɣorzo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Xizaɣorzo:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Howži Bilq’isdä nesiq esirno, howła xizaɣorzo zamanał mi łarnokin žukłi rodäsi zowwäƛin.
+Gloss: now Bilqisdi-ERG DEM1.ISG.OBL-POSS.ESS ask-PST.UNW DEM3.IISG.OBL finally-ATTR.OBL time-CONT.ESS you who.OBL-LAT-TOP-even evil IV-do-RES.PRT be.NPRS-PST.WIT.Q-QUOT
+Translation: Now Bilqisdi asked him: "Have you done anything evil to anyone lately?"
+Sentence: Howži tełxorno goƛ’in, neła nełaz xediwqor yiła eƛin, howła xizaɣorzo zamanał deber baqru q’ʷariłiłäy mi däq esoƛin.
+Gloss: now inside-AD.LAT-TOP invite-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 husband-POSS.LAT DEM2.IISG.OBL-ERG say-PST.UNW DEM3.IISG.OBL finally-ATTR.OBL time-CONT.ESS you-LAT III-happen-PST.PRT sadness-CONT.ABL you me-POSS.ESS tell-IMPR-QUOT
+Translation: Now she invited her own husband in and said: "Tell me about the bad things that had happened to you lately?"
+
+Approximate Matches:
+Sentence: Bešerxotow bižix zown neła xanes oz, xizaɣor ƛäxurubi boxin bok’ełno.
+Gloss: I.PL-fall-CAUS-IPFV.CVB-EMPH I.PL-take.out-IPFV.CVB be.NPRS-PFV.CVB DEM1.IISG.OBL khan-GEN1 army finally remain-PST.PRT-PL I.PL-run.away-PFV.CVB I.PL-escape-PST.UNW
+Translation: She took out and brought to fall that king's armies, and finally the remaining ones fled.
+Sentence: Sis elus ħon xecin nesä, q’ˤano žek’us ħon xecin, sis kero boɣno, q’ˤano kero boɣno xizaɣor xanes uži sida yeže gogaƛ’or ayn.
+Gloss: one we(I).OBL-GEN1 mountain leave-PFV.CVB DEM1.ISG.OBL-ERG two man-GEN1 mountain leave-PFV.CVB one ravine III-cross-PFV.CVB two ravine III-cross-PFV.CVB finally khan-GEN1 son one.OBL II-big meadow-SUPER.LAT come-PST.UNW
+Translation: He left our one mountain behind, left two other mountains behind, crossed one ravine, crossed two ravines and finally the prince came onto a big meadow.
+Sentence: Sosisi esinč’eyn bičin, xizaɣor esin, sis bercinaw ɣˤanabi ela gamiƛ’ozoni žek’ur teƛsiƛin.
+Gloss: at.first-ATTR tell-NEG.PST.CVB-and I.PL-remain-PFV.CVB finally tell-PST.UNW one beautiful woman we(I).OBL-ERG boat-SUPER.ESS-GEN2-DEF man-LAT sell-PST.WIT-QUOT
+Translation: At first they didn't tell, but finally they told: "We sold a beautiful woman to a sailor."

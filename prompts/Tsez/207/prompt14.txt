@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: dey.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": dey
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word dey:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neširu mežaɣor bizinosi, Ismaʕila q’ˤunełno roƛƛo bˤałayn erno eƛin nełqor, howłaq ged yitirłi debi meč’, dey bˤałayƛin.
+Gloss: evening mattress-IN.VERS I.PL-get-ANT.CVB Ismail-ERG two.OBL-CONT.ESS-TOP IV-middle dagger-TOP put-PFV.CVB say-PST.UNW DEM1.IISG.OBL-POSS.LAT DEM3.IISG.OBL-POSS.ESS shirt II-touch-CND.CVB.IRR you-GEN1 neck me-GEN1 dagger-QUOT
+Translation: In the evening, when they got onto the bed, Ismail put a dagger in the middle between the two and said to her: "If your shirt touches it, so will my dagger [touch] your neck."
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"
+
+Approximate Matches:

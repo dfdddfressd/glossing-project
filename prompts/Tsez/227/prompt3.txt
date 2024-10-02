@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ukrus in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ukrus: 
+
+Exact Matches
+Sentence: Yiła nełaq (ašunoq) harizi rodin där ukrus nak’ila yołäsi kid yodiroƛƛin.
+Gloss: DEM2.IISG.OBL-ERG DEM1.IISG.OBL-POSS.ESS belt-POSS.ESS request IV-do-PST.UNW me-LAT silver-GEN1 little.finger be-RES.PRT girl II-do-CAUS-OPT-QUOT
+Translation: She begged it (the rainbow), if she could get a girl with a silver pinkie.
+
+Approximate Matches:
+Sentence: Elo esnazar q’ˤidar beč’ułäsi ukrun, micxirno besun.
+Gloss: there brother-PL-LAT down-LAT III-flow.out-RES.PRT silver-and money-and III-find-PST.UNW
+Translation: There the brothers found the silver and money that had flown down.
+Sentence: Neła łera ukrułäy sis Žamaler teƛsi, sideni Arsener teƛsi, sidenigon Pat’imater teƛsi.
+Gloss: DEM1.IISG.OBL five.OBL silver-CONT.ABL one Jamal-LAT give-PST.WIT other Arsen-LAT give-PST.WIT other-CNTR Fatima-LAT give-PST.WIT
+Translation: Of those five silver (coins) I gave one to Jamal, another one to Arsen and another one to Fatima.
+Sentence: Allahes ħukmu nediw zownƛin šukrun bodin, nełaz ža q’aʕidaƛ’ yisä yizi buyn šušin, elaygon bitor ik’in.
+Gloss: God-GEN1 decision such be.NPRS-PST.UNW-QUOT patience-TOP III-do-PFV.CVB DEM1.IISG.OBL-GEN2 DEM1.SG manner-SUPER.ESS DEM2.ISG.OBL-ERG DEM2.IPL III-indeed-TOP bury-PFV.CVB there-IN.ABL-CNTR thither go-PST.UNW
+Translation: "So was Allah's decision.", he [said,] showed patience, burried them in its manner and went away from there.

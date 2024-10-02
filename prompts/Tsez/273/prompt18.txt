@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word atixosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word atixosi: 
+
+Exact Matches
+Sentence: Ismaʕilä eƛin, där moƛał yukayru kid yiqizaƛ’or, di ɣˤanazaq reƛ’a atixosi anuƛin.
+Gloss: Ismail-ERG say-PST.UNW me-LAT dream-CONT.ESS II-see-PST.PRT girl II-get-POST.CVB me woman-POSS.ESS hand touch-PRS.PRT be.NEG-QUOT
+Translation: Ismail said: "Until I get the girl that I saw in my dream, I will not lay hand on any woman."
+
+Approximate Matches:
+Sentence: Łˤora beciz bolžalyos hunice maqˤi deber yetixosi kid yoqłin, neł č’ikayär ezunäy, debeł ža adäz yičirxosi”.
+Gloss: three.OBL month-GEN2 period-GEN1 way-EQU1 far.away you-LAT II-love-PRS.PRT girl II-happen-CNC.CVB DEM1.IISG.OBL mirror-IN.LAT look-CND.CVB you-CONT.ESS DEM1.SG before II-be-CAUS-PRS.PRT
+Translation: "Even if the girl that you love is as far away as a 3 months' journey, when you look into that mirror, she will be put in front of you."
+Sentence: Xizyo ʕArabuzanä qot ric’no micxir teƛno nełaqor enłaƛ elur retixosi šebin risoƛin.
+Gloss: afterwards Arabuzan-ERG handfull IV-fill-PFV.CVB money give-PFV.CVB DEM1.IISG.OBL-POSS.LAT DEM3b.IISG.OBL-SUB.ESS we(I).OBL-LAT IV-want-PRS.PRT thing IV-buy-IMPR-QUOT
+Translation: Then Arabuzan gave her a handfull of money: "Buy the things we want with it!"
+Sentence: Hudu šebi di rodinäy xedyoxay bat’an yoqno där etixosi äqiƛin, esirno riynoxuq.
+Gloss: so what me IV-do-CND.CVB husband-AD.ABL seperation-TOP II-become-PFV.CVB me-LAT lover get-QUOT ask-PST.UNW sheikh-POSS.ESS
+Translation: "So what shall I do to get rid of my husband and get my lover?", she asked the sheikh.

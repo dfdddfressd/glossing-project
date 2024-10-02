@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: guluƛ’orno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": guluƛ’orno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word guluƛ’orno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yedagon et’un k’oƛin guluƛ’orno izin, xizazagon ħurženyabin ricin, q’ˤimƛ’ogon k’ukno erno elay bitor oxin.
+Gloss: DEM2.ISG-CNTR jump-PFV.CVB jump-PFV.CVB horse-SUPER.LAT-TOP get.up-PFV.CVB behind-IN.ESS-CNTR bag-PL-and III.PL-tie-PFV.CVB head-SUPER.ESS-CNTR cap-TOP put-PFV.CVB there-IN.ABL thither run.away-PST.UNW
+Translation: He, however, jumped onto the horse, tied the bags onto it, put the cap onto his head and rode away from there.
+Sentence: Elayn izin t’akanno yisno, et’un guluƛ’orno k’oƛin, elar bižin, t’ar bižin bigza ħalał žan akik’no, xizyo yižin xande t’akanno eqerno.
+Gloss: here-IN.ABL-TOP get.up-PFV.CVB glass-TOP II-take-PFV.CVB jump-PFV.CVB horse-SUPER.LAT-TOP jump-PFV.CVB there-IN.LAT III-lead-PFV.CVB thither III-lead-PFV.CVB III-very-ZA with.difficulties DEM1.SG-TOP tire-PFV.CVB afterwards II-carry-PFV.CVB khan-APUD.ESS glass-TOP put-PST.UNW
+Translation: He got up from there, took the glass and jumped onto a horse, lead it here and there, which tired him quite much, and then he carried the glass back and put it next to the king.
+Sentence: Bero beca baqruntow t’ay eli boxin bok’ła bayƛin yiłä äƛirun, bet’un guluƛ’orno k’oƛin, čuret’ bak’runtow, ʕoƛno ħonno xecin bitaɣor bok’ełno.
+Gloss: ice III-thaw-INF III-begin-IMM.ANT.CVB-EMPH from.here we I.PL-run.away-PFV.CVB I.PL-escape-INF I.PL-must-QUOT DEM2.IISG.OBL-ERG say-IMM.ANT.CVB I.PL-jump-PFV.CVB horse-SUPER.LAT-TOP jump-PFV.CVB whip III-beat-IMM.ANT.CVB-EMPH seven mountain-TOP go.up-PFV.CVB distance-IN.VERS I.PL-escape-PST.UNW
+Translation: "Immediately after the ice has begun to thaw, we must run away and escape from here!", she said and right away they jumped onto the horse, cracked the whip and immediately crossed the seven mountains and escaped into the distance.
+
+Approximate Matches:
+Sentence: Nedur resunäy, deber yätiruni kidbeł xizäy bik’an eliƛin, encetow k’ek’-yik’no yedu guluƛ’or yutin.
+Gloss: so IV-exist-CND.CVB you-LAT II-want-PST.PRT-DEF girl-CONT.ESS behind I.PL-go-FUT.DEF we-QUOT a.little-EMPH move-PFV.CVB DEM2.IISG horse-SUPER.LAT II-turn-PST.UNW
+Translation: "If that's the case, we will go behind the girl you want", she moved a little and then turned into a horse.
+Sentence: Biƛira putcegon kedonno yisno, yedan et’un guluƛ’or k’oƛin.
+Gloss: eight.OBL pood-EQU1-CNTR sledgehammer-TOP II-take-PFV.CVB DEM2.ISG-TOP jump-PFV.CVB horse-SUPER.LAT jump-PST.UNW
+Translation: He also took a sledgehammer of 8 pood and jumped onto his horse.
+Sentence: Xexłiƛ’ eƛin ɣˤʷaygon yałru qaciz guluƛ’or butirno.
+Gloss: quickness-SUPER.ESS say-PFV.CVB dog-CNTR be-PST.PRT firewood-GEN2 horse-SUPER.LAT III-turn-PST.UNW
+Translation: He quickly said [something] and what has been a dog transformed back into the wooden horse.

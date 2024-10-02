@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iči in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iči: 
+
+Exact Matches
+Sentence: Yisä yisir łˤora ɣudi bertenno erno, bercinawƛ’ay bercinawt’a kidbabin rukarno, howt’aytow barun yižoƛin harizin rodin, roƛik’u xanłin riso howt’otow uyn iči, mi iłe baħarči naynkin t’ok’ow elur äqinč’iƛin.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-LAT three.OBL day marriage-and put-PFV.CVB beautiful-SUPER.ABL beautiful-DISTR girl-PL-and II.PL-show-PFV.CVB from.here-EMPH wife-TOP II-take.out-IMPR-QUOT request-TOP IV-do-PFV.CVB IV-half khanate-TOP IV-take-IMPR here-EMPH just-TOP be you as brave.young.man from.nowhere anymore we(I).OBL-LAT get-NEG.FUT-QUOT
+Translation: He arranged a 3-day lasting marriage for him, presented girls that were prettier than pretty, "Choose a wife from here!", he begged, "Settle down here and take half of the kingdom, from nowhere will we ever get such a brave young man as you, anymore!"
+Sentence: Sabru bodin iči, zamanałäy debertow räyƛin”, - eniya eƛin.
+Gloss: patience III-do-PFV.CVB be time-CONT.ABL you-LAT-EMPH IV-know.FUTIND-QUOT - mother-ERG say-PST.UNW
+Translation: "Be patient, eventually you will know.", said the mother.
+Sentence: Nedur resunäy, mi di eƛixosi šebin teqerno iči.
+Gloss: so IV-exist-CND.CVB you me say-PRS.PRT thing listen.to-PFV.CVB be
+Translation: "If that's the case, listen carefully to what I am saying!
+
+Approximate Matches:

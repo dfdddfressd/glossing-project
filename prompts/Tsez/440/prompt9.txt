@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bexuräsi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bexuräsi: 
+
+Exact Matches
+Sentence: Elo azbarya teł ža ezu-ʕaƛ’unosi, taxeƛ yisir bexuräsi esnabi besun.
+Gloss: there palace-IN.ESS inside DEM1.SG examine-ANT.CVB ottoman-SUB.ESS DEM2.ISG.OBL-LAT I.PL-kill-RES.PRT brother-PL I.PL-find-PST.UNW
+Translation: When he examined inside the palace, he found his killed brothers under the ottoman.
+
+Approximate Matches:
+Sentence: Neł ʕaƛasi žamaʕattow yisir q’ʷariłiƛ’ bičäsi besun, ɣudes boc’ä, zeyza rexuräsit’a posu resuzaƛ’.
+Gloss: DEM1.IISG.OBL village-RES.PRT population-EMPH DEM2.ISG.OBL-LAT sadness-SUPER.ESS III-be-RES.PRT III-exist-PST.UNW daily wolf.PL-ERG bear-PL-ERG III.PL-kill-RES.PRT-DISTR cattle IV-find-CSL.CVB
+Translation: The population of the village was being sad because every day they found their cattle killed by wolves and bears.
+Sentence: Nełas uži ela exuräsi esunäy, bazarganzo čantasi t’aqˤ mežur ruqäsi räsu, neła exuräsi esunäy raɣˤäsi räsuƛin.
+Gloss: DEM1.IISG.OBL-GEN1 son we(I).OBL-ERG kill-RES.PRT exist-CND.CVB merchant-GEN2 pocket-IN.ESS-ATTR knife you(I).PL.OBL-LAT IV-close-RES.PRT IV-find DEM1.IISG.OBL-ERG kill-RES.PRT exist-CND.CVB IV-open-RES.PRT IV-exist-QUOT
+Translation: If we have killed her son, you will find the knife in the merchant's pocket closed, if she has killed him, it will be open.
+Sentence: Nełas uži ela exuräsi esunäy, bazarganzo čantasi t’aqˤ mežur ruqäsi räsu, neła exuräsi esunäy raɣˤäsi räsuƛin.
+Gloss: DEM1.IISG.OBL-GEN1 son we(I).OBL-ERG kill-RES.PRT exist-CND.CVB merchant-GEN2 pocket-IN.ESS-ATTR knife you(I).PL.OBL-LAT IV-close-RES.PRT IV-find DEM1.IISG.OBL-ERG kill-RES.PRT exist-CND.CVB IV-open-RES.PRT IV-exist-QUOT
+Translation: If we have killed her son, you will find the knife in the merchant's pocket closed, if she has killed him, it will be open.

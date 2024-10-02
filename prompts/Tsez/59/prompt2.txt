@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łˤono.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łˤono
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łˤono:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesis łˤono uži zown.
+Gloss: he.OBL-GEN1 three son be.NPRS-PST.UNW
+Translation: He had three sons.
+Sentence: Nesä neła bełis łˤono but’a yodix zown, sis but’a awarager, sis miskinzar, sideni q’ˤimä q’ˤimzo haq’ur iduɣor yowx zown.
+Gloss: DEM1.ISG.OBL-ERG DEM1.IISG.OBL hunting-GEN1 three part II-do-IPFV.CVB be.NPRS-PFV.CVB one part prophet-LAT one poor-PL-LAT the.other.one oneself-ERG oneself-GEN2 family-LAT home-IN.ALL II-bring-IPFV.CVB be.NPRS-PST.UNW
+Translation: He always made three parts of what he hunted, one part he gave to the prophet, one to the poor, and the other part he brought to his own family's home.
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.
+
+Approximate Matches:
+Sentence: Bišanon bišno, Kusaqor siskin xabar boynč’ey, łˤonon esnabi maħor boqno.
+Gloss: food-TOP III-eat-PFV.CVB Kusa-POSS.LAT any story III-do-NEG.PST.CVB three-TOP brother-PL outside I.PL-become-PST.UNW
+Translation: Having eaten their food, the three brothers went outside without having talked to Kusa.
+Sentence: Yedu Ismaʕiles qˤaƛu yołƛin, łˤonon barubi ret’un k’oƛin maħor roƛixno.
+Gloss: DEM2.IISG Ismail-GEN1 shout be-QUOT three-TOP wife-PL II.PL-jump-PFV.CVB run-PFV.CVB outside II.PL-appear-PST.UNW
+Translation: "That's Ismail's shouting!", the three wives ran outside.
+Sentence: Yedu kaɣat yaynosi, Ražbadinä łˤonon užin goƛ’in žeduł adäz t’et’erno.
+Gloss: DEM2.IISG letter II-come-ANT.CVB Razhbadin-ERG three-TOP son-TOP call-PFV.CVB DEM1.IPL.OBL-CONT.ESS before read-PST.UNW
+Translation: When the letter arrived, Razhbadin called his three sons and read it out to them.

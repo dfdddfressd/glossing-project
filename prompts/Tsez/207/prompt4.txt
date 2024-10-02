@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: k’icazał.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": k’icazał
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word k’icazał:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nazołno adäzagon kidbä sist’a nigaɣˤič’is t’it’u eqerno, mežuz k’icazał räk’iru reƛ roɣno enłaƛ’ eqroƛin.
+Gloss: all.OBL-CONT.ESS-TOP before-CNTR girl-ERG one.at.a.time cloth-GEN1 piece put-PST.UNW you(I).PL.OBL-GEN2 tooth-PL-CONT.ESS IV-go-PST.PRT meat IV-take.away-PFV.CVB DEM3b.IISG.OBL-SUPER.ESS put-IMPR-QUOT
+Translation: In front of everyone, the girl put a piece of cloth: "[Y'all] take the meat that is stuck between your teeth and put it on it."
+
+Approximate Matches:
+Sentence: Bełiqanza bayn bišʷa esirnosi, nesä raqru šebin esin, hemedur mamalayƛ’no zown, ruk’ice mešok’la yołäsi t’omce žek’un ayn, kinaw mežur radiru bišʷan rac’no ik’isƛin.
+Gloss: hunter-PL-ERG I.PL-come-PFV.CVB food ask-ANT.CVB DEM1.ISG.OBL-ERG IV-happen-PST.PRT thing tell-PST.UNW so rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB cubit-EQU1 moustache be-RES.PRT span-EQU1 man-TOP come-PFV.CVB entire you(I).PL.OBL-LAT IV-do-PST.PRT food-TOP IV-eat-PFV.CVB go-PST.WIT-QUOT
+Translation: When the hunters came and asked for food, he told what had happened: "So on a rooster came riding a man in the size of a span, with a moustache in the size of a cubit, ate up the entire food that I made for you, and went away."
+Sentence: Yaɣˤin tełer bezunosi, marɣalyos k’icu yołäsi užin esun, mesedyos žežu yołäsi kidno yesun.
+Gloss: II-open-PFV.CVB to.the.inside I.PL-look-ANT.CVB pearl-GEN1 tooth be-RES.PRT boy-and find-PFV.CVB gold-GEN1 ponytail be-RES.PRT girl-and II-find-PST.UNW
+Translation: When they opened it and looked inside, they found a boy with a pearl tooth and a girl with a golden ponytail.
+Sentence: Žubi bac’näy, debi ʕumru bexoräł, č’aɣˤir ašuƛ ricinäy, mi q’uwataw aq, däz lagiłäy boƛäxru zok’ice iyo lagiq biħinäy, mi łarnokin ukayxanusi aq.
+Gloss: liver III-eat-CND.CVB you-GEN1 life III-become.longer bowel waist-SUB.ESS IV-tie-CND.CVB you strong become me-GEN2 body-CONT.ABL III-appear-PST.PRT mug-EQU1 blood body-POSS.ESS III-smear-CND.CVB you who.OBL-LAT-TOP-even see-NEG.PRS.PRT become
+Translation: When you eat my liver, your life will become longer; if you tie my bowel around your waist, you will become strong; and when you smear blood from my body from the mug on your body, nobody will see you.

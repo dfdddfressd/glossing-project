@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Maħama in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Maħama: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Bˤeƛ’no adäz roc’no neširur iduɣor ik’iƛ’oräy, Alimaħamar teqno bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: sheep-TOP ahead III.PL-drive-PFV.CVB evening-LAT home-IN.ALL go-SIM.CVB Alimagomed-LAT hear-PST.UNW sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: When he drove the sheep home in the evening, Alimagomed heard them talking to each other.
+Sentence: Nełƛ’ay bigu eynodanix moči där anuƛin, Alimaħama razi oqno.
+Gloss: DEM1.IISG.OBL-SUPER.ABL III-good work-MSD-AD.ESS place me-LAT be.NEG-QUOT Alimagomed agree become-PST.UNW
+Translation: "There is no better place for me to work!", Alimagomed agreed.
+Sentence: Sebixasi zaman baynosi, Paxrudinä Alimaħamaqor eƛin, ixdaxor ɣutanłäzay ħonqaɣor bˤeƛ’ rownosi, bˤeƛ’q’uł xizay kami anusi ƛeli bayrnäy, boƛik’u reqen deber xeca yołƛin.
+Gloss: autumn-AD.ESS-RES.PRT time III-come-ANT.CVB Pakhrudin-ERG Alimagomed-POSS.LAT say-PST.UNW spring-AD.LAT winter.pasture-CONT.ABL.DIST mountain-POSS.VERS sheep III.PL-bring-ANT.CVB sheep-CONT.ESS behind get.lost be.NEG-ATTR lamb III-lead-CND.CVB half herd you-LAT leave-INF be-QUOT
+Translation: When fall came, Pakhrudin said to Alimagomed: "Until spring, after your brought the sheep to the mountains onto the winter pastures, if you lead a lamb that doesn't get lost behind every sheep, then I'll leave you half of the herd."

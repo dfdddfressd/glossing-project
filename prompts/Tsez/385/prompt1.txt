@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Babiyan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Babiyan: 
+
+Exact Matches
+Sentence: Sida quł babiyan, best’al eniyan yedu ʕaƛoz posurxo yegirno, qˤašder boƛik’u magalun erno.
+Gloss: one.OBL day-CONT.ESS father-ERG-and step mother-ERG-and DEM2.IISG village-GEN2 cattle-AD.ESS II-send-PFV.CVB dawn-APUD.LAT half bread-TOP put-PST.UNW
+Translation: One day the father and the stepmother sent her to the village's cattle, preparing for her half of the bread for lunch.
+Sentence: Užä eƛin, Allahä didurƛa caxäsi resan, däz babiyan ƛirba ayruxort’a bˤeƛ’es šebin rexayx zows, sida qułkin ža bišan kamin (giħiłno) ƛexunč’u ža, din hemedurtow ƛäxunč’iƛin.
+Gloss: boy-ERG say-PST.UNW God-ERG how-INDEF write-RES.PRT IV-find-FUT.DEF me-GEN2 father-ERG-and guest come-PST.PRT-AD.LAT-DISTR sheep-GEN1 thing IV-slaughter-IPFV.CVB be.NPRS-PST.WIT one.OBL day-CONT.ESS-even DEM1.SG food-TOP get.lost-PFV.CVB be.lacking-PFV.CVB remain-NEG.PST.WIT DEM1.SG me-and so-EMPH remain-NEG.FUT-QUOT
+Translation: The boy said: "God might have written it somehow; my father used to slaughter a sheep for every guest who came, and he wasn't without food for even a day; so I will be as well."
+Sentence: C’aq’ req’ezi roqxo, dey kidƛin, babiyan žawab teƛno.
+Gloss: much approach IV-become-PRS me-GEN1 daughter-QUOT father-ERG-TOP answer give-PST.UNW
+Translation: "It fits very well, my daughter", answered the father.
+
+Approximate Matches:
+Sentence: Hemedur q’ˤunesno micxirno łiyn, babiya žarƛin c’unzi rodin xecin zawruni micxiryosno, mesedyosno ixinno łiyrno yizä.
+Gloss: so two.OBL-GEN1-TOP money-TOP end-PFV.CVB dad-ERG son-LAT-QUOT guard IV-do-PFV.CVB leave-PFV.CVB be.NPRS-PST.PRT-DEF money-GEN1-and gold-GEN1-and bag-TOP finish-PFV.CVB DEM2.IPL-ERG
+Translation: So the two guys' money was finished, and the bag of money and gold that the father left for his son they finished as well.
+Sentence: Idur Ražbadin aynosi, kidbez babiya nesił adäza bišʷa ħaƛin.
+Gloss: home-LAT Razhbadin come-ANT.CVB girl-GEN2 dad-ERG DEM1.ISG.OBL-CONT.ESS before food organize-PST.UNW
+Translation: When Razhbadin went to the home, the girl's father put food before him.
+Sentence: Šida ɣuro kamiräƛin, babiya dahaw ʕedeʕizi oynosi, moƛa iqirno ƛexun diƛin, babiwq heresi mec yesa bayn.
+Gloss: why cows lose-PST.WIT.INT-QUOT father-ERG a.little hurrying do-ANT.CVB sleep-IN.ESS take.away-PFV.CVB remain-PST.UNW me-QUOT father-POSS.ESS false language II-tell-INF III-must-PST.UNW
+Translation: "Why have you lost the cows?", the father scolded a little, so he had to tell his father the lie the he had fallen asleep.

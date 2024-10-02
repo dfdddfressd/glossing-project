@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: t’akan.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": t’akan
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word t’akan:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neširu xanä elo nasin sidaɣor butirnosi, xanä eƛin, di łi ħaƛuxosi t’akan sasaqor howt’or yayäru žek’ux kid yegira yołƛin.
+Gloss: evening khan-ERG there all one.OBL-IN.VERS I.PL-gather-ANT.CVB khan-ERG say-PFV.CVB me water drink-PRS.PRT glass tomorrow-POSS.LAT here-LAT II-bring-PST.PRT man-AD.ESS daughter II-send-INF be-QUOT
+Translation: In the evening the king gather everyone together and said: "I will marry my daughter off to the man who can bring my water-drinking-glass here tomorrow!"
+Sentence: Xanes wazir č’ariłno puħo t’akan yukaynosi, nesis cim bizin, łu yedu mesedyos t’akan t’or yayrnoƛin.
+Gloss: khan-GEN1 vizier wake.up-PFV.CVB next.to glass II-see-ANT.CVB DEM1.ISG.OBL-GEN1 malice III-get.up-PFV.CVB who.ERG DEM2.IISG gold-GEN1 glass here-LAT II-bring-PST.UNW-QUOT
+Translation: When the king's vizier woke up and saw the glass at his side, he became angry[ and asked]: "Who brought this golden glass here?"
+Sentence: Xanes wazir č’ariłno puħo t’akan yukaynosi, nesis cim bizin, łu yedu mesedyos t’akan t’or yayrnoƛin.
+Gloss: khan-GEN1 vizier wake.up-PFV.CVB next.to glass II-see-ANT.CVB DEM1.ISG.OBL-GEN1 malice III-get.up-PFV.CVB who.ERG DEM2.IISG gold-GEN1 glass here-LAT II-bring-PST.UNW-QUOT
+Translation: When the king's vizier woke up and saw the glass at his side, he became angry[ and asked]: "Who brought this golden glass here?"
+
+Approximate Matches:
+Sentence: Elayn izin t’akanno yisno, et’un guluƛ’orno k’oƛin, elar bižin, t’ar bižin bigza ħalał žan akik’no, xizyo yižin xande t’akanno eqerno.
+Gloss: here-IN.ABL-TOP get.up-PFV.CVB glass-TOP II-take-PFV.CVB jump-PFV.CVB horse-SUPER.LAT-TOP jump-PFV.CVB there-IN.LAT III-lead-PFV.CVB thither III-lead-PFV.CVB III-very-ZA with.difficulties DEM1.SG-TOP tire-PFV.CVB afterwards II-carry-PFV.CVB khan-APUD.ESS glass-TOP put-PST.UNW
+Translation: He got up from there, took the glass and jumped onto a horse, lead it here and there, which tired him quite much, and then he carried the glass back and put it next to the king.
+Sentence: Elayn izin t’akanno yisno, et’un guluƛ’orno k’oƛin, elar bižin, t’ar bižin bigza ħalał žan akik’no, xizyo yižin xande t’akanno eqerno.
+Gloss: here-IN.ABL-TOP get.up-PFV.CVB glass-TOP II-take-PFV.CVB jump-PFV.CVB horse-SUPER.LAT-TOP jump-PFV.CVB there-IN.LAT III-lead-PFV.CVB thither III-lead-PFV.CVB III-very-ZA with.difficulties DEM1.SG-TOP tire-PFV.CVB afterwards II-carry-PFV.CVB khan-APUD.ESS glass-TOP put-PST.UNW
+Translation: He got up from there, took the glass and jumped onto a horse, lead it here and there, which tired him quite much, and then he carried the glass back and put it next to the king.
+Sentence: Xizyo xanä kidbeq esirnosi, t’akanyoł xizay howda wazir idur ayäƛin, ža wazir aynč’u, enda aysƛin, ganƛ’o zowali uži ukarno.
+Gloss: afterwards khan-ERG daughter-POSS.ESS ask-ANT.CVB glass-CONT.ESS behind DEM3.SG vizier home-LAT come-PST.WIT.INT-QUOT DEM1.SG vizier come-NEG.PST.WIT DEM3b.SG come-PST.WIT-QUOT bull.calf-SUPER.ESS be.NPRS-ATTR boy show-PST.UNW
+Translation: Then, when the king asked his daughter: "Did this vizier come home for the glass?", [she said:] "This vizier didn't come, he came!" and showed him the boy on the bull calf.

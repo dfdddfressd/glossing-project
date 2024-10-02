@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Hemełƛ’otown.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Hemełƛ’otown
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Hemełƛ’otown:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hemełƛ’otow bik’in žeda žedu esnazaq esin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS-EMPH I.PL-go-PFV.CVB DEM1.IPL.OBL-ERG DEM1.IIPL.OBL sister-PL-POSS.ESS tell-PST.UNW
+Translation: Immediately they went and told those sisters of this.
+Sentence: Hemełƛ’otow xanä nukar egirno, bełiquz žał xizay.
+Gloss: DEM4.IISG.OBL-SUPER.ESS-EMPH khan-ERG henchman send-PST.UNW hunter-GEN2 son-CONT.ESS behind
+Translation: Upon that the king sent a henchman after the hunter's son.

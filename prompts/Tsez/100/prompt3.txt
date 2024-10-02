@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣudes.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣudes
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣudes:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ist’olowä äsuruni q’ebedzo užä eƛin, ɣudes ʕazart’a ɣuruš yiqixozo mečoƛ’or mi di egiranƛin.
+Gloss: dining.room-IN.ESS find-PST.PRT-DEF smith-GEN2 son-ERG say-PST.UNW daily thousand-DISTR ruble II-get-PRS.PRT.OBL place-SUPER.LAT you me let-FUT.DEF-QUOT
+Translation: The smith's son said to the one he found in the dining room: "I'll send you to a place where you can get thousand rubles a day."
+Sentence: Mamalay ɣudes ciqaɣor qaciƛ’or bik’ix zown, onoču iduza beynoyx, iduzasi royx bičix zown.
+Gloss: rooster daily forest-IN.VERS firewood-SUPER.LAT III-go-IPFV.CVB be.NPRS-PFV.CVB hen home-ZA III-work-IPFV.CVB home-ZA-ATTR IV-do-PRS III-be-PRS be.NPRS-PST.UNW
+Translation: Every day the rooster went into the forest for firewood, and the hen was at home doing the housework.
+Sentence: Žedu esnabi ɣudes bełiƛ’t’a bik’ix zown.
+Gloss: DEM1.IPL.OBL brother-PL daily hunting-SUPER.ESS-DISTR I.PL-go-IPFV.CVB be.NPRS-PST.UNW
+Translation: Every day the brothers went hunting.
+
+Approximate Matches:
+Sentence: Oč’ino mučari ɣudest’a rac’zaƛ’,
+Gloss: nine cumin daily-DISTR IV-eat-CSL.CVB
+Translation: Because you ate nine cumin cakes a day,

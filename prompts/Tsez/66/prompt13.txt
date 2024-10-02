@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nełastow.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nełastow
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nełastow:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyogon Bilq’isdider nesi eženis łˤonon užibin bayn, xanez madaxosini žek’un, nełastow xediwn, xedyosgon esiwn.
+Gloss: then Bilqisdi-APUD.LAT DEM1.ISG.OBL old-DEF-GEN1 three-TOP son-PL-and I.PL-come-PST.UNW khan-GEN2 gate-AD.ESS-ATTR-DEF man-and DEM1.IISG.OBL-GEN1-EMPH husband-and husband-GEN1-CNTR brother-and
+Translation: Then to Bilqisdi came the three sons of the old man, and the king's guard, her husband and her husband's brother.
+Sentence: C’iɣruk’ä yeɣeni kidbes iyos q’ut’un bic’no, nełastow ħamorok’un roɣno adäz eqerno, maqˤäytow aždaħqor qˤaƛin, biša ħaƛis, howži idur bik’iƛin.
+Gloss: Tsighruk-ERG II-young-DEF daughter-GEN1 blood-GEN1 earthen.jug-TOP III-fill-PFV.CVB DEM1.IISG.OBL-GEN1-EMPH breast-TOP IV-take.away-PFV.CVB ahead put-PFV.CVB far.away-IN.ABL-EMPH dragon-POSS.LAT shout-PST.UNW food organize-PST.WIT now home-LAT III-go-QUOT
+Translation: Tsighruk filled the youngest daughter's blood into an earthen jug, took her breast and put it before himself and shouted from far away to the dragon: "I organized the food, now I'm going home!"
+
+Approximate Matches:
+Sentence: Däq nełas baha bäziƛin užä eƛinosi, yiła yeda idur kidbeder ayrno.
+Gloss: me-POSS.ESS DEM1.IISG.OBL-GEN1 price III-get-QUOT boy-ERG say-ANT.CVB DEM2.IISG.OBL-ERG DEM2.ISG home-LAT girl-APUD.LAT lead-PST.UNW
+Translation: "I will be able to afford its price.", the boy said, and she led him home to the girl.
+Sentence: Mi nełas rask’i urɣel badinƛin, sida q’urec’niƛ’ ƛ’iri ixin erno, hisos urgubi äruni sideni q’urec’niƛ’ ƛ’iri yeda zowerno.
+Gloss: you DEM1.IISG.OBL-GEN1 no.at.all sorrow III-do-PROHIB-QUOT one.OBL mule-SUPER.ESS on bag put-PFV.CVB spring.wool-GEN1 sack-PL put-PST.PRT-DEF other mule-SUPER.ESS on DEM2.ISG seat-PST.UNW
+Translation: "Don't worry!", they put his bag onto the mule and seated him on the other mule that carried the sacks of wool.
+Sentence: Ozuri c’axrun kidber riyn ža nełas bašiqˤoy yałrułi.
+Gloss: eye hit-IMM.ANT.CVB girl-LAT IV-know-PST.UNW DEM1.SG DEM1.IISG.OBL-GEN1 ring be-MSD
+Translation: When the girl saw it, she immediately knew that it was her ring.

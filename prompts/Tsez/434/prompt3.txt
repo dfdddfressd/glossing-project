@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word baq’ˤu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word baq’ˤu: 
+
+Exact Matches
+Sentence: Mečołer raynosi, boƛƛo baq’ˤu zaman bik’izaƛ’ortow, zira im-m-m-m, im-m-m-mƛin eƛin.
+Gloss: field-CONT.LAT III.PL-come-ANT.CVB III-middle III-much time I.PL-go-POST.CVB-EMPH fox-ERG mhmhmh mhmhmh-QUOT say-PST.UNW
+Translation: After coming to the field, not much time passed until the fox said: "Mhmhmh, mhmhmh!"
+Sentence: Neła quł neširu yizirabi kecno baq’ˤu mix bik’izaƛ’ortow, Tawadis uži ayn.
+Gloss: DEM1.IISG.OBL day-CONT.ESS evening DEM2.PL sleep-PFV.CVB III-much time III-go-POST.CVB-EMPH Tavadi-GEN1 son come-PST.UNW
+Translation: On the same evening, before they slept too long, Tavadis son came.
+Sentence: Boƛƛo baq’ˤu zaman bik’izaƛ’ortow, babiwn exun, ža uži sisxoli ƛexun.
+Gloss: III-middle III-much time III-go-POST.CVB-EMPH father-TOP die-PFV.CVB DEM1.SG son alone remain-PST.UNW
+Translation: Before much time has passed, the father died and the son remained alone.
+
+Approximate Matches:
+Sentence: Łiƛa yoł eludeƛin, - yizä yizis q’ʷariłi esin, - amma nełaƛ’ ƛ’iri aždaħ baq’ˤułno bičäsi yoł.
+Gloss: water-INDEF be we(I).OBL-APUD.ESS-QUOT - DEM2.IPL.OBL-ERG DEM2.IPL.OBL-GEN1 sadness tell-PST.UNW - but DEM1.IISG.OBL-SUPER.ESS above dragon III-cover-PFV.CVB III-be-RES.PRT be
+Translation: "We have some water", they told with grief, "but a dragon is covering it."
+Sentence: Sida quł ʕaƛoz xalq’imoq łin rixra regirinč’ey, sida kikƛ’o aždaħ baq’ˤułno.
+Gloss: one.OBL day-CONT.ESS village-GEN2 people-POSS.ESS water-TOP IV-take-INF IV-let-NEG.PST.CVB one.OBL spring-SUPER.ESS dragon III-cover-PST.UNW
+Translation: One day, a dragon covered a spring and didn't let the people of the village fetch water.
+Sentence: Suƛƛi teł iduɣor aqruntow yisä yiłaq ħaƛanix łi esirnosi, lamusno yoqno eƛin, deber idu ħaƛanix łi anu, t’o kikƛ’o aždaħ baq’ˤułäsi yoł, ɣudes nełar yac’anix q’ˤimaku teƛinč’inäy, neła yiła ʕaƛor łi regirxosi anu.
+Gloss: immediately inside home-IN.ALL become-IMM.ANT.CVB-EMPH DEM2.ISG.OBL-ERG DEM2.IISG.OBL-POSS.ESS drink-MSD-AD.ESS water ask-ANT.CVB conscience-TOP II-become-PFV.CVB say-PST.UNW you-LAT home drink-MSD-AD.ESS water be.NEG here spring-SUPER.ESS dragon III-sit-RES.PRT be daily DEM1.IISG.OBL-LAT II-eat-MSD-AD.ESS grown.up give-NEG.FUT.CVB-CND.CVB DEM1.IISG.OBL-ERG DEM2.IISG.OBL village-LAT water IV-let-PRS.PRT be.NEG
+Translation: Immediately after coming into the house, he asked her for water to drink, and .......... she said: "You can't drink water here at home, there is a dragon sitting on the spring, and every day if someone doesn't give him a grown-up to eat, he won't let water to the village."

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: hemedur.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": hemedur
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word hemedur:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nesi žaz babiya sidaquł q’orol ɣˤanabin yiqirno nełaq esin, hemedur ɣudƛ’ay ɣudƛ’or dey uži ħalaq’ oqxo ik’ixƛin.
+Gloss: DEM1.ISG.OBL boy-GEN2 father-ERG one.day widowed woman-TOP II-find-PFV.CVB DEM1.IISG.OBL-POSS.ESS tell-PST.UNW so day-SUPER.ABL day-SUPER.LAT me-GEN1 boy meager become-IPFV.CVB go-PRS-QUOT
+Translation: One day the boy's father found a widow and told her that his boy is becoming meager day by day.
+Sentence: Bišƛ’oräytow nesä kidbez babiwqor xabar boƛik’no, hemedur sis beže q’ʷariʕelno dowqor keze boqno, mi ža t’ubazi badiƛin debeƛ’ rok’un rayn nexäsi yoł di dowderƛin.
+Gloss: I.PL-eat-SIM.CVB-EMPH DEM1.ISG.OBL-ERG girl-GEN2 father-POSS.LAT story III-push.out-PFV.CVB so one III-big necessity-TOP you-POSS.LAT meet III-become-PFV.CVB you DEM1.SG fulfill III-do-QUOT you-SUPER.ESS heart-TOP IV-come-PFV.CVB come-RES.PRT be me you-APUD.LAT-QUOT
+Translation: While they were eating, he started a conversation with the girl's father: "So there is a big necessity you have to do, and I have come to you and am convinced you can fulfill it."
+Sentence: Däq hemedur eƛin rok’łinč’us yołiƛin, eƛin qartayä, di mi aħirno, ešayn ac’a zowsƛin.
+Gloss: me-POSS.ESS so say-PST.UNW heart-NMLZ-NEG.PST.WIT-ATTR if-QUOT say-PST.UNW witch-ERG me you cook-CAUS-PFV.CVB bake-PFV.CVB eat-INF be.NPRS-PST.WIT-QUOT
+Translation: "If I hadn't said so," the with said, "I would've cooked, baked and eaten you!"
+
+Approximate Matches:
+Sentence: Qˤišodes zaman baynosin hemedurtow ičin Q’arum.
+Gloss: dinner-GEN1 time III-come-ANT.CVB-TOP so-EMPH be-PST.UNW Qarum
+Translation: And when the time for dinner came, Qarum was likewise.
+Sentence: Baq’ˤu mix bik’izaƛ’orgon hemedurtow weeƛirno zeyä cek’i.
+Gloss: III-much time III-go-POST.CVB-CNTR so-EMPH bleat-CAUS-PST.UNW bear-ERG goat.kid
+Translation: After quite some time has passed, the bear caused the goat kid to bleat again.
+Sentence: Hudayzikon uži besurozaƛ’or ik’in, hemedurtow biqinč’ey aynosi, babiw igza ħalał aƛ’in.
+Gloss: the.next.day-TOP boy fish-PL-SUPER.LAT go-PFV.CVB so-EMPH III-get-NEG.PST.CVB come-ANT.CVB father well-ZA with.difficulties scold-PST.UNW
+Translation: The next day when the boy went after fish again, didn't catch any either and came back, the father scolded him pretty much.

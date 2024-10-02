@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yetäsi using Leipzig glossing symbols. The sentence this word is drawn from means: "By God, I wanted to have someone make a box for so long!".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yetäsi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yetäsi:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Howži xaner retäsi zown neła aɣez bikyos boko bodanix.
+Gloss: now khan-LAT IV-want-RES.PRT be.NPRS-PST.UNW DEM1.IISG.OBL bird-GEN2 hide-GEN1 fur.coat III-do-MSD-AD.ESS
+Translation: Now the king wanted to make a coat out of that bird's hide.
+Sentence: Zamanałäy neła ɣˤanazas xediwn, nesisgon užin ozno bižin ƛˤoreł bik’inosi, nełar retäsi zown best’alawni kid elo iday yok’ek’anix.
+Gloss: time-CONT.ABL DEM1.IISG.OBL woman-GEN1 husband-and DEM1.ISG.OBL-GEN1-CNTR son-and army-and I.PL-lead-PFV.CVB war-CONT.ESS I.PL-go-ANT.CVB DEM1.IISG.OBL-LAT IV-want-RES.PRT be.NPRS-PFV.CVB step-DEF daughter there home-IN.ABL II-remove-MSD-AD.ESS
+Translation: After some time, after the woman's husband, his son and the army went to war, she wanted to remove the step-daughter from their home.
+Sentence: Sis zown c’aq’tow sider sis betäsi užin kidno.
+Gloss: one be.NPRS-PST.UNW very-EMPH one.OBL-LAT one I.PL-love-RES.PRT boy-and girl-and
+Translation: Once there was a boy and a girl who loved each other very much.

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word eqroƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word eqroƛin: 
+
+Exact Matches
+Sentence: Adäz riłetow muhumabin teƛno egirno šibawz akä eqroƛin.
+Gloss: before IV-as-EMPH granule-PL-TOP give-PFV.CVB send-PST.UNW every-GEN2 window-IN.ESS put-IMPR-QUOT
+Translation: As before, she gave him grains and sent him away[, saying]: "Put those in every window!"
+Sentence: Q’orola xanqo mołin, c’ohor nexxozo mečoƛ’ mi nucos bic’äsi q’ili eqroƛin.
+Gloss: widow-ERG khan-POSS.ESS teach-PST.UNW thief come-PRS.PRT.OBL place-SUPER.ESS you honey-GEN1 III-fill-RES.PRT qili put-IMPR-QUOT
+Translation: The widow explained to the king: "Put a pot filled with honey to the place the thief came to."
+Sentence: Nazołno adäzagon kidbä sist’a nigaɣˤič’is t’it’u eqerno, mežuz k’icazał räk’iru reƛ roɣno enłaƛ’ eqroƛin.
+Gloss: all.OBL-CONT.ESS-TOP before-CNTR girl-ERG one.at.a.time cloth-GEN1 piece put-PST.UNW you(I).PL.OBL-GEN2 tooth-PL-CONT.ESS IV-go-PST.PRT meat IV-take.away-PFV.CVB DEM3b.IISG.OBL-SUPER.ESS put-IMPR-QUOT
+Translation: In front of everyone, the girl put a piece of cloth: "[Y'all] take the meat that is stuck between your teeth and put it on it."
+
+Approximate Matches:
+Sentence: Puħorno goƛ’in, neširu babiya žaqor eƛin, howži mi bełiƛ’ ik’ace oqäsi oqzaƛ’ di ɣˤaɣˤu izäsi yoł, hudun mi dey sis ʕaq’lu teqroƛin.
+Gloss: side-AD.LAT-TOP call-PFV.CVB evening father-ERG son-POSS.LAT say-PST.UNW now you hunting-SUPER.ESS go-TERM become-RES.PRT become-CSL.CVB me be.happy get-RES.PRT be nevertheless you me-GEN1 one advice listen.to-IMPR-QUOT
+Translation: In the evening the father called his son to his said and told him, "I am happy that you have grown to be able to go hunting, nevertheless listen to one advice!

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ƛexun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ƛexun: 
+
+Exact Matches
+Sentence: Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.
+Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW
+Translation: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.
+Sentence: Hag oqno ƛexun ečruni žek’u.
+Gloss: amazingly become-PFV.CVB remain-PFV.CVB old-DEF man
+Translation: The old man was amazed.
+Sentence: T’omceni žek’us bełiqaner nasin ric’q’in ƛexun, barułungon nesis kidno yown, maʕišat bodix howlotow žan ičin.
+Gloss: span-EQU1-DEF man-GEN1 hunter-LAT all wealth-TOP remain-PFV.CVB wifehood-TOP-CNTR DEM1.ISG.OBL-GEN1 daughter-TOP II-marry-PFV.CVB fortune III-do-IPFV.CVB there-EMPH DEM1.SG-TOP live-PST.UNW
+Translation: All the span-sized man's wealth remained for the hunter, he married his daughter, and lived there making a great fortune.
+
+Approximate Matches:
+Sentence: Roƛƛ’o q’ˤanogon anƛ’ rik’inosi, hemedurtow riyrinč’ey rekan riqirno, dice reƛ ƛexunƛin xal bodinosi, sida quł rac’ace ƛexasi resun.
+Gloss: IV-half-SUPER.ESS two-CNTR week IV-go-ANT.CVB so-EMPH IV-explain-NEG.PST.CVB key-TOP IV-take.away-PFV.CVB how.much meat remain-PFV.CVB-QUOT examination III-do-ANT.CVB one.OBL day-CONT.ESS IV-eat-TERM remain-RES.PRT IV-find-PST.UNW
+Translation: After two weeks had passed, he took the key away without letting her know in the same way, and took a look how much meat would remain, and he found that it would remain to eat for one day.
+Sentence: Šida mi yaqˤułgon at’iw qaca rayräƛin onoču c’ok’inayzaƛ’, mamalayä di kecno ƛexunƛint’a žawab teƛxo zown.
+Gloss: why you today-CNTR wet firewood IV-bring-PST.WIT.INT-QUOT hen scold-CSL.CVB rooster-ERG me sleep-PFV.CVB remain-PFV.CVB-QUOT-DISTR answer give-IPFV.CVB be.NPRS-PST.UNW
+Translation: When the hen scolded: "Why have you brought wet firewood again, today?", the rooster answered that he slept in.
+Sentence: Kecno ƛexunƛin”, - eƛin mamalayä.
+Gloss: sleep-PFV.CVB remain-PST.UNW-QUOT - say-PST.UNW rooster-ERG
+Translation: "I slept in", said the rooster.

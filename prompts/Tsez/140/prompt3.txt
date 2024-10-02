@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: beže.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": beže
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word beže:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Esnaza eƛin, mi äxuzay iłe izin ayzaƛ’, debez ħurmatyoxay ela beže bertenno bodin sis kid debex yowa yoł.
+Gloss: brother-PL-ERG say-PFV.CVB you die-SIM.CVB as get.up-PFV.CVB come-CSL.CVB you-GEN2 respect-AD.ABL we(I).OBL-ERG III-big marriage-TOP III-do-PFV.CVB one girl you-AD.ESS II-marry-INF be
+Translation: The brothers said: "Because you came back like from the dead, we will organize a big marriage out of respect for you and marry of a girl to you.
+Sentence: Yisä užin bogmoƛ’ goƛ’in, nesir beže barkalan bodin, ganin teƛno egirno.
+Gloss: DEM2.ISG.OBL-ERG boy-TOP meal-SUPER.ESS call-PFV.CVB DEM1.ISG.OBL-LAT III-big thank-TOP III-do-PFV.CVB bull.calf-TOP give-PFV.CVB let-PST.UNW
+Translation: He invited the boy for dinner, thanked him thoroughly, gave him one bull and let him go.
+Sentence: Sis zown beže, oc’ira łˤora kilometra bexora is.
+Gloss: one be.NPRS-PST.UNW III-big ten.OBL three.OBL kilometer-ERG lengthy bull
+Translation: There was a 13 kilometer long ox.
+
+Approximate Matches:

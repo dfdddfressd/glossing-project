@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Iš-utin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Iš-utin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elo ža išno-utin, łin ħaƛun, elaygon bitor hunix oqno ik’in neł ɣˤanazaz baɣmoxor ayn.
+Gloss: there DEM1.SG eat-PFV.CVB water-TOP drink-PFV.CVB there-IN.ABL-CNTR thither way-AD.ESS become-PFV.CVB go-PFV.CVB DEM1.IISG.OBL woman-GEN2 garden-AD.LAT come-PST.UNW
+Translation: There he ate and drank the water, and went on on his way and came to that woman's garden.
+Sentence: Elay bitor išno-utin ik’inosi, hemełtow azbaryoxor ayn.
+Gloss: there-IN.ABL thither eat-PFV.CVB go-ANT.CVB DEM4.IISG.OBL-EMPH palace-AD.LAT come-PST.UNW
+Translation: He ate and from there he went further and came to the same palace.
+Sentence: Išno-utin, partalno rutirno, nesä nesiz hunix ik’iƛ’oräy, aziroyn, k’omo biłet’a boqno bexasi halmaɣbi besun.
+Gloss: eat-PFV.CVB belongings-TOP IV-gather-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 way-AD.ESS go-SIM.CVB freeze.to.death-PFV.CVB ball I.PL-as-DISTR I.PL-become-PFV.CVB I.PL-die-RES.PRT friend-PL I.PL-find-PST.UNW
+Translation: He ate, gathered his belongings, and while he went on his way, he found his friends, frozen to death and each one rolled together like a ball.

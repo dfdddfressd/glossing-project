@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xizor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xizor: 
+
+Exact Matches
+Sentence: Žigoƛ’aygon xanes yeženi kidno yok’ek’no, xizor utin idur bežet’ani esnazaƛ’ay ader ayn.
+Gloss: now-SUPER.ABL-CNTR khan-GEN1 II-old-DEF daughter-TOP II-steal-PFV.CVB back return-PFV.CVB home-LAT I.PL-old-DISTR-DEF brother-PL-SUPER.ABL before come-PST.UNW
+Translation: And now he stole the king's oldest daughter and returned home before his older brothers.
+Sentence: Neširur mamalay howožatow at’iw qacan rayrno xizor butin baynosi, onoča esirno:
+Gloss: at.night-LAT rooster DEM4.SG-EMPH wet firewood-TOP IV-bring-PFV.CVB back III-turn.back-PFV.CVB III-come-ANT.CVB hen-ERG ask-PST.UNW
+Translation: At night, when the rooster came back bringing this wet firewood again, the hen asked:
+Sentence: Xizyo yeda xizor utin babiwdäɣor nexno.
+Gloss: afterwards DEM2.ISG back return-PFV.CVB father-APUD.VERS come-PST.UNW
+Translation: Then he came back to his father.
+
+Approximate Matches:
+Sentence: Zamanałäy, yeda uži, ža yižinč’ey di ik’ixanu meži bik’iƛin, xizorno utin, kidno yižin ʕaƛaɣor ik’in.
+Gloss: time-CONT.ABL DEM2.ISG boy DEM1.SG II-carry-NEG.PST.CVB me go-IPFV.CVB-NEG you.PL I.PL-go-QUOT back-TOP return-PFV.CVB girl-TOP II-take.out-PFV.CVB village-IN.VERS go-PST.UNW
+Translation: At one point in time, the boy couldn't bear it any longer and, [saying] "I won't go, you go [alone]!", he returned, took the girl with him and went towards the village.
+Sentence: Ħusen igtow ƛ’irin utin ža xizor utiranix eƛin, dowƛ’osi q’ʷariłi bisanir di ik’ix mi xizorno uti, di aceł caƛäsi c’eruc’a yoł, nagaħ där sis šebin roqnäy, nełas iyo boƛäx, c’ik’iw šebin ruyxor rik’inäy ɣˤay yešnayƛin.
+Gloss: Hussein well-EMPH above-TOP turn-PFV.CVB DEM1.SG back turn-MSD-AD.ESS say-PST.UNW you-SUPER.ESS-ATTR sadness III-take-MSD-LAT me go-PRS you back-TOP return me door-CONT.ESS shoot.with-RES.PRT bow be suppose me-LAT one thing IV-happen-CND.CVB DEM1.IISG.OBL-GEN1 blood III-appear entire thing IV-alright IV-go-CND.CVB milk II-drip-QUOT
+Translation: Hussein insisted and said to make him turn back: "I am coming to take away the sadness on you, go back! I have shot with the bow at the door; suppose something will happen to me, it's [the arrow's] blood will appear, and if everything will go alright, then milk will drip out."
+Sentence: Ciqez aɣzas iyoq šeƛ’un rodin (tutirno), xizorno nexno xanqo rukarno, ele debez žas šeƛ’uƛin.
+Gloss: forest-GEN2 bird-PL-GEN1 blood-POSS.ESS clothing-TOP IV-do-PFV.CVB be.stained-CAUS-PFV.CVB back-TOP come-PFV.CVB khan-POSS.ESS IV-show-PST.UNW here you-GEN2 son-GEN1 clothing-QUOT
+Translation: They put (stained) the clothings with the blood of forest birds, came back and showed them to the king: "Behold, your son's clothings."

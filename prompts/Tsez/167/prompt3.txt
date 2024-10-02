@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bazarya.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bazarya
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bazarya:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Oƛƛozo žar bazarya teƛxo butni besun.
+Gloss: middle-ATTR.OBL son-LAT bazar-IN.ESS sell-IPFV.CVB burka III-find-PST.UNW
+Translation: The middle son found a burka on sale on the market.
+Sentence: Neła quł sasaqtow ža ɣˤanabi bašiqˤoyn koyär risno rukarxo bazarya yäčizay, ayn sida užä nełas baha šebiƛin esirnosi, neła debeq yiłas baha bäzinč’iƛin eƛin.
+Gloss: DEM1.IISG.OBL day-CONT.ESS in.the.morning-EMPH DEM1.SG woman ring-TOP hand-IN.LAT IV-take-PFV.CVB IV-show-IPFV.CVB bazar-IN.ESS II-be-SIM.CVB come-PFV.CVB one.OBL boy-ERG DEM1.IISG.OBL-GEN1 price what-QUOT ask-ANT.CVB DEM1.IISG.OBL-ERG you-POSS.ESS DEM2.IISG.OBL-GEN1 price III-get-NEG.FUT-QUOT say-PST.UNW
+Translation: The next day in the morning, the woman was showing around the ring on her hand, and while being on the market, a boy came and asked: "What's its price?"; she said: "You won't afford its price."
+Sentence: Hič’č’a adäz eženi esiwr bazarya łˤora ɣˤurušyoƛ teƛxo q’ut’u bukaynosi, nesä bazarganqo esirno:
+Gloss: the.most ahead old-DEF brother-LAT bazar-IN.ESS three.OBL ruble-SUB.ESS sell-IPFV.CVB earthen.jug III-see-ANT.CVB DEM1.ISG.OBL-ERG merchant-POSS.ESS ask-PST.UNW
+Translation: First of all, the eldest brother saw a jug on the market for three rubles, and asked the merchant:
+
+Approximate Matches:
+Sentence: Hudayziko xanez kidbä neła nełas ɣarabaš yezu-yoƛ’ˤanix łeno minutno beč’no bazaryaɣor yegirno.
+Gloss: the.next.day khan-GEN2 daughter-ERG DEM1.IISG.OBL DEM1.IISG.OBL-GEN1 servant II-examine-MSD-AD.ESS five minute-TOP III-cut-PFV.CVB bazar-IN.VERS II-send-PST.UNW
+Translation: The next day, the princess sent her own servant to the market for five minutes to have a look.
+Sentence: Ɣˤaɣˤun izin nesä ža butni bazaryay bisno bižin.
+Gloss: be.happy-and get.up-PFV.CVB DEM1.ISG.OBL-ERG DEM1.SG burka bazar-IN.ABL III-buy-PFV.CVB III-carry-PST.UNW
+Translation: He got happy and bought the burka from the market.
+Sentence: Hudayziko, boc’no adäza ziyan xediw bazaryaɣor ik’in.
+Gloss: the.next.day III-drive-PFV.CVB ahead cow-TOP husband bazar-IN.VERS go-PST.UNW
+Translation: The next day the husband chased the cow to the market.

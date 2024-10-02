@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nexxanuƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nexxanuƛin: 
+
+Exact Matches
+Sentence: Howžigonä ža däx nexxanuƛin, t’asno bižin ik’in yisi užä ža xanez kidbeq bukarno.
+Gloss: now-CNTR-Q DEM1.SG me-AD.ESS come-IPFV.CVB-NEG-QUOT washbowl-TOP III-carry-PFV.CVB go-PFV.CVB DEM2.ISG.OBL boy-ERG DEM1.SG khan-GEN2 daughter-POSS.ESS III-show-PST.UNW
+Translation: "Well, shouldn't she come to me now?", the boy carried the washbowl to the princess and showed it to her.
+
+Approximate Matches:
+Sentence: Way, dey užiƛin, eƛin yeženä, eluz xanez kidbes anƛ’imasi berten boyx, nesi baħarawx di yik’ixanuƛin yedu yičäsi.
+Gloss: o.dear me-GEN1 son-QUOT say-PST.UNW II-old-DEF-ERG we(I).OBL-GEN2 khan-GEN2 daughter-GEN1 week-IN.ESS-ATTR marriage III-do-IPFV.CVB DEM1.ISG.OBL fiancé-AD.ESS me II-go-PRS-NEG-QUOT DEM2.IISG II-be-RES.PRT
+Translation: "Oh my son!", said the old woman, "They're celebrating our king's daughter's marriage the whole week, she was like: 'I won't go to that fiancé!'."
+Sentence: Kusa nesir raqru łinałäyn esin eɣeni esiwq, dicegon baq’ˤu micxirno, mesedno boqłin, däq siskin šebin roda roqxanuƛin.
+Gloss: Kusa-ERG DEM1.ISG.OBL-LAT IV-happen-PST.PRT what.OBL-CONT.ABL-TOP tell-PST.UNW young-DEF brother-POSS.ESS how.much-CNTR III-much money-and gold-and III-become-CNC.CVB me-POSS.ESS any thing IV-do-INF IV-become-PRS-NEG-QUOT
+Translation: Kusa told the younger brother what had happened to him: "No matter how much money and gold I have, I don't manage to do anything.
+Sentence: Elozo xalq’imor łi teƛxanuƛin exurno ža.
+Gloss: there-ATTR.OBL people-LAT water give-IPFV.CVB-NEG-QUOT kill-PST.UNW DEM1.SG
+Translation: He was killed because he didn't gave water to the people there.

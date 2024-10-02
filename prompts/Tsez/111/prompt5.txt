@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: maxšel.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": maxšel
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word maxšel:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Šebi mežas maxšel yołƛin, xanä yizaq esirno.
+Gloss: what you(II-GEN1 skill be-QUOT khan-ERG DEM2.IIPL.OBL-POSS.ESS ask-PST.UNW
+Translation: "What are your skills?", asked the king.
+Sentence: Kusa ʕuraw ɣˤaɣˤu izin, nece beže maxšel yołäsi žek’u kumakyor iqizaƛ’ƛin.
+Gloss: Kusa very be.happy get-PST.UNW so.much III-big skill be-RES.PRT man help-LAT get-CSL.CVB-QUOT
+Translation: Kusa got very happy because he got such a skilled man for help.
+Sentence: Bertenyołer goƛ’in zawruni žedu aħozä eƛin, eluz bˤeƛ’xo imadabi esanix beže maxšel yołäsi sis žek’u yoł.
+Gloss: marriage-CONT.LAT invite-PFV.CVB be.NPRS-PST.PRT-DEF DEM1.IPL shepherd-ERG say-PST.UNW we(I).OBL-GEN2 sheep-AD.ESS tale-PL tell-MSD-AD.ESS III-big skill be-RES.PRT one man be
+Translation: A shepherd who was invited to the wedding, said: "There is a man with our sheep who has a big talent of telling tales.
+
+Approximate Matches:
+Sentence: Yisä pikru bodin, didiwgon boqłin sida maxšelyoƛ’or ečula ʕUmar ruhun oqanix t’et’ra ižanƛin.
+Gloss: DEM2.ISG.OBL-ERG idea III-do-PFV.CVB which-CNTR III-become-CNC.CVB one.OBL skill-SUPER.LAT grandchild Umar learn become-MSD-AD.ESS learn-INF lead-FUT.DEF-QUOT
+Translation: He thought: "I'll lead my grandson Umar to learn so he can learn at least one skill."
+Sentence: Barus yołi kid łinasnotow hunarno, maxšelno, bažarin anusi zown.
+Gloss: wife-GEN1 however daughter what.OBL-GEN1-TOP-EMPH talent-and skill-and skill-and be.NEG-ATTR be.NPRS-PST.UNW
+Translation: The wife's daughter however had no talent or skill whatsoever.

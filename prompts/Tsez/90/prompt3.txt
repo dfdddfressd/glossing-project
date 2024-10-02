@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: t’o.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": t’o
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word t’o:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yisä eƛin, dey t’o ƛirba Ražbadin yołƛin.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW me-GEN1 here comrade Razhbadin be-QUOT
+Translation: He said: "My comrade here is Razhbadin."
+Sentence: Ismaʕilä esirno, t’o sasaqor iča behizi aqäƛin.
+Gloss: Ismail-ERG ask-PST.UNW here in.the.morning-POSS.LAT live-INF permit become-Q-QUOT
+Translation: Ismail asked: "May I spend the night here?"
+Sentence: Deber rig räyƛin, eƛin Tawadä, deber t’o č’alʕizin roqno räsu.
+Gloss: you-LAT IV-well IV-know-QUOT say-PST.UNW Tavadi-ERG you-LAT here boredom-TOP IV-become-PFV.CVB IV-exist
+Translation: "You know well," said Tavadi, "that you've grown bored of here.
+
+Approximate Matches:

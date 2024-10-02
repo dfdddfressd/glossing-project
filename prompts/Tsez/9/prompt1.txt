@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Nesiq using Leipzig glossing symbols. The sentence this word is drawn from means: ""May your mouth freeze for telling him that!", the rabbit scolded her young.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Nesiq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Nesiq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+Sentence: Ħayran boqno yizä sidä sidqor eƛin, eloš nesi žek’uł adäza anusi šebinonwa anu, hudun nesiq łinaƛ’orkin reƛ’a regirełxanuwaƛin.
+Gloss: be.astonished I.PL-become-PFV.CVB DEM2.IPL-ERG one.OBL-ERG one.OBL-POSS.LAT say-PST.UNW over.there DEM1.ISG.OBL man-CONT.ESS before be.NEG-ATTR something-Q be.NEG nevertheless DEM1.ISG.OBL-POSS.ESS what.OBL-SUPER.LAT-even hand IV-let-POT-PRS-NEG-Q-QUOT
+Translation: They were surprised and talked among each other: "Isn't there everything possible on the table, but he nevertheless can't let his hand to any of it?"
+Sentence: Ražbadin ħadur oqxon iyn, ʕaƛoz ʕoloqza nesiq harizi rodin, elin Huläɣor dawlaƛ’ bižoƛin.
+Gloss: Razhbadin prepare become-IPFV.CVB-TOP know-PFV.CVB village-GEN2 young.person-PL-ERG DEM1.ISG.OBL-POSS.ESS request IV-do-PST.UNW we-TOP Georgia-IN.VERS prey-SUPER.ESS I.PL-lead-IMPR-QUOT
+Translation: Knowing that Razhbadin was preparing, the young people from the village asked him: "Lead us to Georgia for hunting as well!"
+
+Approximate Matches:
+Sentence: Diwanbegä nesiqor eƛin, mi iłet’a ʕorƛ’ilawbi bižin iħuxay eč’ibi rutirƛin.
+Gloss: judge-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW you as-DISTR young.man-PL I.PL-lead-PFV.CVB river-AD.ABL pebble-PL II.PL-gather-QUOT
+Translation: The judge said to him: "Bring some fine men just like you and gather pebbles at the river."
+Sentence: Gulučini esnazałäy eženiq oc’ino ƛˤeb zown, nesiqayzoniq - oč’ino ƛˤeb, aqugani esiw žeduł teł hič’č’a yeɣe zown.
+Gloss: male-DEF brother-PL-CONT.ABL old-DEF-POSS.ESS ten year be.NPRS-PFV.CVB DEM1.ISG.OBL-POSS.ABL-ATTR.OBL-DEF-POSS.ESS - nine year female-ATTR-DEF sister DEM1.IPL.OBL-CONT.ESS inside the.most II-young be.NPRS-PST.UNW
+Translation: Of the brothers, the old one was ten years old, the other one was nine; and the sister was the youngest among them.
+Sentence: Yiła nesiqorno eƛin, dey xediw yoł, žan ičin di q’ˤuyzix yik’a behizi yaqinč’iƛin.
+Gloss: DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.LAT-TOP say-PST.UNW me-GEN1 husband be DEM1.SG-TOP be-PFV.CVB me other-ATTR.OBL-AD.ESS II-go-INF permit II-become-NEG.FUT-QUOT
+Translation: She said to him: "I have a husband, and I won't be allowed to go to someone else."

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word igor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word igor: 
+
+Exact Matches
+Sentence: Guluƛ’no zown sosigon Musa čuret’ bok’nosi, reč’yałer yizirabi xanzo ɣˤutkox igor bayn.
+Gloss: horse-SUPER.ESS-TOP be.NPRS-PFV.CVB at.first-CNTR Musa-ERG whip III-beat-ANT.CVB quickness-CONT.LAT DEM2.PL khan-ATTR.OBL house-AD.ESS near-LAT I.PL-come-PST.UNW
+Translation: When he was on the horse, Musa first beated the whip, and in an instant they came to the king's house.
+Sentence: Ža q’ˤimno ruqˤno yeda esiwde igor ayn.
+Gloss: DEM1.SG head-TOP IV-hide-PFV.CVB DEM2.ISG sister-APUD.ESS near-LAT come-PST.UNW
+Translation: That head he hid and went toward his sister.
+Sentence: Šebigon nesä royłin, nełade igor qalamär yeda didurnokin egin anu.
+Gloss: what-CNTR DEM1.ISG.OBL-ERG IV-do-CNC.CVB DEM1.IISG.OBL-APUD.ESS near-LAT fortress-IN.LAT DEM2.ISG how-TOP-even go.into-PST.UNW be.NEG
+Translation: But no matter what he did, he didn't get into fortress near her.
+
+Approximate Matches:

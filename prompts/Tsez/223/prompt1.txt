@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Yeženin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Yeženin: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Žigoƛ’aygon xanes yeženi kidno yok’ek’no, xizor utin idur bežet’ani esnazaƛ’ay ader ayn.
+Gloss: now-SUPER.ABL-CNTR khan-GEN1 II-old-DEF daughter-TOP II-steal-PFV.CVB back return-PFV.CVB home-LAT I.PL-old-DISTR-DEF brother-PL-SUPER.ABL before come-PST.UNW
+Translation: And now he stole the king's oldest daughter and returned home before his older brothers.
+Sentence: Risno yeženi esiwqor xanä rut’ugabi rišanix hisos ric’äsi urgu teƛno.
+Gloss: IV-take-PFV.CVB II-old-DEF sister-POSS.LAT khan-ERG carpet-PL IV.PL-weave-MSD-AD.ESS spring.wool-GEN1 IV-fill-RES.PRT sack give-PST.UNW
+Translation: The king gave the oldest sister a sack filled with wool for her to weave carpets.
+Sentence: Ozuri buqin bˤaɣˤizaƛ’or žedu neł kidbederno baynosi, yeženi esiyagon nesä bisno zawruni č’edosni q’ut’un łäs bic’no, kidbez haqan et’no, ža saɣ yodin.
+Gloss: eye III-close-PFV.CVB III-open-POST.CVB DEM1.IPL.OBL DEM1.IISG.OBL girl-APUD.LAT-TOP I.PL-come-ANT.CVB II-old-DEF brother-ERG-CNTR DEM1.ISG.OBL-ERG III-buy-PFV.CVB be.NPRS-PST.PRT-DEF clay-GEN1-DEF earthen.jug-and water-GEN1 III-fill-PFV.CVB girl-GEN2 mouth-IN.ESS-and pour-PFV.CVB DEM1.SG cure II-do-PST.UNW
+Translation: Before the wink of an eye, they arrived at the girl's; the elder brother filled the clay jug he bought with water, poured it into her mouth and cured her.

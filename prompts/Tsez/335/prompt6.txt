@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roqno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roqno: 
+
+Exact Matches
+Sentence: Zira äƛiru łinaƛ’no nasin razi roqno.
+Gloss: fox-ERG say-PST.PRT what.OBL-SUPER.ESS-TOP all agree III.PL-become-PST.UNW
+Translation: All agreed on what the fox said.
+Sentence: Zamanałäy čanyan, cek’bintow ħalaq’ roqa roqno.
+Gloss: time-CONT.ABL she.goat-and goat.kid-PL-and-EMPH meager III.PL-become-INF III.PL-begin-PST.UNW
+Translation: After a while, the she.goat and the goat kids began to become meager.
+Sentence: Elay mekoyx yałru yisä bet’urno neł ɣunoqay c’udani heneš bac’nosi, nesiłäy ɣun roqno.
+Gloss: there-IN.ABL be.hungry-IPFV.CVB be-PST.PRT DEM2.ISG.OBL-ERG III-pull.out-PFV.CVB DEM1.IISG.OBL tree-POSS.ABL red-DEF apple III-eat-ANT.CVB DEM1.ISG.OBL-CONT.ABL tree IV-become-PST.UNW
+Translation: Then, he - being hungry - plucked a red apple from that tree and ate it, he became a tree.
+
+Approximate Matches:
+Sentence: Sida quł babiya nesiq esirno, šida mi nece q’ʷarid oqno ičäsi, šebi deber roqnoƛin.
+Gloss: one.OBL day-CONT.ESS father-ERG DEM1.ISG.OBL-POSS.ESS ask-PST.UNW why you so.much sad become-PFV.CVB be-RES.PRT what you-LAT IV-happen-PST.UNW-QUOT
+Translation: One day the father asked him: "Why are you so sad, what has happened to you?"
+Sentence: Sida zamanałäy eɣeni esiya nasin žeda roƛäk’ru šebinabi yizas xot’ozaxor kurnosi, łˤonontow yisił adäzarno rayn esirno, šebi deber elaqay ħažat roqnoƛin.
+Gloss: one.OBL time-CONT.ABL young-DEF brother-ERG all DEM1.IIPL.OBL-ERG IV-appear-PST.PRT thing-PL DEM2.IIPL.OBL-GEN1 foot-PL-AD.LAT throw-ANT.CVB three-TOP-EMPH DEM2.ISG.OBL-CONT.ESS before-IN.LAT-TOP IV-come-PFV.CVB ask-PST.UNW what you-LAT we(II-POSS.ABL necessity IV-become-PST.UNW-QUOT
+Translation: After some time, the young brother threw the things that they listed to their feet, and they went before him and asked: "What do you need from us?"
+Sentence: Nesis hut’-mˤalay ƛ’er bisäsi bukayzaƛ’ hunixoza esirno, šebi deber roqnoƛin.
+Gloss: DEM1.ISG.OBL-GEN1 front.part.of.the.face-IN.ABL color III-take-RES.PRT III-see-CSL.CVB way-AD.ESS-ATTR.OBL-ERG ask-PST.UNW who you-LAT IV-happen-PST.UNW-QUOT
+Translation: When they saw the color vanishing from his face, the travellers asked: "What happened to you?"

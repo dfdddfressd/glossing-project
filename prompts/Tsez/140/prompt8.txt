@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xizaygon.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xizaygon
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xizaygon:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bet’erhanes kidno ħamimyołxor yegirno, nełałtow xizaygon dibirno egirno, micxir neƛanƛin.
+Gloss: master-GEN1 daughter-TOP hot.springs-CONT.VERS II-send-PFV.CVB DEM1.IISG.OBL-CONT.ESS-EMPH behind-CNTR imam-TOP send-PFV.CVB money give-FUT.DEF-QUOT
+Translation: She sent the master's daughter to the hot springs and sent the imam behind her, "I'll give you money."
+Sentence: Suƛƛisi oƛixno k’oƛin ɣamasyayn uži oxin maħor ok’ełno, ža iqiranixƛin nesił xizaygon č’ariƛ’ zawruni xediwn k’oƛin.
+Gloss: suddenly-ATTR appear-PFV.CVB jump-PFV.CVB box-IN.ABL-TOP boy run.away-PFV.CVB outside escape-PFV.CVB DEM1.SG catch-MSD-AD.ESS-QUOT DEM1.ISG.OBL-CONT.ESS behind-CNTR wakeness-SUPER.ESS be.NPRS-PST.PRT-DEF husband-TOP run-PST.UNW
+Translation: Suddenly the boy jumped out of the box, ran outside and escaped; and in order to catch him ran the husband behind him, who was awake.
+Sentence: Xizyogon nukarä xanqor eƛin, raładno boɣno bitaz puƛ’aza yołƛin teqxo bokobin, k’ukyabin raqˤuxosi kidƛin, nełał xizaygon elor egiranix bełiquz užiƛ’ay mustaħiq’aw žek’un anuƛin.
+Gloss: again henchman-ERG khan-POSS.LAT say-PST.UNW sea-TOP III-cross-PFV.CVB distance-IN.ESS.DIST side-SUPER.VERS.DIST be-QUOT hear-PRS fur.coat-PL-and cap-PL-and III.PL-sew-PRS.PRT girl-QUOT DEM1.IISG.OBL-CONT.ESS behind-CNTR there-LAT send-MSD-AD.ESS hunter-GEN2 son-SUPER.ABL suitable man-TOP be.NEG-QUOT
+Translation: Again the henchman said to the king, "On the other side of the sea, as I have heard, lives girl wo sews coats and caps; there is no man more suitable than the hunter's son to be sent there after her."
+
+Approximate Matches:
+Sentence: Qacis q’ili Qudi Musaz Maħama bok’si, ħošos zurma Xantuz ʕAlä pˤaƛus, keč’ Maʕat’iz Ruq’än, Amirħanzan qˤaƛis, istowlizaq šet’ur łočyoƛ’ Xaluman Ošk’oris Ramazanno k’oƛis, ɣodos ʕarada Metirozya pˤoƛirsi, dabaɣyos tupi K’it’i Ramazanä kursi, meys tamanča Qebozya ašuƛ ricis, Ešiƛ’oza łelmay butnos mač’ibi roɣsi, Newoza bexada qacis t’eka bayrsi, Kidiraygon ʕomoyƛ’no zown Šapk’ilaw ays.
+Gloss: firewood-GEN1 drum Qudi Musa-GEN2 Magomed-ERG III-beat-PST.WIT hide-GEN1 zurna Khantu-GEN2 Ali-ERG thrash-PST.WIT song Ma'ati-GEN2 Ruqiyat-ERG-and Amirhanza-ERG-and sing-PST.WIT table-PL-POSS.ESS around dance-SUPER.ESS Khaluma-and Oshkori-GEN1 Ramazan-and jump-PST.WIT lime.tree-GEN1 cannon Metrada.people-ERG explode-CAUS-PST.WIT leather-GEN1 rifle Kiti Ramazan-ERG shoot.from-PST.WIT birch-GEN1 pistol Khebatli.people-ERG belt-SUB.ESS IV-tie-PST.WIT Shaytl.people-ERG sheath-IN.ABL burka-GEN1 dagger-PL IV.PL-take.away-PST.WIT Mokok.people-ERG III-slaughter-INF firewood-GEN1 he.goat III-bring-PST.WIT Kidero-IN.ABL-CNTR donkey-SUPER.ESS-TOP be.NPRS-PFV.CVB Shapkilaw come-PST.WIT
+Translation: Qudi Musa's Magomed beated the wooden drum, Xantu's Ali played the zurna, Ma'ati's Ruqi and Amirhanza sang a song, Khaluma and Oshkori's Ramazan danced around the tables, people from Metrada fired a lime gun, Kiti Ramazan shot with a leather rifle, the Khebatli people put tied a birch pistol to their belt, people from Shaytl pulled burka daggers out of the sheath, the Mokok people slaughtered brought a wooden goat for slaughtering, and Shapkilaw came from Kidero riding on a donkey.
+Sentence: Nesił xizay ʕiyayn, däzno ozzałäy kanłi bissi, uyn ečriłsiƛin, babiya zigara boɣno.
+Gloss: DEM1.ISG.OBL-CONT.ESS behind cry-PFV.CVB me-GEN2-TOP eye-PL-CONT.ABL light III-take-PST.WIT indeed-TOP get.old-PST.WIT-QUOT dad-ERG complaint III-take.away-PST.UNW
+Translation: I bemoaned his loss, and lost my eyesight; I indeed got old.", complained the father.
+Sentence: ʕAƛoz xalq’imon, ʕagarłän t’ok’ow nełqay reƛ’an kurno, howłaƛ’aygon žuk yičiƛin.
+Gloss: village-GEN2 people-ERG-and relatives-ERG-and anymore DEM1.IISG.OBL-POSS.ABL hand-TOP spread.out-PFV.CVB DEM3.IISG.OBL-SUPER.ABL-CNTR worse II-live-QUOT
+Translation: The people from the village and the relatives all took their hands from her[, saying]: "Live worse than that!"

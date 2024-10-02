@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word baħarčiłi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word baħarčiłi: 
+
+Exact Matches
+Sentence: Mežuz pikruxor, žedu łˤorłäyn tełäy baħarčiłi yołäsi šebi iča ayx:
+Gloss: you(I).PL.OBL-GEN2 idea-AD.LAT DEM1.IPL.OBL three.OBL-CONT.ABL-TOP inside-IN.ABL braveness be-RES.PRT who be-Q must-PRS
+Translation: "In your opinion, who of the three must be the bravest:
+Sentence: Di baħarčiłi etixozonis rik’zi radiƛin”.
+Gloss: me braveness lover-DEF-GEN1 honor IV-do-QUOT
+Translation: "I admire the lover's braveness."
+
+Approximate Matches:
+Sentence: Howži dey murad yoł, där saɣłin, wacłin radiru baħarčix däxtow yowx zawruni debi kid Tawadix esirno nexäsi yoł di.
+Gloss: now me-GEN1 wish be me-LAT health-and brotherhood-and III.PL-fulfilled brave.young.man-AD.ESS me-AD.ESS-EMPH II-marry-IPFV.CVB be.NPRS-PST.PRT-DEF you-GEN1 daughter Tavadi-AD.ESS ask-PFV.CVB come-RES.PRT be me
+Translation: Now this is my wish; I have come to ask you to marry off your daughter who was to marry me, to Tavadi, the brave young man who acted so well and brotherly towards me.
+Sentence: Wayčo, baħarči, egixwa mi däqƛin!” - aħi bodin ceyä.
+Gloss: o.dear-INT brave.young.man loosen-PRS-Q you me-POSS.ESS-QUOT - alarm III-do-PST.UNW eagle-ERG
+Translation: "Hey, brave young man, I cannot keep you anymore!", warned the eagle.
+Sentence: Yałi ža c’aq’aw baħarči zowsƛin.
+Gloss: else DEM1.SG excellent brave.young.man be.NPRS-PST.WIT-QUOT
+Translation: "Otherwise he was an excellent brave young man."

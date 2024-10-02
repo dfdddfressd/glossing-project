@@ -1,0 +1,80 @@
+{
+  "word": "Ža",
+  "glosses": [
+    "DEM1.SG",
+    "like",
+    "tired"
+  ]
+}
+{
+  "word": "xabar",
+  "glosses": [
+    "story",
+    "news",
+    "tale"
+  ]
+}
+{
+  "word": "äsirun",
+  "glosses": [
+    "like",
+    "tired",
+    "hound"
+  ]
+}
+{
+  "word": "neła",
+  "glosses": [
+    "III-take",
+    "III-take-PFV.CVB",
+    "III-take-PST.UNW"
+  ]
+}
+{
+  "word": "akäłru",
+  "glosses": [
+    "like",
+    "tired",
+    "hound"
+  ]
+}
+{
+  "word": "baħrä",
+  "glosses": [
+    "tongue",
+    "POKE",
+    "3SG.PAST"
+  ]
+}
+{
+  "word": "biłe",
+  "glosses": [
+    "III-as",
+    "III-like",
+    "III-similar"
+  ]
+}
+{
+  "word": "maħor",
+  "glosses": [
+    "outside-TOP",
+    "outside",
+    "become-PFV.CVB"
+  ]
+}
+{
+  "word": "mec",
+  "glosses": [
+    "false language",
+    "tell-PRS.PRT.OBL",
+    "say-PST.UNW"
+  ]
+}
+{
+  "word": "boƛik’no",
+  "glosses": [
+    "III-push.out-PFV.CVB",
+    "III-do-PFV.CVB",
+    "IV-take.away-PFV.CVB"
+  ]
+}

@@ -1,0 +1,12 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕUmar in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕUmar: 
+
+Exact Matches
+
+Approximate Matches:

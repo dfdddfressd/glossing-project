@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word suƛƛi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word suƛƛi: 
+
+Exact Matches
+Sentence: Acno yaɣˤin tełer aqruntow, suƛƛi dandir nexno bara xedyoq ałni bic’no.
+Gloss: door-TOP II-open-PFV.CVB to.the.inside become-IMM.ANT.CVB-EMPH immediately towards come-PFV.CVB wife-ERG husband-POSS.ESS hug III-hug-PST.UNW
+Translation: As soon as he opened the door and stepped inside, his wife came toward him and hugged him.
+Sentence: Čanno suƛƛi boƛixno sis hil karun, bˤulamzałäy aħyałerno c’oxno łˤora k’onč’aƛ’or boxin bik’isƛin”, - žawab teƛno heresi mec esixoza.
+Gloss: deer-TOP suddenly III-appear-PFV.CVB one bullet throw-IMM.ANT.CVB hoof-PL-CONT.ABL ear-CONT.LAT-TOP hit-PFV.CVB three.OBL leg-SUPER.LAT III-run.away-PFV.CVB III-go-PST.WIT-QUOT - answer give-PST.UNW false language tell-PRS.PRT.OBL-ERG
+Translation: "A deer suddenly appeared and the bullet that was shot, hit it through the legs and pierced the ear, so it ran away on its three legs", answered the liar.
+Sentence: Ža xabarno teqno obiwn, užin bezanixƛin bik’inosi, yisir suƛƛi yukayruntow yiyn yedu yisis baru yałru.
+Gloss: DEM1.SG story-TOP hear-PFV.CVB father-and son-and I.PL-look-MSD-AD.ESS-QUOT I.PL-go-ANT.CVB DEM2.ISG.OBL-LAT immediately II-see-IMM.ANT.CVB-EMPH II-know-PFV.CVB DEM2.IISG DEM2.ISG.OBL-GEN1 wife be-PST.PRT
+Translation: Having heard of this story, the father and his son went to have a look and he immediately knew when seeing her, that it was his wife.
+
+Approximate Matches:
+Sentence: Musa suƛƛitow eƛin:
+Gloss: Musa suddenly-EMPH say-PST.UNW
+Translation: Then Musa suddenly said:
+Sentence: Nesir riyx zown suƛƛitow nełas q’ˤimbi reč’no roɣinč’inäy, neła ħal bayrxanusiłi.
+Gloss: DEM1.ISG.OBL-LAT IV-know-IPFV.CVB be.NPRS-PFV.CVB at.once-EMPH DEM1.IISG.OBL-GEN1 head-PL IV.PL-cut-PFV.CVB IV-take.away-NEG.FUT-CND.CVB DEM1.IISG.OBL-ERG trouble III-bring-NEG.PRS.PRT-CND.CVB.IRR
+Translation: He knew that if he didn't cut off all the heads at once, he wouldn't defeat it.
+Sentence: Xizaɣor hudun yisä sis sanaʕałin biqirno suƛƛitow nasin q’ˤimbin reč’no, aždaħ bexurno łaƛ’ay boɣno kurno.
+Gloss: finally nevertheless DEM2.ISG.OBL-ERG one chance-TOP III-take.away-PFV.CVB at.once-EMPH all head-PL-TOP IV.PL-cut-PFV.CVB dragon III-kill-PFV.CVB water-SUPER.ABL III-take.away-PFV.CVB throw-PST.UNW
+Translation: Finally nevertheless he took a chance, cut off all the heads at once, killed the dragon and threw it off the water.

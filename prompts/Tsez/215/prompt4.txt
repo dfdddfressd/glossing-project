@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: esirno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": esirno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word esirno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Maħor boqnosi, bara xediwq esirno, yedu q’urec’nibin, žedaƛ’ ƛ’irisi q’ayn łasey besanƛin.
+Gloss: outside I.PL-become-ANT.CVB wife-ERG husband-POSS.ESS ask-PST.UNW DEM2.IISG mule-PL-and DEM1.IIPL.OBL-SUPER.ESS on-ATTR article-and who.OBL-GEN1-DUB III-exist-FUT.DEF-QUOT
+Translation: When they went outside, the wife asked her husband: "Whose might those mules and the wares on them be?"
+Sentence: Ɣˤutkun, ƛen rodin łiyzaƛ’, žoyä eniw k’ox äƛirugon kidno esirno xander yegirno.
+Gloss: house-and bridge-and III.PL-do-PFV.CVB end-CSL.CVB boy-ERG mother twice ORD-CNTR girl-TOP ask-PFV.CVB khan-APUD.LAT II-send-PST.UNW
+Translation: When the house and the bridge were finished, the boy sent his mother to the king a second time to ask for the girl.
+Sentence: Ox̌oyoƛin łu eƛäƛin, esirno yisi žek’a yiziq.
+Gloss: Ohoyo-QUOT who.ERG say-PST.WIT.INT-QUOT ask-PST.UNW DEM2.ISG.OBL man-ERG DEM2.IPL-POSS.ESS
+Translation: "Who said Ohoyo?", that man asked him.
+
+Approximate Matches:
+Sentence: Goƛ’in ša boyxozo žek’uq esirnosi, nesä eƛin:
+Gloss: call-PFV.CVB wine III-do-PRS.PRT.OBL man-POSS.ESS ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: When he called the man who made the wine and asked him, he said:
+Sentence: Idur ža aynosi, šida mi meč’oxor akan begirno exux zowäƛin, babiwz esiya esirnosi, nesä eƛin, där babiya bodäsi wasi zows keze raqza ɣˤutkubi rodoƛin...
+Gloss: home-LAT DEM1.SG come-ANT.CVB why you neck-AD.LAT hook-TOP III-let-PFV.CVB die-IPFV.CVB be.NPRS-PST.WIT.INT-QUOT father-GEN2 brother-ERG ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW me-LAT dad-ERG III-do-RES.PRT testament be.NPRS-PST.WIT meet IV-become-LCV house-PL IV.PL-do-IMPR-QUOT
+Translation: When he came home and his uncle asked: "Why have you been dying, having a noose around your neck?", he answered: "My father stated in his testament, that I have to make houses where I get to..."
+Sentence: Didur, šebi roqäƛin nesiq esirnosi, nesä heresi esin, raładno k’ek’-bik’no gaman butin debi baru ɣanq’izi yoqsi, uži däq xʷasar oda k’ʷeze oqsiƛin.
+Gloss: how what IV-happen-PST.WIT.INT-QUOT DEM1.ISG.OBL-POSS.ESS ask-ANT.CVB DEM1.ISG.OBL-ERG lie tell-PST.UNW sea-TOP move-PFV.CVB boat-Q-TOP III-turn-PFV.CVB you-GEN1 wife drown II-become-PST.WIT son me-POSS.ESS rescue do-INF can become-PST.WIT-QUOT
+Translation: When he asked: "How and what happened?", he lied: "The sea was moved and the boat turned around, your wife drowned; I was able to rescue the boy."

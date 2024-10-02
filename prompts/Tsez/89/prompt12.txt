@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: micxir.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": micxir
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word micxir:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Maħix micxir t’aħiruni ɣˤʷay neƛƛin eƛo mi nesiqor.
+Gloss: tail-AD.ESS money tie-PST.PRT-DEF dog give-QUOT say-IMPR you DEM1.ISG.OBL-POSS.LAT
+Translation: Say to him: 'Give me the dog with money tied to its tail!'"
+Sentence: Bet’erhanes kidno ħamimyołxor yegirno, nełałtow xizaygon dibirno egirno, micxir neƛanƛin.
+Gloss: master-GEN1 daughter-TOP hot.springs-CONT.VERS II-send-PFV.CVB DEM1.IISG.OBL-CONT.ESS-EMPH behind-CNTR imam-TOP send-PFV.CVB money give-FUT.DEF-QUOT
+Translation: She sent the master's daughter to the hot springs and sent the imam behind her, "I'll give you money."
+Sentence: Ele hoboda debi mi eɣʷedin et’no biqiräsi micxir boqzaƛ’, c’idaɣor kura baynč’iƛin, eƛin babiya, užä nesä nesir micxir boda oqsiƛin rok’u č’eze roqnosi.
+Gloss: there that you-GEN1 you sweat-TOP pour-PFV.CVB III-win-RES.PRT money III-become-CSL.CVB fire-APUD.VERS throw-INF III-must-NEG.FUT-QUOT say-PFV.CVB dad-ERG boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT money III-do-INF begin-PST.WIT-QUOT heart convinced[?] IV-become-ANT.CVB
+Translation: "There, because it's the money you earned with your own sweat, I don't have to throw it into the fire.", said the father, and was convinced that his son earned money for himself.
+
+Approximate Matches:
+Sentence: Budumä äsiru xabaryoƛ’ xan c’aq’ ʕažaibno oqno, nesir micxirno teƛno, ƛ’irigon bigu saɣyatno bodin, žan egirno.
+Gloss: muezzin-ERG tell-PST.PRT story-SUPER.ESS khan very surprise-TOP become-PFV.CVB DEM1.ISG.OBL-LAT money-and give-PFV.CVB above-CNTR III-good present-and III-do-PFV.CVB DEM1.SG-and send-PST.UNW
+Translation: The king was very surprised about what the muezzin told, he gave him money and nice presents and let him go.
+Sentence: Xizayn k’oƛin ʕoloqan žek’a elaɣor reƛ’a regirnosi, beč’ułno elazay micxirno, mesedno bayn.
+Gloss: from.behind-TOP run-PFV.CVB young man-ERG there-IN.VERS hand IV-let-ANT.CVB III-flow.out-PFV.CVB there-IN.ABL.DIST silver-and gold-and III-come-PST.UNW
+Translation: When the young man ran behind him and put his hand into there, silver and gold came out of there.
+Sentence: Nełaƛ’ razin yoqinč’ey, Beqes ʕUneyzatä mesedyos q’ˤuri imyoqor yicin zawruni ɣˤanazaƛer teƛno, micxiryosni - užiƛer, pakmosni - kidbeƛer, qacisni neła nełƛer risno.
+Gloss: DEM1.IISG.OBL-SUPER.ESS agree-TOP II-become-NEG.PST.CVB sun-GEN1 Uneyzat-ERG gold-GEN1 chair pole-POSS.LAT II-tie-PFV.CVB be.NPRS-PST.PRT-DEF woman-SUB.LAT give-PFV.CVB silver-GEN1-DEF - boy-SUB.LAT copper-GEN1-DEF - girl-SUB.LAT wood-GEN1-DEF DEM1.IISG.OBL-ERG DEM1.IISG.OBL-SUB.LAT IV-take-PST.UNW
+Translation: Sun's Uneyzat didn't agree to this and gave the golden chair to the girl that used to be tied to the pole, the silver one to the boy, the copperone to the girl and the wooden one she took for herself.

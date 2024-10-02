@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yiził in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yiził: 
+
+Exact Matches
+Sentence: Yizi bukayrun, aždaħä zudäy roɣno ixiw riris ɣun yiził adäzar rayrno kurno.
+Gloss: DEM2.IPL I.PL-see-IMM.ANT.CVB dragon-ERG root-IN.ABL IV-take.away-PFV.CVB big alder-GEN1 tree DEM2.IPL.OBL-CONT.ESS before-IN.LAT IV-bring-PFV.CVB throw-PST.UNW
+Translation: When he saw them, the dragon tore out an alder tree from its roots and threw it before them.
+Sentence: Xizyo yiził adäza biša erno.
+Gloss: afterwards DEM2.IPL.OBL-CONT.ESS before food put-PST.UNW
+Translation: Afterwards food was served before them.
+Sentence: Enda užin, baħarawn sidä sidde puħon bičirno, yiził roƛƛo ciqqay reč’no rown hečk’er ɣunno eqerno, ža ɣun ładäɣor rutix, nesix yedu baħarayn yegira yayƛin.
+Gloss: DEM3b.SG boy-and fiancé-and one.OBL-ERG one.OBL-APUD.ESS side-AD.ESS-TOP I.PL-remain-CAUS-PFV.CVB DEM2.IPL.OBL-CONT.ESS IV-middle forest-POSS.ABL IV-cut-PFV.CVB IV-bring-PFV.CVB upright tree-TOP put-PFV.CVB DEM1.SG tree who.OBL-APUD.VERS IV-turn-IPFV.CVB DEM1.ISG.OBL-AD.ESS DEM2.IISG fiancée-TOP II-send-INF II-must-QUOT
+Translation: That boy and the groom we let stand side to side, and in their middle we'll put upright a tree that we cut from the forest and brought here, to whomever the tree falls, he must be married to the bride.
+
+Approximate Matches:
+Sentence: Elay yizin yedu howlo igozatow yałruni ħonƛ’aɣor yik’in aħoziz q’aymoxor yayn.
+Gloss: there-IN.ABL II-get-PFV.CVB DEM2.IISG there near-ZA-EMPH be-PST.PRT-DEF mountain-SUPER.VERS II-go-PFV.CVB shepherd-GEN2 shelter-AD.LAT II-come-PST.UNW
+Translation: From there, she went further toward a mountain nearby and came to a shepherd's shelter.
+Sentence: Ža ɣˤutku eli yołƛin, žoyä eniw ɣˤaɣˤu yizirno.
+Gloss: DEM1.SG house we.SPEC.GEN1 be-QUOT boy-ERG mother be.happy II-lift-PST.UNW
+Translation: "This house is ours.", the boy [said and] made his mother happy.
+Sentence: Idazayn oƛixno nesä yizi tełxorno goƛ’in, ƛ’irir zahrun ƛešun adäz bišʷa ħaƛin, bišƛ’oräytow bexuran yiziƛin.
+Gloss: home-IN.ABL.DIST-TOP appear-PFV.CVB DEM1.ISG.OBL-ERG DEM2.IPL.OBL inside-AD.LAT-and call-PFV.CVB above-LAT poison-and pour-PFV.CVB before food organize-PFV.CVB I.PL-eat-SIM.CVB-EMPH I.PL-kill-FUT.DEF DEM2.IPL.OBL-QUOT
+Translation: Coming out of the house, he called them inside, organized dinner and poured poison in it, to kill them when they eat.

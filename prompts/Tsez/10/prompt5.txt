@@ -1,0 +1,33 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nexäsi using Leipzig glossing symbols. The sentence this word is drawn from means: ""I've come to ask you for advice", said the boy.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nexäsi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nexäsi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yisä eƛin, mi barułun yižanix debeł xizay nexäsi yoł diƛin.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW you wife-LHUN II-take.out-MSD-AD.ESS you-CONT.ESS behind come-RES.PRT be me-QUOT
+Translation: He said: "I came to you in order to take you as a wife."
+Sentence: Moƛaxay žan č’arik’no, nesä eƛin, di malaik yoł, asatow maharno erno, mi yowanix nexäsi t’aɣor, neširu di dowde puħo keca ayƛin.
+Gloss: sleep-AD.ABL DEM1.SG-TOP wake.up-PFV.CVB DEM1.ISG.OBL-ERG say-PST.UNW me angel be sky-IN.ESS-EMPH wedding-TOP set.up-PFV.CVB you II-marry-MSD-AD.ESS come-RES.PRT here-IN.VERS at.night me you-APUD.ESS next.to sleep-INF must-QUOT
+Translation: He woke her up from her sleep and said: "I am an angel, I will arange a wedding in the heavens for I have come here to marry you; I must sleep next to you at night."
+Sentence: Xizyo madaxosinin ayn, xandärno yižin neła nełas muradyołäy esin, wallahi, di žax debi kid esira nexäsi yołƛin.
+Gloss: afterwards yard-AD.ESS-ATTR-DEF-TOP come-PFV.CVB khan-APUD.VERS-TOP II-lead-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 wish-CONT.ABL tell-PST.UNW by.God me son-AD.ESS you-GEN1 daughter ask-INF come-RES.PRT be-QUOT
+Translation: Then the house-serf came, lead her to the king, and she told [him] of her wish: "By God, I have come to ask out the kings daughter to marry my son."
+
+Approximate Matches:
+Sentence: Debeł halmaɣłin risno, łäƛ’ ƛ’iri xanłi rodaniƛäy anu di dowder iħada nexäsiƛin, eƛin rizirno yisä mač’a.
+Gloss: you-CONT.ESS friendship-TOP IV-take-PFV.CVB water-SUPER.ESS above khanship IV-do-MSD-SUB.ABL be.NEG me you-APUD.LAT fight-INF come-RES.PRT-QUOT say-PFV.CVB IV-lift-PST.UNW DEM2.ISG.OBL-ERG dagger
+Translation: "I won't accept your friendship with you and I won't rule over the water, I came to you in order to fight!", he said and lifted the dagger.

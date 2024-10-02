@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: k’icazałäy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": k’icazałäy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word k’icazałäy:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nazołno adäzagon kidbä sist’a nigaɣˤič’is t’it’u eqerno, mežuz k’icazał räk’iru reƛ roɣno enłaƛ’ eqroƛin.
+Gloss: all.OBL-CONT.ESS-TOP before-CNTR girl-ERG one.at.a.time cloth-GEN1 piece put-PST.UNW you(I).PL.OBL-GEN2 tooth-PL-CONT.ESS IV-go-PST.PRT meat IV-take.away-PFV.CVB DEM3b.IISG.OBL-SUPER.ESS put-IMPR-QUOT
+Translation: In front of everyone, the girl put a piece of cloth: "[Y'all] take the meat that is stuck between your teeth and put it on it."

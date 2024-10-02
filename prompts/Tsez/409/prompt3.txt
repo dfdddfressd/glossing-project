@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bik’ixosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bik’ixosi: 
+
+Exact Matches
+Sentence: Hemedur hunix ik’iƛ’orey, boxin bik’ixosi ziru yisił c’oxno, nełałgon xizay k’oƛin nexxo łˤono boc’in yołƛax.
+Gloss: so way-AD.ESS go-SIM.CVB III-run.away-PFV.CVB III-go-PRS.PRT fox DEM2.ISG.OBL-CONT.ESS hit-PFV.CVB DEM1.IISG.OBL-CONT.ESS-CNTR behind run-PFV.CVB come-IPFV.CVB three wolf-TOP be-QUOT
+Translation: While he was on his way like that, he met a fox who was fleeing and behind it three wolves came running.
+Sentence: Zownƛax zownanuƛax q’ˤano halmaɣ netintow sadaq bełiƛ’ bik’ixosi.
+Gloss: be.NPRS-PST.UNW-QUOT be.NPRS-PFV.CVB-NEG-QUOT two friend always-EMPH together hunting-SUPER.ESS I.PL-go-PRS.PRT
+Translation: Once upon a time, there were two friends, who always went hunting.
+Sentence: Xizaɣor eɣeni esiwr riyn, esnabi bik’ixosi moči.
+Gloss: finally young-DEF brother-LAT IV-know-PST.UNW brother-PL I.PL-go-PRS.PRT place
+Translation: In the end the younger brother knew the place his brothers were going to.
+
+Approximate Matches:
+Sentence: Mešizaxozo eƛin, buq bäturuntow muqno caƛin yizi mešibi ʕaƛaɣor rik’ixosiƛin.
+Gloss: bull.calf-PL-AD.ESS-ATTR.OBL say-PFV.CVB sun III-set-IMM.ANT.CVB-EMPH line-TOP draw-PFV.CVB DEM2.IPL bull.calf-PL village-IN.VERS III.PL-go-PRS.PRT-QUOT
+Translation: The one with the calves said: "Right after the sun sets, " ...
+Sentence: Zeyä xizyogon esin, eluz maduhalłiq yałru ʕaƛa łi ħaƛanix posu sida maqˤi yałruni keroqor rik’ixosi.
+Gloss: bear-ERG then tell-PST.UNW we(I).OBL-GEN2 neighbourhood-POSS.ESS be-PST.PRT village-IN.ESS water drink-MSD-AD.ESS cattle one.OBL far.away be-PST.PRT-DEF ravine-POSS.LAT IV-go-PRS.PRT
+Translation: The bear then told: "In a village in our neighbourhood, the cattle has to go to a ravine that is far a way in order to drink water.
+Sentence: Yedu kidgon Ražbadinqor baqru ʕišq’ud, netey yedu berten bodixƛin, iduɣor yik’ixosi hunin šuƛ’in qˤilo yok’ełxo.
+Gloss: DEM2.IISG girl-CNTR Razhbadin-POSS.LAT III-become-PST.PRT love-INSTR when-DUB DEM2.IISG marriage III-do-PRS-QUOT home-IN.ALL II-go-PRS.PRT way-TOP forget-PFV.CVB erroneously II-go.away-PRS
+Translation: The girl was so in love with Razhbadin, and because she prepared that marriage, she forgot the way home and got lost.

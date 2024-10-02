@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word maxsara in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word maxsara: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Insan mi esunäy däz kʷayär horo, yałi, eli maxsaryoƛ’ bisinč’ey, xizor bik’iƛin”.
+Gloss: human you exist-CND.CVB me-GEN2 hand-IN.LAT come.IMPR else we joke-SUPER.ESS I.PL-take-NEG.PST.CVB back I.PL-go-QUOT
+Translation: "If you are a human, come into my hand, or else this joke won't bluff us and we'll go back"
+Sentence: Ža maxsarno bacin, łox äƛiru hunix Zeyes Aħya bˤałayn risno oč’ino q’ˤim yołali aždaħno bexurno xalq’imoƛ’ay yedu ɣudi roɣanƛintow ik’in.
+Gloss: DEM1.SG joke-TOP III-bother-PFV.CVB thrice say-PST.PRT way-AD.ESS bear-GEN1 ear dagger-TOP IV-take-PFV.CVB nine head be-ATTR dragon-TOP III-kill-PFV.CVB people-SUPER.ABL DEM2.IISG day IV-take.away-FUT.CVB-QUOT-EMPH go-PST.UNW
+Translation: Being bothered by this mockery, Bear Ear took his dagger and went to kill the dragon with the nine heads and to take this burden off the people.
+Sentence: Neła äƛiruxor, xanez užä ač’urqor gulun bicin, k’ulä bäsuru ahlimoqor salamno teƛno eƛin, däqor meža maxsar boyłin, yiła guluqor badinoƛin.
+Gloss: DEM1.IISG.OBL-ERG say-PST.PRT-AD.LAT khan-GEN2 son-ERG handle-POSS.LAT horse-TOP III-tie-PFV.CVB side.street-IN.ESS I.PL-find-PST.PRT people-POSS.LAT greeting-TOP give-PFV.CVB say-PST.UNW me-POSS.LAT you(I).PL.OBL-ERG joke III-do-CNC.CVB DEM2.IISG.OBL horse-POSS.LAT III-do-PROHIB-QUOT
+Translation: According to what she said, the prince tied the horse to the handle gave a greeting to the people he found in the side street and said: "Although you can make jokes about me, do not make jokes about this horse!"

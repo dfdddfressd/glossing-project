@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yoda in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yoda: 
+
+Exact Matches
+Sentence: Mi t’or aždaħes xexoy ba di c’unzi yoda, howlo sidaɣ yołƛin teqsi där aždaħno, nełdegon sadaq łˤono xexoynƛin.
+Gloss: you here-LAT dragon-GEN1 young.animal III-bring.IMP me guard II-do-INF there in.one.place be-QUOT hear-ATTR me-LAT dragon-and DEM1.IISG.OBL-APUD.ESS-CNTR together three young.animal-and-QUOT
+Translation: Bring me a dragon's young to guard me; I heard somewhere there there is a dragon and beside it three youngs."
+
+Approximate Matches:

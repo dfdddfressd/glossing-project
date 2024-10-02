@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ero in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ero: 
+
+Exact Matches
+Sentence: Užä eƛin, anƛ’imarsi där hunixor qˤašo ero, mesedyos bašiqˤoy yałruni kid k’eda di ik’ix.
+Gloss: boy-ERG say-PFV.CVB week-LAT-ATTR me-LAT way-AD.LAT get.up-IMPR put-IMPR gold-GEN1 ring be-PST.PRT-DEF girl search-INF me go-PRS
+Translation: The boy answered: "Pack provisions for me for a way of one week, I'm going to search the girl with the golden ring."
+Sentence: Užä eniwqor eƛin, koyä bisanix kikiw, rac’anix t’aʕam yołäsi biša där ero, di esiw k’edanix ik’anƛin yoł.
+Gloss: boy-ERG mother-POSS.LAT say-PST.UNW hand-IN.ESS III-take-MSD-AD.ESS light IV-eat-MSD-AD.ESS taste be-RES.PRT food me-LAT set.up-IMPR me sister search-MSD-AD.ESS go-FUT.DEF-QUOT be
+Translation: The boy said to his mother: "Prepare me some food that's light to take into the hand but tasty to eat; I will go to search my sister."
+
+Approximate Matches:

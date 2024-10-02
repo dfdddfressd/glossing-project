@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eynoyn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eynoyn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eynoyn:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida bečedaw žek’uderno ik’in, nesiz k’udoz baɣman eynoyn, micxirno bodin, bižin babiwqor teƛno.
+Gloss: one.OBL wealthy man-APUD.LAT-TOP go-PFV.CVB DEM1.ISG.OBL-GEN2 vine-GEN2 garden-IN.ESS-TOP work-PFV.CVB money-TOP III-do-PFV.CVB III-carry-PFV.CVB father-POSS.LAT give-PST.UNW
+Translation: He went to a wealthy man, worked on his vineyard, earned money and carried it to give it to his father.
+
+Approximate Matches:
+Sentence: Eɣeni esiw siskin eynoynč’u.
+Gloss: young-DEF brother any work-NEG.PST.WIT
+Translation: "Our younger brother didn't work at all.
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: Xizaɣor ʕomoyn mešin gurow reynoynanu.
+Gloss: finally donkey-and bull.calf-and except III.PL-work-PFV.CVB-NEG
+Translation: Finally, only the donkey and the calf were working.

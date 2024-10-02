@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word howži in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word howži: 
+
+Exact Matches
+Sentence: Yizi esnazaqor Ismaʕilä eƛin, howži mežin xizoxno sisxoli di žedude dandir egirƛin.
+Gloss: DEM2.IPL.OBL brother-PL-POSS.LAT Ismail-ERG say-PST.UNW now you.PL-TOP withdraw-PFV.CVB alone me DEM1.IPL.OBL-APUD.ESS towards let-QUOT
+Translation: Ismail said to those brothers: "Now withdraw and let me go against them alone!"
+Sentence: Way dey užiƛin, regin babiwq, howži deber žukkin roqinč’inäy, di eƛix zownč’a dowqor neła aɣis tupi caƛinƛin.
+Gloss: o.dear me-GEN1 son-QUOT IV-be.emitted-PFV.CVB father-POSS.ESS now you-LAT worse-even IV-become-NEG.FUT.CVB-CND.CVB me say-IPFV.CVB be.NPRS-NEG.PST.WIT-PST.WIT.INT you-POSS.LAT DEM1.IISG.OBL bird-GEN1 rifle shoot.with-PROHIB-QUOT
+Translation: "Oh dear, my son!", said the father, "Have I not warned you that it would become bad for you now, if you shoot that bird with your rifle?"
+Sentence: Xizyo q’ˤidayn izin di dowderno nexno babiwqor eƛan, horo howži yiłas meč’ beč’oƛin.
+Gloss: afterwards down-IN.ABL-TOP get.up-PFV.CVB me you-APUD.LAT-TOP come-PFV.CVB father-POSS.LAT say-FUT.DEF come.IMPR now DEM2.IISG.OBL-GEN1 neck III-cut-IMPR-QUOT
+Translation: Then, when I got up, I will come to you and say to my father: 'Come now, cut off her neck!'
+
+Approximate Matches:
+Sentence: Łox esirno dandir žawab biqinč’izaƛ’, yizirabi kecsi howžiƛin, ɣoɣoräk’ru ħos risno užizasƛin eƛin kidbazas meč’oƛ’no eqerno, yik’in kecno.
+Gloss: thrice ask-PFV.CVB together answer III-get-NEG.FUT-CSL.CVB DEM2.PL sleep-PST.WIT now-QUOT make.red.hot-PST.PRT stick IV-take-PFV.CVB boy-PL-GEN1-QUOT say-PFV.CVB girl-PL-GEN1 neck-SUPER.ESS-TOP put-PFV.CVB II-go-PFV.CVB sleep-PST.UNW
+Translation: Because she had asked three times without getting an answer, [saying] "Now they're sleeping", she took the red-hot stick and - thinking it were the boys - put it onto the necks of the girls and went to sleep.

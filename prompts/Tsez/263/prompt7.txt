@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word adäza in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word adäza: 
+
+Exact Matches
+Sentence: Užä ža pardagi eniwł adäza ret’irnosi, riguƛ’ay rigu biša roƛixno elo ƛ’iri.
+Gloss: son-ERG DEM1.SG scarf mother-CONT.ESS before IV-make.a.bed-ANT.CVB IV-good-SUPER.ABL IV-good food IV-appear-PFV.CVB there above
+Translation: The son laid down the scarf before his mother and a lot of good food appeared on it.
+Sentence: Ħayran boqno yizä sidä sidqor eƛin, eloš nesi žek’uł adäza anusi šebinonwa anu, hudun nesiq łinaƛ’orkin reƛ’a regirełxanuwaƛin.
+Gloss: be.astonished I.PL-become-PFV.CVB DEM2.IPL-ERG one.OBL-ERG one.OBL-POSS.LAT say-PST.UNW over.there DEM1.ISG.OBL man-CONT.ESS before be.NEG-ATTR something-Q be.NEG nevertheless DEM1.ISG.OBL-POSS.ESS what.OBL-SUPER.LAT-even hand IV-let-POT-PRS-NEG-Q-QUOT
+Translation: They were surprised and talked among each other: "Isn't there everything possible on the table, but he nevertheless can't let his hand to any of it?"
+Sentence: C’irduxän adäza biłetown žawab teƛno.
+Gloss: Tsirdukh-Q-TOP before III-as-EMPH-TOP answer give-PST.UNW
+Translation: And Tsirdukh gave the same answer as before.
+
+Approximate Matches:
+Sentence: Žedu xabaryayxno teqno, bełiqa baruqor eƛin, mi uži bełiƛ’ egir, ža bełiƛ’ ik’inč’inäy, q’ˤuyzadäzay hudun elur ħak’omƛer šebin räqinč’iƛin.
+Gloss: DEM1.IPL talk-IPFV.CVB-TOP hear-PFV.CVB hunter-ERG wife-POSS.LAT say-PST.UNW you son hunting-SUPER.ESS let DEM1.SG hunting-SUPER.ESS go-NEG.FUT.CVB-CND.CVB other-PL-APUD.ABL.DIST nevertheless we(I).OBL-LAT khinkali-SUB.LAT thing IV-get-NEG.FUT-QUOT
+Translation: When he heard them talking, the hunter said to his wife, "Let the son on a hunt, if he won't go hunting, we won't have anything for our khinkali anyway."
+Sentence: Besura neła nełaz gugyoƛ’no zowerno, bełiqus uži neła kidbez ɣˤutkoł adäzar ižin kurno.
+Gloss: fish-ERG DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 back-SUPER.ESS-TOP seat-PFV.CVB hunter-GEN1 son DEM1.IISG.OBL girl-GEN2 house-CONT.ESS before-IN.LAT carry-PFV.CVB throw-PST.UNW
+Translation: The fish took the hunter's son onto his back, carried him to that girl's house and threw him off again.
+Sentence: Łäs tungin bic’no xizor yutin yedu nexƛ’oräy, esiwz žanazał adäzar yaynosi, gugyoq caƛin bowx zawru tungi begirno xecin yiła q’ˤidar.
+Gloss: water-GEN1 copper.jug-TOP III-fill-PFV.CVB back II-return-PFV.CVB DEM2.IISG come-SIM.CVB brother-GEN2 corpse-CONT.ESS before-IN.LAT II-come-ANT.CVB back-POSS.ESS throw-PFV.CVB III-bring-IPFV.CVB be.NPRS-PST.PRT copper.jug III-let-PFV.CVB leave-PFV.CVB DEM2.IISG.OBL-ERG down-LAT
+Translation: She filled the jug with water and while she was coming back, she came to the corpse of her brother, let the jug fall down, which was [bringing/thrown at her back???], and left.

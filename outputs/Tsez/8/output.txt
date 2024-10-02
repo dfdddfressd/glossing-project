@@ -1,0 +1,72 @@
+{
+  "word": "Ža",
+  "glosses": [
+    "DEM1.SG",
+    "boy",
+    "INV-3SG"
+  ]
+}
+{
+  "word": "riqin",
+  "glosses": [
+    "IV-take-PST.UNW",
+    "IV-get-PFV.CVB",
+    "IV-get-CND.CVB"
+  ]
+}
+{
+  "word": "yedu",
+  "glosses": [
+    "take",
+    "take.away",
+    "bring"
+  ]
+}
+{
+  "word": "łočyaƛ",
+  "glosses": [
+    "dance-SUPER.ESS",
+    "dancing-SUPER.ESS",
+    "dance-into-SUPER.ESS"
+  ]
+}
+{
+  "word": "yoɣxo",
+  "glosses": [
+    "II-take.away-IPFV.CVB",
+    "dance-SUPER.ESS",
+    "II-sit-INF"
+  ]
+}
+{
+  "word": "zawruni",
+  "glosses": [
+    "boy",
+    "INVITE-PST.UNW",
+    "dance"
+  ]
+}
+{
+  "word": "yiziz",
+  "glosses": [
+    "DEM2.IPL.OBL-GEN2",
+    "their",
+    "her/his/its"
+  ]
+}
+{
+  "word": "ƛirbas",
+  "glosses": [
+    "guest-GEN1",
+    "guest",
+    "guest-GEN1-DEF"
+  ]
+}
+{
+  "word": "užiqor",
+  "glosses": [
+    "boy-POSS.LAT",
+    "boy-POSS.LAT",
+    "boy-POSS.LAT"
+  ]
+}

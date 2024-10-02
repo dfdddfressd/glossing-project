@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: riyx.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": riyx
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word riyx:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža kid nesä yižixosi yałrułi Tawadir riyx zownanu.
+Gloss: DEM1.SG girl DEM1.ISG.OBL-ERG II-lead-PRS.PRT be-MSD Tavadi-LAT IV-know-IPFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: Tavadi didn't know that this girl was the one he was going to marry.
+Sentence: Nesir riyx zown suƛƛitow nełas q’ˤimbi reč’no roɣinč’inäy, neła ħal bayrxanusiłi.
+Gloss: DEM1.ISG.OBL-LAT IV-know-IPFV.CVB be.NPRS-PFV.CVB at.once-EMPH DEM1.IISG.OBL-GEN1 head-PL IV.PL-cut-PFV.CVB IV-take.away-NEG.FUT-CND.CVB DEM1.IISG.OBL-ERG trouble III-bring-NEG.PRS.PRT-CND.CVB.IRR
+Translation: He knew that if he didn't cut off all the heads at once, he wouldn't defeat it.
+Sentence: Barur riyx žaqˤuł xediw exuxosi yałrułi.
+Gloss: wife-LAT IV-know-PRS today husband die-PRS.PRT be-MSD
+Translation: The wife knew that today the husband would die.
+
+Approximate Matches:

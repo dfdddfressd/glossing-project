@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ruɣuƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ruɣuƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ruɣuƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełäz ruɣuƛ’ bercingo xal boyzaƛ’, neła bˤula gibaq bitirxot’a bižin.
+Gloss: DEM1.IISG.OBL-IN.ESS.DIST prints-SUPER.ESS good examination III-do-CSL.CVB DEM1.IISG.OBL-ERG hoof dust-POSS.ESS III-touch-IPFV.CVB-DISTR III-take.out-PST.UNW
+Translation: When I examined its hoofprints thoroughly, [I saw that] it only touches the dust with one hoof.
+
+Approximate Matches:
+Sentence: Haqan bogurno tełer ezun elo čanyazas ruɣutow rukaynč’izaƛ’, nesä ža zey begirno.
+Gloss: mouth-IN.ESS-TOP III-gape-CAUS-PFV.CVB into look-PFV.CVB there she.goat-PL-GEN1 prints-EMPH IV-see-NEG.FUT.CVB-CSL.CVB DEM1.ISG.OBL-ERG DEM1.SG bear III-let-PST.UNW
+Translation: He let him gape, looked into his mouth, and because he didn't see any footprints of the goats there, he let that bear go.
+Sentence: Sasaqosi ʕAliqilič nełaz ruɣuł xizay ik’in.
+Gloss: in.the.morning Aliqilich DEM1.IISG.OBL-GEN2 prints-CONT.ESS behind go-PST.UNW
+Translation: The next morning, Aliqilich followed its prints.
+Sentence: Neła baydanƛ’or aynosi, miƛ’zo iyos ruɣubin łiyn, šet’u utiƛ’oräy, yeda waħozoni dunyalƛ’orno ˤoƛ’un, sida ɣˤutkoz ƛ’ˤuƛ’ ƛ’iri c’oxno.
+Gloss: DEM1.IISG.OBL plain-SUPER.LAT come-ANT.CVB ram-ATTR.OBL blood-GEN1 prints-PL-TOP end-PFV.CVB around turn.back-SIM.CVB DEM2.ISG below-ATTR.OBL-DEF earth-SUPER.LAT-TOP fall-PFV.CVB one.OBL house-GEN2 roof-SUPER.ESS on hit-PST.UNW
+Translation: After he came to that plain, the ram's blood spots ended; when he turned around, he fell onto the earth/world below, and on the roof of a house.

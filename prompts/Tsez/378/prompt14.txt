@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word č’uramƛ’o in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word č’uramƛ’o: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neł č’uramxor ɣˤutkoxorno ik’in akäz ezunosi, sis ozuri yołali esiya q’ˤiryoƛ’ geler žek’uzas q’ˤimbi kurxo yukayn.
+Gloss: DEM1.IISG.OBL light-AD.LAT house-AD.LAT-TOP go-PFV.CVB window-IN.ESS.DIST look-ANT.CVB one eye be-ATTR sister-ERG floor-SUPER.ESS head.over.heals man-PL-GEN1 head-PL throw-IPFV.CVB II-see-PST.UNW
+Translation: He went to the house with light, looked into the window and saw his one-eyed sister throwing people's heads over the floor.
+Sentence: Šet’urno bezu-bˤoƛ’un, neła nasin č’urambi rukayxosi močibi äsiruxorgon, nesä ok’bi paqˤƛirxo ik’ix zown.
+Gloss: around-TOP III-examine-PFV.CVB DEM1.IISG.OBL-ERG all light-PL IV.PL-see-PRS.PRT place-PL tell-PST.PRT-AD.LAT-CNTR DEM1.ISG.OBL-ERG nail-PL hit-IPFV.CVB go-IPFV.CVB be.NPRS-PST.UNW
+Translation: He [Tsighruk] struck in nails to where he [the dragon], looking around and seeing all the light, told.

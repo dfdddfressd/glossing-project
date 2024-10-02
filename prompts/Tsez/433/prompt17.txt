@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ƛ’iräyn in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ƛ’iräyn: 
+
+Exact Matches
+Sentence: Habihanƛ’osi q’ʷariłin bukayn, ziru ƛ’iräyn boqno, xanzo kidbederno bik’in eƛin, ƛ’iräy yoq, mi di yaƛ’irsi.
+Gloss: miller-SUPER.ESS-ATTR sadness-TOP III-see-PST.UNW fox from.above-TOP III-become-PFV.CVB khan-GEN2 daughter-APUD.LAT-TOP III-go-PFV.CVB say-PST.UNW from.above II-become you me II-cheat-PST.WIT
+Translation: The fox saw the sadness that was upon the miller, forgave [him], went to the king's daughter and said: "Forgive [me], I cheated you."
+
+Approximate Matches:
+Sentence: Nełaƛ’ ƛ’iräy ħošin boɣno, q’ˤunader boƛi bok’no.
+Gloss: DEM1.IISG.OBL-SUPER.ESS from.above hide-TOP III-take.away-PFV.CVB two.OBL-APUD.LAT III-half III-beat-PST.UNW
+Translation: And they took away its hide and cut it into two halves.
+Sentence: Soder ezunosi, ƛ’iräy ƛ’iyor łäs čok boɣäsiƛax, wˤałer ezuzaƛ’ q’ˤidar axukin yayxanuƛax.
+Gloss: upward look-ANT.CVB from.above downwards water-GEN1 stream III-hatch-RES.PRT-QUOT downward-LAT look-CSL.CVB down-LAT drop-even II-come-PRS-NEG-QUOT
+Translation: When he looked upwards, a stream of water flowed down, but when he looked down, not even a drop of water came down.
+Sentence: Iħäy łi ħaƛanƛin yeda wˤałer užinosi, q’ˤimƛ’ay bˤoƛ’un bik’in k’uk, ƛ’iräy wˤałer łiya bižin.
+Gloss: river-IN.ABL water drink-FUT.DEF-QUOT DEM2.ISG downward-LAT bow.down-ANT.CVB head-SUPER.ABL III-fall-PFV.CVB III-go-PFV.CVB cap from.above downward-LAT water-ERG III-carry-PST.UNW
+Translation: With the intention to drink from the river, he bowed down and the cap fell down off is head and was carried downstream by the water.

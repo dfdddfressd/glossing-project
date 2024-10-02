@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣˤuč in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣˤuč: 
+
+Exact Matches
+Sentence: Ɣudƛ’ay ɣudƛ’or uži ħalaq’ oqxo ik’ix ukayn, sosigon babiya esirno nesiq, šebi deber roqno, šida mi ɣˤuč’ iłe oqxo ik’ixƛin.
+Gloss: day-SUPER.ABL day-SUPER.LAT son meager become-IPFV.CVB go-IPFV.CVB see-PFV.CVB again-CNTR father-ERG ask-PST.UNW DEM1.ISG.OBL-POSS.ESS what you-LAT IV-happen-PST.UNW why you stick as become-IPFV.CVB go-PRS-QUOT
+Translation: Seeing that from day to day the son went on to become thin, so the father asked him again: "What happened to you? Why are you becoming like a stick?"
+
+Approximate Matches:

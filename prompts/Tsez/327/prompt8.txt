@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kumak in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kumak: 
+
+Exact Matches
+Sentence: Eženi esiya eɣeniq reƛ’a caƛix kumak nesir boyx zown, yedakin ok’ełxanaƛin.
+Gloss: old-DEF brother-ERG young-DEF-POSS.ESS hand throw-IPFV.CVB help DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT
+Translation: The older brother was helping giving his hand to the younger one, so at least he might escape.
+Sentence: Žan nesis bit’araw yołƛin, eƛin kidbä, dowqor beč’no bigu hibo neƛsiyołi, nełan ʕuraw bigu kumak badiƛin.
+Gloss: DEM1.SG-TOP DEM1.ISG.OBL-GEN1 true be-QUOT say-PST.UNW daughter-ERG you-POSS.LAT III-cut-PFV.CVB III-good stick give-PST.WIT-COND.IRR DEM1.IISG.OBL-ERG-TOP very III-good help III-do-QUOT
+Translation: "That of him is true," said the girl, "if he carved a good cane and gave it to you, it would have been a good help."
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."
+
+Approximate Matches:
+Sentence: Nesiz kumakyoƛ’aza di elo č’agu ƛexus exurxo zawru.
+Gloss: DEM1.ISG.OBL-GEN2 help-SUPER.VERS.DIST me there alive remain-PST.WIT kill-IPFV.CVB be.NPRS-PST.PRT
+Translation: They wanted to kill me, but thanks to his help I stayed alive there.
+Sentence: Kusa ʕuraw ɣˤaɣˤu izin, nece beže maxšel yołäsi žek’u kumakyor iqizaƛ’ƛin.
+Gloss: Kusa very be.happy get-PST.UNW so.much III-big skill be-RES.PRT man help-LAT get-CSL.CVB-QUOT
+Translation: Kusa got very happy because he got such a skilled man for help.
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.

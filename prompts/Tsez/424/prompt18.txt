@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word äƛiru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word äƛiru: 
+
+Exact Matches
+Sentence: Zira äƛiru łinaƛ’no nasin razi roqno.
+Gloss: fox-ERG say-PST.PRT what.OBL-SUPER.ESS-TOP all agree III.PL-become-PST.UNW
+Translation: All agreed on what the fox said.
+Sentence: Eniya äƛiru rožbin rok’er ʕeze roqinč’ey, eženi užä eniwq q’ˤano magalun hunixor ererno, iday maħor oqno.
+Gloss: mother-ERG say-PST.PRT word-PL-TOP heart-LAT be.enough IV.PL-become-NEG.PST.CVB old-DEF son-ERG mother-POSS.ESS two bread-TOP way-AD.LAT put-CAUS-PFV.CVB home-IN.ABL outside become-PST.UNW
+Translation: The words that the mother had spoken didn't please his heart enough, so the oldest son let the mother give two breads to him for the way and left the home.
+Sentence: Q’ˤano äƛiru ɣudƛ’ogon zap’aniłnotow bayn zira eƛin, kurxo besunäy xexoy kuro, yałi di maħin rok’no ɣun recura yołƛin.
+Gloss: two say-PST.PRT day-SUPER.ESS-CNTR firmly-TOP-EMPH III-come-PFV.CVB fox-ERG say-PFV.CVB throw-IPFV.CVB III-appear-CND.CVB young.animal throw-IMPR else me tail-TOP IV-beat-PFV.CVB tree IV-break-INF be-QUOT
+Translation: On the second day, the fox came firmly and said: "Throw me down a nestling, or else I'll knock down the tree with my tail!"
+
+Approximate Matches:
+Sentence: Ža yoxärus, äƛiruxor, xanä bertenno bodin, deber rätiru šebinon riso iduɣor yik’iƛin riyrno.
+Gloss: DEM1.SG II-chase-PST.PRT-GEN1 say-PST.PRT-AD.LAT khan-ERG marriage-TOP III-do-PFV.CVB you-LAT IV-want-PST.PRT something IV-take-IMPR home-IN.ALL II-go-QUOT IV-explain-PST.UNW
+Translation: The king, as he had said, organized a wedding on the [day of the] divorce and explained: "Take everything you want and go home!"
+Sentence: Łox äƛirugon yeda ʕuqła ik’inosi, bełiquz užä zeyes mus bik’urno.
+Gloss: thrice ORD-CNTR DEM2.ISG hide-INF go-ANT.CVB hunter-GEN2 boy-ERG bear-GEN1 hair III-burn-CAUS-PST.UNW
+Translation: After the hunter's son went hiding for the third time, he burnt the bear's hair.
+Sentence: Hudun eženi esiya xecinč’izaƛ’, nesä äƛiruxor rodin.
+Gloss: nevertheless old-DEF brother-ERG leave-NEG.FUT.CVB-CSL.CVB DEM1.ISG.OBL-ERG say-PST.PRT-AD.LAT IV-do-PST.UNW
+Translation: Nevertheless, because the older brother wouldn't leave it be, he did what he said.

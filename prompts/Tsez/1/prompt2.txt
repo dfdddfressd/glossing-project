@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: idu using Leipzig glossing symbols. The sentence this word is drawn from means: ""His wife and children live at Razhbadin's home", answered the old man.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": idu
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word idu:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida idu q’ˤuna xaner moči boqxosi anu.
+Gloss: one.OBL home two.OBL khan-LAT place I.PL-become-PRS.PRT be.NEG
+Translation: In one home there is no place for two kings.
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.
+Sentence: Yisiz idu lagiƛ baħa mužikin ƛexun zownanu.
+Gloss: DEM2.ISG.OBL-GEN2 home body-SUB.ESS III-lay-INF mattress-even remain-PFV.CVB be.NPRS-PFV.CVB-NEG
+Translation: And at his home not even a mattress remained to be laid under his body.
+
+Approximate Matches:

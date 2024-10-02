@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: baqru.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": baqru
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word baqru:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.
+Sentence: Idur ayza qułtow, neširu kʷat’izi baqru mixƛ’o, iday maħorno oqno, ɣˤutkoł adäzarno ik’in, yisä k’emot’ yaɣˤirun, elo ixiw ɣˤutku roqno.
+Gloss: home-LAT come-ZA day-CONT.ESS-EMPH at.night be.late III-become-PST.PRT late.at.night home-IN.ABL outside-TOP become-PFV.CVB house-CONT.ESS before-IN.LAT-TOP go-PFV.CVB DEM2.ISG.OBL-ERG wooden.case II-open-IMM.ANT.CVB there big house IV-become-PST.UNW
+Translation: On the day when he came home, when it has become late at night, he got outside his home, went in front of his house and right when he opened the box, a big house came into being there.
+Sentence: Ya yexun yäsu ža, ya č’agu yäsuƛin xanqorno eƛin, yedu režet’ani esnazadäɣor yik’in, xanesno yiłasno baqru xabaryołäy esanix.
+Gloss: either II-die-PFV.CVB II-exist DEM1.SG either alive II-exist-QUOT khan-POSS.LAT-TOP say-PFV.CVB DEM2.IISG IV-old-DISTR-DEF sister-PL-APUD.VERS II-go-PFV.CVB khan-GEN1-and DEM2.IISG.OBL-GEN1-and III-happen-PST.PRT story-CONT.ABL tell-MSD-AD.ESS
+Translation: Maybe she is dead, or maybe she is alive." she said to the king, went to the older sister and told that story that happened to her and the king.
+
+Approximate Matches:
+Sentence: Kidber riyn nełaz babiwł adäza t’et’erxo zawruni užiłäy gulu baqrułi.
+Gloss: daughter-LAT IV-know-PST.UNW DEM1.IISG.OBL-GEN2 father-CONT.ESS before learn-IPFV.CVB be.NPRS-PST.PRT-DEF boy-CONT.ABL horse III-become-MSD
+Translation: His daughter knew that the horse used to be the boy, who learned in front of her father.
+Sentence: Buħi baqruntow yizi mešibi iduɣor raxiƛin, žawab boyn aħa žedur.
+Gloss: heat III-become-IMM.ANT.CVB-EMPH DEM2.IPL bull.calf-PL home-IN.ALL III.PL-run.away-QUOT answer III-do-PFV.CVB shepherd-ERG DEM1.IPL.OBL-LAT
+Translation: "Just when it gets hot, these calves will run home", the shepherd answered them.
+Sentence: Igtow ɣˤaɣˤun izin Tawadä nesis roƛ’i baqruni kid Ražbadinqo yukarno.
+Gloss: much-EMPH be.happy-TOP get.up-PFV.CVB Tavadi-ERG DEM1.ISG.OBL-GEN1 love III-become-PST.PRT-DEF girl Razhbadin-POSS.ESS II-show-PST.UNW
+Translation: Tavadi became very happy and showed Razhbadin the girl that became his love.

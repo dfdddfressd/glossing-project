@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word koyä in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word koyä: 
+
+Exact Matches
+Sentence: Iłira äƛiru ɣudƛ’o užä dahawtow koyä bixno risno ik’in, rečuƛäy mäħorno roɣno, ƛ’iri reƛ’un erno xizazgon gutanno yicin mečołxor rižin.
+Gloss: six.OBL say-PST.PRT day-SUPER.ESS boy-ERG a.little-EMPH hand-IN.ESS hay-TOP IV-take-PFV.CVB go-PFV.CVB cattleshed-SUB.ABL outside-TOP III.PL-take.away-PFV.CVB above yoke-TOP put-PFV.CVB from.behind-CNTR plow-TOP II-tie-PFV.CVB field-CONT.VERS III.PL-lead-PST.UNW
+Translation: On the sixth day, the boy went to take a little hay in his hand, took them out of the shed, put a yoke around them, tied a plow behind it and lead them into the field.
+Sentence: Q’ˤimzo ʕaƛar ža t’umi baynosi, akä q’ˤida yäčiru sida kidbez koyä heqno.
+Gloss: oneself-GEN2 village-IN.LAT DEM1.SG pigeon III-come-ANT.CVB window-IN.ESS under II-sit-PST.PRT one.OBL girl-GEN2 hand-IN.ESS sit.down-PST.UNW
+Translation: When the pigeon had come to its own village, it sat down in the hand of a girl who was sitting under a window.
+Sentence: Užin koyä isno yisä nełaqay, narce yedu yäk’iƛin gama tełäy yoqa yegirno xecin.
+Gloss: son-TOP hand-IN.ESS take-PFV.CVB DEM2.ISG.OBL-ERG DEM1.IISG.OBL-POSS.ABL where-TERM DEM2.IISG II-go-QUOT boat-IN.ESS inside-IN.ABL II-become-INF II-let-PFV.CVB leave-PST.UNW
+Translation: He took the son from her into his hand, [thinking] "Where could she go?" and let her get out of the boat's inside.
+
+Approximate Matches:

@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xanez using Leipzig glossing symbols. The sentence this word is drawn from means: "Then one henchman saw the wives that the king's son had hidden inside the fortress.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xanez
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xanez:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕAƛaza ec’no xabar šebiƛin yisä esirnosi, sida maduhalä esin, xanez yeɣeni kidbeƛäy bitor sidä sis esnabi bexursiƛin.
+Gloss: village-IN.VERS.DIST new story what-QUOT DEM2.ISG.OBL-ERG ask-ANT.CVB one.OBL neighbor-ERG tell-PST.UNW khan-GEN2 II-young-DEF daughter-SUB.ABL because.of one.OBL-Q one brother-PL I.PL-kill-PST.WIT-QUOT
+Translation: When he asked: "What's new in the village?", a neighbor told: "The brothers killed each other because of the king's youngest daughter."
+Sentence: Hudayziko xanez kidbä neła nełas ɣarabaš yezu-yoƛ’ˤanix łeno minutno beč’no bazaryaɣor yegirno.
+Gloss: the.next.day khan-GEN2 daughter-ERG DEM1.IISG.OBL DEM1.IISG.OBL-GEN1 servant II-examine-MSD-AD.ESS five minute-TOP III-cut-PFV.CVB bazar-IN.VERS II-send-PST.UNW
+Translation: The next day, the princess sent her own servant to the market for five minutes to have a look.
+Sentence: Yeda bełiƛ’ ik’a aqzay soder xanez nukarzaskin bełis bax bexun.
+Gloss: DEM2.ISG hunting-SUPER.ESS go-INF begin-SIM.CVB after khan-GEN2 henchman-PL-GEN1-even hunting-GEN1 success III-die-PST.UNW
+Translation: After he began to go hunting, even the king's henchmen's hunting luck deteriorated.
+
+Approximate Matches:
+Sentence: Yoƛosini, hič’č’an bercinawni xanes kid yołƛin, yukarno Ismaʕilä.
+Gloss: II-middle-ATTR-DEF the.most-TOP beautiful-DEF khan-GEN1 daughter be-QUOT II-show-PST.UNW Ismail-ERG
+Translation: "The middle one, the most beautiful daughter of the king.", Ismail showed here.
+Sentence: Q’ˤidayn izin xanes užin išno.
+Gloss: down-IN.ABL-TOP get.up-PFV.CVB khan-GEN1 son-TOP eat-PST.UNW
+Translation: Up also got the prince and ate.
+Sentence: Nełƛ’osi kʷaxatow, habihanno zirun xanes kid esiranix bik’in.
+Gloss: of.that.time soon-EMPH miller-and fox-and khan-GEN1 daughter ask-MSD-AD.ESS I.PL-go-PST.UNW
+Translation: Soon after that, the miller and the fox went to ask for the king's daughter.

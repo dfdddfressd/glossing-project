@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yołäsin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yołäsin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yołäsin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elay bizin bik’iƛ’oräy žedude dandir nexxo iłno q’ˤim yołäsi aždaħ bukayn.
+Gloss: there-IN.ABL I.PL-get.up-PFV.CVB I.PL-go-SIM.CVB DEM1.IPL.OBL-APUD.ESS towards come-IPFV.CVB six head be-RES.PRT dragon III-see-PST.UNW
+Translation: From there they got up, and saw a six-headed dragon coming towards them.
+Sentence: Sasaqosi moƛaxay yäziru eniw, ɣˤutkoł adäza mesedyos ƛ’ˤu yołäsi ɣˤutku rukayn.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-PST.PRT mother house-CONT.ESS before gold-GEN1 roof be-RES.PRT house IV-see-PST.UNW
+Translation: The next morning the mother who got up from her sleep, saw a house with a golden roof in front of her house.
+Sentence: ʕAnsan koyä yołäsi ƛ’irir ayru ečru žek’a žaqay bayan bisno šebi t’o sasaqtow rodixƛin.
+Gloss: walking.stick-TOP hand-IN.ESS be-RES.PRT above-LAT come-PST.PRT old man-ERG boy-POSS.ABL information III-take-PST.UNW what here in.the.morning-EMPH IV-do-PRS-QUOT
+Translation: An old man got up with a walking stick in his hand and wanted to know from the boy: "What are you doing here in the morning?"

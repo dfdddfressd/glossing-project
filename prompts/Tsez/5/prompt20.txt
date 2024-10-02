@@ -1,0 +1,30 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ˤuribin using Leipzig glossing symbols. The sentence this word is drawn from means: "One day the young man brought the turkeys [home] in the evening, took the glass out of his pocke and said: "May here on the field be a house and inside a good table and chairs around it!"".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ˤuribin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ˤuribin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Q’ˤida bičanix yiziƛer uyno q’ˤuri rayrno.
+Gloss: down I.PL-sit-MSD-AD.ESS DEM2.IPL.OBL-SUB.LAT four chair IV-bring-PST.UNW
+Translation: He brought four chairs for them to sit down.
+Sentence: Xanä madaxozoniqor eƛin, mesedyos q’ˤuri užiƛer teƛ, micxiryos - kidbeƛer, pakmos - ƛirbaqor, qacis q’ˤuri imyoqor yicin zawruni ɣˤanazaqor teƛƛin.
+Gloss: khan-ERG gate-AD.ESS-ATTR.OBL-DEF-POSS.LAT say-PST.UNW gold-GEN1 chair boy-SUB.LAT give silver-GEN1 - girl-SUB.LAT copper-GEN1 - guest-POSS.LAT wood-GEN1 chair pole-POSS.LAT II-tie-PFV.CVB be.NPRS-PST.PRT-DEF woman-POSS.LAT give-QUOT
+Translation: The king said to the guard: "Give the golden chair to the boy, the silver one to the girl, the copper one to the guest and the wooden one give to the woman who was tied to the pole."
+Sentence: K’oƛin yedu yäk’iru, q’ˤuriƛ’orno izin meč’oxor q’aq’at’u kurxo esun.
+Gloss: run-PFV.CVB DEM2.IISG II-go-PST.PRT chair-SUPER.LAT-TOP get-PFV.CVB neck-AD.LAT noose throw-IPFV.CVB exist-PST.UNW
+Translation: She ran away and he had already gotten on a chair and thrown a noose around his neck.

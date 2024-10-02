@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word reč’o in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word reč’o: 
+
+Exact Matches
+Sentence: Xaner šebi yałru iyač’iniƛäy mi dey q’ˤimno reč’o, iyos orezni boqnosi min ok’äł t’ayƛin, xizyo nesiqor amanat bodin, mi dey q’ˤimno ruqˤo, yeɣeni esiwqno rukarno, nagaħ dey laga debeq biqinäy, q’ˤimde sadaq buyn šušoƛin.
+Gloss: khan-LAT who be-PST.PRT know-INF-NEG.FUT-PURP.CVB you me-GEN1 head-TOP IV-cut-IMPR blood-GEN1 pond III-become-ANT.CVB you-TOP escape from.here-QUOT afterwards DEM1.ISG.OBL-POSS.LAT order III-do-PFV.CVB you me-GEN1 head-TOP IV-hide-IMPR II-young-DEF sister-POSS.ESS-TOP IV-show-PROHIB suppose me-GEN1 body you-POSS.ESS III-get-CND.CVB head-APUD.ESS together III-indeed-TOP bury-IMPR-QUOT
+Translation: For the king won't know who it was, cut off my head and escape from there after there is a large pool of blood!"; then he gave him the order: "And hide my head, don't show it to our little sister, if you can get my body, bury it together with my head."
+
+Approximate Matches:
+Sentence: Nesä yisiqor eƛin, enda ɣun reč’oƛin.
+Gloss: DEM1.ISG.OBL-ERG DEM2.ISG.OBL-POSS.LAT say-PST.UNW DEM3b.SG tree IV-cut-IMPR-QUOT
+Translation: He said to him: "Chop down that tree!"
+Sentence: Mi nesiqor eƛo, sosi mitow reč’oƛin.
+Gloss: you DEM1.ISG.OBL-POSS.LAT say-IMPR at.first you-EMPH IV-cut-IMPR-QUOT
+Translation: Say to him: 'You chop first!'
+Sentence: Didur ža reč’xosi där riyxanu, sosi mitow reč’oƛin, eƛin Ħusenä nesiqor.
+Gloss: how DEM1.SG IV-cut-PRS.PRT me-LAT IV-know-IPFV.CVB-NEG at.first you-EMPH IV-cut-IMPR-QUOT say-PST.UNW Hussein-ERG DEM1.ISG.OBL-POSS.LAT
+Translation: "I don't know how to chop it down, you chop first!", said Hussein to him.

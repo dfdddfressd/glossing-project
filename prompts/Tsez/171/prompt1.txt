@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Xizaz.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Xizaz
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Xizaz:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Esnazał xizaz ixiw raład boqno.
+Gloss: sister-PL-CONT.ESS behind big sea III-become-PST.UNW
+Translation: And a big sea formed behind the sisters.
+Sentence: Žeda yeda ader egirno eli xizaz bayanƛin.
+Gloss: DEM1.IPL.OBL-ERG DEM2.ISG forward send-PFV.CVB we behind I.PL-come-FUT.DEF-QUOT
+Translation: They sent him ahead, [saying]: "We'll come behind."
+Sentence: Elus xan oxisƛin, nesiłgon xizaz wazirbin čˤaƛin bik’in.
+Gloss: we(I).OBL-GEN1 khan run.away-PST.WIT-QUOT DEM1.ISG.OBL-CONT.ESS-CNTR behind vizier-PL-TOP rush-PFV.CVB I.PL-go-PST.UNW
+Translation: [Saying] "Our king ran away!", his viziers went running behind him.
+
+Approximate Matches:
+Sentence: Iłira äƛiru ɣudƛ’o užä dahawtow koyä bixno risno ik’in, rečuƛäy mäħorno roɣno, ƛ’iri reƛ’un erno xizazgon gutanno yicin mečołxor rižin.
+Gloss: six.OBL say-PST.PRT day-SUPER.ESS boy-ERG a.little-EMPH hand-IN.ESS hay-TOP IV-take-PFV.CVB go-PFV.CVB cattleshed-SUB.ABL outside-TOP III.PL-take.away-PFV.CVB above yoke-TOP put-PFV.CVB from.behind-CNTR plow-TOP II-tie-PFV.CVB field-CONT.VERS III.PL-lead-PST.UNW
+Translation: On the sixth day, the boy went to take a little hay in his hand, took them out of the shed, put a yoke around them, tied a plow behind it and lead them into the field.
+Sentence: Howži Ħon-Bahadurä k’oƛin ik’in hič’č’a bercinawni kidbes lelno yisno, ɣunoł xizaza uqˤełno ičin.
+Gloss: now Mountain~Hero-ERG run-PFV.CVB go-PFV.CVB the.most beautiful-DEF girl-GEN1 feather-TOP II-take-PFV.CVB tree-CONT.ESS behind-IN.ESS hide-PFV.CVB wait-PST.UNW
+Translation: Now Mountain~Hero ran and took the feathers of the most beautiful girl and ran back to hide behind the tree.
+Sentence: Elay bitor boxin bik’ix boc’in axoł šäširuni xarcelid bix kosix, xizazgon et’unč’ey neła kasiruni bix rutirxo din ik’ix zows, neduräy žagon bˤeƛ’än rac’xo zows.
+Gloss: there-IN.ABL thither III-run.away-PFV.CVB III-go-IPFV.CVB wolf-TOP belly-CONT.ESS get.stuck-PST.PRT-DEF scythe-INSTR grass mow-IPFV.CVB behind-CNTR stay.behind-NEG.PST.CVB DEM1.IISG.OBL-ERG mow-PST.PRT-DEF grass IV-gather-IPFV.CVB me-TOP go-IPFV.CVB be.NPRS-PST.WIT so-IN.ABL DEM1.SG-CNTR sheep-ERG-TOP IV-eat-IPFV.CVB be.NPRS-PST.WIT
+Translation: From there the wolf ran away with the scythe being stuck in the belly mowing grass, but I didn't stay behind but went gathering the mowed grass; so the sheep were eating it.

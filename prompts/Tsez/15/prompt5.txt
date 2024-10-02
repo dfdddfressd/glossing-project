@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rik’in.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rik’in
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rik’in:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Dandi yizi huniƛxor k’oƛin bok’ełno, žedu zawza mečoƛ’ ža ɣunno rik’in c’oxno.
+Gloss: only DEM2.IPL way-SUB.LAT run-PFV.CVB I.PL-escape-PFV.CVB DEM1.IPL be.NPRS-LCV.CVB place-SUPER.ESS DEM1.SG tree-TOP IV-go-PFV.CVB hit-PST.UNW
+Translation: They had just gotten out of the way, and that tree hit the place where they had been.
+Sentence: Boyxosi ħalt’i łiynosi, esnabin iduɣor rik’in.
+Gloss: III-do-PRS.PRT work end-ANT.CVB sister-PL-TOP home-IN.ALL II.PL-go-PST.UNW
+Translation: When they finished the work, the sisters went home.
+Sentence: Hemedur ƛˤebrebi rik’in nesis uži aq’ˤiłno ʕoloqan oqno, baru yowa mix bayn nesis.
+Gloss: so year-PL II.PL-go-PFV.CVB DEM1.ISG.OBL-GEN1 son grow.up-PFV.CVB young become-PFV.CVB wife II-marry-INF time III-come-PST.UNW DEM1.ISG.OBL-GEN1
+Translation: So the years went by, his son grew up and became a young man, and the time came for him to marry.
+
+Approximate Matches:
+Sentence: Xanzo barus naysinan ci rik’inƛax ɣˤʷays k’ucin, k’et’us xexoyn neła ƛuƛin rodinƛin.
+Gloss: khan-GEN2 wife-GEN1 everywhere name IV-go-PST.UNW-QUOT dog-GEN1 puppy-and cat-GEN1 young.animal-and DEM1.IISG.OBL-ERG give.birth-PFV.CVB III.PL-do-PST.UNW-QUOT
+Translation: The king's wife became known everywhere for the fact that she gave birth to a puppy and a kitten.
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.
+Sentence: Roƛƛ’o q’ˤanogon anƛ’ rik’inosi, hemedurtow riyrinč’ey rekan riqirno, dice reƛ ƛexunƛin xal bodinosi, sida quł rac’ace ƛexasi resun.
+Gloss: IV-half-SUPER.ESS two-CNTR week IV-go-ANT.CVB so-EMPH IV-explain-NEG.PST.CVB key-TOP IV-take.away-PFV.CVB how.much meat remain-PFV.CVB-QUOT examination III-do-ANT.CVB one.OBL day-CONT.ESS IV-eat-TERM remain-RES.PRT IV-find-PST.UNW
+Translation: After two weeks had passed, he took the key away without letting her know in the same way, and took a look how much meat would remain, and he found that it would remain to eat for one day.

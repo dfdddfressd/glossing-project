@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word gondun in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word gondun: 
+
+Exact Matches
+Sentence: Ac ħišäsi yesuzaƛ’, ƛ’ˤuƛ’orno bizin, gondun yoɣno, tełerno boqno, łenon užin igin kurno.
+Gloss: door lock-RES.PRT II-find-CSL.CVB roof-SUPER.LAT-TOP III-get.up-PFV.CVB big.hole-TOP II-take.away-PFV.CVB to.the.inside-TOP III-become-PFV.CVB five-TOP son-TOP swallow-PFV.CVB throw-PST.UNW
+Translation: Because it found the door locked, it got onto the roof, made a hole, got inside and gobbled the five sons up.
+Sentence: Sidaɣ maqˤir ciqaɣorno yisä yedu yižin, hemedurtow gondun yič’in, ƛ’irigon zozis ƛ’ˤun bodin howlo žan xecin babiw xizor utin nexno.
+Gloss: in.one.place far.away-LAT forest-IN.VERS-TOP DEM2.ISG.OBL-ERG DEM2.IISG II-lead-PFV.CVB so-EMPH big.hole-TOP II-dig-PFV.CVB above-CNTR moss-GEN1 roof-TOP III-do-PFV.CVB there DEM1.SG-TOP leave-PFV.CVB father back return-PFV.CVB come-PST.UNW
+Translation: The father led her to a place far away in the forest, likewise dug a hole and built a roof of moss ontop, left her there and returned.
+Sentence: Elo k’edanayx ɣˤʷay yałzay, sidaɣaza got’eł gondun yoɣno, ziru bixiq c’i atagon reʕizi boqno.
+Gloss: there search-IPFV.CVB dog be-SIM.CVB in.one.place-IN.VERS.DIST haystack-CONT.ESS big.hole-TOP II-take.away-PFV.CVB fox hay-POSS.ESS fire light-INF-CNTR have.no.time III-become-PST.UNW
+Translation: While the dog was being searching there, the fox made a hole in some place in the haystack and hurried to set fire to the hay.
+
+Approximate Matches:
+Sentence: Hemeł zamanał, sidaɣ mečoƛ’ č’ʷadma teł gondu yoqno.
+Gloss: DEM4.IISG.OBL time-CONT.ESS in.one.place place-SUPER.ESS ruin-IN.ESS inside big.hole II-happen-PST.UNW
+Translation: At this time, a big hole appeared somewhere in the ruin.
+Sentence: ƛ’ˤuƛ’or bizin bezunosi, elo yizir gondu yesun, elo tełer bezunosi, aždaħ bukayn.
+Gloss: roof-SUPER.LAT I.PL-get.up-PST.UNW I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT big.hole II-find-PFV.CVB there into I.PL-look-ANT.CVB dragon III-see-PST.UNW
+Translation: They got up onto the roof, had a look and found a big hole; when they looked into it, they saw the dragon.
+Sentence: Hunix bik’iƛ’oräytow, raƛ’moƛ tełxor gondu yesun.
+Gloss: way-AD.ESS I.PL-go-SIM.CVB-EMPH earth-SUB.ESS inside-AD.LAT big.hole II-find-PST.UNW
+Translation: While they were going on their way, the found a hole that lead inside the earth.

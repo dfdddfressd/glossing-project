@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word debeqƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word debeqƛin: 
+
+Exact Matches
+Sentence: Ismaʕilä bašiqay roɣno bašiqˤoy teƛno yeženiqor, enda xanez kidbeqor teƛa bažarizi raqä debeqƛin.
+Gloss: Ismail-ERG finger-POSS.ABL IV-take.away-PFV.CVB ring give-PFV.CVB II-old-DEF-POSS.LAT DEM3b.SG khan-GEN2 daughter-POSS.LAT give-INF able IV-become-Q you-POSS.ESS-QUOT
+Translation: Ismail took a ring from his finger and gave it to the old woman: "Could you give it to the king's daughter?"
+Sentence: ƛirbas nediw bažarin bukayn, dibirä eƛin, yiła ʕaƛa xanłi roda ray debeqƛin.
+Gloss: guest-GEN1 such skill-TOP III-see-PFV.CVB imam-ERG say-PST.UNW DEM2.IISG.OBL village-IN.ESS khanship IV-do-INF IV-must you-POSS.ESS-QUOT
+Translation: Having seen this kind of skill of his guest, the imam said: "You must become king in this village!"
+
+Approximate Matches:
+Sentence: Nagaħ dey wasi debeq t’ubazi boda k’ʷeze boqinč’inäy, ƛexeƛ yałru akamxor ročno regirno ɣanq’izin oqno exuƛin.
+Gloss: suppose me-GEN1 testament you-POSS.ESS fulfill III-do-INF can III-happen-NEG.FUT.CVB-CND.CVB ceiling-SUB.ESS be-PST.PRT hook-AD.LAT rope-TOP IV-let-PFV.CVB strangle-TOP become-PFV.CVB die-QUOT
+Translation: Suppose you can't fulfill my testament, then bind a rope to a hook under the ceiling, hang yourself and die!"
+Sentence: Yedu risxozo žek’uqor mi eƛoƛin, eƛin kidbä nełqor, debeq yiłas bašiqˤoy baha bäzinč’iƛin.
+Gloss: DEM2.IISG IV-buy-PRS.PRT.OBL man-POSS.LAT you say-IMPR-QUOT say-PFV.CVB girl-ERG DEM1.IISG.OBL-POSS.LAT you-POSS.ESS DEM2.IISG.OBL-GEN1 ring price III-get-NEG.FUT-QUOT
+Translation: "Say to the person who wants to buy it:" the girl told her, "'You won't affort the price.'
+Sentence: Nełƛ’osi baq’ˤu zaman bik’izaƛ’ortow, łox äƛirugon acmoq deqƛin.
+Gloss: of.that.time III-much time III-go-POST.CVB-EMPH thrice ORD-CNTR door-POSS.ESS knock-PST.UNW
+Translation: And alot more time after that, it knocked on the door a third time.

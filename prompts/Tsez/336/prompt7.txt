@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łˤono in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łˤono: 
+
+Exact Matches
+Sentence: Nesis łˤono uži zown.
+Gloss: he.OBL-GEN1 three son be.NPRS-PST.UNW
+Translation: He had three sons.
+Sentence: Nesä neła bełis łˤono but’a yodix zown, sis but’a awarager, sis miskinzar, sideni q’ˤimä q’ˤimzo haq’ur iduɣor yowx zown.
+Gloss: DEM1.ISG.OBL-ERG DEM1.IISG.OBL hunting-GEN1 three part II-do-IPFV.CVB be.NPRS-PFV.CVB one part prophet-LAT one poor-PL-LAT the.other.one oneself-ERG oneself-GEN2 family-LAT home-IN.ALL II-bring-IPFV.CVB be.NPRS-PST.UNW
+Translation: He always made three parts of what he hunted, one part he gave to the prophet, one to the poor, and the other part he brought to his own family's home.
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.
+
+Approximate Matches:
+Sentence: Sida zamanałäy eɣeni esiya nasin žeda roƛäk’ru šebinabi yizas xot’ozaxor kurnosi, łˤonontow yisił adäzarno rayn esirno, šebi deber elaqay ħažat roqnoƛin.
+Gloss: one.OBL time-CONT.ABL young-DEF brother-ERG all DEM1.IIPL.OBL-ERG IV-appear-PST.PRT thing-PL DEM2.IIPL.OBL-GEN1 foot-PL-AD.LAT throw-ANT.CVB three-TOP-EMPH DEM2.ISG.OBL-CONT.ESS before-IN.LAT-TOP IV-come-PFV.CVB ask-PST.UNW what you-LAT we(II-POSS.ABL necessity IV-become-PST.UNW-QUOT
+Translation: After some time, the young brother threw the things that they listed to their feet, and they went before him and asked: "What do you need from us?"
+Sentence: Ža kaɣat t’et’erno łiynosi, łˤoran xexza nesiqor eƛin, eli łˤonon bik’a yoł debez halmaɣ Tawadidäɣor.
+Gloss: DEM1.SG letter read-PFV.CVB end-ANT.CVB three.OBL-TOP children DEM1.ISG.OBL-POSS.LAT say-PST.UNW we three-TOP I.PL-go-INF be you-GEN2 friend Tavadi-APUD.VERS
+Translation: When he finished reading the letter, his three children said to him: "We three will go to your friend Tavadi.
+Sentence: Łˤono äƛiru t’alamzo čardaħäɣor oqnosi, raɣiƛ aɣzas šeƛ’u ƛ’iräy roɣxo łˤonon bercinawt’a kidbabi rukayn.
+Gloss: three say-PST.PRT floor-GEN2 balcony-IN.VERS become-ANT.CVB veranda-SUB.ESS bird-PL-GEN1 clothing from.above IV-take.away-IPFV.CVB three-TOP beautiful-DISTR girl-PL II.PL-see-PST.UNW
+Translation: When he came to the balcony on the third floor, he saw three beautiful girls undressing of birds' clothes under the veranda.

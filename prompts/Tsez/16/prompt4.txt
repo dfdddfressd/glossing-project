@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: saɣyatno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": saɣyatno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word saɣyatno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Budumä äsiru xabaryoƛ’ xan c’aq’ ʕažaibno oqno, nesir micxirno teƛno, ƛ’irigon bigu saɣyatno bodin, žan egirno.
+Gloss: muezzin-ERG tell-PST.PRT story-SUPER.ESS khan very surprise-TOP become-PFV.CVB DEM1.ISG.OBL-LAT money-and give-PFV.CVB above-CNTR III-good present-and III-do-PFV.CVB DEM1.SG-and send-PST.UNW
+Translation: The king was very surprised about what the muezzin told, he gave him money and nice presents and let him go.
+
+Approximate Matches:
+Sentence: Rigu ƛirbałin rodin, ža čantan saɣyatyos teƛno, ceyä bełiqan hunix egirno, neła čantaƛ’osi iƛ’u idur ayzaƛ’or yizärnoƛin.
+Gloss: IV-good hospitality-TOP IV-do-PFV.CVB DEM1.SG pocket-TOP present-GEN1 give-PFV.CVB eagle-ERG hunter way-AD.ESS send-PFV.CVB DEM1.IISG.OBL-ERG pocket-SUPER.ESS-ATTR lid home-LAT come-POST.CVB II-lift-PROHIB-QUOT
+Translation: Being a good host, the eagle gave the pocket as a present and sent the hunter on his way [saying]: "Don't lift the pocket's lid before you came home!"
+Sentence: Esnabi ʕuraw ɣˤaɣˤun bizin, Ħon-Bahadurer saɣyatyabin rodin, riguƛ’ay rigu bišadyos ħurženyabin ric’no, yedan hunix egirno.
+Gloss: brother-PL very be.happy-TOP I.PL-get-PFV.CVB Mountain~Hero-LAT present-PL-and III.PL-do-PFV.CVB IV-good-SUPER.ABL IV-good food-GEN1 bag-PL-and IV.PL-fill-PFV.CVB DEM2.ISG-TOP way-AD.ESS send-PST.UNW
+Translation: The brothers got very happy, gave Mountain~Hero presents and filled a bag with the best food and sent him on his way.
+Sentence: Nełƛ’ay soder raq’ˤu saɣyatyabi nesä xanez kidber regirno.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after III.PL-many present-PL DEM1.ISG.OBL-ERG khan-GEN2 daughter-LAT III.PL-send-PST.UNW
+Translation: After that he sent many presents to the king's daughter.

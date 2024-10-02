@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bˤeliz in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bˤeliz: 
+
+Exact Matches
+Sentence: Elaygon ƛ’iyor oqno nexƛ’oräy, bˤeliz ciqłer ayn.
+Gloss: there-IN.ABL-CNTR downwards become-PFV.CVB come-SIM.CVB poplar-GEN2 forest-CONT.LAT come-PST.UNW
+Translation: When he came down from there, he came to the poplar's forest.
+Sentence: Žeduł teł yałru hič’č’a bexorani bˤeliz ɣunä eƛix teqno, šet’urtow yałru ažomzas ʕadlu däq boqxo, sistow sis yałru barus ʕadlun boqinč’ey, yeda ʕabdal ħonƛ’aɣor ik’ix, nesä nesił xizay rexada šebin rowanixƛin.
+Gloss: DEM1.IIPL.OBL-CONT.ESS inside be-PST.PRT the.most lengthy-DEF poplar-GEN2 tree-ERG say-IPFV.CVB hear-PST.UNW around-EMPH be-PST.PRT tree-PL-GEN1 order me-POSS.ESS III-become-PRS one-EMPH one be-PST.PRT wife-GEN1 order-TOP III-become-NEG.PST.CVB DEM2.ISG fool mountain-SUPER.VERS go-IPFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-CONT.ESS behind IV-slaughter-INF thing IV-bring-MSD-AD.ESS-QUOT
+Translation: And he heard the highest poplar trees saying among themselves: "I can control the trees that are around me, but this fool cannot even control the single wife that he has, and he is going onto the mountain to bring something to slaughter after himself."
+
+Approximate Matches:

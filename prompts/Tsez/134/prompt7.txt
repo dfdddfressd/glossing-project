@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: dunyalƛ’aɣor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": dunyalƛ’aɣor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word dunyalƛ’aɣor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemeł mixƛ’o, yoƛi gogan č’ˤaƛiłno, ozuri buqin baɣˤizaƛ’or, Okun, užin wˤałzoni dunyalƛ’aɣor bok’ełno.
+Gloss: DEM4.IISG.OBL time-SUPER.ESS II-half meadow-TOP be.cut-PFV.CVB eye III-close-PFV.CVB III-open-POST.CVB Oku-and son-and downward-ATTR.OBL-DEF world-SUPER.VERS I.PL-go.away-PST.UNW
+Translation: After that, the middle of the meadow opened, and in the wink of an eye, Oku and his son had gone into the underworld.
+Sentence: Elo äsuruni žek’u guluƛ’no zown, bˤałno žan bižin ik’iƛ’oräy, sidaɣ mečoƛ’ aħinno yizirno, wˤałzoni dunyalƛ’aɣor oqno, nesiłgon xizay wˤałzoni dunyalƛ’aɣor xanes užin ik’in.
+Gloss: there find-PST.PRT-DEF man horse-SUPER.ESS-TOP ride-PFV.CVB III-strike-PFV.CVB DEM1.SG-TOP III-lead-PFV.CVB go-SIM.CVB in.one.place place-SUPER.ESS rock-TOP II-lift-PFV.CVB downward-ATTR.OBL-DEF world-SUPER.VERS become-PFV.CVB DEM1.ISG.OBL-CONT.ESS-CNTR behind downward-ATTR.OBL-DEF world-SUPER.VERS khan-GEN1 son-TOP go-PST.UNW
+Translation: The man he had found got on his horse, and while he got away, he lifted a rock in some place and got down into the underworld, and the prince followed him and went into the underworld as well.
+Sentence: Elo äsuruni žek’u guluƛ’no zown, bˤałno žan bižin ik’iƛ’oräy, sidaɣ mečoƛ’ aħinno yizirno, wˤałzoni dunyalƛ’aɣor oqno, nesiłgon xizay wˤałzoni dunyalƛ’aɣor xanes užin ik’in.
+Gloss: there find-PST.PRT-DEF man horse-SUPER.ESS-TOP ride-PFV.CVB III-strike-PFV.CVB DEM1.SG-TOP III-lead-PFV.CVB go-SIM.CVB in.one.place place-SUPER.ESS rock-TOP II-lift-PFV.CVB downward-ATTR.OBL-DEF world-SUPER.VERS become-PFV.CVB DEM1.ISG.OBL-CONT.ESS-CNTR behind downward-ATTR.OBL-DEF world-SUPER.VERS khan-GEN1 son-TOP go-PST.UNW
+Translation: The man he had found got on his horse, and while he got away, he lifted a rock in some place and got down into the underworld, and the prince followed him and went into the underworld as well.
+
+Approximate Matches:
+Sentence: Nesä eƛin, wallahi, xedyor mi dunyalƛ’ay yaq’ˤun yetix, šebi roqłin nesä mi bat’a yadinč’iƛin.
+Gloss: DEM1.ISG.OBL-ERG say-PST.UNW by.God husband-LAT you world-SUPER.ABL II-much-TOP II-love-IPFV.CVB what IV-happen-CNC.CVB DEM1.ISG.OBL-ERG you seperation II-do-NEG.FUT-QUOT
+Translation: He said: "By God, your husband loves you more than the world; no matter what happens, he won't leave you."

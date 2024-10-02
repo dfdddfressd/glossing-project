@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yižinosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yižinosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yižinosi:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Howt’ay yäk’irun mi babiwqor där moƛał rukaysƛin eƛo, łˤora ɣudi žedu gulubi rišerłin, łi ħaƛurinč’eyn xecin, iħä łäƛ’or žedu rižinosi, ʕoloqanawni gulu łi ħaƛa boƛƛäɣor bäk’i, ečrunä lilyoxaytow ħaƛuƛin.
+Gloss: from.here II-go-IMM.ANT.CVB you father-POSS.LAT me-LAT dream-CONT.ESS IV-see-PST.WIT-QUOT say-IMPR three.OBL day DEM1.IPL horse-PL IV-eat-CAUS-CNC.CVB water drink-CAUS-NEG.PST.CVB-and leave-PFV.CVB river-IN.ESS water-SUPER.LAT DEM1.IPL III.PL-lead-ANT.CVB young-DEF horse water drink-INF III-middle-IN.VERS III-go old-DEF-ERG river.bank-AD.ABL-EMPH drink-QUOT
+Translation: "When you go, say to your father that I saw it in a dream: Although you feed those horses for three days, you don't give them water to drink, then you lead them over the water into a river; the young horse will go to the middle to drink water, the old one will drink from the riverbank instead."
+Sentence: Sasaqosi k’uläɣor ganbi riħada rižinosi, ganƛ’or yutin zawru kid ɣalbac’ƛ’orno yutin, xanez ganzo axarno k’oƛin, mo yac’xo zown.
+Gloss: in.the.morning side.street-IN.VERS bull.calf-PL IV-fight-INF IV-lead-ANT.CVB bull.calf-SUPER.LAT II-turn-PFV.CVB be.NPRS-PST.PRT girl lion-SUPER.LAT-TOP II-turn-PFV.CVB khan-GEN2 bull.calf-GEN2 belly-IN.LAT-TOP run-PFV.CVB fat II-eat-IPFV.CVB be.NPRS-PST.UNW
+Translation: The next morning, he lead the young bull into the side street to fight, the girl who had turned into a bull turned into a lion then and ran into the belly of the king's bull and was eating its fat.

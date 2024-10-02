@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word goƛ’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word goƛ’in: 
+
+Exact Matches
+Sentence: Sosi yisä ħumukulis bet’erhanno goƛ’in nesis murad esirnosi, nesä eƛin:
+Gloss: at.first DEM2.ISG.OBL-ERG camel-GEN1 master-TOP call-PFV.CVB DEM1.ISG.OBL-GEN1 wish ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: At first he called the owner of the camel and asked what he desired, the owner said:
+Sentence: Sida quł bet’erhanno bet’erhanes užin ƛˤoreł bik’inosi, yiła neł ʕaƛos dibir iduɣor goƛ’in.
+Gloss: one.OBL day-CONT.ESS master-and master-GEN1 son-and war-CONT.ESS I.PL-go-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL village-GEN1 imam home-IN.ALL invite-PST.UNW
+Translation: One day, when the master and the master's son went to war, she invited the village's imam to their home.
+Sentence: Sida quł, babiya igorno goƛ’in kidbazaq riyrno, sasaq eli bet’erbaqi bodanix maħor boqa bayƛin.
+Gloss: one.OBL day-CONT.ESS father-ERG near-LAT-TOP call-PFV.CVB daughter-PL-POSS.ESS IV-explain-PST.UNW tomorrow we life III-do-MSD-AD.ESS outside I.PL-become-INF I.PL-must-QUOT
+Translation: One day, the father called them to himself and explained to the daughters: "Tomorrow we have to go outside to do work."
+
+Approximate Matches:
+Sentence: Elay Ražbadin Tawadiƛ’ ƛ’irir ik’in, nesiqor c’ok’inayn, yedu šebi šebin mi där rodä bertenyołerno goƛ’inƛin.
+Gloss: there-IN.ABL Razhbadin Tavadi-SUPER.ESS on-LAT go-PFV.CVB DEM1.ISG.OBL-POSS.LAT scold-PST.UNW DEM2.IISG what thing you me-LAT IV-do-INF marriage-CONT.LAT-TOP invite-PST.UNW-QUOT
+Translation: From there, Razhbadin went up to Tavadi and scolded him: "What is that thing you did to me, inviting me to a marriage?!"
+Sentence: Elo neł ħukmatyozał di aq’ˤu aħnays, łukin bertenyozałxorno goƛ’inč’u, uyn išrinč’u.
+Gloss: there DEM1.IISG.OBL country-PL-CONT.ESS me much walk.around-PST.WIT who.ERG-even marriage-PL-CONT.VERS-TOP invite-NEG.PST.WIT indeed-TOP eat-CAUS-NEG.PST.WIT
+Translation: I was walking around much through these countries, but no one had invited me to the weddings and didn't even gave me to eat.
+Sentence: Diwanyoƛ’or goƛ’inosi, Kusa eƛin, di xanez kidbede zows, nełar nuʕłi rodanix šebin däq yołƛin, yisä nełas bašiqˤoyn, žežuqay räč’ru musrabin, gedmoqay yeč’no zawruni č’irno yukarno.
+Gloss: judgement-SUPER.LAT invite-ANT.CVB Kusa-ERG say-PST.UNW me khan-GEN2 daughter-APUD.ESS be.NPRS-PST.WIT DEM1.IISG.OBL-LAT proof IV-do-MSD-AD.ESS thing me-POSS.ESS be-QUOT DEM2.ISG.OBL-ERG DEM1.IISG.OBL-GEN1 ring-and ponytail-POSS.ABL IV-cut-PST.PRT hair-PL-and shirt-POSS.ABL II-cut-PFV.CVB be.NPRS-PST.PRT-DEF ribbon-and II-show-PST.UNW
+Translation: After Kusa was invited to the court, he said: "I have been with the king's daughter, and I have things with me to prove that!"; he showed her ring, the hairs cut from her ponytail and the ribbon that he cut from her shirt.

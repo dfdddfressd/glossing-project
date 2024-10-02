@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: baha.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": baha
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word baha:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Däq nełas baha bäziƛin užä eƛinosi, yiła yeda idur kidbeder ayrno.
+Gloss: me-POSS.ESS DEM1.IISG.OBL-GEN1 price III-get-QUOT boy-ERG say-ANT.CVB DEM2.IISG.OBL-ERG DEM2.ISG home-LAT girl-APUD.LAT lead-PST.UNW
+Translation: "I will be able to afford its price.", the boy said, and she led him home to the girl.
+Sentence: Xande idur aynosi, nesir elo teł cemä ozzataw kid yukaynosi, iguni žek’a esirno, di nełaz ozzałer kanłi bayrnäy, šebi mi där baha neƛxoƛin.
+Gloss: khan-APUD.ESS home-LAT come-ANT.CVB DEM1.ISG.OBL-LAT there inside corner-IN.ESS eye-PL-without girl II-see-ANT.CVB good-DEF man-ERG ask-PST.UNW me DEM1.IISG.OBL-GEN2 eye-PL-CONT.LAT light III-bring-CND.CVB what you me-LAT price give-PRS-QUOT
+Translation: When he came to a house with the king and saw a blind girl in a corner inside there, the good man asked: "When I bring back her eyesight, what price do you give me?"
+Sentence: Di saɣ oynäyƛin, eƛin nesi iguni žek’a, šebi baha mi där boyxƛin.
+Gloss: me cure do-CND.CVB-QUOT say-PST.UNW DEM1.ISG.OBL good-DEF man-ERG what price you me-LAT III-do-PRS-QUOT
+Translation: "When I cure you," said the good man, "what price do you give me?"
+
+Approximate Matches:

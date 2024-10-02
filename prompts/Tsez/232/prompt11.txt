@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rutin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rutin: 
+
+Exact Matches
+Sentence: Žedu sasaq ħonƛ’aɣor roxirnosi, neširaɣor žedar žedu rutin iduɣor rayx zown.
+Gloss: DEM1.IIPL in.the.morning mountain-SUPER.VERS III.PL-chase-ANT.CVB evening-IN.VERS DEM1.IIPL.OBL-LAT DEM1.IIPL III.PL-return-PFV.CVB home-IN.ALL III.PL-come-IPFV.CVB be.NPRS-PST.UNW
+Translation: In the morning he chased them onto a mountain, towards the evening they came back home by themselves.
+Sentence: Zamanaƛ’aza ža rutin rik’in eženä egirno zawruni uži äčiza puƛ’aɣor.
+Gloss: time-SUPER.VERS.DIST DEM1.SG IV-turn-PFV.CVB IV-go-PFV.CVB old-DEF-ERG send-PFV.CVB be.NPRS-PST.PRT-DEF boy be-LCV.CVB side-SUPER.VERS
+Translation: After some time it fell to the side where the old man had placed the boy.
+Sentence: Nazon žeda sidaƛ’orno rutin ixiw ɣˤutku rodin.
+Gloss: all.OBL-TOP DEM1.IIPL.OBL-ERG one.OBL-SUPER.LAT-TOP III.PL-turn-PFV.CVB big house IV-do-PST.UNW
+Translation: They all came together and built a big house.
+
+Approximate Matches:
+Sentence: Didurnotow yiziq sidaƛ’or hut’ rutinč’izaƛ’, yizis šarʕimoƛ’ bik’anix q’ut’i boqno.
+Gloss: how-TOP-EMPH DEM2.IPL-POSS.ESS one.OBL-SUPER.LAT lip IV-turn-NEG.FUT-CSL.CVB DEM2.IPL-GEN1 Sharia.court-SUPER.ESS I.PL-go-MSD-AD.ESS agreement III-become-PST.UNW
+Translation: Because they could not reach a consensus, they agreed to go to the Sharia.

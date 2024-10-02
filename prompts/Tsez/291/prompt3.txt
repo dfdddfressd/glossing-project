@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nełqay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nełqay: 
+
+Exact Matches
+Sentence: Hunix nełade dandir c’axru boc’ä nełqay ža dawla boɣƛ’oräy, zira eƛin:
+Gloss: way-AD.ESS DEM1.IISG.OBL-APUD.ESS towards meet-PST.PRT wolf-ERG DEM1.IISG.OBL-POSS.ABL DEM1.SG prey III-take.away-SIM.CVB fox-ERG say-PST.UNW
+Translation: On the way, when a wolf that was coming towards him wanted to take the prey away from him, the fox said:
+Sentence: Miƛin, eƛin nesä, k’ot’ono, c’ec’mabi c’uda, ozurabi niga, kodi aluk’a ɣˤanazaƛ’ bužzi aqno, nełqay maqˤixno ičiƛin.
+Gloss: you-QUOT say-PST.UNW DEM1.ISG.OBL-ERG short eyelash-PL red eye-PL green hair white woman-SUPER.ESS trust become-PROHIB DEM1.IISG.OBL-POSS.ABL far.away-AD.ESS-TOP be-QUOT
+Translation: "Don't", he said, "believe in a short woman with her eyelashes red, her eyes green and her hair white, but keep away from her!"
+Sentence: Idur xediw ayrun baru daʕba boda c’oxno, ɣudi adäy eluq mešori bexada bayx, šidaƛin eƛiłiri nełqay didiwnkin mumpaʕat anu, ʕadada käkirułi gurow.
+Gloss: home-LAT husband come-IMM.ANT.CVB wife dispute III-do-INF meet-PFV.CVB day earlier we(I).OBL-POSS.ESS heifer III-slaughter-INF III-must-IPFV.CVB why-QUOT say-CND.CVB.IRR DEM1.IISG.OBL-POSS.ABL which-TOP-even benefit be.NEG to.no.purpose feed-MSD except
+Translation: As soon as the husband had come home, the wife started to insist: "Soon this day we have to slaughter the heifer, because there's no benefit whatsoever from it except for feeding [it] in vain."
+
+Approximate Matches:
+Sentence: Nełqay roxin rik’iƛ’oräy, yeženi esiya babiya neƛno zawruni č’ikay q’ˤidar kurno.
+Gloss: DEM1.IISG.OBL-POSS.ABL II.PL-run.away-PFV.CVB II.PL-go-SIM.CVB II-old-DEF sister-ERG father-ERG give-PFV.CVB be.NPRS-PST.PRT-DEF mirror down-LAT throw-PST.UNW
+Translation: While they were running away from it, the eldest sister threw down the mirror that their father had given her.

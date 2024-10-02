@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣeduƛxorno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣeduƛxorno: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Musaqilično, ʕIsaqilično babiwz šudaxaɣor bik’ixƛin sida q’orol ɣˤanazaz ƛ’emiƛxorno bik’in kecnot’a bičix zown.
+Gloss: Musaqilich-and Isaqilich-and father-GEN2 graveyard-AD.VERS I.PL-go-IPFV.CVB-QUOT one.OBL widowed woman-GEN2 hayloft-SUB.LAT-TOP I.PL-go-PFV.CVB sleep-PFV.CVB-DISTR I.PL-be-IPFV.CVB be.NPRS-PST.UNW
+Translation: Musaqilich and Isaqilich pretended to go to their father's grave, and went to a widow's hayloft to sleep there.

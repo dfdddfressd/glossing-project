@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yok’äłrun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yok’äłrun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yok’äłrun:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xediw maħor ok’äłrungon, ɣamasya tełäy maħorno boqno elay boxin bazarganbin bok’ełno.
+Gloss: husband outside go.away-IMM.ANT.CVB-CNTR box-IN.ESS inside-IN.ABL outside-TOP I.PL-become-PFV.CVB there-IN.ABL I.PL-run.away-PFV.CVB merchant-PL-TOP I.PL-escape-PST.UNW
+Translation: Right after the husband went outside, the merchants got out of the box and ran away.
+Sentence: Žedu elozay bok’äłrungon, xanez kidbä k’oƛin yik’in tusnaq’ay maħor uži egirno.
+Gloss: DEM1.IPL there-ATTR.OBL-IN.ABL III-escape-IMM.ANT.CVB-CNTR khan-GEN2 daughter-ERG run-PFV.CVB II-go-PFV.CVB prison-IN.ABL outside boy let-PST.UNW
+Translation: They escaped from there and the king's daughter ran and let the boy out of the prison.
+Sentence: Bitaɣor bok’äłrun, žeda žeduƛ xabarno boqno, ħumukulizaƛ’osini boƛik’u mesed teƛno yołin howža hibo bisan nesi žaqay, nełas elur beže raħat biča yoł, šidaƛin eƛiłiri ačqˤaynosi ža bak’za ħaƛanix łin roƛixnäy, mekoynosigon hemedurtow bišʷan riqinäy, t’ok’ow elur q’ʷˤariłi łinasƛin.
+Gloss: distance-IN.VERS I.PL-go.away-IMM.ANT.CVB DEM1.IIPL.OBL DEM1.IPL.OBL-SUB.ESS story-TOP III-become-PFV.CVB camel-PL-SUPER.ESS-ATTR-DEF half gold give-PFV.CVB however-TOP DEM4.SG stick III-buy-FUT.DEF DEM1.ISG.OBL boy-POSS.ABL DEM1.IISG.OBL-GEN1 we(I).OBL-LAT III-big recreation III-be-INF be why-QUOT say-CND.CVB.IRR be.thirsty-ANT.CVB DEM1.SG III-hit-LCV.CVB drink-MSD-AD.ESS water-TOP IV-appear-CND.CVB be.hungry-ANT.CVB-CNTR so-EMPH food-TOP IV-get-CND.CVB more we(I).OBL-LAT sadness why-QUOT
+Translation: After they disappered into the distance, they told themselves: "We will buy that stick from this boy for half of the gold on the camels; it will be such a relieve for us! [why?]", they would say(?), "Why would we be anymore sad, if, when we are thirsty, we hit it and water appears for drinking; and when we are hungry, we get food that way."

@@ -1,0 +1,21 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: meko using Leipzig glossing symbols. The sentence this word is drawn from means: "While he was going away from there on his way, after a while the hunger hit him.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": meko
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word meko:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:

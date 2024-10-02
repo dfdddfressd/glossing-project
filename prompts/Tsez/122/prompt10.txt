@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: pardagin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": pardagin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word pardagin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyo pardagin risno, gulun boɣno nesiqay bižin, uži eniwdäɣor ik’in.
+Gloss: afterwards scarf-TOP IV-take-PFV.CVB horse-TOP III-take.away-PFV.CVB DEM1.ISG.OBL-POSS.ABL III-take.out-PFV.CVB boy mother-APUD.VERS go-PFV.CVB
+Translation: Afterwards the boy took the scarf, the horse and went to his mother.
+Sentence: Bečedawni maduhal yiłdetow sadaq iduɣorno nexno, roɣno ža pardagin ik’in, dey zows žaƛin.
+Gloss: wealthy-DEF neighbor DEM2.IISG.OBL-APUD.ESS-EMPH together home-IN.ALL-TOP come-PFV.CVB IV-take.away-PFV.CVB DEM1.SG scarf-TOP go-PFV.CVB me-GEN1 be.NPRS-PST.WIT DEM1.SG-QUOT
+Translation: But the wealthy neighbor came home together with the mother, took away the scarf and said, "It was my scarf."
+
+Approximate Matches:
+Sentence: Ža bexuranixƛin yisä c’eruc’a rutirnosi, ceyä eƛin, mi di bexarno, deber di sis bercinaw pardagi neƛanƛin.
+Gloss: DEM1.SG III-kill-INF-PURP.CVB-QUOT DEM2.ISG.OBL-ERG bow IV-turn-ANT.CVB eagle-ERG say-PFV.CVB you me III-kill-PFV.CVB you-LAT me one beautiful scarf give-FUT.DEF-QUOT
+Translation: As he directed his bow to kill the eagle, the latter said, "Don't kill me, I will give you one beautiful scarf."
+Sentence: Hemełƛ’o Beqes ʕUneyzatä kidbez q’ˤimƛ’ay pardagi roɣno caƛin eƛin, yedu yoł mesedyos žežu yołalini debi kidƛin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS sun-GEN1 Uneyzat-ERG girl-GEN2 head-SUPER.ABL scarf IV-take.away-PFV.CVB throw-PFV.CVB say-PST.UNW DEM2.IISG be gold-GEN1 ponytail be-ATTR-DEF you-GEN1 daughter-QUOT
+Translation: Thereupon Sun's Uneyzat threw away the scarf off the girl's head and said: "She is your daughter with the golden ponytail.
+Sentence: Užä ža pardagi eniwł adäza ret’irnosi, riguƛ’ay rigu biša roƛixno elo ƛ’iri.
+Gloss: son-ERG DEM1.SG scarf mother-CONT.ESS before IV-make.a.bed-ANT.CVB IV-good-SUPER.ABL IV-good food IV-appear-PFV.CVB there above
+Translation: The son laid down the scarf before his mother and a lot of good food appeared on it.

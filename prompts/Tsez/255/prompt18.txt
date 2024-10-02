@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word iħäɣor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word iħäɣor: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Łˤono äƛiru t’alamzo čardaħäɣor oqnosi, raɣiƛ aɣzas šeƛ’u ƛ’iräy roɣxo łˤonon bercinawt’a kidbabi rukayn.
+Gloss: three say-PST.PRT floor-GEN2 balcony-IN.VERS become-ANT.CVB veranda-SUB.ESS bird-PL-GEN1 clothing from.above IV-take.away-IPFV.CVB three-TOP beautiful-DISTR girl-PL II.PL-see-PST.UNW
+Translation: When he came to the balcony on the third floor, he saw three beautiful girls undressing of birds' clothes under the veranda.

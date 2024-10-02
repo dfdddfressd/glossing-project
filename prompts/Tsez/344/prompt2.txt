@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zownoƛax in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zownoƛax: 
+
+Exact Matches
+Sentence: Nesis užin, kidno zownoƛax.
+Gloss: DEM1.ISG.OBL-GEN1 son-and daughter-and be.NPRS-PST.UNW-QUOT
+Translation: It's said that he had a son and a daughter.
+
+Approximate Matches:
+Sentence: Zewnoƛax oc’ino halmaɣ, ceyn, ɣʷˤadin, cek’eryon, elbon, onočun, mat’in, ʕomoyn, mešin, cek’in, ƛelin.
+Gloss: be.NPRS-PST.UNW-QUOT ten friend eagle-and crow-and sparrow-and pigeon-and hen-and duck-and donkey-and bull.calf-and goat.kid-and lamb-and
+Translation: Once there were ten friends: An eagle, a crow, a sparrow, a pigeon, a hen, a duck, a donkey, a bull calf, goat kid and a lamb.

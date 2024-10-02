@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: hisno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": hisno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word hisno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: T’ok’ow roda šebinon koƛ’inč’ey, hisno, hiƛun, ʕoƛ’no, nucosgon bankan bisno, yedu kid beqaɣor yoqno.
+Gloss: anymore IV-do-INF something understand.to-NEG.PST.CVB spring.wool-and comb-and spindle-and honey-GEN1-CNTR jar-and III-take-PFV.CVB DEM2.IISG girl sun-IN.VERS II-become-PST.UNW
+Translation: Not knowing what to do anymore, the girl took the wool, the comb, the spindle and a jar of honey and went into the sun.
+Sentence: Sidaquł neširu šudax yeda yałzay, roƛiquraɣor xizor šilabi yołäsi, ƛ’iri hisno raqˤäsi sis miƛ’i bayn.
+Gloss: one.day at.night graveyard-AD.ESS DEM2.ISG be-SIM.CVB at.midnight-IN.VERS back horn-PL be-RES.PRT above spring.wool-TOP IV-show.up-RES.PRT one ram I.PL-come-PST.UNW
+Translation: One night while they were at the grave, at mighnight came a ram that had its horns backwards and accumulated whool.
+Sentence: Žeda eƛixƛax, howlo rečuƛ dice buħi bičix, hohomaw mečoƛ’ ocä xecix yołi dice rigu räči, elaƛ’ ƛ’iri hisno rigu raq łemuƛin.
+Gloss: DEM1.IIPL.OBL-ERG say-PRS-QUOT there cattleshed-SUB.ESS how.much heat III-be-PRS fresh place-SUPER.ESS threshing.floor-IN.ESS leave-IPFV.CVB if how.much IV-good IV-be we(II-SUPER.ESS on spring.wool-TOP IV-good IV-become then.would-QUOT
+Translation: They were saying: "There in the shed is so much heat, if he would leave us in a chilly place, on the threshing floor, how good that would be, and then our wool would be better, too!"
+
+Approximate Matches:

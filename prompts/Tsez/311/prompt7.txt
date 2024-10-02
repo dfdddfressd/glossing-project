@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word necetow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word necetow: 
+
+Exact Matches
+Sentence: Eɣeni esiya eƛin, horo igorno ik’in esiran nesiq di, šebi debeƛ’ necetow q’ʷariłi yołƛin.
+Gloss: young-DEF brother-ERG say-PST.UNW come.IMPR near-LAT-TOP go-PFV.CVB ask-FUT.DEF DEM1.ISG.OBL-POSS.ESS me what you-SUPER.ESS so.much-EMPH sadness be-QUOT
+Translation: The younger brother said: "Come, I'll go to him and will ask what's wrong with him."
+Sentence: Sosisi egirxanuƛin babiw ƛ’iri utin, xizyo necetow nesir retizaƛ’, egirno xecin.
+Gloss: at.first-ATTR let-IPFV.CVB-NEG-QUOT father above turn-PFV.CVB afterwards so.much-EMPH DEM1.ISG.OBL-LAT IV-want-CSL.CVB let-PST.UNW leave-PFV.CVB
+Translation: At first the father insisted in not letting him go, but then - because he wanted it so much - he let him leave.
+Sentence: Neširu bežet’ani esnabi q’ʷarid boqno biłe baynosi, yisä esirno, šebi mežur roqno hemecetow pašman boqa keze boqnäy, šebi necetow beže q’ʷariłi mežuƛ’or bayäsiƛin.
+Gloss: evening I.PL-old-DISTR-DEF brother-PL sad I.PL-become-PFV.CVB I.PL-as I.PL-come-ANT.CVB DEM2.ISG.OBL-ERG ask-PST.UNW what you(I).PL.OBL-LAT IV-happen-PFV.CVB such-EMPH become.sad I.PL-become-INF meet I.PL-become-CND.CVB what so.much-EMPH III-big sadness you(I).PL.OBL-SUPER.LAT III-come-RES.PRT-QUOT
+Translation: In the evening, when the brothers came looking sad, he asked: "What happened to you that you became so sad? What a big sadness has come upon you!"
+
+Approximate Matches:
+Sentence: Sis žek’un ayn howlor hemecetow ƛ’iri utizaƛ’, moƛ’oqˤoyn sadaq däq teƛno rok’ełsi.
+Gloss: one man-TOP come-PFV.CVB there-LAT such-EMPH above turn-CSL.CVB bridle-TOP together me-POSS.ESS sell-PFV.CVB IV-lose-PST.WIT
+Translation: And there came a man and because he insisted so much, I sold also the bridle and lost it.
+Sentence: Neširu bežet’ani esnabi q’ʷarid boqno biłe baynosi, yisä esirno, šebi mežur roqno hemecetow pašman boqa keze boqnäy, šebi necetow beže q’ʷariłi mežuƛ’or bayäsiƛin.
+Gloss: evening I.PL-old-DISTR-DEF brother-PL sad I.PL-become-PFV.CVB I.PL-as I.PL-come-ANT.CVB DEM2.ISG.OBL-ERG ask-PST.UNW what you(I).PL.OBL-LAT IV-happen-PFV.CVB such-EMPH become.sad I.PL-become-INF meet I.PL-become-CND.CVB what so.much-EMPH III-big sadness you(I).PL.OBL-SUPER.LAT III-come-RES.PRT-QUOT
+Translation: In the evening, when the brothers came looking sad, he asked: "What happened to you that you became so sad? What a big sadness has come upon you!"
+Sentence: Necetow žedu ƛ’iri butizaƛ’, yedan razi oqxo.
+Gloss: so.much-EMPH DEM1.IPL above I.PL-turn-CSL.CVB DEM2.ISG-TOP agree become-IPFV.CVB
+Translation: Because they insisted so much, he also agreed.

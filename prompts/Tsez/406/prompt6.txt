@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bišom in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bišom: 
+
+Exact Matches
+Sentence: Mi ža bazaryaɣorno bižin łera ʕazara ɣˤurušyoƛ teƛ, moƛ’oqˤoy yołi łeno bišom ɣˤuruš neƛłikin täƛno, dey ruħ nełał bičixosi yoł, nagaħ mi ža teƛnäy, di exuxosi yołƛin.
+Gloss: you DEM1.SG bazar-IN.VERS-TOP III-lead-PFV.CVB five.OBL thousand ruble-SUB.ESS sell bridle however five hundred ruble give-CND.CVB.IRR-even sell-PROHIB me-GEN1 soul DEM1.IISG.OBL-CONT.ESS III-be-PRS.PRT be suppose you DEM1.SG sell-CND.CVB me die-PRS.PRT be-QUOT
+Translation: Lead it to the market and sell it for 5,000 rubles, the bridle however don't sell even if you were given 500 rubles, my soul will be inside; if you sell it, I will die."
+Sentence: Ħon-bahadurä eƛin, debi eniwn yexursi, min bexuran, mi biłet’ani bišom bexurełxosi bahadur oqzaƛ’ nexsi di t’orƛin.
+Gloss: Mountain~Hero-ERG say-PST.UNW you-GEN1 mother-and II-kill-PST.WIT you-and III-kill-FUT.DEF you III-as-DISTR-DEF hundred I.PL-kill-POT-PRS.PRT hero become-CSL.CVB come-ATTR me here-LAT-QUOT
+Translation: Mountain~Hero said: "I killed your mother, and I will kill you! I have come here, for I am the hero who has killed a hundred just like you."
+
+Approximate Matches:
+Sentence: Hemedur Okä babiw mak’ur odin guludetow sadaq moƛ’oqˤoyn łera ʕazara łera bišomra ɣˤurušyoƛ teƛanix, dicegon užä moƛ’oqˤoy täƛnoƛin eƛinłin.
+Gloss: so Oku-ERG father persuade do-PFV.CVB horse-APUD.ESS-EMPH together bridle-TOP five.OBL thousand five.OBL hundred ruble-SUB.ESS sell-MSD-AD.ESS how.much-CNTR boy-ERG bridle sell-PROHIB-QUOT say-PST.UNW-CNC.CVB
+Translation: So Oku persuaded the father to sell him the horse together with the bridle for 5,500 rubles, no matter how much the boy told him not to sell the bridle.

@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ozƛäyn in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ozƛäyn: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Žan eƛin hemedurtow ozƛäy gugin.
+Gloss: DEM1.SG-TOP say-PFV.CVB so-EMPH eye-SUB.ABL escape-PST.UNW
+Translation: Having said this, he flew out of sight.
+Sentence: Xizyo nesi eženä boƛik’no xedyoqor q’ˤano heneš teƛno, sis nesir, sideni baruq bac’roƛinno eƛin, ozƛäy gugin.
+Gloss: afterwards DEM1.ISG.OBL old-DEF-ERG III-pull.out-PFV.CVB husband-POSS.LAT two apple give-PFV.CVB one DEM1.ISG.OBL-LAT the.other.one wife-POSS.ESS III-eat-CAUS-IMPR-QUOT-TOP say-PST.UNW eye-SUB.ABL escape-PST.UNW
+Translation: Then that old man pulled out two apples and gave them to the husband, one for him; "Give your wife the other one to eat!", he said and disappeared from his eyes.
+Sentence: Yisiqor žan teƛno, ziru ozƛäy gugin.
+Gloss: DEM2.ISG.OBL-POSS.LAT DEM1.SG-TOP give-PFV.CVB fox eye-SUB.ABL escape-PST.UNW
+Translation: The fox gave it to him and disappeared.

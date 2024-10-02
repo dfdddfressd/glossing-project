@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣˤutkun using Leipzig glossing symbols. The sentence this word is drawn from means: "One day the young man brought the turkeys [home] in the evening, took the glass out of his pocke and said: "May here on the field be a house and inside a good table and chairs around it!"".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣˤutkun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣˤutkun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.
+Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW
+Translation: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.
+Sentence: Žoyä ɣˤutku rodixƛin eženi žek’uqno esin meɣyoqor eƛin, xanes riłe ɣˤutkun, č’ikays ƛen boqoƛƛin.
+Gloss: boy-ERG house IV-do-PRS-QUOT old-DEF man-POSS.ESS-TOP tell-PFV.CVB udder-POSS.LAT say-PFV.CVB khan-GEN1 IV-as house-and glass-GEN1 bridge-and III-become-OPT-QUOT
+Translation: The boy told the old man: "Building a house." and said to the udder: "May there become a house like the king's and a bridge of glass!"
+Sentence: Nedurä mi dey wasi t’ubazi bodix zownƛin, elayn bizin ziru xanes kidbederno bik’in esin nełaq ža ɣˤutkun, maʕišatno ɣˤʷays yałrułin, žatown habihan yołƛinno.
+Gloss: so-Q you me-GEN1 testament fulfill III-do-IPFV.CVB be.NPRS-PST.UNW-QUOT there-IN.ABL-TOP III-get.up-PFV.CVB fox khan-GEN1 daughter-APUD.LAT-TOP III-go-PFV.CVB tell-PFV.CVB DEM1.IISG.OBL-POSS.ESS DEM1.SG house-and fortune-and dog-GEN1 be-PST.PRT-NMLZ-and DEM1.SG-EMPH-and miller be-QUOT-TOP
+Translation: "So you have fulfilled my wish?", [said] the fox[,] got up from there, went to the king's daughter and told her that the house and the fortune all belong to the dog and that he is just a miller.
+
+Approximate Matches:
+Sentence: Tełtow ɣˤʷayn bik’un, kinaw ža bˤeƛ’es reqenno, ɣˤutkubin, maʕišatno zirurno, habihanerno ƛexun.
+Gloss: inside-EMPH dog-TOP III-burn-PFV.CVB entire DEM1.SG sheep-GEN1 herd-and house-PL-and fortune-and fox-LAT-and miller-LAT-and remain-PST.UNW
+Translation: The dog inside burned, and the entire flock of sheep, the house and the fortune all remained for the fox and the miller.
+Sentence: Nazon žeda sidaƛ’orno rutin ixiw ɣˤutku rodin.
+Gloss: all.OBL-TOP DEM1.IIPL.OBL-ERG one.OBL-SUPER.LAT-TOP III.PL-turn-PFV.CVB big house IV-do-PST.UNW
+Translation: They all came together and built a big house.
+Sentence: Žoyä eƛin, howda ɣˤutku k’emot’ya tełer rutira k’ʷeze roqinč’ey ƛexasiƛin.
+Gloss: boy-ERG say-PST.UNW DEM3.SG house wooden.case-IN.ESS into IV-turn-INF can IV-become-NEG.PST.CVB remain-RES.PRT-QUOT
+Translation: The boy said: "I can't turn this house into the wooden case anymore."

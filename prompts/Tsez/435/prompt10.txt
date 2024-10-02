@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word esanix in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word esanix: 
+
+Exact Matches
+Sentence: T’ok’ow heresi mec esanix rok’ƛ’or rayärnoƛin.”
+Gloss: anymore false language tell-MSD-AD.ESS heart-SUPER.LAT IV-bring-PROHIB-QUOT
+Translation: Don't come up with the idea of telling lies again.
+Sentence: Žeduder ƛirbałix din aysi, där žeda rigu ƛirbałin roysi, din nexsi mežuq yedu kesu esanix.
+Gloss: DEM1.IPL.OBL-APUD.LAT hospitality-AD.ESS me-and come-PST.WIT me-LAT DEM1.IPL.OBL-ERG IV-good hospitality-TOP IV-do-PST.WIT me-TOP come-PST.WIT you(I).PL.OBL-POSS.ESS DEM2.IISG tale tell-MSD-AD.ESS
+Translation: I came to them as a guest as well, they treated me great and I have come to tell you this story.
+Sentence: Neła ukruƛ’aygon xiriyaw kesu däqno ƛexus mežuq esanix.
+Gloss: DEM1.IISG.OBL silver-SUPER.ABL-CNTR valuable tale me-POSS.ESS-TOP remain-PST.WIT you(I).PL.OBL-POSS.ESS tell-MSD-AD.ESS
+Translation: But the tale is more valuable than the silver and remains for me to tell you.
+
+Approximate Matches:
+Sentence: Nedur resunäyƛin, eƛin bara, t’ay deber di uyno ɣˤurušno neƛan, nełaƛ ʕaq’lu bisanix mi pulanaw žek’uder sida ʕaƛar ik’iƛin.
+Gloss: so IV-exist-CND.CVB-QUOT say-PFV.CVB wife-ERG from.here you-LAT me four ruble-TOP give-FUT.DEF DEM1.IISG.OBL-SUB.ESS advice III-take-MSD-AD.ESS you a.certain man-APUD.LAT one.OBL village-IN.LAT go-QUOT
+Translation: "If that's the case," said his wife, "I will give you four rubles from here; go to a village to a certain man in order to buy an advice with it."
+Sentence: Nasin xalq’i bezun ƛexun, sosisi yisanixƛin beč’ułno, nesä baq’ˤu micxir esizaƛ’, ɣamas yisełxosi žek’u oƛixno anu.
+Gloss: all people III-look-PFV.CVB remain-PFV.CVB at.first-ATTR II-buy-MSD-AD.ESS-QUOT III-flow.out-PFV.CVB DEM1.ISG.OBL-ERG III-much money tell-CSL.CVB box II-buy-POT-IPFV.CVB-ATTR man appear-PST.UNW be.NEG
+Translation: All the people came out to look and buy it immediately, but when he said how much money it costs, there was no man who could buy the box.
+Sentence: Nesä eƛin, xanes kidtow yegir šeƛ’u risanix.
+Gloss: DEM1.ISG.OBL-ERG say-PST.UNW khan-GEN1 daughter-EMPH II-send clothing IV-take-MSD-AD.ESS
+Translation: He said: "Send the princess to take the clothes!"

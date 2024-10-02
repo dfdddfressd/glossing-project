@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word kak in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word kak: 
+
+Exact Matches
+Sentence: Łˤonosi žiman eqerno iduɣor bowƛ’oräy, kak royxo Riħoxaz äčiru q’ˤidarno bˤoƛ’un t’ok’ow dicegon k’ediłin biqinč’u däq.
+Gloss: three-ATTR pocket-IN.ESS-TOP put-PFV.CVB home-IN.ALL III-bring-SIM.CVB prayer IV-do-IPFV.CVB Rixox-IN.ESS.DIST be-PST.PRT down-LAT-TOP III-fall-PFV.CVB anymore how.much-CNTR search-CNC.CVB III-get-NEG.PST.WIT me-POSS.ESS
+Translation: I put three (coins) in my pocket and when bringing them home, I did a prayer in Rikhokh and they fell down and I couldn't find them anymore no matter how much I searched.
+
+Approximate Matches:

@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word roqnoanu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word roqnoanu: 
+
+Exact Matches
+Sentence: Ič’č’an yeɣeni esiya sasiłzaƛ’ortown, xexłiƛ’ iduɣor ƛaƛin daʕba bičirłin, nełqor žedu ʕenekizi roqnoanu.
+Gloss: the.most-TOP II-young-DEF sister-ERG get.dark-POST.CVB-EMPH-TOP quickness-SUPER.ESS home-IN.ALL go.IMPR-QUOT dispute III-be-CAUS-CNC.CVB DEM1.IISG.OBL-POSS.LAT DEM1.IPL listen II.PL-become-PFV.CVB-NEG
+Translation: Although the youngest sister argued: "We have to go home quick before it gets dark!", the didn't listen to her.
+
+Approximate Matches:
+Sentence: Žedu bužzi boqnoanu, mi iłeni łaciraqa xanes kidbabi rawnč’i, nediwt’a gulubi yołi nay deber riqixƛin.
+Gloss: DEM1.IPL believe I.PL-become-PFV.CVB-NEG you as-DEF light.headed.person-ERG khan-GEN1 daughter-PL II.PL-bring-NEG.FUT such-DISTR horse-PL however from.where you-LAT IV-get-PRS-QUOT
+Translation: They didn't believe him: "A light-headed person like you wouldn't bring the king's daughters, however, where did you get such horses from?"
+Sentence: Babiwq žan biqira k’ʷeze boqnoanu.
+Gloss: father-POSS.ESS DEM1.SG-TOP III-catch-INF can III-become-PFV.CVB-NEG
+Translation: The father couldn't catch him either.
+Sentence: Łˤora ɣudi yaħ bodin nesä, elay soder yaħ boqnoanu nesiq.
+Gloss: three.OBL day conscience III-do-PFV.CVB DEM1.ISG.OBL-ERG there-IN.ABL upward conscience III-become-PFV.CVB-NEG DEM1.ISG.OBL-POSS.ESS
+Translation: Three days he had his conscience, then his conscience wasn't enough anymore.

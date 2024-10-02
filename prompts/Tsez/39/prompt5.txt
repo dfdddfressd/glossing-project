@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ɣunoq.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ɣunoq
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ɣunoq:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Äzuru yisir ciqez raʕalłix yałruni sida ixiw ɣunoq soder bizix aždaħ-bikori bukayn.
+Gloss: look-PST.PRT DEM2.ISG.OBL-LAT forest-GEN2 edge-AD.ESS be-PST.PRT-DEF one.OBL big tree-POSS.ESS upward III-get.up-IPFV.CVB dragon~snake III-see-PST.UNW
+Translation: Looking around, he saw a dragon-snake climbing a tree that was standing at the edge of the forest.
+Sentence: Osaxor hawaƛ’orno bizin, tupäsi hil biłe wˤałerno nexno bik’in ɣunoq c’oxno.
+Gloss: height-AD.LAT air-SUPER.LAT-TOP III-get.up-PFV.CVB rifle-IN.ESS-ATTR bullet III-as downward-LAT-TOP come-PFV.CVB III-go-PFV.CVB tree-POSS.ESS pounce-PST.UNW
+Translation: It got up into the height through the air, and came down like a gun's bullet again and pounced on the tree.
+Sentence: Cuƛer yäzurun, yiłar ɣunoq bäzirubi bukayn.
+Gloss: upward II-look-IMM.ANT.CVB DEM2.IISG.OBL-LAT tree-POSS.ESS I.PL-get.up-PST.PRT-PL I.PL-see-PST.UNW
+Translation: When she looked upward, she saw those who got up into the tree.
+
+Approximate Matches:
+Sentence: Nukarza Ismaʕil ciqaɣorno ižin, exuran k’ʷeze roqinč’ey, ozurabin roɣno yizä ža howlotow ɣunoqor icin xecin.
+Gloss: henchman-PL-ERG Ismail forest-IN.VERS-TOP carry-PFV.CVB kill-INF-TOP can IV-become-NEG.PST.CVB eye-PL-TOP IV.PL-take.away-PFV.CVB DEM2.IPL.OBL-ERG DEM1.SG there-EMPH tree-POSS.LAT tie-PFV.CVB leave-PST.UNW
+Translation: The henchmen carried Ismail into the forest, but couldn't kill him; so they pricked out his eyes, bound him to a tree and left him there.
+Sentence: Rigutow rigu hoboyƛin, rok’ƛ’orno rayn žoyä ɣunoqosi aluk’anin, c’udanin henešno but’in oqno xanzo kidbedäɣor ik’in.
+Gloss: IV-good-EMPH IV-good now-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB boy-ERG tree-POSS.ESS-ATTR white-DEF-and red-DEF-and apple-TOP III-collect-PFV.CVB begin-PFV.CVB khan-GEN2 daughter-APUD.VERS go-PST.UNW
+Translation: "Very well, now.", thought the boy, plucked a white and a red apple from the tree and went to the princess.
+Sentence: Bayn bełiqanza bišʷa esirnosi, nesän žeduq raqru šebin esin, hemedurtow mamalayƛ’no zown t’omceni žek’un ayn, nasintow bišʷa rac’a ža oqnosi elay ža oɣƛ’oräy, mešok’lałäy musno boɣno nesä di ɣunoqor icisƛin mus bukarno.
+Gloss: I.PL-come-PFV.CVB hunter-PL-ERG food ask-ANT.CVB DEM1.ISG.OBL-ERG-TOP DEM1.IPL.OBL-POSS.ESS IV-happen-PST.PRT thing tell-PST.UNW so-EMPH rooster-SUPER.ESS-TOP be.NPRS-PFV.CVB span-EQU1-DEF man-TOP come-PFV.CVB all-EMPH food IV-eat-INF DEM1.SG begin-ANT.CVB there-IN.ABL DEM1.SG take.away-SIM.CVB moustache-CONT.ABL hair-TOP III-take.away-PFV.CVB DEM1.ISG.OBL-ERG me tree-POSS.LAT tie-PST.WIT-QUOT hair III-show-PST.UNW
+Translation: When the hunters came and asked for food, he also told them what had happened: "So a span-sized man came riding on a rooster, and when he began to eat up all the food and I wanted to take him away from there, he took a hair out of his moustache and tied me to a tree." and he showed them the hair.

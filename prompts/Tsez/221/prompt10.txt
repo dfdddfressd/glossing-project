@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word cirabi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word cirabi: 
+
+Exact Matches
+Sentence: Sidƛ’o ʕAt’idƛin, sideniƛ’gon Q’arumƛin cirabi yołäsi.
+Gloss: one.OBL-SUPER.ESS Atid-QUOT the.other.one-SUPER.ESS-CNTR Qarum-QUOT name-PL be-RES.PRT
+Translation: One was named Atid, the other one Qarum.
+Sentence: Dibirä esirno nesiq, mi žeduq cirabi esirinč’aƛin.
+Gloss: imam-ERG ask-PST.UNW DEM1.ISG.OBL-POSS.ESS you DEM1.IPL.OBL-POSS.ESS name-PL ask-NEG.PST.WIT-Q-QUOT
+Translation: The imam asked him: "Haven't you asked for their names?"
+Sentence: Nedur resunäyƛin, eƛin boc’ä, meža mežaƛ’osi cirabi esoƛin.
+Gloss: so IV-exist-CND.CVB-QUOT say-PST.UNW wolf-ERG you(II-ERG you(II-SUPER.ESS-ATTR name-PL tell-IMPR-QUOT
+Translation: "If that's the case," said the wolf, "tell me your names!"
+
+Approximate Matches:
+Sentence: Sideƛ’ Ħasanƛin, sideƛ’ Ħusenƛin cirabin cedin.
+Gloss: one.OBL-SUPER.ESS Hassan-QUOT one.OBL-SUPER.ESS Hussein-QUOT name-PL-TOP name-PST.UNW
+Translation: They named one Hassan, and one Hussein.
+Sentence: ʕOmoyzaƛ’osi cirabin riyrno, boc’i boqno ciqaɣor bik’in.
+Gloss: donkey-PL-SUPER.ESS-ATTR name-PL-TOP III.PL-learn-PFV.CVB wolf III-become-PFV.CVB forest-IN.VERS III-go-PST.UNW
+Translation: Having learned the names of the donkeys, the wolf went into the forest.
+Sentence: Žeduƛ’ Ħasan sidƛ’o, Ħusenƛin sideniƛ’ cirabin ceyn.
+Gloss: DEM1.IPL.OBL-SUPER.ESS Hassan one.OBL-SUPER.ESS Hussein-QUOT the.other.one-SUPER.ESS name-PL-TOP name-PST.UNW
+Translation: They named one of them Hassan and the other one Hussein.

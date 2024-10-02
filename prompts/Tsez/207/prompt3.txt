@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boc’zo.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boc’zo
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boc’zo:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ac ħišäsi yesuzaƛ’, boc’ä qˤaƛin, ħišixosi, ac seroƛin.
+Gloss: door lock-RES.PRT II-exist-CSL.CVB wolf-ERG shout-PST.UNW lock-PRS.PRT door unlock-IMPR-QUOT
+Translation: Because the door was locked, the wolf shouted: "It's locked, unlock the door!"
+Sentence: Elay bitor boxin bik’ix boc’in axoł šäširuni xarcelid bix kosix, xizazgon et’unč’ey neła kasiruni bix rutirxo din ik’ix zows, neduräy žagon bˤeƛ’än rac’xo zows.
+Gloss: there-IN.ABL thither III-run.away-PFV.CVB III-go-IPFV.CVB wolf-TOP belly-CONT.ESS get.stuck-PST.PRT-DEF scythe-INSTR grass mow-IPFV.CVB behind-CNTR stay.behind-NEG.PST.CVB DEM1.IISG.OBL-ERG mow-PST.PRT-DEF grass IV-gather-IPFV.CVB me-TOP go-IPFV.CVB be.NPRS-PST.WIT so-IN.ABL DEM1.SG-CNTR sheep-ERG-TOP IV-eat-IPFV.CVB be.NPRS-PST.WIT
+Translation: From there the wolf ran away with the scythe being stuck in the belly mowing grass, but I didn't stay behind but went gathering the mowed grass; so the sheep were eating it.
+Sentence: Hunix nełade dandir c’axru boc’ä nełqay ža dawla boɣƛ’oräy, zira eƛin:
+Gloss: way-AD.ESS DEM1.IISG.OBL-APUD.ESS towards meet-PST.PRT wolf-ERG DEM1.IISG.OBL-POSS.ABL DEM1.SG prey III-take.away-SIM.CVB fox-ERG say-PST.UNW
+Translation: On the way, when a wolf that was coming towards him wanted to take the prey away from him, the fox said:

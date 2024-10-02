@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: besun.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": besun
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word besun:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Babiw exun q’ˤanoqu ɣudi rik’inosi, idu sida quł rac’ace at’no ƛexasi resun, rečuƛgon sis miƛ’in besun.
+Gloss: father die-PFV.CVB forty day IV-go-ANT.CVB home one.OBL day-CONT.ESS IV-eat-TERM wheat-and remain-RES.PRT IV-exist-PFV.CVB cattleshed-SUB.ESS-CNTR one ram-and III-exist-PST.UNW
+Translation: When the father had been dead for forty days, at home only remained wheat to eat for one day and one ram in the shed.
+Sentence: Eloza bezu-bˤoƛ’unosi, zirur boƛik’u bac’äsi ƛeles q’ulaʕi besun.
+Gloss: there-ZA III-examine-ANT.CVB fox-LAT half III-eat-RES.PRT lamb-GEN1 carcass III-find-PST.UNW
+Translation: When he looked around there, he found the carcass of a half-eaten lamb.
+
+Approximate Matches:
+Sentence: Deber ža ħumukuli bukayn besunč’inäy, nazay deber nełas kut’yos k’onč’u šiqˤono yałrułi yiyxƛin?”
+Gloss: you-LAT DEM1.SG camel III-see-PFV.CVB III-exist-NEG.FUT-CND.CVB from.where you-LAT DEM1.IISG.OBL-GEN1 right.side-GEN1 foot lame be-MSD II-know-PRS-QUOT
+Translation: "If you haven't seen this camel, how do you know that its right foot is lame?"
+Sentence: ƛˤorłäy xizor utin aynosi, nesir barun užin besunanu.
+Gloss: war-CONT.ABL back return-PFV.CVB come-ANT.CVB DEM1.ISG.OBL-LAT wife-and son-and I.PL-find-PFV.CVB-NEG
+Translation: When [the husband] came back from the war, he didn't find his wife and son.
+Sentence: Sasaqosi moƛaxay yizinosi, Bilq’isdä Allahqo harizi rodin, eli q’ˤanon debi laɣbi deber betixozołäysi besunäy, howt’otow elus ruħ boɣoƛin.
+Gloss: in.the.morning sleep-AD.ABL II-get.up-ANT.CVB Bilqisdi-ERG God-POSS.ESS request IV-do-PST.UNW we two-TOP you-GEN1 slave-PL you-LAT I.PL-love-IPFV.CVB-ATTR.OBL-CONT.ABL-ATTR I.PL-appear-CND.CVB here-EMPH we(I).OBL-GEN1 soul III-take.away-IMPR-QUOT
+Translation: In the morning, when she got up from her sleep, Bilqisdi prayed to Allah: "If we two are not among the slaves you love, then take our souls right here!"

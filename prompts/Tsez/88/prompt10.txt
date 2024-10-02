@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: iduɣor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": iduɣor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word iduɣor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Sida quł bet’erhanno bet’erhanes užin ƛˤoreł bik’inosi, yiła neł ʕaƛos dibir iduɣor goƛ’in.
+Gloss: one.OBL day-CONT.ESS master-and master-GEN1 son-and war-CONT.ESS I.PL-go-ANT.CVB DEM2.IISG.OBL-ERG DEM1.IISG.OBL village-GEN1 imam home-IN.ALL invite-PST.UNW
+Translation: One day, when the master and the master's son went to war, she invited the village's imam to their home.
+Sentence: Nesä neła bełis łˤono but’a yodix zown, sis but’a awarager, sis miskinzar, sideni q’ˤimä q’ˤimzo haq’ur iduɣor yowx zown.
+Gloss: DEM1.ISG.OBL-ERG DEM1.IISG.OBL hunting-GEN1 three part II-do-IPFV.CVB be.NPRS-PFV.CVB one part prophet-LAT one poor-PL-LAT the.other.one oneself-ERG oneself-GEN2 family-LAT home-IN.ALL II-bring-IPFV.CVB be.NPRS-PST.UNW
+Translation: He always made three parts of what he hunted, one part he gave to the prophet, one to the poor, and the other part he brought to his own family's home.
+
+Approximate Matches:
+Sentence: Xizyo yizä ža iduɣorno own esirno nesiq, didur šebi roqno mi t’or keze oqäƛin.
+Gloss: after DEM2.IIPL.OBL-ERG DEM1.SG home-IN.ALL-TOP bring-PFV.CVB ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS how what IV-happen-PFV.CVB you here-LAT meet become-Q-QUOT
+Translation: Then they let him into the house and asked him what had happened and how he came here.
+Sentence: Elor baynosi, č’ikin boqno c’aramäz begin iduɣorno bik’in, žedus xabarno teqerno bičin.
+Gloss: there-LAT III-come-ANT.CVB flea-TOP III-become-PFV.CVB crack-IN.ESS.DIST III-go.into-PFV.CVB home-IN.ALL-TOP I.PL-go-PFV.CVB DEM1.IPL-GEN1 story-TOP listen.to-PFV.CVB III-be-PST.UNW
+Translation: When it arrived there, it became a flea, went inside through a crack and listened to what they said.
+Sentence: Howlaytow bitor adäz bikorin, xizaz kidno hunix boqno bikorzo iduɣorƛin bik’in.
+Gloss: from.there-EMPH thither ahead snake-TOP from.behind daughter-TOP way-AD.ESS III-become-PFV.CVB snake-ATTR.OBL home-IN.ALL-QUOT III-go-PST.UNW
+Translation: From then on, the snake went ahead with the daughter following it, until it came to the snake's house.

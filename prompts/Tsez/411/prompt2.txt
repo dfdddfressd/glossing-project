@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word babiwderno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word babiwderno: 
+
+Exact Matches
+Sentence: Xexłiƛ’ k’oƛin babiwderno yik’in, hemesi tusnaq’äzo užir teƛxa mi izmu guluƛ’ zowanirƛin, nełaq eƛin rok’äłrun, xan kid žek’anixƛin iza oqno.
+Gloss: quickness-SUPER.ESS run-PFV.CVB father-APUD.LAT-TOP II-go-PFV.CVB DEM4.ISG.OBL prison-IN.ESS-ATTR.OBL boy-LAT give-IPFV.CVB-Q you permission horse-SUPER.ESS ride-MSD-LAT-QUOT DEM1.IISG.OBL-POSS.ESS say-PFV.CVB IV-escape-IMM.ANT.CVB khan daughter beat-MSD-AD.ESS-QUOT get.up-INF begin-PST.UNW
+Translation: She quickly ran to her father, and when the words "Do you give the permission that the boy in prison can ride the horse?" broke out of her, the king got up to slap his daughter.
+Sentence: Žan hemedurtow kecnon ičin, sasaqosi babiwderno nexno eƛin, där c’ohor ukaynč’uƛin.
+Gloss: DEM1.SG-TOP so-EMPH sleep-PFV.CVB-TOP remain-PFV.CVB in.the.morning father-APUD.LAT-TOP come-PFV.CVB say-PFV.CVB me-LAT thief see-NEG.PST.WIT-QUOT
+Translation: He also fell asleep and came in the morning to his father and said, "I did not see the thief."
+Sentence: Xizyo sasaqosi babiwderno ayn eƛin, där siskin šebin rukaynč’uƛin.
+Gloss: afterwards in.the.morning father-APUD.LAT-TOP come-PFV.CVB say-PFV.CVB me-LAT any thing IV-see-NEG.PST.WIT-QUOT
+Translation: Then in the morning he came back to his father and said that he did not see anything.
+
+Approximate Matches:
+Sentence: Nełaz meča sis ɣˤʷayn bexurno, nełas rok’un roɣno, babiwder ik’in, ele däz esiws rok’uƛin.
+Gloss: DEM1.IISG.OBL-GEN2 instead.of one dog-TOP III-kill-PFV.CVB DEM1.IISG.OBL-GEN1 heart-TOP IV-take.away-PFV.CVB father-APUD.LAT go-PFV.CVB here me-GEN2 sister-GEN1 heart-QUOT
+Translation: Instead of her, he killed a dog and took out its heart and went to his father: "Here, my sister's heart."
+Sentence: Žedu barubi Ismaʕilä babiwder rižinč’ey, qalamä teł ruqˤno xecin.
+Gloss: DEM1.IIPL wife-PL Ismail-ERG father-APUD.LAT II.PL-lead-NEG.PST.CVB fortress-IN.ESS inside II.PL-hide-PFV.CVB leave-PST.UNW
+Translation: These wives Ismail didn't lead to his father, but left them hidden inside a fortress.
+Sentence: Xizyo žeduł xizay bik’ix zawru ɣˤʷayn bexurno, nełas rok’un rižin ik’in babiwder, di esiw yexursiƛin eƛanix.
+Gloss: afterwards DEM1.IPL.OBL-CONT.ESS behind III-go-IPFV.CVB be.NPRS-PST.PRT dog-TOP III-kill-PFV.CVB DEM1.IISG.OBL-GEN1 heart-TOP IV-take.out-PFV.CVB go-PFV.CVB father-APUD.LAT me sister II-kill-PST.WIT-QUOT say-MSD-AD.ESS
+Translation: Afterwards, he killed a dog that was following them, he took out its heart and went to his father to say: "I killed my sister."

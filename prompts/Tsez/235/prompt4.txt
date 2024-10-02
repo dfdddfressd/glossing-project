@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word doxturder in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word doxturder: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nesä doxturqo esirno, debeq yedu kid saɣ yodäłäƛin.
+Gloss: DEM1.ISG.OBL-ERG doctor-POSS.ESS ask-PFV.CVB you-POSS.ESS DEM2.IISG daughter cure II-do-POT-Q-QUOT
+Translation: He asked doctor to cure his daughter.
+Sentence: Howži doxtur oqno xanez žarno, bečedawni žek’us kidberno daruyabi rodanix.
+Gloss: now doctor become-PFV.CVB khan-GEN2 son-LAT-TOP wealthy-DEF man-GEN1 daughter-LAT-TOP medicine-PL IV-do-PURP.CVB
+Translation: After that the doctor began to cure the khan's son and the daughter of the rich man.
+Sentence: Mi radiru łinaƛ’no di razi yołƛin, doxturän eƛin.
+Gloss: you IV-do-PST.PRT what.OBL-SUPER.ESS-TOP me agree be-QUOT doctor-ERG-TOP say-PFV.CVB
+Translation: "I fully agree with you," the doctor said.

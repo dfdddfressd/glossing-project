@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word pikru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word pikru: 
+
+Exact Matches
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."
+Sentence: Onočas pikru boqno, ciqaɣor ža bik’inosi, nełał xizay xal bodin bičanƛin.
+Gloss: hen-GEN1 idea III-become-PFV.CVB forest-IN.VERS DEM1.SG III-go-ANT.CVB DEM1.IISG.OBL-CONT.ESS behind examination III-do-PFV.CVB III-be-FUT.DEF-QUOT
+Translation: The hen had the idea to follow him, when he goes to the forest.
+Sentence: Yisä pikru bodin, didiwgon boqłin sida maxšelyoƛ’or ečula ʕUmar ruhun oqanix t’et’ra ižanƛin.
+Gloss: DEM2.ISG.OBL-ERG idea III-do-PFV.CVB which-CNTR III-become-CNC.CVB one.OBL skill-SUPER.LAT grandchild Umar learn become-MSD-AD.ESS learn-INF lead-FUT.DEF-QUOT
+Translation: He thought: "I'll lead my grandson Umar to learn so he can learn at least one skill."
+
+Approximate Matches:
+Sentence: Yiła łinasno payda anu därƛin pikrun boyn, tungin bisno yeda ʕAliqiličtow łäƛ’or ik’in.
+Gloss: DEM2.IISG.OBL what.OBL-GEN1-TOP use be.NEG me-LAT-QUOT idea-TOP III-do-PFV.CVB copper.jug-TOP III-take-PFV.CVB DEM2.ISG Aliqilich-EMPH water-SUPER.LAT go-PST.UNW
+Translation: "I have no use for that", thought Aliqilich, took the jug and went to get water.
+Sentence: Mežuz pikruxor, žedu łˤorłäyn tełäy baħarčiłi yołäsi šebi iča ayx:
+Gloss: you(I).PL.OBL-GEN2 idea-AD.LAT DEM1.IPL.OBL three.OBL-CONT.ABL-TOP inside-IN.ABL braveness be-RES.PRT who be-Q must-PRS
+Translation: "In your opinion, who of the three must be the bravest:
+Sentence: Sis xexoy yiłar kurnäy, q’ˤano där ƛäxuƛin, rok’ƛ’or pikrun bayn, dicego zaħmat roqłin, yiła zirur xexoy kurno.
+Gloss: one young.animal DEM2.IISG.OBL-LAT throw-CND.CVB two me-LAT remain-QUOT heart-SUPER.LAT idea-TOP III-come-PFV.CVB how.much-COND trouble IV-become-CNC.CVB DEM2.IISG.OBL-ERG fox-LAT young.animal throw-PST.UNW
+Translation: "If I throw him down one nestling, I will still keep two", thought the bird and although it was quite difficult, it threw a nestling to the fox...

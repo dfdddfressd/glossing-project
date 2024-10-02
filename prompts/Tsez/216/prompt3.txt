@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boqno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boqno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boqno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Esnazał xizaz ixiw raład boqno.
+Gloss: sister-PL-CONT.ESS behind big sea III-become-PST.UNW
+Translation: And a big sea formed behind the sisters.
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Harizi boqno ža:
+Gloss: request III-become-TOP DEM1.SG
+Translation: The dragon begged:
+
+Approximate Matches:
+Sentence: Bišno boqnosi, esnabin maħor begirno, eɣeni esiya igorno ik’in Kusaq esirno, sasaqay soder q’ˤimno riqirno, bišadyoƛ’orno aq’ˤułnowa mi ičäsi, šebi deber q’ʷariłi boqäsiƛin.
+Gloss: I.PL-eat-TOP I.PL-begin-ANT.CVB brother-PL-TOP outside I.PL-send-PFV.CVB young-DEF brother-ERG near-LAT-TOP go-PFV.CVB Kusa-POSS.ESS ask-PST.UNW in.the.morning-IN.ABL after head-TOP IV-stop-PFV.CVB food-SUPER.LAT-TOP sit-PFV.CVB-Q you be-RES.PRT what you-LAT sadness III-happen-RES.PRT-QUOT
+Translation: After having eaten, the young brother sent his brothers outside, approached Kusa and asked him: "What sadness has happened to you so that you are sitting there over your food holding your head."
+Sentence: Mi eli baƛ’irxoƛin, bełiqanbi bužzi boqnoanu nesä äsiru łinaƛ’no.
+Gloss: you we III-cheat-PRS-QUOT hunter-PL trust III-become-PFV.CVB-NEG DEM1.ISG.OBL-ERG tell-PST.PRT what.OBL-SUPER.ESS-TOP
+Translation: "You're cheating us!", the hunters didn't trust in what he had told them.
+Sentence: Iduɣor yizi boqnosi, zeyä yeda žeduz ɣˤutkoxor ayrno.
+Gloss: home-IN.ALL DEM2.IPL III-happen-ANT.CVB bear-ERG DEM2.ISG DEM1.IPL-GEN2 house-AD.LAT bring-PFV.CVB
+Translation: They went into the house and the bear brought him to their house.

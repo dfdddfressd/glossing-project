@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xabar using Leipzig glossing symbols. The sentence this word is drawn from means: "When he had said this, she poked her tongue out like a tired hound.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xabar
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xabar:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemedur žedu yałzay, sida bečedaw žek’a xabar bayrno bertenyołxor horoƛin.
+Gloss: so DEM1.IPL be-SIM.CVB one.OBL wealthy man-ERG story III-bring-PST.UNW marriage-CONT.VERS come.IMPR-QUOT
+Translation: While they were like this [i.e., married], a rich man spread the word: 'Come to my marriage!'.
+Sentence: Žedus baqru nasin xabar teqno žedu q’ˤunan nukarzar - režet’ani esnazas halmaɣzar.
+Gloss: DEM1.IPL.OBL-GEN1 III-happen-PST.PRT all story hear-PST.UNW DEM1.IPL.OBL two.OBL-TOP henchman-PL-LAT - IV-old-DISTR-DEF sister-PL-GEN1 friend-PL-LAT
+Translation: Their whole discussion was overheard by those two henchmen - the friends of the older sisters.
+Sentence: ʕAƛar xabar bayn, hunix zigolun yegirno, raq’ˤu bˤeƛ’ rexunƛin.
+Gloss: village-IN.LAT story III-come-PST.UNW way-AD.ESS hail-TOP II-send-PFV.CVB III.PL-many sheep III.PL-die-PST.UNW-QUOT
+Translation: Into the village came the news that on the way it had hailed and many sheep had died.
+
+Approximate Matches:
+Sentence: Žedu xabaryayxno teqno, bełiqa baruqor eƛin, mi uži bełiƛ’ egir, ža bełiƛ’ ik’inč’inäy, q’ˤuyzadäzay hudun elur ħak’omƛer šebin räqinč’iƛin.
+Gloss: DEM1.IPL talk-IPFV.CVB-TOP hear-PFV.CVB hunter-ERG wife-POSS.LAT say-PST.UNW you son hunting-SUPER.ESS let DEM1.SG hunting-SUPER.ESS go-NEG.FUT.CVB-CND.CVB other-PL-APUD.ABL.DIST nevertheless we(I).OBL-LAT khinkali-SUB.LAT thing IV-get-NEG.FUT-QUOT
+Translation: When he heard them talking, the hunter said to his wife, "Let the son on a hunt, if he won't go hunting, we won't have anything for our khinkali anyway."
+Sentence: ƛ’iri xabarkin boynč’ey yeda razin oqno, hunixor eniya erno zowali žedu q’ˤunqorno sist’a magalabin teƛno.
+Gloss: above story-even III-do-NEG.PST.CVB DEM2.ISG agree-TOP become-PFV.CVB way-AD.LAT mother-ERG put-PFV.CVB be.NPRS-ATTR DEM1.IPL two.OBL-POSS.LAT-TOP one.at.a.time bread-PL-TOP give-PST.UNW
+Translation: Without further discussion he agreed and gave the breads that his mother made for the way to the two of them, one for each.
+Sentence: Debi iš anu žaƛin, bežet’ani esnabi bixzin boqno xabaryayn yisiqor rok’ƛ’osi murad t’ubazi boqinč’izaƛ’.
+Gloss: you-GEN1 concern be.NEG DEM1.SG-QUOT I.PL-old-DISTR-DEF brother-PL angry-TOP I.PL-become-PFV.CVB tell-PFV.CVB DEM2.ISG.OBL-POSS.LAT heart-SUPER.ESS-ATTR wish fulfill III-become-NEG.FUT.CVB-CSL.CVB
+Translation: "That's not your business.", said the older brothers angrily because their hearts' desire was not fulfilled.

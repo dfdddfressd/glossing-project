@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word aždaħ in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word aždaħ: 
+
+Exact Matches
+Sentence: Sida quł aždaħ baq’ˤułno zawruni kikxar łäħor Zeyes Aħya ik’in.
+Gloss: one.OBL day-CONT.ESS dragon III-cover-PFV.CVB be.NPRS-PST.PRT-DEF spring-AD.VERS water-AD.LAT bear-GEN1 ear go-PST.UNW
+Translation: One day Bear Ear went to the spring the dragon was covering to get water.
+Sentence: T’ok’ow k’ek’-bik’łinč’ey howlortow bexun ža - iłno q’ˤim yołali aždaħ.
+Gloss: anymore move-POT-NEG.PST.CVB there-LAT-EMPH III-die-PFV.CVB DEM1.SG - six head be-ATTR dragon
+Translation: The dragon with the six heads couldn't move anymore and died there.
+Sentence: Yisägon bizirno q’ˤidan bok’no aždaħ ašuƛäyd raƛ’moƛxor cucik’no.
+Gloss: DEM2.ISG.OBL-ERG-CNTR III-lift-PFV.CVB down-TOP III-beat-PFV.CVB dragon waist-SUB.ABL-TERM earth-SUB.LAT put-PST.UNW
+Translation: Then he beat the dragon down and put him into the earth up to the waist.
+
+Approximate Matches:
+Sentence: Äzuru yisir ciqez raʕalłix yałruni sida ixiw ɣunoq soder bizix aždaħ-bikori bukayn.
+Gloss: look-PST.PRT DEM2.ISG.OBL-LAT forest-GEN2 edge-AD.ESS be-PST.PRT-DEF one.OBL big tree-POSS.ESS upward III-get.up-IPFV.CVB dragon~snake III-see-PST.UNW
+Translation: Looking around, he saw a dragon-snake climbing a tree that was standing at the edge of the forest.
+Sentence: Mi t’or aždaħes xexoy ba di c’unzi yoda, howlo sidaɣ yołƛin teqsi där aždaħno, nełdegon sadaq łˤono xexoynƛin.
+Gloss: you here-LAT dragon-GEN1 young.animal III-bring.IMP me guard II-do-INF there in.one.place be-QUOT hear-ATTR me-LAT dragon-and DEM1.IISG.OBL-APUD.ESS-CNTR together three young.animal-and-QUOT
+Translation: Bring me a dragon's young to guard me; I heard somewhere there there is a dragon and beside it three youngs."
+Sentence: Di yoł yiła eluz wilayatzo naib Žabulawes aždaħä yok’ek’no yowäsi kidƛin, - esin yiła, - däƛ’ Baxumesedoƛin cin yoł.
+Gloss: me be DEM2.IISG.OBL we(I).OBL-GEN2 province-ATTR.OBL governor Jabulaw-GEN1 dragon-ERG II-steal-PFV.CVB II-bring-RES.PRT daughter-QUOT - tell-PST.UNW DEM2.IISG.OBL-ERG - me-SUPER.ESS Bakhumesed-QUOT name-TOP be
+Translation: "I am the daughter of our province's governor Jabulaw, who got stolen by a dragon." she said, "my name is Bakhumesedo.

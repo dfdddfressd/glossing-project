@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word riƛu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word riƛu: 
+
+Exact Matches
+Sentence: Maħama žigon aƛ’in Aħmadqor, mi ʕabdal esunč’inäy eƛ’isi riƛu žiƛbo räƛiyäƛin.
+Gloss: Magomed-ERG again.now scold-PST.UNW Akhmed-POSS.LAT you fool exist-NEG.FUT.CVB-CND.CVB last.year-ATTR field this.year IV-plough-Q-QUOT
+Translation: Again now Magomed scolded Akhmed: "If you weren't a fool, would you plough last year's field this year?"
+Sentence: Eƛ’isi riƛu žek’us žiƛbosi q’ˤimes ričixosiƛin.
+Gloss: last.year-ATTR field man-GEN1 this.year-ATTR oneself-GEN1 IV-be-PRS.PRT-QUOT
+Translation: "Last year's field was someone else's, this year's field is his own."
+Sentence: Elur hunix riƛu riƛix žek’u esus.
+Gloss: we(I).OBL-LAT way-AD.ESS field IV-plough-IPFV.CVB man find-PST.WIT
+Translation: "On the way we found a man ploughing a field.
+
+Approximate Matches:

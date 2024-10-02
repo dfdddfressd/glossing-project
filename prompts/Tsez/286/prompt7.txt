@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bik’inč’u in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bik’inč’u: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Däz beženi ɣˤʷačulis madaxortow ɣˤʷačni teqzaƛ’ tełxorkin yik’inč’uƛin.
+Gloss: me-GEN2 III-old-DEF he.goat-GEN1 door-AD.LAT-EMPH chewing hear-CSL.CVB inside-AD.LAT-even II-go-NEG.PST.WIT-QUOT
+Translation: Because I heard the chewing of my old goat at the door, I didn't go inside.
+Sentence: Yeženi kidbä, din yegir yiłde sadaq hunin regirnoƛin, eniwq esirnosi, yegirzaƛ’ šida yik’inč’uƛin bixzin yoqno eƛin.
+Gloss: II-old-DEF daughter-ERG me-TOP II-let DEM2.IISG.OBL-APUD.ESS together way-TOP IV-send-PFV.CVB-QUOT mother-POSS.ESS ask-ANT.CVB II-let-CSL.CVB why II-go-NEG.PST.WIT-QUOT angry-TOP II-become-PFV.CVB say-PST.UNW
+Translation: When the eldest daughter asked her mother: "Let me go with her together so I can see her off!", and the mother angrily said: "Why didn't you go when I let you?"
+Sentence: Eleley, esiwƛin, eƛin yiła, din kumakyor anusi yedu nece reže ɣˤutku didur debeq rodiłä, dikin šida moƛaxay č’arik’inč’uƛin.
+Gloss: behold brother-QUOT say-PST.UNW DEM2.IISG.OBL-ERG me-TOP help-LAT be.absent-ATTR DEM2.IISG so.much IV-big house how you-POSS.ESS IV-do-POT-PST.WIT.INT me-even why sleep-AD.ABL wake.up-NEG.PST.WIT-QUOT
+Translation: "Wow, brother!", said she, "Without my help you have built such a big house; why didn't you wake me up from my sleep?"

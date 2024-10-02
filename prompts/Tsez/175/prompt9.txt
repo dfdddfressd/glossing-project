@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łinax.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łinax
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łinax:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: ʕOmoyä łinax riyx yedu elur ħažat boqaniƛin, halmaɣłiqorno eƛin, neła nełaz gugyoƛ’orno bizirerno, elay bitor bižin.
+Gloss: donkey-ERG how IV-know-PRS DEM2.IISG we-LAT necessity III-become-MSD-QUOT friendship-POSS.LAT-TOP say-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-IN.ESS.DIST back-SUPER.LAT-TOP III-lift-CAUS-PFV.CVB there-IN.ABL thither III-carry-PST.UNW
+Translation: The donkey said to his friends: "How does one know [how] it can become useful for us.", had [the wolf] lifted on his back and carried it further.
+Sentence: Aħa igorno ayn esirno, šebi roqäsi šebin yoł, łinax mi zigaryayxƛin.
+Gloss: shepherd-ERG near-LAT-TOP come-PFV.CVB ask-PST.UNW what IV-happen-RES.PRT thing be how you complain-PRS-QUOT
+Translation: The shepherd came closer and asked: "What happened? Why are you complaining?"
+Sentence: Eɣeni esiwq xanä deber łinax riyä kut’yoƛ’aza puƛ’aza nełaƛ’ ƛ’iri nuci zawrułiƛin esirnosi, nesä eƛin:
+Gloss: younger-DEF brother-POSS.ESS khan-ERG you-LAT how IV-know-Q right.side-SUPER.VERS.DIST side-SUPER.VERS.DIST DEM1.IISG.OBL-SUPER.ESS above honey be.NPRS-MSD-QUOT ask-ANT.CVB DEM1.ISG.OBL-ERG say-PST.UNW
+Translation: When the king asked the younger brother, how he knew that it had honey on its right side, he said:
+
+Approximate Matches:
+Sentence: Nełasgon łinasnokin hunar anusi kid zownƛax.
+Gloss: DEM1.IISG.OBL-GEN1-CNTR what.OBL-GEN1-TOP-even talent be.NEG-ATTR daughter be.NPRS-PST.UNW-QUOT
+Translation: She had a daughter with no talent whatsoever.
+Sentence: Nełƛ’ay soder eniwn, užin łinasnotow urɣel anusi bičix zown.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after mother-TOP son-TOP what.OBL-GEN1-TOP-EMPH sorrow be.NEG-ATTR III-live-PRS be.NPRS-PFV.CVB
+Translation: From that moment on the mother and the son lived careless.
+Sentence: Mi radiru łinaƛ’no di razi yołƛin, doxturän eƛin.
+Gloss: you IV-do-PST.PRT what.OBL-SUPER.ESS-TOP me agree be-QUOT doctor-ERG-TOP say-PFV.CVB
+Translation: "I fully agree with you," the doctor said.

@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: maħor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": maħor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word maħor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Acno yaɣˤin babiw iduɣor oqƛ’oräy, bic’äsi t’as maħor čaƛˤanix bisno yik’ix dandir kid c’oxno.
+Gloss: door-TOP II-open-PFV.CVB father home-IN.ALL become-SIM.CVB III-fill-RES.PRT washbowl outside pour.out-MSD-AD.ESS III-take-PFV.CVB II-go-IPFV.CVB towards daughter meet-PST.UNW
+Translation: Opening the door, the father got home, as he met his daughter carrying a full washbowl to pour it out outside.
+Sentence: Eniya äƛiru rožbin rok’er ʕeze roqinč’ey, eženi užä eniwq q’ˤano magalun hunixor ererno, iday maħor oqno.
+Gloss: mother-ERG say-PST.PRT word-PL-TOP heart-LAT be.enough IV.PL-become-NEG.PST.CVB old-DEF son-ERG mother-POSS.ESS two bread-TOP way-AD.LAT put-CAUS-PFV.CVB home-IN.ABL outside become-PST.UNW
+Translation: The words that the mother had spoken didn't please his heart enough, so the oldest son let the mother give two breads to him for the way and left the home.
+Sentence: Ža xabar yisä aħyaxorkin begirnoanu, baru yowač’inƛin di hedizi oqäsiƛin, t’ok’ow ža xabar meža haqazay maħor baɣnoƛin.
+Gloss: DEM1.SG story DEM2.ISG.OBL-ERG ear-AD.LAT-even III-let-PFV.CVB-NEG wife II-marry-NEG.FUT.DEF-QUOT me swear become-RES.PRT-QUOT anymore DEM1.SG story you(I).PL.OBL-ERG mouth-IN.ABL.DIST outside III-take.away-PROHIB-QUOT
+Translation: These words he didn't let to his ears, "I won't marry another wife!"... "I swear!"... "Don't say that anymore!",
+
+Approximate Matches:
+Sentence: Yisägon roɣno mač’an tełäza aždaħno t’it’i-beč’no, axaza egin maħorno oqno nełas q’ˤim ret’urno kurno.
+Gloss: DEM2.ISG.OBL-ERG-CNTR IV-take.away-PFV.CVB dagger-TOP inside-IN.VERS.DIST dragon-TOP cut.into.pieces-PFV.CVB belly-IN.VERS.DIST break.apart-PFV.CVB outside-TOP become-PFV.CVB DEM1.IISG.OBL-GEN1 head IV-hack-PFV.CVB throw-PST.UNW
+Translation: He took out his dagger and cut the dragon into pieces from inside, broke him apart from out of the belly, got outside and chopped off its head.
+Sentence: Neła harizi rodin, habsaʕat maħorno yoqno yayan diƛin.
+Gloss: DEM1.IISG.OBL-ERG request IV-do-PST.UNW now outside-TOP II-become-PFV.CVB II-come-FUT.DEF me-QUOT
+Translation: She pleaded: "I'll get outside and come back!"
+Sentence: Xanä ža maħortow yegirxo zownanu.
+Gloss: khan-ERG DEM1.SG outside-EMPH II-let-IPFV.CVB be.NPRS-PST.UNW-NEG
+Translation: The king didn't let her go outside.

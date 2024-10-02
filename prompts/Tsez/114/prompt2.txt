@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: hoboy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": hoboy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word hoboy:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sidä eƛin, yisä däqay moƛał ʕazar ɣuruš yoɣäsi zows, hoboy ža yisä xizor neƛxanuƛin.
+Gloss: one.OBL-IN.ESS say-PST.UNW DEM2.ISG.OBL-ERG me-POSS.ABL dream-CONT.ESS thousand ruble II-take.away-RES.PRT be.NPRS-PST.WIT now DEM1.SG DEM2.ISG.OBL-ERG back give-IPFV.CVB-NEG-QUOT
+Translation: One said: "He took a thousand rubles away from me in my dream, now he doesn't give them back to me."
+Sentence: Xizyo xanä nesiq esirno, räk’iru mužmarƛ’o mi ža esinč’uwa, hoboy łu ža debeq esäƛin.
+Gloss: afterwards khan-ERG DEM1.ISG.OBL-POSS.ESS ask-PST.UNW IV-go-PST.PRT Friday-SUPER.ESS you DEM1.SG tell-NEG.PST.WIT-Q now who.ERG DEM1.SG you-POSS.ESS tell-PST.WIT.INT-QUOT
+Translation: Then the king asked him: "You didn't tell this past Friday, now who told this to you?"
+Sentence: Were hoboy mi, yedu bˤeƛ’es reqenno bižin, t’ay xizor ik’iƛin, nesä nesis šeƛ’un šeƛ’urno uži egirno.
+Gloss: well now you DEM2.IISG sheep-GEN1 herd-TOP III-lead-PFV.CVB from.here back go-QUOT DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN1 put.on-PFV.CVB put.on-CAUS-PFV.CVB boy send-PST.UNW
+Translation: "Well, alright, you, lead my flock of sheep and go away!", he [said and] dressed the boy in his [own] clothings and sent him away.
+
+Approximate Matches:
+Sentence: Kutak ɣˤaɣˤu yizix baru, hoboyƛa yisis kanłi bissiƛin.
+Gloss: too.much be.happy II-get.up-IPFV.CVB wife now-INDEF DEM2.ISG.OBL-GEN1 light III-take-PST.WIT-QUOT
+Translation: The wife became really really happy: "Now his eyesight has been taken."
+Sentence: Bazarganbin boxin biłe bik’in nełzaqay, hibo boɣanix hoboyä hik’eyä uži xizay oƛixxoƛin.
+Gloss: merchant-PL-TOP I.PL-run.away-PFV.CVB I.PL-as I.PL-go-PFV.CVB DEM1.IISG.OBL-PL-POSS.ABL stick III-take.away-MSD-AD.ESS now-Q later-Q boy from.behind appear-IPFV.CVB-QUOT
+Translation: And the merchants went away from there hastily, [being afraid that] sooner or later this boy might appear behind them to take the stick away.
+Sentence: Rigutow rigu hoboyƛin, rok’ƛ’orno rayn žoyä ɣunoqosi aluk’anin, c’udanin henešno but’in oqno xanzo kidbedäɣor ik’in.
+Gloss: IV-good-EMPH IV-good now-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB boy-ERG tree-POSS.ESS-ATTR white-DEF-and red-DEF-and apple-TOP III-collect-PFV.CVB begin-PFV.CVB khan-GEN2 daughter-APUD.VERS go-PST.UNW
+Translation: "Very well, now.", thought the boy, plucked a white and a red apple from the tree and went to the princess.

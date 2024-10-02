@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word łˤoran in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word łˤoran: 
+
+Exact Matches
+Sentence: Nełaƛ’ yeda razin oqno, kumakyorgon ža ɣˤanabin yižin, žedu łˤoran ƛˤeba sadaq beynoyn.
+Gloss: DEM1.IISG.OBL-SUPER.ESS DEM2.ISG agree-TOP become-PFV.CVB help-LAT-CNTR DEM1.SG woman-TOP II-lead-PFV.CVB DEM1.IPL three.OBL-TOP year together III-work-PFV.CVB
+Translation: He agreed with it, took the woman as an aid and they worked together during three years.
+Sentence: Ža kaɣat t’et’erno łiynosi, łˤoran xexza nesiqor eƛin, eli łˤonon bik’a yoł debez halmaɣ Tawadidäɣor.
+Gloss: DEM1.SG letter read-PFV.CVB end-ANT.CVB three.OBL-TOP children DEM1.ISG.OBL-POSS.LAT say-PST.UNW we three-TOP I.PL-go-INF be you-GEN2 friend Tavadi-APUD.VERS
+Translation: When he finished reading the letter, his three children said to him: "We three will go to your friend Tavadi.
+Sentence: Guħƛ’orno bizin, łˤoran esnaza kurno c’eruc’a.
+Gloss: hill-SUPER.LAT-TOP I.PL-get.up-PFV.CVB three.OBL-TOP brother-PL-ERG throw-PST.UNW bow
+Translation: The three brothers climbed up the hill and shot with their bows.
+
+Approximate Matches:
+Sentence: Łˤoran esnazaq aždaħ čerayx zown, raładyoł boqanix där kumak bodoƛin.
+Gloss: three.OBL-TOP sister-PL-POSS.ESS dragon beg-IPFV.CVB be.NPRS-PFV.CVB sea-CONT.ESS III-become-MSD-AD.ESS me-LAT help III-do-IMPR-QUOT
+Translation: The dragon was begging the three sisters: "Help me getting over this sea!"
+Sentence: Sida ɣudi bik’in, q’ˤuna ɣudi bik’in łˤora äƛiza ɣudiƛ’o yizirabi sidaɣ qunyoxor bayn.
+Gloss: one.OBL day I.PL-go-PFV.CVB two.OBL day I.PL-go-PFV.CVB three.OBL say-LCV day-SUPER.ESS DEM2.IIPL in.one.place farmstead-AD.LAT III-come-PST.UNW
+Translation: They went one day, they went two days, and on the third day they came to a farmstead somewhere.
+Sentence: Nece xira, łˤora ɣˤurušyoƛ, yedu q’ut’u teƛxo boqzaƛ’, yiłas hunarno eso mi däqƛin?”.
+Gloss: so.much expensive three.OBL ruble-SUB.ESS DEM2.IISG earthen.jug sell-IPFV.CVB III-happen-CSL.CVB DEM2.IISG.OBL-GEN1 talent-TOP tell-IMPR you me-POSS.ESS-QUOT
+Translation: "So expensive, you're selling this jug for three rubles, tell me about its ability!"

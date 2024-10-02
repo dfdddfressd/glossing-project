@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xanqon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xanqon: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Ciqez aɣzas iyoq šeƛ’un rodin (tutirno), xizorno nexno xanqo rukarno, ele debez žas šeƛ’uƛin.
+Gloss: forest-GEN2 bird-PL-GEN1 blood-POSS.ESS clothing-TOP IV-do-PFV.CVB be.stained-CAUS-PFV.CVB back-TOP come-PFV.CVB khan-POSS.ESS IV-show-PST.UNW here you-GEN2 son-GEN1 clothing-QUOT
+Translation: They put (stained) the clothings with the blood of forest birds, came back and showed them to the king: "Behold, your son's clothings."
+Sentence: Howlotow nełar riyn ža reƛ’a łas yałrułi, neła q’orolays reƛ’a yoł žaƛin esin neła xanqo.
+Gloss: there-EMPH DEM1.IISG.OBL-LAT IV-know-PFV.CVB DEM1.SG hand who.OBL-GEN1 be-MSD DEM1.IISG.OBL widow-GEN1 hand be DEM1.SG-QUOT tell-PST.UNW DEM1.IISG.OBL-ERG khan-POSS.ESS
+Translation: And there she knew whose hand it was: "It's this widow's hand.", she told the king.
+Sentence: Sasaq nexno maħlay xanqor qˤaƛo mi, c’ik’iw raładyołäy besurobin roqno, žeda debi räƛiru šebin rac’noƛin.
+Gloss: tomorrow come-PFV.CVB court-IN.ABL khan-POSS.LAT shout-IMPR you all sea-CONT.ABL fish-PL-TOP III.PL-become-PFV.CVB DEM1.IPL-ERG you-GEN1 IV-plant-PST.PRT thing IV.PL-eat-PST.UNW-QUOT
+Translation: "Come tomorrow and shout from the court tomorrow, that all the fish got out of the sea and ate what you planted."

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: riynč’uƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": riynč’uƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word riynč’uƛin:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Nełaz rok’ƛ’or rayn, yeda däder igu žek’u aynč’uƛin.
+Gloss: DEM1.IISG.OBL-GEN2 heart-SUPER.LAT IV-come-PST.UNW DEM2.ISG me-APUD.LAT good man come-NEG.PST.WIT-QUOT
+Translation: She thought: "He didn't come to me as a good man."
+Sentence: Xizyo sasaqosi babiwderno ayn eƛin, där siskin šebin rukaynč’uƛin.
+Gloss: afterwards in.the.morning father-APUD.LAT-TOP come-PFV.CVB say-PFV.CVB me-LAT any thing IV-see-NEG.PST.WIT-QUOT
+Translation: Then in the morning he came back to his father and said that he did not see anything.
+Sentence: Žan hemedurtow kecnon ičin, sasaqosi babiwderno nexno eƛin, där c’ohor ukaynč’uƛin.
+Gloss: DEM1.SG-TOP so-EMPH sleep-PFV.CVB-TOP remain-PFV.CVB in.the.morning father-APUD.LAT-TOP come-PFV.CVB say-PFV.CVB me-LAT thief see-NEG.PST.WIT-QUOT
+Translation: He also fell asleep and came in the morning to his father and said, "I did not see the thief."

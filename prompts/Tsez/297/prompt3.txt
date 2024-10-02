@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word rig in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word rig: 
+
+Exact Matches
+Sentence: Deber rig räyƛin, eƛin Tawadä, deber t’o č’alʕizin roqno räsu.
+Gloss: you-LAT IV-well IV-know-QUOT say-PST.UNW Tavadi-ERG you-LAT here boredom-TOP IV-become-PFV.CVB IV-exist
+Translation: "You know well," said Tavadi, "that you've grown bored of here.
+Sentence: Nesä ik’in xanez kidbes räxuruni ozuras meča ɣʷays ozuri ernosi, nełar nełaz ozuriƛ’aygon rig rukada roqno.
+Gloss: DEM1.ISG.OBL-ERG go-PFV.CVB khan-GEN2 daughter-GEN1 IV-die-PST.PRT-DEF eye-GEN1 instead.of dog-GEN1 eye put-ANT.CVB DEM1.IISG.OBL-LAT DEM1.IISG.OBL-GEN2 eye-SUPER.ABL-CNTR IV-well IV-see-INF IV-begin-PST.UNW
+Translation: He went and after putting a dog's eye in place of the princess' dead eye, she began to see well again from her eye.
+
+Approximate Matches:

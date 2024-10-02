@@ -1,0 +1,39 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xexbin using Leipzig glossing symbols. The sentence this word is drawn from means: ""His wife and children live at Razhbadin's home", answered the old man.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xexbin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xexbin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełdäy xexbin rižin, k’ucin, k’et’us xexoybin nełder kurno.
+Gloss: DEM1.IISG.OBL-APUD.ABL children-TOP III.PL-take.out-PFV.CVB puppy-and cat-GEN1 young.animal-PL-and DEM1.IISG.OBL-APUD.LAT spread.out-PST.UNW
+Translation: She took away the children from her and put the puppy and the kitten do her.
+Sentence: Di yoł debi xexbin rexurno, howži mi bexuranix nexʷasi žek’uƛin”, - eƛin ʕAliqiličä.
+Gloss: me be you-GEN1 children-TOP III.PL-kill-PFV.CVB now you III-kill-MSD-AD.ESS come-RES.PRT man-QUOT - say-PST.UNW Aliqilich-ERG
+Translation: "I am a man who killed your children, and now came to kill you", said Aliqilich.
+Sentence: Ža eženi ečuy Ħasan žaqˤułno ʕaƛox yołƛax ʕUmares xexbin šet’u butirno žeduq kesubi esix.
+Gloss: DEM1.SG old-DEF grandfather Hassan today-TOP village-AD.ESS be-QUOT Umar-GEN1 children-TOP around I.PL-gather-PFV.CVB DEM1.IPL.OBL-POSS.ESS tale-PL tell-PRS
+Translation: They say that the old grandfather Hassan is still living in the the village and, surrounded by Umar's children, tells them tales.
+
+Approximate Matches:
+Sentence: Łinaƛ’notow raħmu bisxosi xexbi zown ža.
+Gloss: what.OBL-SUPER.ESS-TOP-EMPH mercy III-take-PRS.PRT child be.NPRS-PST.UNW DEM1.SG
+Translation: He was a boy who had mercy with everything.
+Sentence: Howži hudu žedu xexbi ax roqacet’a bišno.
+Gloss: now then DEM1.IPL children belly IV-happen-TERM-DISTR I.PL-eat-PST.UNW
+Translation: From now on these children ate their bellies full.
+Sentence: Sida zamanałäy, xexbi bežet’a boqnosi henešyabi täƛruni eženi žek’us xabar bayn, sissi uži nesir egiroƛ, nesiqor ezun ža sida kikxo äčiƛin.
+Gloss: one.OBL time-CONT.ABL children I.PL-old-DISTR I.PL-become-ANT.CVB apple-PL give-PST.PRT-DEF old-DEF man-GEN1 story III-come-PFV.CVB one-ATTR boy DEM1.ISG.OBL-LAT send-OPT DEM1.ISG.OBL-POSS.LAT look-PFV.CVB DEM1.SG one.OBL spring-AD.ESS wait-QUOT
+Translation: At one time, when the children had become older, the story came [to them] of the old man who gave the apples, and one boy was to be sent to him and he would wait on a spring looking for him.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: teqnäy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": teqnäy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word teqnäy:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Žedu xabaryayxno teqno, bełiqa baruqor eƛin, mi uži bełiƛ’ egir, ža bełiƛ’ ik’inč’inäy, q’ˤuyzadäzay hudun elur ħak’omƛer šebin räqinč’iƛin.
+Gloss: DEM1.IPL talk-IPFV.CVB-TOP hear-PFV.CVB hunter-ERG wife-POSS.LAT say-PST.UNW you son hunting-SUPER.ESS let DEM1.SG hunting-SUPER.ESS go-NEG.FUT.CVB-CND.CVB other-PL-APUD.ABL.DIST nevertheless we(I).OBL-LAT khinkali-SUB.LAT thing IV-get-NEG.FUT-QUOT
+Translation: When he heard them talking, the hunter said to his wife, "Let the son on a hunt, if he won't go hunting, we won't have anything for our khinkali anyway."
+Sentence: Žeda eniwqor eƛix teqno, bˤaƛo bäk’ino, eli akiłxoƛin.
+Gloss: DEM1.IIPL.OBL-ERG mother-POSS.LAT say-IPFV.CVB hear-PST.UNW III-quickly III-go-PROHIB we get.tired-PRS-QUOT
+Translation: He heard them say: "Don't go so quickly, we are getting tired!"
+Sentence: Hudayzikon teqno yisir bˤeƛ’ sidä sidqor xabaryayx.
+Gloss: the.next.day-and hear-PST.UNW DEM2.ISG.OBL-LAT sheep one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB
+Translation: The next day he heard again that the sheep were talking among each other.

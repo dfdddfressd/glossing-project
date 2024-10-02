@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yoxin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yoxin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yoxin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yeda ukayrun, šebiƛa sis kid yoxin yik’iƛ’oräy, nełał xizay k’oƛin yisä nełas xot’oqosi riqirno.
+Gloss: DEM2.ISG see-IMM.ANT.CVB who-INDEF one girl II-run.away-PFV.CVB II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS from.behind run-PFV.CVB DEM2.ISG.OBL-ERG DEM1.IISG.OBL-GEN1 foot-POSS.ESS-ATTR IV-take.away-PST.UNW
+Translation: And right when he saw that there was some girl who was trying to run away, he ran behind her and took what she had on her feet.
+Sentence: Sida quł neła nełasno, eniwsno sidaƛ’or šeƛ’un rutirno, žan rižin ciqaɣor yoxin.
+Gloss: one.OBL day-CONT.ESS DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1-and mother-GEN1-and one.OBL-SUPER.LAT clothing-TOP IV-gather-PFV.CVB DEM1.SG-TOP IV-carry-PFV.CVB forest-IN.VERS II-run.away-PST.UNW
+Translation: One day she collected the clothes of herself and her mother and carrying them escaped into the forest.
+Sentence: ƛˤeb yik’inosi, sida quł dawlaƛ’ zey maħor boqäsi yałzay, kid nełdayn yoxin ʕaƛaɣor yik’in.
+Gloss: year II-go-ANT.CVB one.OBL day-CONT.ESS prey-SUPER.ESS bear outside III-become-RES.PRT be-SIM.CVB girl DEM1.IISG.OBL-APUD.ABL-TOP II-run.away-PFV.CVB village-IN.VERS II-go-PST.UNW
+Translation: A year went by, and one day while the bear went outside for prey, the girl ran away from him and went into a village.
+
+Approximate Matches:
+Sentence: Yoqzaƛ’ yeženi esiwł xizaytow min yik’iƛin, xanä yoƛƛosin esiw maħor yoxirno.
+Gloss: II-happen-CSL.CVB II-old-DEF sister-CONT.ESS behind-EMPH you-and II-go-QUOT khan-ERG II-middle-ATTR-and sister outside II-chase-PST.UNW
+Translation: "Because this happened, go after your older sister!", and the king also chased the middle sister away.
+Sentence: Mi äƛiru roži t’ubazi rodinč’uƛin, xanä yeženi esiw xizor yoxirno.
+Gloss: you say-PST.PRT word fulfill IV-do-NEG.PST.WIT-QUOT khan-ERG II-old-DEF sister back II-chase-PST.UNW
+Translation: "You didn't keep your word!" said the king and chased the oldest sister back.
+Sentence: Xanä yisił adäza sual erno, kid yižiƛ’oräy bodač’in berten, nagaħ yoxiraniƛ’or yaynäy, hemełƛ’o bodanƛin.
+Gloss: khan-ERG DEM2.ISG.OBL-CONT.ESS before question put-PST.UNW girl II-lead-SIM.CVB III-do-NEG.FUT.DEF marriage suppose II-chase-MSD-SUPER.LAT II-must-CND.CVB DEM4.IISG.OBL-SUPER.ESS III-do-FUT.DEF-QUOT
+Translation: The king asked him a question: "While I am going to marry the girl, I will not make a wedding; if I have to chase her away, I will do it."

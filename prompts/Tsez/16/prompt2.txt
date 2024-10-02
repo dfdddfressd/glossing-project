@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nesir.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nesir
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nesir:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Eženi esiya eɣeniq reƛ’a caƛix kumak nesir boyx zown, yedakin ok’ełxanaƛin.
+Gloss: old-DEF brother-ERG young-DEF-POSS.ESS hand throw-IPFV.CVB help DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT
+Translation: The older brother was helping giving his hand to the younger one, so at least he might escape.
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.
+Sentence: Neła ža beƛ’q’ˤu bac’anix łet’ix yałrułi nesir čuqˤnosi, c’eruc’a caƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG sheep III-eat-MSD-AD.ESS pick-IPFV.CVB be-MSD DEM1.ISG.OBL-LAT notice-ANT.CVB bow shoot.with-PST.UNW
+Translation: When he noticed that she was picking that sheep in order to eat it, he shot with his bow.
+
+Approximate Matches:
+Sentence: ʕAƛar ayrun, bełiqanä idu nesä nesirsini but’an eqerno, mažgitäɣor ik’in.
+Gloss: village-IN.LAT come-IMM.ANT.CVB hunter-ERG home DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT-ATTR-DEF part-TOP put-PFV.CVB mosque-IN.VERS go-PST.UNW
+Translation: Just when he came to the village, the hunter put the part that was for himself down at home and went to the mosque.
+Sentence: Tawadiz harimoxor Ražbadinä nesirtow hič’č’a eɣeni užin xecin.
+Gloss: Tavadi-GEN2 request-AD.LAT Razhbadin-ERG DEM1.ISG.OBL-LAT-EMPH the.most young-DEF son-TOP leave-PST.UNW
+Translation: According to Tavadi's request, Razhbadin left the youngest son to him.
+Sentence: Neła kidbeqor eƛin, ele žigoƛ’aygon deber däƛ’aza aždaħes xexoyn biqis, howži mi esiwqor eƛo, deber halmaɣłun yičaniƛäyn, nesirgon barułun yičaniƛäyn Beqes ʕUneyzat yowanix ik’iƛƛin.
+Gloss: DEM1.IISG.OBL-ERG girl-POSS.LAT say-PST.UNW here again-SUPER.ABL-CNTR you-LAT me-SUPER.VERS.DIST dragon-GEN1 young.animal-TOP III-get-PST.WIT now you brother-POSS.LAT say-IMPR you-LAT friend-LHUN II-be-MSD-SUB.ABL-and DEM1.ISG.OBL-LAT-CNTR wife-LHUN II-be-MSD-SUB.ABL-and sun-GEN1 Uneyzat II-marry-MSD-AD.ESS go-OPT-QUOT
+Translation: She said to the girl: "Again now because of me you got hold of a dragon's young, now say to your brother that he go and mary the Sun's Uneyzat, so she may become a friend to you and a wife to him."

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boc’än.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boc’än
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boc’än:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Zirun, k’et’un yołi boc’än, zeyän bayäru dawlaƛ’ žin yołƛax.
+Gloss: fox-and cat-and indeed wolf-ERG-and bear-ERG-and III-bring-PST.PRT prey-SUPER.ESS now be-QUOT
+Translation: And now the fox and the cat went to the prey that the wolf and the bear have brought that day.
+
+Approximate Matches:
+Sentence: Wallaƛin, eƛin boc’ä, howža xanez bˤeƛ’eł zawru biƛurox aluk’ani bˤeƛ’q’ˤu yaqˤułer narƛa bok’ełnoƛin.
+Gloss: wallah-QUOT say-PFV.CVB wolf-ERG DEM4.SG khan-GEN2 sheep-CONT.ESS be.NPRS-PST.PRT belly-AD.ESS white-DEF sheep today-LAT where-INDEF III-escape-PST.UNW-QUOT
+Translation: "I swear," said the wolf, "the sheep with the white belly which was among the flock of sheep of that king there escaped somewhere today."
+Sentence: Bertenyoł, keč’ qˤaƛoƛin, boc’ä ʕomoyq harizi rodin.
+Gloss: marriage-CONT.ESS song sing-IMPR-QUOT wolf.PL-ERG donkey-POSS.ESS request III.PL-do-PST.UNW
+Translation: On the marriage, the wolves asked the donkey: "Sing a song!"
+Sentence: Elo rišxo žedaƛ žedu ʕomoybi yałzay, ƛ’irir bayn boc’ä eƛin, meži di howži rexurno rac’a yołƛin.
+Gloss: there III.PL-eat-IPFV.CVB DEM1.IIPL.OBL-SUB.ESS DEM1.IPL donkey-PL be-SIM.CVB above-LAT III-come-PFV.CVB wolf-ERG say-PST.UNW you.PL me now III.PL-kill-PFV.CVB III.PL-eat-INF be-QUOT
+Translation: While the donkeys were among themselves there are ate, a wolf came along and said to the donkeys: "I will kill and eat you!"

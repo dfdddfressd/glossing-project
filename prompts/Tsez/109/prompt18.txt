@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: xexoyä.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": xexoyä
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word xexoyä:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bik’anon bik’in, xexoyä eniwq esin, yaqˤuł sida aħozä elus tušman bexursiƛin.
+Gloss: III-go-INF-TOP III-go-PFV.CVB young.animal-ERG mother-POSS.ESS tell-PST.UNW today one.OBL shepherd-ERG we(I).OBL-GEN1 enemy III-kill-PST.WIT-QUOT
+Translation: The rabbit's young went and told its mother: "Today a shepherd has killed our enemy."
+Sentence: Posures mec nesir biyxozołäy Alimaħama łaqnokin esin anu, esinäy mi äxuƛin nesiq riyräsi roqzaƛ’ qˤayz xexoyä.
+Gloss: cattle-GEN1 language DEM1.ISG.OBL-LAT III-know-AD.ESS-ATTR.OBL-CONT.ABL Alimagomed-ERG who.OBL-POSS.ESS-TOP-even tell-PFV.CVB be.NEG tell-CND.CVB you die-QUOT DEM1.ISG.OBL-POSS.ESS IV-explain-RES.PRT IV-become-CSL.CVB hare-GEN2 young.animal-ERG
+Translation: Alimagomed told to no one about his knowing the animals' language, because the rabbit's young had explained to him: "If you tell it, you'll die!"
+Sentence: Nesir siskin šebin retixanu, debez mecqo mec bitirnäy ʕeze raqƛin eƛis nesäƛin, esin xexoyä.
+Gloss: DEM1.ISG.OBL-LAT any thing IV-want-PRS-NEG you-GEN2 tongue-POSS.ESS tongue III-touch-CND.CVB be.enough IV-become-QUOT say-PST.WIT DEM1.ISG.OBL-ERG-QUOT tell-PST.UNW young.animal-ERG
+Translation: "He doesn't want anything, if he can touch your tongue with his tongue, it will be enough, he said.", explained her young.
+
+Approximate Matches:
+Sentence: Sida quł ciqaɣor qaca roda uži ik’inosi, nesir aɣzaz xexoyzadäɣor ɣunoq bizix bikori bukayn.
+Gloss: one.OBL day-CONT.ESS forest-IN.VERS firewood IV-do-INF boy go-ANT.CVB DEM1.ISG.OBL-LAT bird-PL-GEN2 young.animal-PL-APUD.VERS tree-POSS.ESS III-get.up-IPFV.CVB snake III-see-PST.UNW
+Translation: One day, when the boy went to the forest to get firewood, he saw a snake getting up a tree towards some bird chicks.
+Sentence: Neła kidbeqor eƛin, ele žigoƛ’aygon deber däƛ’aza aždaħes xexoyn biqis, howži mi esiwqor eƛo, deber halmaɣłun yičaniƛäyn, nesirgon barułun yičaniƛäyn Beqes ʕUneyzat yowanix ik’iƛƛin.
+Gloss: DEM1.IISG.OBL-ERG girl-POSS.LAT say-PST.UNW here again-SUPER.ABL-CNTR you-LAT me-SUPER.VERS.DIST dragon-GEN1 young.animal-TOP III-get-PST.WIT now you brother-POSS.LAT say-IMPR you-LAT friend-LHUN II-be-MSD-SUB.ABL-and DEM1.ISG.OBL-LAT-CNTR wife-LHUN II-be-MSD-SUB.ABL-and sun-GEN1 Uneyzat II-marry-MSD-AD.ESS go-OPT-QUOT
+Translation: She said to the girl: "Again now because of me you got hold of a dragon's young, now say to your brother that he go and mary the Sun's Uneyzat, so she may become a friend to you and a wife to him."
+Sentence: Sis nełarno kurno siskin där ƛexandaƛin, aɣzo rok’ƛ’orno rayn, dicego rok’er zaħmat roqłin, zirur sis xexoy kurno.
+Gloss: one DEM1.IISG.OBL-LAT-TOP throw-PFV.CVB anything me-LAT remain-FUT.DEF-COND-QUOT bird-ATTR.OBL heart-SUPER.LAT-TOP IV-come-PFV.CVB how.much-COND heart-LAT trouble IV-become-CNC.CVB fox-LAT one young.animal throw-PST.UNW
+Translation: "Throwing one down, there will still remain one for me.", thought the bird and although it was difficult, it threw one nestling to the fox.

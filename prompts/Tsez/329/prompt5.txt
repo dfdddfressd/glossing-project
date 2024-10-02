@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’ˤidarno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’ˤidarno: 
+
+Exact Matches
+Sentence: Łˤonosi žiman eqerno iduɣor bowƛ’oräy, kak royxo Riħoxaz äčiru q’ˤidarno bˤoƛ’un t’ok’ow dicegon k’ediłin biqinč’u däq.
+Gloss: three-ATTR pocket-IN.ESS-TOP put-PFV.CVB home-IN.ALL III-bring-SIM.CVB prayer IV-do-IPFV.CVB Rixox-IN.ESS.DIST be-PST.PRT down-LAT-TOP III-fall-PFV.CVB anymore how.much-CNTR search-CNC.CVB III-get-NEG.PST.WIT me-POSS.ESS
+Translation: I put three (coins) in my pocket and when bringing them home, I did a prayer in Rikhokh and they fell down and I couldn't find them anymore no matter how much I searched.
+
+Approximate Matches:
+Sentence: Soder ezunosi, ƛ’iräy ƛ’iyor łäs čok boɣäsiƛax, wˤałer ezuzaƛ’ q’ˤidar axukin yayxanuƛax.
+Gloss: upward look-ANT.CVB from.above downwards water-GEN1 stream III-hatch-RES.PRT-QUOT downward-LAT look-CSL.CVB down-LAT drop-even II-come-PRS-NEG-QUOT
+Translation: When he looked upwards, a stream of water flowed down, but when he looked down, not even a drop of water came down.
+Sentence: Xanes uži yisä akiłno q’ˤidar ʕoƛ’ace naysinan kerozaq ezu-ʕaƛ’urno, amma ƛ’irizoni ɣˤutkaɣor ezura ižinanu yisä yeda.
+Gloss: khan-GEN1 son DEM2.ISG.OBL-ERG get.tired-PFV.CVB down-LAT fall-TERM everywhere ravine-PL-POSS.ESS examine-CAUS-PFV.CVB but above-ATTR.OBL-DEF room-IN.VERS show-INF lead-PFV.CVB-NEG DEM2.ISG.OBL-ERG DEM2.ISG
+Translation: He lead him through the ravines and showed him everything until he got tired and fell down, but he didn't lead him to show him the room above.
+Sentence: Sidä muhubi ħolimoƛ’äytow rac’xo zown, sideni aɣä q’ˤidar räšru rut’ix zown.
+Gloss: one.OBL-ERG granule-PL mat-SUPER.ABL-EMPH IV-eat-IPFV.CVB be.NPRS-PST.UNW other bird-ERG down-LAT IV-fall-PST.PRT IV-collect-IPFV.CVB be.NPRS-PST.UNW
+Translation: One ate the granules directly from the mat, the other bird collected those that had fallen down.

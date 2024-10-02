@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word däx in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word däx: 
+
+Exact Matches
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"
+Sentence: Mi di saɣ yoys, däx horoƛin”, - eženi esiya eƛin.
+Gloss: you me cure II-do-PST.WIT me-AD.ESS come.IMPR-QUOT - old-DEF brother-ERG say-PST.UNW
+Translation: "I cured you, come to me", said the eldest brother.
+Sentence: Nełƛ’osigon oƛƛosi esiw neł xanzo kidbeder, däx barułun horoƛin, esirno ik’in.
+Gloss: of.that.time-CNTR middle-ATTR brother DEM1.IISG.OBL khan-ATTR.OBL daughter-APUD.LAT me-AD.ESS wife-LHUN come.IMPR-QUOT ask-PFV.CVB go-PST.UNW
+Translation: Then the middle brother went to the princess, "Come and be my wife!"
+
+Approximate Matches:

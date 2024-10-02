@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word deber in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word deber: 
+
+Exact Matches
+Sentence: Hudun ži ɣˤuruš neƛnäy sisgon bodan deber di ʕaq’luƛin razi oqno eženi.
+Gloss: nevertheless now ruble give-CND.CVB one-CNTR III-do-FUT.DEF you-LAT me advice-QUOT agree become-PST.UNW old-DEF
+Translation: "Nevertheless, if you give me a ruble, I'll give you another advice.", agreed the old man.
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.
+
+Approximate Matches:
+Sentence: Bazarganbi mešizaxozo aħoderno bayn esirno nesiq, howt’aza bitor łeno ħumukulin bižin ik’ix žek’u ukaynč’a deberƛin.
+Gloss: merchant-PL bull.calf-PL-AD.ESS-ATTR.OBL shepherd-APUD.LAT-TOP I.PL-come-PFV.CVB ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS there-IN.VERS.DIST thither five camel-TOP III-lead-PFV.CVB go-IPFV.CVB man see-NEG.PST.WIT-PST.WIT.INT you-LAT-QUOT
+Translation: The merchants came to the shepherd with the calves and asked him: "Have you seen a man leading five camels going there?"
+Sentence: Igtow yeda ƛ’iri utizaƛ’ Tawadä esin, mi yowxozo barurno, deberno saɣłin rodin ħaƛanix di t’akan yizärun, gugyoq tungin bisno akiƛäza yik’ix yukayru kidbeƛ’ ozurin c’oxno, nełaz bercinłä ʕadal oys.
+Gloss: much-EMPH DEM2.ISG above turn-CSL.CVB Tavadi-ERG tell-PST.UNW you II-marry-PRS.PRT.OBL wife-LAT-and you-LAT-and health-TOP IV-do-PFV.CVB drink-MSD-AD.ESS me glass II-lift-IMM.ANT.CVB back-POSS.ESS copper.jug-TOP III-take-PFV.CVB window-SUB.VERS II-go-IPFV.CVB II-see-PST.PRT girl-SUPER.ESS eye-TOP hit-PFV.CVB DEM1.IISG.OBL-GEN2 beauty-ERG intoxication do-PST.WIT
+Translation: Because he insisted so much, Tavadi told him: "Right after lifting my glass to drink on your and your soon to be married wife, my eye met this girl whom I saw going under the window and taking a jar on her back, and her beauty was intoxicating."
+Sentence: Šida yałru debertow räyƛin, kidbä uži ezuranix bitazoni ɣˤutkaɣor ižin.
+Gloss: why be-PST.PRT you-LAT-EMPH IV-know-QUOT girl-ERG boy show-MSD-AD.ESS next-DEF room-IN.VERS lead-PST.UNW
+Translation: "You will know why", the girl [said and] lead the boy into the next room to show him.

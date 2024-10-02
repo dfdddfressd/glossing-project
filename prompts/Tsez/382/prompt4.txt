@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ʕarab in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ʕarab: 
+
+Exact Matches
+Sentence: Babiya eƛin, wallah, howda uži ʕarab ʕilmu t’et’ranix ižixƛin.
+Gloss: dad-ERG say-PST.UNW wallah DEM3.SG son Arabic science learn-MSD-AD.ESS lead-PRS-QUOT
+Translation: The father said: "By God, I am leading my son here to learn the Arabic science."
+Sentence: Žaq oč’ino ƛˤeb yaynosi, babiwz rok’ƛ’or rayn, ʕarab ʕilmu t’et’ra ižanƛin.
+Gloss: son-POSS.ESS nine year II-come-ANT.CVB father-GEN2 heart-SUPER.LAT IV-come-PST.UNW Arabic science learn-INF lead-FUT.DEF-QUOT
+Translation: When the son became nine years old, the father had an idea: "I will send him to learn the Arabian science."
+
+Approximate Matches:
+Sentence: Ħažataw q’ʷarʕaraw q’ayn sidaƛ’or butirno, maħor boqanix ħadur boqnosi, Beqes ʕUneyzatä eƛin, däz guluƛ’ zown bik’anƛin.
+Gloss: necessary necessary article-TOP one.OBL-SUPER.LAT III-gather-PFV.CVB outside I.PL-become-MSD-AD.ESS prepare I.PL-become-ANT.CVB sun-GEN1 Uneyzat-ERG say-PST.UNW me-GEN2 horse-SUPER.ESS ride-PFV.CVB I.PL-go-FUT.DEF-QUOT
+Translation: They gathered all necessary articles together, and when they prepared to go outside, Sun's Uneyzat said: "We will ride on my horse."
+Sentence: Qacis q’ili Qudi Musaz Maħama bok’si, ħošos zurma Xantuz ʕAlä pˤaƛus, keč’ Maʕat’iz Ruq’än, Amirħanzan qˤaƛis, istowlizaq šet’ur łočyoƛ’ Xaluman Ošk’oris Ramazanno k’oƛis, ɣodos ʕarada Metirozya pˤoƛirsi, dabaɣyos tupi K’it’i Ramazanä kursi, meys tamanča Qebozya ašuƛ ricis, Ešiƛ’oza łelmay butnos mač’ibi roɣsi, Newoza bexada qacis t’eka bayrsi, Kidiraygon ʕomoyƛ’no zown Šapk’ilaw ays.
+Gloss: firewood-GEN1 drum Qudi Musa-GEN2 Magomed-ERG III-beat-PST.WIT hide-GEN1 zurna Khantu-GEN2 Ali-ERG thrash-PST.WIT song Ma'ati-GEN2 Ruqiyat-ERG-and Amirhanza-ERG-and sing-PST.WIT table-PL-POSS.ESS around dance-SUPER.ESS Khaluma-and Oshkori-GEN1 Ramazan-and jump-PST.WIT lime.tree-GEN1 cannon Metrada.people-ERG explode-CAUS-PST.WIT leather-GEN1 rifle Kiti Ramazan-ERG shoot.from-PST.WIT birch-GEN1 pistol Khebatli.people-ERG belt-SUB.ESS IV-tie-PST.WIT Shaytl.people-ERG sheath-IN.ABL burka-GEN1 dagger-PL IV.PL-take.away-PST.WIT Mokok.people-ERG III-slaughter-INF firewood-GEN1 he.goat III-bring-PST.WIT Kidero-IN.ABL-CNTR donkey-SUPER.ESS-TOP be.NPRS-PFV.CVB Shapkilaw come-PST.WIT
+Translation: Qudi Musa's Magomed beated the wooden drum, Xantu's Ali played the zurna, Ma'ati's Ruqi and Amirhanza sang a song, Khaluma and Oshkori's Ramazan danced around the tables, people from Metrada fired a lime gun, Kiti Ramazan shot with a leather rifle, the Khebatli people put tied a birch pistol to their belt, people from Shaytl pulled burka daggers out of the sheath, the Mokok people slaughtered brought a wooden goat for slaughtering, and Shapkilaw came from Kidero riding on a donkey.
+Sentence: Sida quł ruzmanƛ’o xanä nazołno adäza sual erno, hič’č’an qˤaba hič’č’an kokoru, hič’č’an ʕedeʕaraw šebin šebiƛin.
+Gloss: one.OBL day-CONT.ESS Friday-SUPER.ESS khan-ERG everyone.OBL-CONT.ESS-TOP ahead question put-PST.UNW the.most-and black the.most-and soft the.most-and quick thing what-QUOT
+Translation: One Friday the king asked a question before everyone: "What is the blackest, softest and quickest thing?"

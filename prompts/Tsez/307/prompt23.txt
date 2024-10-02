@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ɣˤilyan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ɣˤilyan: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Mi žek’anix ɣˤilya bowsƛin eƛin, Alimaħama baruz gugya ɣˤilya basada oqno.
+Gloss: you beat-MSD-AD.ESS stick III-bring-PST.WIT-QUOT say-PFV.CVB Alimagomed-ERG wife-GEN2 back-IN.ESS stick III-measure-INF begin-PST.UNW
+Translation: "I brought a stick to beat you!", said Alimagomed and began to hit his wife's back with the stick.
+Sentence: Mi žek’anix ɣˤilya bowsƛin eƛin, Alimaħama baruz gugya ɣˤilya basada oqno.
+Gloss: you beat-MSD-AD.ESS stick III-bring-PST.WIT-QUOT say-PFV.CVB Alimagomed-ERG wife-GEN2 back-IN.ESS stick III-measure-INF begin-PST.UNW
+Translation: "I brought a stick to beat you!", said Alimagomed and began to hit his wife's back with the stick.

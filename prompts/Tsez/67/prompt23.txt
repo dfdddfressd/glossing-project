@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: yoxira.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": yoxira
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word yoxira:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xanä yisił adäza sual erno, kid yižiƛ’oräy bodač’in berten, nagaħ yoxiraniƛ’or yaynäy, hemełƛ’o bodanƛin.
+Gloss: khan-ERG DEM2.ISG.OBL-CONT.ESS before question put-PST.UNW girl II-lead-SIM.CVB III-do-NEG.FUT.DEF marriage suppose II-chase-MSD-SUPER.LAT II-must-CND.CVB DEM4.IISG.OBL-SUPER.ESS III-do-FUT.DEF-QUOT
+Translation: The king asked him a question: "While I am going to marry the girl, I will not make a wedding; if I have to chase her away, I will do it."

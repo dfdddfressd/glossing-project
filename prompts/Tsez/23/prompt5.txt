@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eli.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eli
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eli:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža kaɣat t’et’erno łiynosi, łˤoran xexza nesiqor eƛin, eli łˤonon bik’a yoł debez halmaɣ Tawadidäɣor.
+Gloss: DEM1.SG letter read-PFV.CVB end-ANT.CVB three.OBL-TOP children DEM1.ISG.OBL-POSS.LAT say-PST.UNW we three-TOP I.PL-go-INF be you-GEN2 friend Tavadi-APUD.VERS
+Translation: When he finished reading the letter, his three children said to him: "We three will go to your friend Tavadi.
+Sentence: Meža mežuł raqru halmaɣłi eli sabawłun rexarno.
+Gloss: you(I).PL.OBL-ERG you(I).PL.OBL-CONT.ESS IV-become-PST.PRT friendship we for.the.sake.of IV-kill-PROHIB
+Translation: Don't destroy the friendship that is between you because of us!
+Sentence: Yisä eli baƛ’irxoƛin žedu ʕaƛoxarno bezun bik’in.
+Gloss: DEM2.ISG.OBL-ERG we I.PL-cheat-IPFV.CVB-QUOT DEM1.IPL village-AD.VERS-TOP I.PL-look-PFV.CVB I.PL-go-PST.UNW
+Translation: "He's deceiving us," they [said and] went to look toward the village.
+
+Approximate Matches:

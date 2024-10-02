@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hunar in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hunar: 
+
+Exact Matches
+Sentence: Nełasgon łinasnokin hunar anusi kid zownƛax.
+Gloss: DEM1.IISG.OBL-GEN1-CNTR what.OBL-GEN1-TOP-even talent be.NEG-ATTR daughter be.NPRS-PST.UNW-QUOT
+Translation: She had a daughter with no talent whatsoever.
+Sentence: Xizyo ečruni ɣˤanabi ʕaƛos xalq’i batizarno yik’in eƛin, däde idur sis uži ayäsi yoł, šebigo boqłin hunar boqinč’inäy ža t’orkin keze aqinč’iƛin.
+Gloss: afterwards old-DEF woman village-GEN1 people III-turn-LCV-LAT-TOP II-go-PFV.CVB say-PST.UNW me-APUD.ESS home-LAT one boy come-RES.PRT be what-COND III-become-CNC.CVB talent III-become-NEG.FUT-CND.CVB DEM1.SG here-LAT-even meet become-NEG.FUT-QUOT
+Translation: Afterwards, the old woman went to where the village's people gathered and said: "A boy has come to my home, if he had no talent, he wouldn't have come here."
+Sentence: Xizay bayru žedu ʕoloqzaqor yeženä eƛin, nesis hunar mežizoƛ’ay bežis, meža royxosi šebin šebi, dey xexbiƛin.
+Gloss: from.behind I.PL-come-PST.PRT DEM1.IPL.OBL young.person-PL-POSS.LAT II-old-DEF-ERG say-PST.UNW DEM1.ISG.OBL-GEN1 talent you.PL-GEN2-SUPER.ABL III-win-PST.WIT you(I).PL.OBL-ERG IV-do-PRS.PRT thing what me-GEN1 children-QUOT
+Translation: The old woman said to those young peple who came behind them: "He is more talented than you all, what is what you do, my children?
+
+Approximate Matches:
+Sentence: Debez eniwq baqru hunarä däq boqxanuƛin, aždaħä žedur miƛ’i bexayn.
+Gloss: you-GEN2 mother-POSS.ESS III-happen-PST.PRT talent-ERG me-POSS.ESS III-become-IPFV.CVB-NEG-QUOT dragon-ERG DEM1.IPL.OBL-LAT ram III-slaughter-PST.UNW
+Translation: "Your mother's talent isn't mine", the dragon said and slaughtered a ram for them.
+Sentence: Qartayder aynosi, neła nesiqay bayan bisno, mi šebi, łina hunaryos žek’u yołƛin.
+Gloss: Qartay-APUD.LAT come-ANT.CVB DEM1.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ABL specification III-take-PST.UNW you who what.OBL talent-GEN1 man be-QUOT
+Translation: When he came to Qartay, she wanted to know from him: "Who are you and what talent do you have?"
+Sentence: K’oxäƛirun ʕaq’lus xalq’i butirnosi, xanä cuƛer ʕabasin kurno hemedurtow eƛin, k’ešonad mi, pakmos ʕabasi, łinarnotow hunarno anu debi, siskin šebinon deber roda koƛ’ixanuƛin.
+Gloss: twice-ORD-TOP advice-GEN1 people I.PL-gather-ANT.CVB khan-ERG upward coin-TOP throw-PFV.CVB so-EMPH say-PST.UNW play you copper-GEN1 coin what.OBL-LAT-TOP-EMPH talent-TOP be.NEG you-GEN1 any something you-LAT IV-do-INF understand.to-PRS-NEG-QUOT
+Translation: The second time the king gathered his advisors, he also threw a coin up and said likewise: "Play, copper coin, you have no talent to whatsoever, you don't know what to do!"

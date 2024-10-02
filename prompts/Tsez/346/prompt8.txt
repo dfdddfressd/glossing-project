@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word c’aq’tow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word c’aq’tow: 
+
+Exact Matches
+Sentence: Sis zown c’aq’tow sider sis betäsi užin kidno.
+Gloss: one be.NPRS-PST.UNW very-EMPH one.OBL-LAT one I.PL-love-RES.PRT boy-and girl-and
+Translation: Once there was a boy and a girl who loved each other very much.
+Sentence: Xan c’aq’tow ħikmałiłer egin, nece ʕaq’ilaw yizi xexzar didur di diwan bodanƛin.
+Gloss: khan too-EMPH astonishment-CONT.LAT stand.still-PFV.CVB so.much intelligent DEM2.IPL.OBL children-LAT how me judgement III-do-FUT.DEF-QUOT
+Translation: The king stood still in astonishment about how he could make a judgement for these so intelligent children.
+Sentence: Neł mixƛ’o dibirä eƛin, žeda debeq c’aq’tow bit’araw esin.
+Gloss: DEM1.IISG.OBL at.a.time imam-ERG say-PST.UNW DEM1.IPL.OBL-ERG you-POSS.ESS much-EMPH true tell-PST.UNW
+Translation: Thereupon the imam said: "They told you the very truth!"
+
+Approximate Matches:
+Sentence: Yałi ža c’aq’aw baħarči zowsƛin.
+Gloss: else DEM1.SG excellent brave.young.man be.NPRS-PST.WIT-QUOT
+Translation: "Otherwise he was an excellent brave young man."

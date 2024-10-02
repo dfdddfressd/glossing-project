@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rok’ƛ’or.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rok’ƛ’or
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rok’ƛ’or:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: T’ok’ow heresi mec esanix rok’ƛ’or rayärnoƛin.”
+Gloss: anymore false language tell-MSD-AD.ESS heart-SUPER.LAT IV-bring-PROHIB-QUOT
+Translation: Don't come up with the idea of telling lies again.
+Sentence: Nełaz rok’ƛ’or rayn, yeda däder igu žek’u aynč’uƛin.
+Gloss: DEM1.IISG.OBL-GEN2 heart-SUPER.LAT IV-come-PST.UNW DEM2.ISG me-APUD.LAT good man come-NEG.PST.WIT-QUOT
+Translation: She thought: "He didn't come to me as a good man."
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."
+
+Approximate Matches:
+Sentence: Boc’ezno, qˤayzno, ziruznogon žedaƛ’or ixiwtow žanawar bays bäsuƛin rok’ƛ’orno rayn sidqo sis riqinč’ey k’iriłno roxin.
+Gloss: wolf-GEN2-and hare-GEN2-and fox-GEN2-and-CNTR DEM1.IIPL.OBL-SUPER.LAT big-EMPH wild.animal III-come-PST.WIT III-exist-QUOT heart-SUPER.LAT-TOP IV-come-PST.UNW one.OBL-POSS.ESS one IV-get-NEG.PST.CVB run.away-PFV.CVB IV-run.away-PST.UNW
+Translation: The wolf, the hare and the fox thought that an animal, larger than themselves, was coming, they ran away, one running faster than the other.
+Sentence: Adäz keze baqru halmaɣłi iłeda yeda esanƛin rok’ƛ’ort’a rayx zown žas.
+Gloss: ahead meet I.PL-become-PST.PRT friendship as-COND DEM2.ISG exist-FUT.DEF-QUOT heart-SUPER.LAT-DISTR IV-come-IPFV.CVB be.NPRS-PST.UNW boy-GEN1
+Translation: The boy thought several times: "Maybe he will be just like the friends he met before."
+Sentence: Ža rukayxow, k’et’uz elo aw yołƛin rok’ƛ’orno rayn bet’un bˤeƛez q’ˤimƛ’or k’oƛin.
+Gloss: DEM1.SG IV-see-SEQ cat-GEN2 there mouse be-QUOT heart-SUPER.LAT-TOP IV-come-PFV.CVB III-jump-PFV.CVB pig-GEN2 head-SUPER.LAT jump-PST.UNW
+Translation: Seeing this, the cat thought there was a mouse and jumped onto the pig's head.

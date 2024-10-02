@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bisnoanu.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bisnoanu
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bisnoanu:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Kidbez eniya nesir ya micxir, ya mesed, ya q’ˤuya riguƛ’ay rigu šebinabi teƛxo zown, hudun užä žedu šebinabi risnoanu.
+Gloss: girl-GEN2 mother-ERG DEM1.ISG.OBL-LAT either money either gold either other IV-good-SUPER.ABL IV-good thing-PL give-IPFV.CVB be.NPRS-PFV.CVB nevertheless boy-ERG DEM1.IIPL thing-PL IV.PL-take-PFV.CVB-NEG
+Translation: The girl's mother was about to give him money or gold or other precious things, but the boy didn't take those things.
+Sentence: Amma nesi žoyä xanłi risnoanu.
+Gloss: but DEM1.ISG.OBL boy-ERG khanship IV-take-PFV.CVB-NEG
+Translation: But the boy didn't take up the kingship.

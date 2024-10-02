@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Kusa.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Kusa
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Kusa:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Siskin urɣizi oqxo ičinč’ey, kusa nesiqor eƛin, ʕomoyä łox ħoʕni roɣnosi äxu miƛin.
+Gloss: anything thinking become-IPFV.CVB be-NEG.PST.CVB beardless.man DEM1.ISG.OBL-POSS.LAT say-PST.UNW donkey-ERG thrice shout IV-take.away-ANT.CVB die you-QUOT
+Translation: Without thinking, the beardless man said to him: "When the donkey has shouted three times, you will die."
+Sentence: Ciq łäyzaza puƛ’aza yisił dandir c’oxno oč’ino taraw mešok’las mus ħuħqo anuru sis kusa.
+Gloss: forest end-LOC.ORIG side-SUPER.VERS.DIST DEM2.ISG.OBL-CONT.ESS towards meet-PST.UNW nine except.for moustache-GEN1 hair cheek-POSS.ESS be.NEG-PST.PRT one beardless.man
+Translation: At the end of the forest he met a man who had merely 9 hairs on his cheek where the moustache would be.
+
+Approximate Matches:

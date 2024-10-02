@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: ħonƛ’o.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": ħonƛ’o
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word ħonƛ’o:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Esin šebi xecin šebi zownƛax zownanuƛax ya hawaƛ’ anusi, ya raƛ’moƛ’ anusi sidaɣ ħonƛ’o zirun ɣʷˤadin.
+Gloss: tell-PFV.CVB what leave-PFV.CVB what be.NPRS-PST.UNW-QUOT be.NPRS-PFV.CVB-NEG-QUOT neither air-SUPER.ESS be.NEG-ATTR neither land-SUPER.ESS be.NEG-ATTR in.one.place mountain-SUPER.ESS fox-and crow-and
+Translation: Once upon a time there was neither in the air nor on the land, [but] on some mountain a fox and a crow.
+Sentence: Siskintow šebin rac’a riqinč’izaƛ’, xizor butin nexƛ’oräy, hawaƛ’ay sidaɣ ħonƛ’o ɣʷˤader simildis muhu bukayn.
+Gloss: anything-EMPH thing IV-eat-INF IV-get-NEG.FUT-CSL.CVB back III-return-PFV.CVB come-SIM.CVB air-SUPER.ABL in.one.place mountain-SUPER.ESS crow-LAT maize-GEN1 granule III-see-PST.UNW
+Translation: Because the crow didn't get anything to eat, it returned, and meanwhile it saw a maize grain on some mountain from the air.
+
+Approximate Matches:
+Sentence: Bayn yizi aziroyn xalq’imołäy berobi raqru ħonƛ’or.
+Gloss: I.PL-come-PFV.CVB DEM2.IPL freeze.to.death-PFV.CVB people-CONT.ABL ice-PL III.PL-become-PST.PRT mountain-SUPER.LAT
+Translation: They came to the mountain, which arose from the ice of the frozen people.
+Sentence: Ceyä ža ħonƛ’orno bižin, sida ixiw t’ekzo šilazan eqerno bac’xo zown.
+Gloss: eagle-ERG DEM1.SG mountain-SUPER.LAT-and III-carry-PFV.CVB one.OBL big he.goat-ATTR.OBL horn-PL-IN.ESS-and put-PFV.CVB III-eat-IPFV.CVB be.NPRS-PST.UNW
+Translation: The eagle carried it onto a mountain, put it on the horns of a big goat and ate.
+Sentence: ƛ’ariyawt’ani bˤeƛ’ rayn Alimaħamade puħo ričin, gušiwt’ani ħonƛ’otow ričin.
+Gloss: fat-DISTR-DEF sheep III.PL-come-PFV.CVB Alimagomed-APUD.ESS next.to III.PL-remain-PFV.CVB thin-DISTR-DEF mountain-SUPER.ESS-EMPH III.PL-remain-PST.UNW
+Translation: The fat sheep came and stood next to Alimagomed and the thin ones remained on the mountain.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Elaygon in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Elaygon: 
+
+Exact Matches
+Sentence: ʕIyayx yedun xecin C’irduxno, nesis esnabin elaygon bitor bik’in.
+Gloss: cry-IPFV.CVB DEM2.IISG-TOP leave-PFV.CVB Tsirdukh-and DEM1.ISG.OBL-GEN1 brother-PL-and there-IN.ABL-CNTR thither I.PL-go-PST.UNW
+Translation: Tsirdukh and his brothers left her crying and went away from there.
+Sentence: Yedan ʕabdal yołƛin, bazarganbi elaygon bitor bik’in.
+Gloss: DEM2.ISG-TOP fool be-QUOT merchant-PL there-IN.ABL-CNTR thither I.PL-go-PST.UNW
+Translation: "He is an idiot as well," [said] the merchants [and] went away from there.
+Sentence: Neł t’umä ža t’akan yižin xaneł purłäzan eqerno, elaygon bitor hawaƛ’ žedu biħada bik’ixozo xanzo akixor bik’in.
+Gloss: DEM1.IISG.OBL pigeon-ERG DEM1.SG glass II-carry-PFV.CVB khan-CONT.ESS side-CONT.VERS.DIST-TOP put-PFV.CVB there-IN.ABL-CNTR thither air-SUPER.ESS DEM1.IPL III-fight-INF III-go-PRS.PRT.OBL khan-GEN2 window-AD.LAT III-go-PST.UNW
+Translation: The pigeon carried this glass, put it next to the king and from there flew to the king's window, from which they went out to fight.
+
+Approximate Matches:
+Sentence: Elaygon ƛ’iyor oqno nexƛ’oräy, bˤeliz ciqłer ayn.
+Gloss: there-IN.ABL-CNTR downwards become-PFV.CVB come-SIM.CVB poplar-GEN2 forest-CONT.LAT come-PST.UNW
+Translation: When he came down from there, he came to the poplar's forest.
+Sentence: Elaygon bitor hunix ik’iƛ’oräy, sidaɣ yisir raqˤäsi bix resun.
+Gloss: there-IN.ABL-CNTR thither way-AD.ESS go-SIM.CVB in.one.place DEM2.ISG.OBL-LAT IV-accumulate-RES.PRT grass IV-find-PST.UNW
+Translation: While he went on on his way from there, he found thick grass in one place.
+Sentence: Elaygon izin ik’in yeda hemełatow iħuz lilyox qoqbi yałza mečoƛ’or ayn.
+Gloss: there-IN.ABL-CNTR get.up-PFV.CVB go-PFV.CVB DEM2.ISG DEM4.IISG.OBL-EMPH river-GEN2 river.bank-AD.ESS cliff-PL be-LCV place-SUPER.LAT come-PST.UNW
+Translation: He got up from there, went along that river bank and came to a place where a cliff was.

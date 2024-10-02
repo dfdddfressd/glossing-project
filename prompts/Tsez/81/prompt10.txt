@@ -1,0 +1,26 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: małiru.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": małiru
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word małiru:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Žan zown małiru risxanusi, t’ubaraw ʕaq’lus anusi iłe.
+Gloss: DEM1.SG-TOP be.PST-GER teach-PST.PRT IV-take-NEG.PRSPRT full mind-GEN1 be.NEG-LNK as
+Translation: And he was disobedient and had a defective mind.
+
+Approximate Matches:
+Sentence: Esiya małiruxor, č’ikays tungin bisno, yedu łäħor yik’in.
+Gloss: brother-ERG teach-PST.PRT-AD.LAT glass-GEN1 copper.jug-TOP III-take-PFV.CVB DEM2.IISG water-AD.LAT II-go-PST.UNW
+Translation: According to what the brother had said, she took a glass jug and went to get water.

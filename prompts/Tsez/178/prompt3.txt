@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: žigoƛ’aygon.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": žigoƛ’aygon
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word žigoƛ’aygon:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Madaxaɣor isno boxirno, yisä kidbeq esin, žigoƛ’aygon hemediw šebin daq ƛ’iri risrersiƛin.
+Gloss: yard-AD.VERS bull-TOP III-chase-PFV.CVB DEM2.ISG.OBL-ERG daughter-POSS.ESS tell-PST.UNW again-SUPER.ABL-CNTR such.a thing me-POSS.ESS above IV-take-CAUS-CAUS-PST.WIT-QUOT
+Translation: He chased the bull to the yard and told his daughter: "And once again he lets me fulfil such a thing."
+Sentence: Neła kidbeqor eƛin, ele žigoƛ’aygon deber däƛ’aza aždaħes xexoyn biqis, howži mi esiwqor eƛo, deber halmaɣłun yičaniƛäyn, nesirgon barułun yičaniƛäyn Beqes ʕUneyzat yowanix ik’iƛƛin.
+Gloss: DEM1.IISG.OBL-ERG girl-POSS.LAT say-PST.UNW here again-SUPER.ABL-CNTR you-LAT me-SUPER.VERS.DIST dragon-GEN1 young.animal-TOP III-get-PST.WIT now you brother-POSS.LAT say-IMPR you-LAT friend-LHUN II-be-MSD-SUB.ABL-and DEM1.ISG.OBL-LAT-CNTR wife-LHUN II-be-MSD-SUB.ABL-and sun-GEN1 Uneyzat II-marry-MSD-AD.ESS go-OPT-QUOT
+Translation: She said to the girl: "Again now because of me you got hold of a dragon's young, now say to your brother that he go and mary the Sun's Uneyzat, so she may become a friend to you and a wife to him."
+
+Approximate Matches:
+Sentence: Howžigoƛ’aygon c’odorawnä esirno dibirqo, debez baruq šilabi zowwäƛin.
+Gloss: now-COND-SUPER.ABL-CNTR clever-DEF-ERG ask-PST.UNW mullah-POSS.ESS you-GEN2 wife-POSS.ESS horn-PL be.NPRS-PST.WIT.Q-QUOT
+Translation: This time the clever one asked the mullah: "Did your wife have horns?"

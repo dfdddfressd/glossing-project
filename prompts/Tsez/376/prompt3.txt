@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ƛˤebce in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ƛˤebce: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elay izin ik’in yeda, ʕazara ƛˤeba ik’in, ʕazara ɣudi ik’in, sida iħuz lilyoxor ayn.
+Gloss: there-IN.ABL get-PFV.CVB go-PFV.CVB DEM2.ISG thousand year-IN.ESS go-PFV.CVB thousand day go-PFV.CVB one.OBL river-GEN2 river.bank-AD.LAT come-PST.UNW
+Translation: From there he got away and went on a thousand years and a thousand days and came to a riverbank.
+Sentence: Hemedur ƛˤebrebi rik’in nesis uži aq’ˤiłno ʕoloqan oqno, baru yowa mix bayn nesis.
+Gloss: so year-PL II.PL-go-PFV.CVB DEM1.ISG.OBL-GEN1 son grow.up-PFV.CVB young become-PFV.CVB wife II-marry-INF time III-come-PST.UNW DEM1.ISG.OBL-GEN1
+Translation: So the years went by, his son grew up and became a young man, and the time came for him to marry.
+Sentence: Qura ƛˤebaƛ’aza oƛixno k’oƛin ža ečruni žek’u, sis uži där neƛa ayƛin.
+Gloss: twenty.OBL year-SUPER.VERS.DIST appear-PFV.CVB jump-PFV.CVB DEM1.SG old-DEF man one son me-LAT give-INF must-QUOT
+Translation: Twenty years later, the old man appeared [and said]: "One sone has to be given to me!"

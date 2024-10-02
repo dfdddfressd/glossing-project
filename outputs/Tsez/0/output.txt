@@ -1,0 +1,48 @@
+{
+  "word": "ʕAt’idä",
+  "glosses": [
+    "Atid-ERG",
+    "Atid-ERG",
+    "Atid-ERG"
+  ]
+}
+{
+  "word": "nesiq",
+  "glosses": [
+    "DEM1.ISG.OBL",
+    "DEM1.ISG.OBL-POSS.ESS",
+    "DEM1.ISG.OBL-POSS.LAT"
+  ]
+}
+{
+  "word": "kinaw",
+  "glosses": [
+    "entire",
+    "everything",
+    "all"
+  ]
+}
+{
+  "word": "raqru",
+  "glosses": [
+    "IV-happen-PST.PRT",
+    "IV-become-PST.PRT",
+    "III.PL-become-PST.PRT"
+  ]
+}
+{
+  "word": "łinałäy",
+  "glosses": [
+    "IV-happen-PST.PRT",
+    "what.OBL-CONT.ABL-TOP",
+    "tell-PST.UNW"
+  ]
+}
+{
+  "word": "esin",
+  "glosses": [
+    "tell",
+    "report",
+    "inform"
+  ]
+}

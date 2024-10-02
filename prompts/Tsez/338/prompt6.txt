@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nexxosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nexxosi: 
+
+Exact Matches
+Sentence: Yizi didiwtow xalq’i, ziys ħošos reɣet’a t’it’urbi bazarya teƛanix nexxosi, yizä elułäy ʕabdalbitowwa boyxƛin, nasin xalq’in ƛ’iri butin, ʕoƛnon esnabi nocubi caƛix bazaryay boxirno.
+Gloss: DEM2.IPL which-EMPH people cow-GEN1 hide-GEN1 IV-small-DISTR piece-PL bazar-IN.ESS sell-MSD-AD.ESS come-PRS.PRT DEM2.IPL.OBL-ERG we(I).OBL-CONT.ABL fool-PL-EMPH-Q III-do-PRS-QUOT all people-TOP above III-turn-PFV.CVB seven-TOP brother-PL saliva-PL throw-IPFV.CVB bazar-IN.ABL I.PL-chase-PST.UNW
+Translation: "What kind of people are they, coming to sell small pieces of cow hide on the market; are they making fools of us?!", all the people insisted and spitting on the seven brothers chased them off the market.
+
+Approximate Matches:
+Sentence: Boƛƛo zamanno bik’in, babiw baru yowa oqnosi, nesiqor bašiqˤoyn teƛno, kidbä eƛin, eniws wasi zows dowqor, howda bašiqˤoy c’oxxosi taraw mi baru yawnoƛƛin.
+Gloss: III-middle time-TOP III-go-PFV.CVB father wife II-marry-INF begin-ANT.CVB DEM1.ISG.OBL-POSS.LAT ring-TOP give-PFV.CVB daughter-ERG say-PFV.CVB mother-GEN1 testament be.NPRS-PST.WIT you-POSS.LAT DEM3.SG ring match-PRS.PRT except.for you wife II-marry-PROHIB-OPT-QUOT
+Translation: After a while, when the father intented to find a[nother] wife, the daughter gave him the ring and said: "Mother's last wish was that you may only marry a woman who matches this ring."
+Sentence: Sida quł ciqzaq naysinan aħna-ik’in, bełin biqinč’ey yeda xizor utin nexxo zown.
+Gloss: one.OBL day-CONT.ESS forest-PL-POSS.ESS everywhere walk.for.a.while-PFV.CVB deer-TOP III-get-NEG.PST.CVB DEM2.ISG back return-PFV.CVB come-IPFV.CVB be.NPRS-PST.UNW
+Translation: One day he walked through the forests everywhere for a while, and not getting any prey, was coming back.
+Sentence: Yisä eƛin, eloš neła guħxaza regin däł xizay bikorbi nexxoƛin.
+Gloss: DEM2.ISG.OBL-ERG say-PST.UNW over.there DEM1.IISG.OBL hill-AD.VERS.DIST III.PL-be.emitted-PFV.CVB me-CONT.ESS behind snake-PL come-PRS-QUOT
+Translation: He said: "Over there, behind that hill, snakes are coming behind me."

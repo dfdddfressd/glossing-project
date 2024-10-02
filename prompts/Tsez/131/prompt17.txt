@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: retixosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": retixosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word retixosi:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyo ʕArabuzanä qot ric’no micxir teƛno nełaqor enłaƛ elur retixosi šebin risoƛin.
+Gloss: afterwards Arabuzan-ERG handfull IV-fill-PFV.CVB money give-PFV.CVB DEM1.IISG.OBL-POSS.LAT DEM3b.IISG.OBL-SUB.ESS we(I).OBL-LAT IV-want-PRS.PRT thing IV-buy-IMPR-QUOT
+Translation: Then Arabuzan gave her a handfull of money: "Buy the things we want with it!"
+Sentence: Xedya žawab teƛno, däq q’ˤoq’ˤorut’a magalabi zows, nesir rigu bišʷa retixosi yołƛin.
+Gloss: husband-ERG answer give-PST.UNW me-POSS.ESS hollow-DISTR bread-PL be.NPRS-PST.WIT DEM1.ISG.OBL-LAT IV-good food IV-like-PRS.PRT be-QUOT
+Translation: The husband answered: "I had hollow breads with me; and he likes good food."
+
+Approximate Matches:
+Sentence: Xanqay roƛik’u bečełin risno, doxturä sider sis nece betixosi kidno, užin sadaq begirno.
+Gloss: khan-POSS.ABL half riches-TOP IV-take-PFV.CVB doctor-ERG one.OBL-LAT one so.much III-want-PRS.PRT girl-TOP boy-TOP together III-send-PFV.CVB
+Translation: If they loved each other so much, the doctor took the half of the khan's riches and sent the boy and the girl together.
+Sentence: Łˤora beciz bolžalyos hunice maqˤi deber yetixosi kid yoqłin, neł č’ikayär ezunäy, debeł ža adäz yičirxosi”.
+Gloss: three.OBL month-GEN2 period-GEN1 way-EQU1 far.away you-LAT II-love-PRS.PRT girl II-happen-CNC.CVB DEM1.IISG.OBL mirror-IN.LAT look-CND.CVB you-CONT.ESS DEM1.SG before II-be-CAUS-PRS.PRT
+Translation: "Even if the girl that you love is as far away as a 3 months' journey, when you look into that mirror, she will be put in front of you."
+Sentence: Hudu šebi di rodinäy xedyoxay bat’an yoqno där etixosi äqiƛin, esirno riynoxuq.
+Gloss: so what me IV-do-CND.CVB husband-AD.ABL seperation-TOP II-become-PFV.CVB me-LAT lover get-QUOT ask-PST.UNW sheikh-POSS.ESS
+Translation: "So what shall I do to get rid of my husband and get my lover?", she asked the sheikh.

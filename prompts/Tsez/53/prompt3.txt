@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: nełqor.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": nełqor
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word nełqor:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Neširu mežaɣor bizinosi, Ismaʕila q’ˤunełno roƛƛo bˤałayn erno eƛin nełqor, howłaq ged yitirłi debi meč’, dey bˤałayƛin.
+Gloss: evening mattress-IN.VERS I.PL-get-ANT.CVB Ismail-ERG two.OBL-CONT.ESS-TOP IV-middle dagger-TOP put-PFV.CVB say-PST.UNW DEM1.IISG.OBL-POSS.LAT DEM3.IISG.OBL-POSS.ESS shirt II-touch-CND.CVB.IRR you-GEN1 neck me-GEN1 dagger-QUOT
+Translation: In the evening, when they got onto the bed, Ismail put a dagger in the middle between the two and said to her: "If your shirt touches it, so will my dagger [touch] your neck."
+
+Approximate Matches:
+Sentence: Mamalay qaciqorno, yił- nełqorno bezux bičinč’ey durimoƛ’ bik’in onočaƛ’ biħanayn nełasno łoħros yiłetown k’onč’un yecurno, nełdäy hozur boqno, neła nełaz ɣˤutkaɣor bik’in.
+Gloss: rooster firewood-POSS.LAT-and DEM2.IISG.OBL DEM1.IISG.OBL-POSS.LAT-and III-look-IPFV.CVB III-be-NEG.PST.CVB running III-go-PFV.CVB hen-SUPER.ESS III-fight-PFV.CVB DEM1.IISG.OBL-GEN1-and frog-GEN1 II-as-EMPH-PFV.CVB leg-and II-break-CAUS-PFV.CVB DEM1.IISG.OBL-APUD.ABL separately III-become-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN2 house-IN.VERS III-go-PST.UNW
+Translation: Without looking for firewood or any other things, he ran off to the hen, had a fight [with her] and broke her leg just like the frog's, seperated from her and went to his own house.
+Sentence: Ħusenä elo q’ˤiryoł c’eruc’an riƛ’irno, nełqorno eƛin, di guluzał xizay ʕaƛaɣor ik’ix.
+Gloss: Hussein-ERG there floor-CONT.ESS bow-TOP IV-plunge-PFV.CVB DEM1.IISG.OBL-POSS.LAT-TOP say-PST.UNW me horse-PL-CONT.ESS behind village-IN.VERS go-PRS
+Translation: Hussein plunged the bow on the floor there and said to her: "I am going to the village for horses.

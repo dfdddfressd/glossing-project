@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zawru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zawru: 
+
+Exact Matches
+Sentence: Ža nesi žadäɣorƛin yik’iƛ’oräy, nełał hunix, oc’ira ƛˤeba adäztow nełqor roƛ’i boqno zawru, k’ačaɣˤ c’oxno.
+Gloss: DEM1.SG DEM1.ISG.OBL boy-APUD.VERS-QUOT II-go-SIM.CVB DEM1.IISG.OBL-CONT.ESS way-AD.ESS ten.OBL year-IN.ESS before-EMPH DEM1.IISG.OBL-POSS.LAT love III-become-PFV.CVB be.NPRS-PST.PRT bandit meet-PST.UNW
+Translation: While going to this boy, she met a bandit on her way, who ten years before fell in love with her.
+Sentence: Zirur ɣˤutkun, kosin zawru sadaq qˤičin, c’ik’iw maʕišatno ƛexun, paraxat zirun bičin.
+Gloss: fox-LAT house-TOP gather-PFV.CVB be.NPRS-PST.PRT together harvest-TOP entire fortune-TOP remain-PFV.CVB calm fox-TOP III-be-PST.UNW
+Translation: The house, the harvest that had been gathered and the entire fortune remained for the fox, and so the fox lived happily ever after.
+Sentence: Idur baynosi, yiła nesiq žeduƛ’osi qaca ret’urerno, xizyogon łäxor egirno, didiw zawru, didiw mežus di uži odäƛin.
+Gloss: home-LAT I.PL-come-ANT.CVB DEM2.IISG.OBL-ERG DEM1.ISG.OBL-POSS.ESS DEM1.IPL-SUPER.ESS-ATTR firewood IV-hack-CAUS-PFV.CVB then water-AD.LAT send-PFV.CVB which be.NPRS-PST.PRT which you(I).PL.OBL-GEN1 me boy do-PST.WIT.INT-QUOT
+Translation: Having come home, she let him hack the firewood, sent him to get water [and said]: "How was your son and what have I made out of him?"
+
+Approximate Matches:
+Sentence: Howži xanä Kusar teƛno zawruni iłno buci łiyxosi zaman bayn.
+Gloss: now khan-ERG Kusa-LAT give-PFV.CVB be.NPRS-PST.PRT-DEF six month end-PRS.PRT time III-come-PST.UNW
+Translation: Now came the time that the six months that the six months the king had given Kusa ended.
+Sentence: Di dowdäɣor nexƛ’oräy, madazax zawruni ʕoloqza žeda žeduqor eƛix, Ražbadinłäy baħarčiƛinä eƛan, nesä nesix yižixosi baħaray šebi eƛa äynč’iru qazaqxo yegirxoƛin.
+Gloss: me you-APUD.VERS come-SIM.CVB yard-PL-AD.ESS be.NPRS-PST.PRT-DEF young.person-PL-ERG DEM1.IPL.OBL-ERG DEM1.IPL.OBL-POSS.LAT say-PRS Razhbadin-CONT.ABL brave.young.man-QUOT-Q say-FUT.DEF DEM1.ISG.OBL-ERG DEM1.ISG.OBL-AD.ESS II-lead-PRS.PRT fiancée what say-INF know-NEG.FUT.CVB-PST.PRT Georgian-AD.ESS II-send-PRS-QUOT
+Translation: When I came to you, the young people who were in their yards, were saying to each other: "Razhbadin is a brave young man, to send the bride he was to marry to an unknown Georgian."
+Sentence: Raładno bigtow halag boqno, yeda ƛ’iri zawruni gama butix zownƛax.
+Gloss: sea-TOP III-very-EMPH excite III-become-PFV.CVB DEM2.ISG above be.NPRS-PST.PRT-DEF boat III-turn-PRS be.NPRS-PFV.CVB-QUOT
+Translation: The sea ran high and the boat began to sink.

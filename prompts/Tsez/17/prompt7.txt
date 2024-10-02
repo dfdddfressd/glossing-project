@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: c’eruc’a.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": c’eruc’a
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word c’eruc’a:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Neła ža beƛ’q’ˤu bac’anix łet’ix yałrułi nesir čuqˤnosi, c’eruc’a caƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG sheep III-eat-MSD-AD.ESS pick-IPFV.CVB be-MSD DEM1.ISG.OBL-LAT notice-ANT.CVB bow shoot.with-PST.UNW
+Translation: When he noticed that she was picking that sheep in order to eat it, he shot with his bow.
+Sentence: Guħƛ’orno bizin, łˤoran esnaza kurno c’eruc’a.
+Gloss: hill-SUPER.LAT-TOP I.PL-get.up-PFV.CVB three.OBL-TOP brother-PL-ERG throw-PST.UNW bow
+Translation: The three brothers climbed up the hill and shot with their bows.
+Sentence: Xizyo eɣeni esiya nełaz c’eruc’a caƛinosi, sis nełas lel ɣunoƛer yoƛ’ˤun yayn, t’awusno hawaƛ’ k’oƛin boxin bik’in.
+Gloss: afterwards young-DEF brother-ERG DEM1.IISG.OBL-GEN2 bow shoot.with-ANT.CVB one DEM1.IISG.OBL-GEN1 feather tree-SUB.LAT II-fall-PFV.CVB II-come-PFV.CVB peacock-TOP air-SUPER.ESS jump-PFV.CVB III-run.away-PFV.CVB III-go-PFV.CVB
+Translation: Then the youngest brother shot with the bow and the peacock flew away, but one feather fell down under the tree.
+
+Approximate Matches:
+Sentence: Raładyoz lilyox c’eruc’an resus, howža łoħron xizaz nexsiƛin, žawab teƛno žoyä babiwr.
+Gloss: sea-GEN2 river.bank-AD.ESS bow-TOP IV-find-PST.WIT DEM4.SG frog-TOP from.behind come-PST.WIT-QUOT answer give-PST.UNW son-ERG father-LAT
+Translation: "I found the bow at the sea shore, [and] that frog came behind me.", the son answered the father.
+Sentence: Ay, di ik’ix, nesiƛ’ adäz di exuƛƛin, aceł c’eruc’an caƛin, bˤaƛoyn gulun, et’un k’oƛin nełaƛ’no zown Ħusen hunix oqno.
+Gloss: must me go-PRS DEM1.ISG.OBL-SUPER.ESS before me die-OPT-QUOT door-CONT.ESS bow-TOP shoot.with-PFV.CVB III-harness-PFV.CVB horse-TOP jump-PFV.CVB run-PFV.CVB DEM1.IISG.OBL-SUPER.ESS-TOP ride-PFV.CVB Hussein way-AD.ESS become-PST.UNW
+Translation: "No, I am going, may I die before him!", Hussein [said and] shot at the door with his bow, harnessed the horse, and quickly rode on his way on it.
+Sentence: Sida quł yeda ža c’eruc’an risno bełiƛ’ ik’in.
+Gloss: one.OBL-ERG day-CONT.ESS DEM2.ISG DEM1.SG bow-TOP IV-take-PFV.CVB hunting-SUPER.ESS go-PFV.CVB
+Translation: One day he went hunting with this bow.

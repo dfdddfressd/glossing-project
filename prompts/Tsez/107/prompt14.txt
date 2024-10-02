@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: eqerno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": eqerno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word eqerno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yiłagon q’ˤanon xanes xexbi - užin, kidno k’emot’ya tełno eqerno, iħułxor kurno.
+Gloss: DEM2.IISG.OBL-CNTR two-TOP khan-GEN1 children - son-and daughter-and wooden.case-IN.ESS inside-TOP put-PFV.CVB river-CONT.VERS throw-PST.UNW
+Translation: But those two children of the king - the son and the daughter - she put into a wooden case and threw them into the river.
+Sentence: Gulun howlo xecin, nełaz maħiłäy baɣruni łˤono musno butirno k’ukya tełxor eqerno, babiwz šudaƛ’ q’ulhun begirno, uži iduɣor ik’in.
+Gloss: horse-TOP there leave-PFV.CVB DEM1.IISG.OBL-GEN2 tail-CONT.ABL III-take.away-PST.PRT-DEF three hair-TOP III-gather-PFV.CVB cap-IN.ESS inside-AD.LAT put-PFV.CVB father-GEN2 graveyard-SUPER.ESS funeral.prayer-TOP III-send-PFV.CVB boy home-IN.ALL go-PST.UNW
+Translation: The horse left and the boy gathered the three hairs he took out of its tail and put them inside his cap, then he spoke the funeral prayer on his father's grave and went home.
+Sentence: Hunixor yisä łäs q’ˤano sikno eqerno, bišʷan erno, kumakyorgon, ħaƛirxo ik’anix, xizay k’oƛin yayn bara hibon teƛno.
+Gloss: way-AD.LAT DEM2.ISG.OBL-ERG water-ERG-GEN1 two waterskin-TOP put-PFV.CVB food-TOP put-PFV.CVB help-LAT-CNTR put-IPFV.CVB go-MSD-AD.ESS behind run-PFV.CVB II-come-PFV.CVB wife-ERG stick-TOP give-PST.UNW
+Translation: He put two waterskins onto the way, packed some food, and came running behind in order to go put(?), when his wife came running behind him and gave him a stick to go with, which he should put down for help.
+
+Approximate Matches:
+Sentence: Elor baynosi, č’ikin boqno c’aramäz begin iduɣorno bik’in, žedus xabarno teqerno bičin.
+Gloss: there-LAT III-come-ANT.CVB flea-TOP III-become-PFV.CVB crack-IN.ESS.DIST III-go.into-PFV.CVB home-IN.ALL-TOP I.PL-go-PFV.CVB DEM1.IPL-GEN1 story-TOP listen.to-PFV.CVB III-be-PST.UNW
+Translation: When it arrived there, it became a flea, went inside through a crack and listened to what they said.
+Sentence: Nedur resunäy di raziyaw yołƛin, nesä esace teqerno ičin.
+Gloss: so IV-exist-CND.CVB me ready be-QUOT DEM1.ISG.OBL-ERG tell-TERM listen.to-PFV.CVB be-PST.UNW
+Translation: "If that's the case, I am ready.", and he listened until he told him.
+Sentence: Yoɣno kurno yičäruni aɣˤux elus xabaryabin teqerno siskin buyn bäčinč’i, hudu t’o ela sidä sidqo kesubi esix sasaqor bičan.
+Gloss: II-take.away-PFV.CVB throw-PFV.CVB II-be-PST.PRT-DEF mill-AD.ESS we(I).OBL-GEN1 story-PL-TOP listen.to-PFV.CVB anyone III-indeed-TOP III-be-NEG.FUT.CVB so here we(I).OBL-ERG one.OBL-ERG one.OBL-POSS.ESS secret-PL tell-IPFV.CVB in.the.morning-POSS.LAT I.PL-wait-FUT.DEF
+Translation: In this abandoned mill no one will hear what we say, so we will wait here until the morning telling each other secrets.

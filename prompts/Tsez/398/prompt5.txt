@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word k’onč’aqay in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word k’onč’aqay: 
+
+Exact Matches
+Sentence: Reƛno łiyn k’onč’aqay reč’no kuräsi zows, howlaytow iyos zok’in ric’äsi zowsƛin”, - esin yisä.
+Gloss: meat-TOP end-PFV.CVB leg-POSS.ABL IV-cut-PFV.CVB throw-RES.PRT be.NPRS-PST.WIT from.there-EMPH blood-GEN1 mug-TOP IV-fill-RES.PRT be.NPRS-PST.WIT-QUOT - tell-PST.UNW DEM2.ISG.OBL-ERG
+Translation: "When the meat ended, I cut some from my leg and threw it to you, and from there I filled the blood into a mug", he told.
+
+Approximate Matches:
+Sentence: Łäs q’ut’un bic’no xizor butin nexzey, ħonbi dandir rik’in c’oxsiƛax, ceyes k’onč’aqaygon ret’un reƛno rik’isƛax.
+Gloss: water-GEN1 earthen.jug-TOP III-fill-PFV.CVB back I.PL-turn.back-PFV.CVB come-SIM.CVB mountain-PL together II.PL-go-PFV.CVB hit-PST.WIT-QUOT eagle-GEN1 leg-POSS.ABL-CNTR II.PL-come.off-PFV.CVB meat-TOP IV-go-PST.WIT-QUOT
+Translation: He filled the jug with water and when when they returned, the mountains went together and closed and some flesh came off the eagle's leg.

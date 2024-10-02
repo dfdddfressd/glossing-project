@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hudäyziko in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hudäyziko: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Hudäyzikogon idu biša rodanix sideni bełiqan ičin.
+Gloss: day.after.tomorrow-CNTR home food IV-do-MSD-AD.ESS other hunter be-PST.UNW
+Translation: The [second?] day after that, another hunter stayed home to make food.

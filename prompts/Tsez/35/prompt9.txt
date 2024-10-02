@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: q’ˤidayn.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": q’ˤidayn
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word q’ˤidayn:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Xizyo q’ˤidayn izin di dowderno nexno babiwqor eƛan, horo howži yiłas meč’ beč’oƛin.
+Gloss: afterwards down-IN.ABL-TOP get.up-PFV.CVB me you-APUD.LAT-TOP come-PFV.CVB father-POSS.LAT say-FUT.DEF come.IMPR now DEM2.IISG.OBL-GEN1 neck III-cut-IMPR-QUOT
+Translation: Then, when I got up, I will come to you and say to my father: 'Come now, cut off her neck!'
+Sentence: Hoboy yedu däƛ’or nexxoƛin, zeygon ɣunoqayn bˤoƛ’un, q’ˤidayn bizin zebu yoɣno boxin.
+Gloss: now DEM2.IISG me-SUPER.LAT come-PRS-QUOT bear-CNTR tree-POSS.ABL-and III-fall-PFV.CVB down-IN.ABL-and III-get-PFV.CVB running II-take.away-PFV.CVB III-run.away-PST.UNW
+Translation: "Now he's coming to me!", the bear fell off the tree, got down and ran away quickly.
+
+Approximate Matches:
+Sentence: K’oƛin bik’in yizirabi sist’a c’oxłin, q’ˤanot’a c’oxłin, c’ik’iwtow c’oxłin aždaħes q’ˤim žeduq q’ˤiday k’ek’-rik’no anu.
+Gloss: run-PFV.CVB I.PL-go-PFV.CVB DEM2.PL one.at.a.time meet-CNC.CVB two.at.a.time meet-CNC.CVB all-EMPH meet-CNC.CVB dragon-GEN1 head DEM1.IPL.OBL-POSS.ESS down-IN.ABL IV-move-PST.UNW be.NEG
+Translation: Although running around, they came together one at a time, two at a time, and then all together, but couldn't lift the dragon's head up to them.
+Sentence: Q’ˤidayn izin xanes užin išno.
+Gloss: down-IN.ABL-TOP get.up-PFV.CVB khan-GEN1 son-TOP eat-PST.UNW
+Translation: Up also got the prince and ate.
+Sentence: Q’ˤidayn yisno č’ikayä bezunosi, žeda esirxosi kid yexux yukarno.
+Gloss: down-IN.ABL-TOP II-take-PFV.CVB mirror-IN.ESS I.PL-look-ANT.CVB DEM1.IPL-ERG ask-PRS.PRT girl II-die-PRS II-show-PST.UNW
+Translation: And when they looked at the mirror, after taking it up from below, it showed the girl that they had asked out dying.

@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word qˤaƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word qˤaƛin: 
+
+Exact Matches
+Sentence: Qalameł adäza butirno gulun bičirno, qˤaƛin Ismaʕilä, ʕArabuzan, hič’č’a deber rukada rätiru łinaƛ’no yezanix maħor yoqƛin.
+Gloss: fortress-CONT.ESS before III-gather-PFV.CVB horse-TOP III-wait-CAUS-PFV.CVB shout-PST.UNW Ismail-ERG Arabuzan the.most you-LAT IV-see-INF IV-want-PST.PRT what.OBL-SUPER.ESS-TOP II-look-MSD-AD.ESS outside II-become-QUOT
+Translation: Ismail came before the fortress and let his horse wait there and shouted: "Arabuzan, come outside to look at what you want to see most!"
+Sentence: Alay-bulayƛin eƛixozo guluqorno qˤaƛin, ʕoƛira putce yoq’ˤiw kedonno yisno, ža Ismaʕilƛ’or yoqno.
+Gloss: Alay~bulay-QUOT say-PRS.PRT.OBL horse-POSS.LAT-TOP shout-PFV.CVB seven.OBL pood-EQU1 II-heavy sledgehammer-TOP II-take-PFV.CVB DEM1.SG Ismail-SUPER.LAT II-become-PST.UNW
+Translation: She shouted after her horse names Alay-bulay, took a 7-pood heavy sledgehammer and went to Ismail.
+Sentence: Ac ħišäsi yesuzaƛ’, boc’ä qˤaƛin, ħišixosi, ac seroƛin.
+Gloss: door lock-RES.PRT II-exist-CSL.CVB wolf-ERG shout-PST.UNW lock-PRS.PRT door unlock-IMPR-QUOT
+Translation: Because the door was locked, the wolf shouted: "It's locked, unlock the door!"
+
+Approximate Matches:
+Sentence: Qacis q’ili Qudi Musaz Maħama bok’si, ħošos zurma Xantuz ʕAlä pˤaƛus, keč’ Maʕat’iz Ruq’än, Amirħanzan qˤaƛis, istowlizaq šet’ur łočyoƛ’ Xaluman Ošk’oris Ramazanno k’oƛis, ɣodos ʕarada Metirozya pˤoƛirsi, dabaɣyos tupi K’it’i Ramazanä kursi, meys tamanča Qebozya ašuƛ ricis, Ešiƛ’oza łelmay butnos mač’ibi roɣsi, Newoza bexada qacis t’eka bayrsi, Kidiraygon ʕomoyƛ’no zown Šapk’ilaw ays.
+Gloss: firewood-GEN1 drum Qudi Musa-GEN2 Magomed-ERG III-beat-PST.WIT hide-GEN1 zurna Khantu-GEN2 Ali-ERG thrash-PST.WIT song Ma'ati-GEN2 Ruqiyat-ERG-and Amirhanza-ERG-and sing-PST.WIT table-PL-POSS.ESS around dance-SUPER.ESS Khaluma-and Oshkori-GEN1 Ramazan-and jump-PST.WIT lime.tree-GEN1 cannon Metrada.people-ERG explode-CAUS-PST.WIT leather-GEN1 rifle Kiti Ramazan-ERG shoot.from-PST.WIT birch-GEN1 pistol Khebatli.people-ERG belt-SUB.ESS IV-tie-PST.WIT Shaytl.people-ERG sheath-IN.ABL burka-GEN1 dagger-PL IV.PL-take.away-PST.WIT Mokok.people-ERG III-slaughter-INF firewood-GEN1 he.goat III-bring-PST.WIT Kidero-IN.ABL-CNTR donkey-SUPER.ESS-TOP be.NPRS-PFV.CVB Shapkilaw come-PST.WIT
+Translation: Qudi Musa's Magomed beated the wooden drum, Xantu's Ali played the zurna, Ma'ati's Ruqi and Amirhanza sang a song, Khaluma and Oshkori's Ramazan danced around the tables, people from Metrada fired a lime gun, Kiti Ramazan shot with a leather rifle, the Khebatli people put tied a birch pistol to their belt, people from Shaytl pulled burka daggers out of the sheath, the Mokok people slaughtered brought a wooden goat for slaughtering, and Shapkilaw came from Kidero riding on a donkey.
+Sentence: Yiła maq’anyabi qˤaƛixanu, ust’arder yedu yayrƛin yiła ɣarabašzaqor eƛin.
+Gloss: DEM2.IISG.OBL-ERG melody-PL sing-PRS-NEG master-APUD.LAT DEM2.IISG II-bring-QUOT DEM2.IISG.OBL-ERG servant-PL-POSS.LAT say-PST.UNW
+Translation: "It doesn't play melodies anymore, bring it to the master!", she said to the servants.
+Sentence: Qacan č’ˤaƛin, c’in erno eƛin eženä Ħusenqor, howži mi magalu bodoƛin.
+Gloss: firewood-TOP split-PFV.CVB fire-TOP put-PFV.CVB say-PST.UNW old-DEF-ERG Hussein-POSS.LAT now you bread III-do-IMPR-QUOT
+Translation: "Split firewood, put on a fire," said the old man to Hussein, "and then make bread!"

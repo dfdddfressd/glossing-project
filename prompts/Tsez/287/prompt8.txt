@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ħukmatyos in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ħukmatyos: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Elo neł ħukmatyozał di aq’ˤu aħnays, łukin bertenyozałxorno goƛ’inč’u, uyn išrinč’u.
+Gloss: there DEM1.IISG.OBL country-PL-CONT.ESS me much walk.around-PST.WIT who.ERG-even marriage-PL-CONT.VERS-TOP invite-NEG.PST.WIT indeed-TOP eat-CAUS-NEG.PST.WIT
+Translation: I was walking around much through these countries, but no one had invited me to the weddings and didn't even gave me to eat.
+Sentence: Sis ħon xecin, q’ano ħon xecin, łˤono ħon xecin yeda q’ˤuya ħukmatyołxor ok’ełno.
+Gloss: one mountain leave-PFV.CVB two mountain leave-PFV.CVB three mountain leave-PFV.CVB DEM2.ISG other country-CONT.VERS go.away-PST.UNW
+Translation: He left one mountain behind himself, left two mountains behind himself, left three mountains behind himself and came into another country.
+Sentence: Guluzaƛ’ zown žedu bik’iƛ’oräy, yizi q’ˤuya ħukmatyołer bayn.
+Gloss: horse-PL-SUPER.ESS ride-PFV.CVB DEM1.IPL I.PL-go-SIM.CVB DEM2.IPL other country-CONT.LAT I.PL-come-PST.UNW
+Translation: While they rode on their horses, they came to another country.

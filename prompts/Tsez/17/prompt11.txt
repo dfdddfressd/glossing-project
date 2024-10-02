@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: boƛäx.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": boƛäx
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word boƛäx:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ħusen igtow ƛ’irin utin ža xizor utiranix eƛin, dowƛ’osi q’ʷariłi bisanir di ik’ix mi xizorno uti, di aceł caƛäsi c’eruc’a yoł, nagaħ där sis šebin roqnäy, nełas iyo boƛäx, c’ik’iw šebin ruyxor rik’inäy ɣˤay yešnayƛin.
+Gloss: Hussein well-EMPH above-TOP turn-PFV.CVB DEM1.SG back turn-MSD-AD.ESS say-PST.UNW you-SUPER.ESS-ATTR sadness III-take-MSD-LAT me go-PRS you back-TOP return me door-CONT.ESS shoot.with-RES.PRT bow be suppose me-LAT one thing IV-happen-CND.CVB DEM1.IISG.OBL-GEN1 blood III-appear entire thing IV-alright IV-go-CND.CVB milk II-drip-QUOT
+Translation: Hussein insisted and said to make him turn back: "I am coming to take away the sadness on you, go back! I have shot with the bow at the door; suppose something will happen to me, it's [the arrow's] blood will appear, and if everything will go alright, then milk will drip out."
+
+Approximate Matches:
+Sentence: Exaniƛ’or aynosi, eženä žaqor wasi bodin, di exunosi łinaqnokin baraxšizi oqinč’ey sadaq’an rułir, buq boƛäxza puƛ’aɣor gurow saparno bäcinoƛin.
+Gloss: die-INF-DEF-SUPER.LAT come-ANT.CVB old-DEF-ERG son-POSS.LAT testament III-do-PST.UNW me die-ANT.CVB what.OBL-POSS.ESS-TOP-even pity become-NEG.PST.CVB alms-TOP IV-share sun III-appear-LCV.CVB side-SUPER.VERS except journey-TOP III-follow-PROHIB-QUOT
+Translation: When his dead came, the old one made a testament to his son: "After I have died, do not pity anything but share the alms and go on a journey only to the place where the sun goes up!"
+Sentence: Miƛ’i boƛäxrun, et’un guluƛ’orno k’oƛin oqno xizay.
+Gloss: ram III-appear-IMM.ANT.CVB jump-PFV.CVB horse-SUPER.LAT-TOP run-PFV.CVB begin-PST.UNW from.behind
+Translation: Just when the ram appeared, he jumped onto his horse and began to ride behind it.
+Sentence: Žubi bac’näy, debi ʕumru bexoräł, č’aɣˤir ašuƛ ricinäy, mi q’uwataw aq, däz lagiłäy boƛäxru zok’ice iyo lagiq biħinäy, mi łarnokin ukayxanusi aq.
+Gloss: liver III-eat-CND.CVB you-GEN1 life III-become.longer bowel waist-SUB.ESS IV-tie-CND.CVB you strong become me-GEN2 body-CONT.ABL III-appear-PST.PRT mug-EQU1 blood body-POSS.ESS III-smear-CND.CVB you who.OBL-LAT-TOP-even see-NEG.PRS.PRT become
+Translation: When you eat my liver, your life will become longer; if you tie my bowel around your waist, you will become strong; and when you smear blood from my body from the mug on your body, nobody will see you.

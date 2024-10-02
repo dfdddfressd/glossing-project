@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’ebedes in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’ebedes: 
+
+Exact Matches
+Sentence: Ħumukulin bisno yizä, tełäy axorekasin roɣno, nełaz axä tełxor q’ebedes uži egirno.
+Gloss: camel-TOP III-buy-PFV.CVB DEM2.IPL.OBL-ERG inside-IN.ABL giblets-TOP IV-take.away-PFV.CVB DEM1.IISG.OBL-GEN2 belly-IN.ESS inside-AD.LAT smith-GEN1 son let-PST.UNW
+Translation: They bought a camel, removed its giblets and let the smith's son inside its belly.
+Sentence: Sida quł q’ebedes uži istolowäɣor išanix ik’in.
+Gloss: one.OBL day-CONT.ESS smith-GEN1 son dining.room-IN.VERS eat-MSD-AD.ESS go-PST.UNW
+Translation: One day the smith's son went to eat in the dining room.
+Sentence: Howži yeda q’ebedes uži ƛ’irir aynosi, zeyän, ziran yisiq harizi rodin howziri łˤonon: gulun, ħurženyabin, k’ukno eluƛ’ riłixor rułirƛin.
+Gloss: now DEM2.ISG smith-GEN1 son above-LAT come-ANT.CVB bear-ERG-and fox-ERG-and DEM2.ISG.OBL-POSS.ESS request IV-do-PFV.CVB DEM3.IPL three-TOP horse-and bag-PL-and cap-and we(I).OBL-SUPER.ESS equality-AD.LAT III.PL-share-QUOT
+Translation: Now that the son of the smith came, the bear and the fox asked him: "Share these three items: the horse, the bags and the cap among us equally!"
+
+Approximate Matches:
+Sentence: Ist’olowä äsuruni q’ebedzo užä eƛin, ɣudes ʕazart’a ɣuruš yiqixozo mečoƛ’or mi di egiranƛin.
+Gloss: dining.room-IN.ESS find-PST.PRT-DEF smith-GEN2 son-ERG say-PST.UNW daily thousand-DISTR ruble II-get-PRS.PRT.OBL place-SUPER.LAT you me let-FUT.DEF-QUOT
+Translation: The smith's son said to the one he found in the dining room: "I'll send you to a place where you can get thousand rubles a day."
+Sentence: Babiya žaqor eƛin, elin bežet’a bizin ži, deberno maʕišat betix boqzaƛ’, q’ebedłiƛ’or ruhun oqƛin.
+Gloss: dad-ERG son-POSS.LAT say-PST.UNW we-TOP I.PL-old-DISTR I.PL-get-PFV.CVB now you-LAT-TOP fortune III-want-IPFV.CVB III-begin-CSL.CVB smith-NMLZ-SUPER.LAT learn become-QUOT
+Translation: The father said to his son: "We are getting old now, when you begin to want [to make] a fortune, learn to work as a smith!"
+Sentence: Xexłiƛ’ t’ay xizor ik’iƛin, qˤaƛanayn žedu q’ebedzo užiqor.
+Gloss: quickness-SUPER.ESS from.here back go-QUOT yell-PST.UNW DEM1.IPL smith-GEN2 son-POSS.LAT
+Translation: Get back away quickly!", they yelled at the smith's son.

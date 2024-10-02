@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Č’agu in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Č’agu: 
+
+Exact Matches
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"
+Sentence: Xedya eƛin, wey dey baru, beroz gup’rezaƛ’or batiru xalq’i č’agu odoƛin.
+Gloss: husband-ERG say-PST.UNW hey me-GEN1 wife ice-GEN2 hill-PL-SUPER.LAT III-turn-PST.PRT people alive do-IMPR-QUOT
+Translation: The husband said: "Hey, my wife, revive the people who turned into icy hills."
+Sentence: Xan, č’agu ƛexuƛ mi!
+Gloss: khan alive remain-OPT you
+Translation: "King, [long] may you live!
+
+Approximate Matches:
+Sentence: Xizyogon žoyä ʕansan begirno xanes oz č’agun rodin, xande sadaq iduɣor begirno.
+Gloss: then boy-ERG walking.stick-TOP III-send-PFV.CVB khan-GEN1 army alive-TOP IV-do-PFV.CVB khan-APUD.ESS together home-IN.ALL III-send-PST.UNW
+Translation: Then the boy sent his walking stick, made the king's army alive again and sent them(?) home together with the king.
+Sentence: Kikxor ayruntow aždaħä ža č’aguyawtow axaɣor igin kurno.
+Gloss: spring-AD.LAT come-IMM.ANT.CVB-EMPH dragon-ERG DEM1.SG living-EMPH belly-IN.VERS swallow-PFV.CVB throw-PST.UNW
+Translation: And immediately when he came to to the spring, the dragon swallowed him alive.
+Sentence: Eniwrno ʕuraw aq’ˤuba č’aguyaw mixƛ’o babiya teƛxo zown.
+Gloss: mother-LAT-TOP much torture living at.a.time dad-ERG give-IPFV.CVB be.NPRS-PST.UNW
+Translation: The mother was tortured very much as well by the father, when she was still alive.

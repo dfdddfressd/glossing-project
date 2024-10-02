@@ -1,0 +1,35 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: bercinłiƛ.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": bercinłiƛ
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word bercinłiƛ:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Nełƛ’ay soder yizä łinasno q’ʷariłi anusi bercinłiƛ’ ʕumru bižin.
+Gloss: DEM1.IISG.OBL-SUPER.ABL after DEM2.IPL.OBL-ERG what.OBL-GEN1-TOP sadness be.NEG-ATTR beauty-SUPER.ESS life III-lead-PST.UNW
+Translation: After that they lead a beautiful life without any sadness whatsoever.
+Sentence: Žeda žedudäɣorgon eniwn yown paraxat bercinłiƛ’ bičix zown.
+Gloss: DEM1.IPL-ERG DEM1.IPL.OBL-APUD.VERS-CNTR mother-TOP II-bring-PFV.CVB calmly beauty-SUPER.ESS I.PL-live-IPFV.CVB be.NPRS-PST.UNW
+Translation: They brought the mother to themselves and lead a beautiful and calm life.
+Sentence: Žin yołƛax žedu hemedurtow bercinłiƛ’.
+Gloss: now be-QUOT DEM1.IPL so-EMPH beauty-SUPER.ESS
+Translation: And now, they say, they also live happily.
+
+Approximate Matches:
+Sentence: Tamaša oqno ƛexun eɣeni esiw, łuey yedu t’o idu nediw bercinłi rodisƛin.
+Gloss: astonished become-PFV.CVB remain-PFV.CVB young-DEF brother who.ERG-DUB DEM2.IISG here home such beauty IV-do-PST.WIT-QUOT
+Translation: The younger brother got very surprised: "Who the heck has done such a beauty here at home?"
+Sentence: Bilq’isdis bercinłin rukayn, ečruni žek’us hič’č’a eženi užä nełqor eƛin, mi däx nexa yayƛin.
+Gloss: Bilqisdi-GEN1 beauty-TOP IV-see-PFV.CVB old-DEF man-GEN1 the.most old-DEF son-ERG DEM1.IISG.OBL-POSS.LAT say-PFV.CVB you me-AD.ESS come-INF II-must-QUOT
+Translation: When he saw Bilqisdi's beauty, the old man said to her: "You must come to me!"

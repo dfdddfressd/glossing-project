@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nesir in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nesir: 
+
+Exact Matches
+Sentence: Eženi esiya eɣeniq reƛ’a caƛix kumak nesir boyx zown, yedakin ok’ełxanaƛin.
+Gloss: old-DEF brother-ERG young-DEF-POSS.ESS hand throw-IPFV.CVB help DEM1.ISG.OBL-LAT III-do-IPFV.CVB be.NPRS-PST.UNW DEM2.ISG-even escape-PRS-NEG-Q-QUOT
+Translation: The older brother was helping giving his hand to the younger one, so at least he might escape.
+Sentence: Exunosi alžan deber biqiƛƛin, nesir bara saɣłin rodin, encetow qacan rižin, kʷaxatow iduɣor yik’in.
+Gloss: die-ANT.CVB paradise you-LAT III-get-OPT-QUOT DEM1.ISG.OBL-LAT wife-ERG health-TOP IV-do-PFV.CVB a.little-EMPH firewood-TOP IV-take.out-PFV.CVB quickly-EMPH home-IN.ALL II-go-PST.UNW
+Translation: May you get the paradise, when you die!", the wife wished him health, picked up some firewood and quickly went home.
+Sentence: Neła ža beƛ’q’ˤu bac’anix łet’ix yałrułi nesir čuqˤnosi, c’eruc’a caƛin.
+Gloss: DEM1.IISG.OBL-ERG DEM1.SG sheep III-eat-MSD-AD.ESS pick-IPFV.CVB be-MSD DEM1.ISG.OBL-LAT notice-ANT.CVB bow shoot.with-PST.UNW
+Translation: When he noticed that she was picking that sheep in order to eat it, he shot with his bow.
+
+Approximate Matches:
+Sentence: ʕAƛar ayrun, bełiqanä idu nesä nesirsini but’an eqerno, mažgitäɣor ik’in.
+Gloss: village-IN.LAT come-IMM.ANT.CVB hunter-ERG home DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT-ATTR-DEF part-TOP put-PFV.CVB mosque-IN.VERS go-PST.UNW
+Translation: Just when he came to the village, the hunter put the part that was for himself down at home and went to the mosque.
+Sentence: Ismaʕilqo oc’ino biƛno ƛˤeb yaynosi, muʕalimä xanqo riyrno, ƛuza teł yołäsi reƛ täƛno nesirƛin.
+Gloss: Ismail-POSS.ESS ten eight year II-come-ANT.CVB teacher-ERG khan-POSS.ESS IV-explain-PST.UNW bone inside be-RES.PRT meat give-PROHIB DEM1.ISG.OBL-LAT-QUOT
+Translation: When Ismail became eighteen years old, the teacher explained to the king: "Do not give him meat that contains bones!"
+Sentence: Sidenägon eƛin, ɣamasno nesirtow xecingon boxinäy, režigon rigu räčiƛin.
+Gloss: the.other.one-ERG-CNTR say-PFV.CVB box-TOP DEM1.ISG.OBL-LAT-EMPH leave-PFV.CVB-CNTR III-run.away-CND.CVB IV-more-CNTR IV-good IV-be-QUOT
+Translation: The other one said, "It is better to leave him the box and run away."

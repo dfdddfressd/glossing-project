@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: maħorno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": maħorno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word maħorno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Hemełƛ’o xizyo nucos bic’alini q’ilimay yeda maħorno oqno, eženi esiws q’ˤimno risno iduɣor oxin.
+Gloss: DEM4.IISG.OBL-SUPER.ESS after honey-GEN1 III-fill-ATTR-DEF qili-IN.ABL DEM2.ISG outside-TOP become-PFV.CVB old-DEF brother-GEN1 head-TOP IV-take-PFV.CVB home-IN.ALL run.away-PST.UNW
+Translation: After that, he got out of the honey-filled pot, took the older brother's head and ran home.
+Sentence: ƛ’iri bičin onoča muhubin rut’in, siskin t’ok’ow muhu xecinč’uƛin rok’u č’odinosi, onoču akäza maħorno k’oƛin boržizin boqno bik’in.
+Gloss: above III-be-PFV.CVB hen-ERG granule-PL-TOP III.PL-collect-PFV.CVB any anymore granule leave-NEG.PST.WIT-QUOT heart get.tight-ANT.CVB hen window-IN.VERS.DIST outside-TOP jump-PFV.CVB fly-TOP III-become-PFV.CVB III-go-PST.UNW
+Translation: The hen tried hard and pecked up all grains, and after making sure that it didn't left out any grain, the hen jumped out of the window and flew away.
+Sentence: Idur ayza qułtow, neširu kʷat’izi baqru mixƛ’o, iday maħorno oqno, ɣˤutkoł adäzarno ik’in, yisä k’emot’ yaɣˤirun, elo ixiw ɣˤutku roqno.
+Gloss: home-LAT come-ZA day-CONT.ESS-EMPH at.night be.late III-become-PST.PRT late.at.night home-IN.ABL outside-TOP become-PFV.CVB house-CONT.ESS before-IN.LAT-TOP go-PFV.CVB DEM2.ISG.OBL-ERG wooden.case II-open-IMM.ANT.CVB there big house IV-become-PST.UNW
+Translation: On the day when he came home, when it has become late at night, he got outside his home, went in front of his house and right when he opened the box, a big house came into being there.
+
+Approximate Matches:
+Sentence: Yedu debeq di äsiru šebin łaqnokin äsinƛin eƛin, eženi oqno maħor ik’in.
+Gloss: DEM2.IISG you-POSS.ESS me tell-PST.PRT what-TOP who.OBL-POSS.ESS-TOP-even tell-PROHIB-QUOT say-PFV.CVB old-DEF become-PFV.CVB outside go-PST.UNW
+Translation: Don't tell anyone what I told you!", the old man told and went outside.
+Sentence: Bełiquza nełaq, nazay ža t’or yayäƛin esirnosi, hemedur eniwn yexun, best’alłiƛ’no ƛexun bet’erbaqi bodanix maħor yoqäsiƛin esin.
+Gloss: hunter-PL-ERG DEM1.IISG.OBL-POSS.ESS from.where DEM1.SG here-LAT II-come-PST.WIT.INT-QUOT ask-ANT.CVB so mother-TOP II-die-PFV.CVB orphanhood-SUPER.ESS-TOP remain-PFV.CVB life III-do-MSD-AD.ESS outside II-become-RES.PRT-QUOT tell-PST.UNW
+Translation: When the hunters asked her, from where she came, she said that her mother died and she lived in orphanhood and went outside to make a living.
+Sentence: Kinaw žedu bałgołibin esin halmaɣbi maħor roqno.
+Gloss: entire DEM1.IIPL secret-PL-TOP tell-PFV.CVB friend-PL outside III.PL-become-PST.UNW
+Translation: The friends had told all the secrets and went outside.

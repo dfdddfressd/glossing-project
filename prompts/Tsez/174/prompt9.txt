@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: roxin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": roxin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word roxin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Elo ʕomoyä bayäruni bexasi boc’i bukaynosi, nasin boc’a elin rexar yizäƛin, aɣˤʷa tełäy roxin.
+Gloss: there donkey-ERG III-bring-PST.PRT-DEF III-die-RES.PRT wolf III-see-ANT.CVB all wolf.PL we-TOP III.PL-kill DEM2.IIPL.OBL-ERG-QUOT mill-IN.ESS inside-IN.ABL III.PL-run.away-PST.UNW
+Translation: When they saw the dead wolf that the donkey had brought, all the wolves said: "They will kill us!", ran out of the mill and away.
+Sentence: Elus xan exursiƛin, ozno, xalq’in roxin rik’iƛ’oräy, sidaɣaza puƛ’azar Ismaʕil k’oƛin, sidaɣazar ʕArabuzan yoqno nasin ahli dandirno butirno, xanłun ʕArabuzanno xecin, Ismaʕilgon wizirłunno ičin.
+Gloss: we(I).OBL-GEN1 khan kill-PST.WIT-QUOT army-and people-and III.PL-run.away-PFV.CVB III.PL-go-SIM.CVB in.one.place-IN.VERS.DIST side-SUPER.LAT.DIST Ismail run-PFV.CVB in.one.place-IN.LAT.DIST Arabuzan II-become-PFV.CVB all people together-TOP III-gather-PFV.CVB khan-LHUN Arabuzan-TOP leave-PFV.CVB Ismail-CNTR vizier-LHUN-TOP be-PST.UNW
+Translation: "They killed our king!", the army and the people ran away and at the same time, Ismail ran to one side, and Arabuzan ran to the other side, and they gathered all the people together and Arabuzan was elected king/queen and Ismail became vizier.
+Sentence: Esnabi, muši kuracekin ričinč’ey, aždaħqay raqruce maqˤir roxin rik’anił ričix zown.
+Gloss: sister-PL breath throw-TERM-even II.PL-be-NEG.PST.CVB dragon-POSS.ABL IV-become-PST.PRT-TERM far.away-LAT II.PL-run.away-PFV.CVB II.PL-go-MSD-CONT.ESS II.PL-be-IPFV.CVB be.NPRS-PST.UNW
+Translation: The sisters, not even waiting a single breath, were running away from the dragon to get far away from it.
+
+Approximate Matches:
+Sentence: Yaqˤułno yołƛax Bac’ali aderzoxortow čanyabi kikix, sasaq roxirno, neširaɣor žedar žedu rayn.
+Gloss: today-TOP be-QUOT Batsali forward-ATTR.OBL-AD.LAT-EMPH she.goat-PL feed-IPFV.CVB in.the.morning III.PL-chase-PFV.CVB evening-IN.VERS DEM1.IIPL.OBL-LAT DEM1.IIPL III.PL-come-PST.UNW
+Translation: Today, it's said, Batsali is living just as before feeding the goats, chased the in the morning and they came back towards the evening by themselves.
+Sentence: Žedu sasaq ħonƛ’aɣor roxirnosi, neširaɣor žedar žedu rutin iduɣor rayx zown.
+Gloss: DEM1.IIPL in.the.morning mountain-SUPER.VERS III.PL-chase-ANT.CVB evening-IN.VERS DEM1.IIPL.OBL-LAT DEM1.IIPL III.PL-return-PFV.CVB home-IN.ALL III.PL-come-IPFV.CVB be.NPRS-PST.UNW
+Translation: In the morning he chased them onto a mountain, towards the evening they came back home by themselves.
+Sentence: Nediwtow q’ʷariłi bayzaƛ’, dahawtow yuyn ʕiyayn, bisno sis bexora hibon łoxt’a ža bok’xo nasin boc’an, zeybin maħor roxirno.
+Gloss: such-EMPH sadness III-come-CSL.CVB a.little-EMPH and(?) cry-PST.UNW I.PL-take-PFV.CVB one lengthy stick-TOP thrice-DISTR DEM1.SG III-beat-IPFV.CVB all wolf.PL-and bear-PL-and outside III.PL-chase-PST.UNW
+Translation: Because of such a tragedy, she began to cry a little, took a long stick, beated it three times and chased off all the wolves and bears.

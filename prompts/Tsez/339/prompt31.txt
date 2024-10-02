@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yegirxosi in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yegirxosi: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Suƛƛi teł iduɣor aqruntow yisä yiłaq ħaƛanix łi esirnosi, lamusno yoqno eƛin, deber idu ħaƛanix łi anu, t’o kikƛ’o aždaħ baq’ˤułäsi yoł, ɣudes nełar yac’anix q’ˤimaku teƛinč’inäy, neła yiła ʕaƛor łi regirxosi anu.
+Gloss: immediately inside home-IN.ALL become-IMM.ANT.CVB-EMPH DEM2.ISG.OBL-ERG DEM2.IISG.OBL-POSS.ESS drink-MSD-AD.ESS water ask-ANT.CVB conscience-TOP II-become-PFV.CVB say-PST.UNW you-LAT home drink-MSD-AD.ESS water be.NEG here spring-SUPER.ESS dragon III-sit-RES.PRT be daily DEM1.IISG.OBL-LAT II-eat-MSD-AD.ESS grown.up give-NEG.FUT.CVB-CND.CVB DEM1.IISG.OBL-ERG DEM2.IISG.OBL village-LAT water IV-let-PRS.PRT be.NEG
+Translation: Immediately after coming into the house, he asked her for water to drink, and .......... she said: "You can't drink water here at home, there is a dragon sitting on the spring, and every day if someone doesn't give him a grown-up to eat, he won't let water to the village."
+Sentence: Sis aždaħes xexoy biqirno ent’or bownäy, neła ʕazara roqˤuma igor nexa žek’u egirxosi anuƛin.
+Gloss: one dragon-GEN1 young.animal III-take.away-PFV.CVB here-LAT III-bring-CND.CVB DEM1.IISG.OBL-ERG thousand step-IN.ESS near-LAT come-INF man let-PRS.PRT be.NEG-QUOT
+Translation: If you take away one of the dragon's youngs and bring it here, it will not let any man come closer than a thousand steps.

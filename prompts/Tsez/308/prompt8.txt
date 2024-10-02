@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bexurno in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bexurno: 
+
+Exact Matches
+Sentence: Netin t’ut’ƛ’orkin reƛ’a rizärinč’iru, yedu šebi där yaqˤuł roqäƛin, bikorin bexurno yisiz rok’uƛ’ nexełno.
+Gloss: always fly-SUPER.LAT-even hand IV-lift-NEG.FUT.CVB-PST.PRT DEM2.IISG what me-LAT today IV-happen-PST.WIT.INT-QUOT snake-TOP III-kill-PFV.CVB DEM2.ISG.OBL-GEN2 heart-SUPER.ESS come-POT-PST.UNW
+Translation: "I never even lifted my hand to a fly, what has happened to me today?!", he realized that he killed the snake.
+Sentence: ƛ’iriɣor boƛixnosi, Bac’alä q’ˤimqo šebinon rok’no žan bexurno, nełqay ħoši boɣno.
+Gloss: above-IN.ALL III-appear-ANT.CVB Batsali-ERG head-POSS.ESS something III.PL-beat-PFV.CVB DEM1.SG-TOP III-kill-PFV.CVB DEM1.IISG.OBL-POSS.ABL hide III-take.away-PST.UNW
+Translation: When he appeared above, Batsali beated something over his head, killed him and took off his hide.
+Sentence: Xizyo žeduł xizay bik’ix zawru ɣˤʷayn bexurno, nełas rok’un rižin ik’in babiwder, di esiw yexursiƛin eƛanix.
+Gloss: afterwards DEM1.IPL.OBL-CONT.ESS behind III-go-IPFV.CVB be.NPRS-PST.PRT dog-TOP III-kill-PFV.CVB DEM1.IISG.OBL-GEN1 heart-TOP IV-take.out-PFV.CVB go-PFV.CVB father-APUD.LAT me sister II-kill-PST.WIT-QUOT say-MSD-AD.ESS
+Translation: Afterwards, he killed a dog that was following them, he took out its heart and went to his father to say: "I killed my sister."
+
+Approximate Matches:
+Sentence: ʕAnsa sadaq xanes askar bexurnosi dandi xan harizi oqno, dey sadaq xanłin, kidno deber yiča yoł, mi dey askar č’agu bodinäyƛin.
+Gloss: walking.stick all khan-GEN1 army III-kill-ANT.CVB now khan request become-PST.UNW me-GEN1 all khanate-and daughter-and you-LAT II-be-INF be you me-GEN1 army alive III-do-CND.CVB-QUOT
+Translation: After the walking stick had called the king's entire army, the king now requested: "My entire kingdom and my daughter will be yours, if you make my army alive again!"

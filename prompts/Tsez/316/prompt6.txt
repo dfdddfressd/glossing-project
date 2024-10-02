@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nesidäɣor in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nesidäɣor: 
+
+Exact Matches
+Sentence: Nełaz ža q’aʕidaƛ’ žedun šušin, nesä nesir azbarno riqirno, barun yown, eniwn nesä nesidäɣor yižin.
+Gloss: DEM1.IISG.OBL-GEN2 DEM1.SG manner-SUPER.ESS DEM1.IPL-TOP bury-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-LAT palace-TOP IV-take.away-PFV.CVB wife-TOP II-marry-PFV.CVB mother-TOP DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.VERS II-lead-PST.UNW
+Translation: He burried them in his own manner, took the palace for himself, married a wife and brought his mother to himself.
+Sentence: Xizyo xanä sis siħiray q’orolayn goƛ’in nesä nesidäɣor, nełaq esin, däz iday micxir nar eƛa biynč’ey gugix, łu bok’ek’xosi yałrułin didurnokin riyxanuƛin.
+Gloss: afterwards khan-ERG one cunning.II widow-TOP invite-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.VERS DEM1.IISG.OBL-POSS.ESS tell-PST.UNW me-GEN2 home-IN.ABL money where say-INF III-know-NEG.PST.CVB escape-IPFV.CVB who.ERG III-steal-PRS.PRT be-PST.PRT-NMLZ-and how-and-even IV-know-PRS-NEG-QUOT
+Translation: Then the king invited a cunning widow to himself and he told her: "Money has vanished from my home to who-knows-where, I don't know whatsoever who might have stolen."
+Sentence: Xexłiƛ’ idurno yik’in, yiłä yedu xabar babiwq esinosi, nesä nesidäɣor esiws uži goƛ’a yedu yegirno.
+Gloss: quickness-SUPER.ESS home-LAT-TOP II-go-PFV.CVB DEM2.IISG.OBL-ERG DEM2.IISG story father-POSS.ESS tell-ANT.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.VERS brother-GEN1 son invite-INF DEM2.IISG II-let-PST.UNW
+Translation: She went home quickly, and when she told this story to her father, he let her invite his brother's son to himself.
+
+Approximate Matches:
+Sentence: Užä nesä nesidäɣorno rižin ik’in, siskin žedar rac’anix šebin teƛinč’ey quqa łera ɣudi rečuƛ rišin ričirno.
+Gloss: boy-ERG DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.VERS-TOP III.PL-lead-PFV.CVB go-PFV.CVB anything DEM1.IIPL.OBL-LAT IV-eat-MSD-AD.ESS thing give-NEG.PST.CVB hungry five.OBL day cattleshed-SUB.ESS III.PL-drive.in-PFV.CVB III.PL-stop-PST.UNW
+Translation: The boy led them to himself and gave them nothing to eat for 5 days, making them hungry, and he drove them into the shed.
+Sentence: Xanä žedu nesä nesidäɣorno goƛ’in sosi eženi esiwq esirno:
+Gloss: khan-ERG DEM1.IPL.OBL DEM1.ISG.OBL-ERG DEM1.ISG.OBL-APUD.VERS-TOP call-PFV.CVB at.first old-DEF brother-POSS.ESS ask-PST.UNW
+Translation: The king called them to himself and first asked the eldest brother:
+Sentence: Xizyo ɣˤanazas šeƛ’un šeƛ’un, nesidäɣorno yik’in, sasaqor sadaq ɣudi qˤaširno.
+Gloss: afterwards woman-GEN1 clothing-TOP put.on-PFV.CVB DEM1.ISG.OBL-APUD.VERS-TOP II-go-PFV.CVB in.the.morning-POSS.LAT together day dawn-PST.UNW
+Translation: Afterwards she put on woman's clothings, went to him and they stayed together until in the morning the day dawned.

@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: aɣin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": aɣin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word aɣin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Ža nece bercinawni aɣin bižin, łacez guluƛ’no zown, yeda hawaƛ’ k’oƛin iduɣor ik’in.
+Gloss: boy-ERG so.much beautiful-DEF bird-TOP III-carry-PFV.CVB wind-GEN2 horse-SUPER.ESS-and ride-PFV.CVB DEM2.ISG air-SUPER.ESS jump-PFV.CVB home-IN.ALL go-PFV.CVB
+Translation: The boy took this beatiful bird and rode his wind horse home.
+Sentence: Ža aɣin bižin bełiqus uži xander ik’in.
+Gloss: DEM1.SG bird-TOP III-carry-PFV.CVB hunter-GEN1 son khan-APUD.LAT go-PST.UNW
+Translation: The hunter's son carried the bird to the king.
+Sentence: Bara eƛin, yaqˤuł žaq bełi č’aq’ˤin anu, sis bercinaw aɣin č’aq’irno ža idur aysƛin.
+Gloss: wife-ERG say-PST.UNW today son-POSS.ESS deer hit-PFV.CVB be.NEG one beautiful bird-TOP kill-PFV.CVB DEM1.SG home-LAT come-PST.WIT-QUOT
+Translation: The wife said, "Today our son didn't catch any deer, but he killed a beautiful bird and then came home."
+
+Approximate Matches:

@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Q’urʔan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Q’urʔan: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Qˤaƛin Q’urʔan t’et’ra oqno dibir.
+Gloss: loudly Qur'ân read-INF begin-PST.UNW imam
+Translation: The imam began to read out the Qur'ân loudly.
+Sentence: Bilq’isdä nesiqor eƛin, mi Q’urʔan yaqino, där teqa retin didur mi ža t’et’erxoƛin.
+Gloss: Bilqisdi-ERG DEM1.ISG.OBL-POSS.LAT say-PST.UNW you Qur'ân II-close-PROHIB me-LAT hear-INF IV-want-PST.UNW how you DEM1.SG read-IPFV.CVB-QUOT
+Translation: Bilqisdi said to him: "Don't close the Qur'ân, I want to hear you reading it."

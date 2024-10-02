@@ -1,0 +1,33 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: aħozir using Leipzig glossing symbols. The sentence this word is drawn from means: "The boy gave the shepherds who had found him a big present and sent them back.".
+
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": aħozir
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word aħozir:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Eƛnin ɣutaneł yoɣno, ħonzaqaɣor bˤeƛ’ rowa oc’ino łeno ɣudi ƛexunosi, aħozir ɣˤʷadbi sidä sidqor xabaryayx teqno.
+Gloss: winter-TOP winter.pasture-CONT.ESS II-spend.time-PFV.CVB mountain-PL-POSS.VERS sheep III.PL-bring-INF ten five day remain-ANT.CVB shepherd-LAT crow-PL one.OBL-ERG one.OBL-POSS.LAT talk-IPFV.CVB hear-PST.UNW
+Translation: They spent the winter on the winter pasture and when just 15 days remained to bring the sheep back to the mountains, the shepherd heard the crows talking among each other.
+
+Approximate Matches:
+Sentence: Hemełtow zamanał, k’oƛin rik’in yizi aħozis barur kumak boda.
+Gloss: DEM4.IISG.OBL-EMPH time-CONT.ESS run-PFV.CVB II.PL-go-PST.UNW DEM2.IPL shepherd-GEN1 wife-LAT help III-do-INF
+Translation: At that time they ran to help the shepherd's wife.
+Sentence: Ħumukuliƛ’ ƛ’iräy riguƛ’ay rigu šeƛ’un roɣno, žan aħoziqor teƛno eƛin, nagaħ howt’aza oc’ino žek’un, łeno waranin boƛixnäy, šebi roynon žedu mi ričok’ƛin.
+Gloss: camel-SUPER.ESS from.above IV-pretty-SUPER.ABL IV-pretty clothing-TOP IV-take.away-PFV.CVB DEM1.SG-TOP shepherd-POSS.LAT give-PFV.CVB say-PFV.CVB suddenly there-IN.VERS.DIST ten man-TOP five camel-TOP III-appear-CND.CVB what IV-do-PFV.CVB-CND DEM1.IPL you detain-QUOT
+Translation: Having pulled the prettiest clothings from the camel, he gave it to the shepherd and said: "When suddenly there appear ten men with five camels, do something to detain them."
+Sentence: Qˤayä hiboq neła nełas mecno bitirno, xizyo xexoyn begirno xizor, aħoziqor bižin teƛƛin.
+Gloss: hare-ERG stick-POSS.ESS DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 tongue-TOP III-touch-PST.UNW afterwards young.animal-TOP III-send-PST.UNW back shepherd-POSS.LAT III-carry-PFV.CVB give-QUOT
+Translation: The rabbit touched the stick with its tongue and then sent the young one back: "Carry it back and give it to the shepherd!"

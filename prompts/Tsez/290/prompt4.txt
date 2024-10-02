@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word xexoy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word xexoy: 
+
+Exact Matches
+Sentence: Sis nełarno kurno siskin där ƛexandaƛin, aɣzo rok’ƛ’orno rayn, dicego rok’er zaħmat roqłin, zirur sis xexoy kurno.
+Gloss: one DEM1.IISG.OBL-LAT-TOP throw-PFV.CVB anything me-LAT remain-FUT.DEF-COND-QUOT bird-ATTR.OBL heart-SUPER.LAT-TOP IV-come-PFV.CVB how.much-COND heart-LAT trouble IV-become-CNC.CVB fox-LAT one young.animal throw-PST.UNW
+Translation: "Throwing one down, there will still remain one for me.", thought the bird and although it was difficult, it threw one nestling to the fox.
+Sentence: Q’ˤano äƛiru ɣudƛ’ogon zap’aniłnotow bayn zira eƛin, kurxo besunäy xexoy kuro, yałi di maħin rok’no ɣun recura yołƛin.
+Gloss: two say-PST.PRT day-SUPER.ESS-CNTR firmly-TOP-EMPH III-come-PFV.CVB fox-ERG say-PFV.CVB throw-IPFV.CVB III-appear-CND.CVB young.animal throw-IMPR else me tail-TOP IV-beat-PFV.CVB tree IV-break-INF be-QUOT
+Translation: On the second day, the fox came firmly and said: "Throw me down a nestling, or else I'll knock down the tree with my tail!"
+Sentence: Kutak q’ʷarid boqno aɣi q’anon xexoy zira bac’zaƛ’.
+Gloss: too.much sadness III-become-PFV.CVB bird two-TOP young.animal fox-ERG III-eat-CSL.CVB
+Translation: The bird became even more sad because the fox has eaten two nestlings now.
+
+Approximate Matches:
+Sentence: Ele enła onočas k’eneč’yabin rižin iduɣorno ik’in, sasaqor k’eneč’yołäy xexoybin roɣno däqor rown horoƛin.
+Gloss: there DEM3b.IISG.OBL hen-GEN1 egg-PL-TOP IV-carry-PFV.CVB home-IN.ALL-TOP go-PFV.CVB in.the.morning-POSS.LAT egg-CONT.ABL young.animal-PL-TOP III.PL-hatch-PFV.CVB me-POSS.LAT III.PL-bring-PFV.CVB come.IMPR-QUOT
+Translation: "Here, carry these chicken eggs to your home; tomorrow bring me the chicks that have hatched from the egg."
+Sentence: Nełdäy xexbin rižin, k’ucin, k’et’us xexoybin nełder kurno.
+Gloss: DEM1.IISG.OBL-APUD.ABL children-TOP III.PL-take.out-PFV.CVB puppy-and cat-GEN1 young.animal-PL-and DEM1.IISG.OBL-APUD.LAT spread.out-PST.UNW
+Translation: She took away the children from her and put the puppy and the kitten do her.
+Sentence: Hemełƛ’o bayn adäz qˤays xexoyn bičin yisiqor eƛin, mi siskin pašman aqno, yaqˤuł mi elus tušman bexursi, hoboy mi däz eniwdäɣor däde sadaq ƛa.
+Gloss: DEM4.IISG.OBL-SUPER.ESS III-come-PFV.CVB ahead hare-GEN1 young.animal-TOP III-sit-PFV.CVB DEM2.ISG.OBL-POSS.LAT say-PST.UNW you any become.sad become-PROHIB today you we(I).OBL-GEN1 enemy III-kill-PST.WIT now you me-GEN2 mother-APUD.VERS me-APUD.ESS with go.IMPR
+Translation: Then came a rabbit's young and sat down in front of him and said to him: "Don't become sad! Today you have killed our enemy; now come with me to my mother!

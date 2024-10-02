@@ -1,0 +1,24 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yižoƛin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yižoƛin: 
+
+Exact Matches
+Sentence: Yisä yisir łˤora ɣudi bertenno erno, bercinawƛ’ay bercinawt’a kidbabin rukarno, howt’aytow barun yižoƛin harizin rodin, roƛik’u xanłin riso howt’otow uyn iči, mi iłe baħarči naynkin t’ok’ow elur äqinč’iƛin.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-LAT three.OBL day marriage-and put-PFV.CVB beautiful-SUPER.ABL beautiful-DISTR girl-PL-and II.PL-show-PFV.CVB from.here-EMPH wife-TOP II-take.out-IMPR-QUOT request-TOP IV-do-PFV.CVB IV-half khanate-TOP IV-take-IMPR here-EMPH just-TOP be you as brave.young.man from.nowhere anymore we(I).OBL-LAT get-NEG.FUT-QUOT
+Translation: He arranged a 3-day lasting marriage for him, presented girls that were prettier than pretty, "Choose a wife from here!", he begged, "Settle down here and take half of the kingdom, from nowhere will we ever get such a brave young man as you, anymore!"
+
+Approximate Matches:
+Sentence: Mi däƛ’ay ežen yoł, däzoƛ’aygon rigu tupin yoł debeq, mitow č’aq’ˤirno nesir bižoƛin eƛin, teƛno anu užä ža aɣi xanez nukarqor.
+Gloss: you me-SUPER.ABL old-TOP be me-ATTR.OBL-SUPER.ABL-CNTR IV-good rifle-TOP be you-POSS.ESS you-EMPH kill-PFV.CVB DEM1.ISG.OBL-LAT III-carry-IMPR-QUOT say-PFV.CVB give-PST.UNW be.NEG boy-ERG DEM1.SG bird khan-GEN2 henchman-POSS.LAT
+Translation: "You are older than me and also you have a rifle better than mine, kill one yourself and carry it to him!" the boy said and didn't give the bird to the king's henchman.
+Sentence: Elin dowde sadaq bižoƛin, bazarganbi harizi boqno.
+Gloss: we-TOP you-APUD.ESS together I.PL-lead-IMPR-QUOT merchant-PL request I.PL-become-PST.UNW
+Translation: "Take us with you, too!", the merchants requested.
+Sentence: Ražbadin ħadur oqxon iyn, ʕaƛoz ʕoloqza nesiq harizi rodin, elin Huläɣor dawlaƛ’ bižoƛin.
+Gloss: Razhbadin prepare become-IPFV.CVB-TOP know-PFV.CVB village-GEN2 young.person-PL-ERG DEM1.ISG.OBL-POSS.ESS request IV-do-PST.UNW we-TOP Georgia-IN.VERS prey-SUPER.ESS I.PL-lead-IMPR-QUOT
+Translation: Knowing that Razhbadin was preparing, the young people from the village asked him: "Lead us to Georgia for hunting as well!"

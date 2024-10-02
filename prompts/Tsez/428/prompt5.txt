@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word min in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word min: 
+
+Exact Matches
+Sentence: Mi ʕiyaynäy, ahlimos šakno bäk’i, yižin xander min karƛin.
+Gloss: you cry-CND.CVB people-GEN1 suspicion-TOP III-go II-carry-PFV.CVB khan-APUD.LAT you-TOP throw-QUOT
+Translation: "If you cry, people will get suspicious and throw you before the king."
+Sentence: Didurgo šebigo roqsi eƛin ži ƛ’iräy din oqsi min oq.
+Gloss: how-COND what-COND IV-happen-PST.WIT say-PFV.CVB now from.above me-TOP become-ATTR you-TOP become
+Translation: Whatever and however it happened, [said?], I forgave you now, so forgive me too.
+Sentence: Dey di roɣno ozuri rac’xo, debi min rac’oƛin” - žawab teƛno zira.
+Gloss: me-GEN1 me IV-take.away-PFV.CVB eye IV-eat-PRS you-GEN1 you-TOP IV-eat-IMPR-QUOT - answer give-PST.UNW fox-ERG
+Translation: "I eat the eye I have removed, eat yours too!", answered the fox.
+
+Approximate Matches:

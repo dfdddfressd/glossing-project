@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: debex.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": debex
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word debex:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Retinäy debex mi yižo, retinäy q’ˤuyzix yegir.
+Gloss: IV-want-CND.CVB you-AD.ESS you II-lead-IMPR IV-want-CND.CVB other-ATTR.OBL-AD.ESS II-send
+Translation: If you want, marry her yourself, or if you want, send her to someone else.
+Sentence: Sida quł nesider ziru bayn, debex di xanes kid yowanƛin.
+Gloss: one.OBL day-CONT.ESS DEM1.ISG.OBL-APUD.LAT fox III-come-PST.UNW you-AD.ESS me khan-GEN1 daughter II-bring-FUT.DEF-QUOT
+Translation: One day a fox came to him [saying]: "I will marry the princess off to you!"
+Sentence: Esnaza eƛin, mi äxuzay iłe izin ayzaƛ’, debez ħurmatyoxay ela beže bertenno bodin sis kid debex yowa yoł.
+Gloss: brother-PL-ERG say-PFV.CVB you die-SIM.CVB as get.up-PFV.CVB come-CSL.CVB you-GEN2 respect-AD.ABL we(I).OBL-ERG III-big marriage-TOP III-do-PFV.CVB one girl you-AD.ESS II-marry-INF be
+Translation: The brothers said: "Because you came back like from the dead, we will organize a big marriage out of respect for you and marry of a girl to you.
+
+Approximate Matches:
+Sentence: ƛ’irir baynosi, bazarganza esirno nesiq, łeno ħumukulin boc’no howt’aza ik’ix deber uži ukaynč’aƛin.
+Gloss: above-LAT I.PL-come-ANT.CVB merchant-PL-ERG ask-PFV.CVB DEM1.ISG.OBL-POSS.ESS five camel-TOP III-drive-PFV.CVB there-IN.VERS.DIST go-IPFV.CVB you-LAT boy see-NEG.PST.WIT-PST.WIT.INT-QUOT
+Translation: When they had come closer, the merchants asked him: "Have you seen a boy going in this direction driving five camels?"
+Sentence: Nesir siskin šebin retixanu, debez mecqo mec bitirnäy ʕeze raqƛin eƛis nesäƛin, esin xexoyä.
+Gloss: DEM1.ISG.OBL-LAT any thing IV-want-PRS-NEG you-GEN2 tongue-POSS.ESS tongue III-touch-CND.CVB be.enough IV-become-QUOT say-PST.WIT DEM1.ISG.OBL-ERG-QUOT tell-PST.UNW young.animal-ERG
+Translation: "He doesn't want anything, if he can touch your tongue with his tongue, it will be enough, he said.", explained her young.
+Sentence: "Mi yowan yoqinč’ey q’ˤuya ɣˤanabi yowłiri, sosi din ałni debeq bic’reran, nełaq bic’erzaƛ’orƛin".
+Gloss: you II-marry-FUT.DEF II-happen-NEG.PST.UNW other woman II-bring-CND.CVB.IRR at.first me-TOP hug you-POSS.ESS III-hug-CAUS-CAUS-INF-TOP DEM1.IISG.OBL-POSS.ESS III-hug-CAUS-POST.CVB-QUOT
+Translation: 'If it happens that I have to marry another woman, I will also first come to you to embrace you, before I embrace her.'

@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word zirur in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word zirur: 
+
+Exact Matches
+Sentence: Sis nełarno kurno siskin där ƛexandaƛin, aɣzo rok’ƛ’orno rayn, dicego rok’er zaħmat roqłin, zirur sis xexoy kurno.
+Gloss: one DEM1.IISG.OBL-LAT-TOP throw-PFV.CVB anything me-LAT remain-FUT.DEF-COND-QUOT bird-ATTR.OBL heart-SUPER.LAT-TOP IV-come-PFV.CVB how.much-COND heart-LAT trouble IV-become-CNC.CVB fox-LAT one young.animal throw-PST.UNW
+Translation: "Throwing one down, there will still remain one for me.", thought the bird and although it was difficult, it threw one nestling to the fox.
+Sentence: Eloza bezu-bˤoƛ’unosi, zirur boƛik’u bac’äsi ƛeles q’ulaʕi besun.
+Gloss: there-ZA III-examine-ANT.CVB fox-LAT half III-eat-RES.PRT lamb-GEN1 carcass III-find-PST.UNW
+Translation: When he looked around there, he found the carcass of a half-eaten lamb.
+Sentence: Sis xexoy yiłar kurnäy, q’ˤano där ƛäxuƛin, rok’ƛ’or pikrun bayn, dicego zaħmat roqłin, yiła zirur xexoy kurno.
+Gloss: one young.animal DEM2.IISG.OBL-LAT throw-CND.CVB two me-LAT remain-QUOT heart-SUPER.LAT idea-TOP III-come-PFV.CVB how.much-COND trouble IV-become-CNC.CVB DEM2.IISG.OBL-ERG fox-LAT young.animal throw-PST.UNW
+Translation: "If I throw him down one nestling, I will still keep two", thought the bird and although it was quite difficult, it threw a nestling to the fox...
+
+Approximate Matches:
+Sentence: Tełtow ɣˤʷayn bik’un, kinaw ža bˤeƛ’es reqenno, ɣˤutkubin, maʕišatno zirurno, habihanerno ƛexun.
+Gloss: inside-EMPH dog-TOP III-burn-PFV.CVB entire DEM1.SG sheep-GEN1 herd-and house-PL-and fortune-and fox-LAT-and miller-LAT-and remain-PST.UNW
+Translation: The dog inside burned, and the entire flock of sheep, the house and the fortune all remained for the fox and the miller.
+Sentence: Howda boqłin bižan zirurƛin boržizi boqno ɣʷˤadi iduɣor nexƛ’oräy, nełał adäzar osiw ħon keze yoqno.
+Gloss: DEM3.SG III-become-CNC.CVB III-carry-FUT.DEF fox-LAT-QUOT flight III-become-PFV.CVB crow home-IN.ALL come-SIM.CVB DEM1.IISG.OBL-CONT.ESS before-IN.LAT high mountain meet II-become-PST.UNW
+Translation: "Although it's just that, I'll carry it to the fox.", [said the crow and] while it was flying back home, a high mountain came towards it.

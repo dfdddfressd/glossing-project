@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Šidaƛin.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Šidaƛin
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Šidaƛin:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Yigtow ža ƛ’iri yičizaƛ’ riynoxa eƛin: di sabawyabin caxxosianu, šidaƛin eƛiłiri šayt’anza där ʕaq’uba neƛxoƛin, amma dey nesirsi sis daru yołƛin.
+Gloss: II-much-EMPH DEM1.SG above II-remain-CSL.CVB sheikh-ERG say-PST.UNW me amulet-PL-TOP write-PRS.PRT-NEG why-QUOT say-CND.CVB.IRR devil-PL me-LAT torture give-PRS-QUOT but me-GEN1 DEM1.ISG.OBL-LAT-ATTR one medicine be-QUOT
+Translation: But because she insisted so much, the sheikh said: "I don't write a talisman, and if I told you why, the devils would give me torture, but I have one medicine for him."
+Sentence: Idur xediw ayrun baru daʕba boda c’oxno, ɣudi adäy eluq mešori bexada bayx, šidaƛin eƛiłiri nełqay didiwnkin mumpaʕat anu, ʕadada käkirułi gurow.
+Gloss: home-LAT husband come-IMM.ANT.CVB wife dispute III-do-INF meet-PFV.CVB day earlier we(I).OBL-POSS.ESS heifer III-slaughter-INF III-must-IPFV.CVB why-QUOT say-CND.CVB.IRR DEM1.IISG.OBL-POSS.ABL which-TOP-even benefit be.NEG to.no.purpose feed-MSD except
+Translation: As soon as the husband had come home, the wife started to insist: "Soon this day we have to slaughter the heifer, because there's no benefit whatsoever from it except for feeding [it] in vain."
+Sentence: Anu, xan, deyno, debin kidbabi nełar howži ħaram roqsi, šidaƛin eƛiłi ža aždaħ bexursiƛin”, - esin q’orola.
+Gloss: be.NEG khan me-GEN1-and you-GEN1-and daughter-PL DEM1.IISG.OBL-LAT now prohibition IV-become-PST.WIT why-QUOT say-CND.CVB.IRR DEM1.SG dragon III-kill-PST.WIT-QUOT - tell-PST.UNW widow-ERG
+Translation: "No, king, he won't get my and your daughters, because he was killed", said the widow.
+
+Approximate Matches:
+Sentence: Dibirän šidaƛa nesiƛ’ c’aq’ xal bičirno ičix zown.
+Gloss: imam-ERG-TOP why-INDEF DEM1.ISG.OBL-SUPER.ESS very examination III-stop-PFV.CVB be-IPFV.CVB be.NPRS-PST.UNW
+Translation: And the imam for some reason was watching him.
+Sentence: Dowqosi ged där ħažan yetin ʕiyayx yedaƛin”.
+Gloss: you-POSS.ESS-ATTR shirt me-LAT exchange-FUT.DEF II-want-PFV.CVB cry-PRS DEM2.ISG-QUOT
+Translation: "He cries, because he wants that I exchange your dress with mine."
+Sentence: Ismaʕila pikru bodin, ʕoƛiran esnazar kumak bodinäy, dandir biħanayxozoz rok’ƛ’or ray, dice č’uħaraw žek’u yoł yedaƛin, žedurgon kumak bodinäy, esnazaz rok’ƛ’or ray, dice ħalikataw žek’u yeda yołƛin.
+Gloss: Ismail-ERG idea III-do-PST.UNW seven.OBL-TOP brother-PL-LAT help III-do-CND.CVB towards I.PL-fight-PRS.PRT.OBL-ATTR.OBL heart-SUPER.LAT IV-come how.much proud man be DEM2.ISG-QUOT DEM1.IPL.OBL-LAT-CNTR help III-do-CND.CVB brother-PL-GEN2 heart-SUPER.LAT IV-come how.much mean man DEM2.ISG be-QUOT
+Translation: Ismail thought: "If I help the seven brothers, the ones they are fighting will notice what a proud man I am, but if I help them instead, the brothers will notice, what a mean man I am."

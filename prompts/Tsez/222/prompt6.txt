@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word yexunäy in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word yexunäy: 
+
+Exact Matches
+Sentence: Sida quł roƛa yutirnosi, eniya kidbeqor eƛin, mi babiwqor eƛo, nagaħ di yexunäy hoboda bašiqˤoy c’oxxosi taraw nesä ɣˤanabi yawnoƛƛin.
+Gloss: one.OBL day-CONT.ESS IV-hurt-INF II-begin-ANT.CVB mother-ERG daughter-POSS.LAT say-PFV.CVB you father-POSS.LAT say-IMPR suddenly me II-die-CND.CVB that ring match-PRS.PRT except.for DEM1.ISG.OBL-ERG woman II-marry-PROHIB-OPT-QUOT
+Translation: One day, when the mother started to feel pain, she told her daughter: "Tell your father that when I suddenly die, he may only marry a woman who matches this ring!"
+
+Approximate Matches:
+Sentence: Exurnäy exuroƛ, exunäy exuƛ, rätiru roqoƛƛin, eƛin Ħusenä, eženił xizay ik’inč’ey dey res anuƛin.
+Gloss: kill-CND.CVB kill-OPT die-CND.CVB die-OPT IV-want-PST.PRT IV-become-OPT-QUOT say-PFV.CVB Hussein-ERG old-DEF-CONT.ESS behind go-NEG.PST.CVB me-GEN1 possibility be.NEG-QUOT
+Translation: "If he kills me, he shall kill me; if I die, I shall die; may it happen whatever wants to.", said Hussein and followed the old man, "I don't have the possibility not to go."

@@ -1,0 +1,32 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: rexarno.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": rexarno
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word rexarno:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Meža mežuł raqru halmaɣłi eli sabawłun rexarno.
+Gloss: you(I).PL.OBL-ERG you(I).PL.OBL-CONT.ESS IV-become-PST.PRT friendship we for.the.sake.of IV-kill-PROHIB
+Translation: Don't destroy the friendship that is between you because of us!
+
+Approximate Matches:
+Sentence: Ža bexuranixƛin yisä c’eruc’a rutirnosi, ceyä eƛin, mi di bexarno, deber di sis bercinaw pardagi neƛanƛin.
+Gloss: DEM1.SG III-kill-INF-PURP.CVB-QUOT DEM2.ISG.OBL-ERG bow IV-turn-ANT.CVB eagle-ERG say-PFV.CVB you me III-kill-PFV.CVB you-LAT me one beautiful scarf give-FUT.DEF-QUOT
+Translation: As he directed his bow to kill the eagle, the latter said, "Don't kill me, I will give you one beautiful scarf."
+Sentence: Xizyo babiya žaqor eƛin, ele uži, di eƛix zownč’a dowqor ža bercinawni aɣi bexarno mi, šomoraxno žuk roqa yoł deber, howži rok’ƛ’or ayxa di.
+Gloss: afterwards father-ERG son-POSS.LAT say-PST.UNW there son me say-IPFV.CVB be.NPRS-NEG.PST.WIT-PST.WIT.INT you-POSS.LAT DEM1.SG beautiful-DEF bird III-kill-PROHIB you how.often-TOP worse IV-become-INF be you-LAT now heart-SUPER.LAT come-PRS-Q me
+Translation: Afterwards the father said to his son, "There, son, didn't I say to you not to kill that beautiful bird, or bad things would happen to you ever so often, have you understood this now?
+Sentence: Žeduqor bitor hunix ik’iƛ’orey siskin xabar bexarno.
+Gloss: DEM1.IPL.OBL-POSS.LAT thither way-AD.ESS go-SIM.CVB anything story III-kill-PST.UNW
+Translation: When you go further on the way, the story will go on.

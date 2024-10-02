@@ -1,0 +1,38 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: neširuxayt’a.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": neširuxayt’a
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word neširuxayt’a:
+
+Exact Matches
+
+
+Exact Matches
+Sentence: Sida zamanał, neširuxayt’a šebi eƛa riyxanuzo łinan c’iɣaƛ’ ƛ’iri yałru ʕaƛ k’ek’-bik’erxot’a zown.
+Gloss: one.OBL time-CONT.ESS at.night-AD.ABL-DISTR what say-INF IV-know-NEG.PRS.PRT.OBL water-INT shoulder.blade-SUPER.ESS above be-PST.PRT village move-CAUS-IPFV.CVB-DISTR be.NPRS-PST.UNW
+Translation: One time, at night the village on the shoulder.blade was moved by something unknown.
+Sentence: Ža kid dicegon bac’ałiƛ’ yoqłin, neła xediwƛ’or kaɣat caxno, debi kid neširuxayt’a q’ʷat’azaq yaħna-yik’ix yičixƛin.
+Gloss: DEM1.SG daughter how.much-CNTR cleanness-SUPER.ESS II-become-CNC.CVB DEM1.IISG.OBL-ERG husband-SUPER.LAT letter write-PST.UNW you-GEN1 daughter at.night-AD.ABL-DISTR street-PL-POSS.ESS II-walk.for.a.while-IPFV.CVB II-be-PRS-QUOT
+Translation: Although the daughter was very cleanly, she wrote a letter to her husband: "Your daughter is being wandering through the streets at night."
+Sentence: Däz eniya neširuxayt’a bexayn miƛ’in eli bišerxosiƛin, C’iɣruk’ä žawab bodin.
+Gloss: me-GEN2 mother-ERG evening-AD.ABL-DISTR III-slaughter-PFV.CVB ram-TOP we I.PL-eat-CAUS-PRS.PRT-QUOT Tsighruk-ERG answer III-do-PST.UNW
+Translation: "My mother slaughtered a ram every night and fed us", he replied.
+
+Approximate Matches:
+Sentence: Nełar neširuxay rukayx zown anu.
+Gloss: DEM1.IISG.OBL-LAT at.night-AD.ABL IV-see-IPFV.CVB be.NPRS-PFV.CVB be.NEG
+Translation: It couldn't see anything in the night.
+Sentence: Eženi esiya eƛin, ɣudes neširuxay eluz baɣmay sist’a č’iħomes ɣun rok’ek’äsit’a resux, łu rok’ek’xosin elur riyxanu.
+Gloss: old-DEF brother-ERG say-PST.UNW daily at.night-AD.ABL we(I).OBL-GEN2 garden-IN.ABL one.at.a.time fruit-GEN1 tree IV-steal-RES.PRT-DISTR IV-find-IPFV.CVB who.ERG IV-steal-PRS.PRT-TOP we(I).OBL-LAT IV-know-PRS-NEG
+Translation: The old brother said: "Every night, there seems to be someone who steals one fruit tree from our garden, and we don't know who it is."
+Sentence: Ɣudes neširuxay elay sist’a heneš kamäsi besux.
+Gloss: daily evening-AD.ABL there-IN.ABL one.each apple get.lost-RES.PRT III-find-PRS
+Translation: Daily in the evening one apple disappears.

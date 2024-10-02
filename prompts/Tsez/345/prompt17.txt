@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word hoq’ˤoni in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word hoq’ˤoni: 
+
+Exact Matches
+Sentence: C’urun-c’aranƛin” eƛin yayxosi k’emot’ mi yiqir, ža hoq’ˤoni reƛ’a atinč’ey q’ˤidar yegirƛin.
+Gloss: tsurun-tsaran-QUOT say-PFV.CVB II-come-PRS.PRT wooden.case you II-take.away DEM1.SG other-DEF hand touch.with-NEG.PST.CVB down-LAT II-let-QUOT
+Translation: Take away the crate that came down when you said 'Tsurun-tsaran!', let the other one down without touching it with the hand!"
+
+Approximate Matches:
+Sentence: Ħolimoƛ’äy muhubi rut’ixozo aɣä hoq’ˤoniqor eƛin, q’ˤidasini howlotow räči ža, ħolimoƛ’osi muhubi rut’oƛin.
+Gloss: mat-SUPER.ABL granule-PL III.PL-collect-IPFV.CVB-ATTR.OBL bird-ERG other-DEF-POSS.LAT say-PST.UNW down-ATTR-DEF there-EMPH III.PL-remain DEM1.SG mat-SUPER.ESS-ATTR granule-PL III.PL-collect-IMPR-QUOT
+Translation: The bird who pecked the granules from the mat said to the other one: "They will remain down there anyway, collect the granules on the mat!"
+Sentence: Sisgon ƛˤeb yet’urno yiħinosi, hoq’ˤonigon ozłer kanłi bayn.
+Gloss: one-CNTR leaf II-pull.out-PFV.CVB II-smear-ANT.CVB other-DEF-CNTR eye-CONT.LAT light III-come-PST.UNW
+Translation: He pulled out a single leaf and after smearing it [onto his eye], the other eye got its eyesight back.

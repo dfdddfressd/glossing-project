@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: łiyƛ’oräy.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": łiyƛ’oräy
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word łiyƛ’oräy:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Iduɣor ayƛ’oräy, ačqˤaq quqix kikoƛ’osi xexbin risno sida q’orolayä yoƛixno esirno:
+Gloss: home-IN.ALL come-SIM.CVB thirst-POSS.ESS dry.out-IPFV.CVB breast-SUPER.ESS-ATTR child-TOP III.PL-take-PFV.CVB one.OBL widow-ERG II-appear-PFV.CVB ask-PST.UNW
+Translation: When coming home, he saw the widow with her child (at her breast), which almost died of thirst, and asked:
+Sentence: Sida quł neširu yisir moƛał rukayn: ħonzaq aħnayƛ’oräy, yisir łˤono gagali besuxƛax - sis mesedyos biłe ƛ’er yołäsi, sideni žawharyos biłe ƛ’er yołäsi, sidenigon yaq’utyos biłe ƛ’er yołäsi.
+Gloss: one.OBL day-CONT.ESS at.night DEM2.ISG.OBL-LAT dream-CONT.ESS IV-see-PST.UNW mountain-PL-POSS.ESS walk.around-SIM.CVB DEM2.ISG.OBL-LAT three flower III-find-PRS-QUOT - one gold-GEN1 III-as color be-RES.PRT the.other.one pearl-GEN1 III-as color be-RES.PRT the.other.one-CNTR ruby-GEN1 III-as color be-RES.PRT
+Translation: One night he had a dream: while walking around the mountains, he found three flowers - one in the color of gold, another one in the color of a pearl and yet another one in the color of ruby.
+Sentence: Igaɣor bayƛ’oräy, hič’č’an yeɣeni esiyagon, babiya nełqor teƛno zawruni, hiƛu kurno.
+Gloss: near-IN.VERS III-come-SIM.CVB the.most-TOP II-young-DEF sister-ERG-CNTR father-ERG DEM1.IISG.OBL-POSS.LAT give-PFV.CVB be.NPRS-PST.PRT-DEF comb throw-PST.UNW
+Translation: When it came closer, the youngest sister threw down the comb that their father had given to her.

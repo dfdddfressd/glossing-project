@@ -1,0 +1,23 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: riħurnosi.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": riħurnosi
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word riħurnosi:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Yisä yisiz madax łäs bic’äsi q’ut’u biħurnosi, zam-zames łäs kik boƛixno.
+Gloss: DEM2.ISG.OBL-ERG DEM2.ISG.OBL-GEN2 yard-AD.ESS water-GEN1 III-fill-RES.PRT earthen.jug III-pour-ANT.CVB Zam-Zam-GEN1 water-GEN1 spring III-appear-PST.UNW
+Translation: After he poured out the water-filled jug in his yard, a spring of holy water appeared.

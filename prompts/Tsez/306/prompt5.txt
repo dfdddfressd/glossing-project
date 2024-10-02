@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word q’ˤoq’ˤoru in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word q’ˤoq’ˤoru: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Xedya žawab teƛno, däq q’ˤoq’ˤorut’a magalabi zows, nesir rigu bišʷa retixosi yołƛin.
+Gloss: husband-ERG answer give-PST.UNW me-POSS.ESS hollow-DISTR bread-PL be.NPRS-PST.WIT DEM1.ISG.OBL-LAT IV-good food IV-like-PRS.PRT be-QUOT
+Translation: The husband answered: "I had hollow breads with me; and he likes good food."

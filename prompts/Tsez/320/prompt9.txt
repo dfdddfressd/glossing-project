@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word mitow in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word mitow: 
+
+Exact Matches
+Sentence: Mi däƛ’ay ežen yoł, däzoƛ’aygon rigu tupin yoł debeq, mitow č’aq’ˤirno nesir bižoƛin eƛin, teƛno anu užä ža aɣi xanez nukarqor.
+Gloss: you me-SUPER.ABL old-TOP be me-ATTR.OBL-SUPER.ABL-CNTR IV-good rifle-TOP be you-POSS.ESS you-EMPH kill-PFV.CVB DEM1.ISG.OBL-LAT III-carry-IMPR-QUOT say-PFV.CVB give-PST.UNW be.NEG boy-ERG DEM1.SG bird khan-GEN2 henchman-POSS.LAT
+Translation: "You are older than me and also you have a rifle better than mine, kill one yourself and carry it to him!" the boy said and didn't give the bird to the king's henchman.
+Sentence: Kidbä eƛin, xanes łiboqan nesistow kid yołƛin, nełde łiboƛ’ izanix mitow oqa ayƛin.
+Gloss: girl-ERG say-PST.UNW khan-GEN1 wrestler DEM1.ISG.OBL-GEN1-EMPH daughter be-QUOT DEM1.IISG.OBL-APUD.ESS wrestling-SUPER.ESS get.up-MSD-AD.ESS you-EMPH become-INF must-QUOT
+Translation: The girl said: "The king's wrestler is his daughter. You have to get into a wrestling fight with her.
+Sentence: Mi nesiqor eƛo, sosi mitow reč’oƛin.
+Gloss: you DEM1.ISG.OBL-POSS.LAT say-IMPR at.first you-EMPH IV-cut-IMPR-QUOT
+Translation: Say to him: 'You chop first!'
+
+Approximate Matches:

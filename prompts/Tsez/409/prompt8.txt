@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bik’in in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bik’in: 
+
+Exact Matches
+Sentence: Bitazoni ɣˤutkarno bik’in bezunosi, elo yizir mesedyos q’ˤano saħ besun.
+Gloss: next-DEF room-IN.LAT-TOP I.PL-go-PFV.CVB I.PL-look-ANT.CVB there DEM2.IPL.OBL-LAT gold-GEN1 two sah III-find-PST.UNW
+Translation: After they went to look into the next room, they found 2 Sah (5 kg) of gold there.
+Sentence: Howlo lilyoxtow yedan xecin, xanderno bik’in ziru c’ok’inayn:
+Gloss: there river.bank-AD.ESS-EMPH DEM2.ISG-and leave-PFV.CVB khan-APUD.LAT-and I.PL-go-PFV.CVB fox scold-PST.UNW
+Translation: When they left the river bank there and went to the king, the fox scolded:
+Sentence: Nełquł sasaq č’ˤurqotow bizin onoču qaciƛ’or bik’in.
+Gloss: on.that.day tomorrow in.the.morning-EMPH III-get.up-PFV.CVB hen firewood-SUPER.LAT III-go-PST.UNW
+Translation: The next day, in the early morning, the hen got up and went after firewood.
+
+Approximate Matches:
+Sentence: Boƛƛo tabanaw mix bik’inosi, Ražbadinƛ’or Tawadis kaɣat yayx, ec’noni barun yown pulanaw ɣudƛ’or Telawär horo, Tiblisä t’et’erno łiyn ayru užis berten boyxosiƛin.
+Gloss: III-middle long time III-go-ANT.CVB Razhbadin-SUPER.LAT Tavadi-GEN1 letter II-come-IPFV.CVB new-DEF wife-TOP II-bring-PFV.CVB a.certain day-SUPER.LAT Telavi-IN.LAT come.IMPR Tbilisi-IN.ESS learn-PFV.CVB end-PFV.CVB come-PST.PRT son-GEN1 marriage III-do-PRS.PRT-QUOT
+Translation: After quite a long time has passed, a letter from Tavadi came to Razhbadin: "Come to Telavi on a certain day and bring your new wife; we are preparing the marriage of my son who came from finishing his studies in Tbilisi."
+Sentence: Iduɣor beza bik’inosi, Tawadir exurno gič’orabin rodin kuräsi uži esun.
+Gloss: home-IN.ALL I.PL-look-INF I.PL-go-ANT.CVB Tavadi-LAT kill-PFV.CVB piece-PL-TOP IV.PL-do-PFV.CVB throw-RES.PRT son find-PST.UNW
+Translation: When they went to look into the room, Tavadi found his son cut dead into pieces.
+Sentence: Neširun biša bik’inosi, esnazar howžatow žek’u esun q’ˤunan reƛ’izad q’ˤimno riqirno, bišadyoƛ’or aq’ˤułno ičäsi.
+Gloss: at.night-TOP I.PL-eat-INF I.PL-go-ANT.CVB brother-PL-LAT DEM4.SG-EMPH man find-PFV.CVB two.OBL-TOP hand-PL-INSTR head-TOP IV-stop-PFV.CVB food-SUPER.LAT sit-PFV.CVB be-RES.PRT
+Translation: When they came to eat dinner there, the brothers found that man there with his two hands supporting him and sitting over his food.

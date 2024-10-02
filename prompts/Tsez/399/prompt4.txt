@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bazargan in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bazargan: 
+
+Exact Matches
+Sentence: Dey xediw nexxoƛin yiła yeda nuci teƛxosi bazargan nesi žade puräza ɣamasya teł uqˤno.
+Gloss: me-GEN1 husband come-PRS-QUOT DEM2.IISG.OBL-ERG DEM2.ISG honey sell-PRS.PRT merchant DEM1.ISG.OBL boy-APUD.ESS side-IN.VERS.DIST box-IN.ESS inside hide-PST.UNW
+Translation: "My husband is coming!", she [said and] hid that honey-selling merchant in the box next to the boy.
+Sentence: Oƛixno k’oƛin tełer reƛ teƛxo zawruni bazargan.
+Gloss: appear-PFV.CVB jump-PST.UNW to.the.inside meat sell-IPFV.CVB be.NPRS-PST.PRT-DEF merchant
+Translation: The merchant who had been selling the meat jumped inside.
+Sentence: Sidaɣ rut’uga quqirxo bazargan esun.
+Gloss: in.one.place carpet dry.out-CAUS-IPFV.CVB merchant find-PST.UNW
+Translation: In some place, he found a merchant who was drying a carpet.
+
+Approximate Matches:
+Sentence: Nesirno aħozizar bayru biłetow sayɣatno boyn, bazarganbi howt’aza boƛixnäy, beč’er žeduƛin harizin rodin, roc’no adäz łenon ħumukulibin ʕaƛaɣor esʷałno yedan ik’in.
+Gloss: DEM1.ISG.OBL-LAT-TOP shepherd-PL-LAT I.PL-come-PST.PRT I.PL-as-EMPH present-TOP III-do-PFV.CVB merchant-PL there-IN.VERS.DIST I.PL-appear-CND.CVB I.PL-stop DEM1.IPL-QUOT request-TOP IV-do-PFV.CVB IV-urge-PFV.CVB ahead five-TOP camel-PL-TOP village-IN.VERS hurry.up-PFV.CVB DEM2.ISG-TOP go-PST.UNW
+Translation: And he also gave to him the same present as to the shepherds who had come, and begged him: "When merchants appear over there, stop them!"; then he urged the five camels forward and hastily went into the village.
+Sentence: Xizyo, babiya äƛiruxor, ža uži bazarganzar teƛno.
+Gloss: afterwards father-ERG ORD-AD.LAT DEM1.SG boy merchant-PL-LAT give-PST.UNW
+Translation: Afterwards, the father sold his boy off to the merchants, as he said.
+Sentence: Užä eniwq bazarganzał raqru šebin esin.
+Gloss: boy-ERG mother-POSS.ESS merchant-PL-CONT.ESS IV-happen-PST.PRT thing tell-PST.UNW
+Translation: The boy told his mother what had happened about the merchants.

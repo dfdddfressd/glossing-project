@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word šebin in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word šebin: 
+
+Exact Matches
+Sentence: Siryos bet’erhanä q’ʷaridno oqno sadaq šebin ik’in ec’noni xanzo baruq esin.
+Gloss: mare-GEN1 master-ERG sadness-TOP become-PFV.CVB all thing go-PFV.CVB new-DEF khan-ATTR.OBL wife-POSS.ESS tell-PST.UNW
+Translation: The mare's master became sad and told the king's new wife how all the things happened.
+Sentence: Sis gut’ riłe šebin rukayxƛin, eƛin bełiqanä.
+Gloss: one smoke IV-as thing IV-see-PRS-QUOT say-PST.UNW hunter-ERG
+Translation: "I see something like smoke.", said the hunter.
+Sentence: Mežus kinaw šebin di xizor rutirno mežus mežuqor neƛan, meža ža karamałi yołalini hibo dey däqor bayrnäyƛin, žawab teƛno žoyä žedur.
+Gloss: you(I).PL.OBL-GEN1 entire thing me back IV-give.back-PFV.CVB you(I).PL.OBL-GEN1 you(I).PL.OBL-POSS.LAT give-FUT.DEF you(I).PL.OBL-ERG DEM1.SG miracle be-ATTR-DEF stick me-GEN1 me-POSS.LAT III-bring-CND.CVB-QUOT answer give-PFV.CVB boy-ERG DEM1.IPL.OBL-LAT
+Translation: "I will give all your things back to you, if you give me back my magic wand," answered the boy them.
+
+Approximate Matches:
+Sentence: Nesi užä mežus ʕumru xʷasar bodäsi boqzaƛ’, nesiłno, Beqes ʕUneyzatełno esnałin risno žeduz bertenyołxor bik’i, ent’aytow ħaƛu-bišanix šebinon rižin.
+Gloss: DEM1.ISG.OBL boy-ERG you(I).PL.OBL-GEN1 life rescue III-do-RES.PRT III-become-CSL.CVB DEM1.ISG.OBL-CONT.ESS-and sun-GEN1 Uneyzat-CONT.ESS-and brother IV-take-PFV.CVB DEM1.IPL.OBL-GEN2 marriage-CONT.VERS I.PL-go from.here-IN.ABL-EMPH eat.and.drink-MSD-AD.ESS something IV-take.out-PFV.CVB
+Translation: Because that boy saved your life, you should fraternize with him and Sun's Uneyzat and go to their marriage after taking something to eat and drink with you."
+Sentence: Yisä kinaw šebinon esin, q’ˤunan esnazar gulubi sayɣat rodin.
+Gloss: DEM2.ISG.OBL-ERG entire something tell-PST.UNW two.OBL-TOP brother-PL-LAT horse-PL present III.PL-do-PST.UNW
+Translation: He told everything and gave his two brothers horses as a present.
+Sentence: Nesiƛ’ bezanixƛin bayru ahlimor žoyä bˤeƛ’es šebint’a teƛxo zown.
+Gloss: DEM1.ISG.OBL-SUPER.ESS I.PL-look-MSD-AD.ESS-QUOT I.PL-come-PST.PRT people-LAT son-ERG sheep-GEN1 thing-DISTR give-IPFV.CVB be.NPRS-PST.UNW
+Translation: The son gave out one sheep each for every person who came to look after him.

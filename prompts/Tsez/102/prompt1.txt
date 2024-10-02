@@ -1,0 +1,29 @@
+We are going to gloss an example in Tsez. We want to predict glosses for the word: Nełƛ’az.
+Give the best three glosses for the word in a JSON list format outlined below.
+
+{
+  "word": Nełƛ’az
+	glosses": [
+    		"_______",
+    		"_______",
+    		"_______"
+  	]
+}
+
+Here are example sentences with the word Nełƛ’az:
+
+Exact Matches
+
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Neła q’orolays zownƛax sis nełƛ’aygon siħiraw yacʕal.
+Gloss: DEM1.IISG.OBL widow-GEN1 be.NPRS-PST.UNW-QUOT one DEM1.IISG.OBL-SUPER.ABL-CNTR cunning female.cousin
+Translation: That widow, so it's said, had a (female) cousin who was more cunning than her.
+Sentence: Kidbä yik’in mat’izaxay oɣo žaƛin babiwqor eƛinosi, nesä inkar bodin, eläy oɣłin nełƛ’ay bigza mečoƛ’or di ža egärinč’iƛin.
+Gloss: girl-ERG II-go-PFV.CVB duck-PL-AD.ABL take.away-IMPR DEM1.SG-QUOT father-POSS.LAT say-ANT.CVB DEM1.ISG.OBL-ERG rejection III-do-PFV.CVB there-IN.ABL take.away-CNC.CVB DEM1.IISG.OBL-SUPER.ABL III-well-ZA place-SUPER.LAT me DEM1.SG let-NEG.FUT-QUOT
+Translation: When the daughter went and told her father: "Let him away from the ducks!", he rejected and said: "I won't let him to a place better than this one."
+Sentence: Nełƛ’aza di nełas kut’yoƛ’asi k’onč’u šiqˤono yołƛin eƛis”.
+Gloss: DEM1.IISG.OBL-SUPER.VERS.DIST me DEM1.IISG.OBL-GEN1 right foot lame be-QUOT say-PST.WIT
+Translation: This is why I said that its right foot is lame."

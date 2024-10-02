@@ -1,0 +1,21 @@
+Based on the examples, provide three possible glosses for the
+Tsez word muži in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word muži: 
+
+Exact Matches
+Sentence: Raɣäza akix där muži kuroƛin.
+Gloss: veranda-IN.VERS.DIST window-AD.ESS me-LAT mattress spread.out-IMPR-QUOT
+Translation: Spread out a mattress for me at the window on the veranda!"
+Sentence: Neła sida yečiw ačit’yoq muži bodäsi zown.
+Gloss: DEM1.IISG.OBL-ERG one.OBL II-thick pine-POSS.ESS nest III-do-RES.PRT be.NPRS-PST.UNW
+Translation: It was building a nest on a thick pine tree.
+Sentence: Neła ɣunoƛ’ ƛ’iri ceyes xexoyabi teł yołäsi muži zown.
+Gloss: DEM1.IISG.OBL tree-SUPER.ESS above eagle-GEN1 young.animal-PL inside be-RES.PRT nest be.NPRS-PST.UNW
+Translation: On that tree there was a nest with young eagles inside.
+
+Approximate Matches:

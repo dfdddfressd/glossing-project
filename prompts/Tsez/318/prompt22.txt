@@ -1,0 +1,15 @@
+Based on the examples, provide three possible glosses for the
+Tsez word bukarinč’uwa in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word bukarinč’uwa: 
+
+Exact Matches
+
+Approximate Matches:
+Sentence: Däz č’ikayägon mi yukarinč’us yołi, łarnokin debi roƛxosi yałrułin riya zownč’u, min yexa zowsƛin”, - eƛin eɣeni esiya.
+Gloss: me-GEN2 mirror-CNTR you II-show-NEG.PST.WIT-PST.WIT if who.OBL-LAT-TOP-even you-GEN1 IV-be.sick-PRS.PRT be-PST.PRT-NMLZ-and IV-know-INF be.NPRS-NEG.PST.WIT you-TOP II-die-INF be.NPRS-PST.WIT-QUOT - say-PST.UNW young-DEF brother-ERG
+Translation: "If my mirror hadn't shown you, nobody would have known that you were sick, and you would have died", said the younger brother.

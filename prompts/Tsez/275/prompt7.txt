@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word aq’iw in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word aq’iw: 
+
+Exact Matches
+Sentence: Welečo, aq’iw maħ yołalini žek’u, oxi uqˤło.
+Gloss: look.out.IMP-INT foreign smell be-ATTR-DEF man run.away hide-IMPR
+Translation: "Look out, man with the foreign spirit, run away and hide!
+Sentence: Kidbä eƛin, t’o sis aq’iw ʕoloqanaw uži yoł, eluz ʕaƛaysin anu žaƛin.
+Gloss: girl-ERG say-PST.UNW there one strange young boy be we(I).OBL-GEN2 village-IN.ABL-ATTR-TOP be.NEG DEM1.SG-QUOT
+Translation: The girl said: "There is a strange young boy and he is not someone from our village."
+Sentence: Hemeł qułtow ečruni ɣˤanaza naysinan ʕaƛozał xabar begirno, däde idu aq’iw kid yołƛin.
+Gloss: DEM4.IISG.OBL day-CONT.ESS-EMPH old-DEF woman-ERG everywhere village-PL-CONT.ESS story III-send-PFV.CVB me-APUD.ESS home foreign girl be-QUOT
+Translation: On this day, the old woman spread the story everywhere in among the villages: "I have an alien girl at home!"
+
+Approximate Matches:
+Sentence: Xizor utin Pat’imatno yižin nesä nesiz ʕaƛaɣorno ik’in, mi däƛ’ay ʕaq’ilawn, c’odorawn zownƛin xanłin nełaqor teƛno žan paraxat ičin.
+Gloss: back turn.back-PFV.CVB Fatima-TOP II-lead-PFV.CVB DEM1.ISG.OBL-ERG DEM1.ISG.OBL-GEN2 village-IN.VERS-TOP go-PST.UNW you me-SUPER.ABL intelligent-and clever-and be.NPRS-PST.UNW-QUOT khanate-TOP DEM1.IISG.OBL-POSS.LAT give-PST.UNW DEM1.SG-TOP calmly live-PST.UNW
+Translation: He returned with Fatima into his own village: "You are more intelligent and cleverer than me!", gave her the kingdom and lived calmly ever after.
+Sentence: Howži žedu nesiƛ’or butin, neƛ elur araq’iƛin.
+Gloss: now DEM1.IPL DEM1.ISG.OBL-SUPER.LAT I.PL-turn-PFV.CVB give we(I).OBL-LAT vodka-QUOT
+Translation: Now they turned on him: "Give us the vodka!"
+Sentence: Xan c’aq’tow ħikmałiłer egin, nece ʕaq’ilaw yizi xexzar didur di diwan bodanƛin.
+Gloss: khan too-EMPH astonishment-CONT.LAT stand.still-PFV.CVB so.much intelligent DEM2.IPL.OBL children-LAT how me judgement III-do-FUT.DEF-QUOT
+Translation: The king stood still in astonishment about how he could make a judgement for these so intelligent children.

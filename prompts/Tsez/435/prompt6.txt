@@ -1,0 +1,27 @@
+Based on the examples, provide three possible glosses for the
+Tsez word ik’is in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word ik’is: 
+
+Exact Matches
+Sentence: Babiw kodyox ik’is, eniw neside dandir ʕiyada yik’isƛin”.
+Gloss: father to.the.fireplace go-PST.WIT mother DEM1.ISG.OBL-APUD.ESS together cry-INF II-go-PST.WIT-QUOT
+Translation: "Father went to an evening gathering, mother went to cry for him at the meeting."
+Sentence: Elaygon beƛ’q’ˤun bižin aħołun ik’is.
+Gloss: there-IN.ABL-CNTR sheep-TOP III-carry-PFV.CVB shepherd-LHUN go-PST.WIT
+Translation: From there I went as a shepherd to carry sheep.
+
+Approximate Matches:
+Sentence: Q’ʷaridno boqno ɣʷˤadä eƛin, wallahi, šomon ħon xecin bik’is di, hudun šebintow riqinč’ey nexƛ’oräy, sidaɣ simildis muhu besun howdagon boqłin bižanƛin bowƛ’oräy, adäzar osiw ħonno keze yoqno soder biziƛ’oräy biynč’ey bigin bok’ełsi.
+Gloss: sadness-TOP III-become-PFV.CVB crow-ERG say-PST.UNW by.God how.many-TOP mountain leave-PFV.CVB III-go-PST.WIT me nevertheless thing-EMPH IV-get-NEG.PST.CVB come-SIM.CVB in.one.place maize-GEN1 granule III-find-PFV.CVB DEM3.SG-CNTR III-become-CNC.CVB III-take.out-FUT.DEF-QUOT III-bring-SIM.CVB ahead-IN.LAT high mountain-TOP meet II-become-PFV.CVB upward III-get.up-SIM.CVB III-know-NEG.PST.CVB III-swallow-PFV.CVB III-lose-PST.WIT
+Translation: The crow became sad and said: "By God, I passed so many mountains; nevertheless while I didn't get anything, I found a grain of maize somewhere and [thinking:] "I will take it anyway!", so while I carried it here anyway, I encountered a high mountain, and while flying higher, I accidentally swallowed and [thus] lost it.
+Sentence: Di mečołxor yik’isƛin.
+Gloss: me field-CONT.VERS II-go-PST.WIT-QUOT
+Translation: I went to the field."
+Sentence: Bełiqa eƛin, däz madax yedu nediw ɣˤutku där roqa räti, didur eƛa riynč’ey howt’or rayza čantaƛ’osi iƛ’u yoɣełno yik’isƛin.
+Gloss: hunter-ERG say-PST.UNW me-GEN2 yard-AD.ESS DEM2.IISG such house me-LAT IV-become-INF IV-want how say-INF IV-know-NEG.PST.CVB here-LAT IV-come-LCV pocket-SUPER.ESS-ATTR lid II-take.away-POT-PFV.CVB II-go-PST.WIT-QUOT
+Translation: The hunter said: "I would like such a house to be in my yard, but accidentally somehow the pocket's lid opened here where I came to and went away."

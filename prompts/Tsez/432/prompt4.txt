@@ -1,0 +1,30 @@
+Based on the examples, provide three possible glosses for the
+Tsez word nełas in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word nełas: 
+
+Exact Matches
+Sentence: Bertenyoł šeƛ’anix baħarčis šeƛ’ureł xizay yiłagon q’orolay yegirno, neła nełas šeƛ’un nełar xecin.
+Gloss: marriage-CONT.ESS put.on-MSD-AD.ESS brave.young.man-GEN1 clothing-CONT.ESS behind DEM2.IISG.OBL-ERG-CNTR widow II-let-PFV.CVB DEM1.IISG.OBL-ERG DEM1.IISG.OBL-GEN1 put.on-PST.UNW DEM1.IISG.OBL-LAT leave-PST.UNW
+Translation: In order to dress up for the marriage, she let the widow look after young men's clothings and left her own clothes with her.
+Sentence: Neła mixƛ’o yisä k’oƛin nełas kodi biqirno.
+Gloss: DEM1.IISG.OBL-ERG time-SUPER.ESS DEM2.ISG.OBL-ERG run-PFV.CVB DEM1.IISG.OBL-GEN1 hair III-take.away-PST.UNW
+Translation: At that time, he ran and took her by her hair.
+Sentence: Aždaħes yaqru nˤoƛun łacqo yižirno, nełas zawru šinaw xazina mesedno bižin, Baxumesedun guluƛ’ zowrno Kidiro Žabulawder ik’in.
+Gloss: dragon-GEN1 II-become-PST.PRT ashes-TOP wind-POSS.ESS II-carry-CAUS-PFV.CVB DEM1.IISG.OBL-GEN1 be.NPRS-PST.PRT every treasure gold-and III-carry-PFV.CVB Bakhumesed-and horse-SUPER.ESS seat-PFV.CVB Kidero Jabulaw-APUD.LAT go-PST.UNW
+Translation: He let the wind carry away ashes of the dragon, took all the gold from its treasures, seated Bakhumesed on a horse, and went to Jabulaw in Kidero.
+
+Approximate Matches:
+Sentence: Mi esiwq eso, sidaɣ mečoƛ’ sis aždaħno, nełasgon łˤono xexoyn yoł.
+Gloss: you brother-POSS.ESS tell-IMPR in.one.place place-SUPER.ESS one dragon-and DEM1.IISG.OBL-GEN1-CNTR three young.animal-and be
+Translation: Tell your brother that there is a dragon and its three youngs in some place.
+Sentence: Sis zown eniwn nełasgon łˤono kidno.
+Gloss: one be.NPRS-PST.UNW mother-TOP DEM1.IISG.OBL-GEN1-CNTR three daughter-TOP
+Translation: Once there was a mother who had three daughters.
+Sentence: C’iɣruk’ä yeɣeni kidbes iyos q’ut’un bic’no, nełastow ħamorok’un roɣno adäz eqerno, maqˤäytow aždaħqor qˤaƛin, biša ħaƛis, howži idur bik’iƛin.
+Gloss: Tsighruk-ERG II-young-DEF daughter-GEN1 blood-GEN1 earthen.jug-TOP III-fill-PFV.CVB DEM1.IISG.OBL-GEN1-EMPH breast-TOP IV-take.away-PFV.CVB ahead put-PFV.CVB far.away-IN.ABL-EMPH dragon-POSS.LAT shout-PST.UNW food organize-PST.WIT now home-LAT III-go-QUOT
+Translation: Tsighruk filled the youngest daughter's blood into an earthen jug, took her breast and put it before himself and shouted from far away to the dragon: "I organized the food, now I'm going home!"

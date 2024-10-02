@@ -1,0 +1,18 @@
+Based on the examples, provide three possible glosses for the
+Tsez word Sasaqozox in Leipzig format:
+
+answer = [ option_one,
+           option_two,
+           option_three ];
+
+Here are example sentences with the word Sasaqozox: 
+
+Exact Matches
+Sentence: Yisi užä yedu kid idurno yižin, sasaqozox nasin moƛaxay bizinosi, eƛin, eni, mi hek’uyax eč’uri roda yik’inäy, yiła iduzasi radi, di ciqaɣor ik’anƛin.
+Gloss: DEM2.ISG.OBL boy-ERG DEM2.IISG girl home-LAT-TOP II-lead-PFV.CVB early.morning all sleep-AD.ABL III-get.up-ANT.CVB say-PFV.CVB mother you potatoe-AD.ESS weeding IV-do-INF II-go-CND.CVB DEM2.IISG.OBL-ERG home-PL-ATTR IV-do me forest-IN.VERS go-FUT.DEF-QUOT
+Translation: The boy took the girl home and in the early morning, when everyone got up from their sleeps, he said: "Mother, if you go to weed the potatoes, she will do the housework and I will go into the forest."
+
+Approximate Matches:
+Sentence: Neła quł sasaqozoxgon ɣurox žade sadaq babiwn ik’in.
+Gloss: DEM1.IISG.OBL day-CONT.ESS early.morning-CNTR cows-AD.ESS boy-APUD.ESS together father-TOP go-PST.UNW
+Translation: The next day in the early morning, the father went together with the boy to pasture the cows.
