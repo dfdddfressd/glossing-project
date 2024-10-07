@@ -1,4 +1,11 @@
-We are going to gloss an example in {LANGUAGE}. We want to predict glosses for the word: {WORD} using Leipzig glossing symbols. The sentence this word is drawn from means: "{TRANSLATION}".
+We are going to gloss an example in {LANGUAGE}. Your task is to predict glosses for the word: {WORD} using interlinear glossed text (IGT) and following the Leipzig
+glossing conventions. The sentence this word is drawn from means: "{TRANSLATION}".
+
+
+Here are example sentences with the word {WORD}:
+
+{EXAMPLES}
+
 
 Give the best three glosses for the word in a JSON list format outlined below.
 
@@ -11,6 +18,3 @@ Give the best three glosses for the word in a JSON list format outlined below.
   	]
 }}
 
-Here are example sentences with the word {WORD}:
-
-{EXAMPLES}
