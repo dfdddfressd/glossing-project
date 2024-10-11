@@ -9,13 +9,15 @@ from searching_string import *
 from sentence_split import *
 from glosser import glossSentence
 from glosser import createFinal
+from create_final_only import createFinalTranscripts
 import os
 
 if __name__ == "__main__":
-    os.environ["OPENAI_API_KEY"] = ""
-    #llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.7)
+    #os.environ["OPENAI_API_KEY"] = ""
+    #llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.25)
+    llm = ChatOpenAI(model="gpt-4o", temperature=0.25)
     #llm = Ollama(model="llama2")
-    llm = None
+    #llm = None
     prompt_template = ChatPromptTemplate.from_template(
         template="You are a helpful assistant. {prompt}"
     )
@@ -24,7 +26,7 @@ if __name__ == "__main__":
     language = sys.argv[1]
 
     langInfo = readLanguage(language)
-    (_, devSents, _, _) = readLanguage(language, split="debug")
+    (_, devSents, _, _, _) = readLanguage(language, split="debug")
     
     for count, sentence in enumerate(devSents):
         promptPath = f"prompts/{language}/{count}"
@@ -40,30 +42,4 @@ if __name__ == "__main__":
                       templatePath="originalfile.txt",
                       noLM=False)
 
-    total = ""       
-    for index, group in enumerate(devSents):
-        sentenceGlosses = []
-        try:
-            x = createFinal(f"outputs/Tsez/{index}/output.txt")
-            ##print("The return value is: ", x)
-            ##print(index, group)
-            sentence, dummy, translation, dummyTwo = group
-            for myDict in x:
-                glosses = myDict["glosses"]
-                sentenceGlosses.append(".".join(glosses[0].split()))
-        except:
-            break
-
-        if len(sentence_split(sentence)) != len(sentenceGlosses):
-            print(f"Warning: gloss length mismatch: {index}")
-
-        y = " "
-        output = (f"\\t{sentence}\n")
-        output += (f"\\g {y.join(sentenceGlosses)}\n")
-        output += ((f"\\l{translation}\n\n"))
-        total += output
-    
-    with open("final.txt", "w", encoding="utf-8") as file:
-        file.write(total)
-            
-
+    createFinalTranscripts(language, devSents, finalSelection="first")

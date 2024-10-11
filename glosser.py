@@ -8,7 +8,7 @@ from searching_string import *
 from sentence_split import *
 import os
 import json
-
+from json_scanner import JSONScanner
 
 def glossSentence(sentence, langInfo, llm, prompt_template,
                   promptPath, outputPath, templatePath, verbose=False,
@@ -58,17 +58,15 @@ def createFinal(filename):
         everything = jsonfh.read()
     
     output = []
-    dec = json.JSONDecoder()
-    pos = 0
+    dec = JSONScanner(everything)
 
     everything = fixQuotes(everything)
     
     while True:
         try:
-            structure, pos = dec.raw_decode(everything, pos)
-            pos += 1
+            structure = dec.scan()
             output.append(structure)
-        except json.JSONDecodeError as e:
+        except StopIteration as e:
             #print(filename, e)
             break
     return(output)

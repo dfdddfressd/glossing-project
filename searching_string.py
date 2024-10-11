@@ -4,6 +4,8 @@ from collections import Counter, defaultdict
 import re
 import random
 
+from nltk.stem import WordNetLemmatizer as wnl
+
 def sentence_split(prompt):
     condition = re.compile(r"\b[\w'-’]+\b")    
     words = condition.findall(prompt)
@@ -45,6 +47,23 @@ def lcsubstring(s1, s2):
                 lcsuff[i][j] = 0
     return result
 
+def lcsubseq(s1, s2):
+    #https://stackoverflow.com/questions/48651891/longest-common-subsequence-in-python
+    matrix = [["" for x in range(len(s2))] for x in range(len(s1))]
+    for i in range(len(s1)):
+        for j in range(len(s2)):
+            if s1[i] == s2[j]:
+                if i == 0 or j == 0:
+                    matrix[i][j] = s1[i]
+                else:
+                    matrix[i][j] = matrix[i-1][j-1] + s1[i]
+            else:
+                matrix[i][j] = max(matrix[i-1][j], matrix[i][j-1], key=len)
+
+    cs = matrix[-1][-1]
+
+    return len(cs)
+
 def makeIndex(sentences):
     wordToSentence = defaultdict(list)
     for group in sentences:
@@ -53,6 +72,47 @@ def makeIndex(sentences):
             wordToSentence[word].append((og_sentence, gloss, trans))
 
     return wordToSentence
+
+def findGlossElement(word, lemmas, gloss, object_words):
+    for ind, gi in enumerate(gloss):
+        elements = re.split("[.-]", gi)
+        if any([xx in [word,] + lemmas for xx in elements]):
+            return (object_words[ind], gi)
+
+    return None, None
+
+def lemmatize(word, lemmatizer):
+    verb_lemmas = lemmatizer._morphy(word, "v")
+    lemma_x = lemmatizer.lemmatize(word)
+    if lemma_x not in verb_lemmas:
+        return verb_lemmas + [lemma_x]
+    else:
+        return verb_lemmas
+
+def makeMetalanguageIndex(sentences):
+    wordToSents = defaultdict(list)
+    wordToGlosses = defaultdict(Counter)
+
+    lemmatizer = wnl()
+
+    for group in sentences:
+        og_sentence, gloss, trans, _ = group
+        gloss = gloss.split()
+        object_words = [xx.lower().strip(".,\"'") for xx in og_sentence.split()]
+        if len(gloss) != len(object_words):
+            print(gloss, object_words)
+        assert(len(gloss) == len(object_words))
+        
+        for index, word in enumerate(sentence_split(trans)):
+            word = word.lower()
+            lemmas = lemmatize(word, lemmatizer)
+            trans_word, gloss_item = findGlossElement(word, lemmas, gloss, object_words)
+            wordToSents[word].append((og_sentence, gloss, trans))
+
+            if trans_word != None:
+                wordToGlosses[word][(trans_word, gloss_item)] += 1
+
+    return wordToSents, wordToGlosses
 
 def lcsMatch(queryWord, approxIndex, wordToSentence, length):
     rankedExamples = set()
@@ -108,6 +168,82 @@ def findMatches(userInput, wordToSentence, approxIndex):
     
     return(str(output))
 
+def frequentTags(word, wordToSentence):
+    exactExamples = wordToSentence.get(word, [])
+    tagCounts = Counter()
+    featureCounts = Counter()
+
+    for example in exactExamples:
+        og_sentence, gloss, translation = example
+        ind = sentence_split(og_sentence).index(word)
+        gloss = gloss.split()[ind]
+        tagCounts[gloss] += 1
+        for feature in gloss.split("-"):
+            if feature.isupper():
+                featureCounts[feature] += 1
+
+    return tagCounts, featureCounts
+
+def fitsPattern(object_word, glosses):
+    if len(glosses) < 2:
+        return False #no evidence about how to translate
+    
+    object_word = object_word.lower()
+    glItems = [xx for xx, ct in glosses.most_common(8)]
+    
+    lcsObToGl = []
+    lcsGlToGl = []
+    
+    for (word, gloss) in glItems:
+        lcs = lcsubseq(object_word, word)
+        lcsObToGl.append(lcs)
+
+    for ii, (wordI, glossI) in enumerate(glItems):
+        for jj, (wordJ, glossJ) in enumerate(glItems):
+            if jj < ii:
+                lcs = lcsubseq(wordI, wordJ)
+                lcsGlToGl.append(lcs)
+
+    meanGlToGl = sum(lcsGlToGl) / len(lcsGlToGl)
+    meanObToGl = sum(lcsObToGl) / len(lcsObToGl)
+
+    # print(f"Does {object_word} fit into {glItems}?")
+    # print(f"{lcsObToGl} vs {lcsGlToGl}? {meanObToGl} {meanGlToGl}")
+
+    return meanObToGl + 1 > meanGlToGl
+
+def filteredMetalanguageWords(object_word, trans, metaInfo):
+    wordToSent, wordToGloss = metaInfo
+    transWords = [xx.lower() for xx in sentence_split(trans)]
+
+    result = ""
+
+    for ti in set(transWords):
+        glosses = wordToGloss[ti]
+        if glosses:
+            if fitsPattern(object_word, glosses):
+                best = glosses.most_common(5)
+                if best:
+                    fBest = [f"{word} ({gloss})" for ((word, gloss), count) in best]
+                    result += f"Words for \"{ti}\" include: {', '.join(fBest)}\n"
+
+    return result
+                    
+def findMetalanguageWords(trans, metaInfo):
+    wordToSent, wordToGloss = metaInfo
+    transWords = [xx.lower() for xx in sentence_split(trans)]
+
+    result = ""
+
+    for ti in set(transWords):
+        glosses = wordToGloss[ti]
+        best = glosses.most_common(5)
+        if best:
+            fBest = [f"{word} ({gloss})" for ((word, gloss), count) in best]
+            result += f"Some translations of \"{ti}\" include: {', '.join(fBest)}\n"
+
+    return result
+
 def makeApproxIndex(wordToSentence, length=4):
     subToWord = defaultdict(list)
     
@@ -126,13 +262,26 @@ def readLanguage(language, glossDir="2023glossingST-main", split="train"):
     sentences = readData(path)
     wordToSentence = makeIndex(sentences)
     subToWord = makeApproxIndex(wordToSentence)
-    return (language, sentences, wordToSentence, subToWord)
+    metaIndices = makeMetalanguageIndex(sentences)
+    return (language, sentences, wordToSentence, subToWord, metaIndices)
 
 def createPrompt(word, filePath, langInfo, trans="",
                  promptTemplate="originalfile.txt"):
-    (language, sentences, wordToSentence, subToWord) = langInfo
+    (language, sentences, wordToSentence, subToWord, metaInfo) = langInfo
+
+    freqTags, freqFeats = frequentTags(word, wordToSentence)
+    if len(freqTags) == 0:
+        formattedTags = "Unknown"
+        formattedFeats = "Unknown"
+    else:
+        formattedTags = ", ".join([tag for (tag, count) in freqTags.most_common(5)])
+        formattedFeats = ", ".join([feat for (feat, count) in freqFeats.most_common(5)])
     
-    instanceDict = {"WORD" : word, "LANGUAGE" : language, "TRANSLATION": trans, "EXAMPLES" : findMatches(word, wordToSentence, subToWord)}
+    instanceDict = {"WORD" : word, "LANGUAGE" : language, "TRANSLATION": trans,
+                    "EXAMPLES" : findMatches(word, wordToSentence, subToWord),
+                    "TRANSLATION_EXAMPLES" : filteredMetalanguageWords(word, trans, metaInfo),
+                    "FREQUENT_TAGS" : formattedTags,
+                    "FREQUENT_FEATS" : formattedFeats, }
 
     with open(promptTemplate, "r") as originalfh:
         text = "".join(originalfh.readlines())

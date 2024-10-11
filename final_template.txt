@@ -1,0 +1,10 @@
+We are glossing a sentence in the Leipzig format. For each word in the sentence, there are three candidate glosses listed below. Select a sequence of glosses which match the meaning of the translation. Make sure the gloss reflects the meaning of the translation, and that no element of the translation appears more than once in the gloss. Make sure that agreement markers are consistent throughout, and select glosses with functional tags that match the role of the word in the sentence. Glosses should use function tags, not English morphology, to indicate grammatical information: for instance, "monkey-PL" is preferable to "monkeys".
+
+Translation: {TRANSLATION}
+
+{SENTENCE_AND_GLOSS}
+
+Write the number of the best candidate (1, 2 or 3) for each word in the following JSON list:
+
+{OUTPUT_LIST}
+

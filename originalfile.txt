@@ -1,6 +1,6 @@
-We are going to gloss an example in {LANGUAGE}. We want to predict glosses for the word: {WORD} using Leipzig glossing symbols. The sentence this word is drawn from means: "{TRANSLATION}".
+We are going to gloss an example in {LANGUAGE}. We want to predict glosses for the word "{WORD}". The sentence this word is drawn from means: "{TRANSLATION}".
 
-Give the best three glosses for the word in a JSON list format outlined below.
+Gloss the word using Leipzig glossing symbols. Glosses should use function tags, not English morphology, to indicate grammatical information: for instance, "monkey-PL" is preferable to "monkeys". Give the best three glosses for the word in a JSON list format outlined below.
 
 {{
   "word": "{WORD}",
@@ -11,6 +11,17 @@ Give the best three glosses for the word in a JSON list format outlined below.
   	]
 }}
 
-Here are example sentences with the word {WORD}:
+The word {WORD} often appears with the following tags (but it may also appear with similar tags that are not shown here):
+
+{FREQUENT_TAGS}
+
+It appears with the following features (but it may also appear with related features that are not shown here):
+
+{FREQUENT_FEATS}
+
+Here are example sentences with the word {WORD}. Exact matches are the most reliable; use an exact match if you can. Otherwise, use the approximate matches and word lists:
 
 {EXAMPLES}
+
+{TRANSLATION_EXAMPLES}
+
