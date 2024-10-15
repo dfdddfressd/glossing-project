@@ -1,0 +1,5 @@
+Here are some examples which highlight the differences between {TAG1} and {TAG2} in {LANGUAGE}.
+
+{EXAMPLES}
+
+Before doing anything else, explain briefly the differences between {TAG1} and {TAG2} in this language. Your explanation must be based on the data above.
