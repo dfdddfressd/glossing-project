@@ -168,6 +168,23 @@ def findMatches(userInput, wordToSentence, approxIndex):
     
     return(str(output))
 
+def getTag(gloss):
+    elements = re.split("([.-])", gloss)
+
+    def validFeat(glSym):
+        return (not glSym.islower() and
+                not glSym.istitle() and
+                any([ch.isalnum() for ch in glSym]))
+    
+    keep = [validFeat(ei) for ei in elements]
+    xKeep = keep[:]
+    for ind in range(len(keep)):
+        if keep[ind] and ind + 1 < len(keep):
+            xKeep[ind + 1] = True
+
+    xElts = [ei for (ei, ki) in zip(elements, xKeep) if ki]
+    return "".join(xElts)
+
 def frequentTags(word, wordToSentence):
     exactExamples = wordToSentence.get(word, [])
     tagCounts = Counter()
@@ -178,9 +195,8 @@ def frequentTags(word, wordToSentence):
         ind = sentence_split(og_sentence).index(word)
         gloss = gloss.split()[ind]
         tagCounts[gloss] += 1
-        for feature in gloss.split("-"):
-            if feature.isupper():
-                featureCounts[feature] += 1
+        for feature in getTag(gloss).split("-"):
+            featureCounts[feature] += 1
 
     return tagCounts, featureCounts
 
@@ -254,7 +270,19 @@ def makeApproxIndex(wordToSentence, length=4):
 
     return subToWord
 
+def makeWordToTagIndex(sentences):
+    index = defaultdict(set)
+    for sentence in sentences:
+        og_sentence, gloss, translation, _ = sentence
+        words = sentence_split(og_sentence)
+        glosses = gloss.split()
+        for (wi, gi) in zip(words, glosses):
+            index[wi].add(getTag(gi))
+
+    return index
+
 def readLanguage(language, glossDir="2023glossingST-main", split="train"):
+    #replace with a class!
     path = f"{glossDir}/data/{language}/"
     files = os.listdir(path)
     langcode = files[0].split("-")[0]
@@ -262,12 +290,97 @@ def readLanguage(language, glossDir="2023glossingST-main", split="train"):
     sentences = readData(path)
     wordToSentence = makeIndex(sentences)
     subToWord = makeApproxIndex(wordToSentence)
+    wordToTags = makeWordToTagIndex(sentences)
     metaIndices = makeMetalanguageIndex(sentences)
-    return (language, sentences, wordToSentence, subToWord, metaIndices)
+    return (language, sentences, wordToSentence, subToWord, wordToTags, metaIndices)
+
+def getExampleWithTag(word, wordToSentence, tag):
+    exactExamples = wordToSentence.get(word, [])
+    random.shuffle(exactExamples)
+    for example in exactExamples:
+        og_sentence, gloss, translation = example
+        ind = sentence_split(og_sentence).index(word)
+        gloss = gloss.split()[ind]
+        #print("gloss item for", word, "is", gloss)
+        if getTag(gloss) == tag:
+            return example        
+
+def makeConfusedTagBlock(confusedTags, freqTags, langInfo, promptTemplate="confused_tag_template.txt"):
+    (language, sentences, wordToSentence, subToWord, wordToTags, metaIndices) = langInfo
+
+    t2 = None
+
+    #print("checking for tag confusions at", freqTags.most_common())
+    
+    #find a tag which might be relevant here, and is confused with a partner t2
+    for t1 in freqTags:
+        #print(t1, getTag(t1), confusedTags, getTag(t1) in confusedTags)
+        if getTag(t1) in confusedTags:
+            t1 = getTag(t1)
+            t2 = confusedTags[getTag(t1)]
+            break
+
+    #if we can't find one, nothing to do
+    if t2 is None:
+        return ""
+
+    #print("found another tag", t1, t2)
+
+    #find single words which occur with both t1 and t2
+    wordExamples = []
+    for word, tags in wordToTags.items():
+        if t1 in tags and t2 in tags:
+            wordExamples.append(word)
+
+    #print("words which have both", t1, "and", t2, wordExamples)
+            
+    #for now, only get examples if we have real contrastive ones... but consider later
+    if not wordExamples:
+        return ""
+
+    random.shuffle(wordExamples)
+    
+    #get examples of each type
+    exes = []
+    for word in wordExamples:
+        e1 = getExampleWithTag(word, wordToSentence, t1)
+        e2 = getExampleWithTag(word, wordToSentence, t2)
+        exes.append((e1, e2, word))
+        
+    #subselect the examples so we only have 3 max
+    exes = exes[:3]
+
+    formattedExes = ""
+    for (e1, e2, word) in exes:
+        formattedExes += f"Examples of {word} with both tags:\n"
+        for ei in (e1, e2):
+            og_sentence, gloss, translation = ei            
+            formattedExes += ("\nSentence:" + og_sentence)
+            formattedExes += ("\nGloss:" + gloss)
+            formattedExes +=("\nTranslation:" + translation)
+        formattedExes += "\n\n"
+
+    with open(promptTemplate, "r") as originalfh:
+        text = "".join(originalfh.readlines())
+
+    if t1 == "":
+        t1 = '""'
+    if t2 == "":
+        t2 = '""'
+        
+    instanceDict = {
+        "LANGUAGE" : language,
+        "TAG1" : t1,
+        "TAG2" : t2,
+        "EXAMPLES" : formattedExes
+        }
+        
+    filledPrompt = text.format(**instanceDict)
+    return filledPrompt    
 
 def createPrompt(word, filePath, langInfo, trans="",
-                 promptTemplate="originalfile.txt"):
-    (language, sentences, wordToSentence, subToWord, metaInfo) = langInfo
+                 promptTemplate="originalfile.txt", confusedTags={}):
+    (language, sentences, wordToSentence, subToWord, wordToTags, metaInfo) = langInfo
 
     freqTags, freqFeats = frequentTags(word, wordToSentence)
     if len(freqTags) == 0:
@@ -276,12 +389,25 @@ def createPrompt(word, filePath, langInfo, trans="",
     else:
         formattedTags = ", ".join([tag for (tag, count) in freqTags.most_common(5)])
         formattedFeats = ", ".join([feat for (feat, count) in freqFeats.most_common(5)])
+
+    #hardcoded tag confusions: change me
+    confusedTags = { "PFV.CVB" : "PST.UNW",
+                     "PST.UNW" :  "PFV.CVB",
+                     "" : "TOP",
+                     "TOP" : "",
+                     'III.PL-PFV.CVB' : 'IV-PFV.CVB',
+                     'IV-PFV.CVB' : 'III.PL-PFV.CVB',
+                     }
     
+    confusedTagBlock = makeConfusedTagBlock(confusedTags, freqTags, langInfo)
+        
     instanceDict = {"WORD" : word, "LANGUAGE" : language, "TRANSLATION": trans,
                     "EXAMPLES" : findMatches(word, wordToSentence, subToWord),
                     "TRANSLATION_EXAMPLES" : filteredMetalanguageWords(word, trans, metaInfo),
                     "FREQUENT_TAGS" : formattedTags,
-                    "FREQUENT_FEATS" : formattedFeats, }
+                    "FREQUENT_FEATS" : formattedFeats,
+                    "CONFUSED_TAG_BLOCK" : confusedTagBlock,
+                    }
 
     with open(promptTemplate, "r") as originalfh:
         text = "".join(originalfh.readlines())

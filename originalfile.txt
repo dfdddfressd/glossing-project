@@ -1,6 +1,8 @@
+{CONFUSED_TAG_BLOCK}
+
 We are going to gloss an example in {LANGUAGE}. Your task is to predict glosses for the word: {WORD} using interlinear glossed text (IGT) and following the Leipzig glossing conventions. The sentence this word is drawn from means: "{TRANSLATION}".
 
-Glosses should use function tags, not English morphology, to indicate grammatical information: for instance, "monkey-PL" is preferable to "monkeys". Give the best three glosses for the word in a JSON list format outlined below.
+Glosses should use function tags, not English morphology, to indicate grammatical information: for instance, "monkey-PL" is preferable to "monkeys". Give the best three glosses for the word (in order, best to worst) in a JSON list format outlined below.
 
 {{
   "word": "{WORD}",

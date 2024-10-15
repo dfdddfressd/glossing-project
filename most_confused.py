@@ -4,7 +4,7 @@ import re
 import sys
 import argparse
 
-from searching_string import readData
+from searching_string import readData, getTag
 
 def get_args():
     parser = argparse.ArgumentParser()
@@ -12,11 +12,6 @@ def get_args():
     parser.add_argument("--pred")
     args = parser.parse_args()
     return args
-
-def getTag(gloss):
-    elements = re.split("[.-]", gloss)
-    elements = [ei for ei in elements if not ei.islower() and not ei.istitle()]
-    return "-".join(elements)
 
 if __name__ == "__main__":
     args = get_args()

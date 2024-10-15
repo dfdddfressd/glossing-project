@@ -123,6 +123,15 @@ def createFinalTranscripts(language, devSents, finalSelection):
                 for myDict in x:
                     glosses = myDict["glosses"]
                     sentenceGlosses.append(".".join(glosses[0].split()))
+
+            elif finalSelection == "first-conf":
+                for myDict in x:
+                    glosses = myDict["glosses"]
+                    confLex = myDict["confidence_word"]
+                    confFeats = myDict["confidence_features"]
+                    sentenceGlosses.append(".".join(glosses[0].split()) +
+                                           f" ({confLex},{confFeats})")
+
             elif finalSelection == "llm":
                 sentenceGlosses = llmGlosses(llm, language, index, x, sentence, translation, noLM=False, convert_from_numeric=True)
             else:
@@ -151,6 +160,6 @@ if __name__ == "__main__":
         #llm = Ollama(model="llama2")
     
     langInfo = readLanguage(language)
-    (_, devSents, _, _, _) = readLanguage(language, split="debug")
+    (_, devSents, _, _, _, _) = readLanguage(language, split="debug")
 
     createFinalTranscripts(language, devSents, finalSelection)

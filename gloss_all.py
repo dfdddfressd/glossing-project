@@ -26,7 +26,7 @@ if __name__ == "__main__":
     language = sys.argv[1]
 
     langInfo = readLanguage(language)
-    (_, devSents, _, _, _) = readLanguage(language, split="debug")
+    (_, devSents, _, _, _, _) = readLanguage(language, split="debug")
     
     for count, sentence in enumerate(devSents):
         promptPath = f"prompts/{language}/{count}"
