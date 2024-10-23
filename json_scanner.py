@@ -5,6 +5,11 @@ import sys
 class JSONScanner:
     def __init__(self, string):
         self.string = string
+
+        #remove comments, which are not "real" JSON
+        self.string = re.sub("//.*", "", self.string, re.MULTILINE)
+        #print(self.string)
+
         self.pos = 0
         self.dec = json.JSONDecoder()
 
