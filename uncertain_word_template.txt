@@ -1,0 +1,9 @@
+Here is an attempt to gloss a sentence in Leipzig format. In the JSON array below, fill in the status for each query word as "correct" or "check" to indicate whether the gloss reflects its meaning.
+
+A word can be marked "correct" if the gloss broadly captures the approximate meaning using a different word or a paraphrase. Both functional tags and lexical items can convey the meaning expressed by an English word. Only mark "check" if the meaning is clearly absent.
+
+{SENT}
+{GLOSS}
+{TRANS}
+
+{RESULT}

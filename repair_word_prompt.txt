@@ -1,0 +1,12 @@
+Here is an attempt to gloss a sentence in Leipzig format. Some elements of the gloss are uncertain. For each one, a list of possible substitutions has been provided. You may use each substitution only once in the sentence. Not all the substitutions need to be used.
+
+Choose a set of substitutions that renders the gloss complete (it should fully reflect the meaning of the translation) and consistent (try to avoid glossing different words in exactly the same way). Pay attention to the nearby context when deciding whether to make a substitution.
+
+Sentence: {SENTENCE}
+Gloss: {GLOSS}
+Translation: {TRANSLATION}
+
+Fill in the "select" field of the best candidate for each gloss item with the index number of the best candidate in the following JSON structure:
+
+{GLOSS_PER_WORD}
+
