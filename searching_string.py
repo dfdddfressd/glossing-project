@@ -3,6 +3,7 @@ import os
 from collections import Counter, defaultdict
 import re
 import random
+import json
 
 from nltk.stem import WordNetLemmatizer as wnl
 
@@ -374,16 +375,7 @@ def createPrompt(word, filePath, langInfo, trans="",
         formattedTags = ", ".join([tag for (tag, count) in freqTags.most_common(5)])
         formattedFeats = ", ".join([feat for (feat, count) in freqFeats.most_common(5)])
 
-    #hardcoded tag confusions: change me
-    confusedTags = {
-        "PFV.CVB" : "PST.UNW",
-        "PST.UNW" :  "PFV.CVB",
-        "" : "TOP",
-        "TOP" : "",
-        'III.PL-PFV.CVB' : 'IV-PFV.CVB',
-        'IV-PFV.CVB' : 'III.PL-PFV.CVB',
-                     }
-    
+    confusedTags = langInfo.confusedTags
     confusedTagBlock = makeConfusedTagBlock(confusedTags, freqTags, langInfo)
     
     instanceDict = {"WORD" : word, "LANGUAGE" : langInfo.language, "TRANSLATION": trans,
@@ -406,7 +398,7 @@ def createPrompt(word, filePath, langInfo, trans="",
     return text
 
 class Information:
-    def __init__(self, language, glossDir="2023glossingST-main", split="train"):
+    def __init__(self, language, glossDir="2023glossingST-main", outputDir="outputs", split="train"):
         path = f"{glossDir}/data/{language}/"
         files = os.listdir(path)
         langcode = files[0].split("-")[0]
@@ -417,6 +409,17 @@ class Information:
         self.subToWord = makeApproxIndex(self.wordToSentence)
         self.wordToTags = makeWordToTagIndex(self.sentences)
         self.metaIndices = makeMetalanguageIndex(self.sentences)
+
+        #attempt to read confused tags
+        path = f"{outputDir}/{language}/confusions.json"
+        try:
+            with open(path) as ifh:
+                self.confusedTags = json.load(ifh)
+            print("Loaded the following tag confusions:")
+            print(self.confusedTags)
+        except FileNotFoundError:
+            self.confusedTags = {}
+            
         self.split = split
 
 if __name__ == "__main__":
