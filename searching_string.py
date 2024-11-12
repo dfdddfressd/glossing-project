@@ -281,19 +281,6 @@ def makeWordToTagIndex(sentences):
 
     return index
 
-def readLanguage(language, glossDir="2023glossingST-main", split="train"):
-    #replace with a class!
-    path = f"{glossDir}/data/{language}/"
-    files = os.listdir(path)
-    langcode = files[0].split("-")[0]
-    path = f"{glossDir}/data/{language}/{langcode}-{split}-track1-uncovered"
-    sentences = readData(path)
-    wordToSentence = makeIndex(sentences)
-    subToWord = makeApproxIndex(wordToSentence)
-    wordToTags = makeWordToTagIndex(sentences)
-    metaIndices = makeMetalanguageIndex(sentences)
-    return (language, sentences, wordToSentence, subToWord, wordToTags, metaIndices)
-
 def getExampleWithTag(word, wordToSentence, tag):
     exactExamples = wordToSentence.get(word, [])
     random.shuffle(exactExamples)
@@ -306,8 +293,6 @@ def getExampleWithTag(word, wordToSentence, tag):
             return example        
 
 def makeConfusedTagBlock(confusedTags, freqTags, langInfo, promptTemplate="confused_tag_template.txt"):
-    (language, sentences, wordToSentence, subToWord, wordToTags, metaIndices) = langInfo
-
     t2 = None
 
     #print("checking for tag confusions at", freqTags.most_common())
@@ -328,7 +313,7 @@ def makeConfusedTagBlock(confusedTags, freqTags, langInfo, promptTemplate="confu
 
     #find single words which occur with both t1 and t2
     wordExamples = []
-    for word, tags in wordToTags.items():
+    for word, tags in langInfo.wordToTags.items():
         if t1 in tags and t2 in tags:
             wordExamples.append(word)
 
@@ -343,8 +328,8 @@ def makeConfusedTagBlock(confusedTags, freqTags, langInfo, promptTemplate="confu
     #get examples of each type
     exes = []
     for word in wordExamples:
-        e1 = getExampleWithTag(word, wordToSentence, t1)
-        e2 = getExampleWithTag(word, wordToSentence, t2)
+        e1 = getExampleWithTag(word, langInfo.wordToSentence, t1)
+        e2 = getExampleWithTag(word, langInfo.wordToSentence, t2)
         exes.append((e1, e2, word))
         
     #subselect the examples so we only have 3 max
@@ -369,7 +354,7 @@ def makeConfusedTagBlock(confusedTags, freqTags, langInfo, promptTemplate="confu
         t2 = '""'
         
     instanceDict = {
-        "LANGUAGE" : language,
+        "LANGUAGE" : langInfo.language,
         "TAG1" : t1,
         "TAG2" : t2,
         "EXAMPLES" : formattedExes
@@ -379,10 +364,9 @@ def makeConfusedTagBlock(confusedTags, freqTags, langInfo, promptTemplate="confu
     return filledPrompt    
 
 def createPrompt(word, filePath, langInfo, trans="",
-                 promptTemplate="originalfile.txt", confusedTags={}):
-    (language, sentences, wordToSentence, subToWord, wordToTags, metaInfo) = langInfo
-
-    freqTags, freqFeats = frequentTags(word, wordToSentence)
+                 promptTemplate="originalfile.txt"):
+    
+    freqTags, freqFeats = frequentTags(word, langInfo.wordToSentence)
     if len(freqTags) == 0:
         formattedTags = "Unknown"
         formattedFeats = "Unknown"
@@ -391,19 +375,20 @@ def createPrompt(word, filePath, langInfo, trans="",
         formattedFeats = ", ".join([feat for (feat, count) in freqFeats.most_common(5)])
 
     #hardcoded tag confusions: change me
-    confusedTags = { "PFV.CVB" : "PST.UNW",
-                     "PST.UNW" :  "PFV.CVB",
-                     "" : "TOP",
-                     "TOP" : "",
-                     'III.PL-PFV.CVB' : 'IV-PFV.CVB',
-                     'IV-PFV.CVB' : 'III.PL-PFV.CVB',
+    confusedTags = {
+        "PFV.CVB" : "PST.UNW",
+        "PST.UNW" :  "PFV.CVB",
+        "" : "TOP",
+        "TOP" : "",
+        'III.PL-PFV.CVB' : 'IV-PFV.CVB',
+        'IV-PFV.CVB' : 'III.PL-PFV.CVB',
                      }
     
     confusedTagBlock = makeConfusedTagBlock(confusedTags, freqTags, langInfo)
-        
-    instanceDict = {"WORD" : word, "LANGUAGE" : language, "TRANSLATION": trans,
-                    "EXAMPLES" : findMatches(word, wordToSentence, subToWord),
-                    "TRANSLATION_EXAMPLES" : filteredMetalanguageWords(word, trans, metaInfo),
+    
+    instanceDict = {"WORD" : word, "LANGUAGE" : langInfo.language, "TRANSLATION": trans,
+                    "EXAMPLES" : findMatches(word, langInfo.wordToSentence, langInfo.subToWord),
+                    "TRANSLATION_EXAMPLES" : filteredMetalanguageWords(word, trans, langInfo.metaIndices),
                     "FREQUENT_TAGS" : formattedTags,
                     "FREQUENT_FEATS" : formattedFeats,
                     "CONFUSED_TAG_BLOCK" : confusedTagBlock,
@@ -419,7 +404,21 @@ def createPrompt(word, filePath, langInfo, trans="",
         file.write(text)
 
     return text
-        
+
+class Information:
+    def __init__(self, language, glossDir="2023glossingST-main", split="train"):
+        path = f"{glossDir}/data/{language}/"
+        files = os.listdir(path)
+        langcode = files[0].split("-")[0]
+        path = f"{glossDir}/data/{language}/{langcode}-{split}-track1-uncovered"
+        self.language = language
+        self.sentences = readData(path)
+        self.wordToSentence = makeIndex(self.sentences)
+        self.subToWord = makeApproxIndex(self.wordToSentence)
+        self.wordToTags = makeWordToTagIndex(self.sentences)
+        self.metaIndices = makeMetalanguageIndex(self.sentences)
+        self.split = split
+
 if __name__ == "__main__":
     #pull the language from the command line argument array
     language = sys.argv[1]
@@ -436,7 +435,10 @@ if __name__ == "__main__":
     wordToSentence = makeIndex(sentences)
     subToWord = makeApproxIndex(wordToSentence)
     
-    instanceDict = {"WORD" : word, "LANGUAGE" : language, "EXAMPLES" : findMatches(word, wordToSentence, subToWord)}
+    instanceDict = {"WORD" : word, 
+                    "LANGUAGE" : language, 
+                    "EXAMPLES" : findMatches(word, langInfo.wordToSentence, langInfo.subToWord)
+                    }
 
     with open("originalfile.txt", "r") as originalfh:
         text = "".join(originalfh.readlines())
@@ -445,5 +447,4 @@ if __name__ == "__main__":
     text = filledPrompt 
 
     with open(filePath, "w+", encoding="utf-8") as file:
-        file.write(text)
-    
+        file.write(text)    

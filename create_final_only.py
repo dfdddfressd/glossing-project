@@ -110,10 +110,10 @@ def llmGlosses(llm, language, index, dicts, sent, translation, noLM=False, conve
     
     return gloss
 
-def createFinalTranscripts(language, devSents, repairs, finalSelection):
+def createFinalTranscripts(language, devSents, finalSelection, repairs=None):
     total = ""       
 
-    for index, group in enumerate(devSents):
+    for index, group in enumerate(devSents.sentences):
         sentenceGlosses = []
         try:
             x = createFinal(f"outputs/{language}/{index}/output.txt")
@@ -154,14 +154,13 @@ def createFinalTranscripts(language, devSents, repairs, finalSelection):
         file.write(total)
 
 def findUncertainWords(sentGroup, langInfo):
-    (language, sentences, wordToSentence, subToWord, wordToTags, metaIndices) = langInfo
     sent, gloss, trans, _ = sentGroup
     uncertain = []
 
     for index, word in enumerate(sentence_split(sent)):
-        freqTags, freqFeats = frequentTags(word, wordToSentence)
+        freqTags, freqFeats = frequentTags(word, langInfo.wordToSentence)
         if len(freqTags) == 0:
-            approxMatches = lcsMatch(word, subToWord, wordToSentence, length=4)
+            approxMatches = lcsMatch(word, subToWord, langInfo.wordToSentence, length=4)
             if len(approxMatches) == 0:
                 uncertain.append(index)
 
@@ -362,15 +361,14 @@ if __name__ == "__main__":
     #pull the language from the command line argument array
     language = sys.argv[1]
 
-    finalSelection = "repair"
+    finalSelection = "first"
 
     #llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.25)
     llm = ChatOpenAI(model="gpt-4o", temperature=0.25)
     #llm = Ollama(model="llama2")
     
-    langInfo = readLanguage(language)
-    (_, devSents, _, _, _, _) = readLanguage(language, split="debug")
+    langInfo = Information(language)
+    devInfo = Information(language, split="debug")
 
-    langInfo = readLanguage(language)
-    repairs = repairTranscripts(devSents, langInfo, noLM=False)
-    createFinalTranscripts(language, devSents, repairs, finalSelection)
+    repairs = repairTranscripts(devSents, langInfo, noLM=True)
+    createFinalTranscripts(language, devInfo.sentences, finalSelection, repairs)

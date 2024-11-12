@@ -25,10 +25,10 @@ if __name__ == "__main__":
     #pull the language from the command line argument array
     language = sys.argv[1]
 
-    langInfo = readLanguage(language)
-    (_, devSents, _, _, _, _) = readLanguage(language, split="debug")
+    langInfo = Information(language)
+    devInfo = Information(language, split="debug")
     
-    for count, sentence in enumerate(devSents):
+    for count, sentence in enumerate(devInfo.sentences):
         promptPath = f"prompts/{language}/{count}"
         outputPath = f"outputs/{language}/{count}"
         os.makedirs(promptPath, exist_ok=True)
@@ -40,6 +40,6 @@ if __name__ == "__main__":
                       promptPath=promptPath,
                       outputPath=outputPath,
                       templatePath="originalfile.txt",
-                      noLM=False)
+                      noLM=True)
 
-    createFinalTranscripts(language, devSents, finalSelection="first")
+    createFinalTranscripts(language, devInfo, finalSelection="first")
