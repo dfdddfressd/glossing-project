@@ -138,7 +138,7 @@ def createFinalTranscripts(language, devSents, finalSelection, repairs=None):
             elif finalSelection == "llm":
                 sentenceGlosses = llmGlosses(llm, language, index, x, sentence, translation, noLM=False, convert_from_numeric=True)
             elif finalSelection == "repair":
-                sentenceGlosses = repairedGlosses(language, index, x, repairs)
+                sentenceGlosses = repairedGlosses(language, index, x, repairs, goldGloss=goldGloss)
             else:
                 assert(0), f"Unknown final selection method {finalSelection}"                    
         except:
@@ -160,7 +160,7 @@ def findUncertainWords(sentGroup, langInfo):
     for index, word in enumerate(sentence_split(sent)):
         freqTags, freqFeats = frequentTags(word, langInfo.wordToSentence)
         if len(freqTags) == 0:
-            approxMatches = lcsMatch(word, subToWord, langInfo.wordToSentence, length=4)
+            approxMatches = lcsMatch(word, langInfo.subToWord, langInfo.wordToSentence, length=4)
             if len(approxMatches) == 0:
                 uncertain.append(index)
 
@@ -262,6 +262,8 @@ def repairTranscripts(devSents, langInfo, noLM=False):
     repairSent = set()
 
     for index, sent in enumerate(devSents):
+        print("creating repair prompt for sentence", index)
+
         dicts = createFinal(f"outputs/{language}/{index}/output.txt")
         uncertain = findUncertainWords(sent, langInfo)
 
@@ -307,39 +309,51 @@ def repairTranscripts(devSents, langInfo, noLM=False):
         #don't bother trying to repair the gloss unless we have a missing meaning
         #and a gloss element for which the direct evidence was poor
         if len(uncertain) > 0 and len(missing) > 0:
-            repairSent.add(index)
-            prompt = repairPrompt(sent, dicts, uncertain, missing)
-            outFile = f"prompts/{language}/{index}/repair.txt"
-            with open(outFile, "w", encoding="utf-8") as ofh:
-                ofh.write(prompt)
-
-            if not noLM:
-                prompt_template = ChatPromptTemplate.from_template(
-                    template="You are a helpful assistant. {prompt}"
-                )
-                chain = LLMChain(llm=llm, prompt=prompt_template)
-                response = chain.run(llm=llm, prompt=prompt)
-                outFile = f"outputs/{language}/{index}/repair.txt"
+            try:
+                prompt = repairPrompt(sent, dicts, uncertain, missing)
+                repairSent.add(index)
+                outFile = f"prompts/{language}/{index}/repair.txt"
                 with open(outFile, "w", encoding="utf-8") as ofh:
-                    ofh.write(response)
+                    ofh.write(prompt)
+
+                if not noLM:
+                    prompt_template = ChatPromptTemplate.from_template(
+                        template="You are a helpful assistant. {prompt}"
+                    )
+                    chain = LLMChain(llm=llm, prompt=prompt_template)
+                    response = chain.run(llm=llm, prompt=prompt)
+                    outFile = f"outputs/{language}/{index}/repair.txt"
+                    with open(outFile, "w", encoding="utf-8") as ofh:
+                        ofh.write(response)
+            except AssertionError:
+                pass
+
+    #print(repairSent)
 
     return repairSent
 
-def repairedGlosses(language, index, dicts, repairSent):
+def repairedGlosses(language, index, dicts, repairSent, goldGloss=None, verbose="repair"):
     #if no repairs are possible for this sentence, don't bother looking for an llm choice
     if index in repairSent:
         repairFile = f"outputs/{language}/{index}/repair.txt"
         with open(repairFile, encoding="utf-8") as ifh:
             response = ifh.read()
 
-        dec = JSONScanner(response)
-        repairChoices = dec.scan()
+        try:
+            dec = JSONScanner(response)
+            repairChoices = dec.scan()
+        except:
+            repairChoices = []
     else:
         repairChoices = []
 
-    print("repairing sentence", index, "with", repairChoices)
+    if verbose == True:
+        print("repairing sentence", index, "with", repairChoices)
 
     sentenceGlosses = []
+    if isinstance(repairChoices, dict):
+        repairChoices = [repairChoices,]
+
     for ind, myDict in enumerate(dicts):
         glosses = myDict["glosses"]
         gloss = ".".join(glosses[0].split())
@@ -347,10 +361,20 @@ def repairedGlosses(language, index, dicts, repairSent):
             if ri["word_pos"] == ind:
                 repair = ri["select"]
                 candidates = ri["candidates"]
-                print("checking candidates for", ri, repair)
+                if verbose == True:
+                    print("checking candidates for", ri, repair)
 
                 if repair > 0:
-                    print("replacing", gloss, "with", candidates[repair])
+                    if verbose:
+                        if goldGloss is not None:
+                            goldItem = goldGloss.split()[ind]
+                        else:
+                            goldItem = "-"
+                        print(f"replacing '{gloss}' with '{candidates[repair]}' (gold '{goldItem}')")
+                        if getRoot(gloss) == getRoot(goldItem):
+                            print("\tERROR")
+                        elif getRoot(candidates[repair]) == getRoot(goldItem):
+                            print("\tCORRECTION")
                     gloss = candidates[repair]
 
         sentenceGlosses.append(gloss)
@@ -361,14 +385,14 @@ if __name__ == "__main__":
     #pull the language from the command line argument array
     language = sys.argv[1]
 
-    finalSelection = "first"
+    finalSelection = "repair"
 
     #llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.25)
     llm = ChatOpenAI(model="gpt-4o", temperature=0.25)
     #llm = Ollama(model="llama2")
     
     langInfo = Information(language)
-    devInfo = Information(language, split="debug")
+    devInfo = Information(language, split="dev")
 
-    repairs = repairTranscripts(devSents, langInfo, noLM=True)
-    createFinalTranscripts(language, devInfo.sentences, finalSelection, repairs)
+    repairs = repairTranscripts(devInfo.sentences, langInfo, noLM=True)
+    createFinalTranscripts(language, devInfo, finalSelection, repairs)

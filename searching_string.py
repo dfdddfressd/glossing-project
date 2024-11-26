@@ -169,14 +169,14 @@ def findMatches(userInput, wordToSentence, approxIndex):
     
     return(str(output))
 
+def validFeat(glSym):
+    return (not glSym.islower() and
+            not glSym.istitle() and
+            any([ch.isalnum() for ch in glSym]))
+
 def getTag(gloss):
     elements = re.split("([.-])", gloss)
 
-    def validFeat(glSym):
-        return (not glSym.islower() and
-                not glSym.istitle() and
-                any([ch.isalnum() for ch in glSym]))
-    
     keep = [validFeat(ei) for ei in elements]
     xKeep = keep[:]
     for ind in range(len(keep)):
@@ -185,6 +185,24 @@ def getTag(gloss):
 
     xElts = [ei for (ei, ki) in zip(elements, xKeep) if ki]
     return "".join(xElts)
+
+def getRoot(gloss):
+    elements = re.split("([.-])", gloss)
+    keep = [not validFeat(ei) and ei != "-" for ei in elements]
+    result = []
+
+    for elt, ki in zip(elements, keep):
+        if ki and result == []:
+            #get the first lowercase item
+            result.append(elt)
+        elif elt == "." or ki:
+            #plus anything following it with a dot
+            result.append(elt)
+        elif result != []:
+            #but not anything else
+            break
+
+    return "".join(result)
 
 def frequentTags(word, wordToSentence):
     exactExamples = wordToSentence.get(word, [])
@@ -299,13 +317,16 @@ def makeConfusedTagBlock(confusedTags, freqTags, langInfo, promptTemplate="confu
     #print("checking for tag confusions at", freqTags.most_common())
     
     #find a tag which might be relevant here, and is confused with a partner t2
+    best = -1
+    found = (None, None)
     for t1 in freqTags:
-        #print(t1, getTag(t1), confusedTags, getTag(t1) in confusedTags)
-        if getTag(t1) in confusedTags:
-            t1 = getTag(t1)
-            t2 = confusedTags[getTag(t1)]
-            break
+        t1 = getTag(t1)
+        for (pt1, pt2), count in confusedTags:
+            if count > best and (t1 == pt1 or t1 == pt2):
+                found = (pt1, pt2)
+                best = count
 
+    t1, t2 = found
     #if we can't find one, nothing to do
     if t2 is None:
         return ""
