@@ -8,7 +8,7 @@ import json
 from nltk.stem import WordNetLemmatizer as wnl
 
 def sentence_split(prompt):
-    condition = re.compile(r"\b[\w'-’]+\b")    
+    condition = re.compile(r"(?:(?<=\s)-(?=\s))|\b[\w'-’]+\b")    
     words = condition.findall(prompt)
     return words
 
@@ -170,8 +170,10 @@ def findMatches(userInput, wordToSentence, approxIndex):
     return(str(output))
 
 def validFeat(glSym):
-    return (not glSym.islower() and
-            not glSym.istitle() and
+    # returns whether a gloss symbol can be a feature: all cased chars should be upper-case
+    # -- note: will break on glossing conventions like 3s for 3SG, which are permitted by Leipzig--- not sure if dataset contains any
+    # and contain some sort of alphanumeric symbol
+    return ((not any([ch.islower() for ch in glSym])) and
             any([ch.isalnum() for ch in glSym]))
 
 def getTag(gloss):
@@ -188,14 +190,14 @@ def getTag(gloss):
 
 def getRoot(gloss):
     elements = re.split("([.-])", gloss)
-    keep = [not validFeat(ei) and ei != "-" for ei in elements]
+    keep = [not validFeat(ei) and ei not in ("-", ".") for ei in elements]
     result = []
 
     for elt, ki in zip(elements, keep):
         if ki and result == []:
             #get the first lowercase item
             result.append(elt)
-        elif elt == "." or ki:
+        elif result != [] and (elt == "." or ki):
             #plus anything following it with a dot
             result.append(elt)
         elif result != []:
@@ -300,26 +302,32 @@ def makeWordToTagIndex(sentences):
 
     return index
 
-def getExampleWithTag(word, wordToSentence, tag):
+def getExampleWithTag(word, wordToSentence, tag, replaceTag=None):
     exactExamples = wordToSentence.get(word, [])
     random.shuffle(exactExamples)
     for example in exactExamples:
         og_sentence, gloss, translation = example
         ind = sentence_split(og_sentence).index(word)
-        gloss = gloss.split()[ind]
+        itemGloss = gloss.split()[ind]
         #print("gloss item for", word, "is", gloss)
-        if getTag(gloss) == tag:
-            return example        
+        if getTag(itemGloss) == tag:
+            if replaceTag:
+                glossLine = gloss.split()
+                #print("replacing gloss of", glossLine[ind], getRoot(glossLine[ind]))
+                glossLine[ind] = f"{getRoot(glossLine[ind])}-{replaceTag}"
+                return (og_sentence, " " + " ".join(glossLine), translation)
+            else:
+                return example
 
-def makeConfusedTagBlock(confusedTags, freqTags, langInfo, promptTemplate="confused_tag_template.txt"):
+def makeConfusedTagBlock(confusedTags, freqTags, langInfo):
     t2 = None
 
-    #print("checking for tag confusions at", freqTags.most_common())
-    
+    # print("checking for tag confusions at", freqTags.most_common())
+
     #find a tag which might be relevant here, and is confused with a partner t2
     best = -1
     found = (None, None)
-    for t1 in freqTags:
+    for t1, c0 in freqTags.most_common():
         t1 = getTag(t1)
         for (pt1, pt2), count in confusedTags:
             if count > best and (t1 == pt1 or t1 == pt2):
@@ -331,15 +339,29 @@ def makeConfusedTagBlock(confusedTags, freqTags, langInfo, promptTemplate="confu
     if t2 is None:
         return ""
 
-    #print("found another tag", t1, t2)
+    # print("found another tag", t1, t2)
 
+    confDir = f"outputs/{langInfo.language}/confusions"
+    dFile = confDir + f"/{t1}-{t2}.txt"
+    # print("trying to find", dFile)
+    
+    try:
+        with open(dFile, "r") as ifh:
+            confBlock = ifh.read()
+            return confBlock
+    except FileNotFoundError:
+        return ""
+
+def makeConfusedTagPrompt(pair, langInfo, promptTemplate="confused_tag_template.txt"):
+    (t1, t2) = pair
+    
     #find single words which occur with both t1 and t2
     wordExamples = []
     for word, tags in langInfo.wordToTags.items():
         if t1 in tags and t2 in tags:
             wordExamples.append(word)
 
-    #print("words which have both", t1, "and", t2, wordExamples)
+    # print("words which have both", t1, "and", t2, wordExamples)
             
     #for now, only get examples if we have real contrastive ones... but consider later
     if not wordExamples:
@@ -350,12 +372,15 @@ def makeConfusedTagBlock(confusedTags, freqTags, langInfo, promptTemplate="confu
     #get examples of each type
     exes = []
     for word in wordExamples:
-        e1 = getExampleWithTag(word, langInfo.wordToSentence, t1)
-        e2 = getExampleWithTag(word, langInfo.wordToSentence, t2)
+        e1 = getExampleWithTag(word, langInfo.wordToSentence, t1)#, replaceTag="XX")
+        e2 = getExampleWithTag(word, langInfo.wordToSentence, t2)#, replaceTag="YY")
+        if e1 == None or e2 == None:
+            continue
         exes.append((e1, e2, word))
         
-    #subselect the examples so we only have 3 max
-    exes = exes[:3]
+    #subselect the examples so we only have K max
+    # print("we were able to find", len(exes), "examples")
+    exes = exes[:32]
 
     formattedExes = ""
     for (e1, e2, word) in exes:
@@ -419,7 +444,7 @@ def createPrompt(word, filePath, langInfo, trans="",
     return text
 
 class Information:
-    def __init__(self, language, glossDir="2023glossingST-main", outputDir="outputs", split="train"):
+    def __init__(self, language, glossDir="2023glossingST-main", promptDir="prompts", split="train"):
         path = f"{glossDir}/data/{language}/"
         files = os.listdir(path)
         langcode = files[0].split("-")[0]
@@ -432,7 +457,7 @@ class Information:
         self.metaIndices = makeMetalanguageIndex(self.sentences)
 
         #attempt to read confused tags
-        path = f"{outputDir}/{language}/confusions.json"
+        path = f"{promptDir}/{language}/confusions/confusions.json"
         try:
             with open(path) as ifh:
                 self.confusedTags = json.load(ifh)
@@ -466,7 +491,7 @@ if __name__ == "__main__":
 
     with open("originalfile.txt", "r") as originalfh:
         text = "".join(originalfh.readlines())
-        
+
     filledPrompt = text.format(**instanceDict)
     text = filledPrompt 
 
