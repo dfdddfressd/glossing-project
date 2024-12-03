@@ -1,0 +1,9 @@
+*Before* determining the grammatical tag for the word, write:
+
+"My best three guesses for the lexical meaning of the word are ___."
+
+Give one to three options. These options should be plain English words without grammatical tags.
+
+{CONTENT}
+
+Before giving your answer, explain how each of these guidelines impacts your decision. Do not give your final decision until you have discussed each criterion.
