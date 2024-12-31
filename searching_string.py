@@ -5,10 +5,11 @@ import re
 import random
 import json
 
+import sentence_split as simple_split
 from nltk.stem import WordNetLemmatizer as wnl
 
 def sentence_split(prompt):
-    condition = re.compile(r"(?:(?<=\s)-(?=\s))|\b[\w'-’]+\b")    
+    condition = re.compile(r"(?:(?<=\s)[-«»,.]+(?=\s))|\b[\w'-’]+\b")    
     words = condition.findall(prompt)
     return words
 
@@ -319,21 +320,37 @@ def getExampleWithTag(word, wordToSentence, tag, replaceTag=None):
             else:
                 return example
 
-def makeConfusedTagBlock(confusedTags, freqTags, langInfo):
-    t2 = None
-
-    # print("checking for tag confusions at", freqTags.most_common())
-
-    #find a tag which might be relevant here, and is confused with a partner t2
+def findConfusedTag(freqTags, confusedTags):
     best = -1
     found = (None, None)
     for t1, c0 in freqTags.most_common():
         t1 = getTag(t1)
         for (pt1, pt2), count in confusedTags:
+            if pt1 == "FEATURE":
+                if count > best and pt2 in t1:
+                    found = (pt1, pt2)
+                    best = count
             if count > best and (t1 == pt1 or t1 == pt2):
                 found = (pt1, pt2)
                 best = count
 
+        #find most frequent confusion for most frequent tag
+        if best > -1:
+            break
+
+    return found
+
+def makeConfusedTagBlock(confusedTags, freqTags, langInfo, instructions=None):
+    t2 = None
+
+    # print("checking for tag confusions at", freqTags.most_common())
+
+    #find a tag which might be relevant here, and is confused with a partner t2
+    found = findConfusedTag(freqTags, confusedTags)
+    # if best > -1:
+    #     print("most frequent tags are", list(freqTags.most_common()))
+    #     print("giving advice on", found)
+        
     t1, t2 = found
     #if we can't find one, nothing to do
     if t2 is None:
@@ -342,8 +359,11 @@ def makeConfusedTagBlock(confusedTags, freqTags, langInfo):
     # print("found another tag", t1, t2)
 
     confDir = f"outputs/{langInfo.language}/confusions"
-    dFile = confDir + f"/{t1}-{t2}.txt"
-    # print("trying to find", dFile)
+    if instructions == None:
+        dFile = confDir + f"/{t1}-{t2}.txt"
+    else:
+        dFile = confDir + f"/{instructions}/{t1}-{t2}.txt"
+    print("trying to find", dFile)
     
     try:
         with open(dFile, "r") as ifh:
@@ -365,6 +385,7 @@ def makeConfusedTagPrompt(pair, langInfo, promptTemplate="confused_tag_template.
             
     #for now, only get examples if we have real contrastive ones... but consider later
     if not wordExamples:
+        print("no contrastive examples found...")
         return ""
 
     random.shuffle(wordExamples)
@@ -383,8 +404,76 @@ def makeConfusedTagPrompt(pair, langInfo, promptTemplate="confused_tag_template.
     exes = exes[:32]
 
     formattedExes = ""
-    for (e1, e2, word) in exes:
-        formattedExes += f"Examples of {word} with both tags:\n"
+    for ind, (e1, e2, word) in enumerate(exes):
+        formattedExes += f"{ind}: Examples of {word} with both tags:\n"
+        for ei in (e1, e2):
+            og_sentence, gloss, translation = ei            
+            formattedExes += (f"\nSentence:" + og_sentence)
+            formattedExes += ("\nGloss:" + gloss)
+            # for wi, gi in zip(sentence_split(og_sentence), gloss.split()):
+            #     if wi == word:
+            #         formattedExes += f"[{wi}]\t{gi}\n"
+            #     else:
+            #         formattedExes += f"{wi}\t{gi}\n"
+            formattedExes +=("\nTranslation:" + translation + "\n")
+        formattedExes += "\n\n"
+
+    with open(promptTemplate, "r") as originalfh:
+        text = "".join(originalfh.readlines())
+
+    if t1 == "":
+        t1 = '""'
+    if t2 == "":
+        t2 = '""'
+        
+    instanceDict = {
+        "LANGUAGE" : langInfo.language,
+        "TAG1" : t1,
+        "TAG2" : t2,
+        "EXAMPLES" : formattedExes
+        }
+        
+    filledPrompt = text.format(**instanceDict)
+    return filledPrompt
+
+def makeConfusedTagSingletonPrompt(feature, langInfo, promptTemplate="confused_tag_singleton_template.txt"):
+    #find words which occur with t1
+    wordExamples = []
+    for word, tags in langInfo.wordToTags.items():
+        if any([feature in ti for ti in tags]) and any([feature not in ti for ti in tags]):
+            wordExamples.append(word)
+
+    # print("words which have both", t1, "and", t2, wordExamples)
+
+    #for now, only get examples if we have real contrastive ones... but consider later
+    if not wordExamples:
+        print("no contrastive examples found...")
+        return ""
+
+    random.shuffle(wordExamples)
+    
+    #get examples of each type
+    exes = []
+    for word in wordExamples:
+        possTags = langInfo.wordToTags[word]
+        hasFeat = [ti for ti in possTags if feature in ti]
+        noFeat = [ti for ti in possTags if feature not in ti]
+        t1 = random.choice(hasFeat)
+        t2 = random.choice(noFeat)
+
+        e1 = getExampleWithTag(word, langInfo.wordToSentence, t1)
+        e2 = getExampleWithTag(word, langInfo.wordToSentence, t2)
+        if e1 == None or e2 == None:
+            continue
+        exes.append((e1, e2, t1, t2, word))
+
+    #subselect the examples so we only have K max
+    # print("we were able to find", len(exes), "examples")
+    exes = exes[:32]
+
+    formattedExes = ""
+    for (e1, e2, t1, t2, word) in exes:
+        formattedExes += f"Examples of {word} with tags {t1} and {t2}:\n"
         for ei in (e1, e2):
             og_sentence, gloss, translation = ei            
             formattedExes += ("\nSentence:" + og_sentence)
@@ -408,28 +497,57 @@ def makeConfusedTagPrompt(pair, langInfo, promptTemplate="confused_tag_template.
         }
         
     filledPrompt = text.format(**instanceDict)
-    return filledPrompt    
+    return filledPrompt
 
-def createPrompt(word, filePath, langInfo, trans="",
-                 promptTemplate="originalfile.txt"):
+def createPrompt(word, filePath, langInfo, sentenceGroup,
+                 promptTemplate="originalfile.txt", instructions=None):
+
+    sentence, index, trans = sentenceGroup
+    words = simple_split.sentence_split(sentence)
+    assert(words[index] == word)
+    words[index] = f"[{word}]"
+    markedSentence = " ".join(words)
     
     freqTags, freqFeats = frequentTags(word, langInfo.wordToSentence)
     if len(freqTags) == 0:
         formattedTags = "Unknown"
         formattedFeats = "Unknown"
+        formattedLexical = "Unknown"
     else:
-        formattedTags = ", ".join([tag for (tag, count) in freqTags.most_common(5)])
+        def tagCStr(tag, count):
+            total = sum(freqTags.values())
+            pct = (count / total)
+            return f"{tag} ({pct:.0%})"
+
+        formattedTags = ", ".join([tagCStr(tag, count) for (tag, count) in freqTags.most_common(5)])
+        formattedLexical = ", ".join(set([getRoot(tag) for (tag, count) in freqTags.most_common(5)]))
+        #formattedTags = ", ".join([tag for (tag, count) in freqTags.most_common(5)])
         formattedFeats = ", ".join([feat for (feat, count) in freqFeats.most_common(5)])
 
     confusedTags = langInfo.confusedTags
-    confusedTagBlock = makeConfusedTagBlock(confusedTags, freqTags, langInfo)
+    confusedTagBlock = makeConfusedTagBlock(confusedTags, freqTags, langInfo, instructions=instructions)
+
+    markedCandidateGloss = []
+    for ind, wi in enumerate(words):
+        ft, ff = frequentTags(wi, langInfo.wordToSentence)
+        if ind == index:
+            markedCandidateGloss.append("[?]")
+        elif len(ft) > 0:
+            markedCandidateGloss.append(ft.most_common(1)[0][0])
+        else:
+            markedCandidateGloss.append("?")
+
+    markedCandidateGloss = " ".join(markedCandidateGloss)
     
-    instanceDict = {"WORD" : word, "LANGUAGE" : langInfo.language, "TRANSLATION": trans,
+    instanceDict = {"WORD" : word, "LANGUAGE" : langInfo.language, "METALANGUAGE" : langInfo.metalanguage, "TRANSLATION": trans,
+                    "CANDIDATE_GLOSS" : markedCandidateGloss,
+                    "SENTENCE" : markedSentence,
                     "EXAMPLES" : findMatches(word, langInfo.wordToSentence, langInfo.subToWord),
                     "TRANSLATION_EXAMPLES" : filteredMetalanguageWords(word, trans, langInfo.metaIndices),
                     "FREQUENT_TAGS" : formattedTags,
                     "FREQUENT_FEATS" : formattedFeats,
                     "CONFUSED_TAG_BLOCK" : confusedTagBlock,
+                    "LEXICAL_MEANINGS" : formattedLexical,
                     }
 
     with open(promptTemplate, "r") as originalfh:
@@ -447,6 +565,7 @@ class Information:
     def __init__(self, language, glossDir="2023glossingST-main", promptDir="prompts", split="train"):
         path = f"{glossDir}/data/{language}/"
         files = os.listdir(path)
+        files = [xx for xx in files if "track" in xx] #remove garbage files
         langcode = files[0].split("-")[0]
         path = f"{glossDir}/data/{language}/{langcode}-{split}-track1-uncovered"
         self.language = language
@@ -456,6 +575,11 @@ class Information:
         self.wordToTags = makeWordToTagIndex(self.sentences)
         self.metaIndices = makeMetalanguageIndex(self.sentences)
 
+        if self.language == "Uspanteko":
+            self.metalanguage = "Spanish"
+        else:
+            self.metalanguage = "English"
+        
         #attempt to read confused tags
         path = f"{promptDir}/{language}/confusions/confusions.json"
         try:

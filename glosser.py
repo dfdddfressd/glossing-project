@@ -11,8 +11,9 @@ import json
 from json_scanner import JSONScanner
 
 def glossSentence(sentence, langInfo, llm, prompt_template,
-                  promptPath, outputPath, templatePath, verbose=False,
-                  noLM=False):
+                  promptPath, outputPath, templatePath,
+                  instructions=None,
+                  verbose=False, noLM=False):
     response = ""
     count = 0
     source_sentence, _, translation, _ = sentence
@@ -22,10 +23,10 @@ def glossSentence(sentence, langInfo, llm, prompt_template,
     if verbose:
         print("Glossing:", words)
     
-    for x in words:
+    for index, x in enumerate(words):
         count+=1
         promptFile = f"{promptPath}/prompt{count}.txt"
-        prompt = createPrompt(x, promptFile, langInfo, trans=translation)
+        prompt = createPrompt(x, promptFile, langInfo, (source_sentence, index, translation), instructions=instructions)
 
         if verbose:
             print("Running prompt:", prompt)
