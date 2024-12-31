@@ -23,6 +23,17 @@ def oracleGlosses(dicts, gold):
         best = -1
         result = None
 
+        # if "PST.UNW" in gi or "PFV.CVB" in gi:
+        #     for possGloss in di["glosses"]:
+        #         elD = possGloss.split("-")
+        #         elG = gi.split("-")
+        #         inter = set(elD).intersection(elG)
+        #         if len(inter) > best:
+        #             best = len(inter)
+        #             result = possGloss
+        # else:
+        #     result = di["glosses"][0]
+
         for possGloss in di["glosses"]:
             elD = possGloss.split("-")
             elG = gi.split("-")
@@ -110,13 +121,42 @@ def llmGlosses(llm, language, index, dicts, sent, translation, noLM=False, conve
     
     return gloss
 
-def createFinalTranscripts(language, devSents, finalSelection, repairs=None):
+def restoreLezgiPunctuation(group, dicts):
+    sentence, _, _, _ = group
+    tokens = sentence.split()
+    result = []
+    dIter = iter(dicts)
+
+    for ti in tokens:
+        if not any([ci.isalnum() for ci in ti]):
+            result.append(
+                {
+                    "glosses": [ti, ti, ti]
+                })
+        else:
+            try:
+                result.append(next(dIter))
+            except StopIteration:
+                result.append(
+                {
+                    "glosses": ["None", "None", "None"]
+                })
+
+    return result
+    
+def createFinalTranscripts(language, devSents, finalSelection, repairs=None, output_name="final.txt", instructions=None):
     total = ""       
 
     for index, group in enumerate(devSents.sentences):
         sentenceGlosses = []
         try:
-            x = createFinal(f"outputs/{language}/{index}/output.txt")
+            if instructions != None:
+                x = createFinal(f"outputs/{language}/i{instructions}/{index}/output.txt")
+            else:
+                x = createFinal(f"outputs/{language}/{index}/output.txt")
+
+            x = restoreLezgiPunctuation(group, x)
+
             ##print("The return value is: ", x)
             ##print(index, group)
             sentence, goldGloss, translation, dummyTwo = group
@@ -150,7 +190,7 @@ def createFinalTranscripts(language, devSents, finalSelection, repairs=None):
         output += ((f"\\l{translation}\n\n"))
         total += output
     
-    with open("final.txt", "w", encoding="utf-8") as file:
+    with open(output_name, "w", encoding="utf-8") as file:
         file.write(total)
 
 def findUncertainWords(sentGroup, langInfo):
@@ -385,7 +425,7 @@ if __name__ == "__main__":
     #pull the language from the command line argument array
     language = sys.argv[1]
 
-    finalSelection = "repair"
+    finalSelection = "first"
 
     #llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.25)
     llm = ChatOpenAI(model="gpt-4o", temperature=0.25)
