@@ -1,5 +1,49 @@
-Here are some examples which highlight the differences between {TAG1} and {TAG2} in {LANGUAGE}.
+Here are some examples which highlight the differences between two tags, which are represented here as {TAG1} and {TAG2}, in {LANGUAGE}. We are writing guidelines for distinguishing these two similar tags.
 
 {EXAMPLES}
 
-Before doing anything else, explain briefly the differences between {TAG1} and {TAG2} in this language. Your explanation must be based on the data above.
+State some rules for distinguishing {TAG1} from {TAG2} in {LANGUAGE}. Be concise, but make sure your rules are specific and include examples where necessary. Do not appeal only to semantics when making the distinction. For example, here is a bad rule:
+
+1: Tag a verb as an infinitive if it expresses something that someone knows or thinks. For example, "he knows that he is going".
+
+This rule is bad because it does not indicate which verb (know or go) should be tagged as infinitive, it does not explain how the other verb should be tagged, and it does not sufficiently describe the syntactic context in the tagged sentence in which it applies.
+
+Here is an improved version of this rule:
+
+1: Tag a subclause verb as an infinitive if the main verb is finite and the subclause verb subject is accusative. For example:
+
+scit illum ire
+know-3SG DEM-3SG-ACC go-INF
+"he knows that he is going"
+
+Here is another bad rule:
+
+2: Tag a noun as a genitive if it appears in a possessive noun phrase. For instance, "the man's book".
+
+This rule is bad because it does not indicate which noun (man or book) should be tagged as genitive, it does not explain how the other noun should be tagged, and it refers only to English word order, not to the order in the tagged sentence.
+
+Here is an improved version of this rule which shows the word order in the object language as well as in English.
+
+2: Tag a noun as a genitive if it appears to the right of the head noun in a noun phrase, indicating the possessor of the previous noun. For example:
+
+llyfr y dyn
+book.NOM the man.GEN
+"the man's book"
+
+Here is another bad rule:
+
+3: Tag a verb as subjunctive if it reflects a desire or belief. For example, "he wants them to leave".
+
+This rule is bad because it does not indicate which verb (want or go) should be tagged as subjunctive, it does not explain how the other verb should be tagged, and it does not refer to the syntax of the clause, only the meaning.
+
+Here is an improved version of this rule which describes the syntax in the object language.
+
+3: Tag a subclause a verb as subjunctive if it reflects a desire or belief in a subclause introduced with "ut" or a relative pronoun. Tag verbs in subclauses with no introductory particle as infinitives.
+
+vult eos abesse
+want-3SG 3PL be.absent-INF
+
+vult ut abessent
+want-3SG COMP be.absent-3PL.SBJV
+
+State three to five rules, using this format.

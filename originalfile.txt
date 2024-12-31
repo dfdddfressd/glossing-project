@@ -1,8 +1,16 @@
-{CONFUSED_TAG_BLOCK}
+We are going to gloss an example in {LANGUAGE}. Your task is to predict glosses for the word:
 
-We are going to gloss an example in {LANGUAGE}. Your task is to predict glosses for the word: {WORD} using interlinear glossed text (IGT) and following the Leipzig glossing conventions. The sentence this word is drawn from means: "{TRANSLATION}".
+{WORD}
 
-Glosses should use function tags, not English morphology, to indicate grammatical information: for instance, "monkey-PL" is preferable to "monkeys". Give the best three glosses for the word (in order, best to worst) in a JSON list format outlined below.
+In this sentence:
+
+Sentence: {SENTENCE}
+Candidate gloss: {CANDIDATE_GLOSS}
+Translation: {TRANSLATION}
+
+Use interlinear glossed text (IGT) and follow the Leipzig glossing conventions.
+
+Glosses should use function tags, not {METALANGUAGE} morphology, to indicate grammatical information: for instance, "monkey-PL" is preferable to "monkeys". Give the best three glosses for the word (in order, best to worst) in a JSON list format outlined below.
 
 {{
   "word": "{WORD}",
@@ -21,7 +29,9 @@ It appears with the following features (but it may also appear with related feat
 
 {FREQUENT_FEATS}
 
-Here are example sentences with the word {WORD}. Exact matches are the most reliable; use an exact match if you can. Otherwise, use the approximate matches and word lists:
+{CONFUSED_TAG_BLOCK}
+
+Here are a few example sentences with the word {WORD}. Remember that the full distribution of tags (shown above) is not necessarily represented here.
 
 {EXAMPLES}
 

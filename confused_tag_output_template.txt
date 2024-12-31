@@ -1,9 +1,7 @@
-*Before* determining the grammatical tag for the word, write:
-
-"My best three guesses for the lexical meaning of the word are ___."
-
-Give one to three options. These options should be plain English words without grammatical tags.
+Before deciding on the tag, label each word in the {LANGUAGE} sentence with its part of speech based on the candidate gloss.
 
 {CONTENT}
 
-Before giving your answer, explain how each of these guidelines impacts your decision. Do not give your final decision until you have discussed each criterion.
+Again, before deciding on the tag, you must label each word in the {LANGUAGE} sentence with its part of speech based on the candidate gloss.
+
+Next, explain how each of these guidelines impacts your decision. Read each guideline fully, paying attention to the syntactic context described. Refer mainly to the {LANGUAGE} word order as indicated by the candidate gloss, secondarily to the translation. Do not give your final decision until you have discussed each criterion.
