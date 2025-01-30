@@ -1,0 +1,124 @@
+\t « Зун », лагьана , « фена инсанрин арада гьатда , акван белке зи кьисметда ава .»
+\g « 1sg.abs », say-AOR , « go-AOR man-ERG-GEN between-INESS enter.FUT-FUT , look.HORT maybe 1sg.gen fate-INESS cop .»
+\l "I will enter amongst the people.  Let me look - maybe it is my fate."
+
+\t икьрар сад я .
+\g decision-PL one oh .
+\l the decision is one
+
+\t « Бес чун гьабурун патав хъфена кӀанда , Ша кӀватӀ хьана хъфин чун .»
+\g « but 1pl.abs them-ERG-GEN to return-AOR want-FUT , come group be-AOR go.back.HORT 1pl.abs .»
+\l "But we need to return to them. Come, let's go back as a group."
+
+\t Ашкъи вуш я , ашукь гада ?
+\g love what oh , ashuq boy ?
+\l What is love, hey ashuq
+
+\t Вучиз , вутӀ хьана ?
+\g what-ERG-DAT , where be-AOR ?
+\l “Why, where is it?”
+
+\t Хъсан тостар лагьана , разивилер хьана , чун мерекадилай рази амукьна .
+\g good toast-PL say-AOR , toast-PL be-AOR , 1pl.abs toast-PL-OBL agree many .
+\l It has been said many good toasts, everybody was happy about the event.
+
+\t Ну Чукотка къийи чка тир , мекьи чка я .
+\g well Chukotka cold-ADJ place was , and place was .
+\l And Chukotka was cold place
+
+\t ( Натаван ).
+\g ( PN ).
+\l Natavan
+
+\t Абуру « эвера а гада » лугьуда , « абур ваз къачу » лугьуда , « абур адаз лайих туш ».
+\g they-ERG « call.IMPV that boy » say-ENT , « they 2sg-DAT take.IMPV » say-ENT , « they he-DAT worthy cop.PST.NEG ».
+\l “Call the young man and take them for yourself. They are not fitting him.”
+
+\t Ахпа и гадади лугьуда хьи , « бес гила вири хьанва », лугьуда , « бубадини жаза къачуна , муькуьбуруни жаза къачуна , бес ,» лагьана , « муькуь вилаятда зи дидени ама » лагьана , « пуд стхани ама , кьве стхани ама » лагьана .
+\g then this boy-ERG say-ENT that , « but now all happened-PERF », say-ENT , « grandfather-DIR-FOC punishment take-AOR , others.and-ERG-FOC punishment take-AOR , but ,» say-AOR , « other.one province.in-INESS 1sg.gen mother-FOC still.be,.remain » say-AOR , « three brother-FOC still.be,.remain , two brother-FOC still.be,.remain » say-AOR .
+\l Then, the guy said, "Well, everything happened - Father was punished and others were punished. But my mother and two brothers are stll in the other province."
+
+\t « Им ичӀерна гьа пачагьдин винелай лагь хьи » лугьуда , « вакай я кицӀ хьурай , я вак хьурай ».
+\g « this pour-AOC-AOR that,.the.same king-DIR-GEN over-SPSS-INELAT say.IMP that » say-ENT , « 2sg-SBSS-EL or dog be.will-AOP , or pig be.will-AOP ».
+\l "Pour it out on the king and say 'May you be a dog, or may you be a pig!'"
+
+\t Мадни фена вич гьейетдал .
+\g more-FOC go-AOR himself yard.in-INESS-SPSS .
+\l He went to the courtyard again.
+
+\t Ибурузни жаза це » лагьана .
+\g they.to.also punishment order.IMPV » say-AOR .
+\l "They shall be punished, too" she said.
+
+\t Игирми уьч солдатдикай муьжуьд миллет авай чун , руссарни пара тир , муьжуьд миллет авай .
+\g twenty out.of soldier-PL out.of nation is-PTP 1pl.abs , russian-PL very was , out.of nation is-PTP .
+\l There were eight nationalities out of twenty three soldiers, many russians.
+
+\t « Гьуьлуьн кӀануз фин патакайни зун гьуьлуьн шивдихъ галаз ккӀана кӀанзава » лугьуда .
+\g « sea-OBL-GEN bottom.to-DAT go-MSD bottom-OBL-DAT 1sg.abs sea-OBL-GEN steed with bottom want-IMPF » say-ENT .
+\l "And to go to the bottom of the sea, I must fight with the Sea Steed.”
+
+\t И чӀехи ваха гъвечидаз лагьана : Чан вах , лагьана , ви палкан гьич , лагьана .
+\g this elder.sister sister small-DAT say-AOR : dear sister , say-AOR , 2sg.gen horse never , say-AOR .
+\l The elder sister said to the younger : "dear sister, your horse is nothing"
+
+\t стулар ахъайдай чилел , суфреярни , вири хуьруьн аялар фидай .
+\g table-PL open-PST-ENT table-PL , tablecloth-PL-LOC , all village-ERG-GEN child-PL go-INESS .
+\l they were serving tables on the ground [tablecloths?] and all the village children used to go there.
+
+\t Элкъведа чун и севрхъ , чагъун тавур чаз .
+\g turn-AOR 1pl.abs this bear , bear not.make.PRF.PTP-AOP 1pl.gen-DAT .
+\l We looked for this bear but could't find him.
+
+\t Жи ашкъини сад я , мугьубатни сад я .
+\g 1pl.gen love-ERG-SBSS-EL one or , love-PL-OBL one or .
+\l We are in love with each other
+
+\t Гьа~береда », лугьуда , « ам чукурда жемятди », лугьуда , « вун пачагь хкягъда » лугьуда .
+\g AT.THAT.TIME-INESS », say-ENT , « it time-LOC people-DIR », say-ENT , « 2sg.abs king choose.IMP-ENT » say-ENT .
+\l "At that time" she said "The people will chase it out and you will be chosen as king."
+
+\t Зун фенавай Дербентдиз
+\g 1sg.abs go-PERF-PTP Derbent.to-OBL-DAT
+\l I had gone to Derbent
+
+\t « АтӀутӀ ибурун кьилер » лагьана .
+\g « cut-IMPV their head-PL » say-AOR .
+\l “Cut off their heads!”
+
+\t Ша экеча чал , Безханум
+\g come come.out water-SPSS , Bezkhanum
+\l Come to the spring, Bezkhanum
+
+\t « Накьвар », лагьана , « за гъана муьтлег ви вилер сагъарна кӀанда », лагьана .
+\g « soil-AD-PL », say-AOR , « 1sg.ERG bring-AOR absolutely 2sg.gen eye-PL heal.AOC-PL-AOR want-FUT », say-AOR .
+\l "I must bring the soil and heal your eyes.” he said.
+
+\t Къулухъ хтанва чун летний лагердиз , иддихатиз .
+\g after return-PERF 1pl.abs summer camp-DIR-DAT , to.have.a.rest-INF .
+\l and returned back to the summer camp, to have a rest.
+
+\t Исабала акурла лагьана хьи за , « Исабала стха , кӀурцӀуларни хана лугьузва , вахчама зи кицӀ .
+\g Isabala seen-TEMP say-AOR that 1sg.ERG , « Isabala brother , puppy-PL-FOC be-AOR say-IMPF , return-IMP 1sg.gen dog .
+\l When I saw Isabala I told him: “Brother Isabala, I heard the dog gave birth to the puppies. Return me the dog, please.”
+
+\t Гьада мизан терезидив са пата эцигнава гьа инсан , мици патани – гьакъ , эдалет , дуьзвал , къенивал , михьивал .
+\g she scale scale-LOC one plate put.IMPV-PERF that man , another side.on-FOC – just , justice , scale , scale-ERG , another .
+\l She puts a person on the one plate of that scale and truth, justice, uprightness, purity on the another plate.
+
+\t Идани авудна руш алцурарна вичин кӀвализ тухурла и руш катда идан гъиляй .
+\g her-FOC take.down-AOC girl deceiving.AOC her house-OBL-DAT when.taking.TEMP this girl ran.ENT his arm.from .
+\l But when he disembarked her, deceived her, and was taking her to his house, the girl ran away from him.
+
+\t Катана чна сада пенжере , акъатна инал , къазах тир
+\g come-AOR 1pl.erg one-ERG window , appearance-AOR here-SPSS , kazakh was
+\l We knocked a door and a kazakh man came out of the home
+
+\t « Эвера », лагьана , « и гада къенин къалай жеда пачагь , зунни адан свас .»
+\g « call-ERG », say-AOR , « this boy today-GEN-ERG-GEN day.from be-FUT king , 1sg.abs-AND he-GEN wife .»
+\l "Call the guy. From now on he will be the king and I will be his wife."
+
+\t Эгьтибарсуз , вефасуз .
+\g unfaithful , untrusted .
+\l unfaithful,  untrusted
+
