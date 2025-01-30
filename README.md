@@ -1,5 +1,7 @@
 # glossing-project
 
+Final results reported here are located in the "finals" directory.
+
 This code is provided primarily for documentary purposes. To use it, you will need an environment with langchain 0.1.15 and an OpenAI API key.
 
 We assume that the SIGMORPHON challenge glossing data is located at 2023glossingST-main (clone from https://github.com/sigmorphon/2023glossingST --- note that the spelling is different for some reason).
