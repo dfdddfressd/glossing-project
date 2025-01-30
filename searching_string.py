@@ -33,6 +33,26 @@ def readData(path):
 
     return sentences
 
+def readNyangbo(path):
+    with open(path, "r", encoding="utf-8") as file:
+        lines = file.read()
+        lines = lines.replace(r"\t", "")
+        lines = lines.replace(r"\m", "")
+        lines = lines.replace(r"\g", "")
+        lines = lines.replace(r"\l", "")
+        prompts = lines.split('\n')
+
+    sentences = []
+    current = []
+
+    for line in prompts:
+        current.append(line)
+        if len(current) == 3:
+            sentences.append([current[0], current[1], "", ""])
+            current = []
+
+    return sentences
+
 def lcsubstring(s1, s2):
     m = len(s1)
     n = len(s2)
@@ -50,6 +70,9 @@ def lcsubstring(s1, s2):
     return result
 
 def lcsubseq(s1, s2):
+    if len(s1) == 0 or len(s2) == 0:
+        return 0
+
     #https://stackoverflow.com/questions/48651891/longest-common-subsequence-in-python
     matrix = [["" for x in range(len(s2))] for x in range(len(s1))]
     for i in range(len(s1)):
@@ -569,7 +592,10 @@ class Information:
         langcode = files[0].split("-")[0]
         path = f"{glossDir}/data/{language}/{langcode}-{split}-track1-uncovered"
         self.language = language
-        self.sentences = readData(path)
+        if self.language == "Nyangbo":
+            self.sentences = readNyangbo(path)
+        else:
+            self.sentences = readData(path)
         self.wordToSentence = makeIndex(self.sentences)
         self.subToWord = makeApproxIndex(self.wordToSentence)
         self.wordToTags = makeWordToTagIndex(self.sentences)
